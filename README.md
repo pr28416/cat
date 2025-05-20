@@ -9,14 +9,25 @@ This project evaluates the utility of Large Language Models (LLMs) for assessing
 ├── ai/                      # AI integration utilities
 │   └── openai.py            # OpenAI API integration
 ├── data/                    # Data storage
-│   ├── cleaned/             # Cleaned real transcripts
-│   └── synthetic/           # Generated synthetic transcripts
+│   ├── cleaned/             # Cleaned real transcripts (for Exp 2, 3, 5)
+│   └── synthetic/           # Generated synthetic transcripts (for Exp 1)
 ├── experiments/             # Experiment code and resources
-│   ├── common/              # Shared utilities and resources
-│   └── exp1_baseline_utility/  # Experiment 1: Baseline Utility
-│       ├── prompts/         # Prompts for generation and evaluation
-│       ├── results/         # Results storage
-│       └── scripts/         # Experiment scripts
+│   ├── common/              # Shared utilities (rubric, enums, utils)
+│   ├── exp1_baseline_utility/  # Experiment 1: Baseline Utility
+│   │   ├── prompts/
+│   │   ├── results/
+│   │   └── scripts/
+│   ├── exp2_prompt_optimization/ # Experiment 2: Prompt Optimization
+│   │   └── ... (similar structure)
+│   ├── exp3_model_comparison/   # Experiment 3: LLM Architecture Comparison
+│   │   └── ...
+│   ├── exp4_reasoning_analysis/ # Experiment 4: Qualitative Reasoning Analysis
+│   │   └── ...
+│   ├── exp5_optimized_tool_validation/ # Experiment 5: Optimized Tool Validation
+│   │   └── ...
+│   └── README.md              # README for each experiment (planned)
+├── prd.md                   # Product Requirements Document
+├── requirements.txt         # Python dependencies
 └── README.md                # This file
 ```
 
@@ -39,13 +50,13 @@ OPENAI_BASE_URL=https://api.openai.com
 
 ## Experiment Status
 
-| Experiment   | Description                      | Status       |
-| ------------ | -------------------------------- | ------------ |
-| Experiment 1 | Baseline Utility Assessment      | Ready to run |
-| Experiment 2 | Real-world Transcript Evaluation | Planned      |
-| Experiment 3 | Human Comparison                 | Planned      |
-| Experiment 4 | Few-shot vs. Zero-shot Prompting | Planned      |
-| Experiment 5 | Patient Communication Profiling  | Planned      |
+| Experiment   | Description                                           | Status                                                                                                                                               |
+| ------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Experiment 1 | Baseline LLM-Rubric Utility & Synthetic Data Efficacy | Done (Results: [experiments/exp1_baseline_utility/results/experiment1_results.md](experiments/exp1_baseline_utility/results/experiment1_results.md)) |
+| Experiment 2 | Prompt Strategy Optimization                          | Planned                                                                                                                                              |
+| Experiment 3 | LLM Architecture Comparison                           | Planned                                                                                                                                              |
+| Experiment 4 | Qualitative Reasoning Analysis                        | Planned                                                                                                                                              |
+| Experiment 5 | Optimized Tool Validation                             | Planned                                                                                                                                              |
 
 ## Running Experiment 1: Baseline Utility Assessment
 
@@ -98,7 +109,7 @@ Each category is scored from 1 (Poor) to 4 (Excellent), resulting in a total sco
 
 Additional experiments will be implemented to evaluate:
 
-- Experiment 2: Real-world transcript evaluation
-- Experiment 3: Comparative assessment with human evaluators
-- Experiment 4: Few-shot vs. zero-shot prompting methods
-- Experiment 5: Patient communication profiling
+- Experiment 2: Prompt Strategy Optimization (Zero-shot, Few-shot, CoT)
+- Experiment 3: LLM Architecture Comparison (performance of different LLMs)
+- Experiment 4: Qualitative Reasoning Analysis (alignment with rubric, evidence citation)
+- Experiment 5: Optimized Tool Validation (reliability on unseen real transcripts, uncertainty quantification)
