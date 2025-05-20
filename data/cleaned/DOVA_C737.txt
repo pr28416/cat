@@ -1,0 +1,196 @@
+DOCTOR: PATIENT?
+PATIENT: Yes ma'am.  How are you today?
+DOCTOR: I'm good, how are you?
+PATIENT: Okay.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Really.  [REDACTED].
+PATIENT: You know what [REDACTED] a couple weeks ago I came in, I came into the hospital and I have like a stomach pain or something.
+DOCTOR: Uh-huh.
+PATIENT: And um this is from someone in Primary Care and DOCTOR, she suggested I get a course of action which I follow and it seems to resolve itself.  She said not to eat anything for 24 hours or a subsequent 24 hour period to be on a liquid diet.
+DOCTOR: Okay.
+PATIENT: She said to allow my colon and things to kind of relax.
+DOCTOR: Okay.
+PATIENT: At any rate that seems to have occurred and then this morning I woke up and I had an explosive case of diarrhea.
+DOCTOR: Uh-huh.
+PATIENT: And then you know what, sitting there waiting for you it occurred to me what happened to me and I know what I did.
+DOCTOR: What'd you do?
+PATIENT: I bought a brand new stove.
+DOCTOR: Uh-huh.
+PATIENT: And I had the stove put in on Thursday.
+DOCTOR: Uh-huh.
+PATIENT: And yesterday was the first time that I actually fried something in it.
+DOCTOR: Okay.
+PATIENT: And I fried some chicken.
+DOCTOR: Okay.
+PATIENT: And chicken fried too quickly and what I did was, I bit into that chicken and when I bit into a few parts, I realized after I saw I looked at the bone and everything, I realized that chicken wasn't done.
+DOCTOR: [REDACTED].
+PATIENT: It wasn't cooked right.  So what I did with the subsequent pieces that I made and I smothered them.
+DOCTOR: Okay.
+PATIENT: To make sure they were done but I think what gave me the stomach trauma was that piece of chicken that I ate.
+DOCTOR: Uh-huh.
+PATIENT: It wasn't done.
+DOCTOR: Okay.
+PATIENT: That can do it can't it?
+DOCTOR: Oh sure.
+PATIENT: Uh-huh and I think that's what it is.
+DOCTOR: Okay.  So [REDACTED] made this appointment is for this abdominal pain?
+PATIENT: That's right uh-huh.
+DOCTOR: And nothing else okay.  How long would that have been?
+PATIENT: Oh it started at 7:15 this morning.
+DOCTOR: Okay.  When did you eat the chicken though?
+PATIENT: Last night.
+DOCTOR: Okay.
+PATIENT: And I put some, took sedatives and went to sleep and slept through the night.
+DOCTOR: Okay.
+PATIENT: Okay and then when I woke up, I think that the [REDACTED] made me wake up.
+DOCTOR: Hmm.
+PATIENT: Okay.  I’m not trying to be the doctor.
+DOCTOR: Where is there abdominal pain?
+PATIENT: Just right here, lower abdomen.
+DOCTOR: And has it been constant in nature, is it constant?
+PATIENT: No, it's intermittent.
+DOCTOR: Okay.
+PATIENT: And that's what I was telling the nurse, it's a 4.
+DOCTOR: Okay.
+PATIENT: On the scale, moderate discomfort.
+DOCTOR: Uh-huh.  So when was the diarrhea?
+PATIENT: Diarrhea’s all gone as we speak.
+DOCTOR: How many times have you gone today?
+PATIENT: Six times today.  Now it's just kind of.
+DOCTOR: Did you [REDACTED] anything?
+PATIENT: Yes it is.  So there's nothing left in my stomach but when I went to the washroom it’s as if my bowels in terms of seizing.
+DOCTOR: Uh-huh.
+PATIENT: Yeah just as if they were seizing, but there isn't anything in there anymore that'll come out.
+DOCTOR: Okay.  No blood?
+PATIENT: No ma'am.
+DOCTOR: Okay.
+PATIENT: No ma'am.
+DOCTOR: Were you able to eat anything today?
+PATIENT: Uh I ate some oatmeal and toast.
+DOCTOR: How did that go?
+PATIENT: It went well.  But [REDACTED] drank a lot of [REDACTED] and water this morning.
+DOCTOR: Okay.
+PATIENT: Which is my standard regimen.
+DOCTOR: Okay.  How about nausea, vomiting?
+PATIENT: No.
+DOCTOR: Any new symptoms of chills?
+PATIENT: No.
+DOCTOR: Any fevers?
+PATIENT: Not that I know of no.  When she took my temperature it was 96.7.
+DOCTOR: Okay.  Any use of recreational drugs, marijuana, heroin, cocaine [REDACTED]
+PATIENT: About ten days ago I was highly depressed as the results of my uh prostate and I did have the lapse, okay but I believe it's all out of my system now.
+DOCTOR: Okay.  But have you taken anything now?
+PATIENT: No not since then no.
+DOCTOR: [REDACTED] what your prostate cancer?
+PATIENT: Relapse of my addiction [REDACTED].
+DOCTOR: Well you said that you.
+PATIENT: I had a relapse of my addiction with my recreational drugs.
+DOCTOR: Yeah you say you were depressed because of something.
+PATIENT: Yeah I was depressed because of the uh, it was a number of things.
+DOCTOR: Uh-huh.
+PATIENT: Something going on with my son and uh having problems with my prostate and then when I started taking the Prilosec and it resolved itself.
+DOCTOR: Hmm.
+PATIENT: And uh it's just a number of things okay.
+DOCTOR: So how long [REDACTED]
+PATIENT: Nine years, so I really felt bad after that.
+DOCTOR: After nine years, why did you decide to start using again?
+PATIENT: I didn't decide to use it.  It was just a spur of the moment thing. I was at a graduation party and.
+DOCTOR: Did you know it was there?
+PATIENT: It was there and I was there and [REDACTED].  So it really depressed me.  Cause I'm one of the reasons for this person does them sorts of things.
+DOCTOR: Uh-huh.
+PATIENT: Then along comes, [REDACTED] you know I have my fits of depression or paranoia, the guilt.
+DOCTOR: Uh-huh.
+PATIENT: There’s a saying in AA and I see now what they mean about it.  If there's not something or anything in the world doctor that a drink or a drug doesn’t make worse.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED] saying.
+DOCTOR: Uh-huh.
+PATIENT: You take a drink or a drug, to try and eliminate that feeling.
+DOCTOR: Uh-huh.
+PATIENT: It makes that feeling worse.
+DOCTOR: Yeah exactly.  Okay.  Okay do you have an appointment with your primary care doctor coming up soon?
+PATIENT: No.
+DOCTOR: You do not?  When was the last time you saw her?
+PATIENT: Eight months ago.
+DOCTOR: Okay.
+PATIENT: On my way out of the hospital I'm going to walk back over there okay because they said they would give me one cause I really need to see her or maybe you could help me.  I'd like to have a colonoscopy.
+DOCTOR: Colonoscopy?
+PATIENT: Colonoscopy right.
+DOCTOR: No I can set it up for you.
+PATIENT: I'd appreciate it very much.
+DOCTOR: Okay.
+PATIENT: Cause what I'm trying to do with respect to my health is act in a prophylactic manner.
+DOCTOR: Are you still going, undergoing therapy for your prostate cancer?
+PATIENT: No. I finished.  And my PSA is just wonderful.  0.0025, that's the number isn't it?
+DOCTOR: Uh-huh.  [REDACTED].
+PATIENT: [REDACTED] probably you don't.  People have, that's kind of a cancer.  What is the probability of the recurrence?
+DOCTOR: You know that's not my field at all.  You [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: When you see your urologist.
+PATIENT: Uh-huh.
+DOCTOR: You can ask him.  I don't want to give you the numbers, I'm not sure.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: And your area is internal medicine?
+DOCTOR: Yes internal medicine.  Deep breaths.  Okay [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Now you think this pain is getting better in your stomach?
+PATIENT: It's getting better [REDACTED].
+DOCTOR: Yeah, so just, you know just who did you see, [REDACTED] was it the nurse?
+PATIENT: Yeah, yeah.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Yeah just take it again you know uh.
+PATIENT: [REDACTED].
+DOCTOR: Yeah just, we'll call it the BRAT diet, crackers um.
+PATIENT: Uh-huh.  Some noodles?
+DOCTOR: Yeah things like that.  Things that are not too spicy.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: Well anyone who knows me thinks that I'm just renowned for a bland diet anyways.
+DOCTOR: You are.
+PATIENT: Yes uh-huh.  [REDACTED] oatmeal and a glass of water [REDACTED] stomach and my blood pressure 117 over [REDACTED].  That's how I can do it.
+DOCTOR: [REDACTED] you are 61 years old.  [REDACTED]
+PATIENT: Uh-huh.
+DOCTOR: I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  25:05  DOCTOR IN: 28:33)
+DOCTOR: Okay so uh they can make an appointment with your primary care doctor okay.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].  So a bland diet, [REDACTED].
+PATIENT: Yes [REDACTED].  And now that's going to reflect on what originated [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Uh-huh.
+DOCTOR: No problem so let's see, one to two months.
+PATIENT: Okay.  And I won't be seeing you anymore?
+DOCTOR: No.
+PATIENT: We're going to have a client divorce is that what it means?  Well thank you doctor you've been very helpful.
+DOCTOR: [REDACTED].
+PATIENT: And very professional.  Okay.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  Okay, okay, uh-huh.
+DOCTOR: I'm sorry.
+PATIENT: Okay.
+DOCTOR: Good, okay.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Okay bye bye.
+DOCTOR: Bye bye.
+PATIENT: Right there?
+DOCTOR: Yeah.
+PATIENT: Thank you very much.  You have a good day.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Okay, I'm going to go check out then.
+DOCTOR: [REDACTED].  Okay.
+PATIENT: 30:50
+Time is 3:10.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238112
+TRANSACTION # 578-10-2-316-0103

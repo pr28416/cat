@@ -1,0 +1,120 @@
+DOCTOR: PATIENT.
+PATIENT: Who?
+DOCTOR: PATIENT.
+PATIENT: Uh-huh.  Hi.
+DOCTOR: How you doing?
+PATIENT: Alright.
+DOCTOR: Is it still raining pretty hard out there?
+PATIENT: Huh?
+DOCTOR: Is it still raining pretty hard?
+PATIENT: Yeah.
+DOCTOR: How's everything going?
+PATIENT: Uh well I ran out of medicine.
+DOCTOR: Oh my.
+PATIENT: I ran out of gout medicine.
+DOCTOR: Okay.
+PATIENT: I couldn’t order it.  I told you before to put that thing in and then the magnesium I ran out of it, couldn't order it.
+DOCTOR: Hmm.  Well the gout medicine they only gave you nine pills.  They barely gave you any of the medicine when they gave it to you for the gout.
+PATIENT: They what?
+DOCTOR: They only gave you a few pills of the gout medicine when they did give it to you right?
+PATIENT: Uh-huh.
+DOCTOR: They didn't give you enough to last a month okay.  Hmm.  How about your insulin?  Did you need it?
+PATIENT: I've got insulin.
+DOCTOR: Okay.  And are you taking the vitamin D, that big pill once a week?
+PATIENT: Uh-huh.
+DOCTOR: You finished taking it?
+PATIENT: I got two left.  [REDACTED].  There’s some in there.  I got about two left.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright.  How's everything else going?  You're urinating okay?
+PATIENT: Uh-huh.
+DOCTOR: Are you having any gout attacks anywhere?
+PATIENT: Yeah, I have had yeah.
+DOCTOR: You have recently?
+PATIENT: Yeah.
+DOCTOR: Which joints do you have it in?
+PATIENT: It switches, it'd be in both of them, both feet.
+DOCTOR: In your feet.
+PATIENT: And then sometime it be in the toes.
+DOCTOR: Yeah.  Is it bad right now?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I used the medicine today though.
+DOCTOR: For your gout?
+PATIENT: Yeah.
+DOCTOR: Okay.  How often do you have to take that gout medicine?
+PATIENT: Well I don't know maybe, you can't tell.
+DOCTOR: Well I mean like in an average month, like last month how many times did you have to take it?
+PATIENT: About twice.
+DOCTOR: Okay.  Okay.  Okay.  Do you get any low sugars with this ever?
+PATIENT: Lotion?
+DOCTOR: Do you get any low sugars?  Does your sugar get low?
+PATIENT: Not too low.  I got the book; you want to see the book?
+DOCTOR: Sure.  And how much insulin do you use right now?
+PATIENT: 20 and 5.
+DOCTOR: Okay.  Yeah this is looking good.  I think these are great.
+PATIENT: Uh-huh.
+DOCTOR: So as long as your sugar is not getting too low, we won't need to change anything then.
+PATIENT: Okay.
+DOCTOR: Okay.  Okay and you don't smoke right?
+PATIENT: No.  You see, she's said I'm supposed to have a tetanus shot.
+DOCTOR: Yeah I was just gonna ask you that.  Do you know when your last tetanus shot was?
+PATIENT: I don't remember.
+DOCTOR: Okay.  Was it, you think in the last ten years?
+PATIENT: Yeah.
+DOCTOR: It was in the last ten years?
+PATIENT: Uh-huh.
+DOCTOR: Yeah okay.  Okay.  Well give me a few minutes I'm gonna go talk to DOCTOR so I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  11:54  DOCTOR IN:  22:09)
+DOCTOR: So you're saying you take the gout pills twice a month and you just take one pill twice a month?
+PATIENT: No.
+DOCTOR: Then what?
+PATIENT: They changed it back to three.
+DOCTOR: Okay.
+PATIENT: Three pills.
+DOCTOR: And that takes care of it when you have a gout attack?
+PATIENT: It supposed, come sometimes it cools it off.
+DOCTOR: Uh-huh.
+PATIENT: But it didn't stop it all the time.
+DOCTOR: Okay.  And have you ever been on a medicine that you take every day to help prevent gout attacks?
+PATIENT: No.
+DOCTOR: Um because there's a medicine called allopurinol that you can take one pill every day and it's supposed to help decrease the amount of uric acid in your body and uric acid is what causes gout attacks.
+PATIENT: Oh.
+DOCTOR: Would you like to start that pill to take to help prevent the gout attacks?  It’s one pill once a day and it helps your kidneys get rid of some of that extra uric acid in the body and that uric acid is what gets in your joints and can cause the gout flares.
+PATIENT: Yeah.
+DOCTOR: But it is one more pill you'd have to take every day.  It's not just the pill that you take when you have the gout attack.
+PATIENT: Uh-huh.
+DOCTOR: It something you take every single day.
+PATIENT: Okay, yeah.
+DOCTOR: Okay and you want to pick it up today?
+PATIENT: Yeah.
+DOCTOR: Alright.
+PATIENT: I want the magnesium.
+DOCTOR: And the magnesium also.
+PATIENT: Yeah.
+DOCTOR: Okay.  Are those the only ones you're gonna pick up today?
+PATIENT: Yeah.
+DOCTOR: Okay.  So let me do that first.  Okay so those medicines will be at the Pharmacy today.
+PATIENT: Okay.
+DOCTOR: And let me go through all your other medicines and make sure you have enough refills left so you can call for it.  Okay.  Okay so it'll be at the Pharmacy.
+PATIENT: Okay.
+DOCTOR: And you don't need the shot.  You don't need a tetanus shot because you had one in 2003.
+PATIENT: Okay oh.
+DOCTOR: Okay so you got the tetanus shot, just eight years ago and you don't need a booster.
+PATIENT: Okay, okay.
+DOCTOR: So you're gonna continue all your medicines and start this new one.  It's called allopurinol.
+PATIENT: Uh-huh.
+DOCTOR: Just one pill once a day.
+PATIENT: Alright, okay, yeah.
+DOCTOR: Okay and then we're gonna have you come back and see the pharmacist in a couple of months.
+PATIENT: Okay.
+DOCTOR: They’ll mail you [REDACTED].
+PATIENT: Okay, okay.
+DOCTOR: Alright, take care.
+PATIENT: Yeah alright, yeah.
+PATIENT: 28:00
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286151
+TRANSACTION # 578-10-2-316-0103

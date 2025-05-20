@@ -1,0 +1,105 @@
+DOCTOR: What brings you in?
+PATIENT: So yeah, I've just been having a cough for the last week and I think I had a little bit of a fever in the last few days.
+DOCTOR: OK, so you said the cough started a week ago?
+PATIENT: Yeah, around a week ago OK and the fever started two to three days ago. Yeah, I haven't really measured it, but like I definitely have been feeling chills.I've been wearing like multiple blankets over the last few days.
+DOCTOR: Ok, have you taken your temperature? You said you haven't taken your temperature right?
+PATIENT: No.
+DOCTOR: OK. So let's focus on the cough. Is it persistent or does it come and go?
+PATIENT: I think the cough is pretty persistent over the last week.
+DOCTOR: OK, and does it get worse with like cold air or dust? Like maybe pets or anything like that?
+PATIENT: No, I think it stays around the same.
+DOCTOR: OK, umm, does it get better with anything? Have you tried any over the counter cough syrup?
+PATIENT: Yes, I tried tylenol cold and liked it. I think it made it a bit better, like it helped me sleep. Other than that, during the day, it's still around the same.
+DOCTOR: OK, and how would you describe this cough? Is it barky? Is it harsh? Does it sound muffled?
+PATIENT: How I would say is that it's kind of like it's not too harsh. It's more like a wet cough. I'm definitely bringing up some some sputum.
+DOCTOR: OK, um, what color is the sputum?
+PATIENT: It's usually like a, uh like a white and sometimes like a little bit yellow as well.
+DOCTOR: OK, is it ever green or do you ever see blood in there?
+PATIENT: No, I haven't seen any of that.
+DOCTOR: OK. And have you ever had a cough like this before?
+PATIENT: Umm, yeah, probably like in the last year, maybe I have gotten sick like once and had a similar cough.
+DOCTOR: OK, do you have a sore throat?
+PATIENT: No, I don't have a sore throat.
+DOCTOR: Is this cough getting worse?
+PATIENT: It's, I think not really, it stayed around the same and I definitely feel a bit better with the tylenol cold.
+DOCTOR: OK, good. Any changes in your taste or smell?
+PATIENT: No, no changes.
+DOCTOR: OK, any changes in hearing or vision?
+PATIENT: Nope.
+DOCTOR: And did you have in the past week a runny or stuffy nose?
+PATIENT: No.
+DOCTOR: OK, any weight loss over the past month?
+PATIENT: Umm, no, not really.
+DOCTOR: How about changes in your hair, nails or skin like rashes?
+PATIENT: No, no changes to the skin.
+DOCTOR: OK, any shortness of breath?
+PATIENT: No, no.
+DOCTOR: How about wheezing?
+PATIENT: No, I don't think I've recently.
+DOCTOR: OK, chest pain?
+PATIENT: No chest pain.
+DOCTOR: How about swelling? Have you noticed any swelling in like your legs or arms or your belly area?
+PATIENT: No, I don't think so.
+DOCTOR: OK, how about you feeling like your heart's racing?
+PATIENT: No, no, nothing like that.
+DOCTOR: OK, how about a calf pain?
+PATIENT: No, no.
+DOCTOR: Any dizziness or fainting spells?
+PATIENT: No, nothing like that.
+DOCTOR: Headaches?
+PATIENT: No.
+DOCTOR: Confusion or memory loss?
+PATIENT: I don't think so.
+DOCTOR: Have your bowel movements been normal?
+PATIENT: Yeah, I like go three times a day and I don't have any diarrhea or anything.
+DOCTOR: OK, how about urinating wise?
+PATIENT: Everything normal there. Yeah, no trouble.
+DOCTOR: OK,nausea or vomiting?
+PATIENT: No.
+DOCTOR: Joint pain or muscle ache?
+PATIENT: No, I don't think so.
+DOCTOR: OK. Any Contacts with sick people around you recently?
+PATIENT: My wife was actually just sick last week, but she recovered. She did have a fever for one of the days and she also had a cough.
+DOCTOR: OK, did she get it checked out in a clinic?
+PATIENT: No, I don't think so. She did get that COVID test done, but it came back negative and she didn't go to the doctor or anything. It kind of just went away on its own.
+DOCTOR: OK, any travel recently?
+PATIENT: No.
+DOCTOR: Are you otherwise healthy? Do you have any longstanding medical conditions?
+PATIENT: Just as a child. I had, probably in my teens, had my appendix removed, but nothing other than that.
+DOCTOR: OK. OK, no hospitalizations other than that too, right?
+PATIENT: No, No.
+DOCTOR: Are you on any medications?
+PATIENT: No, I just take some multi vitamins.
+DOCTOR: OK, and are you up to date with all your immunizations?
+PATIENT: Yeah, as far as I know.
+DOCTOR: OK, how about allergies?
+PATIENT: I do have like some, I get some runny nose around spring time probably I think I'm allergic to pollen.
+DOCTOR: OK. And any family history of lung conditions?
+PATIENT: No, not that I know.
+DOCTOR: How about heart conditions?
+PATIENT: No, I think my father has high blood pressure if that's like a heart condition.
+DOCTOR: OK, sure. And how old was he when he got that?
+PATIENT: He's around like 60s right now, so probably like in his 40s.
+DOCTOR: OK. Any cancers in the family?
+PATIENT: I do have an aunt on my mother's side who had ovarian cancer.
+DOCTOR: OK, how old was she when she was diagnosed with ovarian cancer?
+PATIENT: I think probably in her 50s.
+DOCTOR: OK, and do you smoke?
+PATIENT: No, I don't smoke.
+DOCTOR: How about marijuana?
+PATIENT: Marijuana just maybe like one or two joints in a month, just when I'm feeling that I need to relax a little.
+DOCTOR: OK, sure and by joint, you said once a month right?
+PATIENT: Yeah, once per month.
+DOCTOR: OK, any other drugs?
+PATIENT: No, no other drugs.
+DOCTOR: And where do you live right now?
+PATIENT: I live in London right now. I live with my wife in an apartment.
+DOCTOR: OK, any reasons to think you have old carpet mold or asbestos?
+PATIENT: No, it's a fairly new apartment.
+DOCTOR: OK, and well those are all the questions that I had for you today. Did you have any questions for me?
+PATIENT: You don't think it could be COVID right? Like my wife got tested and it was negative.
+DOCTOR: Are you concerned about that?
+PATIENT: Yeah, for sure.
+DOCTOR: Honestly, some of your symptoms do seem to be overlapping with that of COVID, especially the cough and fever. So we are going to do a COVID swab just to rule that out. So you will get those results in 24 to 48 hours and you should isolate for 14 days because your symptoms overlap. Public health will be in touch with you if it's positive just to do some contact tracing. But if it's not COVID, it could be another viral infection that's going around at this time of year so keep an eye on your symptoms. If they become worse, or if you're experiencing symptoms like neurological deficits or weakness or seizures or anything like that, get help from the ER right away and if your symptoms are persisting beyond like seven days to 10 days, also you should give us a call back to see what's going on because it could be something like a bacterial infection, in which case we can give you some antibiotics. Does that sound OK?
+PATIENT: OK, great. Thank you.
+DOCTOR: Thank you.

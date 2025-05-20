@@ -1,0 +1,463 @@
+PATIENT: Thank you ma'am.
+DOCTOR: You're welcome sir.
+PATIENT: I needed to get my medicines.  I called and told you I running [REDACTED].
+DOCTOR: Oh that's fine.
+PATIENT: You know that's the last word on DOCTOR from [REDACTED].  That girl weaves a tread [REDACTED].
+DOCTOR: [REDACTED].  You can come in and have a seat [REDACTED].
+PATIENT: That's fine.  [REDACTED].  I got a pinched nerve in my back or something.  Oh.
+DOCTOR: How you doing today?
+SECOND PERSON K902
+Good, good, how are you?
+PATIENT: Talking to me?
+DOCTOR: Yes.
+PATIENT: I'm uh, hey doc, my first question here, I can get uh it's like my tongue is so dry at night that I can't sleep.  I'm up all morning cause my tongue is like leather.
+DOCTOR: Uh-huh.  How long has that been going on?
+PATIENT: Well like uh three weeks and my nose, you know I would like to find out what medicine is causing this dry mouth cause this I can't handle it no more.
+DOCTOR: What medicines are you taking now?
+PATIENT: I'm taking, the only thing I'm taking right now is my high blood pressure medicine, I don't know the name of it, I'm taking my uh nasal pill, I think that's what's doing it.
+DOCTOR: Uh-huh.
+PATIENT: Uh my Bayer aspirin and my stomach omeprazole I'm taking that for my stomach.  Them are the only four medicines that I'm taking.
+DOCTOR: You're taking amlodipine, loratadine for your allergies?
+PATIENT: Yes ma'am.
+DOCTOR: Omeprazole.
+PATIENT: That's for my stomach.
+DOCTOR: And the nasal spray.
+PATIENT: Yes.
+DOCTOR: Okay um and then.
+PATIENT: I wonder about.
+DOCTOR: Were you on clonazepam and things like that before?
+PATIENT: What's clonazepam?
+DOCTOR: Clonazepam for, you see the psychiatrist right?
+PATIENT: Yes, yes, yes ma'am.  Yes ma'am.
+DOCTOR: And you're not taking any of those medications?
+PATIENT: Not, no ma'am not right now cause I got to find out what is making my tongue so dry, it is killing me.  I can't taste food no more, I think I brush my teeth twice a day so my tongue won't go dry on me but at nighttime; it is terrible.  So I just stopped them, I'm down to four pills, four that I told you.
+DOCTOR: Uh-huh.
+PATIENT: Bayer aspirin, uh the high blood pressure, usually it's the mental health medicine that makes my tongue but I'm not taking it any more for [REDACTED].
+DOCTOR: Why aren't you taking it?
+PATIENT: Because uh I got a release to go back to work so I'm [REDACTED] my ADHD medicine, that's the one I take.  I don't take the, I'm up to five medicines.  I take the [REDACTED] medicine.
+DOCTOR: The ADHD medicine?
+PATIENT: Thank you.  I take that, high blood pressure, Bayer aspirin, the stomach medicine and the nasal medicine, something is drying my tongue up.
+DOCTOR: Do you know what medicine that is?
+PATIENT: For which one yeah?
+DOCTOR: The ADHD medicine.
+PATIENT: It's from DOCTOR uh 1 1/2 pills a day, he say the name, it's not Ritalin so no ma'am I don't remember the name [REDACTED].  But I thought it would be in the computer.
+DOCTOR: Uh-huh.
+PATIENT: My I don't even have no [REDACTED] what my medications are.
+DOCTOR: Okay so I think the last time you were seen in this clinic was in August of last year.
+PATIENT: Yeah.
+DOCTOR: Does that sound about right?  Or you saw DOCTOR.
+PATIENT: Yeah.
+DOCTOR: In September. So before that when you were seeing residents.
+PATIENT: Yeah.
+DOCTOR: It's been a while right?
+PATIENT: Yes ma'am.
+DOCTOR: Okay.  Are you taking your potassium?
+PATIENT: No ma'am.
+DOCTOR: Okay.  When was the last time you used cocaine?
+PATIENT: About six, I want to say six months.  Might have been cause I was [REDACTED].
+DOCTOR: So it was back, what did you say?
+PATIENT: Uh I don't want to lie to you like I been thinking like six months ago.
+DOCTOR: Uh-huh.
+PATIENT: But I don't quote me, it's been some time I want to say four months or six months but I think it was six months.  I don't know [REDACTED] living that area, so [REDACTED].
+DOCTOR: Okay and you took your blood pressure medicine this morning?
+PATIENT: No I didn't take it this morning because I want to see, I got to find out, I'm gonna narrow it down, I'm gonna go down to three medicines to find out what's making my tongue.
+DOCTOR: How, long did you say this has been going on?
+PATIENT: Like uh it started off two weeks ago and now it's just reached its peak.
+DOCTOR: The dryness is what bothers you or is?
+PATIENT: Right cause I can't sleep cause it's so dry at night.  It feels like something's in my mouth like a rag and it wakes me up.
+DOCTOR: Okay.
+PATIENT: I [REDACTED].
+DOCTOR: And you don't have, you lost your taste?
+PATIENT: Yes I don't have any taste for my food.
+DOCTOR: Okay um any trouble swallowing?
+PATIENT: No.
+DOCTOR: Any soreness at all?
+PATIENT: No.
+DOCTOR: Any coughs?
+PATIENT: Yes.
+DOCTOR: What are you coughing up?
+PATIENT: In the morning I cough up mucous.
+DOCTOR: What color is it?
+PATIENT: Oh it's [REDACTED] color but it has some blood in it, that's for sure and uh it be whatever Koolaid I drink because I keep drinking Koolaid [REDACTED] tongue [REDACTED] throat [REDACTED] but I had blood; the spit has blood in it.
+DOCTOR: Actual blood or Kool-Aid.
+PATIENT: Blood.
+DOCTOR: How long have you been having blood in it?
+PATIENT: About two weeks.
+DOCTOR: It's yellow with bits of blood in it?
+PATIENT: Yes ma'am.  [REDACTED].
+DOCTOR: Um [REDACTED] short of breath.
+PATIENT: Yes ma'am.
+DOCTOR: And have you ever had blood in your cough [REDACTED]?
+PATIENT: No ma'am.
+DOCTOR: Okay but you're not coughing up large amounts of blood.
+PATIENT: No ma'am.
+DOCTOR: Okay.  Alright tell me about your [REDACTED].
+PATIENT: I been smoking since I was [REDACTED] years old.
+DOCTOR: Uh-huh.
+PATIENT: That's uh, I'm 45 and change right now.
+DOCTOR: How much do you smoke?
+PATIENT: A pack lasts for two days.
+DOCTOR: Do you drink alcohol?
+PATIENT: Yeah sometimes like I drink just like a beer every once a week or something like that.
+DOCTOR: Any IV drug use?
+PATIENT: No.
+DOCTOR: Okay and you live at home with who?
+PATIENT: My roommate and her daughter who just called me to pick her up at school.
+DOCTOR: Okay and what other medical problems do you have?
+PATIENT: Okay I was in the war and I hate to say this one, I need a doctor.  I'm having problems with my.
+DOCTOR: Sorry I mean what type medical problems, we’ll go through all your complaints, but all the things you've been treated for.  You have high blood pressure.
+PATIENT: Oh, yeah my cholesterol and some type of [REDACTED] plasma pills.
+DOCTOR: What does that mean?
+PATIENT: I don't know.
+DOCTOR: Plasma pills?
+PATIENT: Yeah, potassium pills.
+DOCTOR: Potassium.
+PATIENT: Um.
+DOCTOR: But that's all?  You did a stress test in the hospital?
+PATIENT: Yes and everything turned out good.
+DOCTOR: Okay.  You were having chest pain then?
+PATIENT: Yes ma'am but I ain't had nothing since.
+DOCTOR: Okay um anything else that you've taken medicines for in the past?
+PATIENT: Cholesterol, high blood pressure, um that's it um.
+DOCTOR: Are you on medicine for cholesterol right now?
+PATIENT: No ma'am.
+DOCTOR: Did you eat this morning?
+PATIENT: Yes ma'am.
+DOCTOR: Were you previously on medication?
+PATIENT: Yes ma'am.
+DOCTOR: And your cholesterol is high, why'd you stop taking the medication?
+PATIENT: They stopped it cause they were trying to find something to control my high blood pressure.
+DOCTOR: Okay.
+PATIENT: So uh that was more important than the cholesterol I guess.  But I know I need to [REDACTED] my cholesterol again.
+DOCTOR: Any fevers or chills?
+PATIENT: No ma'am.
+DOCTOR: Any chest pains?
+PATIENT: No ma'am.
+DOCTOR: Any trouble breathing?
+PATIENT: No ma'am.
+DOCTOR: Any nausea, vomiting, blood in your stool?  Black stool?
+PATIENT: Uh uh.
+DOCTOR: Anything run in your family?  Anyone with cancer?
+PATIENT: Prostate.
+DOCTOR: Prostate what?
+PATIENT: Cancer.
+DOCTOR: How old?
+PATIENT: I think it was my uncle and my dad; they were like in their 60s.
+DOCTOR: Any problems urinating?
+PATIENT: No ma'am.
+DOCTOR: Any blood in your urine or pain with urination?
+PATIENT: No ma'am.
+DOCTOR: Any rashes on the skin?
+PATIENT: No ma'am.
+DOCTOR: Okay and you were telling me there’s another problem you wanted to talk to me about.
+PATIENT: Yes.
+DOCTOR: What's going on?
+PATIENT: My scrotum.
+DOCTOR: Uh-huh.
+PATIENT: Um maybe say five [REDACTED] ago, I had to go to the washroom and one of man's, you know men's got those two things down there you know.
+DOCTOR: Uh-huh.
+PATIENT: One swole up, both of them swole up the size, like both of them were sitting in your hand.  I don't know what the name is but that area was so sensitive to the touch you could not touch it.  But it ain't swole up but it's the same pain I mean literally.  Feels like it's just pulling on something it really hurting.
+DOCTOR: Uh-huh.  And how long has this been going on?
+PATIENT: Uh I'd say a month.
+DOCTOR: Is it getting worse?
+PATIENT: Yes ma'am, yes ma'am.  I could actually even [REDACTED]. Oh, it hurts.
+DOCTOR: And it's still the pain like before?
+PATIENT: It's I don't know if I ever went to the VA for that.
+DOCTOR: You did.
+PATIENT: Did I really?
+DOCTOR: Uh-huh.
+PATIENT: Then you should see in the record, I swole up and I swole up this time.  They did it for every test from HIV to gonorrhea, nothing [REDACTED] with any disease but something's wrong down there.
+DOCTOR: Have you seen the urologist in the past?
+PATIENT: A urologist? What would they do, ma’am?
+DOCTOR: Yeah it looks like you did in 2008.  You were admitted to the hospital because of the pain.
+PATIENT: Yes ma'am, [REDACTED].
+DOCTOR: Okay.  You don't have any discharge, no [REDACTED] discharge?
+PATIENT: No ma'am.
+DOCTOR: The swelling, is it on both sides?
+PATIENT: Yes ma'am.
+DOCTOR: Okay and you're sexually active right now?
+PATIENT: No.
+DOCTOR: When was the last time you had sex?
+PATIENT: Oh wow, probably two months ago.
+DOCTOR: Do you use protection?
+PATIENT: Yes.
+DOCTOR: Okay.  The last time they put you on antibiotics for a month.
+PATIENT: Is that what they did for me, cause [REDACTED] right.  No did they put me in the hospital first?
+DOCTOR: Uh uh.  They [REDACTED] gave you IV antibiotics and then okay, so the the same thing that happened then.
+PATIENT: Yes ma'am but then I swole and these just hurt like crazy.  [REDACTED].
+DOCTOR: You said it was swollen this time too.
+PATIENT: No, no, it's just a little bit of swelling but they was swelled to the size of your hand, that I do not have.  Right now it's so sensitive when I touch one of them.
+DOCTOR: So now it's just pain, no swelling?
+PATIENT: Yes ma'am.
+DOCTOR: And this has been going on for a month?
+PATIENT: Yes ma'am.
+DOCTOR: It's on both sides.
+PATIENT: Yes ma'am.
+DOCTOR: Did you hurt yourself?  Were you doing anything that caused an injury?
+PATIENT: You know what I was being [REDACTED] you know I had what you call a [REDACTED] hernia operation at age 17.
+DOCTOR: Uh-huh.
+PATIENT: I was martial artist and a boxer so I got hit in the stomach a lot.  I think it's unusual how long they hang in the scrotum sack.  That's what I think, but other than that I don't know.  I [REDACTED] a lot, uh I lift weights you know and all that, everything like that to keep [REDACTED].  I don't know why this happens, it happens like every two years or something.
+DOCTOR: Uh-huh.
+PATIENT: I'm just glad they didn't swell up this time.  [REDACTED] a long time [REDACTED].
+DOCTOR: So also, back to your cough and you're coughing.  Do you think it's something more on the back of your throat or is it coming from your lungs?
+PATIENT: My lungs.  It's like a nasal drip that goes down and in the morning time I had to cough it all up you know.
+DOCTOR: Okay and did you, were you supposed to follow up with the urologist?
+PATIENT: Not that I know of ma'am.
+DOCTOR: This was a while ago, it was in 2008.
+PATIENT: Right [REDACTED].
+DOCTOR: I think you saw them; you went back a couple of times after that.
+PATIENT: Okay I [REDACTED] knee [REDACTED] reason.
+DOCTOR: That was in 2008 also.
+PATIENT: Cause the other knee is doing the same thing, so I need to see another [REDACTED].
+DOCTOR: What's going on?
+PATIENT: Oh my God, when it rains it hurts like crazy, swells up and the napropean, they gave me naproprian.
+DOCTOR: Naproxen?
+PATIENT: Yeah, yeah that, it does ease the pain so I had a couple of those I had left.  I don't have no more now, um I think it might need to be scraped like the other one was, it really hurts, it continues to pop a lot.  It just swells up I mean.
+DOCTOR: [REDACTED].
+PATIENT: Yes they gave [REDACTED] it works great, this one right here [REDACTED].  Well it's the same thing as this one.
+DOCTOR: Okay.
+PATIENT: But you know all in all, all I care about is getting this dry taste out of my mouth.
+DOCTOR: Okay.
+PATIENT: Can you find [REDACTED]
+DOCTOR: Why don't you have a seat here I'm going to retake your blood pressure first.
+PATIENT: Yeah I think it's been coming down.  [REDACTED].  Are you still in school?
+DOCTOR: No, I'm doing my residency here.
+PATIENT: Oh I see.  [REDACTED].  (Patient gets a phone call and answers it)
+DOCTOR: Take a deep breath.
+PATIENT: [REDACTED].
+DOCTOR: It's 159/96, still high.
+PATIENT: Hmm.
+DOCTOR: You feel like your heart’s racing?  You do?
+PATIENT: Yeah I can tell.
+DOCTOR: It happens all the time?
+PATIENT: Yeah.
+DOCTOR: Happens while you're sitting?
+PATIENT: Yeah if I move around too fast and that's they got me on ADHD medicine that's really really helping me.
+DOCTOR: But you didn’t take any.
+PATIENT: No I didn't take it today.  So I didn't take it for the last week cause I'm trying to find out what's making my tongue numb.
+DOCTOR: Okay.  Do you remember what it was that you were given?
+PATIENT: [REDACTED].
+DOCTOR: Can you open your mouth?
+PATIENT: My tongue is super dry.
+DOCTOR: Open your mouth for me okay you can close it.  No belly pain.  You said no pain with urination.
+PATIENT: No ma'am.
+DOCTOR: How bad is your scrotal pain, I'm gonna have to take a look.
+PATIENT: Where oh, I would say a 9 now.
+DOCTOR: And this is how bad it was before?
+PATIENT: Oh no before it swole up it's like a 12, its unbelievable pain.
+DOCTOR: So on a scale of one to ten.
+PATIENT: Right now probably a nine.
+DOCTOR: Okay.
+PATIENT: Yeah it hurts too much to touch it.
+DOCTOR: Okay, I'm gonna take a look.
+PATIENT: Uh, see I get pain I mean you could feel it [REDACTED].
+DOCTOR: All of the time?
+PATIENT: Yes you could feel a cord in there.  You know what is that doing like?
+DOCTOR: And it hurts, all of this right here?
+PATIENT: Hmm, yes ma'am.
+DOCTOR: But there's never any discharge?
+PATIENT: No ma'am.  (Patient's cell phone rings and he answers it)
+DOCTOR: You can go ahead and have a seat over there.  And as far as how it looks, it looks how it did before?
+PATIENT: No ma'am cause now one ball swelled up the size of your hand.
+DOCTOR: Right but I'm saying it's not swollen so before I mean.
+PATIENT: You know it's a little swollen.
+DOCTOR: Is it how it always looks?
+PATIENT: Yes ma'am, they became [REDACTED] down there.
+DOCTOR: I know that's how the look of it hasn't changed it's just pain now.
+PATIENT: Yes ma'am.
+DOCTOR: That's what I'm asking.
+PATIENT: Yes ma'am.
+DOCTOR: Okay.
+PATIENT: Yes ma'am.  Uh [REDACTED].
+DOCTOR: Was it aripiprazole?
+PATIENT: No ma'am that is instead of four times a day, four half time a day, four pills a day uh.
+DOCTOR: [REDACTED].
+PATIENT: Yes, yes ma'am so but I stopped taking that like uh two weeks ago when my tongue first started to get dry.  Now it's gone from dry to extreme dry you know and I stopped taking everything all except four pills.  [REDACTED] super dry.
+DOCTOR: Can you sit back [REDACTED]@ pain or anything.  What is your hernia, you can lay back.
+PATIENT: Whoa, my hernia, it's all the way across from here.
+DOCTOR: Any pain here?  No and not on this side, that's not painful?
+PATIENT: No.
+DOCTOR: Okay, okay.  Alright you can sit up.  I'm gonna go talk to DOCTOR and I'll be back okay.
+PATIENT: He uh.
+DOCTOR: The main things are the dry mouth, the pain and then your knee pain right?
+PATIENT: Yes ma'am but I like more [REDACTED] if you could just solve that dry mouth.  I'm telling you it’s terrible ma'am.
+DOCTOR: Okay.
+PATIENT: It is terrible.
+DOCTOR: Alright.  I'm gonna talk to DOCTOR.
+(DOCTOR OUT:  27:35  DOCTOR IN:  37:57)
+DOCTOR: Okay, we'll do a couple of things.  We're going to start you on a new medication.
+PATIENT: What?
+DOCTOR: For your blood pressure and to help your heart rate too.  Um and we looked to try to see what could be causing this dry mouth and we think that the most likely cause is probably the loratadine medication.
+PATIENT: For my sinus?
+DOCTOR: Yeah.
+PATIENT: I think so too, I was gonna say can we change it back to Sudafed or Claritin.  I think [REDACTED].
+DOCTOR: Well let's try you off of, cause those medications do that so let's try you off of it and see how you do.
+PATIENT: And then I'm gonna be stopped up all night.
+DOCTOR: We'll see though cause I mean if it's causing you this much pain, or this much you know trouble.
+PATIENT: [REDACTED].
+DOCTOR: Let's just hold off on the medication right now.
+PATIENT: Alright.
+DOCTOR: Okay.  Um so that's one thing.  So this new medication I'm starting is called metoprolol.
+PATIENT: Uh-huh.
+DOCTOR: Okay and it's for your blood pressure and for your heart rate okay.  And the other thing is I'm gonna treat you like you have an infection down there um and give you ciprofloxacin, that’s what you got the last time.
+PATIENT: What is that, an antibiotic?
+DOCTOR: An antibiotic.
+PATIENT: Alright um it was like a [REDACTED] before that you know [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I want to know if that's normal cause I don't think that's normal.
+DOCTOR: Okay um it feels like it's inflamed.
+PATIENT: Oh that just don't feel normal.
+DOCTOR: Uh-huh.
+PATIENT: I ain't never [REDACTED].
+DOCTOR: Sure.
+PATIENT: I just wanted the doctors to see.  I don't think that's normal.
+DOCTOR: Okay.  Do you want DOCTOR to come in?
+PATIENT: No, no [REDACTED] but you know ain't got a pair so you don't know what's.
+DOCTOR: Sure I can have him come take a look just to make sure, would you feel more comfortable with that?
+PATIENT: No.
+DOCTOR: I'm not; if you want me to I can have him see you.
+PATIENT: Well yeah, alright, thank you.  It hurts.
+(DOCTOR OUT:  40:03  DOCTOR IN:  40:20)
+DOCTOR: Hey.
+PATIENT: Hey DOCTOR how you doing?
+DOCTOR: What's going on?
+PATIENT: I was [REDACTED].  The swelling is actually gone but I just worry here, maybe when you go holding that.
+DOCTOR: I've got the magic touch?
+PATIENT: Yeah, yeah, see if it's normal cause I don't think it’s normal doc.
+DOCTOR: Oh well I don't think anybody here has called it normal.
+PATIENT: Right.
+DOCTOR: We think you've got epididymitis and we're gonna treat you with an antibiotic.
+PATIENT: What is that?
+DOCTOR: Epididymitis just means an infection where part of the scrotum is.
+PATIENT: And this happens almost every two years like clockwork.
+DOCTOR: Yeah, yeah.  Well, we’ll calm this down down, you know we could possibly have you seen by the prostate and the penis and the epididymis specialists.
+PATIENT: Alright.
+DOCTOR: To see if there's anything we can do to prevent it from occurring again but.
+PATIENT: But man it hurts, especially when I sit.
+DOCTOR: And I get it.
+PATIENT: Its back up [REDACTED].
+DOCTOR: And you're talking about?
+PATIENT: I'm talking about this one.  It's like a [REDACTED] in there.
+DOCTOR: Uh-huh.
+PATIENT: And it don't feel like it's supposed to be in there doc.
+DOCTOR: Let me know if I'm really hurting you, if I'm really hurting you.
+PATIENT: Uh.
+DOCTOR: Right up there?
+PATIENT: Um no.
+DOCTOR: It just right there.
+PATIENT: You feel that [REDACTED].
+DOCTOR: All that anatomically it's all correct.
+PATIENT: Okay.
+DOCTOR: But you actually have the pain exactly where you have the inflammation in the epididymis.
+PATIENT: Oh really.
+DOCTOR: That's like a kind of string area that runs up right above your testicle.
+PATIENT: I knew when I was here I had four balls, I mean four testicles.
+DOCTOR: You had four testicles?  Good God.
+PATIENT: And nobody believed me.  My mother thought I, how do you explain [REDACTED] watching you.
+DOCTOR: Yes.
+PATIENT: Weight lifts and one time [REDACTED] two balls and dropped two testicles, you actually have four testicles, did you know that?
+DOCTOR: I didn't know that.
+PATIENT: Yeah.
+DOCTOR: I think I would.
+PATIENT: You got two up here and they would drop down so they cut me from here to here.  I don't know if they took it out or I was 17years old, but I was originally given four and as I get older I got more problems with my scrotum sac.
+DOCTOR: Yeah.
+PATIENT: And is they supposed to hang that low?
+DOCTOR: Yeah, that's normal.
+PATIENT: Okay.
+DOCTOR: Yeah so we'll get you treated for that okay.
+PATIENT: Okay.  So you say you got a guy that specializes in that?
+DOCTOR: Uh-huh.
+DOCTOR: You saw him last time.
+PATIENT: Oh yeah.
+DOCTOR: So we're giving you basically the same treatment.
+PATIENT: Okay, so this is to dry it up or?
+DOCTOR: Yeah, [REDACTED] uh it's like if you want to get some relief you could elevate them you know if you're sitting down you put a towel up under there, that'll give you some relief.  It'll take probably three, four days for the antibiotics to fully kick in.
+PATIENT: I don't know, we'll see.
+DOCTOR: Do you remember the last time they treated you for like a month right?
+PATIENT: Actually they got me off work, I was in the hospital for two months when just one of them swole up, one of them balls swole up to the size of your own, this is [REDACTED] and the other swole up too and they was just humungous.  They put me in the hospital for two weeks for that.
+DOCTOR: I'm gonna give you an antibiotics and you're gonna take it for four weeks so yeah.
+DOCTOR: Yeah, make sure you've got it long enough.
+DOCTOR: [REDACTED].  Okay.
+PATIENT: So I can go back on my vitamins [REDACTED].  That I had a hernia but somehow they got the [REDACTED].
+DOCTOR: Here's my idea about vitamins, they don’t really do much for you, but they don't hurt you.  If you feel better when you take them God bless you.
+PATIENT: Oh really.
+DOCTOR: Yeah so if you want them we'll give them to you.
+PATIENT: Yes sir.
+DOCTOR: Do you want the medications to be mailed to you or do you want to pick it up here?
+DOCTOR: You want [REDACTED].
+DOCTOR: The antibiotics here but the rest of them?
+DOCTOR: Yeah here, but what about the rest of them.
+PATIENT: That's fine I'll just wait, I can wait for it.  I don't pick up my daughter until 3:30 so I can wait.
+DOCTOR: Okay, good.
+PATIENT: Okay so you say in a couple of days this will be gone huh?
+DOCTOR: It'll be better; it's be gone in about a week.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Okay thank you sir and [REDACTED].
+DOCTOR: Okay so you need to check, you need to go to the Lab today to get a couple labs checked your cholesterol and uh your urine, check that and then since you're telling me that you're having blood in your cough, you need to get a chest x-ray cause you're a smoker you're at risk for cancer.  I'm not saying that you have but we want to make sure.
+PATIENT: Right.
+DOCTOR: You're not having any weight loss are you?
+PATIENT: No actually I'm gaining weight.
+DOCTOR: Okay and then uh I'm gonna get an x-ray of your left knee and then send you to the Ortho doctors cause you want to get surgery right?
+PATIENT: Right, yeah I think I'm gonna need that same surgery on this one.
+DOCTOR: Does it hurt when I press here?
+PATIENT: No.
+DOCTOR: Can you push this leg out?
+PATIENT: Yeah but it feels like it gonna pop.  It's gonna pop [REDACTED].
+DOCTOR: Okay can you pick this up?
+PATIENT: Yes ma’am.
+DOCTOR: Okay.  Okay so I'm going to put all this in for you and you can actually head out um.
+PATIENT: Oh, I [REDACTED] that stress test, but you said everything was normal huh?
+DOCTOR: Uh-huh.
+PATIENT: Okay.  You'd think a man would know if that's normal or not but I ain't never, now you get a x-ray done [REDACTED].
+DOCTOR: I got it yep.  I am not worried I just want to make sure.
+PATIENT: [REDACTED].
+DOCTOR: That you feel comfortable.
+PATIENT: Oh that hurts.  [REDACTED] I think that sinus medicine is [REDACTED].
+DOCTOR: Okay so you can take this and you can actually check out so why don’t you go over to the Lab and then you know where X-Ray is right?
+PATIENT: Right.
+DOCTOR: You can get the x-ray, then you can come back and pick up your medicines okay.
+PATIENT: Okay so you, it’s a couple things, you want blood.
+DOCTOR: Uh-huh.  You know where the lab is?
+PATIENT: Right.
+DOCTOR: Check your cholesterol.
+PATIENT: Uh what do I do, do I take the plasma too, I mean potassium?
+DOCTOR: Potassium.
+PATIENT: Right.
+DOCTOR: Um you haven't had the medication that I'd be worried about it being low.
+PATIENT: Alright cool.
+DOCTOR: So I'm not going to recheck it right now okay.
+PATIENT: Yeah.
+DOCTOR: I think you were previously.  It had been just a little bit low in September but I'm not gonna recheck it now.
+PATIENT: Alright.
+DOCTOR: So Lab, X-Ray and then pick up your antibiotics.
+PATIENT: X-Ray, where do I go for x-ray.
+DOCTOR: Okay you need to sign out first okay.
+PATIENT: Alright.  So do you need to see me back here soon?
+DOCTOR: No, no, once you've done your labs you're done.
+PATIENT: So how do I know if everything's alright?
+DOCTOR: I'll call you, so I want to make sure I have your number.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: So you'll check out here and then you'll go to the Lab there and then X-Ray is all the way down the hall there.
+PATIENT: Third floor?
+DOCTOR: No the first one, all the way down the hall and then you'll pick up your medicine here okay.
+PATIENT: Alright my medicine will be ready?
+DOCTOR: It will be there by now but I would go get the labs done first.
+PATIENT: I go do the Lab first.
+DOCTOR: But check out right here.
+PATIENT: Right here.
+DOCTOR: And then get the labs, x-ray and then come back.
+PATIENT: Thank you.  Take care.
+PATIENT: 47:53
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300301
+TRANSACTION # 578-10-2-316-0103

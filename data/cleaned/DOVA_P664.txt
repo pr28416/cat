@@ -1,0 +1,461 @@
+DOCTOR: Come with me.
+PATIENT: Yes ma'am.
+DOCTOR: How are you?
+PATIENT: I am quite well.
+DOCTOR: Well that's good.
+PATIENT: Let's see your DOCTOR.
+DOCTOR: Yeah.  You've been out for a while, have a seat right here.
+PATIENT: I don't think we've met before.
+DOCTOR: No.
+PATIENT: And you're my primary physician uh DOCTOR.
+DOCTOR: Yeah I'm taking over her clinics.
+PATIENT: Yeah she's moved on.
+DOCTOR: Yeah she has.  How have you been?
+PATIENT: Uh I've gone through.
+DOCTOR: A lot.
+PATIENT: Near death and I feel very fit, especially for my age.
+DOCTOR: That's good.  Any issues at all?  Concerns?
+PATIENT: Yeah all kinds.
+DOCTOR: Like?
+PATIENT: Uh I'm primarily, this really has, it's best handled by uh DOCTOR in Oncology but I have a.
+DOCTOR: You saw them.
+PATIENT: Oh yeah.
+DOCTOR: Two weeks ago?
+PATIENT: Oh yeah, yeah I'm well cared for uh I had a colectomy back in June and was given uh two months of chemo.
+DOCTOR: Chemo.
+PATIENT: That.
+DOCTOR: Didn't go too well.
+PATIENT: Darn near killed me.
+DOCTOR: Okay.
+PATIENT: I didn't want to live that way uh and you know I outlasted it and I feel great and I'm only concerned with a return of the cancer and I have a colonoscopy scheduled.
+DOCTOR: Right.
+PATIENT: So it's under control.
+DOCTOR: Okay.  You could not, so how's your appetite been though?
+PATIENT: Uh good yes, very good.  And my alimentary canal, as far as I can tell is functioning very well considering I lost a third of the colon.
+DOCTOR: Okay.  So otherwise you think you're doing fine?
+PATIENT: Yes.  Thanks to you good folks at Hines and my wife.
+DOCTOR: That's great.  And for your weight I was looking through, it looks like its back to where it was before you started the chemo.
+PATIENT: No.  Oh uh yes.
+DOCTOR: How is your appetite?
+PATIENT: I uh, it, it's more than adequate.
+DOCTOR: Okay.
+PATIENT: Yeah, you know I.
+DOCTOR: Any recent fevers or like chills?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No.
+DOCTOR: Coughing up anything?
+PATIENT: No.  I have a persistent cough that I think is indicative of nothing other than bad habit.
+DOCTOR: Shortness of breath?
+PATIENT: No.  I'm back on my bicycle and trying to get my conditioning back.
+DOCTOR: So any symptoms of your heart?
+PATIENT: No.
+DOCTOR: Cause I know you had a procedure where they ablated.
+PATIENT: Yes, yeah.  Well I didn't know I needed an ablation.
+DOCTOR: Okay.
+PATIENT: Uh and I've had no what?
+DOCTOR: No leg swelling?  Any leg swelling?
+PATIENT: No, no, no.  Oh you know, well that was during uh the uh colon procedures and uh chemo I had a little.
+DOCTOR: Okay.
+PATIENT: But it's gone.
+DOCTOR: You're having regular bowel movements daily?
+PATIENT: Uh just about.  Yeah for all practical purposes I'm very regular.
+DOCTOR: Not any, has it been loose or constipation?
+PATIENT: Uh that concerns me.  It was uh not loose at all and suddenly it became much softer.
+DOCTOR: When?
+PATIENT: About six weeks ago and I have observed it and there seems to be nothing irregular.
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: No blood?
+PATIENT: No, no blood, no blackness but variation.
+DOCTOR: Okay.  You have a history of hypertension right?
+PATIENT: I have what?
+DOCTOR: Did they give you a list of your medicines?
+PATIENT: Yes I have it.
+DOCTOR: Let's go through that.
+PATIENT: Okay, I that's a good idea cause I'm not taking much of any of this.  Uh.
+DOCTOR: Are you taking the, this is your blood pressure medicine?
+PATIENT: No.
+DOCTOR: You're not.  I thought they told you to take it.  Remember when Cardiology saw you, you were taking 10 of it and they wanted you to decrease to 5.
+PATIENT: Oh wait a minute, no I take half a pill for cholesterol every night but that's not it, that's not it no.  No that's.  You know I'm not taking this and uh I think it's my negligence.
+DOCTOR: Okay.
+PATIENT: Uh I need to uh.
+DOCTOR: Let's see if there are any other ones that you're not taking.
+PATIENT: Start it.
+DOCTOR: You take a stool softener?
+PATIENT: No I don't need it.
+DOCTOR: This is probably before.  You're to take it before your colonoscopy.
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: Probably yeah.
+DOCTOR: Do you take this one?
+PATIENT: Uh.
+DOCTOR: It's a stool softener too.
+PATIENT: No, no.
+DOCTOR: It's to keep you more regular, no.
+PATIENT: No and I don't feel I need it.
+DOCTOR: Do you use eye drops?
+PATIENT: Yeah, oh, oh yes.  I use the eye drops every night religiously.
+DOCTOR: For?
+DOCTOR: Uh what do you call it, I'm having a senior moment.
+DOCTOR: Glaucoma?
+PATIENT: Uh yes.
+DOCTOR: Okay.  Um are you still taking Megace, Megace, Megestrol?  It's to help you help stimulate your appetite.
+PATIENT: No, don't need it.
+DOCTOR: [REDACTED].  So you're taking half a pill of this for your cholesterol.
+PATIENT: Yes.
+DOCTOR: So you're not taking lisinopril either.
+PATIENT: No.
+DOCTOR: And you're not taking any blood pressure medicine?
+PATIENT: No.
+DOCTOR: So DOCTOR, who saw you a couple of weeks ago.
+PATIENT: No, well he.
+DOCTOR: Told you to restart those medicines but you're not.
+PATIENT: Now wait a minute DOCTOR?
+DOCTOR: Yeah.
+PATIENT: I don't recall him telling me this.
+DOCTOR: You don't recall him telling you that?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Which is not to say he didn't.
+DOCTOR: Okay.
+PATIENT: But I, you know, I need to okay uh.
+DOCTOR: You're taking baby aspirin right?
+PATIENT: Nope.
+DOCTOR: Why not?
+PATIENT: Uh, a combination of forgetfulness and negligence.  I have to take the blame for that because if I was [REDACTED] to take it.
+DOCTOR: Do you have the pills at home?
+PATIENT: Yeah oh right.
+DOCTOR: Do you have like the.
+PATIENT: The baby aspirin?
+DOCTOR: No, no, no, you know like those um pill holders.
+PATIENT: Oh yes uh.
+DOCTOR: Where you can put in the medicines for days.
+PATIENT: I have been.
+DOCTOR: Would that help?
+PATIENT: Religious about that and I can, I need to pick it up again and I hereby promise to do so.  Alright now, that's a baby aspirin.
+DOCTOR: Uh-huh, 81.
+PATIENT: Oh yeah there it is yeah.
+DOCTOR: Uh-huh.  Are you taking the fish oil?
+PATIENT: Yes I take that regularly.
+DOCTOR: Do you take vitamin C?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I, if I were.
+DOCTOR: Do you take Calcitrate? The calcium pill?
+PATIENT: No.
+DOCTOR: Are you taking saw palmetto?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I will take vitamin C, because right or wrong I believe in it, if I think I'm coming down with a cold but I never get colds anymore at all.
+DOCTOR: Are you taking the magnesium?
+PATIENT: No.  Now I need to...
+DOCTOR: What do you need?
+PATIENT: Alright the amlodipine and.
+DOCTOR: Lisinopril.
+PATIENT: And lisinopril which I don't see on here at all.
+DOCTOR: Yeah that medicine is actually expired so I'll have to renew it.
+PATIENT: Oh okay.
+DOCTOR: So your blood pressure is.
+PATIENT: No, no.
+DOCTOR: 140-150s.
+PATIENT: That's high.
+DOCTOR: Yeah.
+PATIENT: So I should be taking that stuff.  I'm seeing DOCTOR, cardiologist after this appointment.
+DOCTOR: Uh-huh.  [REDACTED].
+PATIENT: Sure.
+DOCTOR: And I think the reason why the plan [REDACTED] for you to keep up on these medicines was to cut back on these medicines.
+PATIENT: Uh.
+DOCTOR: Was because during the time when you had the weight loss your blood pressure was low, you [REDACTED].  It looks like things are [REDACTED].
+PATIENT: Yes.
+DOCTOR: Okay.  Alright I need to just fill out; okay we have a series of questions the VA wants us to ask you guys okay?
+PATIENT: Oh I'm at your disposal with great appreciation.
+DOCTOR: You ate today right?
+PATIENT: Yes.
+DOCTOR: The only thing we probably have to check at some point is your cholesterol levels.
+PATIENT: Hmm.
+DOCTOR: So when is your next appointment?
+PATIENT: Oh boy.
+DOCTOR: And you see DOCTOR on the 31st oh.
+PATIENT: No I see him today.
+DOCTOR: Oh it's later today.
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: And then I come in in about a week.
+DOCTOR: Okay.
+PATIENT: I think.
+DOCTOR: You come in on April 6th?
+PATIENT: Yes.
+DOCTOR: I'll order that for April 6th.
+PATIENT: Oh.
+DOCTOR: Your cholesterol so make sure you don't eat before you come.
+PATIENT: Oh okay.
+DOCTOR: Okay.  So we can check your cholesterol and see if you need to.
+PATIENT: And I won't receive any other notice so you know this, this will be the only instructions I get.
+DOCTOR: Yeah.
+PATIENT: Okay, April 6th.
+DOCTOR: And you have your podiatry appointment.
+PATIENT: Yeah, yeah wait a minute there's something else uh than Podiatry, oh well.  Where do I go to have the cholesterol checked?
+DOCTOR: Oh you can get the labs done here.
+PATIENT: Downstairs, on the first floor?
+DOCTOR: You can have it done here.
+PATIENT: Yeah but on the first floor?
+DOCTOR: Uh-huh.
+PATIENT: Cause I don't go there anymore.  I always go to 9E and they take my blood for labs.
+DOCTOR: Okay.
+PATIENT: So I should have it done there.
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: No, no, no, you should get your labs done up here.  Oh you mean when you come on.
+PATIENT: On April 6th for the cholesterol.
+DOCTOR: You get those in the Outpatient Lab downstairs on the first floor.
+PATIENT: Oh on the first floor okay.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Any problems peeing at all, like losing urine on yourself?
+PATIENT: No.
+DOCTOR: Okay, or feeling like you've got a weak stream?
+PATIENT: No, no, definitely not.  I'm very pleased that I seem to be doing so well after going through all I've gone through.
+DOCTOR: Are you fairly active at home like walking around, do you do all the shopping yourself or?
+PATIENT: No, but I do quite a bit and the only problem is that I am not regular enough but every once in a while I take a long bike ride which I really enjoy and then I sleep better.
+DOCTOR: Okay.
+PATIENT: At night.
+DOCTOR: Do you do your cooking at home?
+PATIENT: No.  My wife does.
+DOCTOR: Who does that for you?
+PATIENT: My wife does, my wife.
+DOCTOR: Uh-huh.  Are you up walking around all the time?
+PATIENT: Oh yes, I'm active during the day but not enough uh.  Because I have been very active almost all my life and I'm not as active as I used to be and I notice it.
+DOCTOR: You're eating like three meals a day?
+PATIENT: Oh yes, very very good meals.
+DOCTOR: [REDACTED] almost all your meals?
+PATIENT: All of them without fail.  I’d feel deprived otherwise.
+DOCTOR: Alright so we do the cholesterol on the 6th.
+PATIENT: Yeah, yeah.
+DOCTOR: There'll be an order at the blood lab?
+PATIENT: Yeah.
+DOCTOR: Come and have a seat here.
+PATIENT: Okay.  Take off anything?  Sweater?
+DOCTOR: The sweater.
+PATIENT: Yeah.
+DOCTOR: My hands are a bit cold.
+PATIENT: Oh, if that's the worst I have to go through today I'll be very lucky.
+DOCTOR: Let me look in your ears okay.
+PATIENT: Yeah.
+DOCTOR: Any problems with your vision at all?
+PATIENT: Uh yeah I'm corrected, well yes.
+DOCTOR: You do have a lot of wax in here.
+PATIENT: Should I get them cleaned?
+DOCTOR: Yeah.  Well do you use the wax remover like the Debrox?
+PATIENT: No I don't.
+DOCTOR: I could give you one and you can pick it up downstairs.
+PATIENT: Oh that's terrific.
+DOCTOR: So you just put it in and the wax dissolves itself.
+PATIENT: Yeah, self-administered, terrific.
+DOCTOR: Open your mouth for me.  Lift up your tongue.  No dentures right?
+PATIENT: No.
+DOCTOR: You look really good.  I'm just going to feel around your neck.
+PATIENT: Okay.
+DOCTOR: I'll try to warm up my hand.
+PATIENT: Oh don't worry about it, don't worry about it.
+DOCTOR: Alright.  [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Deep breath.
+PATIENT: Uh excuse me I have to cough.
+DOCTOR: Okay.
+PATIENT: Sorry.
+DOCTOR: Not a problem.  Deep breath for me.  Out.  Just going to lift up your shirt right here.
+PATIENT: Oh sure.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  Doc do I sit down?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: Any back pain at all?
+PATIENT: Any what?
+DOCTOR: Back pain?
+PATIENT: None.
+DOCTOR: Okay.
+PATIENT: Uh oh I.
+DOCTOR: Can you lay back for me?
+PATIENT: Okay I have stiffness you know.  I'm an architect and I do a lot of sedentary work.
+DOCTOR: Do you still do a lot of the architect stuff?
+PATIENT: Not enough.  As a matter of fact I'm looking for work because I was off and uh during these travails.
+DOCTOR: Hmm.
+PATIENT: Uh but I still am rather sedentary and I get up and my back is stiff.  But that's being 79 I presume.
+DOCTOR: I think you're doing pretty well as far as we're concerned.
+PATIENT: Hmm.
+DOCTOR: Take a deep breath, out.  Can you sit up for me?  Have a seat right here.
+PATIENT: Okay.  I do this with some hesitation but I uh.
+DOCTOR: What's that?
+PATIENT: I have solicited some of the people like DOCTOR and a nurse in Oncology um, I want to give back to the Hines VA and I'm offering my services as an architect.  Of course no fee, no commitment.
+DOCTOR: You've never smoked right?
+PATIENT: No.
+DOCTOR: Okay.  Drinking?  Wine?
+PATIENT: I love about three or four ounces of wine a night.
+DOCTOR: Okay, okay.
+PATIENT: No, it's very much under control and I hope therapeutic.
+DOCTOR: Okay.
+PATIENT: But I'd like to leave you with a notice of what I'm doing.
+DOCTOR: Well what you were saying about what you wanted to do with the VA?
+PATIENT: Oh I'm offering my services, personal services as an architect to people like you.
+DOCTOR: Oh.  That's nice of you.
+PATIENT: Uh.
+DOCTOR: So you've been an architect all your life right?
+PATIENT: Yes uh yes in that capacity.
+DOCTOR: I've been looking through all of your labs here.
+PATIENT: Oh boy.  I have a.
+DOCTOR: They're fine.
+PATIENT: Very long record.
+DOCTOR: Okay I'll be right back okay.
+PATIENT: Okay.  Alright I can tuck my shirt in.
+DOCTOR: Oh yeah.
+PATIENT: Move it.
+(DOCTOR OUT:  37:33  DOCTOR IN:  44:10)
+DOCTOR: Alright, so we'll repeat your cholesterol like we said on the 6th of April.
+PATIENT: Yes, yes.
+DOCTOR: And let me see, how soon do you want to see me back, up to you.
+PATIENT: Really?  Well, you've been my primary doctor for a while and this is our first appointment.
+DOCTOR: Yeah, I wonder why…
+PATIENT: Uh I think I know why.
+DOCTOR: Yeah.
+PATIENT: Because I've been in here so regularly for the specialty things.
+DOCTOR: Probably.
+PATIENT: You know and I have my vitals you know whatever.  Although I really appreciate uh seeing a GP.
+DOCTOR: Finally right?
+PATIENT: Yes, yes.  Well I'm forever grateful to DOCTOR because she kept telling me to get a colonoscopy and I kept.
+DOCTOR: And you didn’t want to?
+PATIENT: And I had one and it was one of the worst experience, physical experiences I've ever had.  It was, you know, it was not good or you know uh and I don't like the procedure but because of her I had it done and it turned out I had a small tumor.  Um oh when to see you uh.
+DOCTOR: Six months, three months?
+PATIENT: Okay alright six months yeah.
+DOCTOR: Okay.  And if everything is stable we could go like nine months, a year.
+PATIENT: Yeah, gee whiz, [REDACTED].
+DOCTOR: You look pretty.  Of course I didn't see you when all these things were going on you know.
+PATIENT: Oh I, I weigh 180 now, I weighed 145 at one point.
+DOCTOR: Yeah.
+PATIENT: And I was not a happy camper.  Uh.
+DOCTOR: So I'll see you back in six months.
+PATIENT: Yes.
+DOCTOR: And you get labs in two weeks, a week from now.
+PATIENT: Uh okay, alright, alright.
+DOCTOR: Oh, your medicines.  We need to restart some of those.
+PATIENT: Yes.
+DOCTOR: I'm going to refill the medicine for you.
+PATIENT: Alright.
+DOCTOR: The lisinopril, you have to pick this up downstairs.
+PATIENT: Now?  Very good, that's terrific.
+DOCTOR: You can pick it up downstairs, let me make sure, let me refill it.
+PATIENT: I, I should have some amlodipine but maybe.
+DOCTOR: Maybe not.
+PATIENT: I finished it.
+DOCTOR: I'll renew it.
+PATIENT: Okay, yeah considering what I pay for it, I shouldn't uh skimp.  Alright.
+DOCTOR: Now let me give you the up-to-date with all your medicine so you can pick it up, here it is okay.  So you take the 5 daily and your lisinopril I'm going to refill it for you.
+PATIENT: Hmm.
+DOCTOR: So you can pick up both of them downstairs.
+PATIENT: Alright.
+DOCTOR: And let me see what other medicines you would need.  Alright, any refills on any of your medicines?
+PATIENT: I, no, no.
+DOCTOR: Do you still need the hydrocortisone cream for itching?
+PATIENT: No.
+DOCTOR: I'm gonna refill your cholesterol medicine okay.
+PATIENT: Uh, I have about three or four months.
+DOCTOR: I'm just going to renew it.  You have no more refills left.
+PATIENT: Oh, oh I see yeah because I should be taking it right.
+DOCTOR: Let me finish my notes here.
+PATIENT: Pardon?
+DOCTOR: Let me finish my notes here.
+PATIENT: Oh sure.
+DOCTOR: Oh the ear wax.
+PATIENT: Yes.  That'd be much appreciated uh.
+DOCTOR: It's like an ear drop.
+PATIENT: Uh-huh.
+DOCTOR: Let me see how often you should be using it.  So you do it twice a day.
+PATIENT: Okay.
+DOCTOR: 3-5 drops twice a day for about four days okay.
+PATIENT: Uh I can't tell you how much I appreciate that and my wife will appreciate it even more if I hear better.
+DOCTOR: Oh really.  Alright so we'll give you 10 of that.  You can pick that up downstairs too.
+PATIENT: Oh boy.  So three things.
+DOCTOR: Yes.  So are we clear on everything?
+PATIENT: I think so.
+DOCTOR: So you're to pick up your two medicines, your three medicines.
+PATIENT: Yes.
+DOCTOR: Two for your blood pressure.
+PATIENT: Uh-huh and the ear wax.
+DOCTOR: And the one for the ear wax.
+PATIENT: Yeah.
+DOCTOR: And we'll do your cholesterol check when you come back.
+PATIENT: Uh-huh.
+DOCTOR: When you go to Podiatry.
+PATIENT: Podiatry, I'll stop at the blood lab.
+DOCTOR: Any questions for me at all?
+PATIENT: Yes uh, every month.
+DOCTOR: Uh-huh.
+PATIENT: Or more often I have a Port-A-Cath flushed.
+DOCTOR: Okay.
+PATIENT: Up on 9 East.
+DOCTOR: Uh-huh.
+PATIENT: Would it be simpler to have the cholesterol check as part of that or be more complicated?
+DOCTOR: You could do it during that time but the thing is I'm not sure if they'll have the labels printed out to their labs.
+PATIENT: Oh you want to do it.
+DOCTOR: It doesn't matter as long as it's drawn.  So what we could do is.
+PATIENT: Cause I'll be glad to do it when I come in for my podiatry.
+DOCTOR: Well you could do it when you get the Port-A-Cath done.
+PATIENT: Uh-huh.
+DOCTOR: When you get it flushed, ask them whether they can do your labs.
+PATIENT: Okay for cholesterol.
+DOCTOR: For your cholesterol.
+PATIENT: Yes.
+DOCTOR: If they cannot then you'll have to go see downstairs.  The main reason is I'm not sure where those labels print out from.
+PATIENT: Uh-huh no.
+DOCTOR: Should the labels.
+PATIENT: Well I don't want to complicate things.
+DOCTOR: If they don't print out, just ask them.
+PATIENT: Yeah okay.
+DOCTOR: If they don't have the labels then you get it done downstairs.
+PATIENT: Okay.
+DOCTOR: Or if they can regenerate the label then it's perfectly fine.
+PATIENT: Uh-huh.
+DOCTOR: As long as the lab is done there.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: So take your amlodipine, take your lisinopril.
+PATIENT: Uh-huh, uh-huh.
+DOCTOR: The cholesterol medicine and that's it and a baby aspirin.
+PATIENT: Uh-huh.
+DOCTOR: Your fish oil and then the Debrox you'll get downstairs.
+PATIENT: My what?
+DOCTOR: Debrox.
+PATIENT: Oh yes.
+DOCTOR: That's the one.
+PATIENT: Oh that's what it's called right.
+DOCTOR: And then we're done.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Yeah okay, I take these with me.
+DOCTOR: For the next time yeah.
+PATIENT: Yes, yes.
+DOCTOR: Just take these, give this to them when you check out.
+PATIENT: Oh.
+DOCTOR: You take these with you.
+PATIENT: Oh yes, yes.
+DOCTOR: So can I, let me write down something.
+PATIENT: Okay yeah.
+DOCTOR: Okay.
+PATIENT: You have very legible handwriting for a doctor.
+DOCTOR: Oh really.  So we're all set.
+PATIENT: Yeah this explains what I was talking about and it's essentially a throw away.
+DOCTOR: Okay.
+PATIENT: Unless you're looking for services.  Okay.
+DOCTOR: Thank you sir.
+PATIENT: Well thank you DOCTOR.
+DOCTOR: They'll schedule you for an appointment right.
+PATIENT: Yes, yes.  Right we're all down.
+DOCTOR: You need to check out.
+PATIENT: Yes, thank you ma'am.
+PATIENT: 55:02
+Time is 2:30 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249440
+TRANSACTION # 578-10-2-316-0103

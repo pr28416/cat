@@ -1,0 +1,298 @@
+DOCTOR: PATIENT?
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  (Patient's cell phone rings, he answers it)
+DOCTOR: I'm just pulling you up here in the computer and I can't see when the last time we saw you here in the Unit.
+PATIENT: Last week.
+DOCTOR: Oh you were talking to the pharmacist.
+PATIENT: Yes.
+DOCTOR: So I see you were in the hospital recently.
+PATIENT: Yeah.
+DOCTOR: Is that correct?
+PATIENT: Uh-huh.
+DOCTOR: Let me sort through this to make sure to see what's here.  You were in because of abdominal pain, nausea and vomiting okay.
+PATIENT: They said gastro something; anyway it was stomach messed up.  Right.
+DOCTOR: You know I'm reading through what they wrote here and let's see, looks like they gave you some.  Well essentially things just kind of got better.
+PATIENT: Yes.
+DOCTOR: Without doing anything.  That's kind of the gist of it.
+PATIENT: Yes.
+DOCTOR: I mean just a little bit of tincture of time.
+PATIENT: Right.
+DOCTOR: They said that got.
+PATIENT: Once I started eating solid cause I couldn't hold nothing down for a minute and they were giving me a stomach pills and all kind of stuff but like you said eventually it came around.
+DOCTOR: [REDACTED] labs [REDACTED] got better.
+PATIENT: But you know doc I'm still concerned about this blood clot in this right leg lower calf.  That's why I'm on the blood thinner.
+DOCTOR: That's a fact, we’ll talk about that.  You have that.  When did that show up?
+PATIENT: Um about let's see uh January, February, March, January? Yeah.
+DOCTOR: In both legs?
+PATIENT: Yes.
+DOCTOR: Alright okay.  That can happen, why did you get them?
+PATIENT: They just popped up.  You know I had fell, you know initially I fell on my elbow and my knee.
+DOCTOR: Yeah.
+PATIENT: And I guess that caused it for some reason you know.
+DOCTOR: Were you not walking around or?
+PATIENT: No I mean I could step up on the curb and my foot slipped back down and I lost my balance and I fell and the next thing I know two days later my leg swell up you know.
+DOCTOR: Okay.  Trauma can sometimes cause these actually.
+PATIENT: Yeah.
+DOCTOR: Yeah.  Did they ever say you had clots in your lungs or just the legs?
+PATIENT: No just in the leg.  Ooh if it get up that far I might be a nobody.
+DOCTOR: That's actually true.
+PATIENT: Yeah.
+DOCTOR: So you have been on Coumadin since.
+PATIENT: For a minute.
+DOCTOR: October of 2010 does that sound about right?
+PATIENT: Yes.
+DOCTOR: Now.
+PATIENT: I was on Warfarin too; I mean they had me on.
+DOCTOR: You're still on that right though.
+PATIENT: Yeah well no they took me off the Warfarin, I'm just on the uh injections; the, I can't even pronounce it.  The what…
+DOCTOR: Um the dalteparin or?
+PATIENT: Right, the dalteparin that's what I'm on now.
+DOCTOR: You're not taking, discharged on, okay.  Is that where you were just going to be continued to take?
+PATIENT: Yes.
+DOCTOR: See I'm just kind of reading through, it looks like there were some problems with getting you to therapeutic levels with the Coumadin.
+PATIENT: Exactly.
+DOCTOR: Okay so.
+PATIENT: Fluctuating up and down, up and down.
+DOCTOR: Yeah.
+PATIENT: Changing my diet and all that.  And then somehow they say I'm borderline diabetic.  Now all this is starting to occur after the fact of these blood clots.
+DOCTOR: I don't think I would attribute that to blood clots.
+PATIENT: Well I was just saying generally you know.
+DOCTOR: I'd just; people started looking for you know your general medical well-being.
+PATIENT: Right.
+DOCTOR: And finding other things.
+PATIENT: Right.
+DOCTOR: Alright so, give me one second.  I want to look at why you're supposed to be on this, the anti-coagulation stuff.
+PATIENT: Coagulation right.
+DOCTOR: For a long time.  Apparently you saw the Hem/Onc doctors.  You had a fall, okay let's read through their notes. [REDACTED]
+PATIENT: Uh-huh.
+DOCTOR: Um pardon me; I need to look through all of this. [REDACTED]  You ended up having a second one later while you were on the shots.
+PATIENT: Yes.
+DOCTOR: What was your understanding of how long you’re supposed to be on?
+PATIENT: Six months.
+DOCTOR: Said who?
+PATIENT: Um DOCTOR.
+DOCTOR: When did she last say that?  DOCTOR.
+PATIENT: Um last time I seen DOCTOR and it's been I think almost three months and I been seeing DOCTOR.  She's been really monitoring you know my blood and what have you.
+DOCTOR: Yeah.  So now you're on dalteparin, right?
+PATIENT: Yes.
+DOCTOR: We’ll talk about that, one more thing uh, someone thinks you have diabetes is that right?
+PATIENT: Yeah.
+DOCTOR: Okay what do you think?  [REDACTED].
+PATIENT: Um.  [REDACTED].  Uh I keep a chart also.  Let me get my chart right here.  Looks like my wife has it.
+DOCTOR: Also what do your morning blood sugars look like?
+PATIENT: Uh in the morning it be like around 111 and then before lunch they go up to about 117.Yeah. But I'm taking the pill twice a day.
+DOCTOR: Good okay, that works.  That is actually good.  You've been trying to exercise, diet, lose weight.
+PATIENT: Yes, yes.
+DOCTOR: What do you have there?
+PATIENT: Potato chips, that was just, yeah cause I have.
+DOCTOR: I don't want to say anything [REDACTED].
+PATIENT: Yeah my food been bland for almost oh almost two months now, no chips, that's boring.
+DOCTOR: Did anybody ever talk to you about the MOVE Clinic?
+PATIENT: No.
+DOCTOR: It's where they can help you with uh not only dietary education.
+PATIENT: Uh-huh.
+DOCTOR: To make your meals a little bit more healthy from a diabetes standpoint.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] too much sugar.
+PATIENT: Right.
+DOCTOR: [REDACTED] sweets, cookies.
+PATIENT: Well I dilute my uh juices with you know seltzer water.
+DOCTOR: Just drink water.
+PATIENT: Yeah.
+DOCTOR: You’d be surprised how much sugar.
+PATIENT: That's right, right, right.
+DOCTOR: Uh juice has.
+PATIENT: Yeah I know.  Well I found that out through my mom.
+DOCTOR: Yeah okay.
+PATIENT: Yeah it does have a lot of sugar, a lot of sugar.
+DOCTOR: Yeah.
+PATIENT: Almost putting on like up to 12 pounds a year you know just taking the cranberry juice is fine and I'm putting on pounds I drink it.
+DOCTOR: Cranberry juice is [REDACTED].
+PATIENT: Extremely, yeah right.
+DOCTOR: And you take also some blood pressure medicines.
+PATIENT: Uh-huh.
+DOCTOR: And you take some mood medicines.  Do you check your blood pressures ever?
+PATIENT: Yes.
+DOCTOR: Okay.  Okay.  Right I'm just going through all these.  What do they look like at home?
+PATIENT: Uh today it was 141/75 yeah.
+DOCTOR: What do they usually run like?
+PATIENT: They're basically around there you know.  That's why I got to sort of cut back on my smoking.  I still sneaking smoking.
+DOCTOR: Oh boy.
+PATIENT: You know.  You know I shoot billiards, it's just kind of hard and then.
+DOCTOR: I know that.
+PATIENT: I know and then the patch you know, I think it's more psychological you know.
+DOCTOR: You've tried patches?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Have you been to the Smoking Cessation Clinic here.
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright, I can get you patches through the VA too.
+PATIENT: Yeah uh I'm aware of that yeah.  But see I, you know I began you know trying to wean myself off.  I have cut back considerably you know.
+DOCTOR: How much do you smoke now?
+PATIENT: About uh four cigarettes a day.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright well I mean there's only one way to go about it is to quit.
+PATIENT: Right, that's true, that's true.
+DOCTOR: Uh I mean I got to say yeah.
+PATIENT: Considering a half a pack you know.
+DOCTOR: Sure.
+PATIENT: Yeah see my wife you know she made it a non-smoking house you know because she kicked cold turkey though.  I can't do that.  But she put on like almost like six, seven pounds though since she has stopped and I'm like I don't want no fat body.  [REDACTED].  Cause she used to be petite you know.  She used to weigh like, like 128, now she's up to like 133 you know and man.
+DOCTOR: And [REDACTED] diabetic control [REDACTED].  When did you get out of the hospital?
+PATIENT: Uh two weeks ago, two and a half weeks ago yeah.
+DOCTOR: But they checked your hemoglobin A1c right when you were walking out the door.  If anything over the past year your diabetic control has gotten worse.
+PATIENT: Yeah.
+DOCTOR: Uh.
+PATIENT: You're sure?
+DOCTOR: But then again were you taking metformin when you left the hospital?
+PATIENT: Yes.  No, no, no I wasn't.  They just put me on uh metformin.  I been taking it almost like 13 days like.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Okay.  So you weren't taking it before.
+PATIENT: Right.
+DOCTOR: Alright so maybe it'll be a little bit better yeah.  Um let's see here.  I mean, one of the biggest things, over a long time, you've got to make sure you're watching the diabetes because if you're not watching it you're gonna end up with eye problems, heart problems, kidney problems, you lose your legs, you be on dialysis.
+PATIENT: Yeah.
+DOCTOR: Uh and have heart attacks.
+PATIENT: Right.
+DOCTOR: But I can't put it any more bluntly with you.
+PATIENT: That’s true though [REDACTED] consistent, you know I been pricking myself.
+DOCTOR: Yeah.
+PATIENT: You know I keep it charted down.  Like I say I got my chart out there in her purse but.
+DOCTOR: The proper diet can do it for you.
+PATIENT: Alright, you know.  I think the highest that it's been is like a 163.
+DOCTOR: Okay.
+PATIENT: And that's because I had, I ate uh, no I was drinking that Brisk Tea, that's what did it yeah.
+DOCTOR: Full of bad stuff.
+PATIENT: I know, I know.
+DOCTOR: [REDACTED] so we'll start right there.
+PATIENT: Yeah.
+DOCTOR: Cause you know.
+PATIENT: Right, you're right.
+DOCTOR: Yeah when you stop by the store I don't want you picking up juices.
+PATIENT: Exactly.
+DOCTOR: And if you've got to do something like a diet pop okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] okay.
+PATIENT: Alright.
+DOCTOR: Sodium.
+PATIENT: Right.
+DOCTOR: Salt.
+PATIENT: Right.
+DOCTOR: Honestly [REDACTED].
+PATIENT: Gatorade.
+DOCTOR: Full of sugar.
+PATIENT: You right.
+DOCTOR: Uh water.
+PATIENT: Water, bottled water.
+DOCTOR: Yeah, pretty simple.
+PATIENT: Yeah.
+DOCTOR: Milk.
+PATIENT: Gas.
+DOCTOR: Okay.  I'm gonna have you sit up here for a second.  Any problems with breathing when you're walking around at all or?
+PATIENT: No.
+DOCTOR: Any pain in here at all?
+PATIENT: No.
+DOCTOR: Can you open up your mouth?  And say ah.
+PATIENT: Ah.
+DOCTOR: Good.  Look straight up, straight up there you go.  Deep breath good, in and out, keep going good.  Good.  Have you seen the eye doctors at all?
+PATIENT: Yes.
+DOCTOR: When did you see them last?
+PATIENT: It’s been a minute. I seen them about four months or so ago.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Cause you know as a diabetic you get to see the eye doctors every single year.  Was it here at the VA?
+PATIENT: Yeah.
+DOCTOR: Feel like you have good sensation in your feet?
+PATIENT: Yeah.
+DOCTOR: You mind taking off your shoes for a second?  Feel me touching you there?
+PATIENT: Yes.
+DOCTOR: Feel me touching there?
+PATIENT: Yes.
+DOCTOR: Okay.  Okay good.  [REDACTED] diabetes okay.  I want to ask DOCTOR about your anticoagulation cause there are a couple of things that aren't entirely clear and I want to hash those out.
+PATIENT: Okay.
+DOCTOR: I'll be back in just a second okay.
+PATIENT: Okay.  I can put on my clothes again?
+DOCTOR: Oh yeah.
+PATIENT: Alright.
+(DOCTOR OUT:  30:16  DOCTOR IN:  40:00)
+DOCTOR: Hey PATIENT it's nice to see you.
+PATIENT: Yes, yes, how you doing?
+DOCTOR: I'm concerned.
+PATIENT: Right.
+DOCTOR: [REDACTED] you need to follow up regularly okay.
+PATIENT: Right, right.
+DOCTOR: Right and like the blood doctor said this is long term, lifelong.
+PATIENT: Yes, yes.
+DOCTOR: Okay.  So um I just want you to tell me [REDACTED] that way you don't have to stick yourself so much.
+PATIENT: Okay.
+DOCTOR: Okay so you know something we needed to talk to you about.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: I'm going to put this here in the computer.  We're going to [REDACTED].
+PATIENT: Okay.
+DOCTOR: So.  For your diabetes, have you ever heard of the MOVE Clinic at all?
+PATIENT: Yes I have heard of them.
+DOCTOR: Alright.
+PATIENT: Yeah.
+DOCTOR: Would you be interested in going to it?
+PATIENT: Sure I mean if it's gonna help me of course yeah.
+DOCTOR: Alright okay.  I'm gonna show you where it is and then you can go like at your leisure.
+PATIENT: Okay.
+DOCTOR: Um.  You're gonna have to start another blood pressure medicine unless you can start working on your diet getting salt out of it cause right now it's too high.
+PATIENT: Okay.
+DOCTOR: For being a diabetic.
+PATIENT: Okay.
+DOCTOR: Okay.  It's called hydrochlorothiazide.
+PATIENT: Well they took me off the water pill.
+DOCTOR: Well you gotta go back on.
+PATIENT: Okay.
+DOCTOR: Until you start taking care of yourself a little bit more yeah.
+PATIENT: But they said the water pill was taking my potassium and what have you out, that's why they took me off.
+DOCTOR: Well you know you're, it's bringing your blood pressure's back up so you can eat bananas if that's what it takes.
+PATIENT: Yeah okay.  It's just good I like bananas.
+DOCTOR: Um what was the medicine you used to take?
+PATIENT: Uh the hydrochlorothiazide.
+DOCTOR: How much did you take 12.5 or 25?
+PATIENT: Uh a real small pill, it was 25 I believe.  Not real sure offhand but it should be in there.  I believe it was the 20 or something like that.  I only got like seven of them left before they.
+DOCTOR: Of what?
+PATIENT: The water pill.
+DOCTOR: I think need [REDACTED] get you back on it.
+PATIENT: Okay.  And I'm down to three injections.
+DOCTOR: When are you seeing the Anticoagulation Clinic?
+PATIENT: Uh I thought I was seeing it today.
+DOCTOR: Alright, so they’ll get you that today.
+PATIENT: Yeah.  But the last visit she only gave me seven.
+DOCTOR: Yeah because they want to keep seeing you.  Oh yeah we're gonna have to put you back on that hydrochlorothiazide.  Do you have any of those pills at home?
+PATIENT: Yes like I said I have like.
+DOCTOR: Oh you got plenty of them; I want you to go back on those.
+PATIENT: Okay.
+DOCTOR: There's one thing that you're gonna have to schedule, you know just as a follow up study.
+PATIENT: Uh huh?
+DOCTOR: Just to make sure things are looking okay up here uh you know just do some pictures while you swallow some barium but you have to call to set this up.
+PATIENT: Okay.
+DOCTOR: For you so, I'll have you call to get this set-up.
+PATIENT: Okay.
+DOCTOR: [REDACTED] I'm gonna show you where the MOVE Clinic is also.
+PATIENT: Okay.
+DOCTOR: All the way down here.
+PATIENT: Alright.
+DOCTOR: I recommend stopping by and talking to them.
+PATIENT: Okay.
+DOCTOR: [REDACTED] okay.
+PATIENT: Well tomorrow would be a good day so.
+DOCTOR: Alright.  Well you're good to go.
+PATIENT: What about uh my injectioins, like I say I'm only down to three so.
+DOCTOR: Right so the pharmacist will see you [REDACTED] and they'll fill that for you.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.  When you gonna see.
+PATIENT: 46:12.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286154
+TRANSACTION # 578-10-2-316-0103

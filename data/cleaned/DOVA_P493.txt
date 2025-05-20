@@ -1,0 +1,145 @@
+DOCTOR: How you doing?
+PATIENT: I'm gonna have this reception thing on me, listening to my answers.
+DOCTOR: Oh don't worry about it.  [REDACTED].
+PATIENT: We done moved up huh.
+DOCTOR: That's the way it is.  How are you today?
+PATIENT: Uh so far so good.
+DOCTOR: So far so good.  So yeah, it's been since around October since we've seen each other.  So you're back on time, which is excellent.  [REDACTED].  Anything come up since October?
+PATIENT: Well I still have this knot back here.
+DOCTOR: On the back of your head?
+PATIENT: Yeah.
+DOCTOR: Okay, I'll take a look at it.
+PATIENT: And I don't particularly like it.  Like to get rid of it.
+DOCTOR: Did we discuss that the last time you were here?
+PATIENT: Uh about seven months to eight months ago.  Not the last time we didn't.
+DOCTOR: Okay, okay but you noticed it's been there for a while.
+PATIENT: It's been there for over a year.  A more about two years.  Started out as a little bitty knot.  The first time I told you about it you said it was just a pimple, but that was a long time ago.
+DOCTOR: Yeah well if it's lasted this long it's definitely not just a pimple.  Good, okay good.  Your blood pressure looks good today.  Pulse, breathing okay.  How's your breathing been?
+PATIENT: It's been okay.
+DOCTOR: Good.
+PATIENT: [REDACTED].  You know I get tingling in my fingers.
+DOCTOR: Tingling in your fingers?
+PATIENT: Yeah especially when I sleep.  It wakes me up you know, can't go to sleep.
+DOCTOR: Okay.  Okay.  Is it just your right hand?
+PATIENT: It's the only one I use, like you know when I'm sleeping.
+DOCTOR: Uh-huh.
+PATIENT: If I lay on it it goes to sleep.
+DOCTOR: So that means like is there tingling in both your hands or just your right hand?
+PATIENT: Just my right hand.
+DOCTOR: Oh okay, not your left hand, not your feet or anything like that?
+PATIENT: Uh uh.  Just in the hand.  If I sleep you know, I sleep on my hand, you know.
+DOCTOR: Yeah.
+PATIENT: And uh.
+DOCTOR: Where's the numbness located whenever you feel it?
+PATIENT: All over.
+DOCTOR: All over the entire hand?
+PATIENT: Yes.
+DOCTOR: Okay is it more like on the thumb side or on the pinky side?
+PATIENT: On the pinky side but all on the inside.
+DOCTOR: Okay.  So is it more like along this side or over here?
+PATIENT: All over.
+DOCTOR: All over the entire hand?
+PATIENT: Uh-huh.
+DOCTOR: Okay, okay.  Have you been having any neck pains?
+PATIENT: I don't got no neck pain.
+DOCTOR: Okay.  Do you feel any of the numbness when I do this?
+PATIENT: I feel you tapping on it.
+DOCTOR: Yeah.  Any shooting pains?
+PATIENT: I don't have no shooting pain; no I don't have no shooting pain.
+DOCTOR: Okay, can you feel that?
+PATIENT: Yeah.
+DOCTOR: Now?
+PATIENT: Yeah.
+DOCTOR: How about this?
+PATIENT: Feel everything.
+DOCTOR: Does it feel any different on any of your fingers?
+PATIENT: No I feel the same, just a tingling.  It only happen at night.
+DOCTOR: And is it tingling right now?
+PATIENT: No.
+DOCTOR: So it only happens when you wake up in the morning and it goes away?
+PATIENT: It wakes me up in the morning, not when I wake up in the morning.
+DOCTOR: Okay, okay.  But it goes away after you reposition?
+PATIENT: Yeah, after I get up and you know walk around it goes away.
+DOCTOR: Okay.
+PATIENT: At most, I tell you when it mostly happens, when I take my medicine.
+DOCTOR: When you take the medications okay.  Um when do you take your medications?
+PATIENT: Uh I take my medications before I go to bed.  But should I take the last dose before I go to sleep?
+DOCTOR: You are still taking your albuterol and your other inhaler for your lung disease?
+PATIENT: Yeah.
+DOCTOR: Okay and how's your breathing?
+PATIENT: My breathing's pretty good.
+DOCTOR: Pretty good?  You're able to do things that you want to like you can go outside, walk around?
+PATIENT: Yeah.
+DOCTOR: Everything's okay.  Okay so your blood pressure looks excellent today.  Um are you taking all of your blood pressure medications?
+PATIENT: Most of the time I do.
+DOCTOR: Most of the time?  So do you know which medications you're taking?
+PATIENT: No I don't.  All I know is I take everything they give me.  I get some that I take three times a day.
+DOCTOR: Good, good.  Do you think you're still taking the amlodipine?  And you said the one three times a day, isosorbide, your metoprolol.  Do those sound familiar?
+PATIENT: Yeah what you give me, I don't know what it, you know I got the medical tray, I fill it up.
+DOCTOR: Do you need any refills on any of your medications?
+PATIENT: No not right now.
+DOCTOR: Any chest pain recently?
+PATIENT: Yeah I get a, it's almost like a gas.
+DOCTOR: Okay.
+PATIENT: Right in here.
+DOCTOR: Okay.  Because I know you’ve had problems with uh with chest pain in the past.
+PATIENT: Well when I do have one I take one of my nitro pills and it go away.
+DOCTOR: It goes away.
+PATIENT: Them gas pills they give me don't work.  I've used them, I eat about two of them and then I still take the one nitro and then it go away.
+DOCTOR: Are you still drinking alcohol?
+PATIENT: Beer.
+DOCTOR: Beer okay.
+PATIENT: I haven’t drank alcohol in quite a while now.
+DOCTOR: Let's see here, otherwise.  We need for you to go repeat your cholesterol, it's been a year, just to recheck and make sure there's not anything more we need to do in terms of management on that but it sounds like your lungs disease is stable.  Everything else is stable.  The one thing we do need to have you do though, I'm trying to find it here, is repeat an echocardiogram of your heart and have you go back to the Cardiology Service.  Um I think you were supposed to follow up with them a while ago.
+PATIENT: They didn't send me no mail.
+DOCTOR: Okay.
+PATIENT: Cause I didn't get no mail.
+DOCTOR: Okay.  We can let them know you need to reschedule the appointment.
+PATIENT: Yeah they stopped sending me a reminder for the appointment.  The only thing they send to you now you got to call in.
+DOCTOR: Yeah.
+PATIENT: To find out when you got an appointment.
+DOCTOR: Oh I think, oh I think what they want you to do is call in and essentially schedule an appointment.  But I think they'll send you the reminder by mail.
+PATIENT: But I need to call them to schedule it.
+DOCTOR: Uh-huh.
+PATIENT: Will they schedule me an appointment when you leave here?
+DOCTOR: Uh only if it's within 30 days.
+PATIENT: Oh okay.
+DOCTOR: Otherwise you'll get a letter saying call in and schedule an appointment within the next 30 days.  So we did do a stress test back in 2008.  [REDACTED] repeat that.  We'll probably repeat the stress test and the echo and then have you go back to Cardiology, recheck your cholesterol otherwise the other main thing is you know trying to cut back on your alcohol use.
+PATIENT: What? Are you talking about beer?
+DOCTOR: Are you smoking?
+PATIENT: I still smoke.
+DOCTOR: [REDACTED] okay.  We already did the [REDACTED] screening for you.  You already had your flu vaccine in October so we don't need to worry about that.  Is that it?  I think just looking at your chart, that's what we'll need to do.  Your blood pressure looks excellent today.  We'll just recheck your cholesterol.  Things seem to be stable except you know with some of the chest pain symptoms.  I know in the past we've talked about you know what the chest pain could possibly be from.  Nothing that we've done in terms of a heart work-up has ever shown that you have um a.  Have you ever had a [REDACTED]?  Like I don't see any in the notes here.  Yeah actually, nothing we've ever done that showed you have any type of blockage in your heart but at one time your heart wasn't pumping as well as it should.
+PATIENT: I haven't had a vascular test in a long time.  [REDACTED].
+DOCTOR: Yeah that's been, yeah it's been about 2 1/2 years since you had that, so we'll just repeat that.  Okay so give me a couple of minutes and I'll come back okay.
+PATIENT: Okay.
+DOCTOR: Just give me a second.
+(DOCTOR OUT:  11:56  DOCTOR IN:  23:27)
+DOCTOR: Okay.  I spoke with DOCTOR.  Um he's in agreement.  There's just some lab work we need to do, recheck your lipids and your liver functions since you're on the simvastatin medication.  Otherwise, we'll repeat some of that cardiology work-up and the stress test um that you did back in 2008, the echo and then also have you follow up with Cardiology.  Since it's been at least since October of 08 that you saw them in the clinic and that would be a good way to follow up with you.
+PATIENT: What about this thing behind my neck?
+DOCTOR: I'm sorry.
+PATIENT: What about this thing here?  It's not a pimple no more.  It’s down  here.
+DOCTOR: It’s a cyst.
+PATIENT: What do you with it, nothing?
+DOCTOR: Uh well we can leave it alone.  It looks like a little lipoma.  It's benign.  [REDACTED]  Um if you want to we can set up to have you been see by you know Dermatology or have you seen by the General Surgery people and they'll be more than happy to remove it if you want to go to through the minor surgical procedure.  Um but it is benign so there's not anything that we need to do about it.
+PATIENT: Oh it won't cause no problem then huh?
+DOCTOR: No, no it shouldn't cause any problems.  Um.
+PATIENT: How much more bigger is it gonna get?
+DOCTOR: Well I mean if it's something that's like you know it, the number one risk in that location is you know you're lying on your back at night it kind of can be uncomfortable and if it’s something that's causing a problem in terms of not the lesion itself but if its keeping you from getting sleep or you're worried about it you know we can always refer you to have it removed and that's not a problem at all.
+PATIENT: [REDACTED].
+DOCTOR: Okay, so everything is going to be put into the computer so there's nothing you need to walk out with, other than this.  This is just to let them know to schedule the two appointments for you up front and I will be putting in a consults for you.
+PATIENT: Okay.
+DOCTOR: Okay.  And so uh you won't need to be seen back here for another six months so you'll get a letter in about five months.
+PATIENT: Okay.  I will get a letter though.
+DOCTOR: Yes, yes.  Well I mean, let me just make sure that the problem's not your address.  Uh you're still on STREET NAME?
+PATIENT: Yeah, the address is no problem.  I've been getting mail but when I call in.
+DOCTOR: Uh-huh, uh-huh.
+PATIENT: They send me a notice.  Shoot about every three days I get a notice about my appointment.
+DOCTOR: Okay.  Well you'll eventually get a letter saying you need to call in and make your primary care physician appointment, in the General Medicine Clinic and that's usually in about five months as long as the mail doesn't get lost.  That I can't promise.  It's outside my hands.
+PATIENT: Alright sir.
+DOCTOR: Okay so we'll see you back in about six months okay.
+PATIENT: Okay.  I'm giving the lady back this thing she gave me this.
+PATIENT: 27:05.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286122
+TRANSACTION # 578-10-2-316-0103

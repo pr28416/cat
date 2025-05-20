@@ -1,0 +1,111 @@
+DOCTOR: How are you today?
+PATIENT: Hello.
+DOCTOR: Never mind the skin [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: How you doing?  Alright.  Okay, so how you been since the last time we saw you?  Looks like it's been since February.
+PATIENT: Yeah, alright.
+DOCTOR: Doing alright?
+PATIENT: Yeah.
+DOCTOR: Good.  Um yeah I was just looking at the last note uh; we wanted to check a uric acid level in your blood.
+PATIENT: Right.
+DOCTOR: For your gout and it was a little elevated.  Uh we like to see it around 6 or less.  Yours was at 7.5.  When's the last time, when's the last time you've had a gout flare do you remember?
+PATIENT: It was back in the wintertime.
+DOCTOR: Back in the wintertime.
+PATIENT: Yeah.
+DOCTOR: Okay.  How many do you think you have a year, like on bad years, how many gout flares did you think you have?
+PATIENT: I have, what I'm finding out now is that uh it all depends on what I eat.  If I half way eat right it don't bother me.
+DOCTOR: Okay.
+PATIENT: So I would say maybe two.
+DOCTOR: Okay.  That's not bad.
+PATIENT: Uh uh.
+DOCTOR: The reason I ask is that um you know when you start to get to three gout flares a year that's when we start to think about preventative medicines that help reduce the level of uric acid in the blood.
+PATIENT: Right.
+DOCTOR: Just to prevent but if you think you can manage your gout flares with just diet modification then we may not need to do that.  What do you think?
+PATIENT: I think I can.
+DOCTOR: You think you can do that?
+PATIENT: Okay.  As long as it's taken, what they do is that you know before you gonna flare-up.
+DOCTOR: Right, right and you have some colchicine at home?  Do you have some pills if you have a flare to take?  Like just in case?
+PATIENT: Uh I don't think so.
+DOCTOR: Two pills, 0.6 mg, real small.
+PATIENT: I don't think so.
+DOCTOR: Okay that might be a good thing.  What did you take the last time you had a flare?
+PATIENT: Shit I don't remember.
+DOCTOR: Did you go to the ER?
+PATIENT: Uh yeah.
+DOCTOR: Have you been able to cut back on your smoking at all?
+PATIENT: Uh yeah.
+DOCTOR: Good what are you back to?
+PATIENT: A pack or less than a pack.
+DOCTOR: From a half a pack?  That is good and as far as your medications go how are you doing on your medications?
+PATIENT: Alright.
+DOCTOR: Yeah your blood pressure's really good today.
+PATIENT: Yeah.
+DOCTOR: So we don’t need to make any changes.  Do you get your meds filled at another hospital or outside?
+PATIENT: Walgreens.
+DOCTOR: At Walgreens.  Do you have enough refills?
+PATIENT: Uh I don't even know.
+DOCTOR: Not sure?
+PATIENT: I think I do because they uh, the last doctor put uh.
+DOCTOR: A year, good. I like it when they do that.
+PATIENT: Yep.
+DOCTOR: Alright well, yeah [REDACTED].  How's your knee doing?
+PATIENT: Doing great so far.  It hasn't bugged me but I got a question to ask you.
+DOCTOR: Sure.
+PATIENT: Uh like uh, if I'm having sex or something I don't rise.  If I take Viagra I still don't rise.
+DOCTOR: Oh okay.  Uh and you're taking the 100 mg tablets?
+PATIENT: Uh-huh.
+DOCTOR: Do you want to try a different one like Cialis?
+PATIENT: Do you think that would uh?
+DOCTOR: Yeah I think people have been having pretty good luck with that one.
+PATIENT: Yeah.
+DOCTOR: You want to try that instead?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  We'll try a higher dose of the, you want to get it through the VA or do you want to get it at Walgreens?
+PATIENT: Do they fill them here?
+DOCTOR: Yeah but they only give you like two a month.  Is that enough for you?  It's free.  They're expensive that's why I asked.  So you could try, you could do the two a month and see if that worked.
+PATIENT: Okay.
+DOCTOR: And if you want we can get you more.
+PATIENT: You said they expensive so I want them from here.
+DOCTOR: Yeah.  They're expensive, yeah they're expensive.  I mean I can write you a prescription and you can get as many as you want at Walgreens.
+PATIENT: No.
+DOCTOR: They’re not.
+PATIENT: No.
+DOCTOR: They're not cheap.
+PATIENT: I know cause the Viagra was real expensive.
+DOCTOR: Yeah and don't take, you now don't take the two of them.
+PATIENT: No.
+DOCTOR: Cause they can drop your blood pressure.
+PATIENT: No.
+DOCTOR: Just take the one or the other.  Alright.  Its Levitra actually is the one we have and the high dose of it is 20 mg tablet usually works for people so we'll do that okay.
+PATIENT: I hope it works so I can enjoy some finally.
+DOCTOR: I know, I know.  I got to get you to quit smoking though too, that's gonna make a difference.
+PATIENT: Yeah.
+DOCTOR: You know.  The blood vessels.  The blood vessels just like they go to the heart you know and they get hardened and clogged they don't, things don't work as well.  Well we'll try this and see.  Most patients have had pretty good luck with the high doses of this.  Alright.  Deep breath.  Okay, very good.  Let me talk to DOCTOR and I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  13:46  DOCTOR IN:  16:46)
+DOCTOR: Okay.  So, I'm gonna write you a prescription as well for a medicine that's called colchicine.  It's one of the oldest medications on record.  They've using it to treat gout for centuries so uh the way it works is if you have a flare in your toe, knees, whatever, um you take one of the pills and then you can take another one an hour later but just take a couple of them.  Use it as directed.  Um and that might save you a trip to the Emergency Room if you have a flare.  It's just a nice thing to have.  Now the pill has gone up in price so I'm gonna fill it if you want to get it, get it but I'm not exactly sure what the VA's pharmacy is.
+PATIENT: I don't want to get that from here.
+DOCTOR: You want to get that from.
+PATIENT: Walgreens.
+DOCTOR: From Walgreens.
+PATIENT: Yeah.  See my prescriptions is way cheaper at Walgreens than they are here.
+DOCTOR: Is that right?
+PATIENT: But for Viagra and stuff like that the insurance don’t accept it.
+DOCTOR: What kind of insurance do you have?
+PATIENT: Uh Medicaid.
+DOCTOR: Oh okay.  So only take three of these tablets, but you can take them once an hour.
+PATIENT: Right.
+DOCTOR: It usually does the trick.  You'll come back and see us in four months.  Is that okay with you?
+PATIENT: Yeah.
+DOCTOR: Alright.  That should be all.  Pick them up at the Pharmacy and actually they'll mail those other pills to you and these you can just pick up at the window.
+PATIENT: Yeah, I'm gonna pick them up at the Pharmacy.
+DOCTOR: Pick them up there.
+PATIENT: Sure yeah.
+DOCTOR: It's in the computer, just give me a minute.
+PATIENT: Okay.  Thank you.
+DOCTOR: Take care.
+PATIENT: 22:33
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286152
+TRANSACTION # 578-10-2-316-0103

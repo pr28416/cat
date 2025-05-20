@@ -1,0 +1,389 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.  How you doing?  Long time no see.  Yeah [REDACTED].
+DOCTOR: Yeah [REDACTED].
+PATIENT: Well.
+DOCTOR: Yeah [REDACTED].
+PATIENT: Hmm.
+DOCTOR: Right in here.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] what's been going on?
+PATIENT: Uh acid reflux.
+DOCTOR: Yeah.
+PATIENT: I have vertigo.
+DOCTOR: You have what?
+PATIENT: Vertigo.
+DOCTOR: Oh alright.
+PATIENT: Yeah I have uh; the vertigo is ah, rough on me.
+DOCTOR: Uh-huh.  Is it better now?
+PATIENT: Uh in a way.
+DOCTOR: Good.
+PATIENT: In a way I'm better at walking you know but I still, feel [REDACTED].
+DOCTOR: Kind of dizzy.
+PATIENT: Oh yeah, sometimes no.
+DOCTOR: Uh-huh.
+PATIENT: Um other than that, I keep getting this itching in my ear you know.
+DOCTOR: Alright.  In both ears, or just one?
+PATIENT: [REDACTED] but now it's [REDACTED] you know it kind of [REDACTED] in my ear now.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: So usually its just wax so we'll take a look inside them.
+PATIENT: No I clean them.
+DOCTOR: You clean them?
+PATIENT: I cleaned them.
+DOCTOR: How do you clean them?
+PATIENT: Peroxide, I put peroxide in them.
+DOCTOR: You do.
+PATIENT: I just take a little drop and drop it in.
+DOCTOR: Just a drop or so.
+PATIENT: I got a dropper you know.
+DOCTOR: Okay.
+PATIENT: Yeah cause when I had the vertigo I came out here.
+DOCTOR: Uh-huh.
+PATIENT: To Urgent Care.
+DOCTOR: Uh-huh.
+PATIENT: And I was driving.
+DOCTOR: Right, right [REDACTED].
+PATIENT: And they sent me back home.
+DOCTOR: Yeah.
+PATIENT: Without a diagnosis.
+DOCTOR: Well vertigo is one of those problems that, there is a million things can cause it.
+PATIENT: Yeah, but I was walking on the walls.
+DOCTOR: Oh yeah.
+PATIENT: I was holding on to the walls.
+DOCTOR: Yeah.
+PATIENT: And they sent me back home.
+DOCTOR: Yeah.
+PATIENT: I had to drive.
+DOCTOR: Yeah.
+PATIENT: Didn’t have nobody to pick me up.
+DOCTOR: Hmm.
+PATIENT: That kind of mess me up, you up you know kind of.
+DOCTOR: Uh-huh.
+PATIENT: Kinda a, made me a little angry.
+DOCTOR: Yeah.
+PATIENT: You know.  Had my doubts about the VA.
+DOCTOR: Yeah.
+PATIENT: You see what I’m saying?
+DOCTOR: Right.
+PATIENT: Because now the doctor that I saw, she was going to send me to the Emergency Room cause [REDACTED].  This doctor had give me these pills because of my acid reflex [sic].
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And she was going to [REDACTED] that you know but I ended up going to County Hospital.
+DOCTOR: Wait, you went to County, too?
+PATIENT: I went there.
+DOCTOR: You went there?
+PATIENT: When I came from here.
+DOCTOR: Uh-huh.
+PATIENT: And they [REDACTED] no diagnosis.
+DOCTOR: Uh-huh.
+PATIENT: My family just said, “Uh huh.”
+DOCTOR: Uh-huh.
+PATIENT: Cause I drove back home.
+DOCTOR: Right.
+PATIENT: You know.  Uh and I ended up going to County.
+DOCTOR: What did they say over there?
+PATIENT: As soon as I walked in there, they gave me a diagnosis.
+DOCTOR: What did they say?
+PATIENT: Vertigo.
+DOCTOR: Oh vertigo is [REDACTED].
+PATIENT: The pills wasn't [REDACTED], I mean the pills [REDACTED].  Cause he had told me to leave the pills, don't take the pills and sent me back home.
+DOCTOR: Which pills?
+PATIENT: The acid reflex [sic].
+DOCTOR: [REDACTED] take the pills [REDACTED] vertigo.
+PATIENT: I got me some [REDACTED].  But I want to know if I can get those.
+DOCTOR: Yeah we can give you these.
+PATIENT: Okay.  Cause those help my reflux.
+DOCTOR: Reflux; let me put them in right now so I don't forget.  Did they give you anything at County for the vertigo?
+PATIENT: Yeah they gave me [REDACTED].
+DOCTOR: [REDACTED] yeah.  [REDACTED] that's good [REDACTED].  Yeah if you don't get dizzy you don't have to take them.
+PATIENT: No right.  I don't take them unless [REDACTED].  Yeah I had a history of vertigo before I had it real bad.
+DOCTOR: Uh-huh.
+PATIENT: This was a different case than what it was before.  Before the room had turned upside down.
+DOCTOR: Right.
+PATIENT: When I had it ten years ago.
+DOCTOR: Uh-huh and now?
+PATIENT: And now I get dizzy.
+DOCTOR: Uh-huh.
+PATIENT: I mean I was.
+DOCTOR: Yeah vertigo is one of those [REDACTED].
+PATIENT: [REDACTED] I walked with a cane for about a week.
+DOCTOR: Well yeah, let me just [REDACTED] um do you want to pick it up or do you want us to just mail it?
+PATIENT: I can pick it up.
+DOCTOR: Pick it up.
+PATIENT: Uh-huh.
+DOCTOR: I'll put in 11 refills.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: [REDACTED] let me know I got an appointment for the, did you see that in there uh, gastro - what is it?
+DOCTOR: Yeah, gastroenterologist.
+PATIENT: Yeah.
+DOCTOR: They have this [REDACTED] once a day.  You're supposed to take it twice a day.
+PATIENT: No I only take it once.
+DOCTOR: You only take it once that helps you?
+PATIENT: It helps a little bit but it don't, it look like at the end of the day, cause I take it in the morning.
+DOCTOR: Right.
+PATIENT: So at the end of the day it’s starting to wear off.
+DOCTOR: Yeah this is supposed to be twice a day so I'm gonna put it for twice a day.
+PATIENT: Twice a day okay.
+DOCTOR: Alright.  That's the only difference.
+PATIENT: And I monitor it, you know.
+DOCTOR: Yeah.
+PATIENT: I’ll monitor it [REDACTED] yeah if I don't need it twice.
+DOCTOR: It only works if you take it all the time though.  Like even, like if you don't take it for a couple days then uh the acid-blocking like what it does.
+PATIENT: Cut back.
+DOCTOR: You have to start all over again.
+PATIENT: Uh no, no, let me take it every day.
+DOCTOR: Yeah and you're supposed to take it twice a day, try and take it every day.
+PATIENT: Twice a day okay.
+DOCTOR: Because it helps the most when you're lying in bed um.
+PATIENT: Right.
+DOCTOR: [REDACTED] that’s the most important time to take it because the acid is going up your esophagus, cause you're lying down.
+PATIENT: Yeah so the acid is running back up.
+DOCTOR: Right so that's [REDACTED].  Well I'm glad, the dizziness, the vertigo is such, everybody pretty much gets it, and all it is is that the inner ear.
+PATIENT: Right.
+DOCTOR: Did they explain it to you like what's going on?
+PATIENT: No I thought it was coming from an infection.
+DOCTOR: Oh not.
+PATIENT: Not necessarily.
+DOCTOR: Not necessarily.
+PATIENT: Necessarily yeah.
+DOCTOR: Some people get it from an infection but most people get it just when there are these little stones in both of our ears.
+PATIENT: Uh-huh.
+DOCTOR: They tell our brains where we are like so right now you know you're sitting up.
+PATIENT: Right.
+DOCTOR: You know you're not laying down.  You know that because there are these stones in the ear that stay down.
+PATIENT: Uh-huh.
+DOCTOR: Most of the time, when they are in the right place.
+PATIENT: Right.
+DOCTOR: And so we know that [REDACTED] up but sometimes what happens, for no reason, the stones just kind of can get out of whack.
+PATIENT: Uh-huh.
+DOCTOR: Like one of them will go up here or go down here somewhere.
+PATIENT: Oh.
+DOCTOR: And so then your brain gets confused and it's like well what's going on am I standing up, am I sitting down and just right or left.
+PATIENT: Yeah.
+DOCTOR: So you're kind of going in circles.
+PATIENT: Uh-huh.
+DOCTOR: But usually this medicine kind of helps the brain to ignore the ears.
+PATIENT: Uh-huh.
+DOCTOR: And so it tells it you know the ears messed up.
+PATIENT: [REDACTED] the other one is I got the vertigo.
+DOCTOR: Oh the vertigo right, right, yeah definitely right.
+PATIENT: Yeah.
+DOCTOR: Uh so that's how that medicine helps and usually just with time, those stones just kind of get back in their place.
+PATIENT: Okay.
+DOCTOR: And then [REDACTED].
+PATIENT: Like [REDACTED].
+DOCTOR: Yeah.
+PATIENT: You know you want to get out of the [REDACTED].
+DOCTOR: Exactly.  There are some exercises you can do to kind of help speed it along.
+PATIENT: Okay.
+DOCTOR: Did they teach you those?
+PATIENT: No.
+DOCTOR: No.  Let me show you, so basically what you do is [REDACTED] first.
+PATIENT: Uh-huh.
+DOCTOR: Um but then after the the stones, like so basically what you're doing is just kind of shaking everything up.
+PATIENT: Yeah trying to get it.
+DOCTOR: In the right place again.
+PATIENT: Yeah.
+DOCTOR: So this is what you do, and then in the morning when you wake up you just kind of go like this and then you – you go slower than I’m doing it - you want to wait like 10 seconds.
+PATIENT: Uh-huh.
+DOCTOR: And you go like this, I know it seems kind of silly but what you're doing is.
+PATIENT: That's what I've been doing really, myself.
+DOCTOR: Yeah and you just kind of do it three or four times and try to be a little bit slower than I'm going.
+PATIENT: Yeah.
+DOCTOR: And you just go like that, do that like in the morning and at bedtime
+PATIENT: Uh-huh.
+DOCTOR: And do this, probably like 10 reps of that.
+PATIENT: Yeah.
+DOCTOR: And that should help.
+PATIENT: Keep them on their side.
+DOCTOR: Yeah, yeah.
+PATIENT: Staying in place.
+DOCTOR: Right exactly.  So.
+PATIENT: I didn't know, I thought maybe it was infection or something like that.
+DOCTOR: Sometimes that can cause it too but this will mostly.
+PATIENT: He said I don't have an infection.
+DOCTOR: Yeah you can tell that just by looking in the ear if he looked in your ear.
+PATIENT: He looked in it yeah.
+DOCTOR: Yeah so he could tell so [REDACTED].
+PATIENT: But other than that I'm doing alright.  Just that acid reflex [sic] you know.
+DOCTOR: [REDACTED] check your labs [REDACTED] labs done.
+PATIENT: Right. [REDACTED]
+DOCTOR: Very good [REDACTED] problems [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yeah we can redraw them again today. They were all good las year. You see, there’s no abnormalities, your cholesterol was good, you kidneys are good, your liver is good.
+PATIENT: Uh-huh.
+DOCTOR: We'll get them redrawn today.
+PATIENT: They did an x-ray on me in the Emergency Room hod did that come out.
+DOCTOR: A chest x-ray?  Yeah I see it was normal.
+PATIENT: Is it?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  Your lungs are clear.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: It was normal.  That's good.  Let's see what else is here.  Okay are you still taking all these medicines that are on the list here?
+PATIENT: Yeah.  The water pills and the [REDACTED].
+DOCTOR: [REDACTED].  Yeah we'll [REDACTED].  So you taking the Tylenol?
+PATIENT: Not, unless I really need it.
+DOCTOR: Just as needed.
+PATIENT: Yeah.
+DOCTOR: What about the acyclovir?
+PATIENT: That's for the stomach is that what it is?
+DOCTOR: No it's for the, uh for the herpes.  Do you have it?
+PATIENT: No I didn't get those pills.  They put them in but they never came.
+DOCTOR: They never came.  I'll put them in.
+PATIENT: Actually when I went over there to uh get them.
+DOCTOR: Uh-huh.
+PATIENT: And I think I told them to mail them and they ain't never come.
+DOCTOR: Oh uh I'll refill them for you.
+PATIENT: Okay.  Now they gave me a inhaler.
+DOCTOR: Uh-huh.
+PATIENT: In the Emergency Room what do you think about that?
+DOCTOR: For the oh because at that time you were having a cough.
+PATIENT: Cause I had that real bad cough, [REDACTED] that's another thing I had trouble with.  See when I got the cough, that’s probably what shook that stone up.
+DOCTOR: Yeah.
+PATIENT: Because I was coughing I couldn't stop, it was like the whooping cough.
+DOCTOR: Yeah, that's probably what it, yeah.
+PATIENT: And after I got rid of that then the acid reflex [sic] was a combination with the cough.
+DOCTOR: Uh-huh.
+PATIENT: And that's why they gave me the pills here and then [REDACTED] that’s when vertigo hit that next week.
+DOCTOR: That’s probably what it is.
+PATIENT: Three weeks.
+DOCTOR: Uh-huh.
+PATIENT: For three weeks I was doing that.
+DOCTOR: Yeah.
+PATIENT: Nobody could stay around me [REDACTED].
+DOCTOR: [REDACTED] yeah.
+PATIENT: You know I went from independent to dependent you know so at that time, you know I'm independent now.
+DOCTOR: Yeah. I’m glad it’s doing better. It will continue to get better [REDACTED] right now.  Yeah if you don't, if you're not coughing you don't need it.  They just gave it to help you with the cough.
+PATIENT: Okay.
+DOCTOR: So um yeah they wanted you to use it for when you were having a cough so [REDACTED]. You don’t need it any more. This medicine is the same thing as this one, [REDACTED] yeah pretty much.
+PATIENT: The uh.
+DOCTOR: This is like the cocktail the Mylanta type stuff are you taking that?
+PATIENT: Yeah, what's that?  [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Is it a capsule?
+DOCTOR: It's not a capsule, this one's a liquid.
+PATIENT: No I don't have a liquid.
+DOCTOR: Well okay this one's better anyway.
+PATIENT: Okay.
+DOCTOR: You've got uh are you still taking the atenolol?
+PATIENT: Yeah.
+DOCTOR: This is the nose spray, are you still using the nose spray?
+PATIENT: Yeah.
+DOCTOR: And this is the same; it's for allergy, another nose spray.
+PATIENT: Yeah that's the nose spray hmm.
+DOCTOR: Hydrochlorothiazide, water pill. You said you were taking.
+PATIENT: Right.
+DOCTOR: And then the nicotine lozenges.
+PATIENT: Yeah.
+DOCTOR: Omeprazole.
+PATIENT: What is that?
+DOCTOR: That's for the stomach, that's the capsule.
+PATIENT: Right I’m still taking.
+DOCTOR: You have that for nasal, uh, pseudoephed.
+PATIENT: No I don't take that.
+DOCTOR: Yeah you don't need that.  Simvastatin for cholesterol?
+PATIENT: Yeah I take that at night.
+DOCTOR: And the Metamucil spray?
+PATIENT: Which one is that.
+DOCTOR: This one just to keep it moist.
+PATIENT: Yeah I take that too.
+DOCTOR: And then the Levitra.
+PATIENT: [REDACTED].
+DOCTOR: That's to uh get an erection.
+PATIENT: Yes.  [REDACTED].
+DOCTOR: No.  [REDACTED] you phone.  Let me just [REDACTED].
+PATIENT: I know I [REDACTED].  One of those telemarkets.
+DOCTOR: Right, right.
+PATIENT: Let's do this.  [REDACTED].  If I catch a little cold [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And uh [REDACTED] and stuff like that [REDACTED].
+DOCTOR: [REDACTED] say ah for me.  Is it alright if I lift that up?
+PATIENT: Yeah.
+DOCTOR: Deep breath.  Good.  Let me take a listen to your heart.  I'm just gonna look at your legs here.  Any swelling?
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] yeah.  [REDACTED].  Can you lay down [REDACTED].
+PATIENT: Oh you need [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Oh yeah.  [REDACTED].  Kinda cool in here.
+DOCTOR: Uh-huh.  Any pain?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: Sometime I get a bloating down here.
+DOCTOR: Probably gas.  Go ahead and sit up.  Yeah that usually just goes away on its own.  If it ever gets really bad you can always take that Gas-X stuff they sell it over the counter.
+PATIENT: Yeah.
+DOCTOR: And that medicine that he.
+PATIENT: So he gave me Maalox.
+DOCTOR: Yeah that helps.
+PATIENT: So he told me to get some and take them when I'm taking my other meds, take it about an hour [REDACTED].
+DOCTOR: Right after.
+PATIENT: [REDACTED].
+DOCTOR: Yeah okay, I want to take a look in your ears.
+PATIENT: Oh okay.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I got that [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: It's not an itch, it's like.
+DOCTOR: [REDACTED].
+PATIENT: No it's just like you know you feel like, well I guess it is an itch.  You know how sometimes [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And it itches, mine [REDACTED] and I do like that and it kind of goes away.
+DOCTOR: [REDACTED].  That's probably [REDACTED].  They look pretty good.
+PATIENT: This the side that be sore, it's just sore. I don’t know why.
+DOCTOR: You know, this machine isn’t working very well. Do you mind coming over.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Yeah the allergies, what sometimes happens is [REDACTED] fluid [REDACTED] sinuses.
+PATIENT: Uh-huh.
+DOCTOR: And it goes back inside the ears.
+PATIENT: Okay.
+DOCTOR: And then honestly it just takes time for it to go away and there's no like medicines.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: So have a seat and let me talk to DOCTOR.
+PATIENT: Alright.
+DOCTOR: And see if there's anything else we need to do.
+PATIENT: Now we got these pills.
+DOCTOR: We got those pills.
+PATIENT: And we got the herpes pills.
+DOCTOR: And the herpes pills and I'll refill your, oh that's all you need right.
+PATIENT: Right.
+DOCTOR: And then um we'll get your blood work today.
+PATIENT: Okay.
+DOCTOR: [REDACTED] colonoscopy is up to date.
+PATIENT: Okay.  Alright.  You know they doing the upper one tomorrow. The day after tomorrow, I mean Thursday.
+DOCTOR: Okay.
+PATIENT: I just going to go on and have it done.
+DOCTOR: Oh yeah you had one in 2005.
+PATIENT: Yeah.
+DOCTOR: Alright.  Have a seat, I'll be right back.
+PATIENT: Alright, okay.
+(DOCTOR OUT:  65:18  DOCTOR IN:  70:28)
+DOCTOR: Alright.  Yeah that's [REDACTED] through everything.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: We just need to check your blood work today.
+PATIENT: Alright.
+DOCTOR: So just stop by the Lab.
+PATIENT: Alright.
+DOCTOR: And then you're all set.
+PATIENT: Okay.
+DOCTOR: And just come back and see me in like six months.  Alright it sounds good.
+PATIENT: Yeah.
+DOCTOR: Great to see you.
+PATIENT: Alright.  [REDACTED].
+DOCTOR: Do those exercises when you get dizzy.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Thank you.
+DOCTOR: Okay, uh-huh.
+PATIENT: Alright.  You have a good one.
+DOCTOR: You too.
+PATIENT: 71:01
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275401
+TRANSACTION # 578-10-2-316-0103

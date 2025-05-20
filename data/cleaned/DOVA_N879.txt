@@ -1,0 +1,333 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: [REDACTED].  Hi, how you doing I'm [REDACTED].
+PATIENT: Good how's yourself?  [REDACTED]
+DOCTOR: Just have a seat [REDACTED].  How you been?  Do you need to go to the washroom?  [REDACTED] there.  That was a weird thing, good to see you.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: That's alright.  I'll help these gentlemen out.  We're going to go in the clinic another way.
+PATIENT: Yeah.
+DOCTOR: Exactly right.  [REDACTED].  Alright.  So how have you been doing sir?
+PATIENT: Oh, right now I feel real little dizzy.
+DOCTOR: Yeah.
+PATIENT: Yeah.  I don't know, it's just been going on for a couple days already.  I don't know what's going on.  I got that pain in my stomach again and I quit drinking.
+DOCTOR: Yeah.
+PATIENT: Yeah about the 13th of month it'll be six months.
+DOCTOR: Great.  Congratulations on that.
+PATIENT: Yeah.
+DOCTOR: So this dizziness when did it start?
+PATIENT: Couple days ago, it's just that I don't know walking and I'm like woe man it's like I'm wrung out, like I get tingling on my fingers.
+DOCTOR: Uh-huh.
+PATIENT: I feel like shit.
+DOCTOR: And you have the belly pains too?
+PATIENT: Yeah, right here, right up in there right by.
+DOCTOR: Your bowel.
+PATIENT: Yeah.
+DOCTOR: When did those start?  The same thing a couple days ago?
+PATIENT: Yeah just a little while ago yeah.
+DOCTOR: A couple of days ago?
+PATIENT: Yeah.
+DOCTOR: Okay.  Have you been having any diarrhea?
+PATIENT: No.
+DOCTOR: Any vomiting?
+PATIENT: No it feels like I want to vomit now though.  It's like I feel terrible.
+DOCTOR: Any other changes in your stools, blood, anything like that?
+PATIENT: Just a little bit, I saw a little bit of it maybe about a week ago.
+DOCTOR: A little bit.
+PATIENT: Yeah.
+DOCTOR: Was it like on the, was the stool brown in color or black in color?
+PATIENT: It was like brown in color.
+DOCTOR: Brown okay. And it didn't like turn the toilet bowl red or anything like that, it was just a little bit?
+PATIENT: It was just the water a little bit.
+DOCTOR: Okay.  Alright and the dizziness, does it feel like the room is spinning for you?
+PATIENT: Yeah.  And I just got glasses, not even a year ago.
+DOCTOR: Yeah.
+PATIENT: And they got them changed and I feel like whoa, I don't know.
+DOCTOR: You're not really associated the glasses or anything like that.
+PATIENT: No, no.
+DOCTOR: Okay.  But it feels like almost like you have to hold on to the [REDACTED] spinning around and around.
+PATIENT: Yeah, especially when I walk.
+DOCTOR: So does it feel like everything when you stand up drains out of your head?
+PATIENT: Yeah right.  You're standing there and every thing’s like whoa.
+DOCTOR: Okay.
+PATIENT: Whoa.
+DOCTOR: Just to kind of you define and be sure, it's kind of more sounds that like when you get up things kind of drain out of your head it feels like rather than sitting there and then feeling like the room's unstable and like spinning around.
+PATIENT: Uh-huh.
+DOCTOR: Is that correct, it's more of the first one than the second one?
+PATIENT: Yeah.
+DOCTOR: Okay.  Alright.  Do you notice it like when you go from sitting to standing at all?
+PATIENT: Just sometimes when I'm standing.
+DOCTOR: Sometimes when standing.
+PATIENT: Yeah like when I was waiting for the bus to come over here.
+DOCTOR: Yeah.
+PATIENT: I was standing there and I just felt like I had to hold on to something cause I felt dizzy.
+DOCTOR: Yeah, okay.  Have you been eating and drinking as much as normal?
+PATIENT: I been, normal diet, you know.
+DOCTOR: Normal, no changes.
+PATIENT: No changes no.
+DOCTOR: Yeah.
+PATIENT: Been taking my medicine like I'm supposed to you know.
+DOCTOR: Yeah.
+PATIENT: Plus I gotta get one of them expired, my diabetes, need to get it done.
+DOCTOR: Uh-huh.
+PATIENT: The name of it and stuff.
+DOCTOR: Is that your metformin?
+PATIENT: Yeah metformin yeah.
+DOCTOR: Now have you been, let's see.
+PATIENT: And this uh, my log book, I've been taking my blood, they gave me a machine.  I've been taking it three times a week but now I've been taking a little more cause I [REDACTED].  That’s what is funny.
+DOCTOR: Oh [REDACTED] for you.
+PATIENT: Yeah one day man it was up to like 160 something and then the next time I went in there and it was like 78 or something like that.
+DOCTOR: Uh-huh.
+PATIENT: Like this morning, I don't know I think it was like 121.
+DOCTOR: 121, [REDACTED] this morning was 101, 101?
+PATIENT: Yeah right.
+DOCTOR: Okay.  Well you know, the lowest one I've seen in here is 65, is that right?
+PATIENT: Right.
+DOCTOR: When you had that 65 did you feel dizzy or like you had to [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: You're not feeling right now though like you're sweating?
+PATIENT: Yeah, yeah it feels like my throat's dry.
+DOCTOR: Okay, alright.
+PATIENT: Yeah.
+DOCTOR: Have you been having any fevers, chills at all?
+PATIENT: No.  No.  I can't, I couldn't sleep for the last few days, I don't know.
+DOCTOR: Why couldn't you sleep, what was going on?
+PATIENT: I don't know.  I go to bed, cause I'm tired and then I'm laying there and I can't sleep.
+DOCTOR: Yeah.
+PATIENT: And then [REDACTED] one night, told you about getting that pain in my stomach.
+DOCTOR: Okay, now tell me a little more about that pain.  It's in your lower abdomen?
+PATIENT: It's right up through here.
+DOCTOR: Okay.
+PATIENT: See right here.
+DOCTOR: Yeah.  Does it stay there, or does it radiate like up into your, higher?
+PATIENT: Yeah it goes into my back.
+DOCTOR: Goes around back.
+PATIENT: Yeah and into my legs too.
+DOCTOR: Okay, okay.
+PATIENT: Back and legs.  Like somebody grabbed me, like something going in there and grabbing.  It's not really that bad.
+DOCTOR: Yeah.
+PATIENT: But the times that it, it's sort of like somebody's just grabbed me and they just like squeezed.
+DOCTOR: Is that associated at all with food?  Like is it better when you eat or worse when you eat?
+PATIENT: Probably uh, I don't know.  When I eat it doesn't bother me really.  It's just when I am doing nothing, I walk every day.  I walk two to three miles a day and I come back and I'm okay and then I sit down for a little bit and then all of a sudden I started getting that.
+DOCTOR: Okay.
+PATIENT: Like right now, it's starting to bother me, go right through like somebody just grabbed me.
+DOCTOR: Okay.  Alright.  Are you having any pain going down into like your scrotum at all?
+PATIENT: No, there's nothing down there.  It's in the legs.
+DOCTOR: Is it in the front part of the leg?
+PATIENT: Yeah it's on both sides.
+DOCTOR: Both sides.
+PATIENT: Yeah both sides and in my back.
+DOCTOR: And it is the left side of the back?
+PATIENT: Yeah.
+DOCTOR: You notice any changes in your urine at all?
+PATIENT: [REDACTED]
+DOCTOR: Painful?
+PATIENT: No, yeah it was burning oh about a week ago.
+DOCTOR: Right.
+PATIENT: Because I went to the bathroom and it was kind of burning and I know it wasn't because of alcohol because I don't drink no more so it's uh you know like.
+DOCTOR: Any blood in the urine at all?
+PATIENT: No I didn't see none.  Right now oh my God this thing hurts.
+DOCTOR: Okay.
+PATIENT: I thought maybe I was getting that diverticulitis again.
+DOCTOR: Yeah.  Is that what it feels like?
+PATIENT: Yeah because that's how it started out the last time I came into the hospital.  Because I came into the hospital in October of last year.
+DOCTOR: Yeah.
+PATIENT: I thought it was my pancreas again cause I had fallen off the wagon but well I hadn't been drinking that much.
+DOCTOR: Yeah.
+PATIENT: It was just a few and then the doctor sent me home, said you're okay.
+DOCTOR: Uh-huh.
+PATIENT: And then I came back the very following day.
+DOCTOR: Uh-huh.
+PATIENT: And they had me drinking I guess that stuff and they took a test and they found out I had that diverticulitis.
+DOCTOR: Wow okay.
+PATIENT: I couldn't believe the doctor sent me home.  I was in pain.  I said why am I going home if I'm in pain?
+DOCTOR: Okay.
+PATIENT: And then I came back, when I came back in then that's when they diagnosed me with that and they fixed it [REDACTED].  I said no man I ain't drinking no more, doing nothing.  I been eating healthy, except once in a while I'll eat a burger here and there other than that you know.
+DOCTOR: Uh-huh.
+PATIENT: Everybody likes burgers and I'm not unusual.
+DOCTOR: Alright.
+PATIENT: But uh I eat a lot of salads.
+DOCTOR: Yeah.  Okay.  I'm taking a look back; it looks like your blood counts have been a little bit low or were a little bit low during that hospitalization.  They've been pretty low in the past too.
+PATIENT: Right.
+DOCTOR: Normally some of that it might be due to the alcohol so I think probably number one we could check and see if that's still the case.  If you're still having low sugar or low blood counts okay.
+PATIENT: Uh-huh.
+DOCTOR: Um, number two we'll take a look and see what we think about um those pains.  So why don't you hop up over here and let me take a look and a listen okay.
+PATIENT: See.
+DOCTOR: A little dizzy just doing that?
+PATIENT: Yeah doing that.
+DOCTOR: Okay.  Sounds [REDACTED].
+PATIENT: Right.
+DOCTOR: Deep breath.  Just breathe normally.  Can I get you to lay back on the table?
+PATIENT: Oh man that hurts.
+DOCTOR: Can I get you to untuck your shirt?
+PATIENT: Yeah.
+DOCTOR: Let's press, uh let me take a look [REDACTED] okay.
+PATIENT: [REDACTED].
+DOCTOR: What's that?
+PATIENT: It's a little tender right up in that area.
+DOCTOR: Alright, a little pressure over here, okay.
+PATIENT: Oh I don't like that.  Yeah oh right there, oh my God yeah right there.
+DOCTOR: It's mostly down here?
+PATIENT: Yeah right.
+DOCTOR: Alright.  Stay laying down.  I'll check your blood pressure.  A couple different ways, with you lying down and with you standing up okay.
+PATIENT: Okay.  Do you think it could be a reoccurrence of that shit?
+DOCTOR: Of the diverticulitis?
+PATIENT: Yeah.
+DOCTOR: It could be, definitely could be.  I want to check some blood tests to help me see if that's what's going on.
+PATIENT: Oh.
+DOCTOR: You haven't been having any fevers so it's kind of suggests that.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Usually I don't complain.
+DOCTOR: No it's alright.
+PATIENT: It's like man right now it's like I can feel it in the [REDACTED] my side.
+DOCTOR: Okay.  I'm going to take a listen to your [REDACTED] too okay.  Take a deep breath in and hold it.  Good.  Turn to the left side.  Again take a deep breath in and hold it.
+PATIENT: Wow.
+DOCTOR: [REDACTED].  Okay.  Are you okay?
+PATIENT: My back.
+DOCTOR: Okay go ahead and sit up for me.  No swelling [REDACTED].
+PATIENT: No.  It's just like the pain I've been having.
+DOCTOR: I'm gonna look in your mouth, open up for me.
+PATIENT: Uh-huh.
+DOCTOR: Say ah.
+PATIENT: Ah.  I gotta go and see the doctor for the teeth [REDACTED] and I can't afford it.
+DOCTOR: Couldn't afford it.
+PATIENT: They wanted like $350 and I'm not working so what do I do?
+DOCTOR: I'm going to hold your arm and just hold still okay.  Okay.
+PATIENT: I urinate a lot.
+DOCTOR: You have been.
+PATIENT: Yeah a lot, a lot.  Good thing I took one of those bottles home with me from the last time I went to the hospital.
+DOCTOR: Yeah.
+PATIENT: I sleep on the second floor and the bathroom is downstairs.  I just use that and I've been urinating a lot too.  And sometimes I don't even have to drink anything.
+DOCTOR: Yeah.
+PATIENT: Does diabetes do this?
+DOCTOR: Yeah diabetes can do it if it's uncontrolled but your blood sugars look like you've been doing okay.
+PATIENT: Yeah.
+DOCTOR: Um, I think we probably just need to check a couple blood tests today to see if we can figure out what's going on.  Check your blood counts and a set of electrolytes, including liver levels and check your pancreas.  I don't think that's what going on but I think we should probably just check how given that you've had problems with it in the past.
+PATIENT: Okay.
+DOCTOR: Um I would tell you you're talking about the area it's concerning for diverticulitis, like that's what we normally think about you having pain but without any fevers, chills or sweats.  Your exam [REDACTED] pain doesn't feel like diverticular pain.
+PATIENT: Hmm.
+DOCTOR: I think probably what we're talking about and I do want to check your urine as well, make sure you don't have a urinary tract infection.
+PATIENT: Yeah.
+DOCTOR: And maybe a little infection in your kidney back there.  Um so we'll do all that stuff today.
+PATIENT: Alright.
+DOCTOR: Um and then follow that up um before you get out of here so we know what's going on okay.  Um.
+PATIENT: Alright good.
+DOCTOR: Alright.  Let me see if there's anything else we need [REDACTED].
+PATIENT: You ordered my medicine, right?
+DOCTOR: What's that?
+PATIENT: Reorder the medicine for the diabetes.
+DOCTOR: Uh I'll reorder it yeah.
+PATIENT: Cause I only got enough for I think four days, two pills.
+DOCTOR: Yeah.  So right now uh you're taking lisinopril and metformin only?
+PATIENT: Uh-huh.
+DOCTOR: On a daily basis.
+PATIENT: Right.
+DOCTOR: You been taking half a tablet of metformin?
+PATIENT: Right, it's like 1000 mg I think.
+DOCTOR: The whole tablet, so half would be like 500.
+PATIENT: Right.
+DOCTOR: But it's locked up on me right now for a second.
+PATIENT: Uh-huh.
+DOCTOR: Now are you taking an aspirin every day?
+PATIENT: Yeah.
+DOCTOR: Alright good.
+PATIENT: 81 I think.
+DOCTOR: Yeah one a day of baby, excellent.  Um okay.  And you know we definitely need to figure out.  I think the dizziness that you're having is probably related to whatever is going on in your stomach okay.  Um uh we can probably, let's see your blood pressure today was 108/67.  I still want you to take that low dose of the lisinopril 20 mg.
+PATIENT: Uh-huh.
+DOCTOR: Um but I want you to make sure you're drinking enough water uh and doing things like that okay.
+PATIENT: Okay.
+DOCTOR: Um I think probably if there is anything, infection or whatever going down in your belly though, that's going to explain the dizziness that you've been having.  Um that’s what we’ll check with today.
+PATIENT: Okay.
+DOCTOR: And see if there's anything like that going on.  So I put in this [REDACTED] diabetes medication and then we'll get some blood draws.  [REDACTED] not then I'll have you go downstairs and do it and then I'll call you as soon as I get the results.
+PATIENT: Oh okay.  [REDACTED] I just don't want to go back in the hospital again.
+DOCTOR: Yeah I know I hear you.
+PATIENT: But it feels good to not drink anymore.
+DOCTOR: Does it?
+PATIENT: Yeah.
+DOCTOR: Yeah I think that's a great health move for you.
+PATIENT: Yeah.
+DOCTOR: And you're really going to reap the benefits of that okay.
+PATIENT: Oh I feel a lot better with that now so.
+DOCTOR: Yeah.
+PATIENT: No I see all these people that are out there drunk and that used to be me.
+DOCTOR: Used to be you.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Acting stupid and I'm like oh okay.
+DOCTOR: Alright.  Alright you need to hold on for one second.  If the guy is out here to do blood tests, I'll have you come out with me and get those done here but if he's not, just wait in her okay.
+PATIENT: Okay.
+DOCTOR: Alright I'll be right back.
+PATIENT: Alright.
+DOCTOR: Good to see you again.
+PATIENT: Yeah.  And when do you want me to come back again?
+DOCTOR: Uh we'll get you to come back and depending on what we find will be one issue and then otherwise we'll make sure we're keeping a close eye on you and make sure every thing’s pretty stable, probably like three or four months.
+PATIENT: Okay.
+DOCTOR: And then.
+PATIENT: Yeah cause last time I was supposed to see you you cancelled out on me.
+DOCTOR: Uh-huh.
+PATIENT: That was way before I went into the hospital again then.
+DOCTOR: Yeah.
+PATIENT: Then they kept on asking me well who's your doctor, primary doctor and I said DOCTOR.
+DOCTOR: Yeah, yeah.
+PATIENT: And then they go, then finally.  Then I got cancelled out last month and they rescheduled me for today.
+DOCTOR: Yep exactly.  So I was happy I saw your name pop back up on the list today.
+PATIENT: Yeah.
+DOCTOR: Definitely.
+PATIENT: Yeah you never know, I'm doing a lot better.  How is DOCTOR doing?
+DOCTOR: He's doing good.  He's one of our chief residents now.
+PATIENT: Really.
+DOCTOR: Yep, yep.  He's doing real well.
+PATIENT: You tell him I said hello.
+DOCTOR: I will.
+PATIENT: Tell him no more drinking.
+DOCTOR: Yeah I'll be right back okay.
+PATIENT: Alright.
+(DOCTOR OUT:  155:2  DOCTOR IN:  163:0)
+DOCTOR: Alright, um I'm going to have you go downstairs and get those blood tests.  Go home after they're done, if there's anything abnormal with them, uh my biggest concern is a very mild case of diverticulitis.
+PATIENT: Uh-huh.
+DOCTOR: In which case we'll just give you a prescription, take it home.
+PATIENT: Okay.
+DOCTOR: Um the other things I'm thinking maybe you have like a kidney stone, maybe there's a urinary tract infection, those types of things we can also treat as an outpatient.
+PATIENT: Okay.
+DOCTOR: Now if things get worse, you start to get fevers, your pain gets worse, you have any falls or anything, come back into the hospital to the Emergency Department.
+PATIENT: Okay.
+DOCTOR: Um but make sure you're taking, I know your dry out, make sure you're taking enough fluids.
+PATIENT: Alright.
+DOCTOR: Your blood pressure did go down when I had you standing up but not to the point where I need to give you any IV fluids.
+PATIENT: Okay.
+DOCTOR: Just have a bottle of water around.
+PATIENT: I'll get some water again.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: I have to use the bathroom; you need to take my urine?
+DOCTOR: Um go downstairs and then they’ll give you a cup.
+PATIENT: Oh okay then I'll just wait till you tell me.
+DOCTOR: Yeah just wait exactly okay.
+PATIENT: And another thing you ordered for me right?
+DOCTOR: I'm not going to order any of the medicines just yet.  I ordered the metformin for you.
+PATIENT: Yeah, yeah, yeah.
+DOCTOR: Yeah I ordered that and then we'll see if I need to give you any antibiotic.
+PATIENT: Okay.
+DOCTOR: Okay.  Alright um, any questions?
+PATIENT: No.  Doc thanks a lot.
+DOCTOR: Good to see you again.  I'm glad to hear you're doing well.
+PATIENT: Well I hope you bring me back real soon cause I want to keep myself together.
+DOCTOR: We'll do three months labs today okay.
+PATIENT: Okay.
+DOCTOR: Alright, good to see you.
+PATIENT: I have to make a stop.
+DOCTOR: Just drop it off, there's probably going to be nobody there up front but just drop it on the desk up front.
+PATIENT: And then where do I go downstairs and?
+DOCTOR: Uh downstairs there's uh, you take those elevators and to the uh lobby and take a left.  Take the elevator to the front lobby, go down to the first floor, after you get there come out of the elevator and take a right and then it will be the first hallway on the right.
+PATIENT: Okay.
+DOCTOR: Go down to the end of that and that's the Lab.
+PATIENT: And they got me on the system?
+DOCTOR: There will be a big sign that says ‘Lab’.
+PATIENT: Alright thank you.
+DOCTOR: Alright take care PATIENT.
+PATIENT: Thank you.  Where's the check out?
+PATIENT: 165:2
+Time is 4:04
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238103
+TRANSACTION # 578-10-2-316-0103

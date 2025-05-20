@@ -1,0 +1,320 @@
+DOCTOR: PATIENT?
+PATIENT: Oh.  Hi.
+DOCTOR: I'm DOCTOR; I think we met once before.
+PATIENT: Yeah.
+DOCTOR: It's been a pleasure once before.
+PATIENT: Uh-huh.
+DOCTOR: Sit right here sir.  Have a seat.  Alright, so how have things been since I last saw you here?
+PATIENT: Uh, a little rocky.
+DOCTOR: It was almost a year ago huh.
+PATIENT: Almost a year ago.
+DOCTOR: Almost a year ago.  Did you finish your hepatitis C treatment?
+PATIENT: Yes I finished that and it didn't work.
+DOCTOR: Oh gosh okay.
+PATIENT: It didn't take and so uh I had a liver scan done and a liver biopsy and I'm in final stages of cirrhosis and level 3 hepatitis.  So tell me what that means.
+DOCTOR: Well it basically means that the hepatitis has kind of taken over your liver.  So your normal liver tissue has been replaced by basically scar tissue.
+PATIENT: Alright.
+DOCTOR: So you still must have a little bit of residual function yet cause I see you've had some labs and things that actually show that your liver functions kind of holding.
+PATIENT: Uh-huh.
+DOCTOR: Which is good um, so basically it just means that you're operating on very little normal liver left.
+PATIENT: Okay and uh, is that uh is it putting bile poisoning into my body?
+DOCTOR: Not necessarily yet no.
+PATIENT: Uh-huh.
+DOCTOR: There are stages of cirrhosis in terms of like stages, I don't necessarily, mean end-stage, essentially your liver will stop being able to detoxify the blood and things which is what its primarily responsibility is, it helps to do that, helps manage the lower blood sugars and things like that too.
+PATIENT: Uh-huh.
+DOCTOR: But its main goal is to get rid of all the impurities and the bad stuff that basically when eat, drink certain things.
+PATIENT: Uh-huh.
+DOCTOR: That's just how our body metabolizes and your liver helps you kind of get rid of some of that stuff.
+PATIENT: Uh-huh.
+DOCTOR: Eventually as the cirrhoses progresses, even actually in the end stages of cirrhosis um, at some point your body won't be able to get rid of that, the toxins and then they can start building up and start causing side effects.
+PATIENT: Can you get dialysis and takes the place?
+DOCTOR: Unfortunately no.  Kidneys yes, when your kidneys fail you can but unfortunately we haven't developed a good way, a good substitute liver if you will that can help with detoxifying the body like we've managed to come up with for the kidneys.
+PATIENT: Uh-huh.
+DOCTOR: So only curative treatment for end-stage cirrhosis, when it gets to that point um, that's a transplant so.
+PATIENT: And I can't get transplant cause I can't get rid of the hepatitis.
+DOCTOR: So.
+PATIENT: Uh-huh.
+DOCTOR: Although they do sometimes make some exceptions and things in certain circumstances.
+PATIENT: Uh-huh.
+DOCTOR: You know with having the hepatitis because hepatitis is the number, actually not number one, one of the top few reasons why people develop cirrhosis.
+PATIENT: Uh-huh.
+DOCTOR: Of the liver because we know that that particular virus does that.
+PATIENT: Yeah.
+DOCTOR: Um and so it's not an absolute contraindication being able to get a liver although it does put you at a much higher risk.
+PATIENT: Yeah.
+DOCTOR: Because if you have hepatitis, you put in a new liver, the changes are you'll develop hepatitis in that one, but that's not to say that you wouldn't at least you know buy yourself some time in terms of things.
+PATIENT: I don't want to buy time.
+DOCTOR: Now, now.  Don't say that now you're a younger guy so.
+PATIENT: Yeah and what am I gonna do, get old and hurt all the time, stay sick?
+DOCTOR: Well certainly you know.
+PATIENT: You know, I'm pretty fortunate.  I can die a young man instead of an old man and I won't have to worry about all those other aches and pains cause I tell you what the pain doesn't get easier the older you get, it gets worse.
+DOCTOR: True.
+PATIENT: Uh-huh.
+DOCTOR: Sometimes it's not about the quantity of life per say, it's the quality of life.
+PATIENT: Right.
+DOCTOR: If you're quality of life is going to be poor then you know like what's the push for the quantity part.
+PATIENT: Uh-huh.
+DOCTOR: But I'd agree with you there, I'd agree with you there.
+PATIENT: Uh-huh.
+DOCTOR: But so far your liver, in terms of you know its function for the most part its holding.
+PATIENT: Uh-huh.
+DOCTOR: You know a lot of people can go many, many years, even in end-stage cirrhosis and still live you know, many many years down the road without having a lot of the problems.
+PATIENT: Counting back I got this 35 years ago.
+DOCTOR: Uh-huh.
+PATIENT: In bootcamp.  I have pictures showing the guns they used, the air guns.
+DOCTOR: Uh-huh.
+PATIENT: So what's the max life of hepatitis in your body, 40 years isn't it?
+DOCTOR: It can actually last a long time. It can last a lifetime.
+PATIENT: Well what is a life time?
+DOCTOR: You never ever get rid of it so however long you live the virus can live.
+PATIENT: But how long before it kills you, 40 years is that the max you can keep it?
+DOCTOR: Ah.
+PATIENT: Before it kills you?
+DOCTOR: Uh I'm thinking a little bit different.  Everybody is different.
+PATIENT: I need an answer, I need an answer.
+DOCTOR: I wouldn't be able to, I wouldn't be able to give you one cause some people get hepatitis and you know they're dead within five years some people get it and it never actually kills them.  They die of other things you know, when they’re happy, old people.
+PATIENT: I know, I know now though uh I don't have any energy and I can be sitting and all of a sudden I just go totally blank.  I can't do nothing, I can't hardly get up and then a little while later I'm okay and I can get up and I can walk again and.
+DOCTOR: Uh-huh.
+PATIENT: But I have these energy spells where I just lose it all.  Is that from the sugar and the diabetes or is that from the hepatitis and the liver because I know the liver causes fatigue.  The hepatitis does.
+DOCTOR: It can definitely cause fatigue as well as.
+PATIENT: Uh-huh.
+DOCTOR: Different things in your blood sugar with the diabetes can do that too but also the treatment that you're on for the hepatitis.
+PATIENT: Uh-huh.
+DOCTOR: It and of itself, even after you stop treating, in the treatment with it can have some longer lasting side effects, particularly like with those energy.
+PATIENT: Yeah.
+DOCTOR: You know you feel miserable when you were getting that treatment.
+PATIENT: Right.
+DOCTOR: Um.
+PATIENT: This is a different type of fatigue, I still have that but this fatigue I can be doing something and all of a sudden it just hits me all at once and I can't do nothing.
+DOCTOR: You kind of have to just sit and let it pass.
+PATIENT: Yep, yeah uh-huh.
+DOCTOR: That could be related to you know the liver.  It could be related to the sugars too.
+PATIENT: Uh-huh.
+DOCTOR: But uh you know you don't have any yellowing of your skin or your eyes.  I can tell you what we worry about you know when you have cirrhosis.
+PATIENT: I've never turned yellow.
+DOCTOR: Which is good, which is good.  Um can you go like this for me [REDACTED].  So you don't have a weak sort of a flap that people develop when the toxins are building up in their body.
+PATIENT: Uh-huh.
+DOCTOR: And so you go to do this and you're not able to actually keep your hands up, they just keep falling.
+PATIENT: Uh-huh.
+DOCTOR: Too.
+PATIENT: Huh.
+DOCTOR: Yeah no that's actually good so.  I think for the most part [REDACTED] hold them which is a good thing, uh-huh it's a good thing so.  I think you've still got a few years left.  Even if you're in the end stages in terms of you know the liver itself meaning that there's not much good tissue left.
+PATIENT: Uh-huh.
+DOCTOR: Um, what good tissue you have its still working.
+PATIENT: Yeah.
+DOCTOR: The liver can be you know a pretty remarkable organ in that it can hang on for quite some time even when a lot of it is uh.
+PATIENT: I've been taking care of myself for a long time too and that might have a lot to do with it.
+DOCTOR: Definitely can, definitely can sure.
+PATIENT: Uh-huh.  How will I know whenever my liver's getting worse?
+DOCTOR: Blood tests that we check periodically, at least twice a year and then looking for signs of um liver dysfunction so like I said like if you suddenly notice it.  Most people won't necessarily notice this but um, particularly yellowing of the eyes, yellowing of the skin uh things like that.  Those are the signs of the liver signs of the liver starting to not work as well as it should.
+PATIENT: Uh-huh and what.
+DOCTOR: That'll be the number thing you'd look for.
+PATIENT: What about my kidneys um with the diabetes uh.  Will I know whenever my kidneys are getting ready to shut down, is there any signs?
+DOCTOR: You probably won't but we'll notice if your kidneys are starting to worsen because that's something else that's a part of the routine follow-up when we manage the diabetes, we check your kidney function as well and then we keep an eye on it because we do know that diabetes over time, one of the number one reasons a lot of people end up on dialysis is because their kidneys fail.
+PATIENT: Uh-huh.
+DOCTOR: Um but by keeping a close eye on it and managing things when we see it in terms of keeping your sugars controlled and keeping blood pressure controlled, keeping things like that, all the things kind of keep your kidneys as healthy as we can.
+PATIENT: Uh-huh.
+DOCTOR: While we're dealing with the diabetes, that's the best way we can to try and prevent that from ultimately happening for sure.
+PATIENT: And another thing uh my eye doctor said I have glaucoma and she said it wasn't that bad so I don't have to worry about it.  Is there any such thing as not worrying about glaucoma?
+DOCTOR: There is.
+PATIENT: (Laughter).
+DOCTOR: Yes there is.  So you know, there are different types of glaucoma.
+PATIENT: Uh-huh.
+DOCTOR: First and foremost but the most common type most people we just need to monitor it as well as because you have diabetes, you need to make sure you're seeing an eye doctor at least once a year.
+PATIENT: Uh-huh.
+DOCTOR: And so when you have the findings of glaucoma, they just need to monitor the pressures in the eye over a period of time.
+PATIENT: Uh-huh.
+DOCTOR: And if they start to get to a level where it's getting high, too high, then we start the different drops and medications that we start to use but initially.
+PATIENT: Uh-huh.
+DOCTOR: It's good to know that you have it so that we know that we need to monitor the eye pressures and to monitor the glaucoma development at the time.
+PATIENT: Yeah my eyes have been really dry lately and I got some drops one time and I got this just a little bitty bottle and you gave me a prescription but I've run out of it, can you get.
+DOCTOR: We can get refills.
+PATIENT: Okay.
+DOCTOR: Yeah, yeah basically it's just this artificial tears.
+PATIENT: Uh-huh.
+DOCTOR: But they work really really well.
+PATIENT: Yeah.
+DOCTOR: Um you know we can order those for you.
+PATIENT: Yeah my eyes were.
+DOCTOR: Not a problem at all.
+PATIENT: Okay.
+DOCTOR: Now as far as you're other medicines that you're taking, taking a baby aspirin every day?
+PATIENT: Uh-huh.
+DOCTOR: Good uh and then your insulin regimen.  How much of the Glargine are you using now?
+PATIENT: I'm using uh 25 units now.
+DOCTOR: 25 now and how have your sugars been doing at home?
+PATIENT: It's been running 115-120.
+DOCTOR: Good, good, very good, very good.  Um still taking the metformin twice a day?
+PATIENT: Yeah.
+DOCTOR: Good.
+PATIENT: I'm taking a half a pill.  I'm taking 500 mg now.
+DOCTOR: Okay.  But still taking it twice a day right?
+PATIENT: Yeah.
+DOCTOR: Okay good and then the insulin you said you're doing 25 units now.
+PATIENT: Yeah.
+DOCTOR: And then are you still taking the acid reflux medicine, the omeprazole?  Not taking that one anymore.
+PATIENT: Uh uh.
+DOCTOR: And then are you still using the Xanax three times a day or not using that either?
+PATIENT: No I'm not using that either.
+DOCTOR: Okay.  So basically the aspirin, the insulin, the metformin and you have the nitroglycerin tablets in case you need them.
+PATIENT: That's it, just in case.
+DOCTOR: Okay.  I saw that you had couple of bouts of the chest pain but everything turned out okay because the stress test and everything looked good.
+PATIENT: Yeah.
+DOCTOR: Which is good.
+PATIENT: Yeah.
+DOCTOR: You do have the nitroglycerin just in case?
+PATIENT: Yeah, uh-huh.
+DOCTOR: Okay.  Have you had to use any more of it?
+PATIENT: Uh one time.
+DOCTOR: One time.
+PATIENT: Uh-huh.
+DOCTOR: So just the one time.
+PATIENT: Yeah.
+DOCTOR: And did it help when you used it?
+PATIENT: Yeah, yeah it did.  I took it right away.
+DOCTOR: Good, good.  Alright.  And are you still seeing any of the doctors on the outside or you primarily come through the VA?
+PATIENT: I'm going to come to the VA mainly.
+DOCTOR: Now that you've finished the hepatitis therapy and everything.
+PATIENT: Uh-huh, right.
+DOCTOR: Okay.  You had some problem with mental health as well.
+PATIENT: Uh-huh.
+DOCTOR: You been trying to stay clean and sober?
+PATIENT: Yeah I'm trying to keep my head right you know.
+DOCTOR: Good, good, cause you gotta do that, you gotta do that in order to take care of yourself.
+PATIENT: Yeah.
+DOCTOR: Gotta be healthy up here to be healthy everywhere else.
+PATIENT: Exactly.
+DOCTOR: Good, good.
+PATIENT: And tell me something uh three doctors have told me that you can get these uh marijuana pills that's got the same thing in it as marijuana does and I was wondering if you can give me that because the marijuana actually kills the pain in my body and I was smoking when I was on the treatment and it took off the edge of the treatment and I, my bones didn't hurt as much.  It took away the nausea and the vomiting and stuff like that.
+DOCTOR: Uh-huh.
+PATIENT: And uh then when I went back to work they're saying no you can't do that you know and uh they had a big stink about it and uh I'm not working now though but uh, um, I told some other doctors and they're saying you know you can get pills for that that have the same thing in it and it'd do the same thing for you and you don't have to smoke marijuana.
+DOCTOR: Uh-huh.  I admit I'm not familiar with it here.  Now there is a similar compounds that uh we use for appetite stimulation but they don't have any for like sedatives or like pain relieving effect that are made from a marijuana [REDACTED] compound.
+PATIENT: Uh-huh.
+DOCTOR: Uh but I don't know, it doesn't sound like that would be the type of pill because they said it's mainly, so we use it like in cancer patients.
+PATIENT: Uh-huh.
+DOCTOR: For example when they have very very poor appetites and we need to stimulate their.
+PATIENT: Yeah that's what I, I was going three days without eating at the time and I couldn't remember to eat and so uh.
+DOCTOR: But if I remember correctly they're restricted medications so our Oncology Department.
+PATIENT: Uh-huh.
+DOCTOR: That's not something that we just have here unfortunately.
+PATIENT: Uh-huh.
+DOCTOR: Illinois has not jumped on the bandwagon for like I said medical marijuana use.
+PATIENT: Yeah I know.
+DOCTOR: Some other states yes.  Unfortunately Illinois has not and neither have the VA's here either.
+PATIENT: Uh-huh.
+DOCTOR: So I apologize I would not be able to do that.
+PATIENT: I would a lot rather have something like that rather than Xanax and.
+DOCTOR: Sure, sure, no I mean that's understandable.
+PATIENT: Those kind of things.
+DOCTOR: Now I don't know if you know the Mental Health Department if there's something that maybe they could offer you that might be similar uh, they may have options that aren't available to me as a, you know an internal medicine physician.
+PATIENT: Yeah.
+DOCTOR: So it might be worth asking about that, especially if it's like in terms of like helping to manage the mood and like if you're overwhelmed.
+PATIENT: Yeah.
+DOCTOR: It might be worth asking them.
+PATIENT: It takes away the anxiety.
+DOCTOR: Uh-huh.
+PATIENT: It takes away the anxiety and uh it takes away a lot of the pain in my spine and my hip and knee.
+DOCTOR: Uh-huh.
+PATIENT: And.
+DOCTOR: It might be worth it, worth asking about.
+PATIENT: Yeah.
+DOCTOR: You follow up with them already you know, it might not be a bad idea just to say hey is there anything other than you know resorting to actually you know smoking marijuana that you know I can maybe use to kind of help me manage these things.
+PATIENT: Yeah.
+DOCTOR: Unfortunately um the substances, the pill that I'm familiar with.
+PATIENT: Uh-huh.
+DOCTOR: Is solely an appetite stimulant that's uses.
+PATIENT: Appetite stimulant uh-huh.
+DOCTOR: Used as a force that was actually in the marijuana but obviously gives you the munchies you that sort of thing.
+PATIENT: Yeah uh-huh.
+DOCTOR: So that whole part of things but without any of the [REDACTED] you know sedating or anxiety or any of the side effects that actual marijuana does.
+PATIENT: Uh-huh.  Yeah.
+DOCTOR: And it helps your food for sure.
+PATIENT: Yeah.
+DOCTOR: The Oncology Department [REDACTED] chemotherapy would treat you for something like that.
+PATIENT: Right.
+DOCTOR: They do treatment like that so.
+PATIENT: Yeah.
+DOCTOR: Oncology would be able the help you out there.
+PATIENT: Okay.
+DOCTOR: But Mental Health Department might be able to because they definitely have different medications up their sleeve and might be more familiar with some of these alternatives too.
+PATIENT: Yeah.
+DOCTOR: But they may actually be able to help.
+PATIENT: I'll tell you what, start mixing pain pills and Xanax.
+DOCTOR: That's not a good combination sometimes.
+PATIENT: Yeah your head just you know.
+DOCTOR: Yeah.
+PATIENT: It don't work right.
+DOCTOR: No [REDACTED] either.
+PATIENT: They gave me those uh depression pills and they're saying these are the weakest ones we got.  I said I have bad side effects on this stuff and sure enough they gave me the weakest one and.
+DOCTOR: And you still have the worst side effects with them.
+PATIENT: Yeah.  I have real bad side effects and I took them.
+DOCTOR: Yeah.
+PATIENT: Two times.
+DOCTOR: You're that sensitive to things.
+PATIENT: Uh-huh.
+DOCTOR: It just does, it makes it hard to find options that work for you.
+PATIENT: Yeah.
+DOCTOR: Sure.
+PATIENT: Uh-huh.
+DOCTOR: Well come have a seat up here, let me take a listen here to your hearts and lungs and everything.
+PATIENT: Okay.
+DOCTOR: Deep breaths in and out.  It's nice and clear.  I'll take a listen here to your heart and just breathe normal.  You get a lot of swelling in your legs or anything like that?
+PATIENT: Yeah I'm retaining water right now but.
+DOCTOR: Retaining a little bit.
+PATIENT: Yeah but I think it's because I haven't been working.  I had to quit work because I just couldn't do the job anymore.
+DOCTOR: Yeah, everything's kind of taking its toll.
+PATIENT: Yeah, yeah and I have a required mandatory 48 hour week and six days a week and.
+DOCTOR: Oh gosh.
+PATIENT: I told them, I gotta have two days to recover you know I can't do it in one day.
+DOCTOR: No I hear you.  If I had to do that indefinite no.  I mean our hours are kind of crazy while we're training but.
+PATIENT: Uh-huh.
+DOCTOR: Goodness gracious, if I had to do that for.
+PATIENT: This guy has been working there 45 years, one day off a week all their life.
+DOCTOR: I mean great for them, they're working, if that's the way they want to live.  I don't think I could do it either.
+PATIENT: Oh yeah.
+DOCTOR: So.
+PATIENT: Yeah I did it for over six years and.
+DOCTOR: Okay.
+PATIENT: And now that I got sick.
+DOCTOR: Time to throw in the towel and focus on other things.
+PATIENT: Yeah it is.
+DOCTOR: Hopefully, let me take a quick peek here.  I think everything else [REDACTED], pull up.  So you think we'll hold off until next time you come we'll check your labs again.
+PATIENT: Okay.
+DOCTOR: And at that point we'll check and get an idea what the level of your hepatitis virus and everything too.
+PATIENT: Okay.
+DOCTOR: Um check your liver function tests, make sure everything's still holding the same.
+PATIENT: Uh-huh.
+DOCTOR: Um so in the meantime we'll keep going with the same medicines that you're taking.  It sound like the diabetes medicine is doing okay, take a quick peek.
+PATIENT: Yeah.
+DOCTOR: Okay, yeah it was last year when we checked your diabetes number it was perfect it's 5.7.
+PATIENT: Uh-huh.
+DOCTOR: We want below 7 so that's great.  So we'll check that again next time you come in alright.
+PATIENT: Okay.
+DOCTOR: And then otherwise I think you need to come back in about six months or so and we'll check some blood tests, check your diabetes, check your liver, check your hepatitis status and all that stuff.
+PATIENT: Uh-huh.
+DOCTOR: And we'll go from there but I'll make sure you've got plenty of refills that will get you through until then.
+PATIENT: Okay.
+DOCTOR: If you start to run low on something and you're running low just call our clinic here and you can leave a message and we can call in the refill for you.
+PATIENT: Okay.
+DOCTOR: Alright.  So I would check with Mental Health [REDACTED].  Medical marijuana alternative that might work for you.
+PATIENT: Yeah, uh-huh.
+DOCTOR: Yeah okay.
+PATIENT: Okay.
+DOCTOR: Alright.  So we'll have you come back in about six months and we'll do the labs.
+PATIENT: Okay.
+DOCTOR: Alright, alright PATIENT here's that for you.
+PATIENT: Okay.
+DOCTOR: And if you need anything in the meantime feel free to give us a call, you can always come in and see any of us here.
+PATIENT: Okay.
+DOCTOR: In the clinic if you need to alright, I'll see you in about six months.  Okay.
+PATIENT: Okay.
+DOCTOR: All set.
+PATIENT: You're welcome.
+DOCTOR: Take care.
+PATIENT: Uh-huh.
+PATIENT: 46:36
+Time is 3:40.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238099
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,105 @@
+DOCTOR: What brings you in?
+PATIENT: Hi I just came in today I have been having, just been feeling really sick over the last three or four days. It started with just like a headache and cough four days ago and then I started getting some nausea and vomiting few days back as well as diarrhea.
+DOCTOR: OK, so the headache and cough started first you said right?
+PATIENT: Yeah.
+DOCTOR: OK, let's talk about the headache first that came on four days ago. Has it been persistent or does it come and go?
+PATIENT: It's been pretty persistent. Besides, when I take some Tylenol.
+DOCTOR: OK, and does anything make it better or worse?
+PATIENT: Just a Tylenol, nothing really, yeah, it's pretty constant,
+DOCTOR: OK, and have a an and sorry where exactly is it is it on it's like at the top of your head, temples, forehead?
+PATIENT: It's kind of like my forehead in the top of my head on both sides.
+DOCTOR: OK and does it radiate your neck or anywhere else?
+PATIENT: No, I think it’s, it doesn't go to my neck or anywhere else.
+DOCTOR: OK, and do you have neck stiffness or neck pain with that?
+PATIENT: No, not really.
+DOCTOR: And one to ten, ten being the worst pain you've ever had, how bad is it?
+PATIENT: Uh the headache, probably like 7.
+DOCTOR: OK. Uhm and timeline wise, has it gotten worse over the past four days?
+PATIENT: It's kind of stayed around the same, actually.
+DOCTOR: OK, OK, and have you ever had a headache like this in the past?
+PATIENT: Not really, I don't really get too many headaches
+DOCTOR: OK so this isn't you. Alright And let's go on to the cough. The cough started around the same time you said, has that gotten better or worse over the past four days?
+PATIENT: It's the cough is around the same as well.
+DOCTOR: OK, and is it a dry cough or are you breaking up any flem?
+PATIENT: It's mostly a dry cough.
+DOCTOR: OK, so no sputum or blood?
+PATIENT: No, no.
+DOCTOR: OK, good. Alright, and are you short of breath at all?
+PATIENT: Uhm, no, not really,
+DOCTOR: No OK. And how about wheezing?
+PATIENT: Uhm no, no wheezing.
+DOCTOR: OK. Only saying an. And any chest pain?
+PATIENT: No.
+DOCTOR: No OK. And have you had any weight loss over the past few months?
+PATIENT: No, I haven't.
+DOCTOR: Any fevers or chills?
+PATIENT: No.
+DOCTOR: No OK, uhm how about fatigue?
+PATIENT: I guess just a little bit tired over the last few days, but I don't know that's just just from the diarrhea and just being sick.
+DOCTOR: Um OK, and how about rashes?
+PATIENT: No.
+DOCTOR: No, OK changes in your vision or hearing?
+PATIENT: No.
+DOCTOR: Uh itchy eyes, discharge anything like that?
+PATIENT: No, nothing like that.
+DOCTOR: About a stuffy or runny nose?
+PATIENT: No, nothing like that.
+DOCTOR: OK, how about changes in your smell or taste?
+PATIENT: Uhm smell I feel like a little bit. I've been kind of losing my smell over the last I would say one day.
+DOCTOR: OK, OK. Alright, and any dizziness or fainting spells?
+PATIENT: No, nothing like that.
+DOCTOR: Confusion or memory loss?
+PATIENT: No.
+DOCTOR: Uhm alright and joint pains or muscle aches?
+PATIENT: Uh no.
+DOCTOR: Alright. You mentioned you also have had diarrhea. When did that start?
+PATIENT: So probably like 2 days ago I started getting some liquid stools and I just had to go like probably five or six times a day. .
+DOCTOR: OK. Alright. And uhm are you noticing any blood in there?
+PATIENT: No, I haven't seen any blood.
+DOCTOR: OK, do you feel dehydrated?
+PATIENT: No, I've been trying to keep hydrated.
+DOCTOR: OK, good, any changes in your appetite?
+PATIENT: Uh no.
+DOCTOR: No, any nausea or vomiting?
+PATIENT: Yeah, I was having some. I'm having some nausea today, but I had some vomiting yesterday. I vomited two times.
+DOCTOR: OK. And are you throwing up any blood?
+PATIENT: No.
+DOCTOR: What color is it?
+PATIENT: Uhm it's usually I feel like whatever I eat. Yeah, contents, food contents.
+DOCTOR: OK, do you think anything triggered that episode of vomiting?
+PATIENT: No, I haven't really ate anything new, I'm just in my house, yeah I I don't know what triggered it.
+DOCTOR: OK, alright any feelings of like, feeling like you're bloated or gassy?
+PATIENT: Uhm, no. Nothing like that.
+DOCTOR: OK, any constipation?
+PATIENT: No.
+DOCTOR: OK. Alright, and are you otherwise healthy or do you have any longstanding medical conditions?
+PATIENT: No, I'm I'm pretty healthy. I don't really. I don't really even take any medications.
+DOCTOR: OK. And are you up to date with her immunizations?
+PATIENT: Yep.
+DOCTOR: Uhm, do you have any allergies?
+PATIENT: No, not that I know.
+DOCTOR: No, any family history of lung or heart conditions?
+PATIENT: Uh, no, not that I know of.
+DOCTOR: OK, do you smoke?
+PATIENT: No.
+DOCTOR: No, OK. How  about marijuana or yeah, how about marijuana? Do you either take edibles or smoke it?
+PATIENT: I’ve tried a couple times but it was not really my thing.
+DOCTOR: OK. And how about other recreational drugs like cocaine, heroin and opioids?
+PATIENT: No, nothing like that.
+DOCTOR: OK. Uhm and where do you currently live?
+PATIENT: I live just in an apartment just in the city. So yeah, just by myself though.
+DOCTOR: OK, any like old carpets, dust, mold, asbestos, pets, anything that could be triggering your symptoms?
+PATIENT: No, not really.
+DOCTOR: OK and have you been in contact with anyone sick recently?
+PATIENT: No, I've been. And kind of. At home, the only places I maybe have been in contact with someone is maybe at work. In like the lunch room and things like that.
+DOCTOR: OK. OK and sorry, where do you work?
+PATIENT: I work at a car dealership.
+DOCTOR: OK, OK. An any travel recently?
+PATIENT: No.
+DOCTOR: OK, has anyone at your work been sick as well?
+PATIENT: No, I haven't really noticed anyone being sick.
+DOCTOR: OK, OK, well those were the questions that I had for you. Did you have any questions of your own for me?
+PATIENT: No, I I was just wondering what this can be.
+DOCTOR: Um yeah, so the first thing we want to rule out as covid because a lot of your symptoms overlap with those of covid, so we'll take a swab and you should get those results in about 24 to 48 hours. In the meantime, you should isolate for 14 days. And if your results are positive, public health will be in touch with you to do some contact tracing. But if it's not covid, it could be another viral illness that's going around this time of year that could be causing similar symptoms as well, but either way the management kind of is supportive, so making sure you're well hydrated, eating nutritious food, sleeping well, taking antipyretics like Tylenol for fever's if you get any. And you can also take Tylenol or anseads for muscle ache, joint pains, anything like that. Does that sound OK?
+PATIENT: Yeah, that sounds good. Thank you.
+DOCTOR: OK. Great, no problem.

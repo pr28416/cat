@@ -1,0 +1,133 @@
+DOCTOR: Would you mind starting with telling me what I can help you with today?
+PATIENT: Yeah, um I haven't been feeling very well over the past two days. I have had this cough, I'm feeling very short of breath and I'm feeling very feverish as well.
+DOCTOR: Okay, uh, have you checked your temperature?
+PATIENT: No, I haven't actually checked it, but I'm just feeling hot and I'm having chills.
+DOCTOR: Okay, were you having like night sweats as well?
+PATIENT: Um, yeah, last night I did get sweaty.
+DOCTOR: Okay, and when uh, when did you start feeling feverish?
+PATIENT: Feverish, maybe around the same time like right after the cough and shortness of breath started, maybe like a day and a half ago.
+DOCTOR: Okay. It's um, so the cough started about a day and a half ago as well?
+PATIENT: Yes.
+DOCTOR: Okay. Uh, did you have a cough prior to this or is it new?
+PATIENT: It's new.
+DOCTOR: Okay, is it a dry cough? Or are you bringing up sputum or phlegm?
+PATIENT: Um, it's uh yeah, it's um, it's dry most of the time, but once in a while I'll see some like yellow phlegm.
+DOCTOR: Okay, have you noticed any blood?
+PATIENT: No, no blood.
+DOCTOR: All right, and have you had any chest pain?
+PATIENT: No chest, well actually, when I try to take a really deep breath in, it, it hurts, my chest hurts.
+DOCTOR: Okay, where do you feel the pain?
+PATIENT: Uh, it seems to be central on my chest.
+DOCTOR: Do you feel it radiating anywhere, like to your back or to either side?
+PATIENT: No.
+DOCTOR: Okay, how would you describe the pain? Like sharp, dull?
+PATIENT: Um, it's pretty sharp when I take a deep breath in.
+DOCTOR: How long does the pain last for, and is there anything that you do that makes it go away?
+PATIENT: It was like less than a minute um, and, and it goes away when I like, if I try not to take a deep breath in.
+DOCTOR: Okay, so it sounds like that it, the, the breathing is a trigger there, when you're breathing in deeply.
+PATIENT: Yeah.
+DOCTOR: Alright. And have you had any wheeze?
+PATIENT: Uh, a little bit, yes.
+DOCTOR: Alright, and uh, is the wheeze new as well?
+PATIENT: Um yes, that also started after the coughing and the shortness of breath.
+DOCTOR: Alright. And have you had any episodes of feeling like your heart's racing, or is it speeding really fast?
+PATIENT: No.
+DOCTOR: Okay, and you said it, yeah, you've been short of breath as well. Um, are you really short of breath now, and what sorts of things have been really bringing it on for you?
+PATIENT: Um it's, yeah, I'm still a little bit short of breath and I, I guess the shortness of breath gets worse when I'm walking or doing something physical.
+DOCTOR: Okay and did, is this new or did you have this before?
+PATIENT: It's new.
+DOCTOR: Okay, have you noticed any swelling in your in your legs or extremities?
+PATIENT: No, nothing like that.
+DOCTOR: And do you get short of breath if you lie down flat?
+PATIENT: Uh, no, not that I've noticed.
+DOCTOR: And how many pillows do you sleep with?
+PATIENT: Uh, just the one.
+DOCTOR: Okay um, and have you had any headaches?
+PATIENT: No.
+DOCTOR: And how about any eye redness or discharge?
+PATIENT: Uh no.
+DOCTOR: Have you had a runny nose or felt congested?
+PATIENT: Um, yeah a little bit. Yeah, I've been, yeah, I've been feeling a little congested.
+DOCTOR: And when did that start?
+PATIENT: Um, that started a little bit before the cough, actually.
+DOCTOR: Okay, and you're still feeling that now?
+PATIENT: Yeah.
+DOCTOR: Okay. Have you had a sore throat?
+PATIENT: No sore throat.
+DOCTOR: Okay, and um, have you had any um, muscle aches or body pains?
+PATIENT: Um I, yeah, I guess my muscle aches a little bit um, it's very dull though, it's not sharp.
+DOCTOR: Okay, and uh, how has your energy been? Have you been fatigued?
+PATIENT: Yeah, my energy's been pretty low. Um, I've been feeling very tired.
+DOCTOR: Okay, and how long has that been going on for?
+PATIENT: Um, for about the same amount of time. Like three days, yeah.
+DOCTOR: Alright, and have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: How about nausea or vomiting?
+PATIENT: No.
+DOCTOR: And any changes to your urinary habits, like pain or?
+PATIENT: Uh no, nothing like that.
+DOCTOR: Okay, and um, how has your appetite been?
+PATIENT: Um, it hasn't been the greatest because I haven't been feeling well, but I've still been eating.
+DOCTOR: Okay, have you had any weight loss over the last several months?
+PATIENT: Um, no, not that I've noticed.
+DOCTOR: And uh, how about any changes to your sense of smell or sense of taste?
+PATIENT: Sense of smell or taste, no, no changes there.
+DOCTOR: Okay, um and then any skin changes or rashes?
+PATIENT: No.
+DOCTOR: Alright, um, so you've been experiencing this cough, uh, started a couple of days ago with um, shortness of breath, and you're bringing up sputum sometimes and, and a fever that's started a bit more recently, as well as having some night sweats.
+PATIENT: Yeah.
+DOCTOR: Have you experienced any other symptoms?
+PATIENT: Uh, no. Other than that, no symptoms.
+DOCTOR: I see, and have you tried anything to make, make the symptoms better?
+PATIENT: Um, I've tried some Tylenol, I've tried some, um like, cough suppressants, but nothing seems to be helping.
+DOCTOR: Okay, um, and have you been diagnosed with any medical conditions before?
+PATIENT: Um, no, not um, well actually, I have, I had, I have osteoporosis, for which I'm taking calcium and vitamin D, as well as like um, alendronate, alendronate, some sort of bisphosphonate.
+DOCTOR: Okay, have you had any, uh, like bone fractures?
+PATIENT: Um, I had um, a hip fracture, like uh, two years ago.
+DOCTOR: Okay and um, and how is the recovery and mobility been?
+PATIENT: Um, pretty good now.
+DOCTOR: Oh, that's great. And uh, do you have any other medical conditions besides osteoporosis?
+PATIENT: No, not that I know.
+DOCTOR: And have you had any surgeries prior, um, aside from the hip surgery two years ago?
+PATIENT: Um, I had my wisdom teeth taken out, I've had my gallbladder taken out, um, and I, I had like um, I had a PE um, a long time ago.
+DOCTOR: Okay, and what happened around that time, with the pulmonary embolism? Did you, was there a trigger, like a surgery around that time? Or were you immobilized or anything?
+PATIENT: Yeah, they think it happened right after my um, gallbladder removal 'cause I was in the hospital for a while.
+DOCTOR: Okay, and so were you on any medication for a period of time after that?
+PATIENT: Uh, yeah, I was, but not anymore.
+DOCTOR: Okay, um, okay. And um, are you taking any other medications besides the ones for your bones?
+PATIENT: Um, no, no other medications.
+DOCTOR: And do you have any allergies?
+PATIENT: Uh, no.
+DOCTOR: Okay, uh, and then could you tell me a little bit about your living situation right now? Are you living with anybody and uh, whereabouts?
+PATIENT: Um, I live in an apartment by myself and um, it's in London.
+DOCTOR: Okay, great, and do you have any supports in the home that, that help you with uh, any activities of daily living, like um, either dressing or bathing or making food or even doing some of the shopping?
+PATIENT: So I am pretty independent for most things. Um, there will be like a CCAC care worker who comes in, uh, once in a while just to help me clean the house.
+DOCTOR: Okay, so once in a while, is this like once a week or once, yeah, how often?
+PATIENT: Yeah, once every two weeks.
+DOCTOR: Okay, well that's great. It sounds like you're managing really well on your own. Um, do you have any other supports nearby, like family or, or friends?
+PATIENT: Um, I have some family close by um, my son lives close by, uh, and my daughter lives about 2 hours away. I'll see them about once a month.
+DOCTOR: Okay. Um, and do you smoke cigarettes?
+PATIENT: Um, yeah, I used to smoke, but I stopped about five years back.
+DOCTOR: Oh, congratulations on quitting.
+PATIENT: Thank you.
+DOCTOR: So you quit five years ago, and how long did you smoke for and how much did you smoke?
+PATIENT: Um, I used to smoke, not a lot, just like one or two a day, uh, and I did that for about 25 years.
+DOCTOR: Okay, and uh, do you drink alcohol?
+PATIENT: Um, I'll have like a glass of wine once in a while.
+DOCTOR: And how often is once in a while? Is this, or how many drinks per week would you say?
+PATIENT: Um, per week, maybe like three.
+DOCTOR: Okay, um, and any uh, heart or lung conditions that run in the family?
+PATIENT: Um, yeah so, there is um, like lung cancer, there's asthma, there's uh, COPD. All of that, someone, like my, both sides of my family had.
+DOCTOR: Okay, and uh, anybody in the family have like a bleeding disorder?
+PATIENT: A bleeding disorder, no.
+DOCTOR: Okay, anybody else in the family have either a deep vein thrombosis or, or PE?
+PATIENT: No.
+DOCTOR: Alright, um, and have you been around any, anybody who's been sick?
+PATIENT: No, not recently.
+DOCTOR: Alright, and have you traveled anywhere outside of the city, or?
+PATIENT: Uh, no.
+DOCTOR: Okay, um, so that was everything I wanted to ask about today. Was there anything that uh, that you wanted to add?
+PATIENT: No, those are all questions that I had. Um, do you think um, I need to be hospitalized, um, because I'm very short of breath, or do you think I can just um, stay at home? Do you think I need antibiotics?
+DOCTOR: Yeah, so we'll, we'll check your temperature and, and confirm the fever and um, check your oxygen levels as well. You might need oxygen, um, you're mentioning, with your shortness of breath. Um, and we will get a chest x-ray, and if um, we're seeing consolidation there, suggestive of pneumonia, you may need antibiotics that will cover, cover those, those bugs. However, your symptoms do overlap with COVID as well, and so it will be important to get a, um, COVID swab. But to answer if you will need a hospital stay, I think we'll need to at least wait until some of the investigations come back and, um, that will help determine how severe the symptoms are and we'll observe you over the next few hours, and if you are getting any worse or um, anything like that, then it might be a good idea, um, to uh, to be admitted.
+PATIENT: Okay. Okay yeah, that sounds good. Thank you.
+DOCTOR: You're welcome.

@@ -1,0 +1,118 @@
+DOCTOR: How can I help you today?
+PATIENT: Um yeah hi, I brought I brought my 8 year old daughter here um because I've noticed that she's been quite wheezy um for the past four five days and now she has a slight cough, um sounds like she's a little short of breath, so I just wanted to get things checked out.
+DOCTOR: OK, so for the, when it first presented, about four to five days ago, what did you notice, notice first?
+PATIENT: Um I noticed that she was wheezy um and it's it seemed like she was having some difficulty taking in deep breaths.
+DOCTOR: OK, now was this with any type of activity or just at rest?
+PATIENT: Yeah, she was playing tag with one of her cousins and she she was quite out of breath after.
+DOCTOR: OK, has she ever had anything like this before?
+PATIENT: No.
+DOCTOR: Nothing like that, OK, and has it been fairly steady since then? Or has it been fluctuating?
+PATIENT: It's been fluctuating.
+DOCTOR: OK, but it hasn't really gone away in the sense that you're still concerned coming now four days later?
+PATIENT: Yeah, it's just it would, she would have these these uh episodes, but it would resolve on its own and then she would, you know go back to doing some sort of activity and then she would have all these symptoms all over again, but when she rests um then it goes away, so I wasn't really sure, too sure what to think of it. But now I think it's important to get it checked out, so here we are.
+DOCTOR: Has she had any fevers at home?
+PATIENT: No.
+DOCTOR: Has she had a runny nose at all at home?
+PATIENT: No.
+DOCTOR: Has she seemed well otherwise, does she look sick?
+PATIENT: Yeah, she looks fine otherwise.
+DOCTOR: OK. And has she had any sick contacts recently? Anyone around her or her friends been sick?
+PATIENT: No, not that I've noticed.
+DOCTOR: OK. Any recent travel anywhere?
+PATIENT: Uhm, no, no, we didn't go anywhere because of covid.
+DOCTOR: OK, but she's still been going to school I suppose, playing with her friends?
+PATIENT: Yes.
+DOCTOR: OK. Have you noticed any rashes? Any skin changes anywhere on her body?
+PATIENT: Uh not that I've noticed, no.
+DOCTOR: OK, nothing like that, has she complained of any pain anywhere?
+PATIENT: No.
+DOCTOR: OK, and has she had any recent infections?
+PATIENT: Uh she had, actually she had a couple of infections over the past two years. Uh they would come and go uh and we took her to the doctor each time and it just ended up being some sort of viral infection.
+DOCTOR: OK, so nothing really needing antibiotics in the last couple of years?
+PATIENT: No.
+DOCTOR: And in terms of how she's been doing, has she been keeping up with her peers in terms of education, and how she moves, how she acts?
+PATIENT: Uh yeah, she's been yeah, she's been on par with her peers.
+DOCTOR: OK, so does she have a family physician?
+PATIENT: Um yes.
+DOCTOR: OK, so they haven't brought up any concerns about how she's growing, how she's developing?
+PATIENT: No.
+DOCTOR: So her weight, her height, they've been good for her age?
+PATIENT: Yeah, yeah.
+DOCTOR: Excellent. And has she gotten, has she been keeping up to date for immunizations?
+PATIENT: Yes, she's fully up to date.
+DOCTOR: Excellent. In regards to how she's doing, otherwise health, in terms of her health, has, did she see a family physician for any other medical issues that she might be having?
+PATIENT: Uh no, she's otherwise pretty healthy.
+DOCTOR: OK. How was the birth? Was there any complications when she was born?
+PATIENT: No, she was a vaginal delivery, full term, no complications.
+DOCTOR: OK, so nothing when you were pregnant with her, no toxic congestions? By that I mean um did you drink any alcohol, smoke at all when you were pregnant with her?
+PATIENT: No.
+DOCTOR: No, OK. And you just had antenatal care, so you saw doctor for ultrasounds and just for checkups?
+PATIENT: Yep, everything was fine.
+DOCTOR: OK. And when she was born, she didn't have to stay in the hospital at all?
+PATIENT: No, no.
+DOCTOR: And was she born, uh what weight was she when she was born?
+PATIENT: Uh, she was, how much was she? I think she was about 8 kilos.
+DOCTOR: 8 kilos?
+PATIENT: Sorry 8 pounds, 8 pounds.
+DOCTOR: Yeah, no worries. And then otherwise she is, so she's been healthy otherwise, been doing well, uh just in terms of how she's been doing uh with other systems of her body, have you noticed any concerns for her bowel movements?
+PATIENT: Uh no, she's been pretty regular.
+DOCTOR: OK, any concerns for peeing?
+PATIENT: Uh no, she's been going pretty frequently and she's, yeah no changes there.
+DOCTOR: And we already talked, she hasn't had any fevers, when she coughs does she ever bring anything up?
+PATIENT: Uh no, I haven't noticed any phlegm, no.
+DOCTOR: OK, and when she's having these wheezy episodes, do you ever notice that she looks like she's really straining to breathe, really struggling?
+PATIENT: Uh yeah, so she, it's not like she turns blue or anything like that, um she just slightly slightly has a hard time catching her breath.
+DOCTOR: OK, so these usually recover on their own?
+PATIENT: Yeah.
+DOCTOR: You don't give her anything for it?
+PATIENT: No.
+DOCTOR: OK, uh does she have any allergies?
+PATIENT: Um no, well she has some seasonal allergies, but nothing that she's been tested for.
+DOCTOR: OK, do you give her anything for seasonal allergies?
+PATIENT: Sometimes she takes like Reactine or like over the counter stuff, but um no, no prescribed medications.
+DOCTOR: OK, so she doesn't have any allergies where her face swells up or she has trouble breathing?
+PATIENT: No.
+DOCTOR: OK, and this, these episodes mainly happen when she's playing with friends, so do they happen in a certain environment? Like for example, is this in a friends house or is this outdoors or has it been across different settings?
+PATIENT: It's been across different settings but I will say it's worse when um when when there's colder weather.
+DOCTOR: OK.
+PATIENT: Yeah.
+DOCTOR: And do these episodes ever happen in your home?
+PATIENT: Yeah.
+DOCTOR: And what's the context from them happening in your home?
+PATIENT: Um usually when she is out and about running around in the backyard with her friends um is when I've mostly noticed it, yeah.
+DOCTOR: OK, so she doesn't have any symptoms at rest?
+PATIENT: Oh, no.
+DOCTOR: And she doesn't have any symptoms at night?
+PATIENT: Uh at night, so there was one one one night when she had some issues um with like wheeziness but it did resolve on its own.
+DOCTOR: OK. And did she wake up at night with that or just?
+PATIENT: Just trouble falling asleep, I think yeah.
+DOCTOR: OK. Alright, so we already talked about, so she doesn't really have any past medical issues that she's seen a doctor for, uh any surgeries?
+PATIENT: No surgeries.
+DOCTOR: OK. Is she taking medications right now?
+PATIENT: Um no, no medications.
+DOCTOR: Aside from the occasional Reactine?
+PATIENT: Uh yeah, aside from that, nothing, no regular medications.
+DOCTOR: And she's in school?
+PATIENT: Um yeah, she's uh she's in Grade 3 now.
+DOCTOR: OK, and does she live with you?
+PATIENT: Uh yeah she lives with me and my husband.
+DOCTOR: OK, do you two live in a house in town?
+PATIENT: Um yep, in a townhouse
+DOCTOR: OK, and what do you two do for work?
+PATIENT: Um so my husband is an ultrasound technician and I am a uh kindergarten teacher.
+DOCTOR: OK, excellent, and this is a question we just ask everyone, has there ever been any CC CAS involvement in the family?
+PATIENT: No.
+DOCTOR: And does anyone smoke in the household?
+PATIENT: Uh, no no.
+DOCTOR: OK, uh do you keep any carpets or pets in the household?
+PATIENT: We have carpets, but they're new carpets. We just got them, uh maybe six months ago, and nothing else.
+DOCTOR: So no pets, no dogs?
+PATIENT: No.
+DOCTOR: OK. Any wood burning fireplaces, stoves in the household?
+PATIENT: No.
+DOCTOR: And changed your air filters?
+PATIENT: Yeah.
+DOCTOR: Alright, excellent, so I think I have all the information I need, we're just going to do a physical exam and then I'm going to go talk to the physician and I'll come in and see your daughter and we'll talk about next steps from there. Do you have any questions that you'd like me to direct to him before that happens?
+PATIENT: No, thank you so much.
+DOCTOR: Alright, have a good one
+PATIENT: You too, bye bye.

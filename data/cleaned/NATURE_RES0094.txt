@@ -1,0 +1,64 @@
+DOCTOR: Uh, how may I help you?
+PATIENT: I've, uh, had a runny nose over the last few days and I've started to have a sore throat as well.
+DOCTOR: Hmm, Uhm, when did this start?
+PATIENT: I would, so the runny nose started, uh, about five days ago and, and the sore throat, uhm, about the same.
+DOCTOR: OK. Have you, uh, with the, the runny nose, do you have any, what's the discharge like?
+PATIENT: Uh, it's been kind of watery, it's clear.
+DOCTOR: OK. Alright and has your sore throat gotten better or worse over the past five days?
+PATIENT: Uh, it did get a little bit worse initially and since then it's been kind of stable.
+DOCTOR: Have you, uhm, had any difficulties swallowing?
+PATIENT: No, it, it is a bit sore, uhm, to swallow so it takes me a little bit longer to eat, but I've been able to still, still eat.
+DOCTOR: Have you changed, noticed any changes in your voice? Any hoarseness in your voice?
+PATIENT: No.
+DOCTOR: No, OK. And do you have any nasal congestion? Does your nose feel stuffy?
+PATIENT: Yeah it does, yes.
+DOCTOR: OK, uhm, any fevers or chills?
+PATIENT: No, I don't think so.
+DOCTOR: OK. Any difficulties breathing?
+PATIENT: No.
+DOCTOR: Any cough?
+PATIENT: No.
+DOCTOR: OK, uhm any, uh, pain in your chest?
+PATIENT: No.
+DOCTOR: Any other symptoms, anything related to your belly,  say, diarrhea or Constipation or any changes in your urinary, any urinary symptoms?
+PATIENT: No, nothing like that.
+DOCTOR: OK, OK, are you feeling fatigued, tired? Have any muscle aches?
+PATIENT: I, I have felt a little bit more drowsy these last few days and, uhm, yeah my, uhm, I have had some muscle aches as well.
+DOCTOR: Have you taken anything to help yourself, anything over the counter or any pills?
+PATIENT: I did use, uh, some uhm, like cold medication to help because I was having a headache as well and a lot of I guess just like pressure from the nose stuffiness.
+DOCTOR: Did the cold meds help?
+PATIENT: Yeah, it did help a little bit, it did help my nose clear up but it came right back after a few hours.
+DOCTOR: And how's your headache now?
+PATIENT: It's not too bad. It's pretty mild, but it's there.
+DOCTOR: Uhm, do you usually get headaches of this sort, or is this very different from what you generally experience, if you usually have headaches.
+PATIENT: I don't usually get headaches, but I have felt uhm, a headache like this before though.
+DOCTOR: Oh OK, when was that?
+PATIENT: Maybe the last time I was, I was sick.
+DOCTOR: Sure.
+PATIENT: Or if I don't get a good night's sleep. School's pretty early in the morning, so sometimes if I'm not sleeping well.
+DOCTOR: I see. OK alright, any other symptoms that you've experienced over the past five days that I didn't ask you about?
+PATIENT: No, it's been, yeah mostly the runny nose and sore throat and headache.
+DOCTOR: I see. OK, alright, and do you have any medical conditions?
+PATIENT: No, I've been healthy.
+DOCTOR: All right, good, any medications that you take on a regular basis?
+PATIENT: Uh, I'll use like Reactine or Claritin sometimes for allergies, but that's it.
+DOCTOR: What allergies do you have?
+PATIENT: I have allergies to dust and some environmental things, like pollen or ragweed I think maybe.
+DOCTOR: I see. Alright, and, uhm, do you have any family history of any medical conditions?
+PATIENT: Uh, I think my dad has high blood pressure. He takes a medication for that, uhm nothing serious though that I know of.
+DOCTOR: OK, alright, and who do you currently live with?
+PATIENT: So I live with both my parents and I have an older sister as well.
+DOCTOR: Good, OK, and do you smoke?
+PATIENT: I did try a vape once or twice, but, didn't really like it so, no.
+DOCTOR: Alright, what about marijuana?
+PATIENT: Uh, no, I haven't tried that.
+DOCTOR: Any recreational drugs?
+PATIENT: No.
+DOCTOR: Do you drink alcohol?
+PATIENT: No.
+DOCTOR: And have you recently traveled anywhere?
+PATIENT: No, we've been doing classes virtually.
+DOCTOR: And any contact with anyone who you think might be sick.
+PATIENT: No.
+DOCTOR: OK alright, well sounds like you have a sore throat and runny nose. You've been a little bit drowsy, had some headaches in the past five days, things were getting a little bit worse early on, but it's been a little bit, it's been more stable now. We'll do a physical exam, see, just listen to your chest, have a look inside your mouth and check your temperature and go from there. It sounds like you probably have a viral infection of some sort that should get, hopefully get better over time. We will also get a covid swab done just in case and if things seem to get worse, we can, you can definitely come back.
+PATIENT: OK, great, thank you.

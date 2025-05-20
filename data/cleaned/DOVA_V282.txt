@@ -1,0 +1,260 @@
+DOCTOR: Alright sir, you can take a seat over here.  Have you ever been to this clinic before?
+PATIENT: Yes.
+DOCTOR: You have.  How long ago?
+PATIENT: About some time last year I think.
+DOCTOR: Sometime last year, I don't have any documents of you.  Maybe I'm looking in the wrong place.
+PATIENT: I believe you are.  In the Red Clinic?
+DOCTOR: Let me just check this.  Oh, 2009.  Yeah I found you.
+PATIENT: I see that.
+DOCTOR: Okay how are you doing today sir?
+PATIENT: Pretty good.
+DOCTOR: Good, good.  Anything bothering you today?
+PATIENT: No I'm okay.
+DOCTOR: Okay.  Are you here just for a follow-up appointment?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: No I need you to set a appointment so I can uh see a toe doctor.
+DOCTOR: The toe, the foot doctor?
+PATIENT: Yes.
+DOCTOR: Okay.  What's wrong with your foot?
+PATIENT: I have a toenail I want cut off.
+DOCTOR: You want it cut, okay sure.
+PATIENT: You can take a look at it.  It's real ugly.  But you got to [REDACTED] or something to take it off.  See.
+DOCTOR: Oh yeah you definitely need to see the foot doctor for that.  How long has your toe been like that?
+PATIENT: Since about 2001.
+DOCTOR: Does it hurt?
+PATIENT: No it don't hurt.
+DOCTOR: Okay.  Did you hurt your toe before?
+PATIENT: No, it's just one morning I woke it was like that.
+DOCTOR: [REDACTED] okay.
+PATIENT: I been putting some Vick's on it.
+DOCTOR: I see.  And you're taking um hydrochlorothiazide?  Is that from somewhere else?  Your medication for blood pressure?
+PATIENT: Yes uh I live in a nursing home.
+DOCTOR: I see, okay and you get all the medicines from there?
+PATIENT: Yes.
+DOCTOR: Okay.  Do you need any of your cholesterol medicine from here or you don't need that?
+PATIENT: Yeah I can get it from here.
+DOCTOR: You can get it from here okay.
+PATIENT: What's the name of it, what's the name of the cholesterol medication?
+DOCTOR: Simvastatin.
+PATIENT: I'm taking that, I'm already getting that at the nursing home.
+DOCTOR: You do get that.
+PATIENT: Uh-huh.  I'm on the medication yep.  Now since I'll be now, I'm moving out of the nursing home on the 10th.
+DOCTOR: Oh you are, oh congratulations.
+PATIENT: So I could get my medications from here.
+DOCTOR: Okay.  Um why were you in the nursing home to begin with?
+PATIENT: I became homeless.
+DOCTOR: I see okay and then you're moving out.  Do you have a place to go to now?
+PATIENT: Yes ADDRESS.
+DOCTOR: Oh great, great.  And you want your medicines.  Um so how will that work, will it get mailed to you?  Do you want to pick them up today then?
+PATIENT: No.  I'm gonna wait till the 10th.
+DOCTOR: You want to wait for the 10th.
+PATIENT: [REDACTED].
+DOCTOR: I could have them available for pick-up.  They're gonna be, if I order it now it'll be available for pick up for one month.  Do you want me to do it like that so you can come here and pick it up.  Cause if I mail it right now, it's gonna, I don't know where it's gonna end up okay.  So how about I'll order it for pick-up.
+PATIENT: Okay let's do that then.
+DOCTOR: And then um you can pick it up on the 10th.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: They'll call me and let me know right?
+DOCTOR: No you don't need to; you can just walk in and pick it up.
+PATIENT: Somebody you guys want to call me and let me know when my medication so I can pick it up?
+DOCTOR: Oh no you can pick it up starting today.
+PATIENT: I can pick it up today?
+DOCTOR: I'm gonna order it today.  It's valid for one month.  So you can pick it up any time from today until December 22nd.
+PATIENT: Gotcha.
+DOCTOR: So you just come in and pull a number and pick it up.  If I were you I'd come early cause if you come early you don't have to wait.  If you come around 9 you'd probably have to wait an hour okay.
+PATIENT: Gotcha.  So what medications you ordering for me?
+DOCTOR: Um I'm gonna give you aspirin and your blood pressure medicine and your cholesterol medicine.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: No Risperdal or trazodone?
+DOCTOR: I can do, I don't know if I can give you that, to be honest with you.
+PATIENT: I got to see, I got to see, I got to see [REDACTED] later so.
+DOCTOR: Oh yeah perfect.  Ask him to do that one okay.
+PATIENT: Uh-huh.
+DOCTOR: Cause I don't think I can do those.
+PATIENT: Alright well do what you can do.  You know one thing about you, you're gorgeous.
+DOCTOR: Oh thank you.
+PATIENT: You married?
+DOCTOR: No.
+PATIENT: Looking forward to getting married one day?
+DOCTOR: Hopefully yes.
+PATIENT: You engaged?
+DOCTOR: No I'm seeing someone though.
+PATIENT: So you happily.
+DOCTOR: (Laughter) Um anything bothering you today?  No headaches, dizziness, fever, chills?  Did you get a flu shot?
+PATIENT: I got that about ten minutes ago.
+DOCTOR: Oh good.  No cough, no stomachache, no black stool, bloody stools.
+PATIENT: Uh-uh.
+DOCTOR: No pain when you pee, no blood in your urine?
+PATIENT: No.
+DOCTOR: No swelling in your leg, no rashes?
+PATIENT: No.
+DOCTOR: Okay.  And your blood pressure looks great.  I found your labs and you can actually take a seat up here for me.
+PATIENT: So you'll get me set up for an appointment for the toe doctor?
+DOCTOR: Uh-huh.
+PATIENT: The podiatrist.
+DOCTOR: Yeah.
+PATIENT: They'll send it to me in the mail right?
+DOCTOR: Yep.  I can schedule it for you for today.  I can schedule you today and they can um let you know what time and date your appointment is.
+PATIENT: Uh-huh.
+DOCTOR: No smoking?
+PATIENT: Yeah I smoke.
+DOCTOR: You smoke.  Are you interested in quitting?
+PATIENT: Uh-huh.
+DOCTOR: Do want any nicotine gum or any patches?  Sit up here.
+PATIENT: I'd try some gum.
+DOCTOR: You want to try some gum okay.
+PATIENT: Uh-huh.
+DOCTOR: Nice deep breaths, again.  How much, um how many cigarettes do you smoke a day?
+PATIENT: About half a pack.
+DOCTOR: Half a pack.  And how long have you been smoking for?
+PATIENT: 38 years.
+DOCTOR: 38 years okay.  Okay so the thing about the gum is that um you can't chew it and smoke at the same time.  So if you're gonna smoke, then you spit it out.
+PATIENT: Uh-huh.
+DOCTOR: What you do is you take the gum; you chew it a little bit when you get the urge and then you park it in the back of the mouth.  You don't keep chewing it cause this is going to keep releasing nicotine.  Once that urge goes away then you park it and then you chew it again if you have another urge.  If you have to have a smoke then spit it out.  Be careful [REDACTED] okay.
+PATIENT: Okay.
+DOCTOR: Let me order that for a pick-up.  Do you want to pick that up today?
+PATIENT: Yes.
+DOCTOR: Or do you want to pick, okay sure.
+PATIENT: I'll pick it up all at once.
+DOCTOR: All at once?  You want me to just order all your medications for pick-up today?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: So you said I got 30 days to get it right?
+DOCTOR: Uh-huh.  Do you know how much hydrochlorothiazide you're on?  Is it 12.5 or 25 mg?
+PATIENT: I don't know.
+DOCTOR: You don't know um hmm.  How do I order this then for you?  Do you want to call back or how do you want this done because I don't know what dose you're on.
+PATIENT: The lowest dosage.
+DOCTOR: It's the lowest dosage?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Do you take half a pill or a whole pill?
+PATIENT: Whole pill.
+DOCTOR: You take a whole one then I think its 25 mg then okay.
+PATIENT: Uh-huh.  Sound about right, 25 mg that sound about right.
+DOCTOR: Yeah cause half a pill would be 12.5.
+PATIENT: Uh-huh.
+DOCTOR: I'm gonna have these all available for pick-up okay.
+PATIENT: Uh-huh.
+DOCTOR: Whenever you want to come get them.
+PATIENT: Any time between today and 30 more days?
+DOCTOR: Yeah, any time between today and 30 days.
+PATIENT: Probably get it Wednesday or today.
+DOCTOR: Sure.
+PATIENT: Don't forget to sign me out so I get travel pay.
+DOCTOR: Sure.
+PATIENT: I think I have another appointment December 7th, could you check that out for me?
+DOCTOR: Sure.
+PATIENT: Eye doctor or something like that.
+DOCTOR: Yes an eye doctor appointment at 2:30.
+PATIENT: On the 7th?
+DOCTOR: Uh-huh on the 7th.  Okay.  Okay I will be right back okay.
+PATIENT: Uh-huh.
+(DOCTOR OUT:  18:53  DOCTOR IN:  21:45)
+DOCTOR: Have you had a colonoscopy?
+PATIENT: No.
+DOCTOR: Are you interested in having one?
+PATIENT: I don't know, it depends on how long will it take?
+DOCTOR: Um you've got to prep so you have diarrhea for about a day and then the procedure so when you go in it's uh kind of wait a little bit, they prep you and then they go in.  Actually it's a 30-40 minute procedure but there are, there's a time period where you do have to wait while you're there.  Um mainly because they give you stuff to sedate you and then you need someone to drive you home.
+PATIENT: Well maybe next year.
+DOCTOR: Maybe next year okay.  Did you get your flu shot this year?
+PATIENT: Around January.  [REDACTED] yes, yes.
+DOCTOR: You did get your flu shot okay great.
+PATIENT: As a matter of fact your nurses gave them to me.
+DOCTOR: Oh yeah you said that.
+PATIENT: About that colonoscopy, what are you guys looking for?
+DOCTOR: We're looking for cancer.
+PATIENT: Colon cancer?
+DOCTOR: Uh-huh.  So the reason why we um screen for colon cancer early, starting at the age of 50 is because uh colon cancer is asymptomatic so a lot of times when you have it you don't even know you have it.  If we catch it early while it's still in the asymptomatic stage.
+PATIENT: Uh-huh.
+DOCTOR: Then it's easier to treat than if we catch later and it spreads everywhere.
+PATIENT: If I had colon cancer what would some of the symptoms be?
+DOCTOR: Um you might have some bleeding from below, you might have some weight loss but sometimes you can be completely asymptomatic so you don't know.
+PATIENT: Uh-huh.  If you schedule it it's got to be for January.
+DOCTOR: Yeah I mean, so I mean do you want me to set you up for it or not right now?
+PATIENT: Not right now.
+DOCTOR: Not right now okay.
+PATIENT: Why did you guys stop sending me my ED pills?
+DOCTOR: You're what?
+PATIENT: Erection dysfunctional pills?
+DOCTOR: Hold on let me see.  I don't know.
+PATIENT: Could you have them send them back to me?
+DOCTOR: Sure I can ask, that's a question for DOCTOR, you can ask her when she comes in here okay.
+PATIENT: Uh-huh.
+DOCTOR: Were they working for you?
+PATIENT: Yes they were.  I miss them too.
+DOCTOR: So these actually have to be mailed to you.
+PATIENT: And I want to know why they stopped, what happened, how come they stopped mailing them to me.
+DOCTOR: I'm not sure why they stopped.  I'm going to give you some more of those though.
+PATIENT: So [REDACTED]
+DOCTOR: No thoughts of um hurting yourself, hurting others?
+PATIENT: No, no, no, no.
+DOCTOR: Great.  Alright, I don't know what's taking so long for this.
+DOCTOR: Did you page me?
+DOCTOR: Oh yeah sorry, can you take your shoe off again so she can look at your toe?
+DOCTOR: How long has it been bothering you?
+PATIENT: It's not bothering me, its ugly looking.
+DOCTOR: Oh okay.  So how long has it been going on?
+PATIENT: About ten years.  Every time I cut it off it grows back the same way.
+DOCTOR: Looks like an ingrown toenail.  And it doesn't hurt at the base of your toe at all?
+PATIENT: No.
+DOCTOR: Oh uh-huh.  Lay back for me sir.  Never hurts you at all?
+PATIENT: Uh uh.
+(Doctors discuss between themselves)
+PATIENT: Should it be hurting?
+DOCTOR: No it's good that it's not hurting.  I'm just surprised that it's not hurting at all [REDACTED].  Um there's no liver disease or anything?
+PATIENT: No liver disease.
+DOCTOR: Do you drink sir?
+PATIENT: I was [REDACTED], I been clean 20 months.
+DOCTOR: Good.  You're not drinking at all?
+PATIENT: No.
+DOCTOR: Excellent.
+(Doctors talk among themselves)
+DOCTOR: So uh you definitely have a fungal infection in your toenail.  Um I want you to see the foot doctors and we'll see what they think would be like an option for you but cutting it, with just starting you on a fungal medication and taking it for a while, seeing what happens to your toe and if it gets better then I think in the end you're still going to need to get part of the toenail cut off and hopefully it'll re-grow normally.
+PATIENT: Uh-huh.
+DOCTOR: But I think they're probably going to say you need to take a fungal medication for quite some time, months in fact, before they'll cut it okay.  Cause this will probably control this infection.  Uh when you have a fungal infection in your toenails it doesn't cause a blood infection.  It's not going to go into a bloodstream and cause you know sickness.
+PATIENT: Uh-huh.
+DOCTOR: Uh it is cosmetic, actually this is quite severe uh.  In order for a fungal medication to work you have to take it the entire time your toenail is growing.  So you can imagine how slow your toenail grows, you have to take this medicine for 2-3 months sometimes while the toenail is growing so all the new growth does not have fungus in it. Fungal medications can cause, you can sit up, can cause liver problems and that's why we were asking you about hepatitis prevention and stuff.
+PATIENT: Uh-huh.
+DOCTOR: So you have to come in every one month to two months to get uh blood tests to make sure your liver is okay.
+PATIENT: Uh-huh.
+(Doctors talk among themselves)
+DOCTOR: So uh it is an option.  I want you to talk to the foot doctors first and then we'll go from there.
+PATIENT: Gotcha.
+DOCTOR: Okay.  So you can make an appointment up front with the foot doctors um.  I do want you to know because this is not painful, it is in some ways cosmetic, so if you decide you don't want to do any of these things because you're worried about hurting your liver or whatever, then that's an option too because this is not going to cause a blood borne infection.
+PATIENT: Okay.
+DOCTOR: And this is [REDACTED] so you have to decide if you're willing to take that risk.
+PATIENT: Uh-huh.
+DOCTOR: I can't decide that for you.
+PATIENT: Right.
+DOCTOR: Okay, questions?
+PATIENT: Uh uh.
+DOCTOR: Okay.  So why don't you put your shoes and socks back on.  I'll put in the Podiatry consult and you can make an appointment up front okay.
+PATIENT: I have to make the appointment for the foot doctor?
+DOCTOR: Yeah they'll make it right up front.
+PATIENT: They can do that?
+DOCTOR: Yeah.
+PATIENT: Can you do it in the computer?
+DOCTOR: No I don't do that; they can do it up front though.
+DOCTOR: Of course they can.  Okay but we'll put the order in the computer for you today.
+DOCTOR: Alright for this is for you, take it out to the front desk and I'm gonna you to go to the Lab to check your liver profile, to get the liver labs.  You haven't had one in over a year okay.  So [REDACTED] medicines [REDACTED] hurt your liver.
+PATIENT: Uh-huh.
+DOCTOR: It's something that you could consider, [REDACTED] talk to the podiatrist okay.
+PATIENT: Uh-huh.
+DOCTOR: They can see if they can possibly treat it, um after they cut it out and stuff and that is also an option but we're not the foot specialist and I'm not really sure what I can offer you.
+PATIENT: Uh-huh.
+DOCTOR: Other than the medicine okay.  Go ahead and put your shoe on.
+PATIENT: Do you know what's [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: You can tell me, I was [REDACTED] 80%, 60%, 30% of health care here?
+DOCTOR: I’m not sure how much you are covered if you like.  It should say on this piece of paper.
+PATIENT: Uh-huh.
+DOCTOR: I do believe but it doesn't.  You can ask them up front how much, what percent you are but it doesn't say right here and I'm not really sure where I would find it [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Oh you're free to go.  All you have to do is go up to the front and schedule your foot doctor appointment, tell them as soon as possible but they schedule it cause it's written on that piece of paper, then go to the Lab and get your labs done and [REDACTED] back here.  Feel free to pick up your medicines whenever [REDACTED].
+PATIENT: Uh-huh.
+PATIENT: 38:25.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO800511/JOB#  1286091
+TRANSACTION # 578-10-2-316-0103

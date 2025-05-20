@@ -1,0 +1,273 @@
+DOCTOR: PATIENT?  How are you?
+PATIENT: Could be better, could be worse.
+DOCTOR: Right over here is okay.  You can have a seat there.  Here for your uh annual visit?
+PATIENT: I guess that's what it is.
+DOCTOR: Okay.  Any new, I haven't seen you in a year, any new problems or issues?
+PATIENT: Yeah I got a pain in my back for the last three months or so, I don't know if it's a muscle pulled.  I don't know what the hell it is.
+DOCTOR: Okay.
+PATIENT: But I can't get rid of it.
+DOCTOR: Okay.
+PATIENT: But I got to keep on working and stuff like that on my basement [REDACTED] so I don't know if it's physical or whatever.  And then I had an endocrine doctor telling me my kidney, to detect the kidney [REDACTED].
+DOCTOR: Sure.
+PATIENT: I guess it went too high or something.  But they checked it out and it was okay.  But then my endocrine doctor here, I did see him about a week or two ago.  That's the first time in a year.
+DOCTOR: Uh-huh.
+PATIENT: That’s ridiculous for hyperparathyroidism and the only reason I'm here cause I called cause I'm running out of medication refills.
+DOCTOR: Yeah.
+PATIENT: And so forth and they said well it said four months, suppose the nurse didn't do their Goddamn job so they never made an appointment for me and she decided to look at my back record.  It's not even on the screen so she couldn't even really diagnose the situation.
+DOCTOR: Uh-huh.
+PATIENT: But other than that, I'm still alive.
+DOCTOR: So are you seeing a regular doctor as well on the outside?
+PATIENT: No.  I did see an endocrine doctor.
+DOCTOR: The endocrine okay.  Um alright so any injury to your back in the past?
+PATIENT: Uh yeah years ago but that was, mainly it's just right here, it's like the muscle is [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: But if I turn a certain way I have a hard time bending down and stuff like but you know I do it.  But I had, yeah nothing big you know they just told me, what do they call that, when you get older and stuff, lumbar spine.
+DOCTOR: Uh-huh.
+PATIENT: You know just like normal [REDACTED].
+DOCTOR: Any surgeries in the past for the back?
+PATIENT: No.
+DOCTOR: Does the pain go down the leg at all, radiate down the leg?
+PATIENT: No.
+DOCTOR: Okay and it just stays in that one spot?
+PATIENT: Yeah.
+DOCTOR: Um on a scale of 1-10, 10 being the worst pain in your life?
+PATIENT: 10 if I turn the right way or the wrong way or something like that but normally it just stays at a you know a three or four.  All depends on which way I move [REDACTED].
+DOCTOR: Are you taking anything for pain?
+PATIENT: No.
+DOCTOR: Um is it worse if you're um, do you ever notice if you're hunched over that it provides you more relief versus laying back.
+PATIENT: Uh you know I think yeah I tried it.  I don't know if it does any more relief.
+DOCTOR: Okay.
+PATIENT: I tried to like stretch it out.
+DOCTOR: Yeah.
+PATIENT: To me it feels, it seems like a muscle or something uh.
+DOCTOR: Yeah.  It could be.  I mean I'll examine you still but the fact that there's nothing going down the leg or anything like that is reassuring.
+PATIENT: Yeah, yeah.
+DOCTOR: And probably just arthritis, muscular or a muscular pain.
+PATIENT: Yeah cause the same thing with this here like uh, I'm getting a lot of pain here now uh if I use it, like if I squeeze it here.
+DOCTOR: Yeah.
+PATIENT: I never had that before and just in the last month or so I'm starting to get it, so I don't know if I sprained it or maybe it's arthritis or carpal tunnel or some other garbage.
+DOCTOR: Okay.
+PATIENT: So I don't know what that is but I mean this hurts a lot when I, like I'm squeezing, I usually use this hand but I can't and I use this one and it's just too much power, you know too much pain in it.
+DOCTOR: Okay.  Um I'll examine your hand too real quick after.  Uh any chest pain, shortness of breath, palpitations?
+PATIENT: No, nothing that’s abnormal.
+DOCTOR: And you're moving your bowels okay?
+PATIENT: Yeah.
+DOCTOR: Any blood in your stool, black stools?
+PATIENT: No.  I only get blood, I use Metamucil but that's for the hemorrhoids.
+DOCTOR: Okay and you had a colonoscopy in 2009 so you're set for that.  Um do you want something for pain?
+PATIENT: Uh.
+DOCTOR: I know in the past you didn’t.  If things are getting worse.
+PATIENT: Yeah maybe, yeah just for like at night or something like that.  I don't know, it seems like a muscle.
+DOCTOR: Yeah it's possible.  I mean did you notice that it came on all of a sudden a couple months ago or you just started noticing it gradually.
+PATIENT: Yeah I think it just came on like all of a sudden.
+DOCTOR: Okay.  Um and.
+PATIENT: I'm not sure, [REDACTED] if I move, it feels like just like right now, if I'm moving I can feel it, it hurts.
+DOCTOR: Yeah.
+PATIENT: It's just like if I pull a muscle or something like that, that's what it feels like.
+DOCTOR: That's what it feels like okay.  You're still smoke free right?
+PATIENT: Yeah.
+DOCTOR: Okay good.  How long has that been now?
+PATIENT: I don't know, about a year or so.
+DOCTOR: Okay good.  Um and any heartburn, reflux, any issues like that?
+PATIENT: No, them pills they give me work.  I guess they work pretty good.  I guess when I use them I'll get [REDACTED].
+DOCTOR: Alright.  Um okay let me change the paper here and examine you okay.  Take off your coat.
+PATIENT: I got to watch how I get up, when I bend down and stuff like that; I try to go straight down.
+DOCTOR: Yeah.
+PATIENT: If I just go down to get something, it's not that great.
+DOCTOR: Okay.  Let me see is it this thumb here you said.  Put your hands out like this.  And where does it hurt when it hurts?
+PATIENT: Right in here.
+DOCTOR: Right in there okay.  Any pain when I push in here?
+PATIENT: No.
+DOCTOR: Does this cause any pain?
+PATIENT: No.
+DOCTOR: So let's just put your hands kind of like you're praying and bring them straight, your arms straight, there you go, hold that for a moment.  Does that cause any pain in the hand here?  Okay good.
+PATIENT: Yeah maybe a pressure, but not.
+DOCTOR: But no sharp pains.
+PATIENT: No pain no.
+DOCTOR: Okay good.  So those two tests are for carpal tunnel so if those are both negative then that's probably not it.  You might just have some arthritis in the joint.
+PATIENT: Cause that's pain right now.
+DOCTOR: Squeeze my fingers really hard.  Good strength okay.  It hurts in here huh.
+PATIENT: Yeah and here.  [REDACTED].
+DOCTOR: Did you ever hurt this area, younger, when you were younger?
+PATIENT: I don't think so.
+DOCTOR: Okay cause it could just be and then if it's in here, you know it seems just more like an arthritis I’m not sure.
+PATIENT: [REDACTED] right here.
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: Okay.  Alright.  Let's listen to your lungs here.  Deep breaths.  How long has that thumb been bothering you?
+PATIENT: Probably about a month or two something like that, that I notice it you know.  But now it’s consistent.
+DOCTOR: And you're right-handed?
+PATIENT: No I'm left-handed.
+DOCTOR: Left-handed okay good.
+PATIENT: I do everything right but I'm left-handed.
+DOCTOR: Just breathe normal.  Okay.  Now if I push along your spine does this hurt at all?
+PATIENT: Oh.
+DOCTOR: Right, wow that’s very tender.
+PATIENT: Yeah very tender.  I was fine it comes over here it aggravates it.
+DOCTOR: Okay what about down here?
+PATIENT: Probably the way I’m sitting.
+DOCTOR: Okay.
+PATIENT: It's got to be in the right position.
+DOCTOR: Alright stand up for me.
+PATIENT: A little bit down here but mostly it was right here.
+DOCTOR: Okay.  Then come forward a little bit.  So if I push here is there anything?
+PATIENT: Yeah a little bit.
+DOCTOR: On that side here, what about [REDACTED]?
+PATIENT: Just a little bit you know.
+DOCTOR: Okay.  Anything here if I push?
+PATIENT: No.
+DOCTOR: And any pain that radiates into the groin?
+PATIENT: No.
+DOCTOR: Okay then sit back down for me.  I'm going to have you lay back all the way.
+PATIENT: [REDACTED] my left foot the toenail and it came off [REDACTED].
+DOCTOR: Oh really okay.
+PATIENT: Yeah.
+DOCTOR: Let me see now I'm just going to keep your legs straight.  I'm going to bring you up, tell me if you feel any pain in your back.
+PATIENT: A little bit now.
+DOCTOR: Okay.  Now bend your knee or bring this ankle over to the other knee okay and then I'm gonna just bring your knee down.  Tell me if that hurts in your back.
+PATIENT: No.
+DOCTOR: No okay.  Same thing on this side, I'm going to raise this leg first.
+PATIENT: I can feel it pulling on it.
+DOCTOR: Okay.  Now bend your knee, bring this foot over to the side and bring your leg down.  Does that hurt at all?
+PATIENT: No.
+DOCTOR: Okay.  Can you come back up?  I'm going to have you stand up again.  I want you to twist, turn to the left, that's fine.  Does that hurt?
+PATIENT: Yeah.
+DOCTOR: Okay what about this way?
+PATIENT: This way is not too bad. I don’t feel that.
+DOCTOR: Okay.  And now.
+PATIENT: Yeah if I turn that way it hurts more.
+DOCTOR: And that hurts more than here.
+PATIENT: It was right here.
+DOCTOR: Okay.  Now I want you to like you're gonna touch your toes.  That's pretty good.
+PATIENT: It feels a little [REDACTED].
+DOCTOR: Okay can you go back this way?
+PATIENT: Yeah.
+DOCTOR: Where did that hurt?
+PATIENT: Same place.
+DOCTOR: That hurts when you go back up okay.  Alright.  Have a seat back over here.
+PATIENT: Maybe it's from the hypoparathyroidism too you know [REDACTED].
+DOCTOR: Well but the thing is that’s a very particular spot um that you know I was able to reproduce it.
+PATIENT: Yeah, yeah it feels like somebody kicked me or I stretched it or something like that.  I'm just curious why it lasts you know so long usually that'll wear off.
+DOCTOR: Yeah.  I'm gonna talk to my boss.  I don't know if we need to get you an x-ray or not but we might, okay I can give you something to see if it helps relax that area okay.  Um I'm not going to get any blood work until you're due for your blood work with DOCTOR.
+PATIENT: When am I due for that?
+DOCTOR: Uh I guess in June.  I will let you know for sure.  She ordered this for June 30th so anytime after June 30th you can come in to get that done.
+PATIENT: Okay now.
+DOCTOR: And that'll be your cholesterol and your PSA.
+PATIENT: Now did they say anything for like the kidneys on that?
+DOCTOR: Um in June?
+PATIENT: Yeah in June.
+DOCTOR: Yeah she was gonna check that.
+PATIENT: See that's what I understood [REDACTED].
+DOCTOR: Okay.  Let me talk to my boss and um and then I'll come back and we'll address this, you know the thumb and the back.
+PATIENT: And now what about the toenail [REDACTED].
+DOCTOR: Well let me take a look at it.
+PATIENT: It just [REDACTED] I didn't know it was coming off so it looks like its on half way and I just - phew.
+DOCTOR: Which toe is it?
+PATIENT: My big toe.  I have pain.
+DOCTOR: Oh it's right in there?  Yeah there's no signs of infection or anything.  It should grow back.  Was it black?
+PATIENT: Yeah.
+DOCTOR: Did you um hit it somewhere?
+PATIENT: Probably so.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] that toe.
+DOCTOR: Yeah that's okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: But that will just grow back.
+DOCTOR: Yeah it'll grow but it's gonna take some time but it'll grow back.
+PATIENT: Yeah cause I think there's still some, a little loose on top of but that'll come off right?
+DOCTOR: Yeah.  Well.
+PATIENT: You got to let it fall off?
+DOCTOR: Yeah I wouldn't do anything else to it.
+PATIENT: Yeah I'm not going to.
+DOCTOR: Let it be, let it be.  Um okay and let me look at that and I think we're up to speed.  So let me, now did you have chicken pox when you were younger?
+PATIENT: Yeah I did.
+DOCTOR: Have you had any um shingles?
+PATIENT: No.
+DOCTOR: Do you know what that is?
+PATIENT: No I know my buddy had it.
+DOCTOR: Yeah so but whenever you get chicken pox the virus that causes chicken pox when we were kids.
+PATIENT: Yeah.
+DOCTOR: It lies dormant in the spine and it can wake up at any time wherever.  We don't know the trigger so it can occur at any time and it causes a very painful rash and the rash is something we don't care about cause the rash goes away but it's the pain associated with the rash that can linger for several years and that's because of nerve injury.  So uh they have a vaccine now.  It's called the shingles vaccine.  Anybody over the age of 60 is eligible for it.  Um it's something I would recommend.  Is that something that you're interested in?
+PATIENT: Yeah, cause this poor guy has had it for months.
+DOCTOR: No, it's I mean it's not.
+PATIENT: He's in a tremendous amount of pain.
+DOCTOR: Yeah it's uh, it's not.
+PATIENT: And he still has it; he has to put stuff on his hands to cover it.
+DOCTOR: Uh-huh.
+PATIENT: Like psoriasis of a sorts.
+DOCTOR: Uh-huh.
+PATIENT: I got enough pain.  [REDACTED] for that shot?
+DOCTOR: It's just like any other shot, like anything else, like your flu shot or anything else.
+PATIENT: Maybe I should just get them both at the same time.
+DOCTOR: Well they can't do the shingles today because it has to be like refrigerated and they got to do all this preparation for it, we'll schedule it.  They'll have to call you and set it up for you to come in to do it.  Okay, let me um talk to DOCTOR and I'll be back okay.
+PATIENT: Uh-huh.
+(DOCTOR OUT:  59:29  DOCTOR IN:  65:29)
+DOCTOR: Okay, she wants me to get some x-rays done of your back.
+PATIENT: Yeah.
+DOCTOR: Okay so um the x-ray is just to make sure that there's no fracture of the bones that work in the spine okay.  Um.
+PATIENT: Way over here would that be affected.
+DOCTOR: Essentially yes and sometimes in men it can be very vague so that's why we want to make sure because it happened all of a sudden, to make sure there's no fracture anywhere okay.
+PATIENT: What do I do when I got two sisters and brothers that died from cancer and they complained about the back pain.
+DOCTOR: Did they?
+PATIENT: [REDACTED] really I don't know.
+DOCTOR: Yeah no they shouldn’t be.  Um let me just order that and then.
+PATIENT: Ultra sounds.
+DOCTOR: Heard what?
+PATIENT: [REDACTED].
+DOCTOR: No for ultrasounds.  So ultrasounds only good for looking like an abscess or something like that but it won't for this.  And then for the pain I'm going to recommend you can do Tylenol over-the-counter that'll help or ibuprofen, either of those will help with arthritic pain okay.  That sounds like its arthritic pain.  If you want we can always do an x-ray cause I think an x-ray shows arthritic changes [REDACTED].
+PATIENT: Yeah would this be coming out of just my back?
+DOCTOR: Well we don't know if that came out just like that.  I mean I can check it and we can see um while we're doing the lab.
+PATIENT: [REDACTED] happen this week.
+DOCTOR: Go like this too with your hands and does that cause any pain?
+PATIENT: No.
+DOCTOR: Okay.  We can just – I’ll just x-ray your thumb too.  So Tylenol or ibuprofen and I'm also going to order, in case this is a muscle spasm that's going on in your back I'm gonna order a muscle relaxant it's called Flexeril.  You can technically take it up to three times a day as needed to see if that helps you okay.  Um and that'll give us a good starting point.  It’s your right thumb. Do you want me to have it sent to you or do you want to pick it up?
+PATIENT: Just send it to me.
+DOCTOR: Okay.  In the interim just take like Tylenol or ibuprofen and see if that helps you okay.  If that doesn't help and the Flexeril doesn't help call and if we get the results back and it shows, I can always give you something stronger and you can also escalate an investigation of this if we need to okay.  So this is just the starting point to see if these measures alone are sufficient to help you.  Okay so the toe is don't touch the rest of the nail.  That'll eventually come off on its own but toenails are the ones that take the longest to grow so it's going to be a long while alright.  Um the shingles vaccine, they will schedule for you to come back to get that done.  Um the Flexeril for the muscle spasms will be mailed to you.  In the interim when you're done today you're going down to Radiology, they're going to take some x-rays of both your hand and your lower back okay.  If anything comes back worrisome of any sort apart from just arthritis I will give you a call and let you know okay.  Um and then the Flexeril will be mailed as I mentioned and in the interim you try Tylenol or ibuprofen over the counter as needed for the pain and if none of those measures work for you, including the Flexeril, you call me back and we'll re-evaluate okay.
+PATIENT: Now they can mail that to me too, if they want cause I'm out of that too.
+DOCTOR: Oh you want the Tylenol, okay sure.
+PATIENT: Yeah I'd rather have Tylenol than ibuprofen.
+DOCTOR: That's fine.
+PATIENT: Ibuprofen don't seem to do anything for me.
+DOCTOR: Okay.  No blood work today.  When you're due for it, you're going to come back in July you can get blood work with DOCTOR and you can do that then too.  Now you don't want to take more than eight tablets of this Tylenol in a given day okay.  That's the max.
+PATIENT: [REDACTED] ibuprofen 600 mg, are you taking anything?  I said I'm not happy with any of it.  [REDACTED].
+DOCTOR: Yeah and actually with your [REDACTED] probably not gonna want you to take the ibuprofen.  The maximum is eight tablets a day.  Um you can take 1-2 tablets every 4-6 hours as needed.  Okay and then now in terms of your medications; you've got lots of refills.  The bupropion you don't have any refills on, do you need refills for that?
+PATIENT: Yeah, bupropion.
+DOCTOR: Yep that's for the smoking.
+PATIENT: That's for my smoking yeah, seems that's the only thing that works.
+DOCTOR: Now um the fatty acids are you still doing those or no?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: [REDACTED] before cholesterol.
+DOCTOR: Yep, exactly.
+PATIENT: Did the cholesterol go down?
+DOCTOR: Well we're going to check it in June.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: That's just [REDACTED] right now.
+DOCTOR: Yeah.
+PATIENT: And I know I have to have this stuff [REDACTED].
+DOCTOR: Okay, so your meds from me are now all updated now too so you have plenty of refills.  Okay.
+PATIENT: Okay.
+DOCTOR: Okay.  So I want you to come back in six months or sooner if this is still an issue alright.
+PATIENT: Yeah.
+DOCTOR: Um I am done at the end of June so you'll need to get [REDACTED].  But I'm still here until June [REDACTED].  So if anything comes up, if these measures don't work, call me and let us transfer you to something else.
+PATIENT: Right.  What's your extension?
+DOCTOR: Um when you go to check out they can give you get a number for the general clinic cause I don't have a, I'm only in the clinic like once every two weeks.
+PATIENT: Yeah, yeah.
+DOCTOR: So I don’t have a specific phone. But I want you to call and you have to go through the Triage and then they'll get a hold of me and I'll call you back.
+PATIENT: Okay.
+DOCTOR: Okay and hopefully this will do the trick.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Yeah so just take it easy, I mean don't do too much.
+PATIENT: Okie dokie.
+DOCTOR: Alright.  Okay.  Take care.
+PATIENT: [REDACTED].
+PATIENT: 74:50.
+Time is 11:17.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249441
+TRANSACTION # 578-10-2-316-0103

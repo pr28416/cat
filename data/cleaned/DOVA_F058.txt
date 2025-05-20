@@ -1,0 +1,286 @@
+DOCTOR: PATIENT?
+PATIENT: Yep.
+DOCTOR: Hi. [REDACTED].
+PATIENT: Good.
+DOCTOR: How are things going?
+PATIENT: Uh it's been a year or two when I've been to the office here.
+DOCTOR: Okay.  [REDACTED] right here.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: What's been going on?
+PATIENT: Well, I've been pills [REDACTED] you know.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Alright I [REDACTED].
+PATIENT: So and another thing is uh some of my prescriptions one has expired.
+DOCTOR: Okay.
+PATIENT: And some are about to expire so.
+DOCTOR: Alright we'll get them refilled then.
+PATIENT: Other than that, [REDACTED]
+DOCTOR: That's alright.  So [REDACTED] everything else is good today.
+PATIENT: Yeah.
+DOCTOR: We checked a couple of things.  Did you go to the Lab yes?
+PATIENT: I didn't go to the Lab.  I had been to the labs two weeks ago.
+DOCTOR: Okay.
+PATIENT: I think I seen that, what's that other, pharmacy, Pharm D?
+DOCTOR: Right, yeah right.
+PATIENT: So it's only been two weeks [REDACTED].
+DOCTOR: Well okay.  Still [REDACTED].  Okay, [REDACTED].
+PATIENT: Yeah.
+DOCTOR: So that was back in December.
+PATIENT: No it was back in March I think.
+DOCTOR: Uh they don't have one for March.  They just have the renal function.
+PATIENT: Oh okay.
+DOCTOR: So that's a different one. We'll probably have to get some labs today after this.
+PATIENT: Okay.
+DOCTOR: Let me check a couple of things.
+PATIENT: Alright.
+DOCTOR: Uh.  [REDACTED]. It says you’re on Lantus?
+PATIENT: Is that the insulin?
+DOCTOR: How much?
+PATIENT: Well I'm taking, now I'm taking 33.  I lowered it from what it was from 33 works pretty good.
+DOCTOR: Why, what are you getting in the morning?
+PATIENT: Uh I get probably 115.
+DOCTOR: Okay.  Maybe 100 to 115.
+PATIENT: Yeah.
+DOCTOR: Okay. When did you lower it to 33.
+PATIENT: What was going on was uh, uh I would be working and stuff and my sugar would drop.
+DOCTOR: Okay.
+PATIENT: Okay.  So they told me to lower it.
+DOCTOR: That lowers that yeah.
+PATIENT: So.
+DOCTOR: But no problems like problems with urination?  Frequently drinking water?
+PATIENT: No, I go to the bathroom like twice every night.
+DOCTOR: Okay.  Not a problem for you?
+PATIENT: Not a problem.
+DOCTOR: So you've had the erectile dysfunction?
+PATIENT: Right.
+DOCTOR: That gets a reaction huh.  And you've uh, you've had that for a while?
+PATIENT: Yeah, it uh just got worse.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: How's the sleep been?
+PATIENT: The sleeping is pretty good you know.  I'm working a job and it's pretty physical and so I take, sometimes I take a pain pill, over-the-counter.
+DOCTOR: Okay.
+PATIENT: And it helps me out relaxes you know.
+DOCTOR: You don't wake up at night, or snore a lot or anything like that?
+PATIENT: I probably do, you know I wake up.
+DOCTOR: Is it to urinate or?
+PATIENT: Yes to urinate.
+DOCTOR: Do you ever get short of breath?
+PATIENT: No, no.
+DOCTOR: Nothing – I’m trying to see if sleep apnea.
+PATIENT: No.
+DOCTOR: And changes in the testicles, getting smaller or nothing like that?
+PATIENT: No, no.
+DOCTOR: And the energy [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: So I'll just keep this on the medication list, sounds like nothing else is contributing.  Are you still smoking?
+PATIENT: No I quit.
+DOCTOR: Okay.  For how long?
+PATIENT: Off and on I've been cheating and having a cigarette so.
+DOCTOR: So like every week or so?
+PATIENT: Yeah.  But the person I see for my [REDACTED] patches and stuff.
+DOCTOR: Good, good.  Alright um.  What are you working doing now?
+PATIENT: Well kind of funny, all I'm doing is taking this particular part and putting into a soak, taking it out of a box and cleaning to a soap.
+DOCTOR: That sounds pretty cool.
+PATIENT: And they call it NTN.
+DOCTOR: Okay.
+PATIENT: It's a shaft bearing.
+DOCTOR: Okay.
+PATIENT: For [REDACTED].
+DOCTOR: Do you like it?
+PATIENT: [REDACTED] bank.
+DOCTOR: I mean what the hell.
+PATIENT: So I take it as it comes.  I’m at the end of my career, not the beginning.
+DOCTOR: Yeah that's alright.  Um we sent you to the cardiologist and you didn't want an ICD put in?
+PATIENT: No I didn't want it put in.
+DOCTOR: Okay.  Cause you've got risks [REDACTED] I mean you don't have to have it put in, it's proven to help people survive longer and people [REDACTED].
+PATIENT: Right.
+DOCTOR: You know, think about until the next time we can talk about it again.
+PATIENT: Yeah, yeah.
+DOCTOR: So we are going to recheck cholesterol today too.  It was not where we wanted the last time but it was close.
+PATIENT: Yeah.
+DOCTOR: Um checked the kidney function again.  Um are you using the patches for the nicotine?
+PATIENT: Yes.
+DOCTOR: Okay.  [REDACTED].  And how about that colonoscopy?
+PATIENT: Yeah I had one four or five years ago.
+DOCTOR: Yeah you had one in 2006 but you had something in there that was a little big.
+PATIENT: Oh okay.
+DOCTOR: A polyp.
+PATIENT: [REDACTED] okay.
+DOCTOR: That's why so it's one of those things that we'd like to follow up because it could go into a cancer and I think after like three years you should probably have it checked.  [REDACTED] if we checked it now and it's not there then you can go back and say okay we'll back off a little bit but I think it's one of [REDACTED] young.
+PATIENT: Right.
+DOCTOR: That make sense?
+PATIENT: Can it wait for like uh, see what it is, is I'm working and I have to take the whole day off.
+DOCTOR: Right.
+PATIENT: I can go off and on with work and I don't know exactly what days I won’t be working.
+DOCTOR: Can’t you schedule that ahead of time because you’ve already put it off for a while so I'm worried you know about how much time is passing.
+PATIENT: Uh-huh.
+DOCTOR: So I want to get it done soon.
+PATIENT: Okay.  Uh like when?
+DOCTOR: Next few months.
+PATIENT: Next few months okay.  Uh let's see this is April, let's go for June.
+DOCTOR: I'll write that in here.
+PATIENT: Okay.
+DOCTOR: Get the labs today and make sure [REDACTED].
+PATIENT: Yeah.
+DOCTOR: And I'll put a note in it.  So when they call you you just tell them to make it and I'll put that in.  There's no blood in your stool, nothing like that?
+PATIENT: No.
+DOCTOR: Abnormal bowel movements?
+PATIENT: Yeah I they're normal.
+DOCTOR: How's the weight doing?
+PATIENT: Uh the weight, I'm trying to lose weight so uh it's been holding.
+DOCTOR: And you said you can't do the MOVE Clinic because of the timing.
+PATIENT: Yeah.  Uh one question I wanted to bring up.
+DOCTOR: Yep.
+PATIENT: My father had shingles.
+DOCTOR: Okay.
+PATIENT: So is there like a vaccine I can take?
+DOCTOR: Yeah there's actually a vaccine that um we have um that we can give to you.
+PATIENT: Okay.
+DOCTOR: And if you want it I can give it to you today.
+PATIENT: Yeah.
+DOCTOR: That'll be fine, good.  It's a one time deal so you don't have to do it ever again, ever again.
+PATIENT: Okay.
+DOCTOR: It says your on the pill, the glipizide pill?
+PATIENT: Yes.
+DOCTOR: Okay.  Along with the insulin?
+PATIENT: Along with the insulin.  So I'm supposed to take two in the morning and two in the evening, sometimes I take one in the evening.
+DOCTOR: We could almost stop and just use all insulin.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: If you want to stop those pills.
+PATIENT: Yeah.  That means I would have to go to the fast-acting one?
+DOCTOR: Oh no, all you have to do is the insulin [REDACTED].
+PATIENT: Okay.
+DOCTOR: You just do the insulin by itself.
+PATIENT: Yeah that'd be fine.
+DOCTOR: Okay.  Let's see, how about what we do is uh, 20 b.i.d. of the glipizide.  Let me see what the pharmacist said last time.  So let's keep it on and we'll talk with her and then um we'll titrate it down.
+PATIENT: Okay.
+DOCTOR: I don’t want to, I would like to stop [REDACTED] get off of it.
+PATIENT: Right, right.
+DOCTOR: And you went to the eye doctor a year ago; you're due again in two months.
+PATIENT: In two months okay.
+DOCTOR: Yeah I'll just put that order in so you can schedule that.  That sounds good.  And [REDACTED].
+PATIENT: [REDACTED] kidney.
+DOCTOR: Yeah.
+PATIENT: And as far as the erectile dysfunction, do you have Cialis?
+DOCTOR: Uh right now we have Viagra.
+PATIENT: Okay.
+DOCTOR: That'll work for you?
+PATIENT: That'll work.  I haven't even used it, I've never used it.
+DOCTOR: So basically what you do is um take it like um half an hour before you have the desire and you got to give it a little time.
+PATIENT: Right, right.
+DOCTOR: And let me know, as long as it's working.
+PATIENT: Right.
+DOCTOR: Um [REDACTED] if your blood pressure is low don't take it.
+PATIENT: Right.
+DOCTOR: And then as long as you don't stay erect longer than four or six hours you should be fine.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] give me a call.
+PATIENT: Okay.  Got it.
+DOCTOR: Shouldn't be a problem [REDACTED].  I haven't anyone complain about that.
+PATIENT: Okay. And then you get the opposite.
+DOCTOR: Apparently so.
+PATIENT: Yeah.  [REDACTED].
+DOCTOR: There you go.  Vaccine.  Viagra.
+PATIENT: So can I pick it up today again?
+DOCTOR: Yeah.
+PATIENT: Okay.  Along with the carvedilol.
+DOCTOR: Carvedilol?
+PATIENT: Yeah, that expired and I need that reordered yeah and potassium  is about to expire too.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: We'll order both those too.
+PATIENT: Okay.
+DOCTOR: I'll give you two pills to start and just let me know if it works we'll refill it.
+PATIENT: Okay.  I’ll just renew it then?
+DOCTOR: Uh-huh.  Potassium and then what else.  Yeah I'll get all these and you can pick them up today.
+PATIENT: Okay.
+DOCTOR: And [REDACTED].  Okay.  We'll see if I have any [REDACTED] reminders.  [REDACTED].  I can't believe [REDACTED].
+PATIENT: What is that for?
+DOCTOR: Uh test for HIV.
+PATIENT: [REDACTED].  Can I do it today?
+DOCTOR: Yeah it's just a blood test.
+PATIENT: Oh okay yeah, yeah.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I can get it all at once.
+DOCTOR: Alright we're done with all the reminders.  Alright you want to hop up here.
+PATIENT: Yep.
+DOCTOR: [REDACTED] alright good.  Deep breaths, again, good.  [REDACTED].
+PATIENT: No.
+DOCTOR: [REDACTED].  Good.  Now I am going to check out your feet.
+PATIENT: Yeah.
+DOCTOR: Can you take those off?  Sit over here? [REDACTED].
+PATIENT: Yeah.  You want me to take off my socks too?
+DOCTOR: Uh yeah.  Oh you're also due for a tetanus.  Let me check the record.  Alright the tetanus was in 2004, you’re not due.
+PATIENT: Is it due?
+DOCTOR: No you're not due for that one.
+PATIENT: Okay.
+DOCTOR: Not for a couple years, it should be alright.  Can you feel all this?
+PATIENT: Yeah.
+DOCTOR: I'll do that one.  This cold?  Feel it in here?
+PATIENT: Yes.
+DOCTOR: It looks good.
+PATIENT: Alright.
+DOCTOR: Colonoscopy in June.  We'll get you the zoster vaccine today.
+PATIENT: Okay.
+DOCTOR: I'll have you back in three months.
+PATIENT: Okay.
+DOCTOR: That's it.  Any questions?
+PATIENT: No, no I.
+DOCTOR: Make sure you pick up those meds.  Let me know if it works.
+PATIENT: Right, right.  Who do I see for the shingles vaccine?
+DOCTOR: The nurse, so after you go out there just let them know that you need the shot today.
+PATIENT: Yeah okay.
+DOCTOR: It's ordered so.
+PATIENT: When I check out?
+DOCTOR: Yeah.
+PATIENT: Alright, okay.
+DOCTOR: Six months, usually do that?
+PATIENT: Yes.
+DOCTOR: Everything's going well I think you know, one thing that will help everything is losing a little bit of weight.
+PATIENT: That's what I've been trying.
+DOCTOR: So what have you been trying to do for it?
+PATIENT: Well I'm trying to cut out the bread and stuff.  So sometimes I eat fries I shouldn't be eating.
+DOCTOR: Um the big thing I think is um watching portions, how much are you eating.  Just cut it down.
+PATIENT: Right.
+DOCTOR: Don't take everything away but don't eat as much of some of stuff.
+PATIENT: Right.
+DOCTOR: And do you exercise at all?
+PATIENT: I walk.
+DOCTOR: Okay.  How far do you walk?
+PATIENT: Oh half a mile.
+DOCTOR: Oh that's pretty good.  Keep doing that.
+PATIENT: Half mile, mile.
+DOCTOR: Good.  When I see you next time, let's see what you're at right now, you are at 208 pounds.
+PATIENT: Yeah.
+DOCTOR: You gained last time, you've been up a little higher and a little lower.
+PATIENT: Right.
+DOCTOR: You think you can come in at 200 at the next visit?
+PATIENT: Yeah.
+DOCTOR: Alright.  That's your goal.
+PATIENT: That's my goal.
+DOCTOR: And that'll help with the erectile dysfunction too.
+PATIENT: Yeah.  I think it all has something to do with it.
+DOCTOR: Hmm.  Alright.
+PATIENT: Now do we do the blood tests first and then pick up the medicine?
+DOCTOR: Yeah that'll give them a little time so get the shot.
+PATIENT: Get the shot and then the blood tests and then the medicines okay.
+DOCTOR: That's it.
+PATIENT: Doc thanks.
+DOCTOR: Alright.  Good to see you.
+PATIENT: Yeah.  Take care now. Okay.
+DOCTOR: Let me know when you have the colonoscopy.
+PATIENT: Okay.
+PATIENT: 65:23.
+Time is 2:54 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255128
+TRANSACTION # 578-10-2-316-0103

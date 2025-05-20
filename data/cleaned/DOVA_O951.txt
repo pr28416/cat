@@ -1,0 +1,284 @@
+DOCTOR: PATIENT?
+PATIENT: Yes sir.
+DOCTOR: Hello.
+PATIENT: How you doing?
+DOCTOR: Alright, how have you been doing?
+PATIENT: Doing pretty good.
+DOCTOR: Alright.  Issues, concerns, complaints?
+PATIENT: Well I'm down to 167 so that's seven pounds I've lost.
+DOCTOR: From 267, you're weight.
+PATIENT: That's what I mean, 167 is what I want to be.
+DOCTOR: Yeah.  How much have you lost?
+PATIENT: Seven pounds since the last time I saw you, which ain't a lot but.
+DOCTOR: Yeah.  How's the smoking going?
+PATIENT: I got a patch on.
+DOCTOR: Uh-huh.
+PATIENT: I got the gum in my mouth and I'm taking that pill.
+DOCTOR: Yeah when was the last time you smoked?
+PATIENT: Last weekend, not this past weekend but last weekend I had a puff off of one.  I'd forgotten how bad those pills make the cigarettes taste.
+DOCTOR: Taste.
+PATIENT: I had one puff and gave the cigarette back to the guy.
+DOCTOR: Okay.  I saw you went to the Diabetes Classes and completed all that and it all went well.
+PATIENT: I meant to bring that worksheet with my blood pressure.
+DOCTOR: Oh your sugar.
+PATIENT: Glucose readings on it.
+DOCTOR: Yeah.  You been checking it?  How have they been running?
+PATIENT: Uh a couple of times they've been a little high but each time it was higher than it's supposed to be I stop and thought back and found the reason why.
+DOCTOR: What you ate.
+PATIENT: And uh normally it's right within the guidelines.
+DOCTOR: I'll have you stop by the Lab so you can get labs done.  Did you eat today this morning already?
+PATIENT: Yeah.
+DOCTOR: You did okay.  I still might have you go down and just get one of the lab tests.  I just kind of want to see where your diabetes shifts your numbers at and see how you come out and what we've been doing on that.
+PATIENT: I've changed my dietary habits.
+DOCTOR: Diet say you have changed your diet.
+PATIENT: I'm eating my big meal at lunch now.
+DOCTOR: Uh-huh.
+PATIENT: Instead of in the evenings and I have a salad for my evening meal.
+DOCTOR: Very good.
+PATIENT: Which my Coumadin doctor and I are working hard to.
+DOCTOR: Yeah that can, yeah that can be one thing, salads especially something with spinach and things like that can cause those.
+PATIENT: Those green veggies.  But it's not that far off and we'll get it caught, adjusted here soon.
+DOCTOR: I needed to look at all you had.  Going through your meds, and it's got the gum and all that stuff, you're using that.  You're using your inhaler still.
+PATIENT: That reminds me.
+DOCTOR: Uh-huh.
+PATIENT: That new inhaler they sent me.  That one.
+DOCTOR: Uh-huh.
+PATIENT: Uh that seems to me that it's for more for asthma than COPD from what I've heard.
+DOCTOR: No you can use Symbicort for.
+PATIENT: And I've also heard that that's not, it's got some nasty side effects.  I don't know if it's true or not but I thought I'd check.
+DOCTOR: This one you've been on, they haven't changed anything, let's see is this the one that we changed?
+PATIENT: Yeah this is the new one to replace my formoterol and the other one.
+DOCTOR: So the formoterol and [REDACTED].  Cause I know the VA has been changing around some of these inhalers.  Did they send you a note saying that?
+PATIENT: Yeah and then about two weeks ago I got this.
+DOCTOR: Okay.  Have you used it at all?
+PATIENT: No I'm still finishing off the last of my.
+DOCTOR: I mean it's a similar, different name for the medication but they use the same thing so the side effects and profile should be the same.
+PATIENT: But it said, it said in the directions not to take this more than twice a day.
+DOCTOR: Yeah so this one you don't want to take this more than twice a day.  No this is more of your kind of your maintenance one.  The one that you can take if you need is the albuterol, if you need.  You got acute shortness of breath?
+PATIENT: The uh.
+DOCTOR: The Combivent or the albuterol ipratropium.  You have two inhalers correct?
+PATIENT: Is that the pink one?
+DOCTOR: I'm not sure what color it is.
+PATIENT: Where you screw the top off or is it a.
+DOCTOR: Oh probably more like this one.
+PATIENT: Well that, this is replacing that.
+DOCTOR: Which should be replacing.
+PATIENT: Two things.
+DOCTOR: Let's see if I can find the Pharmacy note, it'll show.  Yeah so this is replacing formoterol the capsule one that you were doing.
+PATIENT: Right.
+DOCTOR: That's what this one is replacement.  So that one, this is the one you should be taking um as the not as needed one but as you take as a control medication.  The one that you should take if you get short of breath is the other one which is the puffer, the Combivent.
+PATIENT: I thought that it said that this was replacing.
+DOCTOR: No this one's replacing.
+PATIENT: Two of my.
+DOCTOR: Yeah it's got two medications.  Its two medications but they're all together.
+PATIENT: Yeah but, it, I thought it said that this was replacing two of them, the formoterol and the puffer.
+DOCTOR: No, no.  The one that it's replacing is the same [REDACTED].  Yeah so before you were on a combination one, formoterol and mometasone.  Budesonide.  So oh yeah you're right on that.  So you should still have the other inhaler though.  Yeah you're right so you were on the formoterol and the mometasone inhaler so it's those two inhalers but you had three inhalers right?  You had also the Combivent.
+PATIENT: Yeah.
+DOCTOR: So this was replacing the formoterol and the mometasone and getting this one box now and that one is the one you take just long-acting twice a day and then you should still have the Combivent which is albuterol and ipratropium, that's the one you use but yeah basically those two medications in this are similar and one is exactly the same as formoterol is still in here and mometasone is the steroid and this is a different steroid, budesonide which is also a steroid but it's exactly the same so that's how that should work now.
+PATIENT: Okay then I will still have that other puffer?
+DOCTOR: You'll still have the other one for as needed, the Combivent.
+PATIENT: In case.
+DOCTOR: Yeah.
+PATIENT: Okay.  I can live with that.
+DOCTOR: Sorry I was a little confused.
+PATIENT: So was I.
+DOCTOR: Are you still taking the Lasix?  Furosemide?
+PATIENT: Yeah.
+DOCTOR: I think actually the last time I told you to start taking that potassium?
+PATIENT: Yes.
+DOCTOR: Your potassium was low so that's one of the things I want to do is to check and see where your potassium is and we may have to go up depending on where it's at.  I'm just reordering.  You're on the lisinopril still, and you're taking the niacin still?
+PATIENT: Yeah.
+DOCTOR: And Topamax, Coumadin, the Coumadin Clinic is following you for that and you're on the simvastatin still.
+PATIENT: Yep.
+DOCTOR: And you're on the metformin.  Are you still taking the glucosamine and the aspirin?
+PATIENT: I don't take any glucosamine any more but I take the aspirin.
+DOCTOR: Yeah right.
+PATIENT: It's the baby.
+DOCTOR: Yep that's the one for the cardiovascular.
+PATIENT: Yeah.
+DOCTOR: Benefit okay.  I think that's the medications list for now.  No fevers, chills, night sweats?
+PATIENT: I have night sweats all the time.
+DOCTOR: You do sweat at night?
+PATIENT: Uh but it's hot in my apartment.
+DOCTOR: Oh I see.  It's hotter right now.
+PATIENT: I haven't got it adjusted for summer yet so.
+DOCTOR: Any problems with vision, eyes?  No.  No chest pain, shortness of, do you get short of breath on occasion?
+PATIENT: Occasionally.
+DOCTOR: Yeah.
+PATIENT: Hopefully not as much now that I've quit smoking.
+DOCTOR: Yeah totally that'll help with the shortness of breath.  Diarrhea, constipation?
+PATIENT: Since I've changed my eating habits.
+DOCTOR: Uh-huh.
+PATIENT: My bowel movements have changed considerably.  I feel like I'm a little constipated for a couple of days and then I'm fine.
+DOCTOR: Yeah.
+PATIENT: But I think it's more that I'm not constipated it's just that I don't eat as much.
+DOCTOR: Sure.
+PATIENT: So I don't have to go as much.
+DOCTOR: So less in, less out.  Uh urination problems, problems urinating?
+PATIENT: Taking 160 mg of furosemide.
+DOCTOR: Lasix yeah.  How's the swell, do you have swelling, how is the swelling?
+PATIENT: It's fine.
+DOCTOR: Yeah.
+PATIENT: I keep it under control.
+DOCTOR: Under control.
+PATIENT: And that's also for the water around my heart they tell me.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: Do you see Cardiology?  Do you see Cardiology here?
+PATIENT: Uh probably.  I've seen just about everybody.
+DOCTOR: Yeah, yeah.  Take a look.  You've been taking 1000 mg of the metformin right?  So you have been taking that, we got repeat labs in January.  We had saw an improvement, I think I talked to you it went from 8.6, your sugar, your three month sugar number went from 8.9 to 7.5 on the metformin so that improved but we might add another medication here today if you're still not, our goal is for you to be below 7 and you're at 7.5.  Probably one more medication will probably have you be closer to making your goal.  And you saw Ophthalmology and that was here recently, the eye doctors.
+PATIENT: Yeah.
+DOCTOR: A few days ago.
+PATIENT: Yep.
+DOCTOR: They said your eyes didn't have any diabetic changes and you saw Podiatry on the 12th there and your bladder, you saw, you just had a procedure done by your urologist and it doesn't look like they saw anything suspicious.
+PATIENT: Right.
+DOCTOR: Or anything as far as that goes.  Your blood pressure looks good today.  Your a fib.  Your heart rate is controlled.  Overall you feel like your breathing is relatively stable, the COPD is [REDACTED] better.
+PATIENT: I get out of breath if I walk very far.
+DOCTOR: How far can you go before you get out of breath?
+PATIENT: Depends on how fast I'm walking.  Uh half a block, a block.
+DOCTOR: Half a block okay.  No chest pain though.
+PATIENT: No.
+DOCTOR: You just get short of breath.  Work on the smoking, pneumonia, you got the flu shot.  I know before you were not interested in the colonoscopy in the past, still not interested in it?  Okay.  Um let me see immunization wise you had a tetanus done.  You’re 68. So the only other vaccine that I'd recommend right now would be, have you ever heard of shingles?
+PATIENT: I've had shingles.
+DOCTOR: You've had it.  How long ago did you have it?
+PATIENT: Before I come here and all I had was one little spot right up here.
+DOCTOR: Is that right.
+PATIENT: And it didn't hurt.
+DOCTOR: Oh really.
+PATIENT: But I didn't know what it was so the doctors eventually took a sample.
+DOCTOR: Sample of it.
+PATIENT: Sample of it and then he sent me to somebody who specialized in it.
+DOCTOR: Oh.
+PATIENT: Something like that and he gave me some medications.
+DOCTOR: Yeah so if you've had it before and it was not painful though for you.
+PATIENT: No it wasn't.
+DOCTOR: Generally it's really painful.
+PATIENT: That's why I didn't think that's what I had.
+DOCTOR: Yeah so generally it's painful.  I mean since you've had it once before it could possibly come back.  I don't know but there is a vaccine, they have a shingles vaccine that's out now.  Again it doesn't guarantee that it won't happen but it should decrease your risk by 75% of it reoccurring.  It's a one time shot if you're interested in that.  We could do that today.
+PATIENT: Um I got no problem with it.
+DOCTOR: With it, okay.  Then otherwise you're up-to-date on your pneumonia, the tetanus and you're good for the year so I'll put that in and you can get it on the way out the door here today.
+PATIENT: Before I go anywhere I'm going to have to go to the john.
+DOCTOR: Sure.
+PATIENT: Not right now but.
+DOCTOR: Okay yeah.  When I got to go talk to them I'll look you over here and then I'll go talk to the docs outside the door you can probably come on back and then I think I'll have you go downstairs and get those labs drawn today to make sure [REDACTED] and all that's where it should be.  Using the CPAP still at night?
+PATIENT: Yes.
+DOCTOR: [REDACTED].
+PATIENT: I cannot lay down without it.
+DOCTOR: Your shortness of breath.
+PATIENT: I get real.
+DOCTOR: Do you sleep with pillow propped up at night or can you lay flat on your back to sleep?
+PATIENT: Uh I've got one small pillow.
+DOCTOR: You sleep on it.
+PATIENT: That I have my head on.
+DOCTOR: Sure.
+PATIENT: And but I sleep on my back, my sides, my stomach.  I'm a restless sleeper.
+DOCTOR: Yeah okay.  Could you have a seat over on the table for me?
+PATIENT: I got this one on.
+DOCTOR: And I think if we can keep moving in the right direction, not go back to smoking and keep hold of that and keep losing weight.  You know I mean it takes time and you didn't put all that weight on you know cause we're pretty much going through the process.
+PATIENT: I put, I weighed 185 and I quit smoking the first time.
+DOCTOR: Uh-huh.
+PATIENT: And in 30 days I gained 60 pounds.
+DOCTOR: Wow.
+PATIENT: But I had those pretzel rods in my mouth all the time.  I was eating candy.  I was eating anything I could get my hands on and the bad thing is it's all around the organ fat.
+DOCTOR: Yeah, yeah, this is the bad kind of fat yeah.  The central obesity is what the name is.  Unfortunately that's the kind associated with all the risks of the heart disease.
+PATIENT: Yep.
+DOCTOR: And all that, that's it.
+PATIENT: But back then I was working still so.
+DOCTOR: Hmm.
+PATIENT: It wasn't so bad.
+DOCTOR: I'll take a listen here to you.  Take a listen to the lungs, deep breath for me.
+PATIENT: It’s hot in this hospital.
+DOCTOR: Unfortunately they don't get the air in here at all.  I think we're not used to having 80 degree weather in March.  Open your mouth for me okay.
+PATIENT: I’m losing all my teeth.
+DOCTOR: Yeah.  Pain with any of them there?
+PATIENT: Uh I had some a while back and they pulled it.
+DOCTOR: Pulled it.  Where did they work on it, here atthe VA or do you go?
+PATIENT: Well they pulled it because it was an emergency because I don't have dental coverage.
+DOCTOR: What's your, are you service-connected here at all?  No, yeah.  Yeah you can't go to the Dental Clinic here unless you have some service-connected I think it's pretty much [REDACTED].
+PATIENT: No I was stationed in the middle of Kansas.  At a south base.
+DOCTOR: So that's not too far away.
+PATIENT: No.  As a matter of fact my grandmother lived in that town.
+DOCTOR: Is that right?  Let me take a look at your legs here.  They're not too bad.
+PATIENT: Before I started taking the furosemide.
+DOCTOR: That big around?
+PATIENT: Yeah.
+DOCTOR: That's keeps them in check huh.  Yeah very, very minimal.  How long you been on the furosemide for?
+PATIENT: Yeah.
+DOCTOR: Check your feet and all that?
+PATIENT: I have a podiatrist that comes in to the uh housing complex I live.
+DOCTOR: Uh-huh.
+PATIENT: He volunteers his time two Saturdays a month.
+DOCTOR: Okay, so you keep a close eye on the feet.
+PATIENT: That’s the only doctor I see that's not VA and he's free.
+DOCTOR: Yeah.  Well that's nice of him to volunteer his time.  No pain anywhere in the belly or anything like that?
+PATIENT: Nope.
+DOCTOR: Well alright.
+PATIENT: Considering the shape I'm in, I'm healthy as a horse.
+DOCTOR: Yeah.  [REDACTED] not feeling too bad [REDACTED].
+PATIENT: I get along with the people in the complex.
+DOCTOR: Uh-huh.
+PATIENT: We uh go out to dinner once a month; out to lunch I should say.
+DOCTOR: Uh-huh.
+PATIENT: And they have dinners at the complex once a month.  I belong to the [REDACTED] Club and they have a dinner once a month.
+DOCTOR: I see.
+PATIENT: So I get, three times a month I eat with somebody else.
+DOCTOR: Uh-huh.
+PATIENT: And then I got to make good friends with one fella and he and I go out every now and then.
+DOCTOR: Good.  You ever been on fish oil, taking fish oil?
+PATIENT: Yes I have.
+DOCTOR: Were you having a bad, you know why you stopped it?
+PATIENT: I'm sorry?
+DOCTOR: You don't know why you stopped it?
+PATIENT: Couldn't afford it.
+DOCTOR: Oh couldn't afford it okay.
+PATIENT: I was getting, it wasn’t something.
+DOCTOR: It wasn't through the VA?
+PATIENT: Right.
+DOCTOR: You weren't getting it.  I think you can get it through the VA.  I mean your cholesterol, as far as your numbers go, the ones that we had from before, your LDL is your bad cholesterol, that goal is where it should be.  Your HDL is pretty low; it should be above 40 so you're at 15 which is really low.  I know medication will help you get it stabilized due to the central obesity and it can also be a lot of that can be familial in other words the family.  So I think we can try to get it up a few extra points but let me go ask one of the other doctors.  If you need to use the restroom, you can step outside and you can use the restroom.
+PATIENT: I intend to.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  I did this the last time I was here.
+(DOCTOR OUT:  48:25  DOCTOR IN:  59:59)
+DOCTOR: Alright.
+PATIENT: Oh, I forgot to tell you, I saw you on December 4th.
+DOCTOR: Uh-huh.
+PATIENT: On December 9th we had ice out in Mission Park.
+DOCTOR: Uh-huh.
+PATIENT: I slipped on the ice and broke my arm.
+DOCTOR: Is that right?
+PATIENT: Right there.
+DOCTOR: Oh did you heal up?  Where'd you go for that?
+PATIENT: Came up here for it.
+DOCTOR: Oh did you?
+PATIENT: I come here for everything.
+DOCTOR: They put you in a cast?
+PATIENT: They, I was in the splint for a week and then two different casts and then a splint that I could take off and exercise five times a day.
+DOCTOR: I see that, alright that's Ortho, oh yeah.  I think I remember seeing that.  So how's the arm doing since then?
+PATIENT: It's still a little weak but getting better.  The more I use it the better it is.  68 years old, that's the first time I ever broke a bone.
+DOCTOR: Yeah.
+PATIENT: But don't let me near something sharp cause I got more scar tissue than you got hair.
+DOCTOR: Um alright, let's see a couple things.  So we talked to you, I'm sorry I'm going to start you on one more medication to try and get the diabetes under control.  I'm going to try and switch to there's something called gliptin which is one of the non-formularies and I'd use it than using the other one so I'm going to put through to see if you can get it through here.  Alright so I'm putting it as a non-formulary medication, while you should use a formulary [REDACTED] we'll use one of the other ones called glipizide which is the other one medication you can use.  This one is just a little bit better, it has a little mild maybe weight loss advantage, more of a weight control but we will see uh I can't guarantee how [REDACTED].  Still the government unfortunately.
+PATIENT: Yep.
+DOCTOR: Um but I'll put it in here.  So and then I'll call you and let you know.
+PATIENT: Okay.
+DOCTOR: Either way, if it is it's a once a day medication they'll send out and it [REDACTED] good.  If not I will call and make them send the other one.  And then the only other thing I've got to bring up is your lipids.  I think we also need to start taking the fish oil again, if you're getting that through the VA and taking the fish oil.
+PATIENT: Sure.
+DOCTOR: That doesn't have much side effect and it might help a little bit with your lipids.  So I'll let you know, take one of these twice a day capsule and the only other thing, did anyone ever talk to you about the MOVE Program?  This is a diet program, exercise program.  I don't know if you'd be interested in that, it's here at the VA.  I think it's on Tuesday for eight weeks in a row or something.  I don't know how hard it is for you to get in the MOVE and come back.
+PATIENT: It's a long way.
+DOCTOR: Oh is it okay.
+PATIENT: Ristin Park, do you know where that's at?
+DOCTOR: Uh-huh so you're quite a ways away oh, okay.
+PATIENT: About 40 miles.
+DOCTOR: Sure.  Oh you're a ways off so that's not reasonable.
+PATIENT: Which is why I often go down to Rubinay for the blood draws.
+DOCTOR: That's right; I know you had said that before.  So we'll make those changes.  Stop by and get the labs here today cause I want to see, so go to the lab right now since you're not fasting we might need a little bit of adjusting on that.  Uh and then we'll bring you back again in about two months to kind of see how things are going with the diabetes um and we'll do that shingles vaccine today and labs today.  Alright.
+PATIENT: Sounds good to me.
+DOCTOR: [REDACTED].  Let me get you out and let me find a nurse here to give you that vaccine and then we'll get you to the Lab.  (Doctor talks to nurse)  We'll find someone here to do the vaccine and we'll get you out of here okay?
+PATIENT: Sounds good to me.  Take care.
+DOCTOR: Yeah you too.
+PATIENT: 68:09
+Time is [REDACTED]
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255111
+TRANSACTION # 578-10-2-316-0103

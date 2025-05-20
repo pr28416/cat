@@ -1,0 +1,309 @@
+DOCTOR: PATIENT?
+PATIENT: Right here.
+DOCTOR: I'm so sorry they put you back in that um close quarters.
+PATIENT: [REDACTED].
+DOCTOR: It doesn't matter.
+PATIENT: Thank you.
+DOCTOR: Yeah what brings you here today?
+PATIENT: Uh.  I here because of ED.
+DOCTOR: Okay, for how long?
+PATIENT: I don't know it's just a month or [REDACTED].  Says I only got six months left.
+DOCTOR: Okay.  Um let's see.  You were recently here with a headache right?
+PATIENT: Yeah.
+DOCTOR: And um did they do anything for you or did they give you some medications?
+PATIENT: Yeah I have [REDACTED].
+DOCTOR: You had like six [REDACTED] of your heart.
+PATIENT: I do.
+DOCTOR: Which is really bad.
+PATIENT: It is.
+DOCTOR: Yeah, totally unnecessary.
+PATIENT: Really.
+DOCTOR: Totally.  It's not gonna, there's no reason to have that much radiation to your heart.
+PATIENT: Okay.
+DOCTOR: No reason at all.  Even in patients who have like [REDACTED] transfers.
+PATIENT: Uh-huh.
+DOCTOR: They would never [REDACTED], never.
+PATIENT: In a month?
+DOCTOR: That's what the notes say, let me just check it.
+PATIENT: I mean I don't want to [REDACTED].
+DOCTOR: No I mean it's not, it's not a [REDACTED], it's totally unnecessary.  There's no point in it.
+PATIENT: Uh-huh.
+DOCTOR: Um so um who is your regular doctor here that you follow with?  Is there anybody that you?
+PATIENT: I don't have any regular doctor.  I just go to the clinic.
+DOCTOR: Okay.
+PATIENT: I don't have a regular doctor that I know of.  I always just go to the Urgent Care.
+DOCTOR: Okay.  So it looks like you've never had a colonoscopy right?
+PATIENT: No.
+DOCTOR: Alright so you're due for that cause you're 50 now.
+PATIENT: Yes.
+DOCTOR: So you're gonna get one of those.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um and then do you smoke?
+PATIENT: Occasionally.
+DOCTOR: How often?
+PATIENT: Maybe once a day.
+DOCTOR: Okay.  Are you interested in quitting?
+PATIENT: Yeah I'm gonna do that.  I plan on doing it, next Monday or Tuesday, [REDACTED] give it up, [REDACTED].  I don't have to smoke.
+DOCTOR: Okay.  Okay um now what about um, did you get a flu shot this year?
+PATIENT: Yes.
+DOCTOR: You did.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um [REDACTED]?
+PATIENT: I'm not sure.  I was in the hospital last week, I got a flu shot, I'm not completely sure.
+DOCTOR: Okay.  Um well it looks like all your labs are um good.  What were you in the hospital for?
+PATIENT: You'll see it.
+DOCTOR: What happened?  I know back in August, but recently, were you in the hospital recently or just that?
+PATIENT: I had a suicide attempt.
+DOCTOR: That was in August or was there another one?
+PATIENT: Uh-huh.
+DOCTOR: There was?
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Oh you weren't hospitalized here?
+PATIENT: I was hospitalized here, I don't know but they don't, uh the VA [REDACTED].
+DOCTOR: Okay.  Okay.  Um how are you dealing with stuff now?
+PATIENT: Okay.
+DOCTOR: Do you mind if I ask how you tried?  Was it your wrist again or was it something else?
+PATIENT: Um I was talking about doing it you know basically um, taking all my medicines [REDACTED].  But I said to myself [REDACTED].
+DOCTOR: Okay good, good.  Well do you know when about that was?
+PATIENT: It was because I missed my court date and I'm going to court for SSI disability.
+DOCTOR: Okay.
+PATIENT: And I was in the hospital at the time that I was supposed to go and they wouldn't let me out to go to my, to go before the [REDACTED] and I [REDACTED] ruling on my [REDACTED] about having a lawyer.
+DOCTOR: Okay.  Do you still feel like hurting yourself?
+PATIENT: No.
+DOCTOR: Okay, okay.  Um are you drinking at all?
+PATIENT: No.
+DOCTOR: Um and any drugs?
+PATIENT: No.
+DOCTOR: Okay.  Have you been losing any weight?
+PATIENT: Uh uh.
+DOCTOR: Um.
+PATIENT: No I’ve been gaining.
+DOCTOR: Okay no sweating at night?
+PATIENT: No.
+DOCTOR: Okay um fevers, chills, anything like that?
+PATIENT: No.
+DOCTOR: Okay.  [REDACTED] here?
+PATIENT: No.
+DOCTOR: Okay.  Um sore throat, cough, chest pain, shortness of breath?
+PATIENT: All that's gone now.
+DOCTOR: You don't feel like your heart is racing or anything?
+PATIENT: Uh uh, no.
+DOCTOR: Any belly pain, throwing up, diarrhea, constipation?
+PATIENT: No.
+DOCTOR: Uh do you have heartburn?
+PATIENT: No.
+DOCTOR: Problems peeing, blood in your pee?
+PATIENT: Uh uh, no.
+DOCTOR: Any changes in your skin, any rashes, lesions, bruising?
+PATIENT: No.
+DOCTOR: Okay.  Uh no swelling in your legs or anything?
+PATIENT: No.
+DOCTOR: Okay.  [REDACTED] depression, anxiety?  How is everything going?
+PATIENT: Yeah but the medication helps.
+DOCTOR: Okay.  What are you taking currently?
+PATIENT: I take Prozac and mirtazapine and that's it.
+DOCTOR: Okay.  Uh you don't have like any no fainting, headaches, no vision changes or anything like that?
+PATIENT: No, not at all.   I was taking vardenafil.  Something like that.
+DOCTOR: Vardenafil yeah.
+PATIENT: They gave it to me but it wasn't working at all.
+DOCTOR: That's what we give here.
+PATIENT: Okay.
+DOCTOR: That's actually what um, that's the only medications that we would give for that.
+PATIENT: Uh-huh.  [REDACTED].
+DOCTOR: Huh well we can try again.
+PATIENT: Okay.
+DOCTOR: And see you know.
+PATIENT: First it was it was [REDACTED] miligrams [REDACTED] everything [REDACTED].  They give me once a month.  Is that the way it supposed to work once a month?
+DOCTOR: You get two pills a month.
+PATIENT: Oh two pills a month.
+DOCTOR: Cause they're not like totally without side effects, you know um.
+PATIENT: Uh-huh.
+DOCTOR: I mean it can change your blood pressure.
+PATIENT: Okay.
+DOCTOR: And all kinds of things and it's not something that you can just take like all the time or whenever you know what I mean?
+PATIENT: Uh-huh.
+DOCTOR: Sometimes you can only take for a little bit just to make sure that you’re not overdoing it.  Hmm, I don’t think we have any cholesterol stuff on you sometime so we need to check that.  I don't see that so we'll need to check that on you.  Okay.  Um your blood pressure is good, basically you know it's the smoking and the colonoscopy.  That's the only thing you need.
+PATIENT: Okay.  Well I can stop smoking, that's okay.
+DOCTOR: Are you sure?
+PATIENT: Yeah I'm positive you now.
+DOCTOR: Do you want any help with that?
+PATIENT: No I could stop that and I told them I'd do it the first thing.
+DOCTOR: Are you okay with getting a colonoscopy?  Do you know what it is?
+PATIENT: Yeah I heard about it.
+DOCTOR: Basically they give the stuff, you drink it and then you poop out everything.
+PATIENT: Uh-huh.
+DOCTOR: So your bowel is totally clean.
+PATIENT: Yeah I need to get that.
+DOCTOR: They take a little camera and try to look.
+PATIENT: My father, my father passed from uh.
+DOCTOR: Colon cancer?
+PATIENT: Colon cancer yes.
+DOCTOR: Then you should actually have been screened like a long time ago.
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: Uh the doctor did the finger part but I mean, but I never got it.
+DOCTOR: Yeah we're gonna set you up right now.
+PATIENT: Okay.  Not today though right?
+DOCTOR: No.
+PATIENT: Oh okay.
+DOCTOR: Not today.
+PATIENT: Anytime we can do the procedure I’ll be ready for it.
+DOCTOR: And the only medications you are on is your mental health stuff?
+PATIENT: Right.  That's the only thing I have.
+DOCTOR: And you don't have any kind of a heart valve or anything like that.
+PATIENT: No, no.
+DOCTOR: Alright.
+PATIENT: No.
+DOCTOR: And you haven't had any surgeries in your stomach at all, right?
+PATIENT: No.
+DOCTOR: Have been on anesthesia?
+PATIENT: Anesthesia what's that?
+DOCTOR: You know they kind of make you kind of.
+PATIENT: Oh I had a hernia operation, I don't think they did anesthesia.
+DOCTOR: Okay.
+PATIENT: The only operation I had was a hiatal hernia.
+DOCTOR: Okay, let me see.  I think everything looks okay.
+PATIENT: Uh-huh.
+DOCTOR: Let me take a look at you, can you sit up here for a second.
+PATIENT: Do you need my shirt off or anything?
+DOCTOR: Nope.  It's good.  Go ahead and breathe normally.  Deep breath, okay.
+PATIENT: Excuse me.
+DOCTOR: That's okay.
+PATIENT: I took too deep of breath.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: No I can.
+DOCTOR: No, no, no, you don't move it I'll move it.
+PATIENT: Okay.
+DOCTOR: You don't move it I'll hit it.  There you go.  You were moving before I even did anything.
+PATIENT: [REDACTED].
+DOCTOR: Go ahead look straight ahead. Say ah, [REDACTED].
+PATIENT: Ah.
+DOCTOR: Good.  [REDACTED].  Alright, everything looks good um.  I think we can get you set up for your medicine and all that okay.
+PATIENT: Okay.
+DOCTOR: You can have a seat back there I'll be right back, just have to talk to my doctor.
+PATIENT: Okay.
+(DOCTOR OUT:  22:37  DOCTOR IN:  39:49)
+DOCTOR: Alright sir, sorry about that.
+PATIENT: Uh-huh.
+DOCTOR: I know you've been waiting.  He caught me one doctor [REDACTED].  So you can pick up the meds.
+PATIENT: Okay.
+DOCTOR: We'll see you back in four months.
+PATIENT: Okay.
+DOCTOR: Um and uh as [REDACTED] blood tests.
+PATIENT: Uh-huh.
+DOCTOR: With your platelets are [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Well it's kind of really low.
+PATIENT: Okay.
+DOCTOR: Um and so we want to recheck it.
+PATIENT: Okay.
+DOCTOR: So we'll send you to the Lab today to get some blood drawn.
+PATIENT: Okay.
+DOCTOR: Um.  Do you want to pick up your medicines or do you want it mailed to you?
+PATIENT: I can pick it up today?
+DOCTOR: Yes.
+PATIENT: Yes.
+DOCTOR: Okay fine.  So it's two tablets per month and then we'll give you three refills and then by that time you'll have a return appointment and you'll come back here.
+PATIENT: Okay.
+DOCTOR: You know what I'm saying.
+PATIENT: Okay.
+DOCTOR: Then we'll keep refilling it.
+PATIENT: Okay.
+DOCTOR: As you go, I know that you see the Mental Health people.
+PATIENT: Uh-huh.
+DOCTOR: But I'm just a little worried because you I know that [REDACTED] walk-in clinic.
+PATIENT: Uh-huh.
+DOCTOR: And um you know if you can attempt to just, I just worry that stuff is going on.
+PATIENT: Uh-huh.
+DOCTOR: That really needs to be addressed.
+PATIENT: Uh-huh.
+DOCTOR: Um so I think you should go to the PAC
+PATIENT: Uh-huh.
+DOCTOR: And they'll have [REDACTED] it's kind of just a walk-in thing.
+PATIENT: [REDACTED].
+DOCTOR: Yeah you know and it's okay.  I mean [REDACTED] they can do anything [REDACTED].
+PATIENT: Right, right.
+DOCTOR: It's just; you know it's okay, if you don’t want to talk about it with me that's fine.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].  I'm not going to push you to do something you don’t want to do.
+PATIENT: Right.
+DOCTOR: You know um and then I just, I don't know, I think you should go.
+PATIENT: Check [REDACTED].
+DOCTOR: I would.
+PATIENT: Uh-huh.
+DOCTOR: Cause it's not like [REDACTED] anything [REDACTED] take away from you.
+PATIENT: Hmm I used to go to PAC but they uh [REDACTED] my doctor that I used totally see all the time and I haven't gotten assigned to a new doctor so I don't go there anymore.  Now heck, [REDACTED] California I was there for so long but I haven't got a new doctor so, I don't go there anymore.
+DOCTOR: You don't.
+PATIENT: No, I go on 77th and Halsted.
+DOCTOR: Okay so you don't even see like here.
+PATIENT: No.
+DOCTOR: What's your phone number?
+PATIENT: NUMBER.
+DOCTOR: Oh okay, [REDACTED]@.
+PATIENT: NUMBER.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Uh-huh and that's senior because I have a son that stays there, his name is Junior. So if you call me I could make sure.
+DOCTOR: No sure, sure.  I would just, you know I'll walk over with you.
+PATIENT: Uh-huh.  I'm fine, I know where PAC is.
+DOCTOR: You know where it is.
+PATIENT: Yeah I've been going there for years.
+DOCTOR: So you're probably gonna go.
+PATIENT: I'm gonna stop by there and I'm gonna stop by Transportation and it's right across.
+DOCTOR: I've got your paperwork and everything.
+PATIENT: Uh-huh.
+DOCTOR: So if you're ready to go sooner.
+PATIENT: Uh I have to stop over here first anyway; I need to get my blood drawn right.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: You know, the thing is I can be your regular doctor.
+PATIENT: Okay.
+DOCTOR: Cause I saw you once.
+PATIENT: Uh-huh.
+DOCTOR: So I'll set you up, I'll follow your labs.
+PATIENT: Okay.
+DOCTOR: We'll do all of that um.
+PATIENT: Yeah I don't have a regular doctor that I know of.
+DOCTOR: Yeah no I will be yours, I can be your regular doctor.
+PATIENT: Primary okay.
+DOCTOR: Yeah and if you need to be seen you know, go through the all.
+PATIENT: Okay.
+DOCTOR: And [REDACTED].
+PATIENT: Alright.
+DOCTOR: And they'll get you scheduled, you get your medicine and then if you get anything, you come here.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Good.
+DOCTOR: So [REDACTED], PAC.
+PATIENT: Okay.
+DOCTOR: And Pharmacy to pick up your [REDACTED] and we'll see you back in four months.
+PATIENT: Alright.
+DOCTOR: And then they will mail you a thing for the colonoscopy.
+PATIENT: No?
+DOCTOR: Oh they'll call you.
+PATIENT: Okay call me to set up an appointment.  You say like that be four months.
+DOCTOR: It’ll probably be sooner than that.
+PATIENT: Oh okay.
+DOCTOR: You'll see me in four months.
+PATIENT: Oh okay.
+DOCTOR: But they, I mean I don't do that; it would be up to them actually.
+PATIENT: Right I understand.
+DOCTOR: And they'll take care of it.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I'll stop back here.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright take care.
+PATIENT: Alright thank you.
+DOCTOR: Sure.
+PATIENT: 46:16
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286102
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,183 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: How you doing?
+PATIENT: How you doing doc?
+DOCTOR: Alright, alright.  How you feeling?
+PATIENT: Terrible.
+DOCTOR: Terrible?
+PATIENT: [REDACTED].
+DOCTOR: Oh okay.  You look good.
+PATIENT: I’m always a little good.  I [REDACTED].  I was a mess.
+DOCTOR: Alright.  Still working at the [REDACTED]?
+PATIENT: Yep.
+DOCTOR: [REDACTED] huh.
+PATIENT: Yeah still there.
+DOCTOR: Yeah.  Have a seat. What can I do for you today?
+PATIENT: Hey, you know I got a blood clot right there and it's actually been [REDACTED] since I got that [REDACTED] knee replaced.
+DOCTOR: Okay.  How big a blood clot?
+PATIENT: Or whatever, it's tender, you know what I mean.
+DOCTOR: Okay.
+PATIENT: And then it stays in my leg and like it feels like I can pull my skin back and pull water down [REDACTED].
+DOCTOR: Okay.
+PATIENT: Okay and I have like a tingling sensation in my leg and my back, everything's on my left side and then they did a MRI and then they never told me anything else about my prostate when they found a spot on it.
+DOCTOR: Oh it looks like you're seeing the prostate doctors right?
+PATIENT: Right.
+DOCTOR: And uh yeah I think that was your kidney that they found the spot on, not the prostate.
+PATIENT: Oh the kidney.
+DOCTOR: Right so I think they didn't really think much of it, kind of reading their notes.  They just wanted to follow you.
+PATIENT: They told me my prostate was swelled and there was a spot on my prostate.
+DOCTOR: No they said.
+PATIENT: A lesion.
+DOCTOR: In your prostate?
+PATIENT: Yeah.
+DOCTOR: They said there was a lesion on your kidney.
+PATIENT: Oh my kidney, oh okay.
+DOCTOR: But the thing is is that it's gonna be hard for us to, it looks like.  Have you been able to take your blood pressure medicine?
+PATIENT: Yeah.
+DOCTOR: Cause it looks like you haven't refilled it since December.
+PATIENT: That's because I had a lot.
+DOCTOR: Okay.
+PATIENT: You know I had a lot.
+DOCTOR: Okay.  Yeah it's gonna be hard for us to like treat the rest of your pain you know if you're not really taking your blood pressure medicine.
+PATIENT: I thought they said today its like 133 or 136, yeah.
+DOCTOR: Uh let me see exactly what it is.
+PATIENT: Yeah but I'm taking you know.  I just like had a bunch of it.
+DOCTOR: So it looks like.  Okay.
+PATIENT: When I came in I just had a stock pile at home.
+DOCTOR: Okay.  Uh it looks like uh let's see we did this, you had an x-ray done of like your hip and your knee.  It looks like you got arthritis um, let's see.  Well you know for the pain you're having in your leg and your back you know we could probably do physical therapy cause we haven't sent you to Physical Therapy.  Um.
+PATIENT: You know I'm doing a lot of exercising myself so I don't even know if physical therapy would work.
+DOCTOR: You know otherwise there's not, I mean I could send you to see the orthopedic surgeons to see if they'd like to operate on you but other than that there's not a whole lot we can do for arthritis.
+PATIENT: Okay so that, actually everything I'm having in my leg that's due to arthritis?
+DOCTOR: Uh-huh.
+PATIENT: Okay what's, you know the other day I was watching this program on PAD.
+DOCTOR: Hmm.
+PATIENT: Okay and from what they were describing on TV it's the same symptoms that I have on my left leg.
+DOCTOR: Uh-huh.
+PATIENT: You know uh.
+DOCTOR: What symptoms are those?
+PATIENT: Uh poor circulation you know.
+DOCTOR: Well it's just poor circulation isn't a symptom.  Like symptoms are like pain and tenderness and tingling.  Poor circulation.
+PATIENT: See I have that tingling and you know like I said the tingling it's like someone is [REDACTED] apart.
+DOCTOR: Yeah.
+PATIENT: Like cold water on the inside and it's like it's draining and running down the inside of my leg.
+DOCTOR: Well why don't you have a seat, let's take a look at it, how about that.
+PATIENT: And like I said this here on my left side, they said kidney because you know almost everything is on my left side.  Right, you know I have the soreness, stuff all on my left side.
+DOCTOR: Yeah.
+PATIENT: Everything's on my left side.
+DOCTOR: Do you know what the treatment is for; the first line treatment is for PAD?
+PATIENT: What?
+DOCTOR: Quit smoking.
+PATIENT: Oh.
+DOCTOR: Yeah, see, yeah.
+PATIENT: I mean if that, if that's what’s gotta be done, that’s what’s gotta be done!
+DOCTOR: You know.
+PATIENT: You know what I'm saying.
+DOCTOR: Alright let's take a look at you, okay alright.
+PATIENT: Yeah that's pretty good; everything is on the left side.  Man I do a lot of walking and standing.
+DOCTOR: Okay.
+PATIENT: And you see I'm out of Tylenol 3.
+DOCTOR: Yeah.
+PATIENT: You know and they told me I had to come back here for you to prescribe it again.
+DOCTOR: You got good pulses.  I don't think you have PAD.
+PATIENT: Okay.
+DOCTOR: Alright let’s take a listen to you here.
+PATIENT: Oh okay, you know.
+DOCTOR: Nice deep breaths and nice deep breaths.  Alright, just breathe normal.  Okay.
+PATIENT: Okay you know and it was like [REDACTED] on the top of this [REDACTED] but sometimes I get more spots in my hair and my hair is falling out more.
+DOCTOR: Oh really.
+PATIENT: See what I'm saying.
+DOCTOR: Yeah sure, sure, we could have you see the dermatologist for that one.  Alright, Dermatology, I'll refill your medicine uh what's, uh we need some labs on you today.  We need to check your hepatitis levels.  You're due for a cholesterol check.
+PATIENT: Hey you know sometime.  Also you know when I was in the Marine Corps.
+DOCTOR: Uh-huh.
+PATIENT: And they were giving a shot, they used the same needle.  You know what I'm saying, cause it was a gun like we stood in line and somebody with a gun and shh shh shh.  Is it possible I got hepatitis that way?
+DOCTOR: Hmm it's pretty unlikely.  Hepatitis C, the one you had that's mostly likely from either uh intravenous drug use or uh like a sexual encounter.
+PATIENT: Okay.
+DOCTOR: Yeah just getting like immunizations.
+PATIENT: Oh.
+DOCTOR: It's extremely unlikely.  Um alright, let's see if you.
+PATIENT: They just did a blood thing the other day before I did the MRI last week and I got an appointment this Friday.
+DOCTOR: You had an appointment with the orthopedist.
+PATIENT: I got it this Friday on the 23rd.
+DOCTOR: Oh you do?
+PATIENT: Yeah at 2:30.
+DOCTOR: Cause it looks like you didn't make it to your last one.
+PATIENT: No I didn't, I rescheduled.
+DOCTOR: Got it, got it.  Oh perfect, perfect, perfect.
+PATIENT: I got it written down.
+DOCTOR: Good.
+PATIENT: For some reason I was in here doing something else.
+DOCTOR: Yeah.
+PATIENT: And I know I had an appointment for something but I couldn't remember what it was and it was scheduled on a Tuesday when I have my [REDACTED] medicine class and my PTSD class.
+DOCTOR: Yeah got it.  Uh are you sure we can't interest you in any vaccinations or a colonoscopy today?
+PATIENT: No nothing.
+DOCTOR: We have to offer, we have to offer it.
+PATIENT: I know you got to offer it.  And I know you offered it.
+DOCTOR: Alright let's see otherwise.
+PATIENT: What is it about the kidney thing then?
+DOCTOR: Well it looks like you're seeing the specialist for this right?  You know the GU Clinic and uh it looks like, yeah what'd they say.
+PATIENT: Cause as a matter of fact the last time I went to the doctor was for my prostate.
+DOCTOR: For gross hematuria, [REDACTED] left renal mass, MRI, you had the MRI they didn't really see that much.  So it seems like they uh, so it just seems like they want to follow you for it.  They don't think it's much.  They think it might be a cyst on your kidney but.
+PATIENT: Check on, you know the last time I went over there and [REDACTED] doctor told me that my prostate was swelled right.
+DOCTOR: Hmm.
+PATIENT: And they didn't give me anything for it.  I go back again and the guy's gonna stick this finger in my ass again.
+DOCTOR: Hmm.
+PATIENT: I'm uh [REDACTED] if you keep doing that, excuse my way of talking but if you keep sticking your finger in my ass and then giving nothing for it you know I say hey, ain't nothing happening.
+DOCTOR: Yeah.
+PATIENT: So why do you always, so you know it ain't happening this time I go back.  You didn't give me nothing, you not sticking your finger in my ass again, somebody [REDACTED].
+DOCTOR: Well I don't know, you know they're the specialist, they really should enlarged, okay let's see.  Well no actually they didn't think it was enlarged.
+PATIENT: Oh okay.
+DOCTOR: They it was normal.
+PATIENT: Well why does the guy keep sticking his finger in my ass?  That's what I'm talking about see, cause I mean there's something wrong with him.
+DOCTOR: Uh like I say they're the prostate doctor.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah they getting off sticking their finger in my ass.  You know you guys are all [REDACTED].
+DOCTOR: Well at least you got the five star treatment.
+PATIENT: Yeah that's what they call it?
+DOCTOR: You know you got the head to toe exam right.
+PATIENT: Yeah well that's like what about this thing on the side of my face that keeps rubbing it.
+DOCTOR: Let's uh, well I'll set you up to see the dermatologist when they check your head they can check this thing too okay, sound good?  Alright.
+PATIENT: We're coming up on [REDACTED] after a while.
+DOCTOR: Meds refill, refill your meds, Ortho.  Hold that thought and let me get some papers for you, I'll be right back.
+PATIENT: You know that thing about the ass thing.
+DOCTOR: No.
+PATIENT: It wasn't right.
+DOCTOR: I'll be right back.
+(DOCTOR OUT:  44:59  DOCTOR IN:  47:24)
+PATIENT: The thing is doc.
+DOCTOR: Whoa, on the left side, yeah where's it at.
+PATIENT: On this side here, you know [REDACTED].
+DOCTOR: Let's take a look.
+PATIENT: Everything's happening on it.
+DOCTOR: Yeah.
+PATIENT: It's all right here.
+DOCTOR: Do you feel like its swollen?
+PATIENT: You know if you look at it, I mean it looks swollen.  I look at it myself.
+DOCTOR: Looks okay to me.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Well you think its fine.  I don't.
+DOCTOR: I think you’re fine.
+PATIENT: I ain't no, what you call a hypochondriac.
+DOCTOR: Hypochondriac.
+PATIENT: Yeah.  You know whatever it is, said that cause I'm [REDACTED] so you know when I come into the doctor's office, all new thing [REDACTED].
+DOCTOR: Yeah, no I got it, I got it.
+PATIENT: You know I'm 61 years old, [REDACTED] @@.
+DOCTOR: Oh that's fine, that's fine.
+PATIENT: You know.  All of a sudden this thing started breaking down.
+DOCTOR: Alright stop by to get a blood draw on your way out alright.
+PATIENT: Okay.
+DOCTOR: And just [REDACTED] they'll give you an appointment with Dermatology.
+PATIENT: Now I ain't going to wait another year before I come see you, you know.
+DOCTOR: Yeah.  Okie doke.  Just hand this to the lady at the front desk, they'll give you an appointment, stop by the blood draw, I'll refill your meds.  Do you want to pick them up at the window today?
+PATIENT: Yeah, uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay thanks a lot doctor.
+DOCTOR: Alright take care alright.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: 48:55
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275392
+TRANSACTION # 578-10-2-316-0103

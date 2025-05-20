@@ -1,0 +1,503 @@
+DOCTOR: Okay.
+PATIENT: Oh okay.
+DOCTOR: You ready?
+PATIENT: Yes doc.
+DOCTOR: So how have you been?
+PATIENT: Pardon?
+DOCTOR: How's the hip?
+PATIENT: Oh fine.
+DOCTOR: Good.
+PATIENT: It's coming along very good.
+DOCTOR: That's good to hear.  You still doing rehab with it?
+PATIENT: Pardon?
+DOCTOR: You still going to Rehab?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No but my hip’s coming along fine.
+DOCTOR: It's good to see you again.  Uh how are you feeling since the last time I saw you?
+PATIENT: Well.
+DOCTOR: [REDACTED].
+PATIENT: As far as my hip goes I feel fine.
+DOCTOR: Yeah.
+PATIENT: And that part I think is going very good.
+DOCTOR: Okay.
+PATIENT: I can walk up the steps very easy now and uh and it's actually coming very good.  But the prostate, I don't know if those pills are doing me any good.
+DOCTOR: Okay.
+PATIENT: Uh I can go a long time; at least I can sleep all night you know.
+DOCTOR: So it helped in that regard but not really in any other?
+PATIENT: Well I don't think it's doing that much.  It's doing some good.
+DOCTOR: Okay.
+PATIENT: But not a lot.  Maybe it's not giving it enough time.
+DOCTOR: Well, you've been on it for what, a little over a month now right?
+PATIENT: Well about a month yeah.
+DOCTOR: It should have some effect.
+PATIENT: Uh-huh yeah.
+DOCTOR: Um, Flomax works a little bit quicker.  We could also start you on something called finasteride and unfortunately, when is your next follow-up with GU?
+PATIENT: Pardon?
+DOCTOR: Uh, I'm wondering when your next Urology follow-up is?
+PATIENT: Oh, I don't know.
+DOCTOR: Let me take a look uh.  So the main ingredients here are like the Flomax, which is what you have now.
+PATIENT: That's what I have now.
+DOCTOR: Yeah and then you're not on the finasteride right?  Proscar.
+PATIENT: Pardon?
+DOCTOR: Have you ever been on Proscar or finasteride?
+PATIENT: Proscar?
+DOCTOR: Yeah.
+PATIENT: Is that another pill?
+DOCTOR: Yeah.
+PATIENT: Evidently not.
+DOCTOR: Okay.  Those are the two that I kind of use a lot.  After that it kind of comes down to surgical stuff as well as the urologist.
+PATIENT: Uh-huh.
+DOCTOR: Um if they can do anything to open it up.  Your PSA is still really good.
+PATIENT: Oh good what is it?
+DOCTOR: Less than, I mean undetectable.
+PATIENT: Oh, oh good, good.
+DOCTOR: So.
+PATIENT: Now when I use a catheter.
+DOCTOR: Uh-huh.
+PATIENT: I don't have any trouble inserting those, you know what I mean?
+DOCTOR: Yeah.  Is it bothering you to use the catheter?  Maybe just a little bit.
+PATIENT: Well not now.
+DOCTOR: I mean I know it's not the most ideal thing in the world but it.
+PATIENT: No I, I deal with that I go along with it you know.
+DOCTOR: Yeah.  I think it's just going to come down to whether um, whether we're going to want to manage it using the catheter or whether it's going to be surgical and I think that Urology is probably going to lean toward medical.
+PATIENT: I don't think there's anything blocking it because the catheter, I don't have any trouble putting it in there and taking it out of there.  I mean there's not something that's stopping it, you know what I mean?
+DOCTOR: Yeah.
+PATIENT: But uh.
+DOCTOR: [REDACTED].
+PATIENT: But I can go 12 hours without using the catheter.
+DOCTOR: Okay.
+PATIENT: Yeah but uh.
+DOCTOR: So you just have a hard time just going on your own though?
+PATIENT: Well I don't have a hard time going, I have a hard time going enough.
+DOCTOR: Going enough.  So you're not.
+PATIENT: I'm not, no.  I go maybe a weak stream for 10 seconds.
+DOCTOR: Uh-huh.
+PATIENT: And then maybe five minutes later I go back again and maybe another one for 10 or 15 seconds.
+DOCTOR: Okay.  So you going a lot?  A small amount but a lot of the times?
+PATIENT: Well uh, I can yes.
+DOCTOR: Okay.
+PATIENT: But it doesn't empty my bladder you know.
+DOCTOR: Okay.  How long has that been going on again?
+PATIENT: Well I think it's been going a long time because I noticed, I've had trouble before but I didn't realize what it was.  I did realize that it wasn't, my bladder wasn't being emptied.
+DOCTOR: Yeah.
+PATIENT: When I get up I go to the washroom and I go and by the time I walk to the front door and pick up the paper and come back then I'd go again.
+DOCTOR: Okay.
+PATIENT: But not enough evidently.
+DOCTOR: Yeah.  So how many times do you use the catheter a day?
+PATIENT: Well maybe three times.
+DOCTOR: Okay and if you don't use the catheter how many times do you have use the bathroom a day?
+PATIENT: Oh I don't know maybe five times.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Do you use a catheter every day?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Yes because I want to use it at night before I go to bed.
+DOCTOR: Okay.
+PATIENT: Because I want to sleep all night.
+DOCTOR: Okay do you use it like, so during the day do you just use the washroom or do you use the catheter?
+PATIENT: Well both.
+DOCTOR: Both.
+PATIENT: Yeah if I feel that I need to I'll use the catheter.
+DOCTOR: Okay.
+PATIENT: But I can go 12 hours without using it.  Oh and I mentioned to you before I have to go to the skin doctor you know.
+DOCTOR: Yeah.
+PATIENT: How does that look now, my nose?  Look pretty good?
+DOCTOR: It looks better.
+PATIENT: Yes, you know I put salve on there, yeah I don't know what they call it.
+DOCTOR: You still need to get a look at it.  You have an appointment uh next week.
+PATIENT: Yeah.
+DOCTOR: So but it's still probably something to look at.
+PATIENT: Yeah.  So I don't know but I put that on right away today or not.
+DOCTOR: Are you having any pain in the hip right now?
+PATIENT: No.
+DOCTOR: Okay.  What medications are you taking right now at home?
+PATIENT: Uh well I'm taking one medication for my heart.
+DOCTOR: Do you have the list?
+PATIENT: Let me see what did I do with this, it's not on there I don't think.
+DOCTOR: Okay.  Because you have been on hydrochlorothiazide in the past, do you know why that was?
+PATIENT: Yeah well I took one tablet, a small yellow tablet.
+DOCTOR: Uh-huh.
+PATIENT: Once a day before it said to cut in half but I take the full tablet.  Let's see what is it, I don't even know if they have it on there.
+DOCTOR: I’m trying to see who uh.
+PATIENT: This one I'm taking for the, I don't know if it's a diuretic, what is it?
+DOCTOR: Well you're not on a diuretic [REDACTED].
+PATIENT: No.
+DOCTOR: That's why I wanted to look at it.
+PATIENT: But I just take that one you know in the morning.
+DOCTOR: Yeah the, so the Rehab doc stopped your hydrochlorothiazide.  I'm not really sure why.
+PATIENT: Uh-huh.
+DOCTOR: Let's see.  But I think you should be on one.  Your blood pressures have been a little high.
+PATIENT: Yeah.  Yeah the last one, when they take it right away it is that high.
+DOCTOR: Okay.
+PATIENT: But it's not 80 or 90, 180 or 190 or anything like that.
+DOCTOR: Yeah but 150s, we still want to get you lower than 150.  You're doing pretty well.
+PATIENT: Well I can get it down much lower if I sit down at home.
+DOCTOR: Okay.  Let me recheck it.  Do you have the list with you?
+PATIENT: Yeah but, no I can get it down to 120s.
+DOCTOR: So are you taking, you're taking the enalapril?
+PATIENT: Is that a little yellow tab?
+DOCTOR: I don't know what.
+PATIENT: A little orange tablet?
+DOCTOR: Yeah I'm not sure what they look like, let me see if I can look it up.  Is it a twice a day pill.
+PATIENT: No just once a day I take.
+DOCTOR: Okay.
+PATIENT: One tablet once a day in the morning.
+DOCTOR: Okay.  Let's see what we've got here.
+PATIENT: The problem is now; if I get up in the morning and I take my blood pressure it's high.  It might be 160.
+DOCTOR: Yeah we want to get you lower than that.
+PATIENT: Yeah.  If I take it right away but if I sit there for 10 minutes, you know watching the news or reading.
+DOCTOR: It'll come down?
+PATIENT: It comes down, maybe 140 yeah.  I don't have any problem with that.
+DOCTOR: [REDACTED] low.  Let's see if we can find it on Google, what it looks like.  But you're on two blood pressure medications right now, so you should be taking both of them twice a day.
+PATIENT: Both of them?
+DOCTOR: Yeah.
+PATIENT: Oh, okay can you just mark that down there?
+DOCTOR: Yeah, so yeah.  I’ll mark your blood pressure medications?
+PATIENT: Yeah because I probably have some.
+DOCTOR: This is supposed to be half tab twice a day.
+PATIENT: Yeah okay.
+DOCTOR: And this one is also the other blood pressure medication.
+PATIENT: Yeah.  Okay.  Yeah I'll try that then.
+DOCTOR: And this one is a whole tab.
+PATIENT: Yeah.
+DOCTOR: Twice a day.
+PATIENT: Yeah.
+DOCTOR: And I don't want to start you on another one.
+PATIENT: Na, na.
+DOCTOR: Well I know that's 2.5 but you have the 20.
+PATIENT: Yeah, well uh.  I know before when I was taking the blood pressure medicines.  It got so damn low I was below 100, it was 90s, 80s, you know.
+DOCTOR: Oh really.
+PATIENT: Yeah remember I told you I got.
+DOCTOR: Yeah.
+PATIENT: I got sick that day.
+DOCTOR: I do remember that, that's right.  That's why we stopped the hydrochlorothiazide.
+PATIENT: Yeah so then I quit taking those.
+DOCTOR: But you had lost some weight too right?
+PATIENT: Well I did lose the weight, now I'm trying to get the weight back.  I'm up to about 180 now.
+DOCTOR: Does that look familiar?
+PATIENT: Yeah.
+DOCTOR: The enalapril okay.  That should be two pills twice a day.
+PATIENT: Yeah okay then.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: And the uh metoprolol is the other blood pressure medicine.
+PATIENT: Yeah okay.  Yeah I'll take those again.
+DOCTOR: When was that that your blood pressure got really low?  I remember that now, I forgot about that.
+PATIENT: What was that now?
+DOCTOR: When was it that your blood pressure was low?
+PATIENT: Oh, well I don't know, probably two months ago now or something like that.  But it really scared me.
+DOCTOR: Yeah, I had forgot about that.
+PATIENT: Yeah.  I mean I, going up the steps, probably about seven or eight steps at my son's place and of course I can't make it to the top.
+DOCTOR: Yeah.
+PATIENT: I know I'm going to fall you know.
+DOCTOR: Yeah.
+PATIENT: So then what I did.
+DOCTOR: Well what may have happened was when you lose weight um.
+PATIENT: Well I.
+DOCTOR: Your blood pressure comes down with the weight loss.
+PATIENT: Yeah, I'm not losing any more weight now.
+DOCTOR: Okay.
+PATIENT: And I wasn't on the weight loss thing.  When I was losing the weight, which I tried to do to help my leg.
+DOCTOR: Uh-huh.
+PATIENT: Then my stomach muscles shrunk.
+DOCTOR: Oh.
+PATIENT: I couldn't eat much.
+DOCTOR: Yeah.
+PATIENT: Now I'm back I can eat all I want to.
+DOCTOR: Okay good.
+PATIENT: You know what I mean.
+DOCTOR: Can I get you to sit over here?
+PATIENT: Yeah.
+DOCTOR: I want to take a listen [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Um but I think going back on the hydrochlorothiazide would be a good thing for now.  You have a blood pressure cuff at home right?
+PATIENT: Yes.  Yeah it's really accurate.
+DOCTOR: So.  We'll start you on blood pressure medication.  I'll have you checking the blood pressure at home though because if it starts to drop again call in and we'll stop the, stop one of the medications okay.
+PATIENT: Yeah, okay.   What'd you want my arm or what?
+DOCTOR: Oh you can stay there.
+PATIENT: I can stay here.
+DOCTOR: Yeah.  I just want to take a listen to you.  No this is good.  That doesn't do much good.
+PATIENT: Oh [REDACTED].
+DOCTOR: Sometimes.
+PATIENT: Well that's not much, not that.  It's not much help at all.  [REDACTED].
+DOCTOR: Can you take your glasses off for me?
+PATIENT: Oh yeah.
+DOCTOR: Can you open your mouth; stick your tongue out okay.  It looks better.
+PATIENT: Oh good.
+DOCTOR: But you should probably see your dermatologist [REDACTED].
+PATIENT: Well I'm putting those two things on there a couple times a day.
+DOCTOR: Okay.  Any pain here?
+PATIENT: No, no I don't have any pain.
+DOCTOR: [REDACTED] for me.
+PATIENT: Oh yeah.
+DOCTOR: Take a couple of deep breaths.  You can breathe normal.
+PATIENT: Everything seem okay?
+DOCTOR: What's that?
+PATIENT: Everything okay?
+DOCTOR: Yep.  It was your left hip, right, that they did the surgery on?
+PATIENT: No the right the right.
+DOCTOR: The right, that's right.
+PATIENT: Yeah right here.
+DOCTOR: Yeah.  Does it hurt when I press here?
+PATIENT: No.  No.  It doesn't hurt at all.
+DOCTOR: Okay good.  I'm glad that it's doing so well.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And it is coming along very good.  I have a little gadget to put my sock on.  I can't reach my right foot to put my sock on.
+DOCTOR: How long has that been going on?
+PATIENT: Oh ever since I had the surgery yeah.
+DOCTOR: Yeah it may come back in time as you get used to you know.
+PATIENT: Well.
+DOCTOR: Work out more.
+PATIENT: Today I was able to put my sock on the right foot.
+DOCTOR: Good.
+PATIENT: Not easy but I made it.
+DOCTOR: Yeah.
+PATIENT: So it's coming along.
+DOCTOR: Yeah I think as you work with the hip more it'll get more loose.
+PATIENT: Yeah.
+DOCTOR: Um.
+PATIENT: As I do more.
+DOCTOR: Exactly.
+PATIENT: But the problem I got, like I want to exercise, the exercise I want to do I can't do.  I can't get up you know and if I want to do a push-up I can't get up off the floor.
+DOCTOR: How long has that been going on?
+PATIENT: Oh well since I've had the operation.
+DOCTOR: Okay.
+PATIENT: Yeah I just can't do it.
+DOCTOR: Um.
+PATIENT: See I do a lot of things myself.  I wash the car; I change the oil in the car.
+DOCTOR: Now the push-ups, you were able to do push-ups before?
+PATIENT: Yes.
+DOCTOR: The surgery.
+PATIENT: Oh yeah.
+DOCTOR: So now do you just feel too weak or is there pain?
+PATIENT: Well I can't get up off the floor.  If I get down on the floor then I can't get up.  I have to drag myself somewhere like to.
+DOCTOR: How come you can't get up?  [REDACTED].
+PATIENT: My leg isn't strong enough.
+DOCTOR: Oh okay.
+PATIENT: My legs aren't strong enough to get me up.
+DOCTOR: Yeah I think it might take a while.
+PATIENT: Yes but they're coming along.
+DOCTOR: Exactly.
+PATIENT: Yeah.
+DOCTOR: Um.
+PATIENT: Yeah they're coming along.
+DOCTOR: You're 85 years old um.
+PATIENT: Yeah so every day is a good day.
+DOCTOR: Well I don't mean it that way but you know those kinds of things, you know muscle mass might take a little longer to come back than for a 20-year-old.
+PATIENT: Yeah, yeah but my leg is getting stronger.  My arms are getting stronger.
+DOCTOR: So don't get frustrated.  It'll keep back if you keep working with it.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: So I don't have too much trouble.
+DOCTOR: Um.  I'll be right back with you okay.
+PATIENT: Yeah.
+DOCTOR: Any other questions or problems today?
+PATIENT: Not really.
+DOCTOR: Okay.
+PATIENT: [REDACTED] nephew, he's trying going to go down to Phoenix.
+DOCTOR: Arizona?
+PATIENT: Yeah.
+DOCTOR: What's he do down there?
+PATIENT: Well, his has a good job now with Trump.
+DOCTOR: Yeah.
+PATIENT: He wants to [REDACTED] one of his uncles is down there with a drug company.
+DOCTOR: Oh really.
+PATIENT: And he wants to get in there somehow.
+DOCTOR: Those are good jobs I tell you.  Sometimes when you do that they make.
+PATIENT: Yeah.
+DOCTOR: They make a crazy amount of money.
+PATIENT: Yeah.
+DOCTOR: I'll be right back with you okay.
+PATIENT: Okay, back here right.
+DOCTOR: Sure.
+(DOCTOR OUT:  39:27  DOCTOR IN:  41:48)
+DOCTOR: Alright.  So you need to tell Matt that I said hi.
+PATIENT: Yeah if I see him, I don't see him that much.
+DOCTOR: I haven't seen Matt in a long time so.  It's because I'm here all the time, I don't see anyone anymore.
+PATIENT: Yeah.
+DOCTOR: Um so a couple things, like I said I want to restart that one blood pressure medication.
+PATIENT: Yeah, well I'll do that yeah.
+DOCTOR: Yeah we want to get this number a little bit lower.
+PATIENT: Yeah.
+DOCTOR: But I want you to check your blood pressure at home um, at least for the next month or so to make sure that you're not falling too low.
+PATIENT: Yeah.
+DOCTOR: And if you notice you're getting dizzy or lightheaded.
+PATIENT: No.
+DOCTOR: Um if you do.
+PATIENT: Well.
+DOCTOR: Check your blood pressure.
+PATIENT: Yeah.
+DOCTOR: And call us okay.
+PATIENT: Yeah.
+DOCTOR: Um so now you're going to be on uh.
+PATIENT: The two of those.
+DOCTOR: Yeah.
+PATIENT: Well do I start this [REDACTED].
+DOCTOR: Yeah I'll just write down what you're going to be on now.  Okay so you'll have two for blood pressure and the other one is going to be.
+PATIENT: I still have some of those at the house you know.
+DOCTOR: Okay.  I'll put in refills for everything today too.
+PATIENT: Yeah.
+DOCTOR: So this new one is just going to be once a day.
+PATIENT: Pardon?
+DOCTOR: This new one's going to be just once a day.  You were already on it before we stopped it because of your low blood pressure in the past.
+PATIENT: Yeah okay.
+DOCTOR: So you'll be on the enalapril, metoprolol and the hydrochlorothiazide.
+PATIENT: Once a day.
+DOCTOR: Yeah, this one is once a day, these two are twice a day.
+PATIENT: Yeah okay.
+DOCTOR: This is for blood pressure.
+PATIENT: Yeah.
+DOCTOR: The other one I want to try you on today is uh something called finasteride.  You said you haven't ever been on that before.
+PATIENT: No.
+DOCTOR: Okay the other name is Proscar.
+PATIENT: Uh-huh.
+DOCTOR: Now this is another prostate medication.
+PATIENT: Yeah.
+DOCTOR: It can take a little while to work as well but I'd give it at least 2-4 weeks before.
+PATIENT: Yeah.
+DOCTOR: You see any difference.
+PATIENT: Good.
+DOCTOR: But um we'll try it today and see how you do.
+PATIENT: Oh good.
+DOCTOR: It may help your prostate a little bit.
+PATIENT: Yeah.
+DOCTOR: Uh keep using the catheter if you need it.  If it's not bothering you, I mean [REDACTED].
+PATIENT: It doesn't bother me.  I have to use it because otherwise I'd be getting up every hour and a half.
+DOCTOR: Yeah, you want to be sleeping.
+PATIENT: Yeah.
+DOCTOR: So these are the two that you're taking now for the prostate, the one we start, you're going to be on Flomax and the finasteride.
+PATIENT: Yeah.
+DOCTOR: And then um next time you're at the urologist doctor just let him know.
+PATIENT: Yeah that'll be another week, the 18th.
+DOCTOR: Is it the 18th.
+PATIENT: Not the urologist uh the skin doctor, the dermatologist.
+DOCTOR: Yeah the urologist, I think they wanted to see you in.
+PATIENT: Probably quite a while.
+DOCTOR: In July.
+PATIENT: Oh.
+DOCTOR: Another two months or so.
+PATIENT: Oh okay.  Right, yeah.
+DOCTOR: Okay.
+PATIENT: Yeah well that's great.
+DOCTOR: And I think that's about it.  I'm glad to hear the hip is doing better.
+PATIENT: Yes, everything else feels fine it's just.  I'm surprised myself.
+DOCTOR: I'm not surprised but you're doing better than I thought.
+PATIENT: Yeah.
+DOCTOR: Not that, I mean usually these hip surgeries people do better but it takes a couple of months before they feel better.
+PATIENT: Uh-huh, yeah.
+DOCTOR: The first time I saw you, you were doing much better than you know, when I saw you in November you couldn't get out of the wheelchair.
+PATIENT: Yeah, yeah.
+DOCTOR: I'm glad.  The other thing today is, it's something new the VA's doing, it's just um uh, do you have any Advanced Directives as far as you know?
+PATIENT: A what?
+DOCTOR: Advanced Directives um.
+PATIENT: What is that?
+DOCTOR: Uh, Living Will, Power of Attorney.
+PATIENT: Oh yeah, my daughter is.
+DOCTOR: Okay.  Um.
+PATIENT: I have everything all set.
+DOCTOR: Okay.
+PATIENT: My daughter gets the house.
+DOCTOR: Okay.
+PATIENT: And my son gets my money, which isn't much but it's something anyway.
+DOCTOR: Do you mind telling us, now I want you to bring a copy of that uh, you know as far as who gets what the VA isn't really that concerned with who, we're more concerned with who is your Power of Attorney.
+PATIENT: Yeah.
+DOCTOR: Not that I'm thinking anything's going to happen to you but it's just good to have.
+PATIENT: Yeah.
+DOCTOR: If anything were to happen to you, who we need to ask what to be done, you know what medical procedures to be done.
+PATIENT: Yeah.
+DOCTOR: And if you have any wishes uh besides that, you know about medical treatment, all that kind of stuff.
+PATIENT: No, no, well my daughter, she's [REDACTED] next door.
+DOCTOR: Okay.
+PATIENT: In the Intensive Care.
+DOCTOR: Right NAME yeah.
+PATIENT: Yeah.
+DOCTOR: But just for legal purposes we like to have a copy on file just you know.
+PATIENT: Well I, let's see.
+DOCTOR: Is that your oldest daughter?
+PATIENT: Yes.
+DOCTOR: Okay, did your wife [REDACTED].
+PATIENT: The wife I had when they were born is alive, I'm not married.
+DOCTOR: Okay.  So by default it would actually go to NAME anyways, we would ask her questions.
+PATIENT: Yeah, yeah.  I've got everything in my will, if I should die in my will I'll be cremated and all that stuff.
+DOCTOR: Okay.
+PATIENT: Yeah I don't have any problem with that.
+DOCTOR: Yeah.  Like I said for the VA purposes, it's more like your health care stuff.  What you want done in terms of like an emergency, stuff like that.
+PATIENT: Yeah, yeah.
+DOCTOR: So if you could bring a copy in next time and we can give it to the guys up front and we can put it in the computer so if ever is an emergency we know what you want done.
+PATIENT: Yeah, okay.
+DOCTOR: Okay.
+PATIENT: Yeah because I had that probably done a year or so ago.
+DOCTOR: Good, okay.  If you bring a copy you give it to the guys up front and they can put it in your file.
+PATIENT: Yeah I'll have to look it up.
+DOCTOR: Okay.  Good seeing you.
+PATIENT: Okay same here.
+DOCTOR: I'm glad you're doing so much better.
+PATIENT: Yep.  I surprise myself.  I just feel fine.
+DOCTOR: I'll give you that.
+PATIENT: Okay fine.
+DOCTOR: So before you come in three months get a blood test okay.
+PATIENT: Okay.
+DOCTOR: I'll have you come back in three months.
+PATIENT: Yeah.
+DOCTOR: Go downstairs and just get your blood checked.
+PATIENT: Yeah.
+DOCTOR: And make sure that you're doing okay with all the blood pressure medications.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: But that PSA, how long ago was that?
+DOCTOR: That was December so.
+PATIENT: That's not that long ago, no oh that's good.
+DOCTOR: Yeah so the PSA.
+PATIENT: Yeah I just got over that; it's been ten years now.
+DOCTOR: Yeah, yeah it's been a while.
+PATIENT: Okay.  Thank you very much.
+DOCTOR: Okay.  No problem.
+PATIENT: Nice seeing you doc.
+DOCTOR: Need help?
+PATIENT: [REDACTED].
+DOCTOR: Got it?
+PATIENT: Yeah I might have to take two or three steps but then I'm okay.
+DOCTOR: Actually you know what, I need you to give this to the guy at the front too, do you mind when you check out, do you have the check-out form?
+PATIENT: Which is that?
+DOCTOR: The [REDACTED] bring it in maybe.
+PATIENT: Okay let me put this down again.
+DOCTOR: Okay, you want me to take a look?
+PATIENT: Yeah.
+DOCTOR: Yeah here you go.  You've got to give this to them out front so they can make the appointment, so give them both of these.
+PATIENT: Okay what is this one then?
+DOCTOR: That's the Advanced Directive Form to say that uh.
+PATIENT: That's for me to take home right?
+DOCTOR: Or else you give it to them up front and just say that we you know that you notified us you do have an Advanced Directive and that you're going to bring it in.
+PATIENT: Okay, give them both of these.
+DOCTOR: Yeah and then this is for you.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: So thank you very much.
+DOCTOR: No problem.  Also I hear it's pretty awful out today.
+PATIENT: Pardon?
+DOCTOR: I hear it's pretty awful outside.
+PATIENT: I think it’s great.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] I had a really really good day I came and there was a place in the.
+DOCTOR: Place to park oh.
+PATIENT: Yeah.
+DOCTOR: Well that is a rarity here.
+PATIENT: Yeah.
+DOCTOR: So if you get here after 7:30 in the morning.
+PATIENT: Yeah.
+DOCTOR: The parking here.
+PATIENT: This way I don't have to wait to bring my car around.
+DOCTOR: Yeah.
+PATIENT: Okay thank you very much sir.
+DOCTOR: Okay I'll see you later.
+PATIENT: 49:39
+Time is 1:44 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238113
+TRANSACTION # 578-10-2-316-0103

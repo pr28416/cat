@@ -1,0 +1,409 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: How you doing?
+PATIENT: Alrighty.
+DOCTOR: [REDACTED].
+PATIENT: Yep [REDACTED].
+DOCTOR: What's new?
+PATIENT: Nothing much.
+DOCTOR: You have to remember I use the best uh recording in all my patients they love it.
+PATIENT: Oh.
+DOCTOR: You had more records than I did.  I love it; you're kind of uh, oh look at this.
+PATIENT: Look at this. Latest, three months of blood pressure [REDACTED].
+DOCTOR: Holy moly. That's great. And here are your glucoses, oh wow, they look good, 120s, 114 over 71, 113, 115.  Well your blood pressures are doing, pretty much our goal is less than 130.
+PATIENT: Well the last times have had a couple of spikes.
+DOCTOR: Uh, yeah what happens with blood pressure is that throughout the day.
+PATIENT: Uh-huh.
+DOCTOR: It's kind of more like this than anything else so, what's really important for us is to sort of a trend for these
+PATIENT: Uh-huh.
+DOCTOR: So I'm uh happy with your blood pressure.
+PATIENT: Okay.
+DOCTOR: And so let's just say I checked it today and I saw a 135/80 randomly today um.  If you didn't have this log, I'd have to say ah man I wonder what.
+PATIENT: Well, I think today it was.
+DOCTOR: Right, yeah, so with this log I know that you know as the day changes with different levels of stress.
+PATIENT: Uh-huh.
+DOCTOR: And different levels of caffeine or you know how excited you are, your blood pressure kind of goes like this but what matters, over the long haul, is sort of the trend.
+PATIENT: Okay.
+DOCTOR: And your trend is good.  Same with your sugars.  Um now you're taking, let's pull up your.
+PATIENT: Yeah I have to work on the medication because we just have a part of them filled.  You were going to look at it last time and.
+DOCTOR: [REDACTED] filled, oh in terms of which ones were [REDACTED].
+PATIENT: Yeah you were going to make a decision as to what I should take and obviously may not have had a chance to do that.
+DOCTOR: Yeah.  Well, you mean um in terms of what we could get you or maybe?
+PATIENT: Yeah, yeah.  Cause I was on more medication before I come here and you said we could.
+DOCTOR: What were you on when you came here?  I have here that you were on glyburide, you're taking 5 mg daily.
+PATIENT: Correct.
+DOCTOR: Right now.  Yeah your hemoglobin A1c last time was incredible.
+PATIENT: How can I get copies of the reports?  Cause I'd like.
+DOCTOR: That's why I can print one.
+PATIENT: Alright can I and what I got tested for.  Cause you had mentioned once maybe.
+DOCTOR: And did you get a stress test?
+PATIENT: Yeah.
+DOCTOR: I wonder why I didn't see the results of that.
+PATIENT: I was supposed to, you said you might give me an HIV and uh, I forgot what the other one was and I had no idea what tests I really had.
+DOCTOR: In May.  Good, no evidence of ischemia, so that's good.  I'm trying to remember why we.  Were you having any complaints?
+PATIENT: Well I had an upper chest infection or something.
+DOCTOR: Yeah.
+PATIENT: And some pounding of the chest.  These were the medications I was on.
+DOCTOR: Oh, historically.
+PATIENT: Yeah.  You changed the.
+DOCTOR: Glyburide, no yeah you were only on one medication for diabetes.
+PATIENT: Right, right.
+DOCTOR: Yeah but.
+PATIENT: But I was on Flomax and finasteride.
+DOCTOR: Oh.
+PATIENT: And then I was also on this for high blood pressure and you said you were going to review that and uh see.
+DOCTOR: Okay, which ones are you taking, the lisinopril one?
+PATIENT: Well you changed yeah, no uh metoprolol.  You changed that.
+DOCTOR: Okay.
+PATIENT: The last visit.
+DOCTOR: Let me see what I've got again diabetes.
+PATIENT: You did have a half and a half.
+DOCTOR: Let's see what I put here um.  Switched from metoprolol to lisinopril [REDACTED].  I think we just thought your regimen was kind of bizarre.
+PATIENT: Okay.
+DOCTOR: And the reason why we changed that was because typically if people have any sort of, if they have diabetes or if they have any sort of heart problems, uh metoprolol is sort of a really good drug for cardio protection.
+PATIENT: Okay.
+DOCTOR: The thiazem is a is kind of a weird choice and the last time you a bad reaction to metoprolol.  So the reason why we changed it wasn't because of uh.
+PATIENT: Right cause the other one I was on, does that mean I don't need to take that any longer?
+DOCTOR: The verapamil?
+PATIENT: Yeah.
+DOCTOR: Yeah no.  Uh, we had stopped your, uh wait a minute.  We had stopped your.  You were historically on diltiazem.  Both of those were sort of calcium channel blockers um, so I think at this point you're taking, you're on lisinopril, verapamil [REDACTED].
+PATIENT: [REDACTED] that I asked the doctor if he couldn't get something more in the line of [REDACTED].
+DOCTOR: You have verapamil but weren't you on diltiazem?
+PATIENT: No.
+DOCTOR: What I have on the list [REDACTED] diltiazem.
+PATIENT: No.
+DOCTOR: No.
+PATIENT: [REDACTED] and this one.
+DOCTOR: Well I don't know why I have your, instead of diltiazem.
+PATIENT: Well I don't know.
+DOCTOR: No.  Maybe.
+PATIENT: Unless it was under a different name but I don't recognize that.
+DOCTOR: Okay, so you're no longer taking that though.
+PATIENT: No.
+DOCTOR: Okay good.  Yeah I looked at it.
+PATIENT: Instead am I taking.
+DOCTOR: Based upon your.
+PATIENT: Or am I taking this cause I ran out of that uh.
+DOCTOR: The lisinopril?
+PATIENT: Yeah.
+DOCTOR: Yeah we'll continue the lisinopril.
+PATIENT: Alright.
+DOCTOR: 10 mg daily.  It's good for your heart.
+PATIENT: [REDACTED].  Get off of this.
+DOCTOR: No.
+PATIENT: Just a prescription.
+DOCTOR: Oh for a prescription okay.
+PATIENT: Cause I [REDACTED].
+DOCTOR: Okay.
+PATIENT: And then there's a couple that are 30 day ones.
+DOCTOR: Let's renew, expires, expires, all of these expire in 2011.  Let me see here.
+PATIENT: Well I've got two that are 30 days and that's a pain in the butt.
+DOCTOR: Let's do this, let's do um, I think what you mean is and let's do 120.  You mean it's a pain in the butt because you.
+PATIENT: Well every 30 days uh you know.
+DOCTOR: Oh yeah.
+PATIENT: I get it cause it takes a week and a half to get so by the time I get it I won't have to reorder.
+DOCTOR: I'll change the dose; I mean I'll change the quantity.
+PATIENT: Okay.
+DOCTOR: Let's see [REDACTED].
+PATIENT: And then yeah and then there are two of them that are 30 day supplies.
+DOCTOR: The statin one?
+PATIENT: Yeah.
+DOCTOR: The statin one you have plenty of those.  Let's see about the glyburide, we can renew them.
+PATIENT: Glyburide is a 30 day supply, or 90 day supply.
+DOCTOR: And let me put in for the lisinopril.  You're taking 10 right?  Lisinopril here we go 10 milligrams daily.  We'll give you [REDACTED].  Do you want them mailed to you or do you want to pick them up at the window?
+PATIENT: Well if I could pick this one up at the window then I can renew is on the website.
+DOCTOR: Website.
+PATIENT: The website yeah.
+DOCTOR: That's kind of convenient huh.
+PATIENT: Yeah.
+DOCTOR: Okay so that's the medications, let me go back to this list right here to make sure I.  Hemoglobin A1c what it was, let's see let's look at.  You've had two stress tests?
+PATIENT: One here.
+DOCTOR: I mean in addition to the one here.
+PATIENT: Right, sure.
+DOCTOR: It looks like you had [REDACTED].
+PATIENT: Right, right.
+DOCTOR: What symptoms were you having for those?
+PATIENT: The first one they read an EKG, the doctor said the computer read the EKG.
+DOCTOR: Okay.
+PATIENT: And indicated I had a heart attack.
+DOCTOR: Okay.
+PATIENT: And it says that was totally incorrect but now that I had something that said I had a heart attack, he had to prove it's wrong.
+DOCTOR: Okay.
+PATIENT: And then the last one my insurance was expiring so he.
+DOCTOR: Oh.
+PATIENT: It's just a precaution.
+DOCTOR: And currently you're doing well, you have no complaints?
+PATIENT: Well, I walk about three miles a day.
+DOCTOR: Oh wow.
+PATIENT: You know weather permitting.
+DOCTOR: And no chest pain?
+PATIENT: Nope.
+DOCTOR: No shortness of breath.
+PATIENT: Nope.
+DOCTOR: And how are your bowel movements?
+PATIENT: They're one a day.
+DOCTOR: No black tarry stool?
+PATIENT: Nope.
+DOCTOR: And no black tarry, I'm sorry no blood in the stool?
+PATIENT: No.
+DOCTOR: And in terms of your urination, no problems with urination?
+PATIENT: Nope.
+DOCTOR: Are you urinating more, having to wake up at nighttime?
+PATIENT: Well I'm still; I still had a prescription open from my doctor on the finasteride.
+DOCTOR: Okay.
+PATIENT: So I'm still taking that.
+DOCTOR: And no problems when you're taking that?
+PATIENT: No.
+DOCTOR: No fevers or chills right?
+PATIENT: No.
+DOCTOR: No nausea or vomiting.
+PATIENT: Nope.
+DOCTOR: And then no recent weight loss?
+PATIENT: I've been losing weight because I want to lose weight.
+DOCTOR: Okay so you're trying, you're exercising more.
+PATIENT: Eating less, exercising more yeah.
+DOCTOR: How much have you lost?
+PATIENT: Uh probably about 17 pounds.
+DOCTOR: Oh excellent.
+PATIENT: It's been a long struggle but it's getting down there.
+DOCTOR: That's great.
+PATIENT: Well I felt myself gaining weight again and I knew that's not good for diabetes and everything else in the body so.
+DOCTOR: Now remind me about your colonoscopy.  Did you have, when was the last time you had a colonoscopy?
+PATIENT: I had one when I was 59 and.
+DOCTOR: I think somewhere, I may have it written down in my.
+PATIENT: Here's a copy of the results.
+DOCTOR: Of the colonoscopy.
+PATIENT: Yes.
+DOCTOR: And remind me are you retired?
+PATIENT: No unemployed.
+DOCTOR: And what did you used to do?
+PATIENT: I was a project manager, running projects uh for [REDACTED] and then I moved on to another company but uh.
+DOCTOR: Are you still trying, are you trying to find work right now?
+PATIENT: Well certainly.
+DOCTOR: Okay.  Okay I got that done.
+PATIENT: In fact they had a job fair here last week, I came in.
+DOCTOR: Did they really?
+PATIENT: Yeah, so that was sort of a farce.
+DOCTOR: And you're no longer drinking?
+PATIENT: Nope, oh occasionally yeah maybe once a month or something like that.
+DOCTOR: And you're no longer smoking?
+PATIENT: Never.
+DOCTOR: But you did smoke.
+PATIENT: yes.
+DOCTOR: How years have you smoked for?
+PATIENT: I think I quit in the mid 70s, I probably started when I was about 16, 17, so [REDACTED].
+DOCTOR: We may repeat a urine.  In February.
+PATIENT: February or March.
+DOCTOR: Okay if you just had one then we'll see.  Um, they found some trace blood.  I just want to make sure there's no.
+PATIENT: I had that before and I went through all kinds of tests and they didn't find anything.
+DOCTOR: You did a cystoscopy?  Did they put a camera up your penis?
+PATIENT: Yes.
+DOCTOR: Oh they did.
+PATIENT: Oh yeah that was fun.
+DOCTOR: When was that?
+PATIENT: I don’t know, I could back track, um I'm guessing maybe five, eight years ago.
+DOCTOR: Alright.
+PATIENT: And then I had a series of tests uh.  I had a CAT scan associated with that as well as a uh another test, I can't remember what it was.
+DOCTOR: Yeah your HIV was negative.  Vitamin B12 was all normal and your blood was.  Yeah you have two UAs with blood.  Let's repeat one.  Well you have the results, when was the cystoscopy?  Do you remember when that was?
+PATIENT: Uh no I think I listed it, let me see.  I'll have to check that for the next time.
+DOCTOR: Okay.  Do you remember approximately when it was like a year ago, two years ago?
+PATIENT: No it was probably five to eight years ago.
+DOCTOR: I'm going to repeat a UA today okay.
+PATIENT: What's that?
+DOCTOR: Just urine and some blood tests.
+PATIENT: Okay.
+DOCTOR: We'll do a pee in cup.  Okay, let's have you come over there and [REDACTED] 166/80 we’ll check it.
+PATIENT: Yeah.
+DOCTOR: You go to the nurse check, that's okay.
+PATIENT: Yep.
+DOCTOR: The nurse check was higher um.  Have you been following all this madness with the basketball stuff, all these people speculating about Lebron James?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: I'm not.
+DOCTOR: Chicago's going, they're all going crazy.
+PATIENT: [REDACTED].
+DOCTOR: He's a famous basketball player, who everybody, everybody and their cousin wants to sign of course Chicago is in a frenzy on all the shows.
+PATIENT: [REDACTED].
+DOCTOR: Get Michael Jordan back here but I don't know and I don't care how good you are, I don't know that there's going to be anybody as good as that guy.  He was pretty.
+PATIENT: Uh-huh.
+DOCTOR: Pretty amazing.  Unfortunately for me, I was a Phoenix Suns fan growing up.
+PATIENT: Oh oh.
+DOCTOR: The Phoenix Suns never had much success against them.
+PATIENT: Uh uh.
+DOCTOR: Especially when they played them in the finals and lost, that was no fun.  Fun for people here but.
+PATIENT: [REDACTED].
+DOCTOR: It's a little high.  Did you take your blood pressure pills today?
+PATIENT: I take them at night.
+DOCTOR: Do you take all of them at night?
+PATIENT: Oh no I [REDACTED] split them in half.
+DOCTOR: So [REDACTED].
+PATIENT: What?
+DOCTOR: Do you mean that you haven't been taking your lisinopril?
+PATIENT: No, no.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Maybe that's the reason why your blood pressure is so high.  Maybe your, now that we restart the lisinopril it probably should come back down.
+PATIENT: Okay.
+DOCTOR: What I would do is, that way when you get it downstairs, take it and then maybe, make sure that, maybe next week like on Tuesday, Monday or Tuesday, come in for the nurse practitioner here or just call me after.  You have a blood pressure cuff right?
+PATIENT: Yep.
+DOCTOR: Obviously you’re checking it and call me with the blood pressure, make sure the lisinopril is kicking in.
+PATIENT: Okay.
+DOCTOR: How long have you not been taking the lisinopril?
+PATIENT: Couple months probably.
+DOCTOR: Oh that long.
+PATIENT: Yeah.
+DOCTOR: That long okay.
+PATIENT: That's what I was saying, you need to address [REDACTED].
+DOCTOR: Yeah, definitely want to put you on that.  Okay I'll be right back okay.
+PATIENT: Alright and then the ones that were for 30 days, are you going to change those to 90 days?
+DOCTOR: I did.
+PATIENT: So that was two of them?  I forgot what two.
+DOCTOR: Um.
+PATIENT: [REDACTED].
+DOCTOR: It would be lisinopril, metoprolol and the glyburide.  I gave you 120 of the metoprolol and then you have 90 of the glipizide.
+PATIENT: Oh wait I'm only take a half, I'm taking one a day.
+DOCTOR: Of the what?  The glyburide?
+PATIENT: The metoprolol.
+DOCTOR: Right.
+PATIENT: I'm taking one pill.
+DOCTOR: Right.
+PATIENT: Cutting in half.
+DOCTOR: Yeah.
+PATIENT: Taking a half in the morning and [REDACTED].
+DOCTOR: Well you're taking half a pill twice a day right?
+PATIENT: Right so I'm taking one pill a day.
+DOCTOR: Correct.  [REDACTED] You said that you want more than what you're getting.  You want 90 instead of 30.
+PATIENT: Right.
+DOCTOR: So with what we give you, you're going to have plenty.
+PATIENT: Oh okay.
+DOCTOR: Yeah.  Okay I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  27:20  DOCTOR IN:  41:41)
+DOCTOR: Alright.  Well my attending thinks that um she's okay with checking your UA but if you have no symptoms then we'll just leave it alone.
+PATIENT: Okay.
+DOCTOR: In terms of looking for, the last one was technically negative for red blood cells, the one before that had some in it.  So if you're not having any symptoms we'll just let it be.
+PATIENT: Well that's what started the first time, it was high and it shouldn't have been over 3.
+DOCTOR: Uh we will, so this one is ready for you to pick up, these two won't since you have plenty of them or we can mail them to you.
+PATIENT: Well I'll go [REDACTED].  Um so what am I going to pick up today?
+DOCTOR: Lisinopril.
+PATIENT: Okay.
+DOCTOR: And then call the nurse, call us up on like Monday or Tuesday to make sure your blood pressure really can you know, came back down uh.  Since you've been on the lisinopril.
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: Well what should it read other than this?
+DOCTOR: Well no so these ones were, I guess my point is if you recently ran out of them, these readings were.
+PATIENT: No it was three months ago.
+DOCTOR: Oh yeah.
+PATIENT: Actually or more, I think it was more than two months ago.
+DOCTOR: Yeah.  It was up, before breakfast, oh here's your blood pressure, 119, 120, 160, [REDACTED].  Yeah for the uh diabetes you really shouldn't be on an ace inhibitor.
+PATIENT: Okay.
+DOCTOR: Um so what I would say is just a low dose of lisinopril.
+PATIENT: Uh-huh.
+DOCTOR: Something like 10 mg daily.
+PATIENT: Okay.
+DOCTOR: But make sure that it doesn't go, if your blood pressure goes low or you get dizzy stop taking it.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: What about the Flomax and finasteride?
+DOCTOR: Um.
+PATIENT: I was on that before, I don't have any other than.
+DOCTOR: So the way the VA works is that I think I have to put in for terazosin it's a similar one.
+PATIENT: Uh-huh.
+DOCTOR: Uh but basically we'll do like a starter pack and you slowly work your way up on that, you want that for a month.  In other words the VA, they get the terazosin.
+PATIENT: Well I don't have any prescriptions, any remaining prescriptions from the old doctors.
+DOCTOR: Okay.  So then why don't I do that then?
+PATIENT: Okay.
+DOCTOR: I'll put in for terazosin a starter pack.
+PATIENT: Okay.
+DOCTOR: And then you'll use, it's like one pill for the first week then two pills and three pills or whatever for a month.
+PATIENT: Okay.
+DOCTOR: But because the VA, because of the cheapness of the medication, whatever the cost is to the VA they do one that's similar but it's called terazosin.
+PATIENT: Okay yeah.
+DOCTOR: So I'll put that.
+PATIENT: Alright.
+DOCTOR: And then because you're doing so well, you don't need to see me for like six months.
+PATIENT: Okay.
+DOCTOR: Cause you're really, you're doing real good.
+PATIENT: Alright but then I went on uh My Healthy Vets, the online guide.
+DOCTOR: Yeah.
+PATIENT: There are tips for wellness.  They were talking about a diabetic eye exam.
+DOCTOR: Okay.  Have you been to [REDACTED].
+PATIENT: A foot exam.
+DOCTOR: Yeah the foot exam you don't have to go to anybody to do it.
+PATIENT: Okay.
+DOCTOR: As long you [REDACTED].
+PATIENT: And then they talked about heart attacks.
+DOCTOR: Yeah you've got [REDACTED].  When was the last time you saw somebody from optho[REDACTED] though?
+PATIENT: Uh probably three years ago.
+DOCTOR: Okay let's do, here you had May 2000, I have the surveillance in here.
+PATIENT: Uh-huh.
+DOCTOR: Diabetic retinopathy surveillance.  Did you make that pending.  So it looks like I ordered and maybe we just didn't set up the appointment.
+PATIENT: I didn't know anything about it.
+DOCTOR: Yeah so let's, let's go, when you go to the front we'll do the consults and diabetic retinopathy.  Come with me we'll set this up and.
+PATIENT: Alright then you were going to print out the uh.
+DOCTOR: Oh the um tests um hmm.  [REDACTED] all one location.  What specifically do you want to know?
+PATIENT: Well generally I get the blood test results.
+DOCTOR: Yeah.
+PATIENT: I got the A1c and all the blood work, cholesterols and that.
+DOCTOR: Let's do this, these are your, you're not going to want those um.  I don't know how to put them all on one thing um.  Tell you what um, they don't show up on the web, you can't look them up on the web?
+PATIENT: Not yet.
+DOCTOR: Hmm.  So the problem is just kind of trying to, I don't know how to print all of the.
+PATIENT: They give you places where you can put in the information that you have but if you don't know the results you can't get it.
+DOCTOR: Um let's see what happens if I do labs cumulative, let's see what will happen if I print this.
+PATIENT: Right.
+DOCTOR: I'm going to try and print this and see if I can get this to actually work.  Okay come with me and then I'm going to see if this printed or not.  I'll be back in like 10 seconds you can have a seat right there.
+PATIENT: Right here, okay.
+(DOCTOR OUT:  46:25  DOCTOR IN:  46:50)
+DOCTOR: Here we go.
+PATIENT: Oh thank you.
+DOCTOR: Again, uh basically what it does it look like it's going to put in to, [REDACTED] UA.
+PATIENT: Okay.
+DOCTOR: Here is like basically BNP, so the thing that's important here.
+PATIENT: Does it give me a cholesterol here?
+DOCTOR: Here this is the hemoglobin A1c, [REDACTED].
+PATIENT: [REDACTED]
+DOCTOR: [REDACTED]
+PATIENT: Oh okay.
+DOCTOR: That's the important one.
+PATIENT: How about the, yeah that would be affected if I was fasting right?
+DOCTOR: No because it's a measurement of three months.
+PATIENT: Oh three months.
+DOCTOR: Okay and another one that's important okay.
+PATIENT: But those should have been fasting and they weren't right so.
+DOCTOR: Uh these ones?
+PATIENT: Yeah.
+DOCTOR: No I think, oh you weren't fasting when you did those?
+PATIENT: No, [REDACTED].
+DOCTOR: Yeah well they're good despite that, these are all good.
+PATIENT: Okay.
+DOCTOR: Uh and then well these are all the important ones.
+PATIENT: Okay.
+DOCTOR: The other ones [REDACTED].
+PATIENT: And I had a negative hepatitis and that’s good, right?
+DOCTOR: Correct.
+PATIENT: Good.
+DOCTOR: And this and then, you pick up your lisinopril downstairs.
+PATIENT: Uh-huh.
+DOCTOR: And make sure, I have ordered this and we'll have you schedule [REDACTED].
+PATIENT: That's the eye exam?
+DOCTOR: The eye exam, basically [REDACTED] and then the UA.
+PATIENT: The Eye Clinic.
+DOCTOR: Right so um, we'll have them set up an appointment for me in six months and they'll set up your diabetes retinopathy exam.
+PATIENT: Right okay.
+DOCTOR: So the order I had put in a few months ago and I put in for a diabetic retinopathy you know consult.
+PATIENT: Uh-huh.
+DOCTOR: It just wasn't set up so, the order should still be good.
+PATIENT: Okay.
+DOCTOR: Um and if it's not maybe just let me know and then I'll put it in again.
+CLERK
+Okay.  I'll get in touch with the [REDACTED].
+DOCTOR: Okay great.  If it's not then just either shoot me a little inbox and we'll set it up because you need to do it again.
+PATIENT: Okay, alright.
+DOCTOR: Okay.  Thanks.
+PATIENT: Thank you.
+PATIENT: 49:26
+Time is 3:14.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238115
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,198 @@
+DOCTOR: PATIENT.  How are you doing?
+SECOND PERSON L144
+Uh pretty good.
+DOCTOR: I am [REDACTED] to you today.
+PATIENT: Glad to meet you doctor.
+DOCTOR: So [REDACTED] right?
+PATIENT: Yes.
+DOCTOR: Okay.  Any problems today?
+SECOND PERSON L144
+Not really.
+PATIENT: Not really no.
+DOCTOR: Okay.  Your blood pressure is doing well.
+PATIENT: Yeah.
+DOCTOR: And uh [REDACTED].
+PATIENT: Okay.
+DOCTOR: And uh um so how was your gout?
+SECOND PERSON L144
+It's under control.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I had a full work-up.
+DOCTOR: Oh good okay.  So what are you doing?  You're basically uh, are you taking medication for it?
+PATIENT: Oh I take uh one tablet a day.
+DOCTOR: Alpurinol.
+PATIENT: Yes, yes, uh-huh.
+DOCTOR: Okay and COPD?  Have you [REDACTED] steroids, the prednisone?
+PATIENT: Sometimes.
+DOCTOR: Okay, okay.  Did you start taking them because of a reoccurrence or what because you have to be careful with that pill because if you take too much then it [REDACTED] other infections.
+PATIENT: Yeah.  Well I always take the one I you know like, when I been breathing bad.
+DOCTOR: Uh-huh.
+PATIENT: And wheezing, you know when I come to [REDACTED].  I want to say like about four or five days.
+DOCTOR: Okay [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: How about um smoking, do you still smoke?
+PATIENT: No, I don’t smoke no more.
+DOCTOR: Okay.  Are you on oxygen at home?
+PATIENT: Uh no but I got a you know I got uh oxygen tank you know.
+DOCTOR: Yeah.  So you just use it [REDACTED].
+PATIENT: Yeah, yeah.
+DOCTOR: And um have you been using the CPAP or anything at night?
+PATIENT: No the only thing that I use, I got a machine where I you know.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] I use that.
+SECOND PERSON L144
+He uses that.
+DOCTOR: Okay and um how is your arthritis?
+PATIENT: Well arthritis, you know how that is, sometimes its.
+DOCTOR: Okay.
+PATIENT: Sometimes it [REDACTED].  When you [REDACTED] you have [REDACTED] you know.  [REDACTED] you know.
+DOCTOR: Okay, okay, okay.  Then what about like uh the um prostate hyperplasia?  Do you get bothering you or you know are you having any symptoms like uh you know not emptying your bladder, particular problems starting the stream or?
+PATIENT: I don't think I do that but I still you know use the bathroom at night.
+DOCTOR: You get up at night.
+PATIENT: Yeah, yeah.
+DOCTOR: How often do you get up?
+PATIENT: [REDACTED] you know about three, three times, about three times a night.
+DOCTOR: Okay, okay.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay and then uh okay.  So everything is fine and you don't need any, you don't have any problems [REDACTED].
+PATIENT: You know, I just, well I got refills I'm just going to go pick up the medication you know.
+DOCTOR: Do you need any refills from me today?
+PATIENT: No uh uh.
+DOCTOR: Okay.
+PATIENT: [REDACTED] got all the refills that I need.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Okay so um do you walk or do exercise?
+PATIENT: I probably walk; I was walking every day you know.  That's the most that I can do is do a little bit of walking you know.  I was walking every day.
+DOCTOR: Okay.  So you used to smoke in the past?
+PATIENT: It's been a long time though.
+DOCTOR: [REDACTED].
+PATIENT: It's been about 89 or 90, it's been a while.
+DOCTOR: Okay and um how often do you use the inhaler?  Um the albuterol?
+PATIENT: Well okay, my inhalers I use, I got the one I use twice a day.
+DOCTOR: Uh-huh.
+PATIENT: I use one once a day.
+DOCTOR: Okay.
+PATIENT: I use like one if I wheeze, that's the quick one but the other one [REDACTED].  This here.
+DOCTOR: [REDACTED] okay.
+PATIENT: Yes I do.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: But that's just for the wheezing you know.
+DOCTOR: [REDACTED].
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Cause you don't [REDACTED].
+PATIENT: [REDACTED] yeah.
+DOCTOR: [REDACTED] okay.
+PATIENT: Yeah.
+DOCTOR: Okay so you've got [REDACTED] refills okay.  Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah I'm sorry.
+PATIENT: [REDACTED] that.
+DOCTOR: Just sit here okay.
+PATIENT: Okay.
+DOCTOR: Okay.  [REDACTED] is good.  It says that you have some um back pain, with right wrist and left knee?
+PATIENT: Yeah [REDACTED] you know, you know what it is getting old.  I don't expect that any doctor.
+DOCTOR: [REDACTED] with um two things possibly one it is as we age [REDACTED] arthritis there is nothing that [REDACTED] it.
+PATIENT: Yeah.
+DOCTOR: But [REDACTED] more, [REDACTED].
+PATIENT: Yeah.  I got to lose [REDACTED].  That's most of my problem.  I need to lose the weight.
+DOCTOR: [REDACTED] that's probably [REDACTED] because you know everybody gets sedentary at a certain age.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].  But it has to be [REDACTED].
+PATIENT: Yeah.
+DOCTOR: You know what I'm saying.  [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] so um yeah.  I mean you know, since you know what to do and you just you know, be active, try to lose weight and um, but uh eating well you [REDACTED] that.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] the more [REDACTED].
+PATIENT: Yeah.  Well I've had that you know that problem with the [REDACTED] you know.
+DOCTOR: Okay.  If you can just hop up here I'll take a look at you.  Do you measure your blood pressure at home?
+PATIENT: Huh?
+DOCTOR: Do you measure your blood pressure at home?
+PATIENT: Well uh not really, not really.
+DOCTOR: Okay.
+SECOND PERSON L144
+Breathe deep now.
+DOCTOR: Take a deep breath, breathe out.  Let me look at your feet.  [REDACTED].
+PATIENT: Not really, [REDACTED].
+DOCTOR: [REDACTED] your blood pressure is doing well but then you know you cut down on [REDACTED] do you know?
+PATIENT: Uh.
+DOCTOR: [REDACTED] you know.  Take a deep breath.  Any fevers, uh chills?
+PATIENT: No.
+DOCTOR: Uh shortness of breath, chest pain?
+PATIENT: Sometimes shortness of breath.
+DOCTOR: Because of your COPD. But anything new? You can [REDACTED]
+PATIENT: Yeah.
+DOCTOR: But [REDACTED].
+PATIENT: Right, right, right.
+DOCTOR: And then any chest pain?  Any palpitations, you know like rapid heartbeat or anything like that?
+PATIENT: No.
+DOCTOR: Any nausea, vomiting?
+PATIENT: No.
+DOCTOR: Any recent weight loss?
+PATIENT: No.
+DOCTOR: Any blood in your sputum?
+PATIENT: No.
+DOCTOR: And uh any um uh other problems like lightheadedness, any blood in stools?
+PATIENT: No.
+DOCTOR: Any um uh problems with anything like burning or pain on urination, or blood in urine?
+PATIENT: No.
+DOCTOR: Anything at all like that, okay.
+PATIENT: No.
+DOCTOR: Open your mouth for me, stick your tongue out and say ah.
+PATIENT: Ah.
+DOCTOR: Okay.  Did you have your flu shot?
+PATIENT: Uh I [REDACTED] had it once but I haven't had the other[REDACTED].
+DOCTOR: [REDACTED].  Okay [REDACTED] give you.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay [REDACTED] once again I'd do that okay.
+PATIENT: Okay.
+SECOND PERSON L144
+Alright.  I think I might have to go somewhere else and take that flu shot though.
+DOCTOR: No I think they probably have it here.  Um [REDACTED].
+PATIENT: Yeah I think [REDACTED].  That's the difference [REDACTED].  I had one flu shot.
+DOCTOR: Okay.
+PATIENT: With DOCTOR.
+DOCTOR: Okay.  I'll be right back.
+(DOCTOR OUT:  76:19  DOCTOR IN:  86:26)
+DOCTOR: So [REDACTED] here you can go to see them and they tell you where to go.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: I get to see uh the uh all the other [REDACTED] albuterol solution that I put into the machine.  [REDACTED] that.
+DOCTOR: So the albuterol.
+PATIENT: I know I got [REDACTED] and uh.  [REDACTED] send me that.
+DOCTOR: [REDACTED].
+PATIENT: That's the one more thing [REDACTED].
+DOCTOR: Yeah.  [REDACTED] today.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: As long as I got a refill I can get it down there.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] two in one.
+PATIENT: I know [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Okay.  When I call it they send it to me it takes about seven days [REDACTED].
+DOCTOR: Okay so you call them.  They have only one [REDACTED] here [REDACTED].
+PATIENT: Yeah, that's good, that's good.
+DOCTOR: [REDACTED].  So you can go?
+PATIENT: Yeah.
+DOCTOR: [REDACTED] okay.
+PATIENT: Okay.
+DOCTOR: So I'll see you back in, you want to come back in four months?
+PATIENT: Okay, alright.
+DOCTOR: Okay.
+PATIENT: Okay.  Alright you have a really nice Thanksgiving.
+DOCTOR: Thank you, you too okay.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Oh okay, sure, sure.  Have a good holiday.
+DOCTOR: You too, have a very nice holiday.
+PATIENT: [REDACTED].
+PATIENT: 88:19.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1255148
+TRANSACTION # 578-10-2-316-0103

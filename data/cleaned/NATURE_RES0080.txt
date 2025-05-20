@@ -1,0 +1,98 @@
+DOCTOR: What took, brought you in today?
+PATIENT: Yeah, I'm just feeling, so, I do have COPD, but I just feel so much worse. I do have shortness of breath, but I think it's just been worse over the past three days. I'm having more difficulty climbing stairs, or even just going to the bathroom.
+DOCTOR: OK, and you said this started?
+PATIENT: Three days ago, three or four days ago.
+DOCTOR: And since that time has the shortness of breath been getting worse or staying the same?
+PATIENT: Yeah, so initially it was just, it was just climbing stairs, you know, but then after that, I mean, this morning, I was just short of breath going to the bathroom.
+DOCTOR: OK, and have you had, uh, shortness of breath on exertion like this before?
+PATIENT: Uhm, you know, sometimes.
+DOCTOR: OK.
+PATIENT: I don't, do much anyway, because my CPD, you know, just makes things a little bit difficult, uh, yeah, I use my puffers.
+DOCTOR: OK, and have you had any, uh, episodes where you've woken up in the middle of the night and were really short of breath, you had to, uh, sit up?
+PATIENT: No, no, no.
+DOCTOR: OK, and are you able to lie flat?
+PATIENT: Yes.
+DOCTOR: OK, and you mentioned you were bringing up sputum. Could you describe the color?
+PATIENT: Yeah, I don't know it's kinda yellow, uh, green.
+DOCTOR: Has that changed from before?
+PATIENT: Yeah, yeah, so usually it's just sort of whiteish and foamy, and uh, yeah it's different. And it's more, you know, it's alot more, every time I'm coughing it's just like, spoonfuls, it's a lot more than usual.
+DOCTOR: OK, yeah, it sounds like a lot more and have you noticed any blood?
+PATIENT: No, no, no.
+DOCTOR: OK, and uh, so have you had a cough then?
+PATIENT: Oh yeah, I've had a cough for the past 20 years.
+DOCTOR: OK, and is your cough worse at any particular time of the day, Or does it happen throughout the day?
+PATIENT: Well, it's a bit worse when I'm smoking, but otherwise it's the same.
+DOCTOR: OK, and has your cough been worse these past couple of days as well?
+PATIENT: No.
+DOCTOR: OK, and have you had any headaches?
+PATIENT: No.
+DOCTOR: How about any ear pain or eye pain?
+PATIENT: No.
+DOCTOR: Any sore throat?
+PATIENT: No.
+DOCTOR: OK, have you had a loss of smell or a loss of taste?
+PATIENT: No, I don't think so.
+DOCTOR: OK, and have you had any wheezing?
+PATIENT: A little bit. It's been there for a while though.
+DOCTOR: OK, have you noticed any changes to the wheeze?
+PATIENT: No, I don't think so. I don't know. I can't tell.
+DOCTOR: I see, OK, and have you had any chest pain?
+PATIENT: No.
+DOCTOR: Have you had any lightheadedness or dizziness?
+PATIENT: No.
+DOCTOR: OK, and have you had any heart palpitations?
+PATIENT: No.
+DOCTOR: Alright, and have you had any abdominal pain, nausea or vomiting?
+PATIENT: No.
+DOCTOR: Alright, and any urinary problems?
+PATIENT: No.
+DOCTOR: Any bowel problems?
+PATIENT: No.
+DOCTOR: OK, and have you had any changes to your skin or any rashes?
+PATIENT: No, not really.
+DOCTOR: OK, and have you had any fevers or chills?
+PATIENT: I think I was feeling very chilly last night. My wife had to bring an extra blanket for me.
+DOCTOR: OK, have you had any night sweats?
+PATIENT: No, I don't think so.
+DOCTOR: OK, and uh, have you checked your temperature?
+PATIENT: No, I didn't.
+DOCTOR: OK, we'll certainly check that today. And have you had any weight loss in the last several months?
+PATIENT: I don't check my weight very often, but no, uh, yeah, my clothes still fit, they're all, they're fine.
+DOCTOR: OK, fair enough and, uh, have you noticed any, like, leg swelling or any swelling in your belly?
+PATIENT: No.
+DOCTOR: OK, and in regards to your past health, you mentioned COPD, but have you been diagnosed with any other medical conditions?
+PATIENT: Yeah I have high blood pressure, and my cholesterol is also a little bit on the high side.
+DOCTOR: I see, OK and you use puffers. Do you use any other medications?
+PATIENT: Yeah, I think my doc prescribed some pills, I don't know, I don't remember what they are, I just take them every day.
+DOCTOR: OK, we can get that information. Have you had any hospitalizations?
+PATIENT: Uhm, I've been to the ER a couple of times and this one time, it was similar to this time, when I was having difficulties breathing and had to stay for about five days or so. I think that was two years ago.
+DOCTOR: OK, and how are your symptoms feeling now when compared to, uh, that time?
+PATIENT: I wasn't producing this green yellow thing that's coming out of my mouth right now. It was not that bad. It's just last time I was having difficulties breathing, so I decided to come in. But this time I just have this weird thing, I don't even feel like looking at it.
+DOCTOR: OK, yeah, for sure it sounds like there's something certainly going on here and Yeah, have you had any past surgeries?
+PATIENT: I had, uh, I had a knee replacement.
+DOCTOR: OK, and, uh, can you tell me a little bit about your living situation, like who do you live with and whereabouts?
+PATIENT: Yeah, I live with my wife about ten minutes away from here. We live in an apartment, uh, yeah.
+DOCTOR: OK, are you working, are you retired?
+PATIENT: I retired two years ago. I used to work at Chrysler, as a mechanic.
+DOCTOR: OK, and have you been around anybody who might be sick?
+PATIENT: No.
+DOCTOR: Alright, how about, have you traveled anywhere?
+PATIENT: No, I've just been staying indoors. My wife's been staying with me. We're both pretty careful, we're worried about catching covid so we don't even go out for groceries, we just have those delivery guys come and bring us our groceries.
+DOCTOR: OK, and you smoke cigarettes, you mentioned, how much do you smoke per day?
+PATIENT: I smoke about a pack a day.
+DOCTOR: OK, and how long have you smoked for?
+PATIENT: Let's see, about forty-five years.
+DOCTOR: OK, have you thought about quitting?
+PATIENT: Yeah, yeah, multiple doctors have told me to quit and it's just, I don't think I can quit. It's not gonna happen. I can't live without my cigarettes.
+DOCTOR: OK, the door is always open and certainly something we can talk about at anytime, uh, if you'd like to, but, uh, in the meantime, we'll leave it alone for now. I was wondering if you drink alcohol?
+PATIENT: I drink a glass or two every weekend.
+DOCTOR: OK, and do use any other recreational drugs like marijuana, cocaine?
+PATIENT: No.
+DOCTOR: OK, and, any family history of heart or lung conditions?
+PATIENT: Uhm, high blood pressure.
+DOCTOR: OK, has anybody in the family had lung cancer?
+PATIENT: No.
+DOCTOR: Alright, and, so you've been experiencing worsening sputum production that now has a green color to it, and now having a bit more, more short of breath, which sounds like COPD exacerbation, especially since it's a similar type of presentation as before. And so we'll order a chest X-ray, some blood gases and do a sputum culture and possibly start antibiotics, but, depending on the severity we may not not need to just yet. And then we'll also use some inhalers as well as inhaled steroid to help with the inflammation in the airways.
+PATIENT: Sure.
+DOCTOR: Alright, we'll get that started.
+PATIENT: Thank you.

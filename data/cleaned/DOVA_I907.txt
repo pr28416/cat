@@ -1,0 +1,285 @@
+PATIENT: Hi.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] who?
+DOCTOR: DOCTOR.  What [REDACTED]
+PATIENT: Routine visit.
+DOCTOR: How's everything going?
+PATIENT: Good.
+DOCTOR: Good.
+PATIENT: Uh-huh.
+DOCTOR: Your vital signs look great.  Your blood pressure is good.
+PATIENT: Yeah I just did the labs when I just got here [REDACTED].
+DOCTOR: Okay um sorry the computer is saying that I still haven’t call you back.  Are you having any problems really?  Nope.  Take all your medicines as you should?
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Oh I'm running out of this too by the way.  I brought it with me [REDACTED].
+DOCTOR: Oh good.  You're very organized.
+PATIENT: Got to be clean.
+DOCTOR: Uh any recent weight loss or anything like that?  Chest pain, shortness of breath, abdominal pain?
+PATIENT: No.
+DOCTOR: No.  Do you get a flu shot?
+PATIENT: H1N1?
+DOCTOR: Yeah did you get one?
+PATIENT: I got the regular flu shot.  I think I might go over and get the H1N1.
+DOCTOR: Okay.
+PATIENT: Oh they says people my age.
+DOCTOR: Yeah.  It's plus/minus uh there haven't been that many side effects so if you like feel comfortable taking it, it's kind of nice cause they offer it here.  Um and people, you're age don’t seem to be getting it that much.
+PATIENT: Right, right.
+DOCTOR: They think you’ve probably been exposed to it before but when they do get, they can just get sicker.
+PATIENT: Oh [REDACTED] yeah.
+DOCTOR: Yeah I mean and there are some people I know that [REDACTED].  Alright everything looks pretty good.  Let me see if your labs are in.  Cold outside huh?
+PATIENT: Yeah I thought it was gonna warm up but um.
+DOCTOR: Me too.
+PATIENT: That's the weatherman for you.
+DOCTOR: Yeah.  [REDACTED].  Okay.  No they're not back yet.
+PATIENT: No but I just went in at 7:30 this morning and you know I talked to DOCTOR.  I generally get a chest x-ray every year.  I don't remember the conversation she and I had about the chest x-rays.  I [REDACTED] deem it necessary.
+DOCTOR: Uh.
+PATIENT: But one of the reasons I get a chest x-ray every year, other than the fact that I smoke, [REDACTED] anyway but I'm a retired chemist.
+DOCTOR: Uh-huh.
+PATIENT: And I worked around some pretty uh carcinogenic and toxic chemicals, plus I was exposed to Agent Orange.
+DOCTOR: Are you having any symptoms?  Any coughs or shortness of breath?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: You know I really don't have any.  Is it on that side or this side?
+DOCTOR: Oh a lump?
+PATIENT: No not that.  There's a discoloration in the skin.
+DOCTOR: I don’t see anything.
+PATIENT: In Vietnam they had that Agent Orange laying on the ground and this whole part of my face broke out and I noticed it.
+DOCTOR: No.
+PATIENT: Maybe that's a visual effect.
+DOCTOR: [REDACTED]
+PATIENT: Or whatever I don't know.  It's not giving me any problem.
+DOCTOR: Okay.
+PATIENT: I just happen to notice it.
+DOCTOR: It's been there since you were young then?  Since you were in Vietnam?
+PATIENT: Yeah.
+DOCTOR: It's been that long okay.
+PATIENT: It [REDACTED] young.
+DOCTOR: Younger I should say.
+PATIENT: [REDACTED].
+DOCTOR: Younger then and the same age I am now.  Alright can you hop up here for me, I'll take a look.
+PATIENT: Uh-huh.
+DOCTOR: Take a deep breath and again okay.
+(Knock on the door)
+PATIENT: Hello DOCTOR how you doing?
+DOCTOR: I'm doing good.
+DOCTOR: Yeah.
+DOCTOR: Okay.
+DOCTOR: [REDACTED].
+SEOCOND DOCTOR I907
+You got your lab work?
+PATIENT: Yeah I did it earlier this morning.
+DOCTOR: Oh okay uh-huh.
+PATIENT: You know can I ask you something?
+DOCTOR: Yeah.
+PATIENT: The last time, not this, when we talked the other day.
+DOCTOR: Yeah.
+PATIENT: But uh you know I didn't get the chest x-ray, what was the determination?  Do you think it's necessary this year or?
+DOCTOR: Um is this because you [REDACTED] smoking or what is the reason?
+PATIENT: No not just smoking I told you, you know I'm a retired chemist and I used to work around uh real carcinogenic materials.
+DOCTOR: Uh-huh.
+PATIENT: And uh I was exposed to Agent Orange also.  I'm not having any problems you know.  If I had some I'd like to get it quick.
+DOCTOR: Uh-huh.
+PATIENT: But I did, I had that uh lung uh, what was that uh in nuclear medicine.
+DOCTOR: [REDACTED].
+PATIENT: No that's a lung thing in nuclear medicine.
+DOCTOR: Oh it's the CT scan.
+PATIENT: Yeah.
+DOCTOR: Where’d you have that? [REDACTED] pulmonary.
+PATIENT: Well [REDACTED] it.
+DOCTOR: Okay. [REDACTED] cancer.
+DOCTOR: It hasn’t been a year yet.
+PATIENT: Okay, that was the reason.
+DOCTOR: Yeah.  Maybe in May, that's [REDACTED] year.  So yeah. [REDACTED] smoking. Are you interested?
+PATIENT: Interested in what?
+DOCTOR: Quitting smoking.
+PATIENT: Uh I should but uh you know.  Like I say I know, you know I ain't no fool.  I know even if I don't inhale I'm still getting, you know.
+DOCTOR: Yeah.
+PATIENT: Well, it's just a nervous habit.
+DOCTOR: No I know [REDACTED].
+PATIENT: I don't think I’m addicted to the nicotine.
+DOCTOR: Yeah I know, it's definitely just a habit I think.
+PATIENT: Yeah.
+DOCTOR: You're absolutely right with that, just having something in your hands and.
+PATIENT: Yes.
+DOCTOR: Open your mouth for me a little bit.
+PATIENT: I [REDACTED].
+DOCTOR: Now can you lay back?  Pain in your belly, nothing like that?  Okay.
+PATIENT: No you know what do they call it when they go [REDACTED] this way?
+DOCTOR: Do you have pain in your belly?
+PATIENT: No I did.  That's why I got a test.
+DOCTOR: Okay.  What did they find when they did that?
+PATIENT: Diverticulitis.
+DOCTOR: Oh diverticulitis.
+PATIENT: Uh-huh.
+DOCTOR: Yeah diverticulitis, that can cause pain up in this area.
+PATIENT: That's why [REDACTED] pills.  They ignored it.
+DOCTOR: The pain?
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Even when I told them.  Even when I told them.
+DOCTOR: You can hop down.
+PATIENT: They ignored it and then I got uh diverticulitis.
+DOCTOR: But they found it later?
+PATIENT: Yeah but I damn near died.
+DOCTOR: Oh really, when was that?
+PATIENT: About five years ago.
+DOCTOR: The pain is gone since?
+PATIENT: Oh yeah.  Let me ask you a question, it ain't got nothing to do with me.
+DOCTOR: Sure.
+PATIENT: Generally, when you have cancer, carcinoma.
+DOCTOR: Uh-huh.
+PATIENT: How long does it take that to grow?
+DOCTOR: Depending on what cancer it is.
+PATIENT: Uh-huh.
+DOCTOR: Um do you have a specific cancer in mind that?
+PATIENT: Uh spinal.
+DOCTOR: Spine like bone cancer or what?  It kind of depends on the type of cancer.  Cause some cancers are really aggressive right so you can have them grow really fast.
+PATIENT: Yeah like lung cancer spreads to the.
+DOCTOR: Right.
+PATIENT: Nodule.  No I was just asking cause of my sister.
+DOCTOR: It does seem like colon cancer that can start out with something like a polyp.
+PATIENT: Right.
+DOCTOR: Real slow, like up to ten years. So it kind of really depends on the actual.
+PATIENT: Hmm.
+DOCTOR: Types of cancer.  [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Spinal symptoms?
+PATIENT: Well they say it spread all over uh, it's uh terminal.
+DOCTOR: Oh no, so was it just diagnosed?
+PATIENT: Well yeah they just found it lately.
+DOCTOR: What kind of cancer?
+PATIENT: Well they said she had a mass on her spine uh her liver, lungs, it's just you know metastasizing all over now.
+DOCTOR: Really.  How old is she?
+PATIENT: 77.
+DOCTOR: [REDACTED].
+PATIENT: I’ve been through this quite a few times with family members.  [REDACTED] years ago they used to give um, used to harp on the seven  warning signs of the different forms of cancer and they backed away from that or maybe I just.
+DOCTOR: Um.
+PATIENT: Like if it was a lung cancer, you know coughing problems, blood or whatever.
+DOCTOR: Yeah, that [REDACTED].
+PATIENT: Colon cancer you know there's blood in the stool.
+DOCTOR: Absolutely.
+PATIENT: Are they still harping on those seven warning signs?
+DOCTOR: Like do they tell everyone about them?  Is that what you mean?
+PATIENT: Well it used to be fucking media thing.
+DOCTOR: Yeah, I’m not seeing it in the media as much.
+PATIENT: Right that's what I'm saying.
+DOCTOR: You're absolutely right except it's not that we um, that's sort of definitely the warning signs.
+PATIENT: But generally when you got through uh physical metamorphosis that means that if you know, it's gotten to the point you know I don't know what stage you would call it.
+DOCTOR: Right when you have symptoms probably.
+PATIENT: Right.
+DOCTOR: But unfortunately they’ve found, so many different studies to see where it is beneficial to screen people prior to having symptoms.
+PATIENT: Uh-huh.
+DOCTOR: So certain stuff we do, for women, we do mammograms and we do pap smears [REDACTED].
+PATIENT: Yeah, for a man, it’s a PSA.
+DOCTOR: Right.  But you haven't had one in a while but sometimes when people get older they opt not to have it anymore.
+PATIENT: I had one last year, didn’t I?
+DOCTOR: Um yeah I think I didn’t see any of the lab tests.  Are you getting the rectal exams too?
+PATIENT: Yeah.
+DOCTOR: You have.
+PATIENT: Uh-huh.
+DOCTOR: Oh okay you have one.
+PATIENT: I don't know why.
+DOCTOR: You had one in September, you had a blood test that.
+PATIENT: Right.
+DOCTOR: If you're still getting the rectal exam [REDACTED].
+PATIENT: Is NAME still here?
+DOCTOR: No.  So he did it last time?
+PATIENT: Yes.
+DOCTOR: Okay let me go see if I can [REDACTED].
+PATIENT: Digital rectal examination.
+DOCTOR: Yeah and you saw him in like September didn't you.  We'll see [REDACTED].  Alright, okay [REDACTED].
+PATIENT: I got all these intentions.
+DOCTOR: Do you get everything by mail then, you're not out right?
+PATIENT: Yeah I get them by mail.  All intentions of making these calls and transfer out of one facility to another and I never checked.  This is the first time, I hate these things, and the battery is low.
+DOCTOR: Oh really.
+PATIENT: [REDACTED].
+DOCTOR: Yeah you’re out of some of your medications like your folic acid and stuff, I'm just gonna renew those.
+PATIENT: Okay.
+DOCTOR: Do you still take medications for anxiety [REDACTED].
+PATIENT: Oh yeah, oh yeah.
+DOCTOR: Who gives you that?
+PATIENT: DOCTOR.
+DOCTOR: Okay, are you going to see him soon?
+PATIENT: For her uh yeah, you know I, I refilled that now I can go a month.
+DOCTOR: And you’re still taking atenolol for blood pressure right?
+PATIENT: Oh yeah.
+DOCTOR: Right [REDACTED] okay.
+PATIENT: Yeah.  Cause you know I missed, a while back I saw DOCTOR.  I didn't take that [REDACTED] I was short and my heart rate.
+DOCTOR: Went up?
+PATIENT: Started you know.
+DOCTOR: Okay.  So you take that amlodipine also right?
+PATIENT: Right.
+DOCTOR: Do you still take the potassium?
+PATIENT: Yeah, three, two tablets a day.  That's another thing I don't understand about medicine.  [REDACTED].  But they found that my sodium was low.
+DOCTOR: Uh-huh.
+PATIENT: And they put me on potassium chloride; no not they put me on potassium.
+DOCTOR: It was probably your potassium was low probably.
+PATIENT: Potassium I see.
+DOCTOR: Yeah so do you take that regularly?
+PATIENT: Yeah.
+DOCTOR: Your potassium is still a little low.
+PATIENT: It is.
+DOCTOR: Uh-huh and [REDACTED].
+PATIENT: And I take my medicines every day.  I guess I'm gonna be on them, might as well get used to it.
+DOCTOR: Okay.
+PATIENT: Cause I hate bananas.  What other food got potassium in it?
+DOCTOR: Um green leafy vegetables.
+PATIENT: Uh.
+DOCTOR: [REDACTED] that has lots of potassium in it.  Yeah let me talk to DOCTOR and I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  24:00  DOCTOR IN:  29:43)
+DOCTOR: Okay here are the foods that have lots of potassium in them.
+PATIENT: Oh [REDACTED].
+DOCTOR: [REDACTED] start eating more of that.
+DOCTOR: How are you?  [REDACTED] tells me all the good things you’re doing.
+PATIENT: Like what?
+DOCTOR: But you know working on your blood pressure and your [REDACTED].
+PATIENT: Oh, oh, oh, yeah.
+DOCTOR: Yeah okay and then um so um I think you're going in the right direction but we just want to get you doing better okay.
+PATIENT: Right, right.
+DOCTOR: Okay, right, alright [REDACTED].
+PATIENT: Okay thank you.
+DOCTOR: Should I have him come back for the blood testing or?
+DOCTOR: You have a blood pressure monitor at home right?
+PATIENT: Yeah.
+DOCTOR: [REDACTED] at home.  Okay.
+DOCTOR: Um, so, we’re just going to, you had a little bit of protein in your urine, uh.  It's not bad because your kidney function is normal but [REDACTED] on the lisinopril, it’s usually supposed to be protective of the kidneys.
+PATIENT: Uh-huh.
+DOCTOR: From some of the blood pressure medicines you're on.
+PATIENT: Oh I got it.
+DOCTOR: So you're on half a tablet right now.
+PATIENT: Right.
+DOCTOR: We're going to increase it.
+PATIENT: [REDACTED].
+DOCTOR: Yeah and then you can go up to one tablet.
+PATIENT: Okay.
+DOCTOR: Um just check your blood pressure at home though and if you have any problems, if your blood pressure drops or anything, just go back down to half a tablet okay.
+PATIENT: Okay.
+DOCTOR: Sound good?
+PATIENT: Okay.
+DOCTOR: Um and then sometimes that can help increase your the potassium too so that's what we're hoping.  Uh and then otherwise, there’s this one [REDACTED]  MOVE class um to help with weight loss and [REDACTED] hypertension and diabetes [REDACTED] and they can help you lose weight.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  And everything looks good.  Did you have the pneumonia shot this summer?
+PATIENT: Yeah.  I'm good, I just got one last year.
+DOCTOR: Last year beautiful.
+PATIENT: Uh-huh.  When I got the regular flu shot they gave me the pneumonia shot too.
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: We’ll see you back in like three months?
+PATIENT: Sounds good.
+DOCTOR: Okay.
+PATIENT: That would be what month is, this is still January I guess.  What is February, March, April.
+DOCTOR: Yeah we could do it.
+PATIENT: April 8th.
+DOCTOR: Uh-huh.
+PATIENT: Okay. doc.
+DOCTOR: Alright.
+PATIENT: Thank you.
+DOCTOR: Have a good one.
+PATIENT: Uh-huh.
+PATIENT: 32:09
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255171
+TRANSACTION # 578-10-2-316-0103

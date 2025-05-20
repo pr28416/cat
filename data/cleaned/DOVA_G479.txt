@@ -1,0 +1,116 @@
+DOCTOR: PATIENT?
+PATIENT: Here.  Hi, how you doing.
+DOCTOR: How you doing?  Go ahead and have a seat.  Long day?  How have you been?
+PATIENT: Alright I guess.
+DOCTOR: Any problems?
+PATIENT: Well I had the thing yesterday so I'm waiting to see what's going on.
+DOCTOR: What thing was that?
+PATIENT: The defibrillation.  What is this appointment for?
+DOCTOR: I think we were just going to follow up.  You haven't seen me since, you were here you saw DOCTOR in May.  Let me see.  You were having some trouble with your breathing.
+PATIENT: Uh-huh.
+DOCTOR: How's that going?
+PATIENT: Same old, same worsen.
+DOCTOR: What's happening, what's going on?
+PATIENT: Now I was taking four or five medicines for the uh the irregular heartbeat.  They put me on four or five different medicines, one of them is metoprolol.  I think that's the one that makes your mouth dry and you [REDACTED] breathe but then there was a small cough and so he wanted me to talk to somebody in Pulmonary.  But we changing that until you get to finish with that.  The breathing was [REDACTED] and then when I cough, rales but I couldn't cough it up because whatever it is [REDACTED].
+DOCTOR: Are you not coughing or you're not able to bring it up is that what you're saying?
+PATIENT: I'm not able to bring it up.  You know some rattling.
+DOCTOR: And what did we give you for that?
+PATIENT: Nothing.
+DOCTOR: Nothing at all.  We didn't give you any, we gave you some antibiotics.
+PATIENT: The antibiotic wasn't for.
+DOCTOR: What was that for?
+PATIENT: That was for – I was coughing up blood.
+DOCTOR: Has that stopped?
+PATIENT: Yeah it stopped.  What happened to the last doctor I seen?
+DOCTOR: Which one?
+PATIENT: The female doctor who described the antibiotics.
+DOCTOR: Yeah she's next door.  She's the supervising doctor.
+PATIENT: Okay.
+DOCTOR: Uh we work together.  She's my supervising doctor.
+PATIENT: Uh-huh.
+DOCTOR: Um so the cough has gotten better or is it just the blood has gotten better?
+PATIENT: No the cough up.  The blood in the sputum is cleared up.
+DOCTOR: Okay.
+PATIENT: Cause she.
+DOCTOR: So now it's just the rattling in there.
+PATIENT: The rattle is here and I can't bring it up when I need to.
+DOCTOR: Are you taking the cough syrup?  Is that breaking it up at all?
+PATIENT: Not really.
+DOCTOR: Okay.  Are you getting short of breath?
+PATIENT: Hmm.
+DOCTOR: Is it better or worse than it was three weeks ago?
+PATIENT: Bout the same.
+DOCTOR: And did you ever get a chest x-ray?
+PATIENT: Yeah I got the chest x-ray the same day she prescribed the antibiotics.
+DOCTOR: Good.  Uh okay.  It shows there wasn't much change but they wanted to treat you cause you're having all these really bad symptoms so how did the thing go yesterday?
+PATIENT: Okay I guess.  They get it back in rhythm.
+DOCTOR: Good.
+PATIENT: So we have to wait and find out what the next step, cause that's the second time that this happened.
+DOCTOR: Right, right.  Um are you still smoking?  You quit a while back right?
+PATIENT: Yeah.
+DOCTOR: Okay. Alright, any other problems, concerns?
+PATIENT: No I'm guessing that I’ll find out should see the cardiologist.  I was wondering if [REDACTED].
+DOCTOR: Yeah.
+PATIENT: It's keeping me tired and it's like I'm sleepy but [REDACTED] so I got to probably wait and see what's gonna happen with that.
+DOCTOR: And you think it's the metoprolol?
+PATIENT: I think, I wasn't [REDACTED] until he put me on the metoprolol.
+DOCTOR: How long ago was that?  [REDACTED].
+PATIENT: January.
+DOCTOR: Okay.  So since then you've had a lot of, you've been sleepy.
+PATIENT: And the shortness of breath.  Especially one of them, [REDACTED].
+DOCTOR: Okay, okay.
+PATIENT: I'm trying to find, I have been trying to get something for my ankles cause my feet are swelling up real big.
+DOCTOR: Do you take a water pill?
+PATIENT: I was taking the water pill and then they finally start going down but I was just taking some.
+DOCTOR: Does it hurt?  Is it painful?
+PATIENT: No I was taking some borrowed water pills which you're not supposed to do.  Cause I wasn't getting nothing for my.
+DOCTOR: You need to get you your own, you don't have to borrow them.
+PATIENT: Well I have been telling these people for the last month about how big my ankle swelling, my feet were swelling up and then [REDACTED].  Now I had 12 pills but none of them was a derivative so.
+DOCTOR: Well hopefully now that your heart's in a good rhythm, that'll help too.  We can get you a little bit of a water pill.  Have a seat here.  When are you supposed to see the cardiologist back?
+PATIENT: Let me see.
+DOCTOR: Yeah it's not on there.
+PATIENT: Okay, so.
+DOCTOR: We'll get you an appointment in a couple of weeks.  Let me see what their last note said.  Can you lean forward so I can listen to you?  Deep breath in and out.  Okay.  Just breathe normal.  Are you using your inhalers?
+PATIENT: Yeah.
+DOCTOR: And what about the Coumadin, was there a question about the Coumadin?
+PATIENT: Yeah I talked to the person in the Pharmacy and they said now you have to keep taking it until you see the cardiologist.
+DOCTOR: Right.
+PATIENT: But I have no appointment to see the cardiologist until [REDACTED]
+DOCTOR: Yeah we'll see what.
+PATIENT: And I supposed to I guess, uh she yesterday [REDACTED] I don't know [REDACTED] notify them or not.
+DOCTOR: Okay.  Do you want these mailed to you or do you want to pick them up?
+PATIENT: What?
+DOCTOR: The water pill.
+PATIENT: You can mail them to me.
+DOCTOR: Alright.  Okay.  Let me talk to DOCTOR and we'll if we can probably get you, uh you can probably start decreasing that metoprolol, that's causing some of the problems.  How much are you taking, do you know?  Do you remember?
+PATIENT: About half a pill three times a day.
+DOCTOR: Okay.  We may be able to just take you completely off that to see how you do and we'll get you in to see the cardiologist to see her within the month okay.
+PATIENT: Uh-huh.
+DOCTOR: I'll be right back.
+(DOCTOR OUT:  64:24  DOCTOR IN:  70:19)
+DOCTOR: Alright here, so we'll get you an appointment in to see your cardiologist and [REDACTED] um there's that.
+PATIENT: Okay.
+DOCTOR: We can have you stop both the metoprolol and the Coumadin now that the shock went well and now the rhythm's normal.  If it gets abnormal again, if you're having any symptoms uh having the chest palpitations, having the severe shortness of breath you should come in to the Emergency Department okay.  Because that can always happen.
+PATIENT: Okay so since they got my heart back in rhythm.
+DOCTOR: Yeah.
+PATIENT: So that's the end of the pacemaker right?
+DOCTOR: Um you don't have a pacemaker.
+PATIENT: I know.
+DOCTOR: Okay.
+PATIENT: That was talking about putting one in.
+DOCTOR: We'll see.  If you stay in this rhythm yeah it's the end of the pacemaker, you don't need it.  Uh I think they're also concerned about, yeah I think that's the issue is that they can't, if you're heart's in normal rhythm you don't get a pacer.  If it's beating fast and they can't stop it then you need to have - not an operation but where they burn the place that's been getting a little fast and they put in a pacemaker so you don't need that.
+PATIENT: They burned it, I thought they just took a little old [REDACTED] insert [REDACTED].
+DOCTOR: They do that but what they have to do is that uh what's happening is there's a lot of electrical activity making the heart beat fast.
+PATIENT: Oh okay.
+DOCTOR: So they got to buzz that place where that's causing all the problems.  If they do that then the heart will slow down really slow and you need a pacemaker.
+PATIENT: Oh okay.  [REDACTED].  Okay.
+DOCTOR: So if it happens again I don't know we'll have to talk about that again.
+PATIENT: Alright.
+DOCTOR: But we'll get a repeat ultrasound of the heart.
+PATIENT: Okay.
+DOCTOR: Alright you take care.
+PATIENT: 73:08.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275410
+TRANSACTION # 578-10-2-316-0103

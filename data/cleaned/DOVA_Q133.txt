@@ -1,0 +1,421 @@
+DOCTOR: PATIENT.
+PATIENT: Right back here.
+DOCTOR: [REDACTED] right now.
+PATIENT: Now before we get starated, you're being recorded.
+DOCTOR: Say again.
+PATIENT: You're being recorded.
+DOCTOR: Oh alright.
+PATIENT: They said you agreed to it.
+DOCTOR: Yeah, yeah, that's actually they're doing research stuff.
+PATIENT: Okay.  I don't want to do anything illegal.
+DOCTOR: Oh no, no, that's fine.  Alright, yeah set your [REDACTED] wherever.  Yeah.
+PATIENT: It's in my jacket here, that's the device yeah.
+DOCTOR: Okay, alright.  So let's see.  It's been a little while since I've seen you here at the VA.  I'm looking to see and I think I see the last time was that must be way back the end of October, November, something like that.
+PATIENT: Been that long ago?
+DOCTOR: Well, it's been a little while.  Okay, so why don't we go through some things.  You have got a few things that I know we need to talk about right away and go through, make sure everything sounds right.  In terms of you're having your medications and make sure they're working and then we can go through other things as well.
+PATIENT: Okay.
+DOCTOR: Um.  Are there any medications you're out of right now?
+PATIENT: Uh yes there are, let's see.  I tried to get the VA refills, all the refills by the doctor for the prescription, crap, oh so I'm just about out of everything, especially the water pills.
+DOCTOR: Okay.
+PATIENT: One doctor will tell me to take two pills and then another doctor will tell me to take four pills and you give me a 90 day supply.
+DOCTOR: Got it.  What are you actually on right now?
+PATIENT: [REDACTED].
+DOCTOR: How much?
+PATIENT: 20 mg.
+DOCTOR: Just on the 20 mg once or twice a day?
+PATIENT: Uh well at this present time it's twice a day.  I don't know what they're going to do, get to renal and they’re going  to change it again.
+DOCTOR: Okay. Well, that helps me.
+PATIENT: Uh I'm out of losartan, that's one tablet per night.
+DOCTOR: Let me um, as you're saying it cause I'm gonna just make sure that we have this taken care of.
+PATIENT: Okay.
+DOCTOR: Actually you need.
+PATIENT: Basically I need everything.
+DOCTOR: Okay.  Let's make sure you're doing, actually, you're taking the 2 mg but you're actually taking this twice a day right?
+PATIENT: What's that?
+DOCTOR: The Bumex.
+PATIENT: Bumex yes.
+DOCTOR: Alright, let's make sure that uh.  Okay you're out; you want to get it at the Pharmacy today?
+PATIENT: Oh yes please.
+DOCTOR: Let's do that.
+PATIENT: [REDACTED].
+DOCTOR: Keep going you said that, the losartan.
+PATIENT: The losartan I'm out of totally.
+DOCTOR: Okay let's renew that one.
+PATIENT: I put in for that and they said this was, two weeks ago they said it would be delivered in five to seven days and I still haven't gotten it.
+DOCTOR: Just get it at the window for you.  Okay keep going.
+PATIENT: Um metoprolol the prescription had to be renewed by the doctor.
+DOCTOR: [REDACTED] give me a second; have to get a new list.  Okay keep going.
+PATIENT: Uh allopurinol, the doctor needs to renew the prescription on that.
+DOCTOR: Taking that every day still.
+PATIENT: Yeah.
+DOCTOR: Okay so we'll check that.  Okay keep going.
+PATIENT: Omeprazole I need to get refilled.
+DOCTOR: Omeprazole sure.
+PATIENT: I take 20 mg, the prescriptions gone.
+DOCTOR: Yeah we'll refill that as well, make sure that's taken care of.  Keep going.
+PATIENT: Uh calcitriol.
+DOCTOR: Now I would imagine that's prescribed by the kidney doctors.  Actually it looks like you've got plenty of refills on that one.
+PATIENT: Uh-huh.  Well okay, yeah they [REDACTED] seven days.
+DOCTOR: Okay.
+PATIENT: [REDACTED]  The fish oil they said needs to be renewed by the doctor.
+DOCTOR: I'm looking for it on your list, just a second.
+PATIENT: Tastes like crap.
+DOCTOR: Okay got that.
+PATIENT: [REDACTED] renewed by the doctor.
+DOCTOR: Done.
+PATIENT: Uh Docusate.
+DOCTOR: Yeah Docusate.
+PATIENT: Docusate.
+DOCTOR: Alright let’s make sure that's taken care of.  Having any problems with constipation at all?
+PATIENT: No.
+DOCTOR: Taking it okay, that's fine, renew it all.
+PATIENT: Uh-huh glucose strips.  Hydralazine.
+DOCTOR: You know I'm actually gonna start going through things and just refilling lots of other things as well.
+PATIENT: Oh okay.
+DOCTOR: You know I'm changing them as we go alright.  We'll get you more alcohol swabs.
+PATIENT: Yeah.
+DOCTOR: Let's see, that's good, hydralazine, make sure you're good to go with that.  Okay good.
+PATIENT: Multivitamin.  I think that's just about everything.
+DOCTOR: How you doing on your insulin?
+PATIENT: Uh the insulin I have a good supply of.
+DOCTOR: How much insulin are you actually taking now?  Uh Glargine the long-acting 70 units at night.
+PATIENT: I cut back on that.
+DOCTOR: Okay.
+PATIENT: We're down to 55 on that now.
+DOCTOR: Okay and then.
+PATIENT: Cause my sugar was dropping in the middle of the night so we cut back to 55.  On the Aspart.
+DOCTOR: Uh-huh.
+PATIENT: The human insulin cut back to 14 units.
+DOCTOR: With each meal.
+PATIENT: Uh morning, one in the morning and one at night.
+DOCTOR: Okay.  How have your blood sugar levels been looking?
+PATIENT: They been looking, I'm pretty good but like I said.
+DOCTOR: When you wake up in the morning what is it?
+PATIENT: Oh.
+DOCTOR: Oh you have a log.  Awesome. Let's see, yeah let’s take a peek at it.
+PATIENT: Okay [REDACTED], uh this is this week.
+DOCTOR: Okay. Let's see, I see, so this is the time and that's the level?
+PATIENT: Right.
+DOCTOR: Okay.  In the 150s and 170s and 115 okay.  And you check it, is this before you take your, is this before you take your evening?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah just before I eat and take the insulin.
+DOCTOR: Okay.  Any times where you've gone you know like below 70?
+PATIENT: Oh yes.
+DOCTOR: Yes, no, I see a 67 one night there.  What's that?
+PATIENT: No 41.
+DOCTOR: Before or after you started cutting back a little bit okay.  Alright.  I see some ones in here that but you started cutting back I see okay, yeah alright.  Did anyone tell you to cut back?
+PATIENT: Oh they told me before when they first put me on it that if it should start dropping.
+DOCTOR: Good.  I actually think that's appropriate.  Cause I don't want you, you know when you're 60, 70, that's a little too low.
+PATIENT: Uh-huh.
+DOCTOR: That's worrisome.  Were you shaking and feeling dizzy or?
+PATIENT: Uh well it starts in the leg area.
+DOCTOR: Okay.
+PATIENT: And they start tingling and then it goes up into the lips and then once it gets in there, then my eyes just seem to blur up the left eye and when that happens.
+DOCTOR: Yeah.
+PATIENT: I know what's happening, something's going wrong.
+DOCTOR: Over the past week how have things been?
+PATIENT: Uh, this past uh.
+DOCTOR: Any day.  It doesn't look like you've been low.
+PATIENT: Sunday I didn't mark it down but Sunday morning it dropped down to 42 at about 3 o'clock in the morning I woke up, used the washroom and I was feeling kind of funny so I decided to take it.  You know when I took it, it was 42.
+DOCTOR: Alright.
+PATIENT: It was 42 and uh I took some orange juice, drank some orange juice which was Sunny D and brought it back up.
+DOCTOR: Is that the only time it's happened like that or is it?
+PATIENT: Uh this week yeah.
+DOCTOR: Is it, if you find yourself with blood sugar levels that low, that's pretty concerning.
+PATIENT: Uh-huh.
+DOCTOR: Um we might need to even go down a little bit more.  Most of your other levels though seems like they're, like 150s, 170s and 110s, it might be just a one isolated event.
+PATIENT: Yeah well these uh perhaps when I had a light dinner.
+DOCTOR: Okay.
+PATIENT: And uh just what I did, I had just maybe just eaten a sandwich [REDACTED].
+DOCTOR: Alright well in those situations you might need to you know cut back a little.
+PATIENT: Yeah.
+DOCTOR: Cause what you're doing is essentially covering yourself with insulin.
+PATIENT: Right.
+DOCTOR: Absorb the sugar but if you suddenly don't have enough sugar, uh as much sugar as you normally have then you're giving yourself too much insulin.
+PATIENT: Uh-huh.
+DOCTOR: But if you think you're gonna you know not eat very much, cut back a little bit.
+PATIENT: Yeah.
+DOCTOR: Uh but otherwise I mean on the whole these look pretty good uh.  Yeah and you know do you know what your goals are for the morning?
+PATIENT: Uh off hand I don’t because they’ve been fluctuating so much.
+DOCTOR: Okay.
+PATIENT: It's fluctuating so much.
+DOCTOR: I mean ideally you know below 130, 120 in the morning.
+PATIENT: Oh okay.
+DOCTOR: But and so you can, every few days you can go up about 2 units to try to get your, with the long-acting.
+PATIENT: Uh-huh.
+DOCTOR: To get yourself below there, with the caveat that if you're getting those low levels, those 60s, you know below 70s, even in the 60s or lower, something like that, then you've got to be more liberal and you have to give yourself a much bigger range, let yourself go higher.  Cause the going too low, that's more worrisome than having higher, slightly higher okay.
+PATIENT: Yeah.  So I think uh I think that I'm actually gonna need a new, actually get myself a new meter, this one is not very accurate.  I don't know I tried calibrating it and everything but it still goes up and down so I don't get very good readings.
+DOCTOR: Oh well let's try to get you a new.  It's the glucometer reading.
+PATIENT: Right yeah.
+DOCTOR: Yeah I can certainly do that for you cause, we definitely need to have good readings.
+PATIENT: Uh-huh.  What should be an ideal blood pressure?
+DOCTOR: For you, under, below 130/80.
+PATIENT: So 130 over 80.
+DOCTOR: Uh-huh.
+PATIENT: Okay.  I’ve been under the impression it should be below 139 and 80.
+DOCTOR: Well not quite.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: I had [REDACTED].
+DOCTOR: Okay.
+PATIENT: Tell me my reading should be.
+DOCTOR: Well 130/80, that's what you want.
+PATIENT: 130 over 80.  [REDACTED].  And the heartrate should be?
+DOCTOR: Uh between 60 and 90.  Between 60 and 100.  You doing your long-acting in the morning or at night?
+PATIENT: Uh in the morning.
+DOCTOR: Good okay.
+PATIENT: Yeah.
+DOCTOR: Have you always done it in the morning?
+PATIENT: Right.
+DOCTOR: Alright yeah.
+PATIENT: Uh-huh.
+DOCTOR: That's probably best for you so that you don't bottom out at night.
+PATIENT: Right.
+DOCTOR: Alright, I definitely agree with that.
+PATIENT: Yeah DOCTOR started me on that one a long time ago.
+DOCTOR: That's sounds just right.
+PATIENT: That's taking more away from, if it's gonna spike, it's gonna spike during the daytime when I'm awake.
+DOCTOR: Exactly yeah.
+PATIENT: That 285 scared me last month, but I know what that was from.
+DOCTOR: Alright, I think I've got most of your medicines up-to-date now.
+PATIENT: Yeah.
+DOCTOR: So we're getting them in there.  Okay, okay, okay.  You're still taking nifedipine right?
+PATIENT: Yeah I needed that.
+DOCTOR: Okay just wanted to make sure.
+PATIENT: It's the one thing I do have is [REDACTED].
+DOCTOR: Do you have enough of those lancets?
+PATIENT: Uh yeah.
+DOCTOR: Alright.  Yeah actually let me put in an order right now to get the glucometer.
+PATIENT: And some rubber gloves, latex gloves.
+DOCTOR: Sure, sure.  Good, alright.  So let's go through some other things here.  So it looks like diabetes I think we've tackled that pretty well.
+PATIENT: Uh-huh.
+DOCTOR: Uh got the things you need.  The supplies are gonna be for you at the Pharmacy.
+PATIENT: Okay I'll, did you redo the prostate medicine tamsulosin?
+DOCTOR: Uh-huh, uh-huh.
+PATIENT: Tamsulosin.
+DOCTOR: Yep I went through the whole kind of list here.  I just, one by one make sure that we have refills uh-huh.
+PATIENT: Okay the ibuprofen [REDACTED]?
+DOCTOR: Yep, you're good to go on that too.
+PATIENT: Okay great.  Yeah.
+DOCTOR: So, let's see here.  What I see, so we talked about diabetes.  Your kidney disease uh, you have a fistula in place is that right?
+PATIENT: It's not working.
+DOCTOR: Not working now.
+PATIENT: Never been used, stopped working.
+DOCTOR: Okay.
+PATIENT: Uh I'm up for a kidney transplant.
+DOCTOR: Okay.
+PATIENT: Have to use [REDACTED].
+DOCTOR: Okay.
+PATIENT: I have a donor or a potential donor put it that way.
+DOCTOR: Okay.
+PATIENT: Uh scheduled for a meeting on the 5th with the kidney transplant doctor over at U of I.
+DOCTOR: DOCTOR?
+PATIENT: Uh DOCTOR and who else did she say?   She gave me a list yesterday.
+DOCTOR: Okay good.
+PATIENT: It's the actual transplant surgeon.
+DOCTOR: Sure.
+PATIENT: Would be the actual, I got to talk to him alone with the donor.
+DOCTOR: Okay.
+PATIENT: Because we’re different blood types.
+DOCTOR: Alright.
+PATIENT: And oh what else basically.
+DOCTOR: Wait and see.
+PATIENT: Wait and see whether or not we're compatible.
+DOCTOR: Okay.
+PATIENT: And I've got four others that are waiting in the wings.  One thing I'm not clear of with this transplant.
+DOCTOR: Uh-huh.
+PATIENT: Once you've had a transplant.
+DOCTOR: Uh-huh.
+PATIENT: The diabetes is the cause of the kidney going bad in the first place.
+DOCTOR: Sure.
+PATIENT: What's gonna prevent this from.
+DOCTOR: Happening again.
+PATIENT: Doing the same with the transplant.
+DOCTOR: Controlling your diabetes.
+PATIENT: Controlling it.
+DOCTOR: Uh-huh.  That's why we'll have you keep your diabetes under control uh-huh.
+PATIENT: Things like diet and losing weight and all of that.
+DOCTOR: Exactly.
+PATIENT: Okay.
+DOCTOR: You answered your own question.
+PATIENT: I mean I wasn't sure about that.  You know they say you get a new kidney and a new person.
+DOCTOR: Uh-huh.
+PATIENT: That doesn't seem to be with the, that's the first thing, that's the thing that caused it in the first place.
+DOCTOR: Right.
+PATIENT: Now I understand, now I know.
+DOCTOR: Good.  Your blood pressures, you been checking that at home?
+PATIENT: Yeah.
+DOCTOR: What have they been looking like?
+PATIENT: Let's see, 115/78.
+DOCTOR: That's good, that's right at goal for you and even the ones we have for you right now great, you're doing very well.
+PATIENT: They, it got up a little high this morning; well actually it was 142 over at home.
+DOCTOR: Okay.
+PATIENT: 50.
+DOCTOR: Had you taken your meds yet?
+PATIENT: Uh no.
+DOCTOR: You’d be surprised what your medicines can do for you and here now it looks great.
+PATIENT: Yeah it was 169/80 this morning.
+DOCTOR: Okay.
+PATIENT: With a 69 heart rate.
+DOCTOR: Okay, better once you take the medicines okay.
+PATIENT: Yeah.
+DOCTOR: Alright.  And it looks like your, I'm pleased with that.
+PATIENT: [REDACTED].
+DOCTOR: With regards to your cholesterol.
+PATIENT: [REDACTED].
+DOCTOR: I want to take a look at your most recent levels.  Let's see what we've got.  Most recently in October [REDACTED]@, which was okay about six months ago and you are, you're cholesterol levels are looking good, they're at goal okay. Uh let's see, now you've had some heart problems before.
+PATIENT: That's what they tell me huh.
+DOCTOR: Yeah.  Any problems with chest pain at all?
+PATIENT: I get a tightness in the chest every so often uh.
+DOCTOR: When?
+PATIENT: Uh after walking a distance or.
+DOCTOR: How far?
+PATIENT: Hmm well it's gotten to the point now where I can walk maybe a block at certain times and then I'll just get tired or I can be coming out of the basement up the stairs, if I go down and put some clothes in the washer or something and if I'm coming up the stairs I'll get out of breath and have to kind of cool myself.
+DOCTOR: Okay so you're feeling like you're not getting enough air right?
+PATIENT: Right uh-huh.
+DOCTOR: Is it that you feel a pain here or just not enough air?
+PATIENT: Just no it seems like a tightness.  It's not enough air.
+DOCTOR: Okay.
+PATIENT: Cause I'm gasping for breath.
+DOCTOR: Okay.
+PATIENT: And uh.
+DOCTOR: Sit down and you feel better?
+PATIENT: Sit down and feel better after a while, uh the nose cavities dry out and um.
+DOCTOR: Ever when you're sitting down, like you are right now that you have pain here?
+PATIENT: Uh, nothing more than acid reflux.
+DOCTOR: So is it like pressure or?
+PATIENT: It's, I just describe it like shortness of breath.
+DOCTOR: Okay.
+PATIENT: And uh yeah you could say its pressure yeah.
+DOCTOR: Okay, alright.
+PATIENT: Yeah.
+DOCTOR: Any swelling in your legs?
+PATIENT: Uh not at the present time but they do swell yeah.
+DOCTOR: Okay.  Now you're taking this twice a day?
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED], you have a little bit down here.  Let me see your legs for a minute.  Okay, alright.  Any problems lying flat and getting enough air?
+PATIENT: No.
+DOCTOR: Okay.  Waking up in the middle of the night?
+PATIENT: Uh only to go to the washroom, I have to wake up to pee.
+DOCTOR: Okay, alright.  Does your heart go bump, bump, bump, beating through your chest?
+PATIENT: [REDACTED].
+DOCTOR: You know the terminology.
+PATIENT: No.
+DOCTOR: Okay.  Okay.  Do you feel like it's, the distance you've been able to walk has gotten any worse recently?
+PATIENT: Yeah.
+DOCTOR: Over what period of time?
+PATIENT: Uh past a couple of months say from Christmas time to now it's gotten on a scale of 1-10, I'd say it's gotten about 3% worse.
+DOCTOR: Okay.  How far could you walk at Christmas?
+PATIENT: Oh I could do three, four blocks before I'd start getting tired.  And I see I've lost about four pounds here recently, so I'm on the right track.
+DOCTOR: Okay.  Okay. A couple of things. The kidney doctor saw you in February.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Did they do anything different?
+PATIENT: No they left it status quo.
+DOCTOR: Okay.  In their note they say you're taking the Bumex daily.
+PATIENT: Uh-huh.
+DOCTOR: You're taking it twice a day though?
+PATIENT: Twice a day.  Like I say...
+DOCTOR: Maybe they just didn't know.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: You know they put me on it once a day then the legs have a tendency to start.
+DOCTOR: Swelling.
+PATIENT: Getting like swelling around the ankles.
+DOCTOR: Okay.
+PATIENT: So they told me the last time to go to twice a day.
+DOCTOR: And you had a stress test in January.
+PATIENT: A nuclear stress test.
+DOCTOR: Yeah, okay yeah let me look through that.
+PATIENT: I don't know what the results of it were.
+DOCTOR: Let me take a look at it here.  I'm trying to find your stress test here.
+PATIENT: Hmm.  [REDACTED].
+DOCTOR: I don't see it either.
+PATIENT: I do know I had it.
+DOCTOR: Oh no, I believe you.
+PATIENT: Echocardiogram.
+DOCTOR: I see it's been done but I can't see it here.
+PATIENT: Ultrasounds.
+DOCTOR: I see that it's been done but I don't see the report.
+PATIENT: Okay.
+DOCTOR: Uh January @@, [REDACTED]@.
+PATIENT: [REDACTED].
+DOCTOR: Alright.
+PATIENT: Is DOCTOR a surgeon?
+DOCTOR: Uh he is a transplant kidney physician.  He doesn't actually do the surgery.
+PATIENT: Hmm.  But he's in the room.
+DOCTOR: Uh he actually probably won't even be in the room.
+PATIENT: Hmm.
+DOCTOR: He will take care of you before and after but not as much during the actual surgery.  That's for the surgeons to take care of that, that’s [REDACTED].  Okay, okay put that order in right now.  Okay.  Do you normally follow with the heart doctors?
+PATIENT: Sorry?
+DOCTOR: With the heart doctors.
+PATIENT: Do I have what?
+DOCTOR: Do you check with the cardiologists, the heart doctors?
+PATIENT: Well I didn't understand the question at all.
+DOCTOR: Have you seen them in the clinic lately?
+PATIENT: Um. I’ve had the echocardiogram, the ultrasound.
+DOCTOR: You just haven't seen them after that's what I was asking.
+PATIENT: Uh no I don't think so.
+DOCTOR: Okay.  I think they might need to have you see them.
+PATIENT: I don't recall ever seeing them.
+DOCTOR: I'm gonna have you hop up on the chair, I want to do a few more things.
+PATIENT: Okay.
+DOCTOR: Are following with the eye doctors as well?
+PATIENT: Yeah.
+DOCTOR: Okay.  Things going okay from that standpoint?
+PATIENT: Oh they're doing okay.
+DOCTOR: Uh-huh.
+PATIENT: The glaucoma is good.
+DOCTOR: Okay.
+PATIENT: And cataracts.
+DOCTOR: What do they intend on doing?
+PATIENT: They got me on two different types of eye drops.
+DOCTOR: Right.
+PATIENT: And a follow-up visit in a month.
+DOCTOR: Just take some deep breaths, in and out, good.  Deep breath, keep going.  Sounds very clear, good.  Okay breathe normally.  Do you feel any nausea, vomiting?
+PATIENT: No.
+DOCTOR: Not feeling dizzy.
+PATIENT: Only when I wake up.
+DOCTOR: Go away?
+PATIENT: Yeah.
+DOCTOR: Any bloody stool or anything like that?
+PATIENT: No, no.
+DOCTOR: Go ahead and lay back here.  Follow with the foot doctors as well?
+PATIENT: Yeah.  I had an appointment with them in June.
+DOCTOR: Alright.  Give me a couple of seconds, I need to step out for a moment, take care of some things for you.
+PATIENT: Alright.
+DOCTOR: Alright, back in a second.
+PATIENT: Thank you.
+(DOCTOR OUT:  69:43  DOCTOR IN:  77:00)
+DOCTOR: Good to see you.  Did they get all the information in the past, ultrasound, colonoscopy; they asked me to fax it over.
+PATIENT: I don't know if they got yours, I got copies from upstairs.
+DOCTOR: You got a copy okay, alright.  And I did fax it to them yeah.
+PATIENT: They said thank you very much for the whole thing.
+DOCTOR: Are you being followed with cardiologists here or at U.I.C.?
+PATIENT: Uh probably here.
+DOCTOR: Okay but I want you to at least have a follow-up appointment with Cardiology.
+PATIENT: Hmm.
+DOCTOR: We found that the actual report was hidden, of your stress test. It was normal, which is a good thing.
+PATIENT: Great.
+DOCTOR: So more than likely you know you're heart's having you know like problems getting enough you know like oxygen, so that’s good, probably your exercise tolerance is a little bit down but it uh you're not having like a heart attack.
+PATIENT: That's good okay.
+DOCTOR: Uh so that's good.  We'll make it; we'll make an appointment with cardiology, all your stuff will be waiting for you at the Pharmacy.
+PATIENT: Okay.
+DOCTOR: And then we'll go from there.
+PATIENT: Okay.
+DOCTOR: I'll see you back in about three months.
+PATIENT: Sounds good to me.
+DOCTOR: Alright.
+PATIENT: Okie dokie.
+DOCTOR: Alright sir.
+PATIENT: Really good, tattle tale [REDACTED].
+DOCTOR: Alright.  Alright.  We'll have you take this and you can make the follow-up appointment.
+PATIENT: Okay.  Yeah thank you very much.
+DOCTOR: Alright you're welcome, take care.
+PATIENT: You have a blessed day.
+DOCTOR: Alright.
+PATIENT: 78:33
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286127
+TRANSACTION # 578-10-2-316-0103

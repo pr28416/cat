@@ -1,0 +1,91 @@
+DOCTOR: Can you just tell me what brings you in here today?
+PATIENT: Yeah, my chest is really hurting.
+DOCTOR: OK, and where where does it hurt exactly?
+PATIENT: It's hard to say the exact location, but more on the left side of my chest.
+DOCTOR: OK, and is it like what kind of pain is it? Is it like a dull aching pain, or is it as sharp or stabbing pain?
+PATIENT: The pain is. It's stabbing, but also it feels really really tight in my chest.
+DOCTOR: OK, and if you're to rate it on a scale of zero to 10, zero being the least amount of pain you felt in your life and 10 being the worst, how much would you rate it?
+PATIENT: I think at 6.
+DOCTOR: Six, OK. And when did it start?
+PATIENT: It started this morning just right after I got out of bed.
+DOCTOR: OK, so you weren't doing anything like you weren't doing any activities, you just woke up from sleep?
+PATIENT: Yeah I got outta bed. I was just trying to get dressed and all of a sudden I got this tightness and and stabbing pain on the left side of my chest.
+DOCTOR: OK, approximately how many hours ago was that?
+PATIENT: I I would say about. Six hours ago.
+DOCTOR: OK, and has it been as a pain getting worse at all?
+PATIENT: Uh, it's it's getting worse.
+DOCTOR: It's getting worse, OK. And have you had any similar sort of pain in the past before?
+PATIENT: Um nothing like this before.
+DOCTOR: No, OK. And is the pain going anywhere else or is it just staying in your chest?
+PATIENT: The pain is just in my chest.
+DOCTOR: OK. And does anything that you do make it feel better?
+PATIENT: Sitting up tends to make it feel a bit better.
+DOCTOR: OK, and does anything you do make it get, make the pain get worse?
+PATIENT: It gets worse every time I breathe in.
+DOCTOR: OK, and what kind of pain do you get when you breathe in?
+PATIENT: It's a sharp stabbing pain.
+DOCTOR: OK and apart from the pain, are you having any other symptoms like a cough or shortness of breath and anything like that?
+PATIENT: Yeah, with the pain, I'm having a hard time breathing.
+DOCTOR: OK. OK, I just have a few other questions. Uh, have you recently had any kind of trauma or injury to your chest at all?
+PATIENT: Um no.
+DOCTOR: OK, have you traveled at all recently?
+PATIENT: I was in in Italy for the past three weeks actually, just got back last night.
+DOCTOR: OK. And have you been experiencing any kind of nausea or vomiting, or fever or chills?
+PATIENT: No. No nausea or vomiting. I did take my temperature, no. Sorry I did not take my temperature, but I've been having chills the last few days.
+DOCTOR: OK, uh, and uh, yeah, just curious have you been having any kind of swelling at all in your feet or ankles?
+PATIENT: Ah, my legs felt a bit swollen on the way back on the airplane, but they tend to swell so I didn't think anything of it.
+DOCTOR: OK so they have swollen up before but you saw them swollen this time as well?
+PATIENT: Yeah.
+DOCTOR: OK. And have you been feeling at all fatigued at all?
+PATIENT: I've been really tired with all of the traveling, so I think maybe I'm just jet lagged.
+DOCTOR: OK, have you noticed that all your heart racing, like any palpitations?
+PATIENT: Yeah, since this morning it's felt like my heart is is racing.
+DOCTOR: OK, have you noticed any skin changes at all? Any rashes?
+PATIENT: No rashes.
+DOCTOR: OK, have you noticed any cough, coughing at all?
+PATIENT: I've had a cough since last week, but it feels much worse today.
+DOCTOR: OK, and has there been any kind of green slimy mucus in your cough at all?
+PATIENT: No, it's been a dry cough.
+DOCTOR: Dry cough, OK. and have you noticed at all coughing up blood?
+PATIENT: No blood.
+DOCTOR: OK. And have you recently had any infections in the last month?
+PATIENT: Yeah, a couple of weeks ago I had a runny nose and sore throat and a little bit of a headache but. I feel better from that now.
+DOCTOR: OK, and to just go away by itself, or did you have to take any medications?
+PATIENT: It just went away on its own
+DOCTOR: OK. Have you been feeling any kind of dizziness at all?
+PATIENT: I have a little bit of yeah, um dizziness when I when the pain gets really bad.
+DOCTOR: OK, and I know you mentioned some swelling in your legs and your ankles, but have has any of your legs been hurting at all?
+PATIENT: My left leg hurts really bad right now, but my entire body has been achy these past few days.
+DOCTOR: OK, and then you're right, like do you know where it hurts?
+PATIENT: Um. I think just like in the calf.
+DOCTOR: In the calf, OK. OK, and do you have any past medical history any like hypertension that like diabetes? So any conditions that you've been diagnosed with?
+PATIENT: No, I I'm healthy.
+DOCTOR: OK, any allergies to medications?
+PATIENT: No allergies.
+DOCTOR: OK, do you take any birth control or multi vitamins?
+PATIENT: Yeah, I take a daily birth control pill and also a daily multi vitamin.
+DOCTOR: OK, and how long have you been on the birth control pill?
+PATIENT: Um, for two years.
+DOCTOR: OK, any hospitalizations recently?
+PATIENT: Um none that I can think of.
+DOCTOR: Any ill Contacts?
+PATIENT: No.
+DOCTOR: Any surgeries in the past?
+PATIENT: No surgeries.
+DOCTOR: OK, in your family, has anyone had any conditions like has anyone passed away from a heart attack any cancers, anything like that?
+PATIENT: No cancer, but my mother died of a heart attack when she was 43. And my grandma also had a heart attack when she when she was younger. I wanna say in her 50s but I don't exactly remember how old.
+DOCTOR: And currently right now, where do you live? Do you live in like a house, apartment?
+PATIENT: Yeah, I live in an apartment by myself.
+DOCTOR: OK, and do you currently work?
+PATIENT: Yeah, I'm in charge of um a retail store as a manager there.
+DOCTOR: OK and do drink?
+PATIENT: Sometimes on weekends or if I'm socializing with friends, but not very often.
+DOCTOR: OK, and do you use any recreational drugs like marijuana?
+PATIENT: Never.
+DOCTOR: OK, and do you smoke?
+PATIENT: Yes, I smoke about 2 packs of cigarettes per day. And I've been smoking since I was 12.
+DOCTOR: OK. Alright and in terms of your daily routine like do you get any exercise?
+PATIENT: Uh, not really. Life's a bit too busy and hectic right now right now, unfortunately.
+DOCTOR: OK. And how about your diet like what is your regular diet look like?
+PATIENT: A lot of fast food. I know I could work on that, but again, with the busy lifestyle we tend to eat a lot of fried foods and fatty foods. I know I could do better.
+DOCTOR: OK. Great thank you.

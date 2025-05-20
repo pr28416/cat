@@ -1,0 +1,187 @@
+DOCTOR: PATIENT?
+PATIENT: Hi doctor.
+DOCTOR: [REDACTED].
+PATIENT: How you doing today?
+DOCTOR: Good.
+PATIENT: Good.
+DOCTOR: All the way back.
+PATIENT: Alright.
+DOCTOR: How's everything going?
+PATIENT: Good so far.
+DOCTOR: How's the refereeing going?
+PATIENT: Excellent, excellent.
+DOCTOR: Excellent.
+PATIENT: We're doing 502 games last year.
+DOCTOR: 502?
+PATIENT: 65 so far this year.
+DOCTOR: Gee.
+PATIENT: And you may be able to see that my blood pressure is down.
+DOCTOR: Yes.
+PATIENT: I don't want those cholesterol pills we were talking about.
+DOCTOR: You don't want them?
+PATIENT: No thanks.
+DOCTOR: I thought I started you on them.
+PATIENT: Well you told me you put me on something else too.  I thought if I didn't get my cholesterol down yeah.
+DOCTOR: Yeah.  Did you start taking that other medicine though?
+PATIENT: Yeah I started taking it but I didn't continue.
+DOCTOR: Oh so I did two things last time.  I increased your blood pressure medicine.
+PATIENT: Yes.
+DOCTOR: So you've been taking that increased dose?
+PATIENT: Yes, yes.
+DOCTOR: And then you didn't take the cholesterol medicine?
+PATIENT: No.  They started just making me feel kind of bad at first so.
+DOCTOR: In what way?
+PATIENT: Just kind of out of sorts.
+DOCTOR: Okay.  I wish I'd come last week.  I was even lighter.  I was down to 183 last week.
+PATIENT: You were, oh yeah you lost since the last time I saw you.
+DOCTOR: Yes sir.  Well losing weight, you probably don't need that medicine then.
+PATIENT: I'm just living a little better.
+DOCTOR: Good.
+PATIENT: My buddy NAME comes over.  I stopped him from coming over with that halftime juice.
+DOCTOR: Not fun without alcohol?
+PATIENT: No fun no, no.  Having one game and one of the kids asked me hey ref uh whose ball is that so at the time I said whose ball and I thought I don't know, so I had to go ask my partner whose ball is it?  And I said uh uh that's it.  You know when you really kind of a nondrinker you shouldn't mess with stuff like jam.
+DOCTOR: Yeah it's better not to drink.
+PATIENT: Dinner wine is okay?
+DOCTOR: Huh, yeah, yeah.
+PATIENT: Okay.
+DOCTOR: How's the knee going?
+PATIENT: Oh about the same.
+DOCTOR: How often are you using the pain med?
+PATIENT: Uh oh probably once a week.
+DOCTOR: Okay.
+PATIENT: And then my prescription ran out.  I was so surprised I went on to my Healthy Vet to order the naproxen and it was not there anymore.
+DOCTOR: Alright.  I'll see if we can renew it.
+PATIENT: Now I understand.
+DOCTOR: How many, so you're taking it once a week.  How many pills do you usually take, is it like once a week?
+PATIENT: Uh at least two and sometime I take two every four or six hours and if I keep that up for a day or so, maybe a day and a half I don't have any problem for a few weeks.
+DOCTOR: So. The naproxen, you’re only supposed to take that twice a day.  And don't take so much, okay.
+PATIENT: Okay.
+DOCTOR: I mean don't take any more because it could hurt your kidneys.
+PATIENT: Sure.
+DOCTOR: Your stomach, your kidneys, all that stuff.  If you need more, just take the Tylenol or something with it then okay.
+PATIENT: Okay.
+DOCTOR: But the naproxen take it twice a day or if you want to take it.
+PATIENT: Well I don't take it every day.
+DOCTOR: I know, I know, but when you do, just take it twice.
+PATIENT: Okay.
+DOCTOR: And it lasts a long time.
+PATIENT: It does.
+DOCTOR: That's why it’s twice a day.  If you wanted something more often you can just take regular Advil or ibuprofen or something.
+PATIENT: That's what I've been doing, since I been out of this for.
+DOCTOR: Has that been working?
+PATIENT: A couple of months.
+DOCTOR: Ibuprofen.
+PATIENT: Yeah.
+DOCTOR: Okay, so let's keep doing that then okay.
+PATIENT: Well actually I haven't been taking, what's the brand name for naproxen?
+DOCTOR: Aleve.
+PATIENT: Aleve.
+DOCTOR: Oh I see, so you can take that twice a day.  You want me to give you some Tylenol or something, try that.  Prevent any [REDACTED] issues.  You need refills on any other meds?
+PATIENT: Yes.  Uh my blood pressure medicines I probably got at least another month, close to a month on those.  Uh happy pills, I've been out for a long time of those.
+DOCTOR: You need more?
+PATIENT: Yeah.
+DOCTOR: Take off your jacket for me.  Can you stiffen the arm for one second?  Deep breath.  No chest pain, shortness of breath, no other problems, urinary, bowel problems?
+PATIENT: Well you know I [REDACTED].
+DOCTOR: Alright.
+PATIENT: And at one point I was seeing some blood then I found out that I had scratched myself with some tissue and it wasn't coming from [REDACTED] it was on the outside.
+DOCTOR: Were straining a lot?
+PATIENT: I was yeah, yeah.  I've been straining a lot, yeah.  Yeah that's kind of a constant [REDACTED].
+DOCTOR: Do you have a lot of fiber in your diet?
+PATIENT: Probably all kinds [REDACTED].  I don't know that I eat a lot of rice. I love rice.
+DOCTOR: Brown rice has more fiber than white rice.
+PATIENT: I do have some brown rice.
+DOCTOR: So eat brown rice, that's better.
+PATIENT: Okay.
+DOCTOR: Eat wheat bread instead of white better.
+PATIENT: Okay I'll start eating wheat bread.
+DOCTOR: It's the kind of eating foods like vegetables, fruit, they all have fiber.
+PATIENT: I eat a lot of fruit uh, a lot of vegetables and I have been eating a lot of tomatoes and cucumbers, almost daily and maybe last two weeks.  I kind of thought that was.  Well this is what's happened about [REDACTED] and when it's time for me to go to the bathroom sometime it's so intense that I almost don't make it to the toilet.
+DOCTOR: How often do you go to the bathroom?  Do you know?
+PATIENT: Four times a day at least and that's the normal and has been all my life.
+DOCTOR: Having [REDACTED] urinating or stool?
+PATIENT: Bowel movements.
+DOCTOR: Four bowel movements a day?  I mean is it diarrhea or is it hard?
+PATIENT: It's mixed.  It's not diarrhea.
+DOCTOR: Well let me try you on a stool softener then to make sure you're not constipated.
+PATIENT: You know I really don't feel constipated.  It's just I guess when I do go like, it's just I have to try to make sure that everything gets out.
+DOCTOR: Don't do that okay.  Relax, don't strain. Straining will cause hemorrhoids and [REDACTED] and then you get hemorrhoids and bowels movements are painful will cause fissures and then it really can go down [REDACTED] okay.  So try to get a lot more fiber in your diet and then don't strain.
+PATIENT: I [REDACTED].
+DOCTOR: Well you know anything that has high fiber.  You can even just take some fiber supplements if you want.  [REDACTED] it's better to do that okay.
+PATIENT: Uh that's.
+DOCTOR: Yeah no that's fine.
+PATIENT: The main thing I wanted to talk to you about there's so many times well actually a couple months ago I would take off my underwear and it's like you know I got kind of stains like I been leaking and I know I don't have a gallbladder anymore. I had it removed in 2000. I don't know if that's from too much fat intake but I was told that's why.  I eat really low caffeine, no fat diet [REDACTED].
+DOCTOR: And you think you're making it to the bathroom whenever you go?
+PATIENT: Generally I do but there have been some times, twice, three times that I didn't get there.
+DOCTOR: Has this been going on for a long time?
+PATIENT: I thought I could sit down.  Yes so I try not to eat when we're going out to make sure if there's a bathroom I can use cause usually right after I eat uh I have to go sometimes within 15 minutes.
+DOCTOR: If this has been going on [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED] too.
+PATIENT: Well this has been going on probably since, twenty years or so, so that’s why I thought it was regular for me.
+DOCTOR: Well let's do this, try to eat a lot more fiber.  Take, find some supplements and take them a couple times a day and if it's still happening next time we'll refer you to GI and they can do some testing and check your sphincter and that kind of thing, if you're not as tight [REDACTED].
+PATIENT: Yeah.
+DOCTOR: You don't control it as well.
+PATIENT: Yeah that's what I was thinking.
+DOCTOR: Any weakness or anything.  Problems urinating or anything like this?  So just try the fiber for now and I'll put in a stool softener here to try making it [REDACTED].  Okay.
+PATIENT: Alright.  I was just concerned about the leaking. You know, why is it [REDACTED].  For the last week or so I haven't had the problem.
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: Now with the gallbladder, it was explained to me that my gallbladder surgeon as sort of called it a “grease trap.” [REDACTED] Is that correct?
+DOCTOR: [REDACTED] grease trap [REDACTED] helps digest it better.
+PATIENT: So, without one if I eat anything greasy, I don’t eat fried foods anymore [REDACTED].
+DOCTOR: That's fine.  Maybe it will come out of your stool sometimes but that shouldn't affect whether you know have any [REDACTED].
+PATIENT: It's embarrassing.  You around guys and you have to change clothes for wrestling in the locker room and I quick pull out, I stopped wearing white underwear [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: But it's kind of embarrassing often times.
+DOCTOR: Well try this and if it doesn’t work, we'll send you to the GI doctors okay [REDACTED]. I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  34:02  DOCTOR IN:  35:15)
+DOCTOR: Alright sir. So actually this will probably uh we'll see you in six months.
+PATIENT: Yeah.
+DOCTOR: Or sooner if you're having [REDACTED].
+PATIENT: I thought I'd come in three.  You know I always have to come back in three months because one of my prescriptions runs out every 90 days.
+DOCTOR: Now do you.  There's refills though.  We always give you three refills.
+PATIENT: Okay.
+DOCTOR: You know [REDACTED].  If you want [REDACTED].
+PATIENT: Well what I was wondering, I don't get refills on the happy pills.
+DOCTOR: Uh.
+PATIENT: Okay.  I mean I do and they generally send them automatically.
+DOCTOR: Yeah you have three refills.
+PATIENT: Okay.
+DOCTOR: So you get two pills with three refills.
+PATIENT: Okay.  So after 90 days, after three months then that one's gone by the wayside.
+DOCTOR: So technically, this is.  But technically you're only allowed two pills a month.
+PATIENT: Oh I understand that.  But I'm saying that.
+DOCTOR: Actually two pills, uh so you need the happy pills, that's the reason you come back every three months.
+PATIENT: Right, yeah it's in three months.  You know if there was another way but they say you always have to see a doctor before you.
+DOCTOR: Then [REDACTED].
+PATIENT: Okay.
+DOCTOR: And [REDACTED].
+PATIENT: Alright.
+DOCTOR: So then um you come back in six months, this is the last time you'll see me cause I'm leaving in June alright.
+PATIENT: Oh man.  Where you going?
+DOCTOR: I don't know yet.  I might like to stay and just do like hospital medicine here.
+PATIENT: Okay.
+DOCTOR: Or somewhere else.
+PATIENT: Maybe you'll still be in the VA System?
+DOCTOR: Maybe I don't know yet.  I just know I'm interviewing and stuff like that.
+PATIENT: Trying to make some money now.  Okay.
+DOCTOR: You know I know it's [REDACTED].
+PATIENT: Okay, alright well congratulations.  It's been great.
+DOCTOR: Yeah good luck.  Hope I did you good so.
+PATIENT: You did, you did.  I liked having you as my doctor.  You know, always did feel comfortable talking.
+DOCTOR: Yeah.
+PATIENT: You know some guy things you don't want to talk about with anyone.
+DOCTOR: Oh that's why I'm a doctor right.
+PATIENT: Yeah that's right.
+DOCTOR: [REDACTED].
+PATIENT: Yeah okay.
+DOCTOR: [REDACTED].
+PATIENT: Alright doctor, yeah it's been great.  I hope I do get to see you, take care now.
+DOCTOR: Okay take care thank you.
+PATIENT: This way out.  Good.
+DOCTOR: Take care.
+PATIENT: Alright.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255182
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,235 @@
+DOCTOR: PATIENT?
+PATIENT: Hey how you doing?
+DOCTOR: Oh that's fine.  Hi I'm DOCTOR, pleased to meet you.  Come on back.  Alright just take a seat wherever.  How you feeling today?
+PATIENT: Pretty good.  Refills that's my only problem.
+DOCTOR: Let's see, I just have to put in some blood work for the last patient, okay just give me one second here.
+PATIENT: Okay.
+DOCTOR: Okay.  So it looks like I don't think we've seen you here for quite a while.
+PATIENT: Well I don't know about that.  I came in here three weeks ago and that's when they told me that they wanted to start me on insulin.
+DOCTOR: Was this the Urgent Care?
+PATIENT: Oh yeah it was in Urgent Care.
+DOCTOR: Yeah.  So let me see what they said actually um.
+PATIENT: And I been waiting to find out about the insulin probably for my diabetes it was 200 and something.
+DOCTOR: [REDACTED]?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And the blood pressure dropped.
+DOCTOR: You have a history of so you had a gastric bypass.
+PATIENT: Yeah, everything going good when I lost 100 pounds till I gained 50 back recently.
+DOCTOR: I think I'm supposed to give you the, I think this is why this is stapled here.
+PATIENT: Hmm.
+DOCTOR: [REDACTED].  You gained 50 pounds back?
+PATIENT: Yep.
+DOCTOR: Okay.
+PATIENT: And as I gained it back I could feel that the diabetes was coming back cause I could see when I pee, I pee all night.
+DOCTOR: Okay.  Okay.  And your blood pressure's high as well.
+PATIENT: Yeah.  I can see them little dots in my eyes when I sit down real quick.
+DOCTOR: Okay.  Now medication-wise you're not taking anything.
+PATIENT: I don't have anything yet no.
+DOCTOR: Okay.  So you were taking insulin before?
+PATIENT: No.
+DOCTOR: What were you taking?
+PATIENT: I was taking uh metformin and glyburide.
+DOCTOR: Yeah I don't think we'll have to go straight to insulin or anything like that.  Um so how have you been feeling?
+PATIENT: I've been feeling kind of sluggish mostly.  Cause I don’t sleep regular.  I have to take a sleeping pill to sleep so.  I had stopped taking them period cause I don't work no more so I stay up all night.
+DOCTOR: Why were you seen in Urgent Care?
+PATIENT: Just cause I hadn't seen anybody for a long time so they told me to go to Urgent Care.
+DOCTOR: Oh okay.
+PATIENT: So I could get in cause they just told me I had to wait and go to the clinic was so long I got [REDACTED].
+DOCTOR: Okay.  And why do you think you've put back on all this weight?
+PATIENT: Cause I don't work no more.
+DOCTOR: Oh okay.
+PATIENT: I went to Rehab.  See I used to work here and they told me to go to Rehab and when you come back you could get back on board but I went to Rehab and when I came back they didn't put me back on board and I been sitting at home for like a year now.
+DOCTOR: Uh-huh.
+PATIENT: I ain't have nothing to do.
+DOCTOR: And your sugars at home are usually around 200?
+PATIENT: Well when I came here and they did it, it was like I don't have no meter at my house.
+DOCTOR: Oh.
+PATIENT: So that was one of the reasons I came here so I could you know start getting back into the Diabetic Clinic or something cause I know when she did my blood work it was over 250.
+DOCTOR: Okay let me put in an order to go to Prosthetics or actually Pharmacy can give you a sugar monitor, I can I'll order that.
+PATIENT: And if you can, put me in for a PSA because I just found out my brother had surgery a month ago cause he had cancer of the prostate.
+DOCTOR: Okay.
+PATIENT: And I don't think I've one of them in like four or five years.
+DOCTOR: So it looks like the last clinic they did some blood work when you were here.
+PATIENT: Yeah.
+DOCTOR: Your LDL was good.  Your cholesterol looks good, except your triglycerides were high.
+PATIENT: Uh-huh.
+DOCTOR: Had you just eaten?
+PATIENT: Uh uh, I fasted.
+DOCTOR: This was fasting okay.  So, your kidneys look fine but yeah your sugars, definitely diabetic again.
+PATIENT: Uh-huh.
+DOCTOR: Your sugar was very high.  So what kind of diet have you been eating?
+PATIENT: I don't even eat pork hardly any more cause I, switched to turkey, I got married she won't allow it and so I eat turkey, [REDACTED] it's pretty good.  Lots of beans and rice.
+DOCTOR: Oh lots of rice though?
+PATIENT: Uh-huh.
+DOCTOR: Rice has a lot of sugar.
+PATIENT: Oh it do.
+DOCTOR: Yeah, so that's kind of a no no.
+PATIENT: What about spaghetti?
+DOCTOR: It has all sugar.
+PATIENT: Oh well that's the problem.
+DOCTOR: All pastas and those are all carbohydrates.
+PATIENT: I thought it was good for you.
+DOCTOR: No, no, it's terrible for you actually.
+PATIENT: Yeah cause I eat spaghetti like twice a week and rice once or twice a week.
+DOCTOR: Well we'll get you hooked up with the MOVE Program again um.
+PATIENT: Cause once I had the surgery and lost weight, my sugar went down to like 85-90 all the time so I had to stop taking the medicine completely cause then my blood sugar went too low.
+DOCTOR: Okay.
+PATIENT: I passed out at work one day but then I stopped taking all medications and I was fine for a couple years.
+DOCTOR: Have you been drinking a lot of fluids?
+PATIENT: Oh yeah, lots, a lot of water.
+DOCTOR: So you were trying uh metformin?
+PATIENT: I was taking that and glyburide cause for like a year or a year and a half I was on glyburide but it wasn't working and I was taking like four or five pills a day and they ended up giving me metformin to go with it and told me to take two of them a day with the glyburide.  It brought it down some but not enough.  It was still like 120 or 130 every day.
+DOCTOR: And what were you taking for your blood pressure?
+PATIENT: I can't remember the name of that stuff.
+DOCTOR: Let's see if it's here.
+PATIENT: I hated it because it give me a soft but then they started giving me Viagra but I was like, this is too many pills.
+DOCTOR: [REDACTED].  Okay maybe we could just start like a hydrochlorothiazide, that doesn't do anything sexually.
+PATIENT: Yeah cause I got married, I can't be soft, I’ll be thrown out the house.
+DOCTOR: Okay um and any other pain or problems besides the diabetes and.
+PATIENT: Just my knees cause I'm pretty sure I got to have my knees replaced.
+DOCTOR: Have you talked with the surgeons?
+PATIENT: I got an appointment Monday upstairs.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: With who, oh with them here?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Ortho.
+DOCTOR: Okay and so you had some anemia after.
+PATIENT: Yeah.
+DOCTOR: So I think its fine now.
+PATIENT: They had me taking iron pills and all that stuff yeah; I'm supposed to take a vitamin every day.
+DOCTOR: And are you still taking, you're not taking the omeprazole anymore?
+PATIENT: No.
+DOCTOR: Okay.  But you had a bleed?
+PATIENT: Yeah uh-huh.  That's when I was drinking a lot of liquor every day.
+DOCTOR: Okay.
+PATIENT: And uh I think it healed up right now.
+DOCTOR: Okay.  Any alcohol use?
+PATIENT: Uh-huh.
+DOCTOR: How much?
+PATIENT: I drink about three times a week.
+DOCTOR: Um cause I know you have a history of problems with alcohol right?
+PATIENT: Uh-huh.
+DOCTOR: And how much are you drinking?
+PATIENT: I drink about a 4-pack of beer.
+DOCTOR: A 4-pack?
+PATIENT: Yeah when I drink.
+DOCTOR: A 4-pack of a regular sized beer?
+PATIENT: Yes.
+DOCTOR: Okay.  Some people say I drink a beer but it's like a 40 ounce.
+PATIENT: No, no, no it's a regular but I get the strong beer, the malt liquor.
+DOCTOR: Okay.  Do you feel you need help trying to stop drinking; do you think that's too much?
+PATIENT: I did it.  I mean I went to Rehab six months.
+DOCTOR: So you feel.
+PATIENT: But I'm gonna tell you I didn't make no promises about alcohol but I did stop smoking crack.  I smoked crack for 25 years.
+DOCTOR: And you stopped?
+PATIENT: And I stopped.  I ain't had crack since I came back home from Great Lakes.
+DOCTOR: Well good for you.
+PATIENT: I got 18 months clean now.  I tell my wife all the time I would love to try to stop but I'm gonna drink my beer.  I made it this far, I’m not gonna hit that pipe no more I don't care.
+DOCTOR: So maybe PSA, otherwise [REDACTED] fine.
+PATIENT: Can you see the A1c that I took in there?
+DOCTOR: Yeah it's extremely high.
+PATIENT: Is it past 10?
+DOCTOR: Yeah.  It's double what it's supposed to be.
+PATIENT: Double a 10?
+DOCTOR: Well it's 11.
+PATIENT: Oh okay.
+DOCTOR: Because it should be less than 6.
+PATIENT: Right.  I had got it down to 7.3.
+DOCTOR: Yeah.
+PATIENT: When I was doing really well, cause it was like 10 1/2 and I got it down to 7.
+DOCTOR: Well let me have you sit up here and um do an exam.
+PATIENT: Yeah.
+DOCTOR: Deep breath.  Let me see your scar, any problems?
+PATIENT: Well it's kind of sore right here.  Cause there's one time when I was gaining weight back I thought they had opened a vein up.
+DOCTOR: Oh, pardon.  I think it feels fine, I'm not feeling a hernia or anything like that.
+PATIENT: Yeah.  I'm talking about down here.  At one time it was hurting for like a week.
+DOCTOR: Uh-huh.
+PATIENT: And I thought I'd stretched the stomach thing and it was supposed to be permanently little.
+DOCTOR: Oh okay.  Um okay so I think as far as I think our main problems today are the diabetes and the blood pressure.  So we're gonna restart some medications which I'm gonna discuss with DOCTOR.  As far as just health screening type of stuff, I know you had a colonoscopy a few years ago.
+PATIENT: Yes.
+DOCTOR: So you're not due for that for eight more years.  You're fine.
+PATIENT: Yeah.
+DOCTOR: Um we could check a PSA today um otherwise you just had all your other blood work.
+PATIENT: Right.
+DOCTOR: I might, your one cholesterol number which we usually start medications for it looks okay but your triglycerides are really high.
+PATIENT: Okay.  How.
+DOCTOR: We don't like that, 473.
+PATIENT: Okay.
+DOCTOR: It's supposed to be below 150.
+PATIENT: I know, I know.
+DOCTOR: So I might um.
+PATIENT: But at one time it was 1100.
+DOCTOR: Oh.  Do you have a family history of that?
+PATIENT: Yeah I think so.  The other one is on cholesterol medicine.
+DOCTOR: Or do you want to go on fenofibrate?
+PATIENT: I don’t know what that was?
+DOCTOR: I think I'm probably going to start you on that.  It's a medicine that mostly just works on the triglycerides.
+PATIENT: Okay.
+DOCTOR: But otherwise.
+PATIENT: I know I got it from 1100 to 100 some, I was shocked.  It took about four months but.
+DOCTOR: Well I'm gonna go talk with DOCTOR about all this and otherwise we'll, I'll get you to see somebody about that MOVE Program, the Diabetes Program.
+PATIENT: Okay.
+DOCTOR: So we can kind of get you back on track okay.
+PATIENT: Okay.
+DOCTOR: Anything else?
+PATIENT: One thing.
+DOCTOR: Yeah.
+PATIENT: They said I supposed to go through you about getting my travel pay so you check me out.
+DOCTOR: Oh I'll set you up.
+PATIENT: Okay.
+DOCTOR: Anything else?
+PATIENT: But other than that, when you say get a meter do they do that fasting meter like you use when you got to stick your finger?
+DOCTOR: Yes.
+PATIENT: They ain't got the disks yet?
+DOCTOR: No.  Alright.
+PATIENT: Damn, that’s why I wanted to get rid of the diabetes.
+DOCTOR: Yeah.
+(DOCTOR OUT:  61:06  DOCTOR IN:  64:44)
+DOCTOR: Alright.  So, he's good with all those medicines.
+PATIENT: Uh-huh.
+DOCTOR: This is the information about that MOVE Program.
+PATIENT: Okay.
+DOCTOR: These are [REDACTED].  So we're going to start metformin.
+PATIENT: Uh-huh.
+DOCTOR: And glyburide and hydrochlorothiazide.
+PATIENT: That's for blood pressure.
+DOCTOR: That's for blood pressure and fenofibrate for your triglycerides.
+PATIENT: Oh okay.
+DOCTOR: We'll check your PSA and then I'm gonna have you follow up with the Pharm-D, the pharmacist.
+PATIENT: Uh-huh.
+DOCTOR: In a month to look at your sugars.
+PATIENT: Okay.
+DOCTOR: Start keeping a log again.  You know the early morning and then do one in the afternoon.
+PATIENT: Uh-huh.
+DOCTOR: And bring that with you.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: I'll give you this, stop at the front they'll make the appointment.  It's just for Pharm-D in one month.
+PATIENT: So do I need uh, do I need to go to the Pharmacy or.
+DOCTOR: Um they can mail them to you.
+PATIENT: Yeah.
+DOCTOR: But if you want to start them today then they probably won't get to you for a while.
+PATIENT: So I know they can mail them cause I know how long it takes for them.
+DOCTOR: Okay that's fine.  Um I'll put in for the blood work, the PSA test and let me see the phone number where we can reach you is, make sure of the number, NUMBER.
+PATIENT: Yeah.
+DOCTOR: Okay cool.  Alright well then we'll sent you those.  We'll get you back in the MOVE Program.  We'll see you in six months and hopefully we'll get all this kind of taken care of okay.
+PATIENT: Okay, that sound good.
+DOCTOR: Sound good?
+PATIENT: Sounds good.
+DOCTOR: Good luck with the knee doctors.
+PATIENT: Yeah.
+DOCTOR: Alright nice meeting you.
+PATIENT: Now I'm gonna tell you, you the finest doctor I've had.
+DOCTOR: Okay.
+PATIENT: Don't forget to check me out.
+DOCTOR: Alright I'll do that [REDACTED] okay.
+PATIENT: Okay you have a good one.
+PATIENT: 66:49
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1286153
+TRANSACTION # 578-10-2-316-0103

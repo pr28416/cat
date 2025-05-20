@@ -1,0 +1,307 @@
+DOCTOR: PATIENT?  Hi how are you?
+PATIENT: I'm good.
+DOCTOR: Doing okay.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Have a seat.
+PATIENT: I could [REDACTED].  Good to see you.
+DOCTOR: Good to see you.
+PATIENT: When was the last time?
+DOCTOR: Maybe yeah.
+PATIENT: Yeah you the man.
+DOCTOR: Yeah you're just not sick enough to see me enough, you're too healthy.
+PATIENT: [REDACTED] It’s been awhile.
+DOCTOR: [REDACTED]
+PATIENT: That's what he put me on.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Alright, I'll see if it's available.  Alright so uh are both knees still bothering you?
+PATIENT: Yes.  I came to the Emergency Room the First of March, do you see that?
+DOCTOR: Yes I do.
+PATIENT: And uh I was having chills and pain in my left arm and the right arm, achy all over.  And the doctor who saw me, he gave me a EKG, he did [REDACTED] blood.
+DOCTOR: Okay.
+PATIENT: And he said that uh probably was the cholesterol medication I was taking.
+DOCTOR: Uh-huh.
+PATIENT: He told me to stop taking it.
+DOCTOR: Has that stuff gone away sometime?
+PATIENT: It did slow down a lot. Every now and then I get it, I mean I get it just not as much as I was getting it before so I thought I was having a heart attack man.
+DOCTOR: Mainly in the shoulder this time?
+PATIENT: My shoulder, right shoulder and in the left arm and the right arm, achy all over.  Even in my head with that stuff.
+DOCTOR: Okay.  Simvastatin?
+PATIENT: Yes 80 mg.
+DOCTOR: Are the symptoms completely gone now?
+PATIENT: Well it comes and goes.  Every now and then it'll come and I get the pain in my shoulders and my arms, you know not as much as it was before.  Doctor said it would take a while before it was out of my system.
+DOCTOR: That's true.  Um when do you get that pain in your shoulder?
+PATIENT: Especially at night when I'm laying down.
+DOCTOR: Do you ever get it when you're walking around?
+PATIENT: Sometimes.  Very rarely, not too regular.
+DOCTOR: Okay.
+PATIENT: But when I lay down and relax that's when the pain in the shoulders, arms, I get the pain.
+DOCTOR: Um, do you ever get short of breath with that?
+PATIENT: Sometimes I get a little bit short of breath just when I walk.
+DOCTOR: Do you get the shortness of breath at the same time as the shoulder pain or is that separate?
+PATIENT: It's separate.
+DOCTOR: Okay.  Uh what about nausea or vomiting?
+PATIENT: No sir.
+DOCTOR: Well it doesn't sound like it’s your heart.
+PATIENT: I have an appointment with Cardiology Clinic next month.
+DOCTOR: You do.
+PATIENT: [REDACTED].
+DOCTOR: Alright.
+PATIENT: That gave me the name.
+DOCTOR: Good.  Uh when was the last time you saw them?  Cardiology folks, October?
+PATIENT: They took an EKG downstairs.
+DOCTOR: Alright good.
+PATIENT: It wasn’t nothing.
+DOCTOR: You had a and in the past you've had some testing done on your heart.
+PATIENT: I had stents.
+DOCTOR: Yeah but even since that time um, it looks like you've had a stress test.
+PATIENT: A long time before I had the stents.
+DOCTOR: It was?
+PATIENT: Before I get stents again.
+DOCTOR: Okay.  When were the stents put in?
+PATIENT: Oh a couple years ago.
+DOCTOR: Which year do you remember?
+PATIENT: 09.
+DOCTOR: 09 okay.  Are you able to walk?
+PATIENT: Pardon?
+DOCTOR: Can you walk now without getting short of breath?
+PATIENT: Uh if I walk alone, just walk to fast I'll be short of breath.
+DOCTOR: Okay.  How long is a long distance?
+PATIENT: I'd say about one block.
+DOCTOR: One block?
+PATIENT: Yes.  I take more steps when I walk fast, try to keep up with my wife you know and then I get tired.
+DOCTOR: I don't blame you at all okay.  Trying to find when that stress test was that you did.  November.  Alright so, it's good. That makes me feel better.
+PATIENT: What's that?
+DOCTOR: So the stress test that you had was good.
+PATIENT: It was good but um, but there was this young guy up there.  He suggested that I go downstairs and take that cardiac angiogram.
+DOCTOR: Angiogram?
+PATIENT: Angiogram right.  He suggested I do that.  And when I was on the table and he was doing it, then the doctor came in and he told me I two blockages and said he's going to put two stents while I was in there already.
+DOCTOR: That was done here?
+PATIENT: Yes, right here.
+DOCTOR: Trying to figure out when that was done, what month.  Okay February.
+PATIENT: Was it in 09, was it ’09?
+DOCTOR: No it was in January 2010.
+PATIENT: January?  No, was it?
+DOCTOR: Yeah.
+PATIENT: I didn't think so.
+DOCTOR: Well let me see, yeah that's when they planned to do it at least.
+PATIENT: Pardon?
+DOCTOR: February, February 2010, that was about a year ago.  And you had one vessel that was blocked.
+PATIENT: There were two blockages.
+DOCTOR: Yeah, two main ones blocked and what did they do for you, they put some stents in at that time.
+PATIENT: Yes they did.  Two stents.  And kept me in the hospital for a day or two.
+DOCTOR: But does what you have now, does it feel at all the same as what you had back then?
+PATIENT: I really think, I didn't feel no different back then cause I didn't know I had a blockage or anything you know.
+DOCTOR: Okay.
+PATIENT: I didn't know until they told me.  I was downstairs on the table so.
+DOCTOR: Hop up here.  Yeah, let me look at your medication list here.
+PATIENT: I got that here, you want it?
+DOCTOR: No I've got the same one here in the computer.
+PATIENT: Okay.
+DOCTOR: We'll read together here then.  Amlodipine for blood pressure, you got aspirin every day and Plavix every day.  Those two are protecting your heart.  You've got Tylenol with codeine if you need to for pain.
+PATIENT: Right.
+DOCTOR: Iron supplement.
+PATIENT: Right.
+DOCTOR: Gemfibrozil for cholesterol.  Hydrochlorothiazide for blood pressure.  Do you take insulin?
+PATIENT: Take insulin?  Yes, yes.
+DOCTOR: Yes, how much?
+PATIENT: Uh 36.
+DOCTOR: 36 units.
+PATIENT: Yeah twice a day.
+DOCTOR: Okay.
+PATIENT: But you know doctor, my  [REDACTED] fluctuates so.
+DOCTOR: Yeah.
+PATIENT: Some days it's 200s you know, it's 250 some days and then some days it drops down to 100 something you know.  It fluctuates you know.
+DOCTOR: What is it usually?
+PATIENT: I can't stabilize it.
+DOCTOR: How about in the morning?  What is it usually in the morning?
+PATIENT: Well, I should have brought my pad, uh this morning it was 180 this morning.
+DOCTOR: 180.
+PATIENT: 180 something.
+DOCTOR: What is it normally in the morning?
+PATIENT: It varies.
+DOCTOR: What's the lowest and the highest?
+PATIENT: Uh maybe, maybe 230-240, something like that.
+DOCTOR: That's the highest?
+PATIENT: Yeah.
+DOCTOR: And the lowest?
+PATIENT: The lowest tends to be down to 80.
+DOCTOR: Okay.  Well are you changing your diet?  Are you eating different things?
+PATIENT: I try to watch what I eat and I try to stay off those sweets.
+DOCTOR: Good.
+PATIENT: You know and I just drink water you know.
+DOCTOR: Does it ever go above 240?
+PATIENT: Some days it does.
+DOCTOR: Okay.  In the 300s after meals?
+PATIENT: Well some days, it hasn't been 300 in a while.  It hasn't been 300 in a while.
+DOCTOR: Okay.
+PATIENT: But [REDACTED] stabilize it.
+DOCTOR: Well I think we need to um, we need to get them better than that cause I think you're right.  300s, 230, 240s that's too high, we want to get it lower than that.  Now when was your last A1c, let me find out.  Okay so August.
+PATIENT: A couple times it go low you know, I can feel it goes low you know a couple times.
+DOCTOR: Start feeling bad?
+PATIENT: I have to get something sweet you know like orange juice or something like that to bring it up you know.
+DOCTOR: Uh-huh.
+PATIENT: I feel real jittery you know.
+DOCTOR: Yeah.  Alright so your hemoglobin A1c, that's the blood test that we use to check how your sugar has been over a three month period.
+PATIENT: Uh-huh.
+DOCTOR: It's been right around 7, 6.9 to 7.3.  That's pretty good.  We want it to be lower than 7 if we can.  So we’ll try to, we can adjust a little bit your regimen.  Now looks like your cholesterol was also checked back at that time, about a year ago.  We need to check that again.
+PATIENT: The last [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: That was in March, when I came downstairs I think we checked it.
+DOCTOR: Yeah here it is.
+PATIENT: Yeah, they should have checked it downstairs.
+DOCTOR: No they didn't actually check that one.  They checked a lot of other good things but not that one.  I'm going to order a few things right now for you.  Um have you ever been on lisinopril?
+PATIENT: What?
+DOCTOR: We didn't get through the rest of your list so I need to talk to you about the rest of your medications.  You're on Losartan, metoprolol, a multivitamin.
+PATIENT: Right.
+DOCTOR: Omega 3 fatty acids, omeprazole, you were on simvastatin, sildenafil for erectile dysfunction and terazosin for prostate.
+PATIENT: Yes sir.
+DOCTOR: Eye drops, okay.
+PATIENT: Can you take them off?
+DOCTOR: I wish I could.  No I don't think we can today.  So your blood tests from the first of this month look pretty good.
+PATIENT: Uh-huh.
+DOCTOR: Um your hemoglobin is just a little bit low and that's the blood count, you know the total blood count, it's still a little low.
+PATIENT: Uh-huh.
+DOCTOR: When was your last colonoscopy?
+PATIENT: Hmm, I don't know cause I had one here didn't I?
+DOCTOR: Um I don't know I could check for you though.  All your other tests look pretty good so I think really it's the diabetes that we need to work on, just to continue to fine tune that.  I think you're not too far off from where you need to be overall.  Have you seen an eye doctor this year?
+PATIENT: Yes.
+DOCTOR: Back in December okay.
+PATIENT: Yeah I had, yeah I saw him.
+DOCTOR: Okay.  Alright take your shoes and socks off for me.  Have you changed the terazosin [REDACTED].
+PATIENT: What?
+DOCTOR: The medicine called terazosin or terazosin.
+PATIENT: What is that for?
+DOCTOR: Prostate.
+PATIENT: Yeah I'm taking that every night.
+DOCTOR: Good.
+PATIENT: That one I take before I go to bed.
+DOCTOR: Alright good.
+PATIENT: Yes, capsules.  You want me to just keep taking those pills?
+DOCTOR: Yeah. [REDACTED] Inhale, go ahead and let it out.  [REDACTED].  Anyway I'll see you one more time.
+PATIENT: Pardon?  You'll see me again?
+DOCTOR: Yeah.
+PATIENT: Oh great, good.
+DOCTOR: I want you to have your blood tests done before you see me.  Do it about a week before you see me okay, fasting.
+PATIENT: Pardon?
+DOCTOR: I want you to get your blood tests about a week before you see me.
+PATIENT: Oh man.
+DOCTOR: Fasting blood test.
+PATIENT: Fasting blood test, what’s that?
+DOCTOR: Just means nothing to eat for 12 hours beforehand.
+PATIENT: And they going to take a blood test?
+DOCTOR: Yep.
+PATIENT: [REDACTED].
+DOCTOR: So that just means just when you're at home but then nothing after midnight.
+PATIENT: Oh okay.
+DOCTOR: You come in and get the blood tested in the morning.
+PATIENT: So when we gonna do that?
+DOCTOR: Just about a week before your next appointment with me.
+PATIENT: Okay.
+DOCTOR: And that'll be in June.
+PATIENT: Okay.
+DOCTOR: Alright.  That'll be [REDACTED].  Let me check your feet.  Any loss any sensation in your feet?
+PATIENT: No sir.
+DOCTOR: Alright I'm going to hit you with this fishing line but you'll feel it like that, do you feel that?
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] your toes. Let me know when you feel it.
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: Yeah, yeah, ooh.
+DOCTOR: Way down there.
+PATIENT: Uh-huh.
+DOCTOR: What's this?
+PATIENT: [REDACTED].
+DOCTOR: A little scar there.
+PATIENT: Scar.
+DOCTOR: Very good.  Did you take your medicines today?
+PATIENT: Yes sir.
+DOCTOR: Did they check your blood pressure or no.
+PATIENT: She took it; she said it was where it was supposed to be.  It come up a little bit.
+DOCTOR: How high?
+PATIENT: 173/80.
+DOCTOR: 80 oh that's too high.
+PATIENT: It was 160; she said you would check it.  [REDACTED].
+DOCTOR: I'll take it again.  [REDACTED].  Let's see where it's at.  Deep breath.  Okay lay back.  Alright I 140/68.
+PATIENT: I'll be darn.
+DOCTOR: So it's still too high but it's not terribly high.  [REDACTED] reading.  About your diabetes, so we'll go problem by problem.  The diabetes I think is doing well but I understand what you're saying about the fluctuation going up and down.
+PATIENT: Uh-huh.
+DOCTOR: I'd like your numbers to be a little bit lower.
+PATIENT: Uh-huh.
+DOCTOR: So what I'd like you to do, when you come in next time, I want to record for me, in a little book or a binder or piece of paper, right when you wake up in the morning what your sugar is.
+PATIENT: That thing I take it at home with, oh yeah I got that at home.
+DOCTOR: Perfect and then one time throughout the day, about two hours after you eat.
+PATIENT: I record it in the morning and record [REDACTED] okay.
+DOCTOR: Okay so this is what I want you to keep doing the morning one.
+PATIENT: Uh-huh.
+DOCTOR: And then also do it sometime during the day, maybe lunch time or dinner time but two hours after your meal.
+PATIENT: Okay.
+DOCTOR: Cause then we can adjust your insulin if we need to.  Uh no medicine changes for now and you have an appointment next month with the cardiologist?
+PATIENT: Yes, I think it's made for the 15th.
+DOCTOR: Oh that's good.  I want you to mention the shoulder pain to them.  I don't think it's your heart but you didn't have chest pain before they found this blockage last time, I want to make sure it's not a new blockage.
+PATIENT: It showed that before.
+DOCTOR: Right.
+PATIENT: I don't have chest pain; I don't have no chest pain now.
+DOCTOR: No.
+PATIENT: Put my shoes back on?
+DOCTOR: Yep.  I'm going to go talk to my boss and I'll be right back.
+(DOCTOR OUT:  33:32  DOCTOR IN:  42:16)
+DOCTOR: Alright, thanks for waiting.  So I think we can make one small adjustment for you.  You're taking 36 units of insulin twice a day?
+PATIENT: Uh-huh.
+DOCTOR: I want to go up on the morning dose okay so to about 38, it's a small increase.  You'll go from 36 to 38 in the morning.
+PATIENT: Uh-huh.
+DOCTOR: Keep it at 36 in the evening and do like I told you which is check your blood sugar in the morning and then in the evening and we'll see how they go.  Everything else is going to be the same for now and then we'll see you back in about 6-8 weeks.
+PATIENT: You renew all my medications?  [REDACTED] run out of some of them.
+DOCTOR: You have refills on all of them it looks like.
+PATIENT: [REDACTED]?
+DOCTOR: I'm not giving you a refill on the sildenafil.
+PATIENT: Who?
+DOCTOR: The erectile dysfunction.
+PATIENT: Oh okay maybe it's easier.
+DOCTOR: I'll renew all [REDACTED].
+PATIENT: Don't take the cholesterol medicines, should I stay off it?
+DOCTOR: Oh you know what, you're right.  I wanted to talk to you about that too.  I think its okay to restart that but I want to start it at a lower dose.  You're taking the highest dose that's available right now.  I'm going to change that so that it's a low dose.
+PATIENT: [REDACTED] how many?
+DOCTOR: It was 80; I'm going to go to 20.
+PATIENT: [REDACTED] the same way.  [REDACTED] the same way.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] the same that she had.
+DOCTOR: With the muscles and stuff?
+PATIENT: Yes, yes.  She did the same problem.
+DOCTOR: Well let's try it on 20 and if you get the problem again we'll quit it all together okay.
+PATIENT: I ain't going to feel like that, I felt like hell.
+DOCTOR: You don't want to have that?
+PATIENT: I don't want to feel like that anymore.
+DOCTOR: Well you'll know.
+PATIENT: Can you just give me just one week or put me on something else?
+DOCTOR: Well the problem is, that's the best medication that we have.
+PATIENT: Oh.
+DOCTOR: There are different types of statins but that's the best one we have for.
+PATIENT: Okay.
+DOCTOR: It's for your heart disease, for your cholesterol.
+PATIENT: So don't take nothing till I get.
+DOCTOR: Just take the low dose.  Don't take the ones you have.
+PATIENT: So take nothing until I get the new one right?
+DOCTOR: Right.
+PATIENT: Don't take nothing until I get the new one.
+DOCTOR: Correct.
+PATIENT: If it starts doing it again just stay lay off it again right?
+DOCTOR: And then just quit yeah, just don't take it again.  Alright.
+PATIENT: Okay.  I'm going to go and get that shot now, I hate that, man.
+DOCTOR: You got another shot in the knee?
+PATIENT: In the shoulder too.
+DOCTOR: But it makes you feel better though doesn't it?
+PATIENT: Sounds good.
+DOCTOR: Yeah right.  Take care of yourself.
+PATIENT: See you soon.
+DOCTOR: You take care.
+PATIENT: See you again, take care.  Thanks a lot.
+DOCTOR: Alright take care.
+PATIENT: Okay.
+DOCTOR: This is a form to give them when you check out.
+PATIENT: 45:28.
+Time is 2:36
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249438
+TRANSACTION # 578-10-2-316-0103

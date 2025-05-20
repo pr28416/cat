@@ -1,0 +1,77 @@
+DOCTOR: What brings you in today?
+PATIENT: I've just been feeling like very nauseated for, it feels like all the time right now.
+DOCTOR: When did this start?
+PATIENT: It's been over a week. Maybe not quite two weeks, but like around then. Yeah, maybe like 9 days.
+DOCTOR: And um, is it, do you always have the sensation of nausea or is it related, or does it come and go?
+PATIENT: Oh, I think it's like worse when I am smelling something really bad, and it's worse in the morning. But I feel like it's always kind of there.
+DOCTOR: I see OK. Um, have you had any vomiting?
+PATIENT: Uh, yeah, like um, yeah, like a lot of days I'll throw up like once or twice.
+DOCTOR: And this has all been over the past week, week two weeks or so?
+PATIENT: Yeah.
+DOCTOR: OK, um, any other symptoms that you have?
+PATIENT: Oh no, just, well, like I feel like I've I've had to pee a lot more. Um, but I don't, I don't think that's like related. I think maybe I have just been drinking a lot of water, so yeah.
+DOCTOR: How often do you have to pee?
+PATIENT: Oh, like, I feel like every couple hours right now.
+DOCTOR: OK, so say every two hours, every hour, every five hours?
+PATIENT: Probably every probably every like 2, maybe, maybe every hour I get certain times in a day.
+DOCTOR: Do you wake up at night to pee?
+PATIENT: Oh, like it doesn't wake me up but it's like I wake up because I hear something. Then I'll be like, oh I think I should probably go to the bathroom.
+DOCTOR: Yeah, do you feel like you have control over when you are going to bathroom or is it difficult for you to hold it in?
+PATIENT: Oh I I I can control it. It's just like uncomfortable right?
+DOCTOR: I see I see so, um, you have urinary frequency, but do you do you feel like, uh so you said that you can control it, you don't you don't feel like you need to run to the bathroom or you'll pee in your pants?
+PATIENT: No, I don't feel like that.
+DOCTOR: OK. Do you have any pain when you're peeing?
+PATIENT: No.
+DOCTOR: No, OK alright um, do you feel like you've been more thirsty recently? Why do you feel you've been drinking more more water?
+PATIENT: I think, I think just 'cause like I was getting I was like throwing up like so like I feel like I was a little dehydrated.
+DOCTOR: Um, I see OK, um, have you, other than the nausea and vomiting, have you had any other stomach related issues? Any belly pain or changes in your bowel movements?
+PATIENT: Ah no, I don't think so, well my stomach has been like it feels like a little crampy. I thought that maybe it could be my period but like I'm not on my period.
+DOCTOR: When did you last have your period?
+PATIENT: Oh well, let me think. Um, like six weeks ago. I guess that would be, I don't know. I don't really like keep track.
+DOCTOR: OK, OK. Do you know if you get your periods regularly or are your periods irregular?
+PATIENT: I think they're I think they're usually pretty regular, but I don't I don't like I don't
+calculate it like to the day.
+DOCTOR: True yeah, is it is it normal for you to go six weeks without a period?
+PATIENT: Oh, come to think of it, I don't, I don't think so.
+DOCTOR: Alright. Um, OK. Uh, have you, I'll just ask you a couple more questions about your symptoms. So I know that you've been nauseous and have vomited a couple of times in the past two weeks. And, you have had some cramps in your belly. Have you had any flu like symptoms?
+PATIENT: No.
+DOCTOR: Nothing like that?
+PATIENT: I don't think so.
+DOCTOR: Any headaches?
+PATIENT: Uh no.
+DOCTOR: Any fevers?
+PATIENT: No.
+DOCTOR: Muscle aches?
+PATIENT: Uh no.
+DOCTOR: OK, um, have you, have you had a cough at all?
+PATIENT: Oh no.
+DOCTOR: OK, and have you noticed any blood in your stools?
+PATIENT: No.
+DOCTOR: Have you, you haven't had any palpitations or chest pain or anything of that sort?
+PATIENT: No.
+DOCTOR: Alright um can you tell me about your past medical history, any medical issues medical conditions that you have?
+PATIENT: Uh, nothing, nothing really.
+DOCTOR: OK. Have you, um, been taking any medications?
+PATIENT: No, I mean, I've been taking like like I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful.
+DOCTOR: I see. Any allergies?
+PATIENT: So just like nickel, like in jewelry, if I wear not real jewellery, it'll give me a rash, but it's not food or like or medications or anything.
+DOCTOR: Um, and, uh, a couple of questions about your social history. Who do you currently live with?
+PATIENT: Um, like I I just I live with one roommate.
+DOCTOR: Um and, do you currently smoke?
+PATIENT: No.
+DOCTOR: Alright, you don't smoke, OK. Have you, do you consume alcohol?
+PATIENT: Uh, no, very rarely because I always get a headache.
+DOCTOR: OK, when was the last drink that you had?
+PATIENT: Oh gosh, like like a month ago probably.
+DOCTOR: OK, um, and you consume any illicit drugs?
+PATIENT: No, no.
+DOCTOR: Alright, are you currently sexually active?
+PATIENT: Yeah just like with my boyfriend.
+DOCTOR: And do you use protection while having sex?
+PATIENT: Yeah, we we just use condoms. I used to be on birth control but it always made me
+feel like like kind of sick so I don't use that anymore.
+DOCTOR: Mhm, I see, OK. Uh and um, let's see. Family history. Do you do you have any medical conditions that run in your family?
+PATIENT: Uh, like I don't, I don't think so. I guess my dad my dad has like high blood pressure, yeah, I don't think there's anything else.
+DOCTOR: Alright, alright, well, thank you so much for spending time with me today. I think I have gathered all the information that I would have liked. I will go talk to my attending, we'll come back and maybe ask a couple more questions and then share the plan with you.
+PATIENT: OK, thank you.
+DOCTOR: You're welcome.

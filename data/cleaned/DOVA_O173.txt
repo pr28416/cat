@@ -1,0 +1,292 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: How are you?
+PATIENT: Okay.
+DOCTOR: Good to see you again.  It's been a while.
+PATIENT: A year.
+DOCTOR: So it's been a long time.  Come on in here.
+PATIENT: Do you have some gear for me?
+DOCTOR: You gotta bear with us here.  I'm having a [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yeah, well how's things been going?
+PATIENT: Okay.
+DOCTOR: And you've been through quite a bit since I saw you last.
+PATIENT: Oh, last July I had surgery on my chin here to cut out a big chunk, cancer yeah.
+DOCTOR: I heard all about that.
+PATIENT: I spent three or four days here.
+DOCTOR: Yeah.  And who were you bringing that problem up to?
+PATIENT: Twice I had surgery, December 1st.
+DOCTOR: Did they have to go back and do margins?
+PATIENT: I had the original and then in July was the big one.
+DOCTOR: Yeah.  So uh how old are you now?
+PATIENT: 73.
+DOCTOR: Hmm.  Alright and if I remember right I know about the floor of mouth cancer, you have coronary disease, like coronary artery disease if I remember right.
+PATIENT: Uh.  [REDACTED] something huh.
+DOCTOR: Okay.  Alright.  Did they give you the list of your pills?
+PATIENT: Uh, you diagnosed me with uh.
+DOCTOR: When you came in though, did they give a list?
+PATIENT: My blood sugar.
+DOCTOR: When you came in were they able to give you uh the list of your medicines?
+PATIENT: No.
+DOCTOR: Like they do normally when you check in?
+PATIENT: No, no, not this time.
+DOCTOR: Yeah.
+PATIENT: Just this thing here, new directives or something.
+DOCTOR: Advanced directives.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah usually they give you a sheet with your medications.
+DOCTOR: Yeah do you know your medicines.
+PATIENT: Yeah I take 81 mg aspirin.
+DOCTOR: Yeah.
+PATIENT: Uh metoprolol, metoprolol.
+DOCTOR: Yeah.
+PATIENT: Simvastatin.
+DOCTOR: Yeah.
+PATIENT: And uh glipizide.  That I think was prescribed for the high blood sugar, diabetes.
+DOCTOR: Exactly.  So you're gonna be due for some labs.
+PATIENT: Well uh I went to that class, when was that, sometime last May, the Diabetes Class.
+DOCTOR: Yeah.
+PATIENT: It was like three or four hours here.
+DOCTOR: Yes.
+PATIENT: And uh they give me one of those glucose meters and.
+DOCTOR: Yeah.
+PATIENT: Well I get.
+DOCTOR: Have you been checking your sugars?
+PATIENT: This past week I ran out of the strips and before that.
+DOCTOR: You need more?
+PATIENT: Uh yeah.  Yeah I called to refill the script and they said it was beyond expiration.  That was just a sampling on there from the past week the dates.
+DOCTOR: Okay.
+PATIENT: Sunday I've run out but all the other things are on there I guess in the memory.  It goes back for the last May or whatever.  We got a time and a date on there.
+DOCTOR: Yeah.  So they're probably a little higher than we would like.  You know there are quite a few that are in the 200s.
+PATIENT: Well from what I remember they said if it's over 500 to call the doctor right away or if it's below 100.
+DOCTOR: Yeah.  Well.
+PATIENT: If it's somewhere in between 200 and right.
+DOCTOR: Yeah right.  Um okay, this says you're on [REDACTED].  And when was the last time you saw an eye doctor?
+PATIENT: About probably a year ago.
+DOCTOR: So we'll get you back in to get a look at that.  We'll recheck your cholesterol.  Uh we'll check, we'll recall your hemoglobin A1c which gives us an idea of more uh, an average of what your blood sugar has been.
+PATIENT: Uh-huh.
+DOCTOR: Rather than just what it is at that moment.
+PATIENT: Oh okay yeah.
+DOCTOR: Okay.  Um.
+PATIENT: Cause it changes constantly, if you have something to eat it's probably different in ten minutes.
+DOCTOR: Yeah, this gives us an average.
+PATIENT: Oh okay.
+DOCTOR: Over the past about 90 days.
+PATIENT: Huh okay.
+DOCTOR: Um okay.  And then your blood pressure was up today huh?  Has it been up?
+PATIENT: The what?
+DOCTOR: Your blood pressure.
+PATIENT: Oh it was just 158 over 80.
+DOCTOR: Do you check it at home and outside the hospital?
+PATIENT: When I check it at home, maybe three, four days ago, it was 136/80.
+DOCTOR: Do you take any water pills, anything besides the metoprolol?
+PATIENT: Uh.
+DOCTOR: Hydrochlorothiazide.
+PATIENT: That one I got a rash from.
+DOCTOR: Oh that's right.
+PATIENT: Uh I'm taking something else, what is it?
+DOCTOR: Furosemide, Lasix, lisinopril?
+PATIENT: No simvastatin what is that for?
+DOCTOR: That's cholesterol.
+PATIENT: Cholesterol.
+DOCTOR: So you just take four pills a day?
+PATIENT: Four yeah.
+DOCTOR: Okay.  Alright, okay.
+PATIENT: Oh furosemide, that's a water pill.
+DOCTOR: You take furosemide?
+PATIENT: Yeah in the morning.
+DOCTOR: [REDACTED].
+PATIENT: Yeah that's right.  I had them separated.  I'm picturing in my mind what I had on the shelf.
+DOCTOR: That's alright, thanks for bearing with us here.  It's difficult.  Can you sit up here?
+PATIENT: Sure.
+DOCTOR: I read all your chart on Friday and that was one thing I'm trying to think back and remember everything.  I can't refresh my memory.  I'm kind of helpless without the computer now until It’s really kind of sad, but that's the way it is.
+PATIENT: Huh.
+DOCTOR: I would like to check that blood pressure again.
+PATIENT: You want me to take the shirt off?
+DOCTOR: Uh yeah that's not a bad idea, probably be a little easier.  So how's your life?
+PATIENT: Okay.
+DOCTOR: Any major problems or concerns?
+PATIENT: Uh none, no.
+DOCTOR: Oh yeah okay.  Are you a drinker or a smoker?
+PATIENT: I almost quit drinking.  You know I'll go see a friend of mine once in a while at the bar when they needed to make wooden signs – I make wooden signs.
+DOCTOR: No that's alright.
+PATIENT: Or sports figurines.
+DOCTOR: Right.
+PATIENT: I'll have a couple beers but other than that no.  But smoking I quit last April, April 10th a year ago.
+DOCTOR: Okay.  Excellent.
+PATIENT: And I'll get a classes here - April.
+DOCTOR: And you managed to stay quit.
+PATIENT: Yeah, no.
+DOCTOR: Good, very good.
+PATIENT: I just threw a pack of cigarettes I had sitting there by the television, they were just sitting there I never touched them.
+DOCTOR: That's great.  That's great.  Feeling okay, energy's okay?
+PATIENT: Yeah.  I'm tired all the time since that surgery, sleepy tired you know.
+DOCTOR: Yeah it's definitely up a little bit, the 150s uh over 90 uh.
+PATIENT: It was just 158/80.
+DOCTOR: Did you take your medicine today?
+PATIENT: Uh, no I take them at nighttime.
+DOCTOR: Okay they’re all just once a day?
+PATIENT: The only thing I take in the morning is the furosemide.
+DOCTOR: Did you take that today?
+PATIENT: Yeah in the morning.
+DOCTOR: Okay just relax.  Big breath.  Any chest pain?
+PATIENT: None.
+DOCTOR: Are you staying active?
+PATIENT: Yeah.
+DOCTOR: Any blood in the stool?
+PATIENT: No.
+DOCTOR: Have you ever had a colonoscopy?
+PATIENT: No.
+DOCTOR: Just look right here.
+PATIENT: Uh just fatty cysts they call them.
+DOCTOR: (A person came to the door).
+PATIENT: Emergency generator.  Power.
+DOCTOR: Okay, any swelling down here?
+PATIENT: A little bit at the top of the sock line, usually gets a little swell.  But these are new socks.  Usually with the older socks I wear I don't get nothing.
+DOCTOR: Yeah.
+PATIENT: It's from the elastic.
+DOCTOR: Okay can you [REDACTED].  Alright.  How's your breathing?
+PATIENT: Fine.
+DOCTOR: Okay.  How much uh you know activity, I mean could you walk like a mile or something?
+PATIENT: Yeah.
+DOCTOR: You could?
+PATIENT: Yeah 10-12 years that I could walk from here 25 feet and I'd have pains.
+DOCTOR: Yeah.
+PATIENT: My jaw would ache, my arms would ache.  You know that's from the veins or something tightening up right.
+DOCTOR: Yeah.
+PATIENT: But that was 10-12 years ago and they tried everything.
+DOCTOR: And they wanted to do the bypass on you.
+PATIENT: Yeah.
+DOCTOR: But you didn't want it.
+PATIENT: No.
+DOCTOR: And what happened.
+PATIENT: But they kept giving me medications and I got rid of the nitrates and I didn't need that and then it just went away.
+DOCTOR: Okay.
+PATIENT: You know.  It couldn't have been from quitting smoking cause that's just the past year.
+DOCTOR: Yeah.
+PATIENT: Ten years ago I was smoking a pack and a half to two packs a day.
+DOCTOR: Yeah.  Hmm.
+PATIENT: But now a year has passed.  I don't know what it was that I was taking or what I'm taking now.  I could walk and walk and walk and not have any you know pains like I had.
+DOCTOR: Alright, let's see if I can find you here.  So we've got you on Toprol XL, baby aspirin, simvastatin.  Have you ever been on a medicine called lisinopril?
+PATIENT: Not that I remember.
+DOCTOR: When did you quit smoking exactly?
+PATIENT: A year ago, April 10th.
+DOCTOR: April 10th.  Alright.  Now let's take a look at your pills here.
+PATIENT: I don't know if it's a side effect.  I'm getting like little sores on the back of my head that seem to itch.  If I scratch them they'll start bleeding like crazy yeah.
+DOCTOR: I'll take a look.
+PATIENT: That I think started when I started glipizide.  I'm not sure but.
+DOCTOR: Hmm I don't know.  I've never heard of anything like that happening.
+PATIENT: You know little sores.
+DOCTOR: Yeah.
+PATIENT: And if I scratch on them they'll just start bleeding.
+DOCTOR: Hmm.  Simvastatin.
+PATIENT: This I didn't have 15 years ago.
+DOCTOR: Hmm.
+PATIENT: I looked at the sheet you get, you know with the medication.  Glipizide promotes weight gain.
+DOCTOR: Yeah it can do that.
+PATIENT: Yeah, right there 13 months.
+DOCTOR: How much weight have you gained?
+PATIENT: I usually weighed 165-70, now I'm at 181, well with clothes and everything it's 186 just now they weighed me.  But last week I was 180-181.
+DOCTOR: We'll get you some more test strips.  Do you think you could get your blood drawn any time soon?
+PATIENT: I could stop after here.
+DOCTOR: Okay.
+PATIENT: If the Lab is still open.
+DOCTOR: Yeah they should be open.  How much have you had to eat today?
+PATIENT: Oh, when I was here I had a large coffee and a bag of cookies for lunch you know.
+DOCTOR: You know we may have you.
+PATIENT: This morning I had cereal.
+DOCTOR: We may have you come back when you haven't had so much to eat.
+PATIENT: Okay fast.
+DOCTOR: Yeah and then I'm going to talk with my boss back there but.
+PATIENT: Uh-huh.
+DOCTOR: We may want to uh try you on a pill called lisinopril uh and it can help with the blood pressure and the kidneys.  Probably a good pill for you to be taking uh, you know you've had some kind of, some kidney disease that you've had for a long time.
+PATIENT: Uh the last appointment I had, what was it, oh Urology.
+DOCTOR: Yeah.
+PATIENT: The 25th or something like that, it was a couple weeks ago.
+DOCTOR: Yeah.
+PATIENT: And before that I had an ultrasound.
+DOCTOR: Uh-huh.
+PATIENT: And they checked you know how much urine, they had to check how much urine I had in the morning, at night and you know [REDACTED] and they checked the kidneys, there's nothing wrong with the kidneys.
+DOCTOR: Yeah I just mean like your kidney function and like we call or we measure with this thing called creatinine which normal is 1 and you're more like around 2.
+PATIENT: Uh-huh.
+DOCTOR: Uh and it's been that way for quite a while and even back uh three years ago, even back in 2002 it was 1.8 which is about what it is now.
+PATIENT: Yeah.
+DOCTOR: Um it still is, for people that have kidney disease and high blood pressure, heart disease, it kind of helps with all of that stuff.
+PATIENT: Oh uh-huh.
+DOCTOR: Um so it's something that I'm probably going to talk with my boss back there.
+PATIENT: Okay.
+DOCTOR: But it's probably something that you should be taking okay.
+PATIENT: Okay, I'll try it.
+DOCTOR: Um let me go talk to one of my bosses back there.
+PATIENT: Okay.
+DOCTOR: And I will be right back in.
+PATIENT: You don't need this anyway.
+DOCTOR: No I don't need that anymore.
+PATIENT: Okay.
+(DOCTOR OUT 35:34  DOCTOR IN:  43:31)
+DOCTOR: Alright.  So I was going through things with one of my supervisors back there and she definitely agrees that this medicine lisinopril is something that you should be on.
+PATIENT: Uh-huh.
+DOCTOR: Uh it's for blood pressure but it also is to help the kidneys and things like that.  Okay.  Just take it once a day.  You should take it whenever you take your metoprolol and whatever else.
+PATIENT: Yeah I take them in the evening when I go to bed.
+DOCTOR: Yeah that's fine, you can keep doing that.
+PATIENT: Just the water pill I take in the morning.
+DOCTOR: Okay.  And it's been a while since we checked cholesterol and all that good stuff so we'll just have you come back um.  What we would like to do is, I don't know if you're going to get your new medicine today or if you'll wait and have it mailed to you.
+PATIENT: Uh-huh.
+DOCTOR: But about five days or so after you've been taking that pill then come in and have all this blood work done.  That way we can make sure it's agreeing with your kidneys.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Sure.
+DOCTOR: Alright.
+PATIENT: Do I still take the glucose readings?
+DOCTOR: Yeah.  I ordered the strips.  Yeah I reordered the strips.
+PATIENT: That expired.
+DOCTOR: Right, right, I renewed those.
+PATIENT: Okay.  Those I'll get in the mail?
+DOCTOR: Yep.
+PATIENT: Okay, good enough.
+DOCTOR: Alright.  I would like to see you back in about three months.  I don't want to wait a year this time if that's okay.  That's a little too long.  I'm guessing you may have had a cancelled appointment, I had to cancel or something in there cause usually uh we don't want to wait quite that long.  Maybe it was like all the surgery and something uh I had to do is why you cancelled.  Alright.
+PATIENT: Yeah now when I had surgery last July for the cancer I remember the nurses telling me that they gave me insulin for high blood sugar.
+DOCTOR: Yeah.  We do that in the hospital.
+PATIENT: Yeah I remember her saying that you know.  I spent like three days or maybe four days here and there was no follow up after that.
+DOCTOR: Yeah it would've been nice if they would've sent you back to see me.
+PATIENT: From July so that's 7, 9 months ago.
+DOCTOR: Okay well you've been hanging in there pretty good so.  Uh this is for you to take to check out.
+PATIENT: Okay.
+DOCTOR: I ordered that new pill; you can either go down to the Pharmacy and wait.  I don't know if you've been down there.
+PATIENT: Yes, yeah I've been there.
+DOCTOR: Sometimes it takes a while.
+PATIENT: Half hour.
+DOCTOR: Yeah.
+PATIENT: Usually a half hour.
+DOCTOR: You can get it now um.  If you get it now then you can start taking it even tonight and just when you get your blood drawn be sure you've taken that pill for about 3-5 days.
+PATIENT: Okay.
+DOCTOR: And then come in and we'll check the diabetes and the kidneys and just check everything.
+PATIENT: Will I get a letter now to come in for the lab?
+DOCTOR: No.
+PATIENT: Or.
+DOCTOR: I've already ordered everything.
+PATIENT: Okay.
+DOCTOR: You just have to show up.
+PATIENT: Okay.
+DOCTOR: On the first floor.
+PATIENT: Yeah, yeah I know where it is.
+DOCTOR: You know tell them who you are and then they'll know what all to do.
+PATIENT: After taking that medication for about a week?
+DOCTOR: Yes.
+PATIENT: Okay, sure.
+DOCTOR: Because normally when we start that we have to check the kidneys and this way we'll just do it all at once.
+PATIENT: Okay.
+DOCTOR: Sound like a plan?
+PATIENT: Sure.
+DOCTOR: Alright sir.  I'll let you be on your way.  [REDACTED] with the computer problem here.
+PATIENT: No problem thank you.
+DOCTOR: Alright.
+PATIENT: Thank you again.
+DOCTOR: I'll see you in a few months.
+PATIENT: 49:22
+Time is [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238109
+TRANSACTION # 578-10-2-316-0103

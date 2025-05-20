@@ -1,0 +1,426 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: Hey there.  Hi I'm DOCTOR.
+PATIENT: Hi nice to meet you.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: So [REDACTED] today?
+PATIENT: What's that?
+DOCTOR: You’re way ahead of schedule today.  Most of the time we get it right.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] you came here.  Um what brings you in to see me today?
+PATIENT: Well I used to go out to Elgin.
+DOCTOR: Okay.
+PATIENT: And then the transportation was getting too much, I live in Lombard now.
+DOCTOR: Okay.
+PATIENT: And it cost me $75 to get back and forth.
+DOCTOR: Between [REDACTED].  So you want to transfer your care to Hines?
+PATIENT: Right.
+DOCTOR: Okay good, we'll we're happy to have you here okay.
+PATIENT: Thank you.
+DOCTOR: Um I want to have to be honest we have some um uh, we have all your records from Elgin and I have a little bit of idea of what's been going on with you.  I'm just gonna ask you a couple of questions and get to know you a little bit.
+PATIENT: Okay.
+DOCTOR: Okay.  Um first of all, is everything, starting in the last couple of weeks, in general how do you feel?
+PATIENT: Uh, mentally I feel pretty good.
+DOCTOR: Good.
+PATIENT: Uh my feet have been exceptionally stiff in my ankles and feet.
+DOCTOR: Okay.
+PATIENT: And uh, between my shoulder blades and my lower back has been bothering me quite a bit too.
+DOCTOR: What's been going on with that?
+PATIENT: Well I got some kind of neuropathy.  I don't know if that's in my back too or not.  I've got neuropathy in my feet and ankles.
+DOCTOR: That's from diabetes huh.
+PATIENT: And in my hands too.  I haven't reported in my hands but it's getting.
+DOCTOR: Yeah that's definitely important.  It looks like your diabetic.  It's probably from your diabetes.  How long have you had diabetes for?
+PATIENT: I was diagnosed in 2001 or 1999.
+DOCTOR: So you've had diabetes for ten years?
+PATIENT: Yeah at least.
+DOCTOR: Okay.  How do you control the diabetes?
+PATIENT: Uh I take metformin and diet.
+DOCTOR: And [REDACTED] diet.
+PATIENT: Blood sugar has been fabulous lately.
+DOCTOR: Yeah it looks like your hemoglobin A1c, do you know what you're hemoglobin A1c is?
+PATIENT: No.
+DOCTOR: That is a number based on a medical term for your average blood sugars at home.  Kind of like a trick for the doctors to see how you've been doing every month.
+PATIENT: Okay.
+DOCTOR: And your number is excellent.  Which means that you're entirely correct.  It means that what you're saying, it's not that we don't believe you but.
+PATIENT: Well I got my home numbers with me.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Well what I mean is I can tell they're good, well that's good.  Um.  Let's see here um do you have any eye problems from the diabetes?
+PATIENT: No.
+DOCTOR: When was the last time you saw the eye doctor?
+PATIENT: Uh just a few months ago, four or five months ago.
+DOCTOR: That was at Elgin?
+PATIENT: No, I don't go out there at Elgin.
+DOCTOR: Okay so where did you go?
+PATIENT: I went to uh a general eye doctor in Lombard, DOCTOR I think his name is.
+DOCTOR: Okay.  Now you have the diagnosis of, is it bipolar disorder?
+PATIENT: Yes.
+DOCTOR: Okay.  Well what medication do you take for that?
+PATIENT: Depakote and uh risperidone.
+DOCTOR: And you take three tablets of Depakote once a day at bedtime?
+PATIENT: Right.
+DOCTOR: Okay and is that like a steady dose for you?
+PATIENT: I'm sorry what.
+DOCTOR: Has that been a pretty steady dose for you?
+PATIENT: Yeah, it's been working out pretty good.
+DOCTOR: And who manages that?
+PATIENT: DOCTOR.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: I think I know DOCTOR.  That's at Hines right?
+PATIENT: Right.
+DOCTOR: There we go, okay.  Good.  The last time you saw him was November.
+PATIENT: Uh no I've seen him since then.
+DOCTOR: Ah, December 2nd.  Oh you're also on trazodone too.
+PATIENT: Right.
+DOCTOR: Okay, how long have you been on those medications for?
+PATIENT: Quite a while.
+DOCTOR: How long ago did you get diagnosed?
+PATIENT: Oh I think I was diagnosed in 1984.
+DOCTOR: When was the last time you had period where your disease was uncontrolled in your opinion?
+PATIENT: Um, well I'm pretty high these days.  I've been checking it uh on the high side.
+DOCTOR: How do you notice those things?
+PATIENT: Well, I'm doing things that I wouldn't normally do.  Building a website, volunteering.  I may be taking on more than I can chew.
+DOCTOR: What are some of the strategies to try to help with that?
+PATIENT: Take my time and slow down.  Think about what I'm doing.  Put things around me and instead of concentrating my website I try and take walks and spend time with family and try and make new friends.
+DOCTOR: Well it sounds like what you're describing right now, and I apologize, going back and forth.
+PATIENT: That's alright.
+DOCTOR: Is uh.
+PATIENT: I know you computer operators.
+DOCTOR: It sounds like you have a fair amount of insight into sort of how you feel.
+PATIENT: Yeah.
+DOCTOR: Which is good, not all people can do that.  Even people who are.
+PATIENT: I have a handle on myself these days, I really do.
+DOCTOR: I think I get that feeling.  I'm not perfect, in terms of knowing, but my gut is that you kind of know um how things are going.  Um okay.  Let's talk a little bit about your lungs.  Now you have, it looks like emphysema.
+PATIENT: Emphysema, COPD.
+DOCTOR: [REDACTED] right?
+PATIENT: 60% of my lungs are gone supposedly.
+DOCTOR: Did you have asthma as a child?
+PATIENT: No.  I cut back dramatically on my smoking now.  I have a nurse from Home Bound that visits me once a week and she's got me cutting back on my smoking.
+DOCTOR: How many packs a day?
+PATIENT: I'm down to one pack a day now and a couple of cigars.
+DOCTOR: Are you interested in quitting?
+PATIENT: Yeah.
+DOCTOR: Okay well some people aren't, I have to ask.
+PATIENT: Uh-huh.
+DOCTOR: Okay, but what are some reasons you want to quit?
+PATIENT: I want to cut down, cut back.  I don't know if I'll ever be able to quit totally but I'm gonna try.
+DOCTOR: Well I think you can.  I am an optimist if it's what you want to do.  Um and uh I think we can talk about maybe how we can help you.  Now I want to talk about your pancreas.
+PATIENT: That's what I'm getting tested for right?
+DOCTOR: Well that's what I'm gonna ask you, what do you know about that?
+PATIENT: Uh, well they said there's a count, but I don't know what it is, is 6, [REDACTED] and they're gonna take a test, go up my butt and find out whether or not I got cancer or not.
+DOCTOR: So are you seeing?
+PATIENT: If it's on my pancreas [REDACTED] right?
+DOCTOR: Well, yeah I'm curious which doctor is managing that pretty sure with DOCTOR, you were in the GI Clinic?
+PATIENT: Huh?
+DOCTOR: Who, what doctor recommended like, who uh?
+PATIENT: Urologist.
+DOCTOR: That's your prostate.
+PATIENT: Okay.
+DOCTOR: I think you're talking about your prostate.  That's when they got you on the [REDACTED] and the finasteride.
+PATIENT: They just changed my medication, I just got it in the mail today and I haven't had a chance to look at it.
+DOCTOR: Okay.  But you had a biopsy of your pancreas [REDACTED].  That looked like they were concerned you had a tumor but it looks like.
+PATIENT: Right they said, I had surgery yeah.
+DOCTOR: And they thought it was just a cyst is that correct?
+PATIENT: They said it was benign.
+DOCTOR: Good, okay.  Now did you also have something that you know about called chronic pancreatitis?  Does that sound familiar?
+PATIENT: Nobody ever told me that.
+DOCTOR: Well you might not, I was just curious.  Um have you ever taken medications for your pancreas?
+PATIENT: My prostate not my pancreas.
+DOCTOR: Okay.
+PATIENT: I don't know the difference between the two. (Laughs)
+DOCTOR: That's okay.
+PATIENT: [REDACTED] peas in my pods.
+DOCTOR: Right.  Let's see here.  So they cut your, I think they cut your pancreas let's see.  Usually the first time I see you, it takes me a little longer because I got to read all your notes.
+PATIENT: No, there's a lot of them on there.
+DOCTOR: Yeah I know I appreciate your patience with me.  Have you ever taken any supplements for your pancreas [REDACTED]?  No okay.
+PATIENT: No my pancreas is a new subject to me.
+DOCTOR: Well only because you know you had this um.
+PATIENT: So the urologist is treating me for something now.
+DOCTOR: Right that's your prostate.
+PATIENT: That's my prostate.
+DOCTOR: Your prostate yes.
+PATIENT: [REDACTED].
+DOCTOR: So you were treated [REDACTED].
+PATIENT: The pancreas is a whole new subject to me.
+DOCTOR: Right.
+PATIENT: I don't know what you're talking about.
+DOCTOR: No I think your pancreas is fine but you had surgery in 2008 which was a pretty big surgery.
+PATIENT: Right.
+DOCTOR: So I'm getting more of your history to make sure I don't miss anything.  [REDACTED] we talked now, you're smoking close to a pack per day.  Did you smoke your whole life?
+PATIENT: Yeah since I was 14.
+DOCTOR: Okay, so 40 years.  And you used to smoke two packs per day?
+PATIENT: Three.
+DOCTOR: About three, when did you cut back?
+PATIENT: Uh about a week ago.
+DOCTOR: Okay.  Tell me about your alcohol drinking history.
+PATIENT: Uh I got two DUIs.  I was more than a social drinker and.
+DOCTOR: Have you ever been admitted for alcohol withdrawals?
+PATIENT: I went to classes for alcohol.  I was never admitted for withdrawals.  I never, uh [REDACTED].
+DOCTOR: When was the last time?
+PATIENT: Yesterday I had a glass of wine and tonight I’ll have a glass of wine.
+DOCTOR: Do you think you drink too much?
+PATIENT: No.  I think because it's healthy for you.
+DOCTOR: What kind of work do you do in the past?
+PATIENT: I work for [REDACTED] in [REDACTED] network administrator.
+DOCTOR: Do you still do that or?
+PATIENT: No I'm retired.  I got an early retirement.
+DOCTOR: Okay, who do you live with at home?
+PATIENT: I live by myself.  My daughter lives downstairs in a basement apartment.
+DOCTOR: Okay so you have one daughter, any other children?
+PATIENT: Two girls and a boy in the middle.
+DOCTOR: Are your parents alive?
+PATIENT: No.  They've been gone a long time.
+DOCTOR: What happened with their health.
+PATIENT: Uh my dad died from lung disorders, emphysema and my mom died of breast cancer.
+DOCTOR: How old was she?
+PATIENT: 55.
+DOCTOR: Any heart disease in your family?
+PATIENT: No.
+DOCTOR: Any cancers in the family?  Oh the breast cancer that's right.
+PATIENT: Breast cancer and my brother has prostate cancer.
+DOCTOR: How old is he?
+PATIENT: Five years older than me, 69.
+DOCTOR: When he was diagnosed with prostate cancer?
+PATIENT: When?
+DOCTOR: Yeah.
+PATIENT: Uh maybe three years ago.
+DOCTOR: So, we'll go through all the medications that came up okay.
+PATIENT: Uh don't ask me.
+DOCTOR: You don’t know what they are?
+PATIENT: I don't know them by name, I know them by bottles.  [REDACTED].
+DOCTOR: Well I know them by name and you know them by bottles so I'm going to try to find some common ground.  Cause I have all your names here okay, so I know what you're supposed to be.  Do you take everything that we send you?
+PATIENT: Yeah.  I take fish oil and vitamin C and a vitamin supplement too.
+DOCTOR: Have you ever had a colonoscopy?
+PATIENT: I'm due for one.
+DOCTOR: Have you ever had one?
+PATIENT: No.  She was schedule with me the last time I saw her but she didn't.
+DOCTOR: Well, do you know why we do then?
+PATIENT: For polyps or something?
+DOCTOR: Yeah we look for cancer.
+PATIENT: Hmm.
+DOCTOR: There are two different ways of screening for colon cancer either one can tell us if you have [REDACTED] disease [REDACTED].  Colonoscopy is an invasive procedure okay.  We put you under, we put to sleep, we put a camera up the rear end and we go looking for polyps [REDACTED].  People who are otherwise healthy at the age of 63, I generally think it's probably a better idea.  The problem is your lungs aren't doing so hot with your emphysema as you can imagine.
+PATIENT: Hmm.
+DOCTOR: And I think you're at a higher risk for the procedure so what that means is I'm not sure the best candidate for that procedure.
+PATIENT:
+DOCTOR: it was a simple procedure where they just give me some local anesthetic or something, maybe she was talking about something else.
+DOCTOR: I think it was something else.  This isn't local anesthetic.  They give you a medication to kind of make you twilight okay.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Now you know, it's really there's no magic [REDACTED].  I'm just telling you how it is okay.  Um the other option is we send you home with cards that check your stool, because you can't always see blood in your stool.  So we send you home with cards that you send in to the lab and we check your stool for blood and then we do a colonoscopy if you have blood.
+PATIENT: Okay.
+DOCTOR: So here, it's actually kind of gross.
+PATIENT: Yeah I know, I've done it before.
+DOCTOR: You send them in and then if they're positive.
+PATIENT: Okay.
+DOCTOR: But honestly, I feel like it's probably your best option okay.  Um now do you still have the urine problems?
+PATIENT: Yeah I got a bag on.
+DOCTOR: Oh you got a bag?
+PATIENT: Yeah.
+DOCTOR: Permanently?
+PATIENT: No it's only supposed to be on for a week but I extended it for a week so it's been going, I still don't feel like I have control yet.
+DOCTOR: Do you ever take it out at home or not?
+PATIENT: No.
+DOCTOR: When is your next appointment with them?
+PATIENT: On the 12th.
+DOCTOR: Does the bag look clean and clear or is it cloudy.
+PATIENT: Yeah it's clear.
+DOCTOR: But you know kind of what to look for right?
+PATIENT: Right I've had one before.
+DOCTOR: Any weight loss?
+PATIENT: Uh a little bit.
+DOCTOR: How much weight have you lost?
+PATIENT: Maybe 10 pounds in three months but I'm trying to lose the weight.  I want to get rid of this gut [REDACTED] arms.
+DOCTOR: Good for you.  Well here's your weight in the last six months.  Looks like you were at 172, you worked your way down to 162, today we have you at 167.
+PATIENT: Yeah I don't know why that is.
+DOCTOR: Did you have everything on when they weighed you?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I didn't have no jacket on but still 167, I only weighed 160 before.
+DOCTOR: The key is to have always the same scale though.  Okay, so how often do you take your inhalers?
+PATIENT: Um twice a day.  The albuterol I take four times a day if not more.
+DOCTOR: Okay and you also get the formoterol twice a day?
+PATIENT: Right.
+DOCTOR: Do you think that helps you?
+PATIENT: Yeah.
+DOCTOR: Okay.  The finasteride for your cough just got mailed out to you and then they increased your Citron.  Trazodone, thiamine, terazosin, the Bactrim is an old one; you're not still on antibiotics right?
+PATIENT: No.
+DOCTOR: And you take the metformin every day?
+PATIENT: Yeah.
+DOCTOR: Okay.  Good.  Okay.  We're almost done, I just need to examine you and then we'll get you on your way okay.  I just want to make sure I've got a good idea of who you are and I think we're getting there.
+PATIENT: Yep.
+DOCTOR: Alright.
+PATIENT: I'm a funny old man.
+DOCTOR: Yeah but you know you're smart man, you know something.
+PATIENT: You know how I got smart?
+DOCTOR: How?
+PATIENT: Listen to John Text, did you ever hear of him?
+DOCTOR: Yeah but I've never heard that answer before.
+PATIENT: Yeah.  He made me the smartest one in the room.
+DOCTOR: Okay.
+PATIENT: I've been eating better and it makes me feel better.
+DOCTOR: I'll have you sit up here for me.  Actually this is too high, [REDACTED].  I'll lift up the back of your shirt here.  Yeah I think you're pretty up-to-date, you're getting pretty good care.  I was looking at your labs, they all look pretty up-to-date.
+PATIENT: The nurse takes my vitals every week.
+DOCTOR: What's that?
+PATIENT: The nurse takes my vitals every week.
+DOCTOR: Yeah no their good.
+PATIENT: And they're good.
+DOCTOR: Yeah, deep breath, let it out and in.  Do you [REDACTED]?
+PATIENT: Yes.
+DOCTOR: Any shortness of breath?  You take albuterol.
+PATIENT: Yeah.
+DOCTOR: Sometimes stable, getting worse, getting better?
+PATIENT: I got to quit.
+DOCTOR: You don't sound good.
+PATIENT: Yeah.
+DOCTOR: Have you ever tried  nicotine replacement - the patch?
+PATIENT: I have a habit, it's a profile.  I know [REDACTED].  It's just a lousy habit that I have.  I tried gum and I tried the pill and I tried [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: People, it doesn't hurt them [REDACTED] it might be worth a shot.
+PATIENT: I could try it.
+DOCTOR: What date do you want to try to quit, do you have a quit date?
+PATIENT: It was January 1st.
+DOCTOR: Here’s the thing, .
+PATIENT: [REDACTED].
+DOCTOR: Who do you see, the lung doctor?
+PATIENT: [REDACTED] yeah.  [REDACTED].
+DOCTOR: Now have you got swelling in your legs?
+PATIENT: Yeah.
+DOCTOR: How long?
+PATIENT: I got neuropathy.
+DOCTOR: That’s different. Swelling too?
+PATIENT: Yeah.
+DOCTOR: Which ones different?
+PATIENT: The right looks worse than the left one.  This ones a little bigger.  That hurts.
+DOCTOR: Push up, pull back, push up, pull back, pull back, relax your leg.  I'm going to have you take your shoes and socks off; we got to check your nerves okay.
+PATIENT: I was wondering can I get orthopedic shoes?
+DOCTOR: Don't see you see the podiatrist already?
+PATIENT: Podiatrist?  [REDACTED].
+DOCTOR: They're the ones; they have to fit you for one.  Let's see the last time you saw Podiatry, you saw them in October.
+PATIENT: ‘Cuz I'm lucky that these shoes fit me now.  Considering how swollen my feet are.  I got a pair of sandals that barely fit me.  So how long you been practicing?
+DOCTOR: My third year as a resident. When did you get these . . .
+PATIENT: Good.
+DOCTOR: Okay now let me get these us.  Now you have scheduled ultrasounds of your legs, and they didn’t get done. You need to get them.  They'll need to scan your legs.
+PATIENT: I never got an appointment.
+DOCTOR: Have you ever had an ultrasound done on your legs?
+PATIENT: In my lifetime I have yeah, not lately.
+DOCTOR: Year ago?
+PATIENT: Yeah.
+DOCTOR: Have you ever had an ultrasound of your heart?
+PATIENT: I had a heart scan.
+DOCTOR: Here?
+PATIENT: No.  Outside.  I had the results, I had them print them out if I can find them, email them to you.
+DOCTOR: Close your eyes, say yes every time you feel something.
+PATIENT: Yes, yes, yes, yes, yes, yes, yes, yes, yes.
+DOCTOR: Do you know who wanted to scan you legs cause there's all sorts of orders in the computer about scanning your legs.  Do you remember any of this? They might not have told you.  Vascular lab ordered by DOCTOR.
+PATIENT: Oh I saw the vascular doctor but I didn't have, I got another appointment coming up on the 12th.  I don't know what that's for.  If it's for a scan or it's for a follow-up visit.
+DOCTOR: Oh they wanted to see if you had cellulitis.  Well I'm going to – I agree with - What we do is we ultrasound your legs to make sure that you don't have a DVT.  A DVT is a blood clot.
+PATIENT: Right.
+DOCTOR: Do you snore at night?
+PATIENT: Not that I know of.
+DOCTOR: [REDACTED] heart disease right?
+PATIENT: No.
+DOCTOR: Here we go.  I'll have you put your shoes and socks back on and I'm going to go talk to my attending and I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT: 42:06  DOCTOR IN:  52:57)
+DOCTOR: Alright one more thing okay.
+PATIENT: Okay.
+DOCTOR: Page real quick.  (doctor answering a page)  That was the Vascular Lab.  What we want to do is really easy, non-invasive is we want to get um an ultrasound of your legs to make sure there's not a clot on this side and then also to check your blood pressure at different points to make sure that you're getting enough blood pressure.
+PATIENT: Okay.
+DOCTOR: Okay um.  That's number one.  Number two your diabetes is very well controlled, you told me and we confirmed.  There could be some side effects with other diabetes medications so you're on a pretty big dose of metformin and with the weight loss that you've had.  I want to cut it in half.
+PATIENT: I was thinking about doing that yeah.
+DOCTOR: Well good that means on day one you and I are on the same page.
+PATIENT: Hmm.
+DOCTOR: We'll cut in half, you're going to physically cut that pill in half, I'm going to change it in the computer.
+PATIENT: I take two pills a day.
+DOCTOR: Uh.
+PATIENT: I take one in the morning and one in the afternoon.
+DOCTOR: Oh right yeah, so you're gonna take a half a pill twice a day.
+PATIENT: Oh okay.  I hate cutting pills.
+DOCTOR: Well we’ll save you some money.
+PATIENT: Yeah.
+DOCTOR: We'll say you cut in half; um I don't think you need this much.  We'll get the ultrasound of your legs.  The other thing that once in a while that can cause some swelling in your legs is at one time you had an ultrasound.
+PATIENT: Can't I just take it once a day rather than in two halves?
+DOCTOR: Um, for yeah.  The way the drug works, the way it stays in your body, it makes more sense to take it twice a day.
+PATIENT: Okay.
+DOCTOR: It's also a lower dose so it won't be as big of a risk to your kidneys.  The problem is you have a much, here's why we're doing it, your lung disease causes your lungs not to get rid of acid in your body as well.  You retain what we call carbon dioxide which is an acid.  Metformin can affect your kidneys and do the same thing so you have a potential for some badness going on there but we don't want metformin to run into trouble with your kidneys okay.
+PATIENT: Okay.
+DOCTOR: That's why for you you're a little special in that you have not just the diabetes but also the lung disease.  I don't want too high of a dose of metformin.
+PATIENT: Okay.
+DOCTOR: And as the kidneys, you know if they struggle we're gonna have to cut down further.
+PATIENT: Yeah.
+DOCTOR: Um in addition to the ultrasound of your legs I want to get an ultrasound of your heart.  It's a different department okay. It's called an echocardiogram.
+PATIENT: Okay.
+DOCTOR: Similarly non-invasive.  They put some gel on your heart, like a pregnant woman looking at a baby, but their looking at your the beating of your heart.
+PATIENT: Alright, okay.
+DOCTOR: We'll schedule it.  I'm going to put that in for you.
+PATIENT: Alright.
+DOCTOR: That was, the ultrasound of the leg that was her who just called me, that's who paged me.  You already have an appointment so if you didn't get it in the mail yet, I'm gonna tell you the date.
+PATIENT: What is it?
+DOCTOR: Hold on, I'm retrieving.  January 12th 2:00 p.m.
+PATIENT: I have that date.
+DOCTOR: Okay, good.  Well that's good.
+PATIENT: I got three appointments that day.
+DOCTOR: Yeah you have PM&R, Urology and Vascular Lab.  You have all of those already.
+PATIENT: Right.
+DOCTOR: Okay.  So that's good.  So we'll plan on um uh following up on those results, doing the ultrasound of your heart, cut the metformin in half.  Now are you interested in me giving you the patch?
+PATIENT: Yeah.
+DOCTOR: Good.  How much do you smoke?  Oh is it a pack a day?
+PATIENT: No I'd say a pack and a half and three cigars.
+DOCTOR: Okay.
+PATIENT: I'm smoking all day you know.  It's just the cigars last a long time.
+DOCTOR: Well if you quit you know you have to quit.  You have to quit everything right?
+PATIENT: Yeah.
+DOCTOR: Do you want me to mail it or do you want to pick it up at the window?
+PATIENT: Mail them.
+DOCTOR: Okay.  What I'm gonna do is I'm mailing you two different types of patches okay.  I'm mailing you the medium dose for a person who smokes fairly heavily like yourself, the 14 mg nicotine patches, that's like the medium dose and you're on that.  So what day do you think you're gonna quit?
+PATIENT: Well I won't get it for another ten days you know.
+DOCTOR: It's always good to schedule a date so that you're looking ahead.
+PATIENT: My birthday is January 26th.
+DOCTOR: Perfect, I like that.  So it will be there by then.  So you're gonna quit on your birthday.  I'm going to give you two weeks of the high dose and then two weeks of the low dose so obviously once you've finished the two weeks of the high dose and I have confidence you're still gonna be not smoking you're going to go down to the low dose.
+PATIENT: Okay.
+DOCTOR: So four weeks and I'll give you one refill on the low dose so you can extend the patch out to six weeks if you think it's gonna help you.
+PATIENT: Say that again.
+DOCTOR: So it's two weeks of the high dose and then two weeks of the low dose and then I'll give you one refill if you want another two weeks of the low dose.
+PATIENT: Okay.
+DOCTOR: You might not think and I agree with you, you might have [REDACTED] nicotine but it has a psychological affect on you that's why it helps to be on the patch.
+PATIENT: Okay.
+DOCTOR: So it's going to increase the likelihood of you succeeding by using this.  Your lungs are in the battle for your life so.  The day you quit the next week you're going to be coughing a lot more, that's the nature of the beast.  It takes a week to cough all that stuff up okay.
+PATIENT: Excuse me.
+DOCTOR: Um.  I don't necessarily – how I can see you back here in about three months and we'll go over everything okay.
+PATIENT: Alright.
+DOCTOR: And before that appointment in three months I'll have you get some lab work done here okay.
+PATIENT: Again?
+DOCTOR: You don't need it today, I mean in three months or so.
+PATIENT: Okay.
+DOCTOR: Yeah I'm not gonna; I won't make you a pinball or whatever you call it.  Yeah we need to check your kidney function and I'm going to check your prostate blood level that your urologist checked okay and let's see what else.  I'm gonna check how your diabetes is doing cause we're pulling back on the metformin and I don't need to check your cholesterol because it was just checked and it was normal okay.
+PATIENT: Alright.  There's a lot going on on me isn't there.
+DOCTOR: There is but you know what I'm confident that it's all pretty stable.  The biggest problem are your lungs and that's why you're gonna quit smoking right.
+PATIENT: Hey.  I sent out an e-mail that I was quitting January 1 and I heard a response from everybody yeah.
+DOCTOR: Here's the deal though okay.  I give you a lot of credit for trying.  Because we're stubborn and don't want to try.  You know the average time it takes to quit smoking it takes seven attempts.
+PATIENT: That's what my lung guy says.  They quit every Monday.
+DOCTOR: So [REDACTED].
+PATIENT: My nurse that visits me every Monday [REDACTED].
+DOCTOR: No you got it together.  You know what's going on with your health, you're a smart guy, I think you're gonna do this and the other thing I tell people the truth and I just met you for the first time but I think I.
+PATIENT: I need that drug list.
+DOCTOR: Okay.
+PATIENT: Cause my nurse.
+DOCTOR: I'm gonna say follow up with me in three months, follow up with labs in three months so you'll come in the day you see me, come in for the lab work.  That won't be a fasting work.
+PATIENT: Come in the same day for the lab test.
+DOCTOR: Yeah, we'll see you at 2:00 come in at lunch time okay.
+PATIENT: Okay.
+DOCTOR: Come into the lab at 1:00 and then come see me.  You don't need to be fasting for this next one okay.  I think you know the metformin dose change everything else is up-to-date.  You keep these.  The ultrasound of your legs, the ultrasound of your heart and I think we're in good shape and I'll send out the nicotine patches your way okay.  That's for you and you can check out up front.  They're going to reschedule your appointment to see me in three months and the lab you don't need an appointment okay.  [REDACTED] to get the labs done okay.
+PATIENT: Yeah before I forget.
+DOCTOR: [REDACTED].  Oh no that's for you.  You can just bring this to the front desk okay.
+PATIENT: Oh okay.  You need to sign that.  It's been a pleasure.
+DOCTOR: My pleasure, nice to meet you.
+PATIENT: Where did you get all the other patients from?  Everybody is coming around here.
+DOCTOR: Yeah, we're key [REDACTED].
+PATIENT: I gotta go to the can.
+PATIENT: 62:15.
+Time is 3 o'clock.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235337
+TRANSACTION # 578-10-2-316-0103

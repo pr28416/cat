@@ -1,0 +1,117 @@
+DOCTOR: Hi.
+PATIENT: Hi.
+DOCTOR: It’s high! Aw come on, you know [REDACTED] blood pressure.
+PATIENT: Okay.
+DOCTOR: Have you been taking your medicines?
+PATIENT: Yeah.
+DOCTOR: Did you take them today?
+PATIENT: Yes.
+DOCTOR: Oh.  You look like you've gained some weight.
+PATIENT: Maybe just.
+DOCTOR: You look fuller in the face.
+PATIENT: Yeah?
+DOCTOR: Yeah.  Let me look at your legs today.  Oh your legs they look good.  I was worried [REDACTED].  Now you look okay. They look the same.  Maybe it's just me, seeing things.  You're okay.  What's up, what's new?
+PATIENT: Not much.
+DOCTOR: Nothing?  So you're taking your medicines for sure?
+PATIENT: Yes.
+DOCTOR: Oh.  So your weight from the last year.  Yeah I know you were trying to get down to 170 pounds, so that's up good.  Let me recheck your blood pressure.  Can you take off your jacket for me?  Okay, crawl up here.  Anything new at home?
+PATIENT: No.  I guess that's the main thing.
+DOCTOR: Do you have family coming here?  How many pills do you take for your blood pressure a day?
+PATIENT: One.
+DOCTOR: Supposed to be taking two, maybe that's why.  Did you run out of one?  You're supposed to be on . . .
+PATIENT: Lisinopril.
+DOCTOR: I might have just stopped one of your pills cause your blood pressure was low last time?  No?  Now your blood pressure has been high.  I want to know what happened.  You're supposed to be on two of them.
+PATIENT: The one I take is refillable.
+DOCTOR: Okay.  That is not as bad.  Let me take it on the other arm.  Any headaches, weakness, vision changes or anything like that?
+PATIENT: Nope.
+DOCTOR: Okay.  So they used to have you on uh two pills.
+PATIENT: Yeah.
+DOCTOR: And then I guess they took one of them off probably because you were low and you were dizzy too.  But, if you're, if it's really this high again I might have to start a new one.  Just relax your arm, relax it.  Cause actually that hydrochlorothiazide they now have a combo pill so I can give you one now that has a combination of two so, maybe that's a good option.  Okay.  Not bad.  Not as bad as too low yeah, better than.  Have you been eating high salt food or anything?  Let’s see, I’ll listen to your heart and lungs.  High salt foods or anything like that?
+PATIENT: Not that I know of.
+DOCTOR: Swelling in your legs or anything like that?
+PATIENT: No.
+DOCTOR: Heart sounds good.  Deep breath, now deep breaths.  Deep breath, deep breath.  Okay.  Not having any bad thoughts of wanting to hurt yourself or anything right?  Okay good.
+PATIENT: I have to keep my [REDACTED].
+DOCTOR: It's cold out there huh.
+PATIENT: Yes.
+DOCTOR: There you go.  Yeah it's on the little high side.  Let's um, let's do that combo pill, what'd think?
+PATIENT: Okay.
+DOCTOR: Okay.  Is everything else okay?  Nothing else you want to talk about today?  Everything is doing well?
+PATIENT: Yes.
+DOCTOR: I mean, except for your home [situation] . . .
+PATIENT: Yeah.
+DOCTOR: Always talk about that, ad nausem right.
+PATIENT: Yep.
+DOCTOR: You're visiting with your son?
+PATIENT: Yes.
+DOCTOR: So I know they watch out for you.
+PATIENT: I had a visit from the county.
+DOCTOR: Oh yeah.
+PATIENT: Uh-huh.
+DOCTOR: Um by who?
+PATIENT: His name?
+DOCTOR: Yeah like what do you mean the county?
+PATIENT: Human Service.
+DOCTOR: Okay, that's the Department of Aging?
+PATIENT: Yes.
+DOCTOR: Okay.  Did they come up with anything new?
+PATIENT: No, just turned the situation over to another group.
+DOCTOR: Yeah.
+PATIENT: Who hasn't contacted me yet.
+DOCTOR: Oh, okay.  Evaluating what's going on at home?
+PATIENT: Yes.
+DOCTOR: Um do you want to pick it up today or you want a mail it at home?
+PATIENT: Whatever you want.
+DOCTOR: You can, let's just mail it.  Just continue what you're taking now and then you can stop it and take the new one okay.  And I'll have you come back in a month to get your blood pressure checked again.  Alrighty then.  Were you hiking up a storm coming up here?
+PATIENT: No.
+DOCTOR: No okay.  Yeah we'll mail it to your house and then when you come here in a month we'll get some blood work done okay?  So we'll do it all at once then.  Are you doing anything fun for the holidays?
+PATIENT: No.
+DOCTOR: Going anywhere?
+PATIENT: Nope, nope.
+DOCTOR: No.  Do you and your family celebrate Thanksgiving pretty good?
+PATIENT: No.
+DOCTOR: No, not really.  And you got your flu shot right?  Good.  And you're taking your aspirin every day right?
+PATIENT: Yes.
+DOCTOR: Good.  And alright, I don't think there's anything new I want to add at this time um.
+PATIENT: When this new one comes then I should discontinue the one that I'm.
+DOCTOR: Yes, just stop it and um I'll get some uh cholesterol too in a month.
+PATIENT: Okay.
+DOCTOR: Okay and that way um, just make sure you fast the night before okay.  But don't do like that one time, remember.  Where you didn't eat for like two days.
+PATIENT: (Laughs)
+DOCTOR: I mean if you run off you drink water, I'm okay you know.  Don't dehydrate yourself.
+PATIENT: Okay.
+DOCTOR: But after you have dinner that night, just so you know, have some water and that's okay alright.  Don't, don't do that anymore.  Remember that was bad.
+PATIENT: (Laughs)
+DOCTOR: That was bad.  Okay, and that will take us right before Christmas. You’re doing really well so.  I'll see you again in six months, what'd think, yeah?  So you don't have to come back too much and we'll check your blood pressure in a month.
+PATIENT: Okay.
+DOCTOR: And that will be the last time you see me I think, let's see November, December, January, February, March, yeah.  That'll be the last time cause I'm done next year and you'll get another resident so.  Alright, I'll be right back okay PATIENT.
+PATIENT: Yep.
+DOCTOR: You're 77 huh?  You're doing good.
+PATIENT: (Laughs)
+DOCTOR: You're doing good.
+(DOCTOR OUT: 36:19  DOCTOR IN:  40:51)
+DOCTOR: Hi PATIENT.  We're all done.  So I'll see again in six months okay?  No [REDACTED] again if I don't call you okay?  Cholesterol, you don't need a refill?
+PATIENT: No, no.
+DOCTOR: Cholesterol.
+PATIENT: Yeah and that's not the one that you.
+DOCTOR: No, so it's this one that you stopped here, yeah, your blood pressure medicine.  Stop after new one arrives.
+PATIENT: New arrival.
+DOCTOR: Alright?
+PATIENT: Okay.
+DOCTOR: Well so you take care.  You have a great holiday okay.
+PATIENT: Okay.
+DOCTOR: Alright, you take care.
+PATIENT: Okay.
+(Laughter from both)
+DOCTOR: [REDACTED].  There you go.
+PATIENT: Okay.
+DOCTOR: I'll see you later okay, stay warm.
+PATIENT: You too.
+DOCTOR: [REDACTED]
+PATIENT: Yeah.
+DOCTOR: 42:15
+The time is 1 o'clock.
+DD: @@/@@/@@
+DT: 0@@/@@/@@
+INFOPRO/JOB#  1235288
+TRANSACTION # 578-10-2-316-0103

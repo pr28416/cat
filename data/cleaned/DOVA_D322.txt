@@ -1,0 +1,267 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: Hi how are you today?
+PATIENT: There you are.  [REDACTED] Good doctor yes.  Hi.
+DOCTOR: This way, have a seat I haven't seen you.  It's been a long time.
+PATIENT: Yeah a long time geez.  I'm getting tired of waiting.
+DOCTOR: Oh, [REDACTED].  A lot of times we don't have a lot of openings.  We only have the clinic twice a month so.
+PATIENT: Yeah.
+DOCTOR: Not very many.
+PATIENT: Yeah and I'm coming back once a year so they have to keep adjusting the med and they take good care of me.
+DOCTOR: Yeah, I saw that.  How you doing?
+PATIENT: I'm okay.
+DOCTOR: Yeah, how many times have you been to the Emergency Room?
+PATIENT: Uh twice since the last time I saw you.
+DOCTOR: Okay.
+PATIENT: [REDACTED] more things since [REDACTED] October.
+DOCTOR: Two times in the last five months maybe.
+PATIENT: Uh-huh.
+DOCTOR: For exacerbations?
+PATIENT: Yes.
+DOCTOR: You've gotten worse.
+PATIENT: Yeah.  Well I think it's got something to do with where I work.
+DOCTOR: Okay, yeah.  I forgot what you said, um grinder.
+PATIENT: Yeah.
+DOCTOR: United Standard Industry grinder, exposed to a lot of dust.
+PATIENT: Dusts, chemicals.
+DOCTOR: Yeah and uh.
+PATIENT: People with a lot of cologne on and everything.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Let me look, it looks like you went to the ER in June and March and in June they did prednisone.  They gave you antibiotics [REDACTED].  How do you think that went, did that help?
+PATIENT: Worked good.
+DOCTOR: Okay and how do you feel right now?
+PATIENT: Uh, [REDACTED] outside, I'm in air conditioning now so.  It's like 95 degrees [REDACTED].
+DOCTOR: The albuterol inhalers?
+PATIENT: Yes. [REDACTED].  At one point [REDACTED].  But otherwise I'm doing good.
+DOCTOR: Any coughs?
+PATIENT: Yeah I get a cough.
+DOCTOR: How bad?
+PATIENT: Ah sometimes I wake up in the middle of the night coughing and I take the inhaler.
+DOCTOR: Is it improved with the inhaler?
+PATIENT: Yes.
+DOCTOR: And in general how's your exercise tolerance, can you walk without getting short of breath?
+PATIENT: Well yeah.
+DOCTOR: About how far can you walk?
+PATIENT: I don't know, I'm used to walk about a mile or two.  I need to walk to one end of the shop and the the other [REDACTED] and back again [REDACTED].
+DOCTOR: So you can walk?
+PATIENT: Yes.
+DOCTOR: Pretty good.
+PATIENT: Yes.
+DOCTOR: You don't feel limited by your breathing?
+PATIENT: No.  It depends on what I'm doing.  Like if I'm moving something heavy then, yeah moving something heavy.
+DOCTOR: Okay and you're taking the Combivent?
+PATIENT: Yeah.
+DOCTOR: The albuterol and the formoterol.
+PATIENT: [REDACTED] one, I discontinued one [REDACTED].
+DOCTOR: Oh.  [REDACTED] refills. Do you need some. I’ll just refill that.
+PATIENT: Um.  [REDACTED].
+DOCTOR: I want to make sure you have enough so that you don't have to keep calling, you now to get hold of me.
+PATIENT: I have to come [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Oh.
+DOCTOR: You already had the formoterol they gave you a six months [REDACTED].  And I just gave you refills for the other ones.
+PATIENT: Oh okay.
+DOCTOR: Anything else going on? any chest pains, fevers or chills?
+PATIENT: No you know just the heat.  Break out in a cold sweat you now and hopefully by the time I get to work tomorrow [REDACTED].
+DOCTOR: I hear you, it's hot out.  Is it a hot day.
+PATIENT: Oh yeah.
+DOCTOR: I haven’t been outside [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Not since this morning.
+PATIENT: My [REDACTED] was 95.  [REDACTED].
+DOCTOR: Any trouble with weight loss or weight gain?
+PATIENT: Uh you know I think I still stayed the same.
+DOCTOR: So how's your appetite?
+PATIENT: Uh you know the other day I don’t eat a lot [REDACTED].
+DOCTOR: But at night you eat a real meal?
+PATIENT: Yeah late night [REDACTED].
+DOCTOR: Still smoking?
+PATIENT: Yeah still working on it.
+DOCTOR: Um.
+PATIENT: [REDACTED].
+DOCTOR: What do you want to do to quit?  How else can I help you?
+PATIENT: Well I had the patches, but I still got some of those.  I use [REDACTED].  I put one on [REDACTED] I change it and tried it when I go to work [REDACTED].  Mooching off me and [REDACTED].
+DOCTOR: Would you want to see the Smoking Cessation Clinic here?  Maybe they have.  I mean I can offer you patches and [REDACTED] drugs but they may have some different method of um smoking cessation like using behavioral modification or.
+PATIENT: No, I’m gonna try it on my own.
+DOCTOR: Okay.
+PATIENT: I'm not sure [REDACTED].
+DOCTOR: How much are you smoking?
+PATIENT: Uh about maybe a half a pack a day now.  I've cut down.
+DOCTOR: Okay.
+PATIENT: One week, I had it down to like three cigarettes but then [REDACTED].
+DOCTOR: It's hard, I mean I've never smoked so I don't really know a lot about it but, from what I hear it's hard to [REDACTED].
+PATIENT: Since I was 13.
+DOCTOR: Yeah but it would improve your lung function.
+PATIENT: Uh-huh.
+DOCTOR: You know your lung function will continue to deteriorate at a rapid rate if you keep smoking.  If you stop smoking it kind of goes back to the normal deteriorating rate, you know if you hadn't smoked so.
+PATIENT: Now did you get my medical forms?  I brought in my uh medical stuff from my other doctor and she said she was going to give it to you.
+DOCTOR: Let me look.  Nothing is in my mailbox right now, when did you bring it in?
+PATIENT: Well last.
+DOCTOR: Long time ago?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: The first time I went to the Emergency Room [REDACTED] follow-up.
+DOCTOR: And then you saw me.
+PATIENT: No I saw somebody else, DOCTOR.
+DOCTOR: Oh, between me and the.
+PATIENT: Yeah.
+DOCTOR: Oh you saw DOCTOR.
+PATIENT: No I didn't see a doctor, another girl but.
+DOCTOR: Yeah the resident.
+PATIENT: Then I came back one day I had an appointment with you but then it was cancelled so then I got in to see the nurse and I gave the nurse the forms [REDACTED].
+DOCTOR: Let me look for that.
+PATIENT: Yeah if you could.  My doctor [REDACTED] 50% [REDACTED].
+DOCTOR: Well we were going to repeat the PFTs but I don't think that's been done yet.  The order is in.  Oh, it’s active.  Let me see if I can find it.  Oh you didn't show up, maybe you didn't know.  When they set you up for an appointment on 03/11 at 2 o'clock but it says you didn't show up.
+PATIENT: I didn't get anything.
+DOCTOR: Here why don’t we redo the order.  We need to check your lung function.
+PATIENT: This time I got one, I was going to be on vacation then and now I have to take off and I'm losing money [REDACTED].
+DOCTOR: Well, it doesn't take very long.  [REDACTED] 15 minutes.
+PATIENT: [REDACTED] day off [REDACTED].
+DOCTOR: Yeah.  Want to hold off for now?
+PATIENT: Let's hold off for now and uh.
+DOCTOR: If your symptoms start to change then we'll make more of an effort to.
+PATIENT: Yeah, [REDACTED].  I'd like to hang on until January when I have vacation time.
+DOCTOR: Let me check your vitals.  Blood pressure is a little high; I just want to recheck it.  Looks like we checked some labs back in February. Blood work.It looks like your blood counts look good.  Your kidney function is good.  Your cholesterol looks good.  We want this number under 200 and [REDACTED] under 160 and its 100 and this is your good cholesterol the HDL and yours is great.  That's like the best good cholesterol I've ever seen.  Well that's another thing we probably need to talk about um.  How much are you drinking?
+PATIENT: Uh maybe four drinks a week.
+DOCTOR: So last time you told me eight so that must be getting better.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Well maybe chest x-ray [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Why did we do the CAT scan again?
+PATIENT: Uh.
+DOCTOR: Oh the weight loss.
+PATIENT: Yeah.
+DOCTOR: Huh, right.  But they didn't see anything.
+PATIENT: [REDACTED].
+DOCTOR: Well they saw like some degenerative joint disease in the spine which happens as people get older.  You get a little bit of arthritis, just like you would get in you know your knees and spine.  So if that becomes a problem you have to let me know.
+PATIENT: I get it once in a while, right in my lower back.
+DOCTOR: Okay.  I think it was about here where they saw it.
+PATIENT: I just get it once in a while.
+DOCTOR: [REDACTED] and the treatment for that would be taking something like Tylenol or ibuprofen.
+PATIENT: Oh.
+DOCTOR: Or Naproxen or something like that.  Uh, okay.  I'd forgotten about that.  So it looked okay.  Good.  The PFTs we'll need to do it later okay.  Okay, what else were we going to do?  Oh did you see Mental Health?
+PATIENT: No I didn't.
+DOCTOR: Do you feel depressed at all?
+PATIENT: Just [REDACTED].
+DOCTOR: Okay so normal.
+PATIENT: Yeah, just the normal feelings.
+DOCTOR: No feelings of hurting yourself.
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: I'm going to check a couple other things here while you're here.  They checked your prostate gland it looks fine.  They checked your thyroid and it looks good.  The cholesterol we talked about.  They checked your vitamin levels, sometimes when you drink beer you don't get the right vitamins.
+PATIENT: Yeah.
+DOCTOR: That all looked good.  So far so good.
+PATIENT: I’m going to live.
+DOCTOR: Yeah, you just quit smoking though really, we talked about that so.
+PATIENT: Yeah I know.
+DOCTOR: Uh now a colonoscopy, what do you think about that?
+PATIENT: No.
+DOCTOR: So you're still thinking about it.
+PATIENT: I'm still thinking about it.
+DOCTOR: Okay.  Um everything else looks good.  Well, let me take a listen to you.  You don't drive after you drink or anything like that?
+PATIENT: No I don't believe in that.  [REDACTED].
+DOCTOR: No.  You don't need it and neither does anyone else on the street.
+PATIENT: Yeah I know, my twin brother got a warrant out for his arrest so he used my name and put [REDACTED] under that and now, since he was here, he died here and he got the warrant out it's on me now too.
+DOCTOR: Oh my goodness.
+PATIENT: So whenever they look for my license plate, his name comes up and my name comes up and I get pulled over and I end up going back to the station and everything so.
+DOCTOR: Oh my God.  Is this recent?
+PATIENT: Uh nine years ago is when he died up here.
+DOCTOR: Oh man.
+PATIENT: And uh, he was a bad boy.
+DOCTOR: Well he's your brother.
+PATIENT: Yeah, messing around.  Ever since he got his Drivers License when he was 1.
+DOCTOR: He was trouble.
+PATIENT: [REDACTED].  But every time he got, every time he got arrested.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: No.  I think he had a [REDACTED] Vietnam. [REDACTED]
+DOCTOR: When people [REDACTED] react [REDACTED].  Can you see [REDACTED]
+PATIENT: Yeah I can see something bright, like on a bright day, I [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: That's really weird, I didn't notice that last time.  We always worry about people if they aren’t symmetrical [REDACTED] their brain.
+PATIENT: Right.
+DOCTOR: It's a big problem, but if you've had it for a long time so.  You know.  Not to scare you, I am sure it is fine.
+PATIENT: No it never bothered me.
+DOCTOR: Take a deep breath, again.  Breathe normally.  Let's repeat your blood pressure.  All my patients in the hospital right have to have blood pressures.  I've been repeating them all day.
+PATIENT: Uh-huh.
+DOCTOR: Getting really good at it.
+PATIENT: [REDACTED].
+DOCTOR: Huh?
+PATIENT: Wife's was 247/197.
+DOCTOR: Oh my God at home?
+PATIENT: No she's in the hospital.  She had an infection on her leg [REDACTED].
+DOCTOR: I had someone come into the clinic with a blood pressure like that.  [REDACTED].  It's 120/90.
+PATIENT: [REDACTED].
+DOCTOR: Yeah it could be the stress of parking and getting in here.  Okay.  I got to make sure we don’t need to treat you.  Otherwise you feel pretty good?  Your lungs sound good.
+PATIENT: Yeah.  Doing good.
+DOCTOR: Okay and no blood in the stool or anything?
+PATIENT: No.
+DOCTOR: So think about the colonoscopy.  I mean I can't force you but it's always a good idea to look.
+PATIENT: Yeah I know, my boss was telling me that.
+DOCTOR: Yeah, well early detection is nice because they pull the polyp out and it's gone so.
+PATIENT: Yeah.
+DOCTOR: So yeah.
+PATIENT: But um.  I was going to ask you, how bad, I mean the lowest blood pressure how low can it go?
+DOCTOR: Well.
+PATIENT: To where it's bad.
+DOCTOR: For you you mean?
+PATIENT: No my wife, she's been on medication.
+DOCTOR: It's kind of dependent on symptoms uh for her, once you hit below like 90, the top number 90.
+PATIENT: Uh-huh.
+DOCTOR: Then you kind of have to start to worry that maybe the blood pressure medicine is too much and especially if she feels lightheaded when she stands up.
+PATIENT: Uh-huh.
+DOCTOR: Or feels like she's going to pass out, you know that kind of feeling then you have to worry if the blood pressure medicine is too much.
+PATIENT: Okay.
+DOCTOR: So.
+PATIENT: I wish I could get her here [REDACTED].
+DOCTOR: And sometimes too if you, if you want, just kind of like that's what we do here in the hospital but if you take her blood pressure lying down.
+PATIENT: Uh-huh.
+DOCTOR: And then have her stand up and stand for like two minutes and then take her blood pressure standing up, those numbers should be almost the same.  If the blood pressure standing up is a lot lower like 20 points lower then she's probably on too much medicine okay.
+PATIENT: Okay.  Thanks.
+DOCTOR: So you could try that and at least  you’ll know.  So I'll be right back okay.
+PATIENT: Alright.
+DOCTOR: Five minutes.
+PATIENT: Okay.
+DOCTOR: I'm the only one here so.  Real quick.
+(DOCTOR OUT:  39:36  DOCTOR IN:  44:08)
+DOCTOR: Okay, you're good, nothing new.
+PATIENT: Alright.
+DOCTOR: When do you think you should come back.  Do you want to try and do six months?
+PATIENT: Yeah.
+DOCTOR: Okay if something happens obviously.
+PATIENT: Oh yeah.
+DOCTOR: Come back sooner.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Or I mean, do you think you can handle waiting to see me or something just try and make an appointment sooner.  If you need to come to the ER, come to the ER.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Okay.
+PATIENT: The only time I do that is if I get really congested at night [REDACTED] these things are working or the albuterol is running out.
+DOCTOR: Yeah well if you run out call and I'll refill them.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: That's the easiest.
+PATIENT: Alright I'll be doing it online.
+DOCTOR: Okay, yeah do.  Renew but if they tell you you have no refills.
+PATIENT: Uh-huh.
+DOCTOR: Then you have to call and they will contact me to renew it.
+PATIENT: Oh okay.
+DOCTOR: So you should have enough for six months then.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright great.
+DOCTOR: Alright, there you go.  Nice job.
+PATIENT: Okay.  Good to see you again.
+DOCTOR: Alright, good to see you.  Enjoy the summer.
+PATIENT: You too.
+DOCTOR: Stay cool.
+PATIENT: I'm trying.
+PATIENT: 45:13
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238117
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,92 @@
+DOCTOR: So what brings you into the family clinic today?
+PATIENT: Yeah, I've had this sore throat for the past three days and it doesn't seem to be getting any better at all. I feel sort of feverish so. I just thought I should come in and get this checked out.
+DOCTOR: OK, and when did you start having this sore throat?
+PATIENT: Three days ago.
+DOCTOR: OK, and how about the fever?
+PATIENT: The fever I noticed maybe a day back.
+DOCTOR: OK, and did you get any temperature measurements?
+PATIENT: I didn't take any myself. But I felt hot, and I felt chills.
+DOCTOR: OK, and have your sore throat or fever gone worse at all?
+PATIENT: I think it's getting worse, yeah.
+DOCTOR: And does it usually happen during the day, throughout the night or does it have any sort of pattern?
+PATIENT: I would say that it doesn't really have a pattern. The sore throat is always there and the fever started a day back and it seems to break sometimes, but right now there is no real pattern to it.
+DOCTOR: OK. And besides that, do you have any cough?
+PATIENT: No, no cough.
+DOCTOR: OK, and have you tried anything that has helped you at all?
+PATIENT: I tried just like those Lozenges and seems to be helping just soothe my throat, but it's a temporary relief.
+DOCTOR: OK. And have you had anything like this happen to you before?
+PATIENT: No, nothing like this.
+DOCTOR: And is the sore throat constant? Or does it come and go?
+PATIENT: I would say it's pretty constant now.
+DOCTOR: OK. And have you been around anyone that has been sick recently?
+PATIENT: Not that I know of.
+DOCTOR: Anything that makes your sore throat worse?
+PATIENT: I guess swallowing foods makes it worse, or at least it's painful.
+DOCTOR: OK. And have you at all noticed any like swelling around your neck region, like swelling of your lymph nodes?
+PATIENT: So yeah, not swelling of my entire neck, but I have felt some lumps in my neck.
+DOCTOR: OK, and how about any swelling anywhere else on your body?
+PATIENT: Nowhere else.
+DOCTOR: OK, have you noticed any kind of skin changes like rashes or anything like that?
+PATIENT: No.
+DOCTOR: OK. And have you traveled at all recently?
+PATIENT: No, nowhere.
+DOCTOR: OK, do you have any headaches or nausea or vomiting?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and any night sweats.
+PATIENT: No.
+DOCTOR: And do you feel fatigued like increased tiredness at all?
+PATIENT: Umm, yeah, I've been feeling really tired.
+DOCTOR: OK, any chest pain or feeling that your heart is racing?
+PATIENT: No, nothing like that.
+DOCTOR: OK. Any issues with bowel movements, like any diarrhea or constipation?
+P No, no, that's been normal.
+DOCTOR: OK, any changes in your urination?
+PATIENT: No, no changes.
+DOCTOR: Have you been getting sleep at night or do you have to keep waking up?
+PATIENT: Um, I've been getting OK, I sleep like, I've been sleeping about 7 to 8 hours.
+DOCTOR: OK. And how about your appetite?
+PATIENT: I would say that's been OK as well, it's just hard to eat a lot of food because of this sore throat.
+DOCTOR: And is it just with solids or do you get the soreness with liquids too?
+PATIENT: I would say mostly with solids, sometimes with liquid. If it's like really cold or something.
+DOCTOR: OK. Do you have any kind of allergies to anything in your house like carpets, pets or anything like that?
+PATIENT: No.
+DOCTOR: OK, have you had any recent infections like a cold?
+PATIENT: No.
+DOCTOR: No, OK. And do you have any past medical conditions?
+PATIENT: Um, I have Crohn's disease.
+DOCTOR: And when did you get diagnosed with Crohn's?
+PATIENT: That would have been last year.
+DOCTOR: Last year, OK. And are you taking any medications for your Crohn's disease?
+PATIENT: I am on something for it, I think it's Sulfasalazine or something like that.
+DOCTOR: OK. And any other medications besides that?
+PATIENT: Uhm, no, I don't think so.
+DOCTOR: Any previous hospitalizations or surgeries?
+PATIENT: Um, I had a colonoscopy done. I just needed hospitalization for just the day I guess.
+DOCTOR: OK, and when was that?
+PATIENT: That was also last year.
+DOCTOR: Last year, OK. And do you have any family history of any conditions that run in the family? Like do you have any Crohn's disease or Ulcerative Colitis that run in the family?
+PATIENT: Yeah, both do.
+DOCTOR: Both do, OK. Any anything else that runs in the family?
+PATIENT: Uhm, I know there's some asthma and eczema that run in the family too.
+DOCTOR: OK. And you mentioned you haven't been around anyone that was sick or recently got sick?
+PATIENT: No.
+DOCTOR: OK. And where do you currently live?
+PATIENT: I live in an apartment by myself. Sorry, not by myself, with my parents and my younger brother.
+DOCTOR: And do you at all drink alcohol?
+PATIENT: No, I drank once or twice in the past, but I didn't like it. It makes my Crohn's worse so I stay away from it.
+DOCTOR: OK, and do you smoke cigarettes?
+PATIENT: No.
+DOCTOR: And how about any other drugs like marijuana?
+PATIENT: No.
+DOCTOR: OK. Alright, so do you partake in any like sports or activities or anything like that?
+PATIENT: Um, I swim.
+DOCTOR: OK, any contact sports?
+PATIENT: No.
+DOCTOR: OK. Alright, so yeah, overall it seems that you had this sore throat which is constant, getting worse and a bit of a fever in th last one or two days and you've also had swelling in your neck and so yeah, do you have any other questions or concerns?
+PATIENT: No, like what do you think I have? Do you think it's COVID?
+DOCTOR: Yeah, so definitely at this time, you know whenever people have any respiratory symptoms we always want to rule out COVID.  So will definitely get a swab for COVID testing done for you today which should come back within 24 to 48 hours and in the meantime you should self isolate. And other than that, it can also be, due to this swelling in your lymph nodes and also just the other symptoms, it can be other viral infections. It can be mono so we definitely have to do a couple of tests, and there's one test that will do for mono as well which is called EBV antibody testing. So we'll do a couple of these tests today and then see what what comes back. And in the meantime you should definitely self isolate if you haven't been doing so already.
+PATIENT: OK, sure I can do that.
+DOCTOR: Yeah, do you have any questions?
+PATIENT: No, that sounds good. Thank you so much.
+DOCTOR: You're welcome. Take care.
+PATIENT: You too.

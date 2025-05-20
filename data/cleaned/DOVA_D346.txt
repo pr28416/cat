@@ -1,0 +1,142 @@
+DOCTOR: I'm DOCTOR.
+PATIENT: How are you?
+DOCTOR: I'm good how are you?
+PATIENT: Fine thank you.
+DOCTOR: A follow-up right?
+PATIENT: Yes.
+DOCTOR: How are you doing today?
+PATIENT: I'm fine thank you doctor.  But I have the same issues though.
+DOCTOR: Oh.
+PATIENT: My hands are locking up.
+DOCTOR: They are?
+PATIENT: My  feet are tingling, my hands are tingling.
+DOCTOR: Okay.  But the pain is getting worse?
+PATIENT: It's getting worse yes.  In the wintertime it gets worse [REDACTED].
+DOCTOR: Cause you are on, neuropathic pain uh neuropathic pain medication [REDACTED].  So you are on, let's see and you're taking this.  So how long have you been on that medication, the [REDACTED]?
+PATIENT: What is it?
+DOCTOR: It's uh it's kind of like uh, anti-depressant.
+PATIENT: I've been on that for four months.
+DOCTOR: Is it helping?
+PATIENT: Yes it is.
+DOCTOR: So that's supposed to not only help you with depression but also pain.
+PATIENT: Okay well.
+DOCTOR: Yeah, so it is helping then?
+PATIENT: Yeah it's helping.
+DOCTOR: Okay and then um so where exactly is the pain?
+PATIENT: It's in the hands.  When my hands, sometimes during the day my hands lock up and I can't open them and so I'll [REDACTED] or something.  But when it gets real cold outside I'm having the same issues or even when it's real hot they'll lock up.  I've had all of the tests done and they don't know what it is.
+DOCTOR: Hmm.
+PATIENT: And I was supposed to have another test done in three months, and it’s been a little more than three months.
+DOCTOR: Hmm.  But what uh.
+PATIENT: The E-E.
+DOCTOR: The ECG [REDACTED] the EMG.
+PATIENT: EMG yes.
+DOCTOR: Okay a nerve conduction test.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: [REDACTED] my surgery, I don't know what that [REDACTED] more medicine or whatever but at night my [REDACTED].
+DOCTOR: Uh-huh.  So we can do the test okay.
+PATIENT: Okay.
+DOCTOR: So um [REDACTED] your glycosylated hemoglobin A1c it shows you know your blood sugar for the last three months and this was done in September, it was six, which is really good okay.  So we can um [REDACTED] for the next one, we can you know we can do it now and see what it is and if you think it is going up [REDACTED].
+PATIENT: My monitor.
+DOCTOR: Yeah.
+PATIENT: At night it's higher than usual, it's actually a little higher.  Higher than it usually is.
+DOCTOR: Okay.
+PATIENT: It usually runs about 125 and now it's in the 150s sometimes 180.  I'm not sure but the whole day that I’m doing [REDACTED].
+DOCTOR: Nothing else has changed, you’re still your eating is the same?
+PATIENT: Yes, yes.  I’m gaining weight and I don’t know why [REDACTED] not eating more.
+DOCTOR: Uh-huh.
+PATIENT: I’m maybe gaining weight because I’m not walking as much as I used to.
+DOCTOR: [REDACTED].  So [REDACTED] so that's probably something we'll be doing.
+PATIENT: Okay.
+DOCTOR: So you won't be [REDACTED] okay and um so um I want to talk to you about [REDACTED]  I will talk to DOCTOR [REDACTED] adding medication. Have you heard of something called gabapentin.
+PATIENT: No I haven't.
+DOCTOR: It’s something that’s really good for neuropathic type of condition [REDACTED] okay.  So it happens, what time does it happen.  Is it [REDACTED] something or?
+PATIENT: Sometimes it just happens.  But when it gets real cold outside it happens a lot.  And I wear gloves and I wear you know.
+DOCTOR: [REDACTED].  And is this like every day or?
+PATIENT: No it's not happening every day.
+DOCTOR: It doesn't happen every day okay so I will talk to DOCTOR okay.  If you don't mind to hop up here and I'll take a listen okay.  Take a deep breath.  Your lungs and heart sound okay.  It's only in the one hand that happens or does that happen.
+PATIENT: There’s tingling in the feet sometimes.
+DOCTOR: Okay [REDACTED].  And um open your mouth and say ah.
+PATIENT: Ah.  Ah.
+DOCTOR: You got your flu vaccine right?
+PATIENT: Yes oh yes.
+DOCTOR: [REDACTED] take off your trousers, look straight ahead.  So what's wrong with this eye?
+PATIENT: I got a cataract and I'm having surgery.  I had a cornea transplant.
+DOCTOR: Oh you've had the cornea transplant?
+PATIENT: I've had it.
+DOCTOR: You have had it.
+PATIENT: Yeah.
+DOCTOR: What was the reason?
+PATIENT: It had an ulcer on the cornea about five years ago.
+DOCTOR: What was, why?
+PATIENT: I don't know why.
+DOCTOR: Did you get it because of infection?
+PATIENT: Yeah it was a bacterial infection.
+DOCTOR: Okay, okay, okay.  So um just close your eyes.
+PATIENT: Okay.
+DOCTOR: And tell me if you feel my hand.  Can you feel that?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Now?
+PATIENT: Yes.
+DOCTOR: Okay.  That's fine.  I think that it's [REDACTED].  Uh so I'll go talk to DOCTOR and see.
+PATIENT: Okay.
+DOCTOR: See you know if you can have the gabapentin.
+PATIENT: Okay.
+DOCTOR: It might help you.
+PATIENT: Okay.
+(DOCTOR OUT:  27:27  DOCTOR IN:  36:18)
+DOCTOR: Okay.  So we'll start you on a small dose of gabapentin.
+PATIENT: Okay.
+DOCTOR: As I told you and we'll get an MRI of your neck okay.
+PATIENT: Alright.
+DOCTOR: [REDACTED] problems and then we'll do the um, we'll do some labs, how about that [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay.  You can do it today right?
+PATIENT: Yes.
+DOCTOR: So any recent fevers, chills, shortness of breath, chest pain, palpitations?
+PATIENT: Uh just chills but I think it's because of the temperature of the house.
+DOCTOR: Oh really.
+PATIENT: Yeah.
+DOCTOR: Well why, you don't have enough temperature?
+PATIENT: No well the heat goes down at night and I just have to put on extra blankets.
+DOCTOR: Oh.
+PATIENT: So I got the sniffles now, so.
+DOCTOR: Oh okay yeah.  When can you go for the MRI?
+PATIENT: Whenever.
+DOCTOR: Can you go like tomorrow or something?
+PATIENT: Yeah, what’s tomorrow? Yes, I can go tomorrow.
+DOCTOR: Okay, I can put it like 10 o'clock in the morning okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] today.
+PATIENT: Yes.
+DOCTOR: 100 mg um three times a day.
+PATIENT: Okay.
+DOCTOR: Okay.  Done okay.
+PATIENT: Alright.
+DOCTOR: So here we are, you come back in four months okay.
+PATIENT: Four months?
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: [REDACTED].  You want to [REDACTED] here?
+PATIENT: No that's fine, thank you.
+DOCTOR: Okay.
+PATIENT: 44:30.
+2:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255151
+TRANSACTION # 578-10-2-316-0103

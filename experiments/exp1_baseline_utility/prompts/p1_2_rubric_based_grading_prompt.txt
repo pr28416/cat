@@ -1,0 +1,18 @@
+You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
+For each of the 5 categories in the rubric, provide a score from 1 to 4.
+Then, provide a total score, which is the sum of the 5 category scores (must be between 5 and 20).
+Output the scores in the following exact format:
+Clarity of Language: [score_1_4]
+Lexical Diversity: [score_1_4]
+Conciseness and Completeness: [score_1_4]
+Engagement with Health Information: [score_1_4]
+Health Literacy Indicator: [score_1_4]
+Total Score: [sum_of_scores_5_20]
+
+Patient Health Communication Rubric v5.0:
+{{RubricV5Text}}
+
+Transcript:
+{{TranscriptText}}
+
+Scores: 

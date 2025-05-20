@@ -1,0 +1,119 @@
+DOCTOR: What brings you in?
+PATIENT: Hi, I've I've had this pain on the outside of my uh right elbow now it's it I first started knowing, noticing it several months ago, but recently it's just been more painful.
+DOCTOR: OK, so you said several months ago. Um did anything happen several months ago? Was there any sort of trigger, trauma, anything like that to that area?
+PATIENT: No, there wasn't any any trauma or any triggers that that I noticed, I was just um feeling it, uh, a bit more at the end of of work. Um yeah, I was just having it uh, feeling the pain a bit more at the end of work.
+DOCTOR: OK, does uh anything make it better or worse, the pain?
+PATIENT: Um yeah, if I, really if I'm just resting the elbow um it makes it better, and I've tried uh things like ibuprofen um which has helped with the pain, I'll I'll do that for um hoping I can get through work sometimes if the pain is bad enough.
+DOCTOR: Right, OK. Um and if you were to describe the quality of the pain, is it sharp, throbby, achy?
+PATIENT: Uh it's um kind of uh, well, it's achy and then sometimes depending on the movement it can get, it can be sharp as well.
+DOCTOR: It can be sharp, OK. OK, um and what sorts of movements make it worse?
+PATIENT: Um, so like, really it's mostly the movements at my wrist, if I'm bending my wrist down, uh I can I can feel it, or um if I'm having to pick things up or hold heavy objects at work, I do a lot of repetitive uh things at at work, I work on a line.
+DOCTOR: OK, OK. And 1 to 10, 10 being the worst pain you've ever felt, how bad is this pain?
+PATIENT: It is about a four.
+DOCTOR: About a four, OK. And have you ever experienced this type of pain before?
+PATIENT: Uh, no I haven't.
+DOCTOR: No, OK, and do you feel like your pain is getting worse over the past several months, or is it the same, getting better?
+PATIENT: Uh it's been getting worse.
+DOCTOR: It's been getting worse, OK. OK, um have you tried any like topical ointments or anything like that for it?
+PATIENT: Uh I did, I yeah, I tried some um some stuff that you can get at the um drugstore and it did help take the edge off a little bit.
+DOCTOR: OK. Um alright and are you still able to move that arm, your right arm, um as well as your hand?
+PATIENT: I am, yeah, I I have full range of motion of both the elbow and uh hand.
+DOCTOR: OK and it's not like preventing you from doing everyday tasks?
+PATIENT: Uh, no. I I've been been able to manage so far at work, but um it is starting to become an issue um yeah, with my job.
+DOCTOR: OK. Um alright, and then do you have any sorts of aches or pains uh in any other joint or muscle groups?
+PATIENT: No, it's just right there on the outside of my right elbow, and it's really annoying 'cause I'm right handed as well, so um yeah, it's causing problems there.
+DOCTOR: Right, um and is the pain radiating upwards or downwards?
+PATIENT: Uh no, I kinda just feel it right over that that one spot.
+DOCTOR: OK, any numbness or tingling in that arm?
+PATIENT: No, no, no numbness or tingling.
+DOCTOR: Yeah, um OK, and then how about um like your arm feeling like it's cold?
+PATIENT: No, I haven't had anything like that.
+DOCTOR: OK, alright, um and then otherwise do you have any other symptoms?
+PATIENT: Um no I, it's just been the elbow pain.
+DOCTOR: OK, so no weight loss?
+PATIENT: No, my weights been stable over these last few months.
+DOCTOR: OK, fevers or chills?
+PATIENT: No, I haven't had any fevers or chills.
+DOCTOR: OK, any fatigue?
+PATIENT: No, my energy's been good.
+DOCTOR: OK. How about um rashes?
+PATIENT: Uh no rashes.
+DOCTOR: OK. Changes to your senses like vision, hearing, smell, smell or taste?
+PATIENT: No changes there.
+DOCTOR: OK any coughing, shortness of breath, or wheezing?
+PATIENT: No.
+DOCTOR: OK. Chest pain, any heart palpitations, or uh dizziness?
+PATIENT: Nothing like that.
+DOCTOR: OK, changes to your bowel movements?
+PATIENT: No.
+DOCTOR: No, no no nausea or vomiting?
+PATIENT: No, I haven't had any nausea or vomiting.
+DOCTOR: OK. Changes to your urine?
+PATIENT: No, I haven't had any urinary uh symptoms.
+DOCTOR: OK. Memory loss or confusion?
+PATIENT: No.
+DOCTOR: OK, so if you look at that right elbow, um do you notice any redness or swelling?
+PATIENT: Uh no, I don't.
+DOCTOR: No, OK. Does it seem misaligned or like asymmetrical compared to your other elbow?
+PATIENT: No, it looks, it looks the same.
+DOCTOR: Looks the same, OK so no um skin changes or deformities there?
+PATIENT: Uh no.
+DOCTOR: No, OK, alright and now I'm going to get you to um just palpate uh that lateral or yeah, the lateral aspect of that elbow and you let me know if you feel pain when you push, push on that.
+PATIENT: Uh there is pain at the lateral uh lateral elbow.
+DOCTOR: How about the medial aspect?
+PATIENT: No pain.
+DOCTOR: No pain, OK, and how about when you palpate your um forearm and your biceps?
+PATIENT: Uh no no pain.
+DOCTOR: OK, alright and then do you feel like it's hot, that area?
+PATIENT: No.
+DOCTOR: No, OK now I am going to get you to um extend your wrist.
+PATIENT: OK.
+DOCTOR: And then keep your elbow in full extension as well. Does that hurt?
+PATIENT: Uh it does, yeah.
+DOCTOR: Yeah, OK, how about when you flex your wrist with the elbow still in full extension?
+PATIENT: Uh it does, yeah that hurts as well.
+DOCTOR: OK, how about when you flex your elbow?
+PATIENT: Uh no, that that doesn't cause any pain.
+DOCTOR: OK. How about when you extend your shoulder all the way up?
+PATIENT: No, nothing there, that feels fine.
+DOCTOR: OK, and then flexing your uh, or sorry abducting your shoulder?
+PATIENT: That feels normal.
+DOCTOR: OK, alright, and then how about when you pronate and supinate your forearms?
+PATIENT: Uh, pronation um?
+DOCTOR: So like twist your um arm inwards so that your palm is facing the floor.
+PATIENT: No, that doesn't really cause any pain, pronation and supination.
+DOCTOR: OK, alright. Um alright, and then are you otherwise healthy or do you have any longstanding medical conditions?
+PATIENT: Um I'm uh healthy.
+DOCTOR: You're healthy, OK. And then UM do you have, have you had any hospitalizations or surgeries in the past?
+PATIENT: I had a surgery for um a C-section for uh my, my son, um but that's that's it.
+DOCTOR: OK. OK, and um how long ago was that?
+PATIENT: That was about uh 17 years ago.
+DOCTOR: OK. And was that an emergency C-section?
+PATIENT: Uh no, it was not.
+DOCTOR: OK um and then are you on any medications?
+PATIENT: Um no, I've just been taking uh Tylenol and Advil um for the pain.
+DOCTOR: OK, alright um immunizations wise, are you up to date?
+PATIENT: Uh I I am, yes.
+DOCTOR: OK. Do you have any allergies?
+PATIENT: Uh no allergies.
+DOCTOR: OK, family history of any uh skeletal or muscular um issues?
+PATIENT: Um no, nothing like that in the family.
+DOCTOR: OK, neurological issues in the family?
+PATIENT: Um no neurological issues in the family.
+DOCTOR: OK, how about um autoimmune conditions?
+PATIENT: Uh no, nothing like that.
+DOCTOR: OK and then um do you smoke?
+PATIENT: Uh no, I haven't smoked before.
+DOCTOR: OK, uh do you do um marijuana.
+PATIENT: No, I I don't use that.
+DOCTOR: OK. Um Alcohol?
+PATIENT: Um uh yeah, I'll have a glass of wine every once in awhile, but maybe just one, one a week.
+DOCTOR: OK, and have you been around sick contacts recently?
+PATIENT: Um no, I haven't been around anybody who's been sick.
+DOCTOR: OK. Any recent travel?
+PATIENT: Uh nope, I've been at home.
+DOCTOR: OK. Um I think those are all the questions that I had for you, um did you have any questions of your own for myself?
+PATIENT: Uh no, I was just wondering what this pain could be on my, in my elbow.
+DOCTOR: Yeah, so right now it seems like you may have a case of something called um lateral epicondylitis. So, it's also known as uh tennis elbow, um and there are a lot of things that could kind of predispose you to this, um so it could be like the repetitive strain at work, um and like continuous contraction of your wrist extensor muscle group there. Um so for this we basically recommend um a couple of things to manage the pain. Uh but first, like in terms of imaging, I don't think it is necessary because it doesn't seem like there was any trauma and I'm not too worried about any fractures. Um so to help you treat this, um we recommend some activity modifications, so um at work not doing things that are too repetitive, especially if it's using those um extensor forearm muscles. Um and then you can use some, use a compression sleeve as well, continue taking Tylenol or NSAIDs for the pain and uh really important is physical therapy um to increase mobility and strength in that arm. Uh and as well you can apply things like ice um to it for like the pain and swelling if you see any. Uh, yeah, so it should resolve in about six months to two years at most, uh but normally it does um go away in a couple of months with some physical therapy and the compression and splints if you choose to do that. How does that sound?
+PATIENT: Yeah, that that sounds um good, thank you.
+DOCTOR: Yeah, no worries.

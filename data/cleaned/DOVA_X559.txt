@@ -1,0 +1,502 @@
+DOCTOR: PATIENT.
+PATIENT:
+DOCTOR: the doctor that I had last time.
+DOCTOR: No I'm actually DOCTOR so I'm gonna check the computer.  Sometimes they put other people's like, people from other clinics in my clinics so let's see.
+PATIENT: Okay.
+DOCTOR: Let me see who the doctor is if you know it [REDACTED].
+PATIENT: Uh-huh well it came you know hey I'll transfer in six months.  Cause you're gonna be here three years right?
+DOCTOR: Every oh yes, let's look through.  So you're PATIENTS.  You're DOCTOR's patient.
+PATIENT: Right, right.
+DOCTOR: He's right next door just sitting there.
+PATIENT: Yeah that's right.
+DOCTOR: Uh we're gonna hang out um just for today.
+PATIENT: Alright.
+DOCTOR: And uh let's see and oh no wait and then [REDACTED].  So what, let me read this last note of yours okay.
+PATIENT: Okay.
+DOCTOR: And see what's going on.  You were last here in December it looks like.
+PATIENT: Last December.
+DOCTOR: Yes sir, you were here [REDACTED][REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Give me one quick second here.  How are your allergies doing now that the spring has come?
+PATIENT: Yeah well it's not that difficult really.  It's a lot better but I still get stuffed up.
+DOCTOR: Yeah you look like you're kind of having a little bit of it in your speech and then your face is a little puffy and your nose.
+PATIENT: Yeah.
+DOCTOR: Me too.
+PATIENT: But if it's possible, I don't know I thought it maybe might be I wasn't getting no sleep see.
+DOCTOR: That could be part of it as well.
+PATIENT: Yeah.
+DOCTOR: The allergies definitely make it worse.
+PATIENT: I do.
+DOCTOR: I'm in the same boat as you.  I've been sniffling and sneezing all day long so.
+PATIENT: Oh yes alright, oh I know that.  I didn't know [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Alright.
+DOCTOR: What else is going on?  How are you?
+PATIENT: Well I'll tell you, I'm telling you I'm having a problem with my back now.
+DOCTOR: Okay.
+PATIENT: On my right back, my lower back.  I don't know if it's stiff or if sometime it hurt when I bend.  Anything, it might go away I hope but and I.
+DOCTOR: Did you injure yourself?
+PATIENT: No.
+DOCTOR: Were you doing anything?
+PATIENT: Well I do, yeah when I work outside like a forklift.
+DOCTOR: Uh-huh.
+PATIENT: That has powerful gears and I probably be bouncing a bit.
+DOCTOR: Hmm.
+PATIENT: Could of got something to do with it. A I feel it up in my shoulder.  For some reason this arm, I can't, [REDACTED] I can't raise it up above my head but you know but I don't know it's yeah and I guess when you get old I get [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Cause your bitchin.
+DOCTOR: Yeah.
+PATIENT: And I was telling her that uh when um the last time, the doctor, I was supposed to join the health club.
+DOCTOR: Uh-huh.
+PATIENT: The gym.  But they put me in for it but I never did come.
+DOCTOR: Uh-huh.
+PATIENT: So when I did go over there you know my time was up or something so.  They said if I want to come back you'd have to put in whatcha call it, referral.
+DOCTOR: Okay.
+PATIENT: So I can join so that, with me being a diabetic they want me to exercise.
+DOCTOR: You need the MOVE classes or health club?
+PATIENT: No the health club, the gym.
+DOCTOR: Okay, that's good.  Um how are your sugars at home?
+PATIENT: Well he says fairly, right now I checked it this morning it was 135 and uh.
+DOCTOR: Before you ate breakfast?
+PATIENT: Yes ma'am.
+DOCTOR: Okay well did you bring your blood book in?
+PATIENT: Yeah and I'll it to you, catch it, I'll toss it to you.
+DOCTOR: [REDACTED].
+PATIENT: I tossed it in my bag here.  Yeah here it is.  Mostly it's been kind of high but.
+DOCTOR: Hmm.
+PATIENT: I take it, I don't eat, I don't eat right and that's most of it really.
+DOCTOR: Sometimes you don't eat right?
+PATIENT: Oh no I got.
+DOCTOR: What do you think is preventing you from eating right?
+PATIENT: Uh well, I work, by the time I work I don't have time to eat, I eat real fast and when I do I eat the wrong kind of food and stuff you know.  That's what it is.
+DOCTOR: Now are you bringing your food from home?
+PATIENT: No, no.  I'm bad about that.
+DOCTOR: And there just aren't a lot of healthy options for your body?
+PATIENT: No most of it isn't.  Most of it's just you know hot dog stand and things like that.
+DOCTOR: Okay, okay.  How about, what you're eating for dinner when you get home?
+PATIENT: Yeah I don't get home until about 12 o'clock at night see.
+DOCTOR: So.
+PATIENT: Yeah that's the way it is and when I get home I won't like eat nothing since 6 o'clock.  But that late I hate eating in them late hours that often.
+DOCTOR: That would be real hard to manage all this.
+PATIENT: Yeah.
+DOCTOR: With the crazy hours.
+PATIENT: Yeah.
+SECOND PERSON X559
+And that's it.
+DOCTOR: Yeah it's a lot of variations.
+SECOND PERSON X559
+Yes.
+PATIENT: Yeah I know and sometimes it's been 2 something.  I've been, whatever, by the time I take it I've been, I try to tell when I feel kind of you know dizzy so I'm like, I take it it'll be high, probably [REDACTED] to what I been eating and then sometimes I get an urge to eat a lot of candy.  I do eat a lot of fruits and vegetables.
+DOCTOR: You eat candy?
+PATIENT: Yeah I eat; I gotta take cookies and stuff so.
+DOCTOR: Okay.
+PATIENT: But if I eat too much at one time.
+DOCTOR: I know.
+PATIENT: But not too often though.
+DOCTOR: Okay.  I know with the lunch it's hard.
+PATIENT: Yeah.
+DOCTOR: Um I hear you.  Um even for us you know, down at the cafeteria, there aren't a whole lot of healthy options.
+PATIENT: Right.
+DOCTOR: Um but at least if you could try to stay away from the desserts.
+PATIENT: Right yeah.
+DOCTOR: And I know it's hard cause you have a sweet tooth and.
+PATIENT: Yeah I do yeah.
+DOCTOR: I know but um something's gotta give you know a little bit and uh I just, I don't want it to be your body.
+PATIENT: Yeah, I understand.  Yeah.
+DOCTOR: But I see that you're taking it twice a day so that's real good.
+PATIENT: Yeah but then, but sometimes like the meter might say a.m. I'll take it like when I get home sometimes you know about 12 or 1 o'clock.
+DOCTOR: Uh-huh.
+PATIENT: And then I'll take my reading then and in the evening again as well.
+DOCTOR: Yeah.
+PATIENT: Try it at a different time now.
+DOCTOR: So when do you take your insulin?
+PATIENT: Well I be, I try to take it in the morning.  I'll, then I'll be taking it you know before I go to work.
+DOCTOR: Okay.
+PATIENT: I got to eat something.
+DOCTOR: So what time do you go to work every day?
+PATIENT: Well I go to work at 11:30.
+DOCTOR: 11:30 a.m.
+PATIENT: Well I need to leave the house then yeah.  I'll leave the house about that time.
+DOCTOR: And you don't get home till midnight?
+PATIENT: Yeah.
+DOCTOR: You work 12 hours straight?
+PATIENT: No, no I work eight hours.
+DOCTOR: Okay.
+PATIENT: So the thing is I'm not driving, [REDACTED] I'll have to take the train you know or the bus or something.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Then one other time I might stop somewhere.
+DOCTOR: Okay.
+PATIENT: You know I [REDACTED] kind of stuff.
+DOCTOR: Okay.  Okay.
+PATIENT: Yeah.
+DOCTOR: Um yeah I think before going to work is kind of a good time to take your insulin.  Um.
+PATIENT: That's just it.  I take two times; I take it in the morning.
+DOCTOR: Uh-huh,
+PATIENT: Then I take it like 9 or 10 o'clock I try to yeah.
+DOCTOR: 9 or 10 okay.
+PATIENT: That's when I take it yeah.
+DOCTOR: Okay.  I'm gonna hold on to this list, I'll give it back to you before you leave.
+PATIENT: Alright.
+DOCTOR: How is the blood pressure at home?
+PATIENT: Oh its, my blood pressure is really pretty good.
+DOCTOR: Yeah your pressure looks good.  Doing a good job good.
+PATIENT: Yeah.
+DOCTOR: Um alright, let's see how your cholesterol's doing last time you were here.  Oh hey you were doing well um.  Last January it looks like so we might want to check your um cholesterol again today.
+PATIENT: Uh, they said something about that, it was something something about that AC something.
+DOCTOR: The A1c?
+PATIENT: A1c, it was kind of higher at some point I guess I got it down to 7 something.
+DOCTOR: Yeah 7.5 from 9% that's real good.  So we'll check that again today to make sure we're still making good progress.
+PATIENT: Right.
+DOCTOR: With your diabetes.
+PATIENT: Yeah that's good.
+DOCTOR: Okay.  And then um are you taking your blood pressure at home?
+PATIENT: Yeah I check, yeah I do check it.
+DOCTOR: What is it usually at home?
+PATIENT: Well usually it'll be about at night and sometimes I get about 119/75.
+DOCTOR: 119.
+PATIENT: Yeah, yeah.  Till I take my blood pressure I probably got some of these.
+DOCTOR: That's good but we need to keep it that way.
+PATIENT: Yeah.
+DOCTOR: Because you already have diabetes.
+PATIENT: Right, right.
+DOCTOR: That's already gonna give you, if you didn't have one, you're gonna get just a little bit.
+PATIENT: Yeah, yeah.
+DOCTOR: So we want to make sure it's just really well controlled.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: What do you do?
+PATIENT: Well I work in a shipping and receiving in a truck [REDACTED]
+DOCTOR: Okay.
+PATIENT: [REDACTED]
+DOCTOR: Uh is that pretty easy or a lot of labor?
+PATIENT: Uh yeah maybe cause I used to be a driver but I got a DUI so I'm not driving anymore so uh yeah, I do a lot of walking and stuff mostly.
+DOCTOR: What happened with the DUI?
+PATIENT: Oh well that was about four, about five, six years back.  I [REDACTED] just ain't driving.  Had to go through, had to try to get my license back anyway so.
+DOCTOR: Okay.
+PATIENT: Been putting it off.
+DOCTOR: Are you still drinking?
+PATIENT: Uh every now and then I do have a drink.  Mostly wine or something like that.  Sometimes it's a beer.
+DOCTOR: Okay.
+PATIENT: I mostly drink red or white wine.
+DOCTOR: Okay.  Alright and uh when was the last time you had your [REDACTED]?
+PATIENT: Uh I had one uh let's see Friday I had a drink.
+DOCTOR: Friday.
+PATIENT: Yeah that's when I had one.
+DOCTOR: And okay.  And that's fine I mean, I just um you know we're always concerned when people like rely on alcohol too much.
+PATIENT: Yeah, yeah, yeah.
+DOCTOR: And that's something we even see sometimes with people who have odd hours you know because if it's hard to get to sleep or you've just a lot of down time by yourself.
+PATIENT: Right.
+DOCTOR: So you find yourself relying on alcohol to deal with it.
+PATIENT: Oh no it's not as bad.
+DOCTOR: So do you ever feel like you need to cut down?
+PATIENT: Oh no way, I don't  [REDACTED] occasion [REDACTED].
+DOCTOR: Okay.
+PATIENT: I don't take it like every day or something.
+DOCTOR: Just want to make sure.
+PATIENT: Yeah.
+DOCTOR: I know too you have a little bit of anxiety and I know.
+PATIENT: Right.
+DOCTOR: If you feel sometimes you.
+PATIENT: Yeah.
+DOCTOR: But that’s good, I'm glad.
+PATIENT: Okay.
+DOCTOR: Um so is anything else going on?  Looks like you're doing well.  We kind of just check all these labs today and uh figure out where we're at with that.
+PATIENT: Yeah okay.
+DOCTOR: Um do you need any refills?
+PATIENT: Yeah but some of the refills you probably [REDACTED] giving like from the anxiety pills, you might not be giving that anxiety pill.
+DOCTOR: [REDACTED].
+PATIENT: I guess [REDACTED].
+DOCTOR: Well I'd like to go see them if you're here today and you're off.
+PATIENT: Hmm.  Actually I got off but yeah I could call them.
+DOCTOR: Oh you just want to call them.
+PATIENT: Yeah I can call them.
+DOCTOR: I mean sometimes it's good to see them and just talk to them about the anxiety.  Um.  To me it is more important than just calling.
+PATIENT: Yeah.
+DOCTOR: If you need it I'm happy to refill it for you.
+PATIENT: Yeah.
+DOCTOR: The thing is I don't even see it on here.  What were you taking for anxiety?
+PATIENT: It was that blue something.
+DOCTOR: I don't see it on here.
+PATIENT: Cause I come here in two weeks anyway to my psychiatry meeting [REDACTED].
+DOCTOR: Okay very good.
+PATIENT: But uh at the end of this year DOCTOR.
+DOCTOR: Okay.
+PATIENT: Yeah.  And I could probably see what she wants to give.  I can talk to her about that.
+DOCTOR: I don't see anything on here for your anxiety.
+PATIENT: Oh really, really?
+DOCTOR: No.  Yeah.
+PATIENT: She gave me something [REDACTED].
+DOCTOR: Do you know what the name of it is?
+PATIENT: Yeah I do but I can't pronounce the name of it, that's the problem with that.  But no but I got to call the rest in anyway and I can talk to her.
+DOCTOR: Yeah I don't know why it's not on here.
+PATIENT: So I think it's something like, from the muscle, it's got a muscle relaxer to it.
+DOCTOR: Muscle relaxer that I see on here.
+PATIENT: That's probably uh what's the name of it?
+DOCTOR: Cyclobenzaprine?
+PATIENT: Yeah, yeah.
+DOCTOR: But that's not for anxiety.
+PATIENT: Yeah I know that.
+DOCTOR: Okay.  I don't want you to take that for anxiety.
+PATIENT: Oh no.
+DOCTOR: Okay.  That's only because you're having spasms I think in your neck right?
+PATIENT: Yeah, yeah.
+DOCTOR: Do you find yourself needing to take it for anxiety? If you feel like you need something for anxiety we could give you something better that's more appropriate.
+PATIENT: Yeah I do need help, cause I do have an anxiety problem.
+DOCTOR: Okay.
+PATIENT: Yeah and if I could [REDACTED] for my sinus that uh.
+DOCTOR: The nasal spray?
+PATIENT: Yeah that spray yeah.
+DOCTOR: And the allergy medication.
+PATIENT: Yeah.
+DOCTOR: Yeah you definitely need both of those.
+PATIENT: Alright yeah.
+DOCTOR: Tell me, what makes you more anxious?
+PATIENT: Actually you know when I'm trying to [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: You know. Try to communicate (sounds as though the pt. is stuttering.)  Like I feel really around you I guess I feel [REDACTED] you’re a doctor [REDACTED].  I'll shut it off, not so good you know what I mean.
+DOCTOR: Is it easier when you're on the phone?
+PATIENT: Uh.
+DOCTOR: Or is it about the same for you?
+PATIENT: Yeah it's about the same.  I don't talk; I don't like to talk too long on the phone no ways.
+DOCTOR: Have you ever tried anything in the past?
+PATIENT: In the?
+DOCTOR: In terms of medication for anxiety.
+PATIENT: I don't know whatever they been giving me, I been taking. Because that's I was always like keeping it cause since that time I think that was having to drink and everybody around me was drinking cause I was more relaxed when I drank and you know more often I would [REDACTED].
+DOCTOR: So you were drinking a lot back then?
+PATIENT: Yeah, yeah.
+DOCTOR: So it looks like you had four DUIs.
+PATIENT: No it was just two.
+DOCTOR: Okay.  Okay.
+PATIENT: They got four?
+DOCTOR: That is what the note says though.
+PATIENT: Had four DUIs, not really.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Even one is too many.
+PATIENT: Yeah I guess.
+DOCTOR: Because you're putting yourself in danger and you're putting somebody else in danger.
+PATIENT: Right.
+DOCTOR: Right.
+PATIENT: Right.
+DOCTOR: You know PATIENT I really want you to go over to PAC.  I know you don't want to.  Cause here's the thing right, I'm gonna tell you, I'm gonna be straightforward.  I mean I'm not hiding anything from you.
+PATIENT: Yeah.
+DOCTOR: I'm reading this note here when you went to go see the psychologist in October of this past year and you told him there's a lot going on so it's like you know at that time you were still using some cocaine.  Still drinking but not as much and you know you have some issues with your wife and you're worried about your job and I think the medication you were using at the time you feel like was working for you.
+PATIENT: Yes.
+DOCTOR: And I think that they would be the best people to help you with you with this cause my concern is go on the medications that we start for anxiety um uh they're not good for people who have had a history of drinking too much alcohol.
+PATIENT: Right.
+DOCTOR: It gets real complicated.
+PATIENT: Yeah.
+DOCTOR: So you know you're here, its 11 o'clock, you're not going into work today right?
+PATIENT: Uh yeah I have to work today.
+DOCTOR: When are you going, when do you got to be at work?
+PATIENT: Oh I got to be at 11:30 but let's see, I got come back Wednesday.
+DOCTOR: You come back on Wednesday.
+PATIENT: Yeah.
+DOCTOR: Will you come in the morning and go see them in the PAC Clinic?
+PATIENT: Yeah.
+DOCTOR: Because they.
+PATIENT: Yes.
+DOCTOR: I think there are medications that can help you.
+PATIENT: Yes, yes.
+DOCTOR: I think there are medications that are gonna make you feel a lot better.
+PATIENT: [REDACTED].
+DOCTOR: And make you feel less anxious.
+PATIENT: Yeah.
+DOCTOR: And just let you you know go through life a little bit easier.
+PATIENT: Yeah, yeah.
+DOCTOR: And I want you to get started on one of them.
+PATIENT: Alright.
+DOCTOR: Cause they're very, you know, I think if there's things that could help I think we should do it.  I don't think we should ever think twice about it.
+PATIENT: Alright.
+DOCTOR: You know so if you're coming in on Wednesday in the morning I think you know.  You know I know I'm not your regular doctor, I'm just.
+PATIENT: Yeah.
+DOCTOR: You know [REDACTED] seeing lyou once.
+PATIENT: Yeah right.
+DOCTOR: But you know I think it'd be good okay.
+PATIENT: Okay.  I really, wait a minute let me see that.
+DOCTOR: That's okay you don't have to go today.
+PATIENT: No, no, let me see if that's who was just called me.
+DOCTOR: Okay.
+PATIENT: Before she wait long.  Yeah.  Alright that's who called me.  (Patient made a phone call)  Got that.  Now they want to know what time I got started Saturdays.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Let me just take a listen to you okay.
+PATIENT: Alright.
+DOCTOR: You a smoker?
+PATIENT: No I don't smoke.
+DOCTOR: Ever smoked?
+PATIENT: No never.
+DOCTOR: Nice big deep breaths for me in and out.
+PATIENT: Okay.
+DOCTOR: Again and again and again.  Let me take a look at your legs.
+PATIENT: Okay.
+DOCTOR: Any pain in your legs when you walk?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: No.
+DOCTOR: Okay.  Open your mouth and say ah.
+PATIENT: Ah.
+DOCTOR: Okay.  Does it hurt when I touch here?
+PATIENT: No.
+DOCTOR: Does this hurt when I press here?  Sorry.  Um so I'll refill all your medications and then um and then we'll order the labs and I'll have you come and I'll check on them and if they don't look so good I might have you come in a few weeks or so.
+PATIENT: Uh-huh.
+DOCTOR: To see the pharmacist early in the morning cause I know you have to be at work at 11:30 and um they might to adjust your insulin a little bit.
+PATIENT: Yeah because what happen is I sort of have a problem with it, when I missed the appointment last time.
+DOCTOR: Uh-huh.
+PATIENT: I tried called her back and it goes back to the answering or something I can't hardly do that.
+DOCTOR: It's really hard for you.
+PATIENT: I [REDACTED] so if you told me she left me an appointment.
+DOCTOR: Uh-huh.
+PATIENT: Just make another appointment that would be much more better.
+DOCTOR: Has your voice always been hoarse?
+PATIENT: No it's just doing that like this morning.
+DOCTOR: Cause of this, is it just this morning?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um not having any trouble swallowing or anything like that?
+PATIENT: Oh no, no.
+DOCTOR: Great.  Alright I'll be right back.
+PATIENT: Okay.
+DOCTOR: 26:23   DOCTOR IN:  31:47
+DOCTOR: Alrighty.
+PATIENT: [REDACTED].
+DOCTOR: I'm gonna give this back to you.
+PATIENT: Alright.
+DOCTOR: Alright.  I'm gonna send you up to get some labs.
+PATIENT: Alright.
+DOCTOR: Okay and I think I actually in order for you to see the psychiatrist to start those medications that we talked about for your anxiety.  I'm actually gonna have to put it in the computer and then they're gonna have to call you and make the appointment.
+PATIENT: Alright.
+DOCTOR: And you just make the appointment time convenient for you.  I really want you to go.
+PATIENT: Okay.
+DOCTOR: I think it'd be good for you.
+PATIENT: Oh yeah, yeah.  Telling cause I'll be trying to tell the doctor I mean.  No but what [REDACTED] come over on the west side go like to a group me and he, a psychiatrist [REDACTED] DOCTOR.
+DOCTOR: Uh-huh.
+PATIENT: He told me to just call DOCTOR.
+DOCTOR: Okay.
+PATIENT: To get the medication but I never did call.  [REDACTED] that for me. [REDACTED] probably, I told them and I told them I [REDACTED]
+DOCTOR: Okay. [REDACTED]  Ooh okay um.  Let me.
+PATIENT: I know it's kind of high so we're gonna have to do something.
+DOCTOR: It's too high.  In December 2011 132, I didn't, I missed this let's see here what are we taking um.  You are taking - are you not taking anything for your cholesterol?
+PATIENT: Yeah I was taking, let me pronounce the name uh it start with a R or something.
+DOCTOR: Let me see, it would be on here. Continue statins.  You were taking rosuvastatin.
+PATIENT: Yeah.
+DOCTOR: No I don't see that on your list.  Did you run out?
+PATIENT: No I still got some, you sent me another bottle.  I got about I think about a half a bottle left.  I had about two bottles but I try to take it, I take it every night.
+DOCTOR: Okay.  Now are you taking um, do you have any muscle aches or pains or anything like that?
+PATIENT: Yeah [REDACTED] pain.  I just have to take [REDACTED].
+DOCTOR: Nothing too bad. Nothing preventing you from doing the same thing you can do?
+PATIENT: No, no, no.
+DOCTOR: Very good.  Let me just uh look into something.  So I think you might already be on the max dose of this drug so now I've got to try to think of what else we could put you on cause your cholesterol still isn't where we want it to be.  Uh.
+PATIENT: Cause that's my problem.  I'm gonna say it's what I eat and I  eat at night.
+DOCTOR: Some of it is your diet.
+PATIENT: Yeah.
+DOCTOR: For sure.  I'm gonna be right back okay.
+DOCTOR: 35:09  DOCTOR IN:  36:47
+DOCTOR: Alright.  So what we'll do is we'll just keep everything the same.
+PATIENT: Yes.
+DOCTOR: But I'm gonna have, we'll recheck it today and then depending on what we see we'll have you come back and visit with the pharmacist.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah cause I want to see it.
+DOCTOR: Alright.
+PATIENT: I'd like  [REDACTED] you know.
+DOCTOR: Um do you want me to send everything to your house in terms of the medication?
+PATIENT: Yeah that'd be good.
+DOCTOR: Okay very good so that's what we'll do today.  Okay.  And I'll put in for the Wellness Club and that'll be good for one year.
+PATIENT: Alright.
+DOCTOR: And uh let's see let's check your liver today and um we'll get a [REDACTED] for that.  And you don't have any urinary symptoms do you?  Difficulty starting your stream or waking up in the middle of the night to go to the bathroom?
+PATIENT: Uh yeah I do.
+DOCTOR: How many times?
+PATIENT: About I get about like one time.
+DOCTOR: One time okay.
+PATIENT: Yeah I got some medications it's for my prostate you know it's something like.
+DOCTOR: Uh-huh.
+PATIENT: Cause the med, that was real good that helped me [REDACTED].
+DOCTOR: Flow oh and you still have it at home right?
+PATIENT: No I ran out.
+DOCTOR: You ran out?
+PATIENT: What is it?
+DOCTOR: Terazosin?
+PATIENT: Yeah that's it.
+DOCTOR: Alright, I'll give you everything okay.
+PATIENT: Yeah.
+DOCTOR: And I'll send it to your house.
+PATIENT: Yeah that'll take care of it yeah cause that helped out a whole lot.
+DOCTOR: Okay.
+PATIENT: I guess it was it, it feels like it.
+DOCTOR: No it does.
+PATIENT: Yeah.
+DOCTOR: People say that it really does.
+PATIENT: Yeah.  Yeah I'm not gonna call it in cause I've never ordered that since I got [REDACTED].
+DOCTOR: Alright.  So this is what we'll do okay so today I want you to um just go to the Lab today.
+PATIENT: Alright.
+DOCTOR: Alright and I'm gonna have you follow up with your regular doctor in three months okay.
+PATIENT: Alright.
+DOCTOR: And then in the meanwhile I'm gonna put in a consult for you to see the pharmacist and the psychiatrist okay.
+PATIENT: Okay.
+DOCTOR: And they'll be in touch with and let you know when you should come in.
+PATIENT: Alright.
+DOCTOR: And I'll tell them to schedule it early in the morning like 8 a.m. that way you can go to work.
+PATIENT: Good, right.  I'm gonna tell one more thing; put me to see a doctor for my foot.
+DOCTOR: What's going on with your foot?
+PATIENT: It should be on there.  They checked it out, they put me, sent me [REDACTED] another appointment [REDACTED] I been, I haven’t heard from then since back in December, so.
+DOCTOR: Okay let me just read this real quick.
+PATIENT: And [REDACTED] said it was alright but you know I still have the same problem.  But they made a shoe pad for it and everything.
+DOCTOR: Alright.
+PATIENT: So I think I need an appointment [REDACTED].
+DOCTOR: Pharmacy, [REDACTED] two weeks okay.  And then we want, so do you just need alright.
+PATIENT: Yeah just an appointment to check it out.  I actually have had the same problem, she told me that bone is sticking out and I don't know and my feet get cold and I know my being a diabetic I know the blood flow doesn't go there.
+DOCTOR: Okay.  When was the last time you had your eyes checked?
+PATIENT: Uh I just, I got to come back in June for my eyes.
+DOCTOR: Alright.
+PATIENT: Yeah.  Just that was last month I had a checkup for the diabetes stuff but couple of months ago.
+DOCTOR: I don't see any notes in here from the Eye Clinic oh here we go wait a minute.
+PATIENT: It should be.
+DOCTOR: Last December.
+PATIENT: Right.
+DOCTOR: You saw them in December.
+PATIENT: Right.  So I see them, I'm gonna say my next appointment is in June right?
+DOCTOR: No sir they wanted you to come back in January.
+PATIENT: Oh well I seen them in January.
+DOCTOR: You came?
+PATIENT: Yeah.
+DOCTOR: I don't see the notes here.  From January.  They said they wanted you to come back on the 9th of January to check on your glaucoma okay.
+PATIENT: Yeah I thought I did, yeah I came back.
+DOCTOR: You came?
+PATIENT: Yeah.
+DOCTOR: I wonder why they didn't put a note in.
+PATIENT: Yeah I come.
+DOCTOR: That's real bad if they didn't put this visit in.
+PATIENT: Yeah I came; yeah I came here the 9th yeah.
+DOCTOR: You did?
+PATIENT: Uh-huh.
+DOCTOR: Okay well um hmm.
+PATIENT: Cause I put, I guess I supposed to come back, come back to see the regular eye doctor probably to do some more tests.
+DOCTOR: Uh-huh.  Alright so.
+PATIENT: I came back in January, January 9th you said yeah.
+DOCTOR: Do you remember if you came?
+PATIENT: Yeah I came yes.
+DOCTOR: It's very unusual that they don't put a note in.  Okay so what we'll do is we'll just say um the next available in the Eye Clinic okay.
+PATIENT: Alright.
+DOCTOR: And uh tell them you need all those appointments in the morning so you can go to work okay.
+PATIENT: Right.
+DOCTOR: Um give this to the people up front in the checkout area.
+PATIENT: Alright.
+DOCTOR: Alright.  It was a pleasure meeting PATIENT.
+PATIENT: Yeah same to you.  When I go I just have to go get the blood tests now?
+DOCTOR: Yep.  Well I would go first to the counter and checkout.
+PATIENT: Right.
+DOCTOR: And then go get the blood tests.
+PATIENT: Alright I will.
+DOCTOR: Okay and they you know where the Lab is right?
+PATIENT: Yeah, yeah.  But then um [REDACTED].
+DOCTOR: [REDACTED].  Okay.
+PATIENT: Alright take care.
+DOCTOR: Alright bye.
+PATIENT: [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38307
+TRANSACTION # 578-10-2-316-0103

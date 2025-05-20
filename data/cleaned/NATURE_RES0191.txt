@@ -1,0 +1,115 @@
+DOCTOR: How may I help you?
+PATIENT: Hi I'm, I have been having this nasal obstruction and discharge for the past week and it doesn't seem to be going away and it's bothering me so I thought I would get it checked out by you.
+DOCTOR: OK, for sure. Uhm, could you describe the discharge?
+PATIENT: Yeah, it's a. It's mostly clear, it doesn't, it doesn't have a color to it.
+DOCTOR: OK, so no yellow, green or or red to indicate any blood?
+PATIENT: No.
+DOCTOR: OK, and you mentioned, so with the obstruction, have you had difficulties breathing?
+PATIENT: Um a little bit, I just need to, and is mostly at night. I just need to shift to one side or the other to like unblock my airways.
+DOCTOR: I see OK and have you been having any pain on your face? Like I like kind of over your cheeks or over your forehead?
+PATIENT: No.
+DOCTOR: OK, how about any headaches?
+PATIENT: No headaches.
+DOCTOR: All right, have you had any changes or to your sense of smell or any loss of smell?
+PATIENT: Uhm no, maybe a little bit, but no, not really. I can still eat. I can still smell like candles and things like that so, maybe go with no.
+DOCTOR: OK. Have you had any changes to your sense of taste?
+PATIENT: No.
+DOCTOR: OK. Have you had any eye redness or or any eye pain?
+PATIENT: No.
+DOCTOR: Any ear pain or ear discharge?
+PATIENT: No.
+DOCTOR: Any changes to the vision or hearing?
+PATIENT: Uh, no.
+DOCTOR: OK, have you had a sore throat?
+PATIENT: No.
+DOCTOR: Have you had a cough?
+PATIENT: No.
+DOCTOR: Have you had any shortness of breath
+PATIENT: Uh, no.
+DOCTOR: Have you had any wheezing?
+PATIENT: No.
+DOCTOR: OK. And have you coughed up any blood?
+PATIENT: No.
+DOCTOR: OK, and have you had any chest pain?
+PATIENT: No.
+DOCTOR: Have you had any lightheadedness or dizziness?
+PATIENT: Uh, no.
+DOCTOR: Have you felt like your hearts beating really fast or racing?
+PATIENT: No.
+DOCTOR: OK, have you had any fevers or chills?
+PATIENT: No.
+DOCTOR: Have you had a night sweats?
+PATIENT: No.
+DOCTOR: Have you had any unexpected weight loss?
+PATIENT: No.
+DOCTOR: OK, have you had any loss of appetite?
+PATIENT: Uh, nope.
+DOCTOR: OK, have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any diarrhea or constipation?
+PATIENT: No.
+DOCTOR: Have you had any painful urination or urinary frequency?
+PATIENT: No.
+DOCTOR: OK, have you had any skin rashes?
+PATIENT: No.
+DOCTOR: Have you had any muscle aches or joint pains?
+PATIENT: No.
+DOCTOR: Have you had any memory loss or confusion?
+PATIENT: No.
+DOCTOR: OK, and how has your energy been? Have you had fatigue or malaise?
+PATIENT: No, nothing like that.
+DOCTOR: OK. Uhm, and have you had any sneezing?
+PATIENT: No.
+DOCTOR: OK. Uhm, and, uh, are you healthy? Or, or have you been diagnosed with any medical conditions in the past?
+PATIENT: No, I'm actually pretty healthy.
+DOCTOR: OK. Have you had any prior surgeries or hospitalizations?
+PATIENT: Nope.
+DOCTOR: OK, and any allergies like to any medications or any seasonal allergies? Like do you get symptoms like this that change throughout the year?
+PATIENT: No.
+DOCTOR: OK and sorry, no allergies to medications as well?
+PATIENT: No allergies to medications.
+DOCTOR: OK, and do you take any medications regularly, either prescribed or over the counter?
+PATIENT: No, I don't take any medications.
+DOCTOR: OK, and can you tell me about where you're living currently and who you're living with?
+PATIENT: Uhm, I live by myself right now. I live in an apartment downtown.
+DOCTOR: OK, and are you, got working right now or are you going to school or both?
+PATIENT: I'm working right now, but I'm working from home.
+DOCTOR: OK, uh, have you been around anybody who's been sick?
+PATIENT: No one personally, but I do go to the grocery store and the bank and all the essential things.
+DOCTOR: I see, OK. Uhm, and have you have you traveled anywhere recently?
+PATIENT: No, I haven't.
+DOCTOR: OK. Are you in a relationship?
+PATIENT: I am.
+DOCTOR: Are you sexually active?
+PATIENT: I am.
+DOCTOR: OK, could you tell me a little bit about your partner or, or partners?
+PATIENT: Uhm yeah, so we've been together for the past five years. And yeah, he's the only sexual partner I have.
+DOCTOR: OK, and do you use condoms or birth control?
+PATIENT: Birth control.
+DOCTOR: OK. Uhm, and any concern for a sexually transmitted infection?
+PATIENT: No.
+DOCTOR: OK and you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: Do you smoke cannabis or use cannabis products?
+PATIENT: Uh, nope.
+DOCTOR: OK, how about the use of any recreational drugs?
+PATIENT: No.
+DOCTOR: OK, do you drink alcohol?
+PATIENT: I do, I'll have like a glass of wine every day.
+DOCTOR: OK. And in the family, are there any heart conditions or lung conditions that run in the family?
+PATIENT: No.
+DOCTOR: How about things like diabetes or or high blood pressure?
+PATIENT: Uhm, I don't think so.
+DOCTOR: OK, and uh, are there any cancers in the family?
+PATIENT: Uhm, there's colon cancer in the family.
+DOCTOR: OK, and who was that and how old were they?
+PATIENT: Uhm, my grandfather, he was 55.
+DOCTOR: OK. Uhm, alright, and so that was everything that I wanted to ask today on history. Was there anything else that I was maybe forgetting?
+PATIENT: Uh, no, I think that was it.
+DOCTOR: OK, so with the prominent symptoms of being nasal discharge and obstruction without fever and without, like changes to smell and also without pain, it's most likely a viral rhinosinusitis. Uhm, however, this could have symptoms that overlap with, with COVID, and so we will still end up doing a swab even though the most likely diagnosis is going to be a viral acute rhinosinusitis.
+PATIENT: OK.
+DOCTOR: Do you have any other questions?
+PATIENT: No thank you or yeah, thank you.
+DOCTOR: Thank you.

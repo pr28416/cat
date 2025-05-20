@@ -1,0 +1,371 @@
+DOCTOR: PATIENT?
+PATIENT: Here.
+DOCTOR: How are you?
+PATIENT: I'm okay.  How are you?
+DOCTOR: I'm good thank you.  Go ahead and have a seat.
+PATIENT: I just called on Monday so I'm glad to, so I got to see you in two days.
+DOCTOR: Oh, nice.  Um so is there a reason that you wanted to come for a visit.
+PATIENT: I got a wart.
+DOCTOR: You got a wart okay.
+PATIENT: And they said I need a referral to go to Dermatology.
+DOCTOR: Dermatology.  Okay yeah and they'll freeze it.
+PATIENT: Right.
+DOCTOR: Do you get warts often or?
+PATIENT: No that's the first one in, since I was.
+DOCTOR: Little?
+PATIENT: Yeah.
+DOCTOR: Okay, Dermatology referral.
+PATIENT: And two other follow up things that I’ll share with you because you work with doctor.
+DOCTOR: Right.  Dermatology referral.
+PATIENT: That's the name.
+DOCTOR: Yeah and [REDACTED], I'll put it in there.  [REDACTED].  Is it painful?
+PATIENT: Uh sometimes because it'll, right now it's all flat.
+DOCTOR: Uh-huh.
+PATIENT: But sometimes it'll kind of pop up you know like a mushroom and it'll get caught on thread or string or whatever.
+DOCTOR: Oh okay.  Does it ever bleed?
+PATIENT: Um yes.
+DOCTOR: Okay.  When did it first appear?
+PATIENT: Uh probably a year and a half ago.
+DOCTOR: Wow, it's been there that long.
+PATIENT: Yeah.  Actually they hit it once before with nitrogen, whatever.
+DOCTOR: Oh, they did. And it came back.
+PATIENT: Yes, well, you know it was really gone completely.  I should have, in fact that's what I'd like to do this time.
+DOCTOR: Alright.
+PATIENT: If they can hit it and then I would come back in like a month and don't wait that long.
+DOCTOR: Well, they'll tell you what they think and if you need to come back you know later.  Okay so um your blood pressure was a little bit high last time but today actually it was normal okay. That’s good.
+PATIENT: Uh-huh.
+DOCTOR: So have you been on a low salt diet or have you been eating less, did you lose weight? Or you don't know.
+PATIENT: No honestly I really didn't change anything.
+DOCTOR: Okay.
+PATIENT: I know that it was.
+DOCTOR: Yeah I guess it fluctuates your blood pressure sometimes.
+PATIENT: It does but the last time I came in it was high.
+DOCTOR: Yeah.
+PATIENT: It was a real concern.
+DOCTOR: Well we'll keep monitoring.
+PATIENT: Uh-huh.
+DOCTOR: And [REDACTED].  No need to start you on medications but I still recommend exercise you know uh and you know a sensible diet, low salt, low cholesterol.
+PATIENT: Right.  Um you're gonna tell me not to eat cheeseburgers and.
+DOCTOR: Well I'm also gonna say not do something [REDACTED].
+PATIENT: I don't know about that.
+DOCTOR: Once in a while you can.
+PATIENT: I know right.
+DOCTOR: Yeah.  But you know portion control I think is the main thing.  Alright um how's the acid reflux?
+PATIENT: Fine.
+DOCTOR: Okay you're taking the medicine?
+PATIENT: Yes.
+DOCTOR: Good.
+PATIENT: Every day.
+DOCTOR: Good.
+PATIENT: Once in a while I forget and I can tell.
+DOCTOR: Oh really.
+PATIENT: Later on that day I'll feel it more so the medicine definitely works.
+DOCTOR: Okay.  And your cholesterol was done in March um.
+PATIENT: I think the triglycerides were a little bit high.
+DOCTOR: Yeah and uh you know you can take some over-the-counter fish oil.
+PATIENT: I do.
+DOCTOR: You do?
+PATIENT: I have for years.
+DOCTOR: Okay.
+PATIENT: I take fish oil, flax seed and primrose.
+DOCTOR: Okay, so keep doing that.
+PATIENT: Uh-huh.
+DOCTOR: And uh definitely limit the fat in your diet.
+PATIENT: Uh-huh.
+DOCTOR: And we'll check it next year in March.  Oh this was March [REDACTED] oh we'll check it sometime next year.
+PATIENT: Okay.
+DOCTOR: Um or the end of this year.  How's the headaches, have you been having them [REDACTED]?
+PATIENT: Yes it's been better yeah.
+DOCTOR: Good.
+PATIENT: And that was like it was the same time that the blood pressure was up so I went through a month, before I came on that last visit, I had headaches every day and I believe it was related to that but you know once in a while.  You know what I think I have borderline apnea because.
+DOCTOR: Sleep apnea.
+PATIENT: Right.
+DOCTOR: Have you ever taken a sleep test?  So why do you think?
+PATIENT: Because the headache is, I mean a symptom of you know carbon dioxide so there's times where I'll wake up and I'll be so, so you know heavy, you know sleepy and that's when I have the headache so I always, I can't prove it.
+DOCTOR: Right, right.
+PATIENT: It's just how I feel when I wake up.
+DOCTOR: Do you snore?
+PATIENT: Oh I don't know.
+DOCTOR: Okay uh do you ever wake up like gasping for air or anything?
+PATIENT: No.
+DOCTOR: Can you open your mouth and say ah?
+PATIENT: Ah.
+DOCTOR: Okay. Looks good. If it keeps happening let me know okay.
+PATIENT: Hmm.
+DOCTOR: Well sometimes you know people can kind of blockages in the neck and if you do have sleep apnea and the way to find that out is to do a sleep test.
+PATIENT: Well, let me tell you about, that was the next thing I was gonna follow up on, is that probably for ten years.
+DOCTOR: Uh-huh.
+PATIENT: Or more, a little more, I once in a while, you know depending on what I'm eating.
+DOCTOR: Uh-huh.
+PATIENT: You know it'll kind of get stuck and most of the time I can drink anything and push it out of the way.  Two years ago as I was eating chicken at lunch and it got stuck and I had to go to the ER so they knocked me out to get that.
+DOCTOR: Oh the chicken bone or?
+PATIENT: No, meat but they said that well you know it doesn't matter.
+DOCTOR: Uh-huh.
+PATIENT: They said well they see a lot of this it's because chicken is relatively dry.
+DOCTOR: Hmm.  Had that ever happened again?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: But um I'm more mindful of you know eating so I drink regularly while eating.  Um and I don't know if this is related to that but one other thing is once in a while I would get a little uh piece of food stuck in the back of my throat.  Kind of what you just did but if it's right back there I can see it so I would like stick a straw back there and kind of knock it out of the way and it usually [REDACTED] in okay, I know about that.  But in the last six months say, even today right now, I can feel there's just like a little bit of you know, there's something right below there.
+DOCTOR: Okay.
+PATIENT: I know you're.
+DOCTOR: Do you ever like food gets stuck in your throat?
+PATIENT: It doesn't get stuck where it won't pass.
+DOCTOR: Uh-huh.  So you feel like it's kind of hard to swallow?
+PATIENT: No I feel like, you know I'm just sitting here you know I'm not eating and I kind of move my throat around it feels like there's a little you know food or something.
+DOCTOR: Right, kind of staying, staying in there.
+PATIENT: Stuck, yes.
+DOCTOR: Hmm.
+PATIENT: And I brush and floss you know twice a day.  I gargle probably six times a day and I make sure you know it gets all the way back there and clean it out but that's kind of a newer thing so I would.
+DOCTOR: When did this start, the sensation of that?
+PATIENT: Definitely more often in the last year.
+DOCTOR: Okay.
+PATIENT: I'm more aware of it.
+DOCTOR: Okay, okay and you never had a study or anything done right?
+PATIENT: No.
+DOCTOR: Okay are you a smoker?
+PATIENT: No.
+DOCTOR: Have you ever smoked before?
+PATIENT: Yeah but just for a short time when I was in my 20s.
+DOCTOR: How long?
+PATIENT: Uh two years.
+DOCTOR: Oh okay.  How about alcohol?
+PATIENT: Rarely.
+DOCTOR: Rarely okay any.
+PATIENT: Drugs.
+DOCTOR: Drugs or anything.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I'm too healthy to have any major problems.
+DOCTOR: That's good, that's great okay.  Um hmm, so I mean sometimes people have a little bit of stricture here that they can feel it and sometimes can get stuck and um it is possible but then you're having this on and off right?  It's not happening all the time?
+PATIENT: Uh well maybe because I'm more aware of it now.
+DOCTOR: Okay.  Okay.
+PATIENT: But.
+DOCTOR: Alright uh I mean I could have you see you know the GI doctors to see if you have something in your esophagus or your throat.
+PATIENT: And do they have something where they could put like a camera back there?
+DOCTOR: Yeah.
+PATIENT: They do.
+DOCTOR: Yeah and see if they have anything in there that might be.
+PATIENT: Why don't we do that?
+DOCTOR: So um we'll probably start like an x-ray.
+PATIENT: Hmm.
+DOCTOR: Yeah have you drink something sort of and see what's going on in there okay.
+PATIENT: Yeah.
+DOCTOR: So yeah we'll do that um and you need a colonoscopy um so do you want to schedule that?
+PATIENT: You know that I'm not real crazy about it but go ahead and tell me why I should have it.
+DOCTOR: Alright so colonoscopy.
+PATIENT: I know what it is.
+DOCTOR: It is, it is the purpose of it.
+PATIENT: Is to look for polyps, the cancer.
+DOCTOR: Colon cancer.
+PATIENT: Right.
+DOCTOR: And the reason is colon cancer once you have it is a very deadly disease.  Um I've seen many people; once they get diagnosed they don't have that many years.
+PATIENT: Okay.  You're not.
+DOCTOR: But it's a very preventable.
+PATIENT: Curable, preventable.
+DOCTOR: It's not curable once you find it but preventable.  So that's what a colonoscopy is for.  You find a polyp, they're not cancer yet, you remove them and you're free of cancer but if you don’t look for them and then later on.
+PATIENT: They're cancer.
+DOCTOR: They find you with cancer then there is only so much you can do.  So that's why screening is important.  Um so what you do is what [REDACTED] basically they put a camera through your rectum, go through all the length of your colon, look for any kind of polyps or any tumors.
+PATIENT: Uh-huh.
+DOCTOR: The hardest thing is the night, the day before, you have to drink, fasting is only one part.
+PATIENT: I know.
+DOCTOR: You have to drink this thing called Go-LYTELY, probably about half a gallon I think and then it'll just make you run all [REDACTED] yeah, so it'll clean your colon so that the doctor, you know the GI doctors will be able to visualize the colon.
+PATIENT: Right.
+DOCTOR: So that's the right thing really, you know.  You have to make sure that you're very close to the bathroom and um yeah [REDACTED].  Um that's pretty much it yeah and then once they find something they'll remove it.
+PATIENT: [REDACTED].
+DOCTOR: If they don't find anything then you don't have to take the test for another ten years.  What else do you want to know?
+PATIENT: I'm aware of the procedure.
+DOCTOR: Okay.
+PATIENT: The only reason that I'm reticent is because I've also heard, I believe you because you're a professional but I've also heard that the studies are not always.
+DOCTOR: 100% accurate.
+PATIENT: Right.
+DOCTOR: It's pretty good though.  Nothing's 100%.
+PATIENT: Right, I know.
+DOCTOR: Oh but.
+PATIENT: But it definitely outweighs, the good outweighs the bad.
+DOCTOR: Yeah I mean I've seen very sad results on people with colon cancer so that's why I recommend it and it's totally up to you um but I just don't want you to go through all the things that you, [REDACTED] fully unnecessary if you don’t have this screening.
+PATIENT: Well the uh, what's the other um, there's a gland or something.
+DOCTOR: Uh-huh.
+PATIENT: That men have.
+DOCTOR: Uh-huh prostate.
+PATIENT: Yeah the prostate.
+DOCTOR: Uh-huh.
+PATIENT: Maybe I'm confusing the two things.  Is the prostate exam the same as this?
+DOCTOR: No.  Prostate exam is just kind of like a rectal exam.  Have you ever had a rectal exam?
+PATIENT: Uh uh.
+DOCTOR: So basically.
+PATIENT: I mean just kind of feels around.
+DOCTOR: Yeah, yeah you feel around the rectum and the prostate's very close to the rectum.
+PATIENT: Right.
+DOCTOR: And you feel for any nodules.
+PATIENT: Right.
+DOCTOR: Yeah.  So.
+PATIENT: So that's a different procedure than the colonoscopy.
+DOCTOR: Oh yeah the colonoscopy is actually a much more complicated procedure.  They will sedate you.  There's a camera that goes in all the way.
+PATIENT: Right.
+DOCTOR: To your colon.
+PATIENT: Am I conscious?
+DOCTOR: You're probably not gonna be conscious you know.  I've heard some patients say that the anesthesiologist didn't give them enough sedation and they kind of woke up which is kind of a bad experience for them.  But usually they give you sedation, they say count back from three to one and you fall asleep.
+PATIENT: You know what, when I had this thing.
+DOCTOR: Uh-huh.
+PATIENT: They said that and they said you're gonna be conscious but you won't be able to do anything.  That wasn't true, I counted back and the next thing I knew they're waking me up.  I was out when they were doing.
+DOCTOR: What?
+PATIENT: That sounds like what I had the throat blockage, two years ago the chicken thing.
+DOCTOR: Oh okay.
+PATIENT: I was definitely knocked out so.  I was happy about that.
+DOCTOR: Yep, yeah.  The procedure itself is, yeah you're gonna be asleep so I think the hard part is the night before.
+PATIENT: The day, it's a day right, you can't you have to pass for an entire.
+DOCTOR: Yes.
+PATIENT: A day.
+DOCTOR: Exactly, starting in the morning you start drinking.  Yeah that has to start early so then you can actually sleep at night and you don't have to run to the.
+PATIENT: Right.
+DOCTOR: Yes.  So why don't we schedule you for that.  Um, what about the flu shot?
+PATIENT: Don't want it.
+DOCTOR: Okay.  Did you get a bad reaction from it before?
+PATIENT: In recent years I had to get shots, I was in the guard, the military 2007 so um that was more shots I think that I had in my life.
+DOCTOR: Okay.
+PATIENT: And um I'm.
+DOCTOR: Just be careful okay.  You know stay away from sick people.  I can't really, I usually recommend a flu shot but you know, if you don't want it that's fine.  Um I mean it's not fine but you have you know increased [REDACTED].  Um is said you had the tetanus shot, do you remember when?
+PATIENT: No not exactly but it was sometime.
+DOCTOR: Just give approximate, three to four years ago?
+PATIENT: Uh no, definitely before 06 so probably between 03 and 06.
+DOCTOR: Okay.  The tetanus you get it every ten years.
+PATIENT: Uh-huh.
+DOCTOR: So you'll probably need it in [REDACTED]@ then okay.  Um alright and that's good.
+PATIENT: I need to share one thing with you.
+DOCTOR: Yeah.
+PATIENT: What's the stuff that they uh, can't think of the name of it, it's a chemical cousin to what is in anti-freeze used in a car.
+DOCTOR: Uh-huh.
+PATIENT: The.
+DOCTOR: Methanol?
+PATIENT: No the stuff that makes you go.
+DOCTOR: Oh.
+PATIENT: But they sell it over-the-counter.
+DOCTOR: MiraLAX.
+PATIENT: Yeah MiraLAX whatever and I bought that.
+DOCTOR: Uh-huh.
+PATIENT: Let's say like in the last three months and I didn't even, I didn't drink the whole thing or all day like this would be but I took double dose.
+DOCTOR: Okay.  MiraLAX.
+PATIENT: And it didn't do anything; I mean not even a movement.
+DOCTOR: You're having constipation right?
+PATIENT: Well I'm not totally you know but that way but it's not moving like it should and I take psyllium and fruit you know.  I have at least a medium amount of fiber daily.
+DOCTOR: Uh-huh and then you also tried some MiraLAX and it didn't work.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yes.
+DOCTOR: How often do you go?
+PATIENT: Well once a day in the morning.
+DOCTOR: Okay so you do go daily.
+PATIENT: Right but it seems to me that what is you know by taking psyllium, in addition to if I'm eating beans and spinach and other things that are you know real high fiber then that should just fly out but there like today it was.
+DOCTOR: Do you have to strain a lot?
+PATIENT: Yah, I mean not a lot.
+DOCTOR: Uh-huh.
+PATIENT: But often enough.
+DOCTOR: Is like your stool very hard?
+PATIENT: When it's like that it is.
+DOCTOR: Okay.  Do you drink enough water?
+PATIENT: Yeah.
+DOCTOR: Okay.  Have you tried like Colace?
+PATIENT: What?
+DOCTOR: Colace, something that softens your stools.
+PATIENT: Uh, no.
+DOCTOR: Would you like to give that a try?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Oh the newest one that I tried is um, it begins with an S.
+DOCTOR: Senna.
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: And that.
+DOCTOR: That's a different kind yeah.
+PATIENT: Right.
+DOCTOR: So I'm gonna give you a stool softener which will make your stools soft so.
+PATIENT: That's different from Ex-Lax?
+DOCTOR: Yes so the other ones are kind of like.
+PATIENT: Oh.
+DOCTOR: Um.
+PATIENT: [REDACTED].
+DOCTOR: Uh they kind of like stimulate your intestines to make them move so that you go.
+PATIENT: Uh-huh.
+DOCTOR: This one it softens up your stool so you don't have to strain [REDACTED].  It looks like you're taking the other stuff.
+PATIENT: Uh-huh.
+DOCTOR: So why don't we um try this one since this acts in a different way and you can take it daily um and if it's still not working then you can take it twice a day okay.
+PATIENT: Hmm, I appreciate that.  Cause I told the doc, I told DOCTOR that.
+DOCTOR: Uh-huh.
+PATIENT: And he kind of blew me off; he said, “Ah, don’t worry about that.”
+DOCTOR: Yeah the only reason he said [REDACTED].  Did you want to pick it up or do you want it to be mailed?
+PATIENT: Uh pick it up today?
+DOCTOR: Uh-huh.  Do you want to pick it up today?
+PATIENT: Uh how does that work over there?
+DOCTOR: You wait at the Pharmacy and you pick it up.  Either that or um they would mail it to you and it would take about a week or so.  Do you want to pick it up?
+PATIENT: Let me pick it up because I got to go do the means test anyway so that'll give me time to go through the system.
+DOCTOR: Alright. [REDACTED] window [REDACTED]  And um.
+PATIENT: Years ago you know I ate a lot of fruit but used to be if I took prune juice guaranteed, an hour later, it would just fly out.
+DOCTOR: Uh-huh.
+PATIENT: And that doesn't work anymore.  I'll take both prune juice and eat prunes and nothing.
+DOCTOR: Oh, do you also take verapamil for your blood pressure?  It looks like DOCTOR gave you that last time.  You haven't been taking that?
+PATIENT: Um I have it but I've probably taken it you know four times cause.
+DOCTOR: Okay I'm just gonna discontinue that then.
+PATIENT: Right.  No I just got the first one in the mail and.
+DOCTOR: Okay.
+PATIENT: It was a couple of times so I had a headache and I thought well maybe it's related to that.
+DOCTOR: You got a headache?
+PATIENT: But I'm not taking it regularly.
+DOCTOR: Alright.  Let me take a listen to your heart.
+PATIENT: You want me up there?
+DOCTOR: That's fine.  Deep breaths in and out, again.  Again.  Good, they sound good.
+PATIENT: Keep breathing?
+DOCTOR: One more time, you can breathe normally now.  Any pain when I press here?
+PATIENT: Uh uh.  I should get rid of it.
+DOCTOR: Oh the belly.
+PATIENT: No I'm okay.
+DOCTOR: You could start working on your diet, low salt.  Any swelling?
+PATIENT: No.
+DOCTOR: Good, good.
+PATIENT: [REDACTED].
+DOCTOR: Alright looks good.  So you can pick up your medicines today.  I'll make an appointment with Dermatology uh let me talk with DOCTOR and I'll be right back.
+PATIENT: So Dermatology is just the desk up front?
+DOCTOR: Well I think.
+PATIENT: [REDACTED].
+DOCTOR: They should, yeah the front desk should be able to give you an appointment.  If not they'll give you like a phone number or something or they’ll direct you to where you can actually get an appointment.
+PATIENT: Uh when I leave here?
+DOCTOR: Yes.  I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  27:26  DOCTOR IN:  33:35)
+DOCTOR: Okay.
+PATIENT: Hmm.
+DOCTOR: I just talked with DOCTOR.  Actually uh it's more like up here right?
+PATIENT: Uh-huh.
+DOCTOR: Okay in that case the Ear, Nose and Throat doctors um I'm gonna refer you to them.
+PATIENT: Hmm.
+DOCTOR: They'll do a scope and see if there's anything in there.
+PATIENT: Hmm.
+DOCTOR: So ENT [REDACTED], so they should be able to schedule you up front alright and then pick this up and Docusate, stool softner okay.  Start with um taking it once daily, if necessary.
+PATIENT: Uh-huh.
+DOCTOR: And then kick it up to twice daily if it's necessary.  Drink tons of water and just keep an eye on your blood pressure.  Right now it looks good.  We’ll see how it is next time. And then for the colonoscopy they'll be contacting you to schedule you and make you an appointment.  Alright.
+PATIENT: You know what I still have the stuff, the powder.
+DOCTOR: Oh you do.
+PATIENT: They wanted me to do it about a year ago and I cancelled it but, but they're gonna call me.
+DOCTOR: Yes.
+PATIENT: To set up a time.
+DOCTOR: Yes.  And let me put in a referral for ENT.  So we'll refer to, you’re pretty much done. In the meanwhile what you can do is yeah go up to the front desk and make an appointment and um pick up your meds.
+PATIENT: Right, right.
+DOCTOR: Alright and I'll see you back in like four months or so or you can always see me earlier if something comes up.  I'm here on Wednesday afternoons.
+PATIENT: Okay.
+DOCTOR: Do you have any other questions?
+PATIENT: No.  I'll probably be back for one of these before then but I'll.
+DOCTOR: Yeah you can see me earlier [REDACTED].
+PATIENT:
+DOCTOR: nice but [REDACTED].
+DOCTOR: Yeah DOCTOR is great.  He's very experienced.
+PATIENT: Yeah I know, I know but it's…
+DOCTOR: Okay so I'll see you later.
+PATIENT: Alright.
+DOCTOR: Take care.  Stay healthy.
+PATIENT: Yes.  I will.  Thank you doctor.
+DOCTOR: You're welcome.
+PATIENT: See you next time.
+PATIENT: 36:44.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300314
+TRANSACTION # 578-10-2-316-0103

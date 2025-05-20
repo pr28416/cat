@@ -1,0 +1,506 @@
+DOCTOR: PATIENT?  Hello.
+PATIENT: How you doing doctor?
+DOCTOR: Good how are you?
+PATIENT: I'm good?  Got married yet?
+DOCTOR: No.  One month.
+PATIENT: One more month.
+SECOND PERSON C996
+I can't imagine.
+DOCTOR: Yeah grab a seat.
+PATIENT: Oh.
+DOCTOR: Just about there.
+PATIENT: Okay.
+DOCTOR: I’m kinda excited, looking forward to it a little bit.
+PATIENT: Yeah.
+DOCTOR: But it's scary.
+PATIENT: That's okay.
+PATIENT: Oh it'll be alright.
+DOCTOR: How are things going for you?
+PATIENT: Pretty good.  I got my little quirks.
+DOCTOR: Yeah.
+PATIENT: Yeah.  Pain here and there.
+DOCTOR: Any problems?  Want to talk about today, just following up?
+PATIENT: No, no big problems, except every so often my damn ankle hurts right here.
+DOCTOR: Yeah.
+PATIENT: Sore as hell.
+DOCTOR: What do you do when it hurts?  Like what makes it hurt?
+PATIENT: I don't know it just comes and goes.
+DOCTOR: You you injure it?
+PATIENT: Not that I can remember.
+DOCTOR: Did you do any exercise recently?
+SECOND PERSON C996
+Only working around the house.
+DOCTOR: Okay, walking around.  I mean the only thing we kind of do for that, do you take anything for it to help?
+PATIENT: Uh well I got some medicine Naproxen and that [REDACTED].
+DOCTOR: Yeah probably Naproxen.
+PATIENT: Yeah that and my wife, she rubs it and massages it with a liniment, like a liniment and it gets better.
+DOCTOR: Yeah.  You probably just have some strain on the ligaments and everything.
+PATIENT: Right it's just like a little pain that comes.
+DOCTOR: It comes up too?
+PATIENT: Yeah.
+DOCTOR: It's probably a little strain in the muscle.  Does it seem to be on the outside?
+PATIENT: Yeah like right, right in here.
+DOCTOR: There's a kind of strain where you're pushing your down and you're using these muscles.
+PATIENT: Oh.
+DOCTOR: And you’re using the muscles on the outside of the ankle.
+PATIENT: Right.
+DOCTOR: Pushing down like that so.
+PATIENT: Right.
+DOCTOR: The one thing to do is just you know keep exercising the ankle movement around.
+PATIENT: Right.
+DOCTOR: And don't overwork it too much.
+PATIENT: Okay.
+DOCTOR: Heating pads and stuff will help with that.
+PATIENT: Right.
+DOCTOR: Well and I mean and I'll take a look at it just to make sure there's nothing swollen in there or anything.
+SECOND PERSON C996
+Right.
+DOCTOR: Um, anything else?  Have you been checking your sugars?
+PATIENT: Yeah.  I'm in that study you know.
+DOCTOR: Oh right yeah.
+PATIENT: Calling it in three times a week.
+DOCTOR: Okay.  Um how do they look at home?
+SECOND PERSON C996
+They look good.  [REDACTED].
+DOCTOR: So when do you check them?
+PATIENT: Uh in the mornings and before I eat.
+DOCTOR: What is it usually?
+PATIENT: Uh it depends on if I’ve been naughty at night.
+DOCTOR: Yeah and in the morning?
+PATIENT: 124, 27 you know.
+DOCTOR: So 120s that's pretty good.
+PATIENT: Right.
+DOCTOR: Any low ones?
+PATIENT: Uh in the morning no.  I've had a few high ones like in the 150 range.
+DOCTOR: That's still not too bad so that's good.
+PATIENT: But after I take the medicine you know it's back to 130, 12 goes down to like 116, 107.
+DOCTOR: So it's pretty good.  So you're keeping in a good range and how about the blood pressure?
+PATIENT: Uh blood pressures range from like 130 you know, the bottom like 78 and heart rate, the heart rate always seems a little high.
+DOCTOR: [REDACTED].
+PATIENT: Yeah about 93, 98, one time 106.
+DOCTOR: Any reason why it's so fast?
+PATIENT: You mean.
+DOCTOR: No chest pain, shortness of breath?
+SECOND PERSON C996
+No not really.
+PATIENT: It usually go up a little when I do my inhaler you know.
+DOCTOR: Okay that's why.  The inhaler makes it a little fast that makes sense yeah.
+PATIENT: Right.  I get a little jittery.
+DOCTOR: It speeds it up.
+PATIENT: Right.
+DOCTOR: It [REDACTED] should.
+PATIENT: Right.
+DOCTOR: Alright.  So all the meds here, you're still taking the metformin?
+PATIENT: Yeah.
+DOCTOR: And the lisinopril, amlodipine.
+PATIENT: Yeah.
+DOCTOR: Niacin?
+PATIENT: Yeah.  I'm taking every damn thing.
+DOCTOR: We gave you more than enough so.
+PATIENT: Right.
+DOCTOR: That’s awesome, the blood pressure is good today.
+PATIENT: Yeah.
+DOCTOR: Really well-controlled, better than even before.  Pulse is high still.
+PATIENT: Yeah.
+DOCTOR: We'll recheck that.  Okay.  How is that knee?
+PATIENT: Uh it's doing pretty good.
+DOCTOR: Okay.
+PATIENT: Yeah, seems like it leaves one area and go into another area.  [REDACTED] and that wasn't a normal thing it's, just had a pain and that's normal but shit what can you do?  [REDACTED].
+DOCTOR: Well I know we tested a bunch of labs last time.
+PATIENT: Yeah, yeah.
+DOCTOR: And I remember that they all came back normal so [REDACTED].
+PATIENT: Didn't I get an x-ray or something?
+DOCTOR: You did like x-ray and that was okay.  Your iron was okay, we checked that.
+PATIENT: Okay.
+DOCTOR: And you know everything else here, your thyroid looks okay so I don't think there's any like any cause for, so you probably did something like first [REDACTED] and it happens sometimes you don't even.
+PATIENT: Yeah.
+SECOND PERSON C996
+Okay.
+DOCTOR: So today there's nothing prominent.  When was the last time you saw the eye doctor?  In October?  Is that right?
+PATIENT: I think so.  Yeah that's it.
+DOCTOR: And your level was not too bad.  Your A1c level was good, it was 7.2.  Now I want it below 7.
+PATIENT: Right.
+DOCTOR: But that's not bad.
+PATIENT: What's that fellow when I called in for my shoes?
+DOCTOR: Uh-huh.
+PATIENT: They asked me did I know my A1c.
+DOCTOR: Oh they asked you, that's the one you want to know.
+PATIENT: Okay.
+DOCTOR: 7.2 so.
+PATIENT: 7.2 and they want it below 6 right?
+DOCTOR: Well closer to, probably under 6.5 would be best.
+PATIENT: Okay.
+DOCTOR: I'd be happy to get you under 7. To be honest.
+PATIENT: Yeah okay.
+DOCTOR: So I mean, you're almost there and you're not on a ton of meds so.
+PATIENT: Right.
+DOCTOR: I mean we could probably let it go up a little bit.  I mean I think the way your sugars are looking and how's the diet and exercise doing?
+SECOND PERSON C996
+Good.
+PATEITN C996
+Yeah.
+DOCTOR: Yeah so you been losing weight, the same.
+SECOND PERSON C996
+Well I might let him [REDACTED] 206, 207.
+DOCTOR: Pretty good.  So losing a little?
+SECOND PERSON C996
+Yeah.
+DOCTOR: Pretty similar to last time.
+PATIENT: I've stopped eating a lot.
+DOCTOR: Okay. Your diet’s been good at least.
+PATIENT: Yeah.  Cause I got a sensitive tooth right there.
+DOCTOR: So that's how it's working?
+PATIENT: Yeah I got do another [REDACTED].  Sometimes I tell you I can't eat nothing.
+DOCTOR: Oh all the good stuff you can't eat.
+PATIENT: Yeah, like fried chicken, cause that's hard.
+DOCTOR: Yeah, it hurts too much.
+PATIENT: Yeah.
+DOCTOR: Yeah okay.
+PATIENT: Go ahead.
+DOCTOR: Oh no just stay where you're at.
+SECOND PERSON C996
+Okay.
+DOCTOR: Eat today already?
+PATIENT: Yeah I ate.  I went for blood work.
+DOCTOR: Okay.  So did they check your cholesterol?
+PATIENT: Right yeah did the blood work.
+DOCTOR: Okay.
+PATIENT: They called me and told me to come in and check my [REDACTED].
+DOCTOR: Okay.  It should be here.
+PATIENT: [REDACTED].
+DOCTOR: It's still a little high.
+PATIENT: Oh they did it already?
+DOCTOR: Yep.  So we might need to uh, let's see.  Are you taking the um simvastatin, you're taking it?
+PATIENT: Yeah.
+DOCTOR: And you're taking the niacin.
+PATIENT: Niacin.  I may be slacking on that one a little bit.
+DOCTOR: Okay try and take it daily so I don't have to.
+PATIENT: Okay.
+SECOND PERSON C996
+One time when I took that stuff.
+DOCTOR: Uh-huh.
+SECOND PERSON C996
+And I got me burning and burning and my skin's on fire.
+DOCTOR: You can take something for that.
+PATIENT: Okay.
+DOCTOR: You can take a Benadryl or using an aspirin before you take it.
+SECOND PERSON C996
+Right.
+DOCTOR: So you take aspirin anyway right?
+SECOND PERSON C996
+Right.
+DOCTOR: Baby aspirin at night like when you're going to take the niacin.  So take the aspirin a little before you take that pill.
+PATIENT: Oh okay, like 81 mg.
+DOCTOR: Yeah.
+SECOND PERSON C996
+Oh okay.
+DOCTOR: So if you take that before it should help. So when you take the aspirin.
+PATIENT: That scared the shit out of me.
+PATIENT: Right and I like to know, hearing these reports about this is outside a little bit of the norm, about testosterone.
+DOCTOR: Yes.
+PATIENT: So um now um I was been on the computer and found that.  Like I don't seem like I don't want my, you have to want desire for sex or whatever.
+DOCTOR: Uh-huh.
+PATIENT: And that's one of the reason low testosterone.
+DOCTOR: Right.
+PATIENT: Is there a test for that?
+DOCTOR: There is but it's something I don't like to check because I'll tell you the reason because giving testosterone has it’s own risk, it hurts your liver you know.
+PATIENT: Oh really.
+DOCTOR: It can do a lot of different things.  It changes your sugar levels.
+PATIENT: Oh.
+DOCTOR: It'll do [REDACTED]muscle mass at the same time, so like the prostate.  So if you're older obviously there's an increased risk of prostate cancer.
+PATIENT: Yeah.
+DOCTOR: I think it's probably good that they advertise and we don't know who really has benefit.
+PATIENT: Oh okay.
+DOCTOR: So I don't recommend it unless like you're getting really fatigued, it's like maybe you know it's like you're getting more like your hair like on the arms falling out.
+PATIENT: Right.
+DOCTOR: You're developing breasts then I would think oh you don't have testosterone you know.
+PATIENT: Oh okay.
+DOCTOR: But like I think in general you know for low energy I wouldn't recommend it because of it’s more risks than benefits.
+PATIENT: Cause that's just a bunch of hype.
+DOCTOR: Yeah I mean we could check it but even if it was low and unless it was really low...
+PATIENT: Yeah.
+DOCTOR: There’s no benefit.
+PATIENT: Okay.
+DOCTOR: You know, it would have to be super low.
+PATIENT: Okay.
+DOCTOR: I would be, I mean it's something we can look into.
+PATIENT: Right.
+DOCTOR: I mean as you get older, you lose a little bit of desire.  Do you have any trouble getting erections or anything?
+PATIENT: Uh, kind of, sort of.
+DOCTOR: Oh yeah, sometimes.
+PATIENT: Sometimes it still works, sometime it don't.
+DOCTOR: Okay.  Well then we'll do something.
+PATIENT: Yeah I got a wife that's 10 years younger than me so she [REDACTED].
+DOCTOR: She wants you to do well.  Unterstandable.
+PATIENT: That's alright.  I think it's um we'll have to get her a toy.  Hey whatever does it?  Right.
+DOCTOR: But I guess the question is you know is there anything else that could be contributing and like how's your sleep been?
+PATIENT: Uh that's kind of shitty at times.
+DOCTOR: What happens? Do you wake up?
+PATIENT: Yeah.
+DOCTOR: Do you think you snore or you wake up short of breath or anything?
+SECOND PERSON C996
+No.
+PATIENT: I goes to bed 9-9:30, go to sleep and I wake up.  If I don't take a Advil P.M. I wake up like 2 o'clock.
+DOCTOR: Why are you waking up?  What's going on?
+PATIENT: I don't know.  I just wake up.
+DOCTOR: Are you tired [REDACTED].
+SECOND PERSON C996
+No, uh uh.  I just wake up. I don’t know why.
+PATIENT: What.
+DOCTOR: Huh.  Can you go back to sleep?
+PATIENT: Yeah maybe after a while I go back to sleep.
+DOCTOR: Are you tired during the day?
+PATIENT: No I don't really do shit.  It's just that I wake up, I don't know why.
+DOCTOR: I don't know why either yeah.
+PATIENT: I wake up, I'm thinking on things that are important you know, crazy.
+DOCTOR: Have been anxious?
+PATIENT: What?
+DOCTOR: Have you been anxious?
+PATIENT: Sometimes I do get a little anxious.
+DOCTOR: With worries about what?  Any in general?
+PATIENT: No, just thinking about overall affairs.
+DOCTOR: Yeah.
+PATIENT: Just you know crazy shit.  How's the money going to last you know, I know, you know like and if I take an Advil P.M. I sleep good.
+DOCTOR: I don't recommend probably continuing to do that.
+PATIENT: Why?
+DOCTOR: You know when you can.
+PATIENT: Right.
+DOCTOR: Now all we're going is [REDACTED].
+PATIENT: Right.
+DOCTOR: If you feel like you're gonna wake up or you're having trouble, just take it before you go to bed.
+PATIENT: It's like a half a pill you know.
+DOCTOR: Good you know I mean I think it's real easy but I can give you a different medicine that might help with your erection problem.
+PATIENT: Right.
+DOCTOR: And if you feel maybe, you know another thing I think having a younger lady, do you feel pressure?
+PATIENT: No.
+DOCTOR: Any pressure to like perform?
+PATIENT: No she's understanding.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: You know, sometimes that can play a part. You get worked up and you want to do it and when you want to do it so bad you can't.
+PATIENT: I know sometimes when I see her cycle.
+DOCTOR: Hmm.
+PATIENT: She's going through menopause.
+DOCTOR: Hmm.
+PATIENT: Man she can get real crazy.
+DOCTOR: Yeah.
+PATIENT: The least little things, you know upset her, you know.  A guess women are like that [REDACTED].
+DOCTOR: I think around menopause is probably the worst.
+PATIENT: Yeah.
+DOCTOR: Cause the woman knows what's happening. Those hormones.
+PATIENT: Do men go through menopause?
+SECOND PERSON C996
+Not really um.
+DOCTOR: Your testosterone goes kind of go slowly.  It's not like how you where you just shut off.
+SECOND PERSON C996
+Right, right.
+DOCTOR: Like a slow drop so over time you know notice obviously testosterone is [REDACTED] talking about.
+SECOND PERSON C996
+Right, right.
+DOCTOR: Not really, unless you're, testicles totally fails and generally when it fails you gotta go to [REDACTED].
+PATIENT: Right okay.  Yeah I guess I just have to, [REDACTED], live off the memories.
+DOCTOR: Yeah.  Well you know it's something I would think about checking from.
+PATIENT: Right.
+DOCTOR: If you really want, if you're really concerned about, how often can you get an erection?  Do you wake up with erections?
+PATIENT: No not really.
+DOCTOR: No.
+PATIENT: I don't know even [REDACTED].
+DOCTOR: No, not anymore.
+PATIENT: That's what I say is it supposed to drop like that?
+DOCTOR: How quickly did it fall off, I mean fall away?
+PATIENT: Um gradually.
+DOCTOR: Like all the time?
+PATIENT: Yeah.
+DOCTOR: Well I think you know, part of that is getting the diabetes under control.
+PATIENT: Right.
+SECOND PERSON C996
+Yeah.
+PATIENT: The medicines.
+DOCTOR: Yeah.  Now that your sugars are getting pretty good.
+PATIENT: Right.
+DOCTOR: I think that's gonna help.
+PATIENT: Okay.
+DOCTOR: And now the blood pressures even looks a little better. So that’s going to help.
+PATIENT: Right.
+DOCTOR: So the only thing that I would say that I think will help rather than the testosterone is you know getting around and like walking.
+PATIENT: Exercising.
+DOCTOR: Get the blood flowing.  The biggest problem is the blood flow.
+PATIENT: Right, right.
+DOCTOR: I doubt if its testosterone but you don’t look like a guy who is short on testosterone.
+PATIENT: Yeah okay doc.
+DOCTOR: I knew you did.  So I wouldn't worry about it.
+PATIENT: Right okay.
+DOCTOR: So I think you'll be okay.
+PATIENT: Alright.
+DOCTOR: Get moving.  Anything that cleans out the blood vessels is good.
+PATIENT: Okay.
+DOCTOR: And get the blood flowing.
+PATIENT: Okay.  I know I went out of town and I work, you know, I was enclosing my back porch and  [REDACTED].
+DOCTOR: Oh.
+PATIENT: I worked every day. And I felt better. I got sore afterwards. After working you know so heart rate and all of that, I started feeling better though.  So I got to start exercising.
+DOCTOR: You need to do that.
+PATIENT: Yeah, yeah.
+DOCTOR: It’s all you got to do it then.
+PATIENT: Right, okay.
+DOCTOR: So maybe that's the main thing.  I don't think you have any medications that are causing a problem and I'm just looking here.  Yeah you don't have any medications that should interfere.
+PATIENT: Okay.
+DOCTOR: That would be another thing I'd check.
+PATIENT: Don't the water pills do that?  The water pill?
+DOCTOR: Not really. They shouldn't.  Everything else looks good.
+SECOND PERSON C996
+[REDACTED].
+DOCTOR: I need to do a quick exam on you and you already got all your labs done.  They look obviously the cholesterol is still a little high.  Not where I want to see the bad cholesterol, the 128.
+PATIENT: Okay.
+DOCTOR: I want that under 100 but if you take the niacin.
+PATIENT: Right.
+DOCTOR: That might help.
+PATIENT: Okay.
+DOCTOR: Just take the aspirin before.  Cholesterol's okay.
+PATIENT: Okay.
+DOCTOR: Not where we want it to be, it's just a little high triglycerides but that will go down when the diabetes is under better and better control, these are going to get better so.  [REDACTED] before and your blood looks fine, nothing here that’s worrisome.
+PATIENT: Okay.
+DOCTOR: So that's about it.
+PATIENT: Okay.
+DOCTOR: Let me do a quick exam on you.  I'll go talk with the other doc and we'll get you out of here.  Do you need anything else?
+PATIENT: Uh no I'm good.
+DOCTOR: Okay.
+PATIENT: It's all good.
+DOCTOR: When did you take your inhaler last?
+PATIENT: Uh this morning, about 8:00.
+DOCTOR: Okay I think it's been fast but nothing.  Did you walk around a lot before you got here?
+PATIENT: No.
+DOCTOR: Okay.  You don't feel short or breath, chest pain?
+PATIENT: No.
+DOCTOR: Okay.  Nausea, vomiting?
+PATIENT: No.
+DOCTOR: You've been taking them with liquid?
+PATIENT: Yeah, yeah.
+DOCTOR: No fevers, chills?
+PATIENT: No.
+DOCTOR: Coughing up anything?
+PATIENT: No.
+DOCTOR: Pain when you urinate?
+PATIENT: Uh what?
+DOCTOR: Any pain when you urinate?
+PATIENT: No.
+DOCTOR: Okay.  You are actually just a little bit fast.  I'm making you nervous.
+PATIENT: You put me on the spot doc.
+DOCTOR: Take a deep breath.  Again.  Any pain here?
+PATIENT: No.
+DOCTOR: Can I take a look at your feet?
+PATIENT: Yeah sure.
+DOCTOR: I want these reminders to quit.  Alright.
+PATIENT: [REDACTED].
+DOCTOR: Is that right.  You don't want them too moist anyway.
+PATIENT: Yeah.
+DOCTOR: With diabetes.  So you got good feeling along through here?
+PATIENT: Yes.  I had um surgery on that [REDACTED].
+DOCTOR: Yeah what'd you have done there?
+PATIENT: I had like a hammertoe and.
+DOCTOR: Is this recently.
+SECOND PERSON C996
+About a year.
+PATIENT: Yeah.  It was painful as hell in that joint [REDACTED].
+DOCTOR: Better now?
+PATIENT: Yeah it got kind of dark you know and they cut that joint up.  They broke that bone, put a pin in it and straightened it out.
+DOCTOR: That helped out a lot?
+PATIENT: What?
+DOCTOR: That helped out a lot?
+PATIENT: Oh yeah.
+DOCTOR: Do you have feeling here?
+PATIENT: Yes.
+DOCTOR: [REDACTED], working.
+PATIENT: Right.  No I'm retired.
+DOCTOR: Oh they look good.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Right.
+DOCTOR: Oh they want me to screen everyone for HIV.  I mean you already had labs drawn today.  I'll just say we'll do it next time.
+PATIENT: Okay.  Yeah I think I'm safe.
+DOCTOR: I’m sure you are, but they tell me to do it for everyone.
+PATIENT: Yeah okay, okay.
+DOCTOR: So but we can skip it today.  [REDACTED].
+PATIENT: Alright.
+DOCTOR: And you had your c-scope four to five years ago.
+PATIENT: Right.
+DOCTOR: I got it all set up.
+PATIENT: What the?
+DOCTOR: Oh the colonoscopy.
+PATIENT: Oh.
+DOCTOR: Everything else looks okay.  You said the [REDACTED] is better.  Normal.  Everything else is normal.  Alright let me talk with the other doc.
+PATIENT: Okay.
+DOCTOR: And I think, yeah no big changes.  Just we'll try that niacin okay.
+PATIENT: Okay.
+DOCTOR: I'll be back in a moment.
+PATIENT: And that aspirin won't let me get the burns huh?
+DOCTOR: It'll help.  If it doesn't work we can try a full dose aspirin.
+PATIENT: Okay.
+DOCTOR: The 325 and you can try that and that should help prevent it at least.
+PATIENT: Okay.
+DOCTOR: Either that and if that doesn't work Benadryl.
+PATIENT: Oh Benadryl.
+DOCTOR: Yeah sometimes that works.  That's what's in the Tylenol P.M. anyway.
+PATIENT: Right.
+DOCTOR: So take it before bed.
+PATIENT: Yeah.
+DOCTOR: And it works like Tylenol P.M., it'll work.
+PATIENT: Okay.
+DOCTOR: Try it with the aspirin first.
+PATIENT: Okay.  Alright.
+(DOCTOR OUT:  46:23  DOCTOR IN:  52:33)
+DOCTOR: Alright one change.
+PATIENT: Okay.
+DOCTOR: We are going to change your one cholesterol medicine.
+PATIENT: Okay.
+DOCTOR: Not the niacin, the simvastatin.
+PATIENT: Right.
+DOCTOR: We're gonna stop that one and we're going to put you on something called Crestor.
+PATIENT: Crestor.
+DOCTOR: Yeah.  But keep taking this until they get you the Crestor cause I got to get it approved.
+PATIENT: Okay.  What's the difference?
+DOCTOR: Stronger.
+PATIENT: Stronger?
+DOCTOR: Stronger, and I don’t think you’ve had side effects from that?
+PATIENT: Right.
+DOCTOR: But um it's a little strong and [REDACTED] benefit.
+PATIENT: Okay.
+DOCTOR: This might actually help you with your erections too, to be honest.  So let’s do whatever we can to help you.
+PATIENT: Okay the Crestor, once I get the Crestor then and take the niacin.
+DOCTOR: You take the niacin and you stop the simvastatin.
+PATIENT: Okay.
+DOCTOR: So let me uh make sure, it's not formulary criteria restricted.  Hmm.  We'll start you at 10 mg and we'll go up if we need to but we'll start you low so we'll have someplace to go.
+PATIENT: Okay.
+DOCTOR: And I'll do refills.  [REDACTED].  Okay.  Right there.
+PATIENT: So they going to do six months, every six months?
+DOCTOR: Yeah you want to come back in six months or three months?
+PATIENT: Oh I'll come in six.  That would be when?
+DOCTOR: Uh where we at?
+PATIENT: July?
+DOCTOR: April, July.
+PATIENT: Uh.
+DOCTOR: If you want to come in July we could do that and then we could get, I mean you know see how you're doing with the medications.
+PATIENT: Okay.
+DOCTOR: Any issues.
+PATIENT: Okay.
+DOCTOR: Okay.  And then we can go back to six months.
+PATIENT: Okay.
+DOCTOR: And no labs today.  [REDACTED].  I'll have them send it to you, so you don’t have to wait.
+PATIENT: Okay.
+SECOND PERSON C996
+Congratulations [REDACTED] married.
+DOCTOR: Okay.  See you in three months?
+PATIENT: Alright.  Hey I'm glad to have met you.
+DOCTOR: [REDACTED].
+PATIENT: Walking around with your chest out.
+DOCTOR: Yeah I don't know about that.  [REDACTED].  She'll be in control.
+PATIENT: Right.
+DOCTOR: Here you go, just check out with her okay.
+PATIENT: Okay.  Have a good one, doc.
+DOCTOR: You too.
+PATIENT: [REDACTED].
+PATIENT: 55:31.
+Time is 2:01 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255127
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,290 @@
+DOCTOR: PATIENT?
+PATIENT: PATIENT.
+DOCTOR: I knew it was that.  How are you sir?
+PATIENT: How do you do?
+DOCTOR: I'll take your jacket for you.
+PATIENT: Thank you.
+DOCTOR: You're early, were you worried about the snow?
+PATIENT: Yes.
+DOCTOR: And how was your drive?
+PATIENT: Pardon?
+DOCTOR: How was your drive?
+PATIENT: Oh I'm only ten minutes away.
+DOCTOR: Ten minutes away so no problem getting here?
+PATIENT: But oh, the state or whoever's in charge of all the roads should be complimented on what a wonderful job they do.
+DOCTOR: I'm gonna grab another chair that we put your coat on it.  I think they really scared us so.
+PATIENT: Pardon?
+DOCTOR: They really scared us and everybody said you know they're working really hard.  Why don't you have a seat.
+PATIENT: Okay.
+DOCTOR: How are you feeling?
+PATIENT: Fine, fine.
+DOCTOR: Okay.
+PATIENT: Uh I brought this for you because I got this from the last time I got this medicine.
+DOCTOR: Okay.
+PATIENT: And then here's the letter I got.
+DOCTOR: Okay.
+PATIENT: But this one they said there's no refills.
+DOCTOR: Okay we can do that for you.  Yeah so, this medicine that you're on is for helping with cholesterol.
+PATIENT: Yeah.
+DOCTOR: I think your cholesterol is really good.  They’re doing a test to see how you are doing off of this medication so you're on two other medicines for your cholesterol.
+PATIENT: I mean I'm glad to see this.
+DOCTOR: Yeah.
+PATIENT: I just.
+DOCTOR: Yes I understand.
+PATIENT: Just so you know about this.
+DOCTOR: I understand, yeah.
+PATIENT: Oh.
+DOCTOR: So you're taking the simvastatin still, which is for your cholesterol and also the niacin will help.
+PATIENT: Okay.
+DOCTOR: You still taking those two?
+PATIENT: Yeah I take my pills religiously, I never miss that.
+DOCTOR: Okay.  Um okay that should come up.  Any other problems with other medications.
+PATIENT: No, no.  Everything's fine.
+DOCTOR: Uh-huh.  Um the last time I saw you was in July, what's been going on or how have you been feeling since we saw you last?
+PATIENT: Well I feel fine.  Everything's going well.
+DOCTOR: Uh-huh.
+PATIENT: My one concern, what if I uh wanted to see you before a scheduled visit, do I just call and.
+DOCTOR: Uh-huh.
+PATIENT: Talk to the nurse or there's a line to talk to somebody.
+DOCTOR: Yes.
+PATIENT: So I can get to you.
+DOCTOR: Uh-huh is there's something that you were concerned about or you are concerned about?
+PATIENT: Well I'm just concerned about; I'm going to a doctor for my PSA.
+DOCTOR: Uh-huh.
+PATIENT: I do that once a year.
+DOCTOR: Yes.
+PATIENT: And if anything turns up on that.
+DOCTOR: Uh-huh.
+PATIENT: Then I'm gonna leave him and come over here.
+DOCTOR: Okay.  Um so in that case, that would be a urologist that you would see.  So what you could do is you could do one of two options.  I work at Loyola and here so I'm only here every other week so sometimes it's hard getting in but usually I have an opening.  We also have an Acute Care Clinic that you can come see anybody at any time so you can get in right away.  Um, but if it's something that you're concerned about your PSA all you need to do is give me a call and I can set up a referral to our urologist so I can get you right there too.
+PATIENT: I can call you?
+DOCTOR: So the front desk can give you a number to call for the nurses and the nurses give me the message when you call.
+PATIENT: I have that number for nurses.
+DOCTOR: Yeah, yep.  So they give me the message through the computer and I'll either call you right away or do whatever you need done.
+PATIENT: Okay.
+DOCTOR: Refill your medicine.
+PATIENT: Okay, I just, I don't care if it's a week or ten days or whatever.
+DOCTOR: No, no.
+PATIENT: If I call you I can.
+DOCTOR: If you call me and say.
+PATIENT: I'll get a hold of the nurse number.
+DOCTOR: Yes any day.
+PATIENT: And tell her I'd like to hear from you.
+DOCTOR: Say you just tell her my PSA is high and I want to see either my primary care doctor or a urologist and I'll make that happen.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: That's good.
+DOCTOR: So yeah but we'll do whatever we can to do the best guess for you what we need to do okay.  When is the last time you saw your urologist?
+PATIENT: Uh a few weeks ago but I have to go back May 1st for another blood test and another check-up.
+DOCTOR: Okay.  Um.  Any problems or pains that you've been having?
+PATIENT: No I feel good.
+DOCTOR: Okay.  Um just making sure all of your medicines here are renewed.  Okay.  So have you been checking your blood pressure at home?  No, you never check your blood pressures?
+PATIENT: Once in a while but not very often.
+DOCTOR: It's well controlled today.
+PATIENT: About every time, every place I go it's always so good that.
+DOCTOR: Uh-huh.
+PATIENT: I have the little machine.
+DOCTOR: That's okay.  You don't have to.  If you're feeling sick or whatever, it's good to kind of check it out.
+PATIENT: And I've been losing weight.
+DOCTOR: Good.
+PATIENT: Of course I've been trying to do.
+DOCTOR: Good.  Are you checking your blood sugars at home?
+PATIENT: Pardon?
+DOCTOR: Have you been checking your blood sugars at home?
+PATIENT: Once in a while.
+DOCTOR: Okay what kind of numbers are you getting at home?
+PATIENT: Uh I don't even remember.
+DOCTOR: 100s, 200s, 300s?
+PATIENT: Oh I don't get up to 300, oh heavens no.
+DOCTOR: Yeah.  The last time we checked you're um hemoglobin A1c what we look for on average it looks well controlled so everything seems to be okay with that okay.  And I see you saw the dermatologist for the lesions on your back and uh they did some scraping of some lesions [REDACTED].
+PATIENT: Why did we go there, we went there for.
+DOCTOR: You had uh, there was a rash that we're concerned about and.
+PATIENT: Oh that's right for the rash yes.
+DOCTOR: Yeah, yeah.
+PATIENT: He was very good and then he took some little uh cancer cells off my face with a little hot however, whatever he put on there.
+DOCTOR: Yes.
+PATIENT: That worked very well.
+DOCTOR: Okay good.
+PATIENT: And he prescribed a couple salves that worked well.
+DOCTOR: Uh-huh.  So good.
+PATIENT: Yeah I don't know what caused that, that was.
+DOCTOR: Do you know what kind of blood test you're going to be getting,  soon you said?
+PATIENT: With my urologist?
+DOCTOR: Yeah.  Is he going to do like a whole work-up do you know or?
+PATIENT: I don't know what they do.
+DOCTOR: Okay.
+PATIENT: Then he comes up with what the PSA number is.
+DOCTOR: Yeah okay.  I looked this morning and we don't need any lab work right now but if they're gonna do something that I can look at, you know like, uh like your kidneys and liver and all that, maybe you can get a copy or have them fax it over to us.
+PATIENT: Well he'll be very happy to give me a copy.
+DOCTOR: Yeah so that way you don't have to repeat stuff here.
+PATIENT: Okay.
+DOCTOR: And we can put that in the system.
+PATIENT: Okay.
+DOCTOR: Okay.  The last time we did blood work everything was really good so I'm not concerned about anything but like I said I don't want to repeat things that they're already doing.
+PATIENT: Okay.
+DOCTOR: So why don't you just get that.  Okay.  Um any chest pain, trouble breathing?
+PATIENT: No.
+DOCTOR: Appetite's been good?  Did you try to eat healthier and, how are you losing the weight?
+PATIENT: By eating.
+DOCTOR: Eating okay.  Doing any activity or exercises?
+PATIENT: Well I certainly don't consider golfing exercise but I walk.
+DOCTOR: You walk, that's good.
+PATIENT: Yeah.
+DOCTOR: You're not walking I mean you're not golfing right now are you?
+PATIENT: Well a couple days a week we go hit balls over in the golf dome but you know.
+DOCTOR: Oh, kind of bad weather to start right now.
+PATIENT: Yeah.
+DOCTOR: Um any problems with urinating or bowel movements?
+PATIENT: No, no.
+DOCTOR: Not that you've noticed okay.
+PATIENT: No I feel good.
+DOCTOR: Sleeping, how are you sleeping?
+PATIENT: Pardon?
+DOCTOR: Sleeping okay at night?
+PATIENT: Oh, yeah well no I dream a little bit but that's you know normal.
+DOCTOR: Did you hear, feel the earthquake last night?
+PATIENT: No but my wife did.
+DOCTOR: Yeah.
+PATIENT: She told me she said my God I heard a terrible noise.
+DOCTOR: Yeah.
+PATIENT: Like a train.
+DOCTOR: Yeah.
+PATIENT: And then the bed shook.  I said well that's good.
+DOCTOR: (Laughter)
+PATIENT: Well right then she had the TV on.
+DOCTOR: Yeah.
+PATIENT: And they then talk about the earthquake.
+DOCTOR: Yeah.
+PATIENT: I said that was an earthquake you felt, well then and there also was a major train accident over in Hinsdale.
+DOCTOR: Really.
+PATIENT: So.
+DOCTOR: They always say I thought that it'd feel like a train or a truck was driving by so they're not sure what's going on.
+PATIENT: Okay.  Yeah I've been in a couple earthquakes in Japan.
+DOCTOR: Oh really.
+PATIENT: But I was too dumb and drunk to know the difference and the Japanese are running out of buildings like.
+DOCTOR: (Laughter).  Um it wasn't as bad as like in Haiti.  They said that was 500 times worse.
+PATIENT: Well this one they only said was 3 something.
+DOCTOR: Yeah.  How's your vision, your eyes doing?
+PATIENT: Great I go to the doctor once a year.
+DOCTOR: And when was the last time you went?
+PATIENT: I think I'm due to go to him again in three months or so.  I go the same time every year.
+DOCTOR: Yeah.
+PATIENT: And uh if you want I can bring a, a report but I've gone two years now with the same glasses.
+DOCTOR: Great.  Not seeing any spots or blurriness?
+PATIENT: No he said my eyes are great. Well, not great, but…
+DOCTOR: [REDACTED].  Good open your mouth ah.
+PATIENT: Ah.
+DOCTOR: Okay.  And how's the hearing been doing? [REDACTED]
+PATIENT: Fine.
+DOCTOR: Any fevers or chills?
+PATIENT: No.
+DOCTOR: No.  Okay that looks good.  Let me grab my stethoscope and I'll be right back.
+(DOCTOR OUT: 34:56  DOCTOR IN:  35:37)
+DOCTOR: Sorry about that.  I'll take a listen to your heart.  Take a few breaths for me, in and then out.  Okay.  I'm gonna have you lie back for me.  Any trouble laying flat?
+PATIENT: No.
+DOCTOR: No.  Do you have any stairs at home?
+PATIENT: Any stairs?
+DOCTOR: Uh-huh.
+PATIENT: Oh yeah we have a two story house, I'm up and down the stairs all the time.
+DOCTOR: Any trouble, no problems though okay.
+PATIENT: I think that's a good way to work-out.
+DOCTOR: It is.  Let me help you sit up.  So how's the swelling doing?
+PATIENT: I got my comb in the way.
+DOCTOR: That's okay.  Is the swelling doing okay?  Do you get more water in the legs or trouble?
+PATIENT: Yeah only once did you notice that.
+DOCTOR: Yeah.
+PATIENT: I never, you know I.
+DOCTOR: Okay.  And the way you take the furosemide you're taking that once a day, still, that's the water pill, this one right here.
+PATIENT: I don't even know what my pills are for. I take them religiously.
+DOCTOR: Yeah okay.  Okay.  Squeeze my fingers; let me see how strong you are.  Squeeze.  Noticing any weakness in your arms or legs, no okay.  Alright.
+PATIENT: Do I pass the strength test?
+DOCTOR: You do, you do.
+PATIENT: I could have squeezed harder.
+DOCTOR: I'd say you were at 65.
+PATIENT: Pardon?
+DOCTOR: I'd say you were at 65 or maybe 70. You don’t look like youre.
+PATIENT: Oh.
+DOCTOR: No okay, so I don't think we need to change of your medications.  Everything seems to be doing well from half the blood work and the blood pressure today.  Um when you do go see your urologist, you know grab a copy or just have them fax them over.
+PATIENT: Well if he says everything's okay.
+DOCTOR: Yes.
+PATIENT: I won't call you.
+DOCTOR: Yeah.
+PATIENT: But if he has some concerns.
+DOCTOR: Sure.
+PATIENT: Well what he did, in fact last year he told me you know I don't know why you're really coming anymore.
+DOCTOR: Yeah.
+PATIENT: He said if we found anything at this stage.
+DOCTOR: Yeah.
+PATIENT: He said we might even let it go because the cure is worse than the…
+DOCTOR: It is.
+PATIENT: And uh so but this time he did a finger examination.
+DOCTOR: Hmm.
+PATIENT: And he said it still, there's no hardness and your prostate feels good.
+DOCTOR: Uh-huh.
+PATIENT: But I'd like to do the blood test again.
+DOCTOR: Most men die with prostate cancer, not of prostate cancer.
+PATIENT: Yeah.
+DOCTOR: So you're right the surgery and the treatment is much worse and as long as you're feeling okay.
+PATIENT: Right. I don't have any.
+DOCTOR: There's not complications then we wouldn't mess with it.
+PATIENT: No.
+DOCTOR: Most of the people say that at age 80 or even 75 they would stop even testing for that.
+PATIENT: Well that's what he told me.
+DOCTOR: Yeah.
+PATIENT: And I said well let me come back one more year.
+DOCTOR: Uh-huh.
+PATIENT: This was gonna be my last visit this year.
+DOCTOR: Yeah okay.  Well you've seen the eye doctor in the last three months.  You're gonna see your urologist.
+PATIENT: Those are the only two outside doctors I go to.
+DOCTOR: Okay.  So what I can do is I still need to see a copy of those blood tests just so we don't have to repeat anything here.
+PATIENT: Okay.
+DOCTOR: And if you don't get everything you need then the next time we see you we'll do some blood work for you.
+PATIENT: Okay.
+DOCTOR: Make sure everything's doing okay.
+PATIENT: Yeah if he says I'm alright I let you know.
+DOCTOR: Okay, okay.
+PATIENT: But if there's any concern I'd just as soon come back here.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Do have any specific questions or anything else that we didn't talk about?
+PATIENT: No you took care of this.
+DOCTOR: Yep, I renewed that and all the other medications.
+PATIENT: This is [REDACTED].
+DOCTOR: Okay.
+PATIENT: This one, I'm glad this is one less pill.
+DOCTOR: Yep it is.
+PATIENT: Okay.
+DOCTOR: I'm gonna say six months right here but I can see you sooner or later if we need to, does that sound okay?
+PATIENT: Right.  And I'll call the nurse.
+DOCTOR: Yep.
+PATIENT: And then she'll get a hold of you.
+DOCTOR: And they can give you the number if you don't have it up front okay.
+PATIENT: Okay and you'll be around for another?
+DOCTOR: For a little bit longer, not much longer so.
+PATIENT: How long?
+DOCTOR: So I'll probably see you one more time and that's it.
+PATIENT: So where are you heading?
+DOCTOR: I'm going to be working at Loyola full-time.
+PATIENT: Oh okay.  You're not going out-of-town.
+DOCTOR: Uh out-of-town.  I'll be at Loyola.
+PATIENT: Okay.
+DOCTOR: I'll be working in the ER here at Hines once in a while but I won't be in the clinic any longer.  So I'm at Loyola three years and [REDACTED].
+PATIENT: Has it been that long?
+DOCTOR: Yeah it has been.  But you're such an easy patient, you know you don't cause any trouble that it's been nice having you.
+PATIENT: Well then I should get a little sick.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: I'll have you check out up front so they can put you on the list for appointments and if you need anything you just let me know.
+PATIENT: I will.  I'll be glad when we can hang.
+DOCTOR: Be careful in the snow okay.
+PATIENT: When we can hang these clothes up.
+DOCTOR: Be careful with the snow out there.
+PATIENT: I will and thank you very much.
+DOCTOR: You're gonna take a left and then a right.
+PATIENT: Okay left and right.
+PATIENT: 40:35
+Time is 9 o'clock.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238080
+TRANSACTION # 578-10-2-316-0103

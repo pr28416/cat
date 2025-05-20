@@ -1,0 +1,772 @@
+DOCTOR: PATIENT?
+PATIENT: Yes ma'am that's me.
+DOCTOR: Hello.
+PATIENT: Hello.
+DOCTOR: Hey, I'm DOCTOR.
+PATIENT: Okay.
+DOCTOR: Come back.  There you go.  You can sit down here.  How you doing today?
+PATIENT: Oh just okay.
+DOCTOR: Just okay.  Come on in.  Nice to meet you.
+PATIENT: Same here.  I kept hearing about DOCTOR and I said.
+DOCTOR: Oh yeah, well that's me.  Alright.
+PATIENT: Finally.
+DOCTOR: So you've never been in this clinic before it looks like.
+PATIENT: Uh yes but I had doctor, can't think of his name, anyway he graduated and went to [REDACTED].
+DOCTOR: Oh okay.  Alright.
+PATIENT: So I've been here before.
+DOCTOR: Okay.
+PATIENT: But the last time I been here for me was in September when I was going to the Summer Sports Clinic.
+DOCTOR: Oh okay.
+PATIENT: And so all they did was okayed by Occupational.
+DOCTOR: Okay, alright.
+PATIENT: As a matter of fact I got another one.
+DOCTOR: [REDACTED].
+PATIENT: Uh yes this is the wheelchair games.
+DOCTOR: Oh that's why.  Oh yeah this looks long.
+PATIENT: Yeah it's not that much [REDACTED].  Uh actually I'm a patient in the Spinal Cord Clinic too see.
+DOCTOR: I saw that yes.
+PATIENT: Yeah so most of.
+DOCTOR: I see all of the.
+PATIENT: A lot of other things I get them to fill out.
+DOCTOR: Okay.
+PATIENT: So whatever part that pertains to my physicality I guess you can put that on.
+DOCTOR: Okay.
+PATIENT: Most of the parts are in the computer.
+DOCTOR: This part you can fill out.  So this is mainly the physical exam huh?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I guess you need this.
+DOCTOR: Your med list?  Okay so I'll fill this out at the end after I take a look at you okay.
+PATIENT: Huh?
+DOCTOR: Okay.  So how are you doing, what brings you in today?
+PATIENT: Well just like I say.
+DOCTOR: So you need a follow-up okay.
+PATIENT: Well the first, like I say I haven't seen my primary care doctor since, had to be August or June of last year.
+DOCTOR: Okay, okay.
+PATIENT: And uh.
+DOCTOR: So you're due huh?
+PATIENT: Yeah I'm overdue.
+DOCTOR: Okay, alright.  Well is there anything that you want to talk about today specifically, is something bothering you or that's new?
+PATIENT: Well I got kind of a night cough.  I keep coughing up phlegm.
+DOCTOR: Okay.
+PATIENT: So I probably need some type of cough syrup or something.
+DOCTOR: Okay.  And how long have you been coughing for?
+PATIENT: Uh it's been since the winter months.  I guess since about December.
+DOCTOR: Okay.
+PATIENT: Maybe about November.
+DOCTOR: Okay.
+PATIENT: And it only usually happens at night for some reason.
+DOCTOR: Okay.
+PATIENT: And uh other than that uh, I got a letter that's saying they changed from the sildenafil to.
+DOCTOR: Viagra?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: And uh the dosage is not high enough for me.
+DOCTOR: Okay.
+PATIENT: I need that to probably be 100.
+DOCTOR: Okay.  Have you tried it?
+PATIENT: Yeah.
+DOCTOR: The dose that they gave you and it's not working?
+PATIENT: No.
+DOCTOR: Okay.  Okay.  Alright what else?
+PATIENT: And other than that.
+DOCTOR: [REDACTED]
+PATIENT: Uh that's about it.
+DOCTOR: Okay.
+PATIENT: Uh a lot of the medications that they giving me like for my uh bowel movements.
+DOCTOR: Yeah.
+PATIENT: I don't even basically use those anymore.  I don't know if it's a problem but when I start having a problem I got to use what they call enemas.
+DOCTOR: Enemas?
+PATIENT: Enemas, its a little tube.
+DOCTOR: Yes.
+PATIENT: Okay I don't see it on there.
+DOCTOR: Oh.
+PATIENT: Oh I think it might be on there, its okay.
+DOCTOR: Yeah it's this one.
+PATIENT: How many more prescriptions I got for that?
+DOCTOR: You have two refills.
+PATIENT: Okay.
+DOCTOR: I'll give you more.
+PATIENT: Well I mean I'm okay with that.
+DOCTOR: Okay.
+PATIENT: Cause I see my Baclofen I got one refill left for that.
+DOCTOR: Okay.
+PATIENT: And I think you're gonna have to order that.
+DOCTOR: You want to some more of that.
+PATIENT: I probably need some more of that.
+DOCTOR: Are you taking this Docusate, the oral medication for your stool or no?
+PATIENT: No.
+DOCTOR: Do you want us to take off your list?
+PATIENT: No, see the reason for that being it's like, it's unpredictable.
+DOCTOR: Okay.
+PATIENT: You see what I'm saying it's like.
+DOCTOR: Yeah.
+PATIENT: I stay on the second floor.
+DOCTOR: Okay.
+PATIENT: And I stay with my son and my daughter-in-law.
+DOCTOR: Okay.
+PATIENT: So I got 16 stairs to my bedroom.
+DOCTOR: Okay.
+PATIENT: And so it's unpredictable so it'd be like maybe three or four days I don't have the desire to go.
+DOCTOR: Okay.
+PATIENT: So I know I have to so that's when I use the enema.  I have one of them in the bathroom I got access to.
+DOCTOR: Okay, so you just use the enemas?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Now like I say I don't know if that's a problem.
+DOCTOR: So I enemas aren’t good to use regularly.
+PATIENT: You see I end up using them anytime I have to go, other than I don't have no.
+DOCTOR: I think maybe what we should do is, so are you able to walk at all?
+PATIENT: Yes.
+DOCTOR: You are.
+PATIENT: Yeah at home I walk with a cane.
+DOCTOR: Oh.
+PATIENT: As long as I hold to something.
+DOCTOR: Oh okay okay.  Um so what I would suggest is that we switch you to another medication.
+PATIENT: Okay.
+DOCTOR: And so if you don't like the Docusate, if it doesn’t, if it's not predictable or you just don't like it, there's about 100 other things we can try.
+PATIENT: See the reason why I say this because if I take uh, the Docusate is basically a stool softener.
+DOCTOR: Softener yes.
+PATIENT: Okay so if I take it and I don't know when it's gonna work.
+DOCTOR: Okay.
+PATIENT: And I might be.
+DOCTOR: You just have to have a bowel movement very suddenly after you take it?
+PATIENT: Uh not the pills but the uh like they gave me, I think it's a laxative too.
+DOCTOR: Yeah that one is unpredictable yeah.
+PATIENT: That one was like for constipation.
+DOCTOR: But the Docusate shouldn't be.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: I mean I don't have a problem as far as my stool being soft or nothing.
+DOCTOR: Yeah.
+PATIENT: I don't have a problem with that.
+DOCTOR: So why don't you, so what is the problem?  If you want to use the enemas.
+PATIENT: In otherwise the problem is that I don't have a desire to go at all.
+DOCTOR: You don't feel like you have to go?
+PATIENT: I don't have to go at all but I know I've been waiting three or four days without going.
+DOCTOR: Yeah.  Know what I think you should do is start taking Miralax, so I'll prescribe that for you.  So Miralax is uh, it's a powder and you need to take one or two capfuls a day and you just mix it in anything and you can't taste it at all.
+PATIENT: Okay.
+DOCTOR: I've used it before; you really can't taste it okay.  Um.
+PATIENT: I mean it doesn't come all of a sudden.
+DOCTOR: No not at all.
+PATIENT: Okay.
+DOCTOR: So I think that this will be, you're right the Docusate is just a softener.  It doesn't make you have to go.
+PATIENT: Right.
+DOCTOR: So if that's the problem then Docusate is not the right medicine for you.  Um and the other one that you probably took is uh, is probably Bisacodyl or something like that where a laxative, those make you have to go very suddenly um.
+PATIENT: Right.
+DOCTOR: So Miralax is a really good option.
+PATIENT: Okay.
+DOCTOR: Because you just take it every day and it should make you have to go every couple days.
+PATIENT: Okay that's something I need.
+DOCTOR: So let's just try that.
+PATIENT: Now see I don't think it's healthy for me to just.
+DOCTOR: I don't think.
+PATIENT: Waiting three or four days.
+DOCTOR: Yeah I don't think it's healthy for you to use enemas that frequently.
+PATIENT: Without going and then I have to keep using the enemas you know.
+DOCTOR: So try the Miralax, take two capfuls a day.  You can put it in, I don't know what you drink but you can put it in your coffee or your water or whatever.
+PATIENT: Okay.
+DOCTOR: Um and take it every day.  Give it like a week or so to really start doing the job.
+PATIENT: Okay.
+DOCTOR: Okay then hopefully you can do that instead of the enemas.
+PATIENT: Okay.
+DOCTOR: You can still use enemas when you need them.
+PATIENT: Right.
+DOCTOR: But using them three or four times a week is too much.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Cause see basically the only, like I said I use them.  I don't have a desire to go, I could be three or four days and I'm constantly eating.
+DOCTOR: Yeah.
+PATIENT: So then I start feeling bloated.
+DOCTOR: Sure okay.
+PATIENT: And so I know it's a time that I'm at home and I don't have to go out cause I go out enough, Tuesdays, Wednesdays and Thursdays for my different therapies.
+DOCTOR: Okay.
+PATIENT: And so I don't want to have to just watch it when I'm out and about.
+DOCTOR: Yeah, sure I understand.
+PATIENT: You know.
+DOCTOR: Okay so let's try that and see if it works okay.
+PATIENT: Okay, okay.
+DOCTOR: Alright.  Um and are you still taking the Norco?
+PATIENT: Yes.
+DOCTOR: The hydrocodone okay.  Uh where do you have pain?
+PATIENT: Well I got scoliosis.
+DOCTOR: Okay.
+PATIENT: So I always have pain in my back.
+DOCTOR: Okay.
+PATIENT: But sometime I get like a sharp pain since I had the surgery.  I'll have a sharp pain in the back of my head on the left hand side and it's like a, like getting hit in the head with a hammer.
+DOCTOR: Hmm, okay.
+PATIENT: And it just comes all of a sudden.
+DOCTOR: Okay.
+PATIENT: And so if it don't go away you know I'll take it.
+DOCTOR: You take it okay.
+PATIENT: So basically when I do a lot of physical activity my back will start hurting.
+DOCTOR: Okay.
+PATIENT: So before I take a shower in the morning I'll take one.
+DOCTOR: You take that okay.
+PATIENT: And then if I do physical therapy or something I'll take another one.
+DOCTOR: Okay gotcha.  Have you ever tried anything like tramadol or anything else for pain?
+PATIENT: No.
+DOCTOR: No okay.
+PATIENT: They put me on oxycodone one time but it was kind of, it didn't nothing but put me to sleep.
+DOCTOR: Okay gotcha.  Norco’s not bad, uh we can continue this.  There are other medications that are a little bit easier on your system if they work and I'm not.
+PATIENT: And I think the Norco constipates me.
+DOCTOR: It does yeah.  So that's why I'm saying um but what I can do is give you a prescription for a medication and your kidneys work okay?
+PATIENT: Yeah.
+DOCTOR: Yeah okay.  So there's another medicine that you can try in place of the Norco, called tramadol um and it's not, won't constipate you.  It's not as strong so it might not work but if it does it's a much better option.
+PATIENT: Okay.
+DOCTOR: Okay so at least try it.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: I'll try it.
+DOCTOR: Um you haven't tried it in the past.
+PATIENT: I've never tried it.
+DOCTOR: And then it doesn't work then.
+PATIENT: I mean just like right now, it depends on the position I'm in.
+DOCTOR: Yeah.
+PATIENT: Whether I'm gonna have pain or not.  Pain is a given for me, I mean I accept that.
+DOCTOR: Yes.
+PATIENT: But sometimes it's just more prevalent depending on the activities that I'm doing.
+DOCTOR: Sure.
+PATIENT: You know.
+DOCTOR: Okay.  So what I recommend is the tramadol cause it's not as strong um.  You can take it every day no problem.
+PATIENT: Okay.
+DOCTOR: You can even take two a day um, it's not as addicting and it's not constipating.  It's not um not like a controlled substance.
+PATIENT: Okay.
+DOCTOR: The way Norco is.  Um so I would take one every morning and then you can take a second one in the afternoon.
+PATIENT: Okay.
+DOCTOR: Try that for a couple days and if it's not doing anything.
+PATIENT: Without the Norco.
+DOCTOR: Without the Norco.
+PATIENT: Okay.
+DOCTOR: Um you can take them together; they're not bad together um.
+PATIENT: Okay.
+DOCTOR: Um so if you have a day that you try the tramadol and all of a sudden you're in a lot of pain, you can still take the Norco.
+PATIENT: Okay, I understand right.
+DOCTOR: Um but if you, if the tramadol works then.
+PATIENT: I could discontinue okay.
+DOCTOR: Go off the Norco or take it less frequently.
+PATIENT: Like I do believe the Norco is what's constipating me.
+DOCTOR: It will, absolutely yes.
+PATIENT: So that causes me to have a problem with my digestive system.
+DOCTOR: Yes, you're exactly right about that okay.  So let's try that and see how you do.
+PATIENT: Okay.
+DOCTOR: Okay.  Um okay so what other medical problems do you have?  Like you a follow a doctor for, you have scoliosis?
+PATIENT: Right.
+DOCTOR: You had surgery on your scoliosis?
+PATIENT: No, never did.
+DOCTOR: What kind of back surgery have you had?
+PATIENT: I've had surgery; I had a bone in my neck pressing up against my spinal cord.
+DOCTOR: Oh okay.
+PATIENT: And so I had a laminectomy.
+DOCTOR: Okay.
+PATIENT: And so like I said, [REDACTED] out.
+DOCTOR: Okay.
+PATIENT: And so sometimes during the day, like say, it depends on my activities.  My neck will get tired and I'll have pain in that too you know.
+DOCTOR: Okay.
+PATIENT: I just, then I go take [REDACTED].
+DOCTOR: And um do you have weakness in your lower extremities?
+PATIENT: I got this weakness in my left leg, no in my right leg and my left arm and my left hand is numb.
+DOCTOR: Your right leg and your left arm?
+PATIENT: Right.
+DOCTOR: And what about, tell me about your numbness?
+PATIENT: Okay so, this is how it started.  I had an operation on my hammertoes in the service.
+DOCTOR: Okay.
+PATIENT: And I ended up with calluses up under the bottom of my right foot.
+DOCTOR: Okay.
+PATIENT: And so every time I take a step I steps down on the calluses it would hurt.
+DOCTOR: Uh-huh.
+PATIENT: So it caused me to start walking on my tip toe.
+DOCTOR: Okay.
+PATIENT: So with me walking on my top toes, so I didn't bend my right leg see.
+DOCTOR: Okay.
+PATIENT: And so now, the tendons in the back of my leg won't stretch all the way out.
+DOCTOR: Okay.
+PATIENT: And that in time, it probably had something with me doing twisting my back.
+DOCTOR: Okay.
+PATIENT: Okay so when I started limping they gave me a cane.
+DOCTOR: Uh-huh.
+PATIENT:
+DOCTOR: me to use the cane in my left hand but my left being numb I have no control over it.
+DOCTOR: Oh yeah.
+PATIENT: So I started walking with it in my right hand.
+DOCTOR: Okay.
+PATIENT: But still this twisted my spine.
+DOCTOR: Okay, gotcha, okay.
+PATIENT: And that's basically where I'm at today.
+DOCTOR: Okay do you have lower back pain?
+PATIENT: Yes.
+DOCTOR: Yeah okay.
+PATIENT: It's always like on the right hand side.
+DOCTOR: On that side.  Okay what happened with your arm, why is it numb?
+PATIENT: Well my left hand is numb from the.
+DOCTOR: Oh from that surgery?
+PATIENT: Yeah, well no it had been numb for the longest.
+DOCTOR: Oh okay.
+PATIENT: And what actually happened was they took a MRI and uh they saw that a bone was pressing up against my spinal cord.
+DOCTOR: Yeah.
+PATIENT: And I told them I didn't want to have an operation just for my left hand being numb so I dealt with it.
+DOCTOR: Okay.
+PATIENT: I mean I would pick up things and I'd drop them.
+DOCTOR: Yeah.
+PATIENT: And whatever so as time went on, every time I walked my right foot would start turning inward.
+DOCTOR: Hmm.
+PATIENT: And this was causing me to trip and fall.
+DOCTOR: Okay.
+PATIENT: And stuff.
+DOCTOR: Okay.
+PATIENT: So they gave me a walker.
+DOCTOR: Okay.
+PATIENT: Then I started walking with the walker and then I had another MRI and the bone pressed up to my spinal cord and started looking like a pancake.
+DOCTOR: Oh okay so then you had to get the surgery.
+PATIENT: So then I had to have the surgery so.  When I had the surgery, the residual from it, my right foot still turns inward.
+DOCTOR: Okay.
+PATIENT: And I'm taking uh Botox shots in the back of my legs so I can stretch it out.
+DOCTOR: Okay.
+PATIENT: But what it is, it's changed the whole way I walk.
+DOCTOR: Yeah, sure okay.
+PATIENT: So I had to try to learn how to walk again basically.
+DOCTOR: Oh okay.
+PATIENT: So I'm still kind of clumsy you know what I'm saying.
+DOCTOR: Okay, gotcha.
+PATIENT: Cause I got 16 stairs at home so.
+DOCTOR: You have to get up those.
+PATIENT: I get up and down the stairs with a cane.
+DOCTOR: Okay, okay.  So besides all this stuff with your joints and your back and everything, do you have any other problems like high blood pressure?
+PATIENT: No.  Now my blood pressure is high today.
+DOCTOR: It was high today, yeah.  You take it at home?
+PATIENT: Never.
+DOCTOR: Okay.
+PATIENT: Cause I had another.
+DOCTOR: Has it ever been high before?
+PATIENT: No.  Normally it's in the 130s.
+DOCTOR: Okay.
+PATIENT: And like I told them, when I took physical therapy it was 128 and then I wheeled myself over here.
+DOCTOR: Okay yeah that could be why.
+PATIENT: So that's probably the reason why.
+DOCTOR: Okay, we'll watch it.
+PATIENT: I have never took high blood pressure medication or nothing.
+DOCTOR: Yeah why don't we watch it?  I don't like to start anything just on one reading.
+PATIENT: Right.
+DOCTOR: Since you just got here so if, we'll just make sure it's not continuing to stay high.
+PATIENT: Okay.
+DOCTOR: Do you have any diabetes?
+PATIENT: No.
+DOCTOR: No okay.  Any cancers?
+PATIENT: No.
+DOCTOR: Any problems with your heart?
+PATIENT: No.  Now they did say I had a irregular heartbeat, the last EKG I took.
+DOCTOR: Okay.
+PATIENT: That was in September I think.
+DOCTOR: Let's look at it.  Did they start you on any medication for it?
+PATIENT: No.  I don't even think they recommended any.
+DOCTOR: Okay.  Okay, it looks okay.
+PATIENT: Okay good.  That's good to know.
+DOCTOR: Yes that's true.  Yeah it's good.
+PATIENT: That could have been, at that particular time time cause I was involved in so many physical activities.
+DOCTOR: Okay.
+PATIENT: I don't know if that had anything to do with it or not.
+DOCTOR: Okay, okay, yeah that's fine.
+PATIENT: It's a possibility.
+DOCTOR: Sure okay.  Um okay and any medical problems that run in your family?
+PATIENT: Uh my mother was diabetic and my father, he had uh heart problems.
+DOCTOR: At a young age or was he older?
+PATIENT: Yeah well he lived to 90.
+DOCTOR: Oh okay.
+PATIENT: She lived to 79 so.
+DOCTOR: Okay.  Okay.  Alright and are you a smoker?
+PATIENT: Yes.
+DOCTOR: Presently?
+PATIENT: Yes.
+DOCTOR: Why are you still smoking?
+PATIENT: I keep trying to stop but it makes me gain weight so I have got down to no more than five cigarettes a day.
+DOCTOR: Okay how long have you been smoking for?
+PATIENT: Since I was about 12 years old.
+DOCTOR: Now you're almost @@ so okay.
+PATIENT: I mean I have stopped before but I guess I don't smoke as much in the wintertime cause I have to go outside to smoke.
+DOCTOR: Yeah.
+PATIENT: So I might smoke maybe three cigarettes a day.
+DOCTOR: Okay.
+PATIENT: Just actually 2 1/2 really.
+DOCTOR: Okay.
+PATIENT: It's not, I don't know, it's just I guess that's what it is, just a habit.
+DOCTOR: Okay.  Are you interested in quitting?
+PATIENT: Uh yes.
+DOCTOR: Have you ever, what have you done in the past.
+PATIENT: I've taken uh, what's the little lozenges.
+DOCTOR: Yeah.  Was it gum or the actual lozenges?
+PATIENT: The lozenges.
+DOCTOR: Okay.
+PATIENT: And I take them and they're so strong that when I take them they would have me gagging.
+DOCTOR: Okay.
+PATIENT: Coughing and stuff.
+DOCTOR: Okay.
+PATIENT: I mean when I'm supposed to take them, I mean.
+DOCTOR: Have you tried the gum?
+PATIENT: Never.
+DOCTOR: Do you chew gum ever?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: They don't stop me though.
+DOCTOR: So maybe you should try the gum.  Have you used the patches?
+PATIENT: No.
+DOCTOR: Do you want to try the patches too?
+PATIENT: I prefer the gum.
+DOCTOR: Just the gum alone.
+PATIENT: Yeah.
+DOCTOR: Okay.  Let's, we can try the gum and if it doesn't work.
+PATIENT: See the reason why I say that is because I don't want to have the patch on, if I didn't have the urge to smoke that’s double trouble.
+DOCTOR: Yeah.  Well so what you could do is if you ever do use the patches.
+PATIENT: Don't.
+DOCTOR: And you need to smoke; obviously we don't want you to.
+PATIENT: Right.
+DOCTOR: Um so what the most success.  The way people are most successful is that they do the patches and either the gum or the lozenges so that they have some nicotine in their systems.
+PATIENT: And then they.
+DOCTOR: And the way the patches work is you change them every day and the amount of nicotine goes down so over, like two weeks it helps your body to kind of detox from the nicotine.
+PATIENT: Oh okay.
+DOCTOR: And then if you have an urge to smoke you're supposed to take the gum instead of the cigarettes.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: I'll try that.
+DOCTOR: And then if the worst case scenario and you have a really bad day or something and you need to smoke you can take the patch off and then you can smoke.
+PATIENT: Actually I used to buy a carton of cigarettes per month.
+DOCTOR: Okay.
+PATIENT: You know and those last me a whole month.
+DOCTOR: Yeah.
+PATIENT: Cause I had just got, it was a habit of buying a whole carton.
+DOCTOR: Okay.
+PATIENT: And so now I don't.
+DOCTOR: Okay.
+PATIENT: You know what I'm saying.
+DOCTOR: Well that's good.  I'm glad you've cut back.
+PATIENT: Yeah so I'm making it last.
+DOCTOR: Okay, but if you're, you know you're close so.  If you're only smoking three a day maybe we can get down.
+PATIENT: Right, right, right.
+DOCTOR: Yeah and that's the best thing you can do in the world for your health.
+PATIENT: I know.
+DOCTOR: Okay so um.  Do you want to try that?
+PATIENT: Yeah I will.
+DOCTOR: Do you want to try the patches?
+PATIENT: Yeah I will, I will.
+DOCTOR: Okay great, that's good.
+PATIENT: Yeah I'll try it.
+DOCTOR: Okay.
+PATIENT: Cause I keep saying you know I cut down on my own and then I be paying for the cigarettes.
+DOCTOR: Yeah.
+PATIENT: You know what I mean.  I take the lozenges and they gag me.
+DOCTOR: And they're bad yeah.
+PATIENT: It's not you know and then I put it out and I'm still paying for the cigarettes.
+DOCTOR: Yeah.
+PATIENT: Cause I don't want to take another lozenge cause I know the results of that.
+DOCTOR: Sure, sure.
+PATIENT: But then I go down there and I start eating.
+DOCTOR: Okay, okay and honestly it's okay.  I'd rather you eat than smoke.
+PATIENT: And then if I eat, I keep eating and then I get bloated and then I'll have to take an enema.
+DOCTOR: Oh okay, so yeah I see, okay.  Alright well let's try the patches and the gum.
+PATIENT: Okay.
+DOCTOR: And see how you do okay.
+PATIENT: Okay, okay.
+DOCTOR: Alright and do you drink any alcohol?
+PATIENT: I drink beer.
+DOCTOR: How often?
+PATIENT: Oh.
+DOCTOR: How many beers a week do you have?
+PATIENT: Well I'd say about a day I might have three beers at the most.
+DOCTOR: A day okay.
+PATIENT: You know.
+DOCTOR: Okay, alright.  That's just on the cusp of too much but that's okay.
+PATIENT: Alright.
+DOCTOR: So try to keep it to one or two a day okay.
+PATIENT: Okay.
+DOCTOR: Um do you use any illicit drugs like?
+PATIENT: No.
+DOCTOR: No okay.
+PATIENT: Not since 2003, I was at a program at Jesse Brown.
+DOCTOR: Oh good, okay.  Did you ever use any IV drugs in the past?
+PATIENT: Nope never.
+DOCTOR: No, good okay.  Alright and where do you live, you said you live with your son?
+PATIENT: Yes I have a son and daughter-in-law in [REDACTED].
+DOCTOR: Okay.
+PATIENT: And I'm in the process of moving.
+DOCTOR: Oh okay.  Where are you moving to?
+PATIENT: Well I'm in the Homeless Program so I'm looking for an apartment, actually in the suburbs.
+DOCTOR: Okay.
+PATIENT: I [REDACTED] want to move to the city.
+DOCTOR: Okay, alright, good.  Okay and so you follow up with Spinal Cord and who else do you see here?
+PATIENT: Uh Podiatry.
+DOCTOR: Okay.
+PATIENT: Every three months.
+DOCTOR: Okay.
+PATIENT: And uh I was seeing a neurologist but they're basically were just following up on my operation.
+DOCTOR: Okay.
+PATIENT: And giving me information on simply the symptoms that I might have.
+DOCTOR: Okay.
+PATIENT: Like I said, uh I still have spasticity in my right leg.
+DOCTOR: Yeah.
+PATIENT: And so I take Doxepin for that.
+DOCTOR: Okay good.  Okay.  Alright and what are these games where are these?
+PATIENT: Those are in Richmond, Virginia.
+DOCTOR: Oh yeah.
+PATIENT: Those are the wheelchair games.
+DOCTOR: Oh.
+PATIENT: I got my application in there for the golden [REDACTED].
+DOCTOR: Oh okay.
+PATIENT: And that's actually the same course.
+DOCTOR: Okay.
+PATIENT: In March I'm going to Colorado.
+DOCTOR: Wow, so do you go through the VA for all these things?
+PATIENT: Yeah uh-huh.
+DOCTOR: That sounds fun.
+PATIENT: So you have to get points.
+DOCTOR: Oh okay.
+PATIENT: Volunteering for candy sales and sending out letters that solicit for different you know.
+DOCTOR: Okay to qualify to go.
+PATIENT: Yeah so I went in and sold flowers today, [REDACTED].
+DOCTOR: Oh okay for Valentine's Day.
+PATIENT: Yes.
+DOCTOR: Oh I see, good.  Okay so had blood work back in November.  Okay so that's six months ago and let's see what else is there.  Um so your cholesterol six months ago was perfect.  Your kidneys look very good.  Everything looks normal.
+PATIENT: Okay.
+DOCTOR: And your blood counts look normal, so all your lab work was normal six months ago.
+PATIENT: That's good to know.
+DOCTOR: Yeah so um, so we won't repeat it today.
+PATIENT: Okay.
+DOCTOR: We don't usually do lab work as long as everything is normal once a year.
+PATIENT: Okay.
+DOCTOR: Okay so the next time I see you before you come in, just don't eat breakfast that morning you need your lab work done fasting.
+PATIENT: Okay right.
+DOCTOR: And then we'll go over it.
+PATIENT: So I was asking about that, when I got the appointment then I had to go do labs and they told me since you're going to have a new doctor go find out first.
+DOCTOR: Yeah, yeah.
+PATIENT: So they checked the computers.
+DOCTOR: Sure.
+PATIENT: Yeah that makes sense.
+DOCTOR: So yeah we'll do, you know if things start popping up abnormal we'll do them more frequently but everything looks perfect.
+PATIENT: Good.
+DOCTOR: So.  Okay, alright good.  So let's go through your meds then.  Do you want to pick up your new medicines today or do you want them to come in the mail?
+PATIENT: You know what I can pick them up today since I'm here.
+DOCTOR: Okay, sounds good.  I'll put those in before you leave.
+PATIENT: Since I got my briefcase, I can put them in there.
+DOCTOR: Okay alright.  Um and have you ever had a colonoscopy?
+PATIENT: Yes.
+DOCTOR: When was your colonoscopy?
+PATIENT: Uh, it would be, I think it should be in there.
+DOCTOR: You had it here?
+PATIENT: Uh.
+DOCTOR: I don't think you did, it doesn't look like it.
+PATIENT: I can't remember if I did.
+DOCTOR: At Jesse Brown?
+PATIENT: Jesse Brown.
+DOCTOR: How long ago approximately?
+PATIENT: Uh, let me see, I might of had it in 2009.
+DOCTOR: Okay, so.
+PATIENT: 2008 or 09.
+DOCTOR: Okay, I'll look in the record.  Usually it's done every ten years.
+PATIENT: Okay.
+DOCTOR: So it sounds like you're okay.
+PATIENT: Oh I'm all good with that.
+DOCTOR: Okay.
+PATIENT: Oh it hasn't been ten years so.
+DOCTOR: Yeah definitely less than ten.  Okay, alright let me take a look at you.  Yeah, just that and a little bit.  Wow can you get up here?  Okay, that'd be great.
+PATIENT: Yeah.
+DOCTOR: Let's see what [REDACTED] for.  Just lay back [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Wow okay [REDACTED].  Okay look ahead, okay open up say ah.
+PATIENT: Ah.  I was gonna say lately I've been you know if I move my head real fast I see like some uh, like uh a flash.
+DOCTOR: Oh yeah.
+PATIENT: If I look on the left.
+DOCTOR: Okay.
+PATIENT: Something like stars or something.
+DOCTOR: How long has that been going on?
+PATIENT: I don't know just lately, no more than two weeks.
+DOCTOR: Do you get dizzy at all?  Have you fallen?
+PATIENT: Uh I did fall but.
+DOCTOR: Not because of that.
+PATIENT: No I fell cause I was [REDACTED].
+DOCTOR: Alright, okay.
+PATIENT: And they had me in a bucket with the one speed.
+DOCTOR: Okay.
+PATIENT: And I was trying to get to my balance, the reason I fell is I just the other way to the left.
+DOCTOR: Okay.
+PATIENT: Then they discovered that.  I used the crutches with the tube and [REDACTED].
+DOCTOR: Oh okay.  Alright.
+PATIENT: [REDACTED].
+DOCTOR: We'll keep an eye on it.  If it's still going on we can look into it more closely but I'm not sure exactly what would cause that.  Any pain when I push down on your throat?  Any weight loss or weight gain, are you feeling anything when I press there?
+PATIENT: I think I just gained a little weight.
+DOCTOR: Okay.
+PATIENT: Probably from trying to stop smoking.
+DOCTOR: Okay.  Breathe normal.  Take a deep breath.  Take a deep breath here, just so I can listen.
+PATIENT: Uh-huh.
+DOCTOR: Take a few more breaths.  Okay.  So you're coughing phlegm up at night?
+PATIENT: Yeah, it's something like a kind of had a little longer.
+DOCTOR: Uh-huh.
+PATIENT: You know I don't know if it's a cold or.
+DOCTOR: Okay.  Well like are you actually coughing it up do you see it?
+PATIENT: Yeah.
+DOCTOR: What color is it?
+PATIENT: Grayish.
+DOCTOR: Any blood in it?
+PATIENT: No.
+DOCTOR: No, oh and you're not coughing at all during the day?
+PATIENT: No [REDACTED] sometimes I can feel a cold in my throat and I'm just coughing.
+DOCTOR: Okay.  Are you short of breath ever?  No okay.  Um so it might be related to your smoking.
+PATIENT: I thought of that.
+DOCTOR: Okay.
+PATIENT: Like a smoker's cough.
+DOCTOR: Um and this has been going on for how long?  A month?
+PATIENT: Uh I guess.
+DOCTOR: No pain when I push?
+PATIENT: I had appendectomy.
+DOCTOR: Oh okay.  Do you get swelling in the ankles at all?
+PATIENT: No.
+DOCTOR: No okay.  Alright kick out against my hand, same here good.  Kick up against my hand right here, on this side okay and down.  Okay up, okay and down.  Lift up your thigh touch my hand okay.
+PATIENT: Sounds good.
+DOCTOR: Okay, this one.
+PATIENT: Up.
+DOCTOR: [REDACTED].  Okay [REDACTED] into me.  Good, this one now follow in okay.  [REDACTED] try to [REDACTED].  Okay now shrug your shoulder, this one, shrug up, now this one okay.  Now put your hands out like this, turn your hands, okay.  Squeeze my fingers on both sides just as hard as you can good, you’re strong.  Okay.
+PATIENT: You can tell the weakness on one.
+DOCTOR: Yeah I can, yes and this arm is actually pretty strong.  Squeeze my hand again, it's pretty strong.  Do it as hard as you can okay.  Do you do a lot of stuff with this arm?
+PATIENT: Well uh actually like when I do the physical therapy I've been building this arm up but on some of the weights I have to, in order for it to be even I have to put more weight on this one.
+DOCTOR: And [REDACTED].
+PATIENT: Than this one.
+DOCTOR: Okay, okay.
+PATIENT: You know and like I do the weights one at a time.
+DOCTOR: Okay.  Let me see you stand up.  Okay.
+PATIENT: I can't put this leg all the way straight.
+DOCTOR: So you can't take a step with that foot or you'll fall.
+PATIENT: I mean I can take s step but my balance is off.
+DOCTOR: Very difficult yeah.  Okay.  Okay.  This exam form is asking for some details on your strength.
+PATIENT: Okay.
+DOCTOR: Okay.  Good okay.  You can get back in your chair.
+PATIENT: But like I say at home I use a cane.
+DOCTOR: Yeah.
+PATIENT: And I hold on to different things.
+DOCTOR: Okay.
+PATIENT: I don't know if I can put this back on.
+DOCTOR: Okay, I'm sorry the coughing has been going on for how long?
+PATIENT: Uh I guess maybe about November.
+DOCTOR: Okay.  Is it worse when you're laying down or does it happen at night no matter what position that you're in?  Do you think its worse when you're laying down?
+PATIENT: Yeah.  I guess it's, it's [REDACTED] up at night.
+DOCTOR: Uh-huh.  Okay.  There's a couple of things we can to check.  Your [REDACTED].  Okay let me go talk to one of the other doctors about this and um and I'll fill this form out and I'll be right back.
+PATIENT: Okay.
+DOCTOR: Okay.
+(DOCTOR OUT:  52:56  DOCTOR IN:  64:49)
+DOCTOR: Okay.  Okay.  That's good.  Almost done with this form.  I'll put all your meds in.  Now for your cough, we can try likr Mucinex; this is something to help you break up the mucous.
+PATIENT: Okay.
+DOCTOR: A cough suppressant generally isn't a great idea.
+PATIENT: Okay.
+DOCTOR: Because if you have a lot of mucous in your chest, especially as a smoker, if you don't cough it up you can be more prone to getting a pneumonia or an infection.
+PATIENT: Okay.
+DOCTOR: Essentially it's good to cough it up.
+PATIENT: Right.
+DOCTOR: Um so.
+PATIENT: I mean the more I'm coughing, if I keep on coughing I can get it to come up.
+DOCTOR: It comes up okay.
+PATIENT: I mean it's not a whole lot.
+DOCTOR: Yeah, yeah.  Have you ever had pulmonary function testing done?  Where you breathe into a machine?
+PATIENT: Yeah I think I did.
+DOCTOR: You did.
+PATIENT: Uh as a matter of fact uh one time, when I was at Jesse Brown they tested me and said I had sarcoidosis, sarcoid or something.
+DOCTOR: Really?
+PATIENT: It was years ago.
+DOCTOR: Hmm.
+PATIENT: And uh they gave me a, this machine that I breathe in and it's got a little ball.
+DOCTOR: Yeah.
+PATIENT: Like it was a plastic thing.
+DOCTOR: Okay.  I'll probably repeat your pulmonary function testing.
+PATIENT: Okay.
+DOCTOR: Cause I think you have COPD.
+PATIENT: Okay.
+DOCTOR: Which is lung problems that people that smoke for a long time get um and there's a lot of good medications to treat COPD but we don't know, we don't have a diagnosis for this.
+PATIENT: Okay.
+DOCTOR: In order to get one we need to have the pulmonary function testing done.
+PATIENT: Okay.
+DOCTOR: So why don't make you, we can repeat your chest x-ray if it doesn't go away.  Um let’s give it another couple weeks.
+PATIENT: Okay.
+DOCTOR: And if your cough is no better then then we can get a chest x-ray.
+PATIENT: Okay.
+DOCTOR: Um and in the meantime we'll get your pulmonary function tests.
+PATIENT: Right in the meantime I need to cut down on the smoking.
+DOCTOR: And you cut back smoking yeah okay.
+PATIENT: Cause I know that's probably part of the problem.
+DOCTOR: I think so.  So give me one second here and I'll just get all this done and then we'll get you on your way.
+PATIENT: Okay.
+DOCTOR: So I want you to call me if your cough isn't gone in like three weeks.
+PATIENT: Okay.
+DOCTOR: Okay.  Cause I can have the nurse call you but sometimes it doesn't actually happen.
+PATIENT: Right, right.
+DOCTOR: So.
+PATIENT: So then.
+DOCTOR: You call me.
+PATIENT: And your extension is?
+DOCTOR: Uh, let's see the number is PHONE NUMBER.  Okay and DOCTOR so you can leave a message with someone.  You probably won't get me directly but that’s okay.  Okay.  And you've never had any surgery on the back, just the neck you said right?
+PATIENT: Right.  Like I said I don't know because of my age or cause I've had it so long would it even be possible, I don't know.
+DOCTOR: Yeah okay.  Have you seen Neurosurgery yet?  No.
+PATIENT: Yes.
+DOCTOR: Oh you did.
+PATIENT: Uh-huh.  I haven't seen them in a while.
+DOCTOR: Okay right here yeah.
+PATIENT: And I know the last time I came here for a operation I ended up coming out of it with a broken rib.
+DOCTOR: Hmm okay.
+PATIENT: I know [REDACTED].
+DOCTOR: Where'd you have your surgery here?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: It was done September @@, [REDACTED]@.
+DOCTOR: Okay.
+PATIENT: Is that in there?
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Yeah it's in here.
+PATIENT: Did I get the dates right?
+DOCTOR: I don't see the surgery date but I have a clinic note you had in January after you got through the surgery.
+PATIENT: Yeah.
+DOCTOR: Okay.  Okay.  We'll put that up there.  I guess that's it.  Here are your forms.  The rest of it I think you can fill out.
+PATIENT: Okay.
+DOCTOR: Okay.  You have my number.
+PATIENT: Uh-huh.
+DOCTOR: These are all your meds do you can go down today and get them.
+PATIENT: Okay.
+DOCTOR: Okay.  And then don't forget to call me if your cough doesn't get better in a couple of weeks.
+PATIENT: In a couple of weeks.
+DOCTOR: Okay.
+PATIENT: So just the next time I need to visit you will be in?
+DOCTOR: I'll see you back like four months.
+PATIENT: Okay.
+DOCTOR: What about that, we'll just check in.
+PATIENT: Okay.
+DOCTOR: And see how your cough is and the cigarettes are doing.  Hopefully you'll have your pulmonary function tests by then as well.
+PATIENT: Right.  Alright so you going to set up an appointment for that.
+DOCTOR: I'm going to put in for that okay.
+PATIENT: Okay.  Thanks very much.
+DOCTOR: Okay and the next time I see you hopefully you won't be smoking anymore.
+PATIENT: I hope not.
+DOCTOR: And your cough will be gone and you'll have those tests done okay.
+PATIENT: Right okay.
+DOCTOR: Okay, alright.  I'll help you check out.
+PATIENT: Let me turn around and go that way.
+DOCTOR: So again with that pain medicine the new one is called tramadol.
+PATIENT: Tramadol.
+DOCTOR: Okay so try it but you know you can keep taking what you're taking if you need it.
+PATIENT: Okay.
+DOCTOR: But I think it's worth a try.
+PATIENT: Then I can stop the constipation, supposed to.
+DOCTOR: Yeah exactly okay.
+PATIENT: I knew if I kept taking that hydrocodone it's got some side effects to it too cause it's got the morphine in it.
+DOCTOR: Right yeah that's correct.  But yeah I think it's worth a try but um, you know sometimes if you've been taking the other one for a while it can be difficult to get off of it so.
+PATIENT: Oh.
+DOCTOR: I don't want you to feel sick or anything for pain.
+PATIENT: What are some of the side effects of withdrawal?
+DOCTOR: If you still feel shaky or kind of sick to your stomach.
+PATIENT: Oh okay, cause I know some days if I don't, I try to go without taking it.
+DOCTOR: You'll [REDACTED].
+PATIENT: You know I try to deal with the pain if I'm just in the house or laying down or something and I'm not doing much and then I kind of feel sick.  I didn't know what that was.
+DOCTOR: Yeah but the tramadol in place of it might help it.
+PATIENT: Okay, okay.
+DOCTOR: So it’s not quite so bad okay.  Do you know where to check out?  You can check out right here okay.  Okay take care.
+PATIENT: Alright nice meeting you.
+DOCTOR: Yeah you too.
+PATIENT: 77:47.
+Time is 3:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249454
+TRANSACTION # 578-10-2-316-0103

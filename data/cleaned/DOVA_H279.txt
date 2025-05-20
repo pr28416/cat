@@ -1,0 +1,474 @@
+DOCTOR: PATIENT?
+PATIENT: How you doing?
+DOCTOR: Okay how are you?
+PATIENT: It's been a while, nice to see you.
+DOCTOR: Yep.
+PATIENT: I do what they tell me to.  I might [REDACTED].
+DOCTOR: Oh I know, [REDACTED].
+PATIENT: [REDACTED] you have them.
+DOCTOR: Yeah [REDACTED] the 23rd.  When you're done here okay.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Yeah they decided to move the clinic.  Not that they don't have anything better to do but they just.
+PATIENT: No um.
+DOCTOR: Change things.
+PATIENT: With you going.
+DOCTOR: Yeah.
+PATIENT: That's all you're gonna do is cancer research?
+DOCTOR: Yeah.
+PATIENT: You're not coming?
+DOCTOR: Not research, well cancer treatment and research.
+PATIENT: Treatment okay, okay.
+DOCTOR: I know, I'm sorry.  I can’t take you to my other clinic, if I could I would, trust me.
+PATIENT: Well, okay, I guess I have to.  Who do I get as a replacement?
+DOCTOR: I don't know yet.
+PATIENT: Don't know yet.
+DOCTOR: But if they're not good, we can, you know what well, make sure, let's see if I can get you in with, well I'll try to get you in someone else's clinic.
+PATIENT: Okay.
+DOCTOR: Now how are you doing?
+PATIENT: Good, real good.
+DOCTOR: I heard you were in the Emergency Room.
+PATIENT: Yeah.  Uh this, whatever this is, there's got to be a pinched nerve here.
+DOCTOR: Okay.
+PATIENT: Everything is mimicking I guess that's the way to say it.  When I had the fusion done.
+DOCTOR: Uh-huh.
+PATIENT: Everything is mimicking that.
+DOCTOR: Okay.
+PATIENT: And now with that um uh I'm having these three and these three now, driving especially.
+DOCTOR: Uh-huh.
+PATIENT: Okay will cause numbness.  If I lay on my stomach at night and usually I lay something like this.
+DOCTOR: Uh-huh.
+PATIENT: I guess you know when I get on my back cause the numbness sets in.  Now and I, one thing that does help is the wristlets, applying pressure.
+DOCTOR: Uh-huh.
+PATIENT: Um prescribed, whatever they're called and they do help but it's not, I don't feel, that it's a complete cure.
+DOCTOR: Right.
+PATIENT: Um.
+DOCTOR: Did they ever scan your neck?
+PATIENT: Yeah.  They've taken a couple of MRIs and I don't know what the last MRI.
+DOCTOR: MRI was March 29th.
+PATIENT: Yeah I don't know what the results of that was.
+DOCTOR: I'm trying to check something here.
+PATIENT: But I did something to where this muscle started in, oh doc you could actually see a knot on the side of my neck it was that bad.
+DOCTOR: Yeah.
+PATIENT: And if notice the time we were in the ER.
+DOCTOR: How long did you wait?
+PATIENT: Well no I mean.
+DOCTOR: Oh.
+PATIENT: 3 o'clock in the morning.
+DOCTOR: Oh.
+PATIENT: We left Michigan at 1 o'clock in the morning to come down here.
+DOCTOR: Wow.
+PATIENT: It was that bad.  Um yeah we drove in; we left there at 1 o'clock to come in.  It was, because it started, it actually started to affect my swallowing.  I went to take my gabapentin and I couldn't hardly get it down.
+DOCTOR: Wow.
+PATIENT: It was, but like I said you could see a knot on this side and one was starting on this side.  Um, the shot did help and the pills have helped but I think there's more to this than.
+DOCTOR: So the MRI that you did at the end of March, the same person read the MRI back in August and it was unchanged from August but what it shows in August was a disk bulging, some narrowing of the canal.
+PATIENT: Well that would be, that could be one thing right there couldn't it?
+DOCTOR: Uh-huh.
+PATIENT: Narrowing of the canal.
+DOCTOR: Uh-huh.
+PATIENT: And now on the MRI can they tell how much it has narrowed or not?
+DOCTOR: Well they just kind of give it a degree of either mild, moderate or severe.  Certain areas looked mild, other areas they're calling it mild to moderate, other areas they're calling it moderate to severe.
+PATIENT: Yeah.  And maybe it's just the way, whatever I'm doing or something causes.
+DOCTOR: Yeah.  I don't know if you'd get any benefit from having you see the neck surgeons, but I can certainly go talk to my boss.
+PATIENT: Okay.
+DOCTOR: And see what she says, if she agrees with that.  Okay, the neck spasms, have they improved?
+PATIENT: Yeah it has since like, whenever or it was in November when it happened before and I came in.
+DOCTOR: Uh-huh.
+PATIENT: And I had an appointment so I waited a day but I didn't have any appointments you know coming up soon until I had you so that's why we came in and again it worried me when I couldn't even hardly swallow.
+DOCTOR: Yeah.
+PATIENT: I mean it took quite a bit to get the gabapentin down and that's when I said nope we gotta go in.  Um that has helped; it's still sore right in here.
+DOCTOR: Uh-huh.
+PATIENT: This muscle right here, uh still sore.  Um I'm having right there uh, where it starts to hurt again and then again over here, same spot, that muscle right there down the side uh but as far as the severity of it no.
+DOCTOR: Okay.
+PATIENT: It's really decreased.
+DOCTOR: I mean how, so if I were to send you to the neck surgeon, the spine surgeon, they're going to look and see if surgery is something that you should have done.  Is that something that you want to consider doing?
+PATIENT: It, at this point, I would consider it.
+DOCTOR: Okay.
+PATIENT: Maybe after we talked, after I talked with them no, but because of, I can't get, it not only affects, has been affecting.
+DOCTOR: If it comes back, well let's put it this way.  If it's affecting you to such degree that it's at least worthwhile to see what they have to offer.
+PATIENT: Yeah and see what they have to say yeah.  I agree.
+DOCTOR: Okay.
+PATIENT: Because again I didn't come running in here from Michigan at 1 o'clock in the morning.
+DOCTOR: Yeah, no I know, it's not like you're live next door.  I was like, yeah he must have had something major.
+PATIENT: Yeah it was.
+DOCTOR: Okay.
+PATIENT: Serious, it was bad.
+DOCTOR: Now have you seen Ortho here, or no?
+PATIENT: Uh, oh boy.
+DOCTOR: Let me see, cause they're the ones I would send you to.  Let me see if you ever saw them here.  Okay they put in a consult for you, a request and they put in, they made an appointment, I bet they didn't tell you the appointment, did they?
+PATIENT: No.
+DOCTOR: March 10th.
+PATIENT: Gosh I try not to miss my appointments.
+DOCTOR: I know its okay.  I will uh put in a new consult okay, that's why.  So okay, how are your sugars doing now?
+PATIENT: Real good.  In fact with, you can tell the summertime or spring's here and the planting season and the farms.
+DOCTOR: Uh-huh.
+PATIENT: Because every morning I'm getting up and I can see, the sugars are so far down um.  It's, I have to wait for a little bit to be able to.
+DOCTOR: How low are they going?
+PATIENT: They're okay, they're okay.
+DOCTOR: No, no, tell me how low.
+PATIENT: Well some of them are down in the 70s.
+DOCTOR: Oh okay, 70s are fine.
+PATIENT: Okay, alright.
+DOCTOR: But is it lower than 70s?
+PATIENT: Uh there's been a couple of times uh during the day, during the day.
+DOCTOR: How low?  Be honest.
+PATIENT: I had a couple in the 30s.
+DOCTOR: Okay.
+PATIENT: 36 and 38.
+DOCTOR: And what happened at those times, did you like not eat?
+PATIENT: Yeah I was, I ate breakfast and then I worked, it was like 2-3 in the afternoon before I ate anything again and I knew it.
+DOCTOR: You knew it okay.
+PATIENT: The sugar was dropping so it was not the insulin is over, it's just.
+DOCTOR: You weren't doing your part.
+PATIENT: I wasn't doing my part.
+DOCTOR: Okay that's fine.  Uh the only reason why we care to know how low these things can get cause if it happens regularly, high blood sugars, nobody wants high blood sugars.  So high blood sugars aren't going to kill you like that.
+PATIENT: Right.
+DOCTOR: Low blood sugars could, so if you are getting to a point where you're having it often.
+PATIENT: Uh-huh.
+DOCTOR: 70s is a normal blood sugar, just so you're aware.  Now people do get symptoms but it's not because they're getting symptoms of hypoglycemia because the sugar is 70, they're getting symptoms because their sugar had been like 180.
+PATIENT: Uh-huh.
+DOCTOR: And now it's 70 and it's that drop, that change that is causing your symptoms, not the sugar number itself.
+PATIENT: Okay.
+DOCTOR: Uh but if you, so you need to be aware that I know it's hard cause you're gonna be outside and doing all kinds of things but make sure you have a snack or something in your pocket because if those sugars get too low it could be dangerous.
+PATIENT: Really, I didn't know that it was.
+DOCTOR: Yeah.
+PATIENT: Yeah high kills you in the long run and the low kills you, it can kill you in the short time?
+DOCTOR: Yeah.  That's why I asked.
+PATIENT: Okay then what I'll do is I'll just start carrying something.  I love the Lifesaver wintergreen candies so I'll just carry some of that with me.
+DOCTOR: Yeah, just I mean just kind of have something every so often.
+PATIENT: Yeah and it's, that's the only reason they have dropped is because of me not eating and you know you just don't want to quit, uh just a little bit longer and of course a little bit longer turns into a couple of hours.
+DOCTOR: Yeah, yeah.
+PATIENT: So.
+DOCTOR: Exactly.
+PATIENT: Yeah.
+DOCTOR: Now did you take all your medicines this morning?
+PATIENT: Yes uh-huh.
+DOCTOR: And are you taking the simvastatin?
+PATIENT: Yes uh-huh.  Um the reason, I run up the stairs.
+DOCTOR: Uh-huh.
+PATIENT: So I found out maybe that wasn't that long after I ran up the stairs.
+DOCTOR: I'll recheck it, I'll repeat it don't worry about it.
+PATIENT: I always take the stairs.  I don't take the.
+DOCTOR: The other thing I was going to ask you is we; remember we increased your Neurontin or your gabapentin dose.
+PATIENT: Uh-huh, uh-huh.
+DOCTOR: Did you notice any improvement with that?
+PATIENT: Yes, yes.  It does seem to, it has made a difference yes.
+DOCTOR: Okay.
+PATIENT: Um mainly when I, when I really notice it is mainly at night.
+DOCTOR: Okay.
+PATIENT: That's when, I guess it's cause you're relaxing and now the nerve endings are, you're not thinking about it, are you thinking about it now because throughout the day.
+DOCTOR: Uh-huh.
+PATIENT: It doesn't seem to as though I need it.
+DOCTOR: Okay.
+PATIENT: But at night um, you can, that's when it and it has really helped.
+DOCTOR: And are you doing 800 in the morning and night with 400 in the afternoon?  How are you doing it?
+PATIENT: Okay I was doing one in the morning and then uh whatever it is four at night, I'm sorry.
+DOCTOR: That's okay.
+PATIENT: I.
+DOCTOR: Okay so the gabapentin is 400 mg caps.
+PATIENT: Yeah gabapentin.
+DOCTOR: Okay so how many are you taking in the morning?
+PATIENT: One.
+DOCTOR: And how many in the afternoon?
+PATIENT: None.
+DOCTOR: None and what about the evening?
+PATIENT: Four.
+DOCTOR: Okay so that's.
+PATIENT: And that's again, a lot of times that's the only way it seems and usually I take it about between 7 and 8 o'clock.
+DOCTOR: Does it get you, make you tired?
+PATIENT: Yeah uh-huh.  Uh and then finally the hands and the feet stop and mainly it's the hands and feet.  Uh a little, once in a while in the legs but uh.
+DOCTOR: Okay.
+PATIENT: But then I'm able to sleep and I sleep all night.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: So those things have been working for you?
+PATIENT: Yeah that's what, that seems to be working for me.
+DOCTOR: Let's not fix it.
+PATIENT: Yeah.
+DOCTOR: Let's not fix something that isn't broken.
+PATIENT: Okay.
+DOCTOR: Um okay and then I got to put in for you to see Ortho.  Now, we could get some basic x-rays of your neck.
+PATIENT: Okay.
+DOCTOR: So they can see what the hardware is that you have in there.
+PATIENT: Uh-huh.
+DOCTOR: Where it is, the location and all that.
+PATIENT: Okay.
+DOCTOR: Um but we don't need to repeat the MRIs or anything.
+PATIENT: They may have x-rays of the neck.  It seems like I had some x-rays taken.
+DOCTOR: I know.  They'll want it if it's too long ago.
+PATIENT: So long, okay.
+DOCTOR: To make sure nothing has happened in the interim.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: Now in the wintertime, it harder. I know last time the sugars were up.  I try and this past winter was just, I mean I didn't want to get outside to do nothing you know, it just was hard and then my son-in-law.  I got to tell you what my son-in-law did here, back in March uh, no, no it wasn't, it was back in February.  We had that one snowfall.
+DOCTOR: Uh-huh.  I'm listening, just so you know, to order stuff and what not.
+PATIENT: Um anyway I called him, he called me once and yeah we had a freaking snowfall here and did some plowing and we got stuck.  He said yeah, he says I know.  He said you know what I got stuck today also and I said you got stuck; they live in [REDACTED] Florida which is Cape Canaveral.
+DOCTOR: Uh-huh.
+PATIENT: You got stuck, he drives for Waste Management but down there Waste Management of part of the state and they get all state benefits.
+DOCTOR: Oh.
+PATIENT: Yeah anyway, I said,you got stuck.  He says yeah I got stuck in 75 degree weather today, yeah now that the sun's going down it's only 60 and I got out.  Okay that was when it was cold up here you know.
+DOCTOR: Yeah, it really was yeah.  Now the blood work we won't do until you see um Endocrine.
+PATIENT: Okay.
+DOCTOR: It’s not due anyways.
+PATIENT: Okay.
+DOCTOR: And let me see what else.  Let me see how you're doing on your refills.  I'll give you cyclobenzaprine.
+PATIENT: Yeah that's the one.
+DOCTOR: So you've been using it?
+PATIENT: Yeah I almost forgot.  I don't remember it from the first time.
+DOCTOR: Oh.
+PATIENT: Yeah he gave me a prescription here when I was in and that has helped.
+DOCTOR: It helped.
+PATIENT: Yeah because it started in again and so um I, they had told me that the Pharmacy was open; the Pharmacy wasn't open, anyway.  So when we got home I found the old ones and I got, my fault, I did not know that they had come.
+DOCTOR: Okay.
+PATIENT: Anyway so I started taking them again and then I got the other ones in the mail and sure enough it went back down again so it um did help, it's helping yeah.
+DOCTOR: Okay good.  Uh your simvastatin expired so I'm going to renew that.
+PATIENT: Okay.
+DOCTOR: The insulin syringes, do you use those still or no?
+PATIENT: No, uh huh.
+DOCTOR: No okay, well we'll just.
+PATIENT: The 30 and 31 syringes no.
+DOCTOR: Okay, clean up your list. What about adhesive remover liquid, do you still use that?
+PATIENT: Yes uh-huh.
+DOCTOR: You do use that?
+PATIENT: Uh-huh.  Yeah I still got enough right now, unless it's, uh I still got half a bottle, one of those bottles like.
+DOCTOR: Okay.
+PATIENT: That, about like that, I still got about half a bottle.  Cause sometimes these.
+DOCTOR: So we'll not worry about it.  What about the nasal spray, do you use that?
+PATIENT: No uh uh, no.
+DOCTOR: Discontinue [REDACTED].  Okay what about the Claritin?  Loratadine that's the antihistamine.
+PATIENT: Well that must be over because.
+DOCTOR: It's been over a year.
+PATIENT: Yeah, yeah I'm going to say that must be old.
+DOCTOR: Okay.  Alright so you've got a good number of refills.
+PATIENT: I wanted to ask you something.  I'll wait till you're done.
+DOCTOR: Shoot.
+PATIENT: What is this?
+DOCTOR: What?
+PATIENT: That little break, as it is right now.
+DOCTOR: Oh this here.
+PATIENT: And it'll open up, I'll put some, usually I put bag balm on them, put a band-aid on them and it heals up in a day or two and that's the only spot and yet you can kind of see how bumped up, it never goes down or anything.
+DOCTOR: Hmm.
+PATIENT: Always a bump as though it's healed.  Is that and it's been like that for, I can't tell you how long.
+DOCTOR: Yeah.  It's sometimes the skin, for whatever reason it just didn't heal like back to normal the way it should be.
+PATIENT: And so, with working, especially right now.
+DOCTOR: Yeah.
+PATIENT: It seems to be okay for two or three months and then I'll be doing something and right now gloves, going on and off constantly, because you're hot, cold and working out so okay.
+DOCTOR: Yeah I wouldn't worry about it.
+PATIENT: Okay.
+DOCTOR: It sometimes, you know with diabetes you get poor wound healing and then if it doesn't heal like it should, [REDACTED].
+PATIENT: And that was my main concern just because of the diabetes so.
+DOCTOR: Yeah.
+PATIENT: Uh.
+DOCTOR: Well if it were to like continue to be a problem then we'd have to, you know.
+PATIENT: But it always heals up.
+DOCTOR: Okay.
+PATIENT: Um, bag balm, that kind of thing um, [REDACTED].  Do you know what it is?  Whatever, have you heard of it?
+DOCTOR: Uh uh.
+PATIENT: It's an old remedy, that's one new one.  It's parabolic acid um, I forgot what I was saying but it's actually you put that on something like this.  The reason I didn't because I was going to show you today uh, within two days it'll get healed.
+DOCTOR: Oh yeah.
+PATIENT: Any sore.
+DOCTOR: It's not like a red.
+PATIENT: No it's a um yellowish.
+DOCTOR: Okay.  It doesn't have Mercury does it?
+PATIENT: No, no.
+DOCTOR: Okay so I remember once I had this blister on my thumb that would not heal.
+PATIENT: Uh-huh.
+DOCTOR: And I went to Italy, I was there for six weeks and aunt goes oh let me just try this stuff and she puts this stuff on it and it like the blister healed right away right, within a couple of days and so when I came back I was a teenager and I went to tell one of my friends who's a doctor.
+PATIENT: Uh-huh.
+DOCTOR: And I'm like this stuff works miracles, blah, blah, blah and she goes yeah uh the government pulled that off the market cause it's got high Mercury content and I'm like oh for goodness sake.
+PATIENT: I'll tell you a story, when I was oh 12, 14 years old, we were at my grandparents.  I won't tell you how it happened because I was stupid as a kid but I cut my bottom of my foot wide open.  My brother and I was playing on a tin roof and a nail was sticking up.
+DOCTOR: Yeah.
+PATIENT: Anyway, I'm going, we went in and my brother and I and I'm bawling my eyes out you know and my grandmother said to my mother and that's all I heard, Mary get the turpentine and I went blood-footed and all, I went running.
+DOCTOR: Yeah.
+PATIENT: But do you know, I never had any infection.  They finally tackled me, got me.  I thought it was going to burn and it was going to hurt, it never hurt.  Grandma soaked my foot in there and I didn't even know, oh several minutes and then bandaged it with the turpentine.
+DOCTOR: Yeah.
+PATIENT: And it healed; uh of course I always used to heal fast until the diabetes.
+DOCTOR: Right.
+PATIENT: But I never had a scar or anything.  You can't find anything and it was, it seemed to me even as a kid, as bad as the cut was.
+DOCTOR: Yeah.
+PATIENT: Uh turpentine and it never burned.  I was baffled.
+DOCTOR: It's amazing.  It's amazing the stuff that that we used to use.
+PATIENT: Yes, yes.
+DOCTOR: Okay.
+PATIENT: Well, it's the first time [REDACTED].
+DOCTOR: Looks good huh.  Okay, it's better.  It's 130/60.  That’s where you are supposed to be.
+PATIENT: Yeah usually I've got that talking one.
+DOCTOR: Yeah.
+PATIENT: That I had for my brother before he died and whenever I take it, so that's about what it runs.
+DOCTOR: Yeah.  Deep breaths.  Okay, just breathe regularly.
+PATIENT: Question.
+DOCTOR: Yes.
+PATIENT: When you were on this side, I know you listen to the heart.
+DOCTOR: Uh-huh.
+PATIENT: But what are you listening to on this side?
+DOCTOR: The heart sounds.
+PATIENT: Oh really.
+DOCTOR: You can hear the heart sounds go to various places on your chest.
+PATIENT: Really.
+DOCTOR: Yep.
+PATIENT: I did not know that.
+DOCTOR: Uh-huh.  Any swelling?
+PATIENT: Nope uh uh.  I have a question.
+DOCTOR: Yeah.
+PATIENT: You were just saying that okay the neuropathy in the feet.  I don't like it's from the diabetes, never gonna get better okay.  But there's time when it seems its worse and then times when it's better okay.  It's not the neuropathy that's gonna have them cut my uh.
+DOCTOR: Your.
+PATIENT: We just had a friend here.
+DOCTOR: Was getting an amputation?
+PATIENT: Yeah right.
+DOCTOR: So it's not the neuropathy but what it is is, it's the neuropathy cause like you don't feel the way you should so you're more likely to get um, to step on things, get cuts whatever.  Now when you get those sorts of cuts and what not, then it's hard for the wound to heal and if the blood flow to the limbs is lessened, which it can be with diabetes, it just doesn't allow it to heal and it continues to fester and then it just gets worse and worse.
+PATIENT: That's what happened.
+DOCTOR: Yeah.
+PATIENT: A friend of ours, just a month ago had some, first it was just some toes and then they took her leg off up to her knee because she didn't listen, actually a friend of NAME.  It was too late.
+DOCTOR: Right.
+PATIENT: It was too late by that time.
+DOCTOR: Uh-huh.
+PATIENT: Uh well when she finally did and the only thing that I have with my feet is the nail on the second toe and there seems to be a tender spot under it.  They looked at it at um.
+DOCTOR: Podiatry?
+PATIENT: Podiatry and didn't see anything.
+DOCTOR: Okay.
+PATIENT: Um and I didn't know if that was just maybe, maybe it's the toe, maybe it's the neuropathy.
+DOCTOR: It's just.
+PATIENT: That I'm making it feel that way.
+DOCTOR: Uh-huh.
+PATIENT: But as far as anything else and it just, doc it scared me when.
+DOCTOR: You know as long.
+PATIENT: It's right here.
+DOCTOR: As you're not walking around barefoot, walking and stepping on you know rusty nails, things like that.
+PATIENT: Yeah.
+DOCTOR: As long as you are always keeping an eye on your feet and looking at them, making sure that you don't break down, you're fine.
+PATIENT: She checks them every night.  Uh I won't even walk around the house, I have a set up a pair of sandals that when I come in and take off my shoes or boots or whatever.
+DOCTOR: Yeah.
+PATIENT: Um on goes the sandals.
+DOCTOR: Yeah.
+PATIENT: That way cause we have three little dogs, two little Lhasa Apsos and a miniature Schnauzer, who I don't know why but they don't understand they have to put their toys away.  They get them out with no problem.
+DOCTOR: Right.
+PATIENT: You ought to see these three but they will leave their toys right where daddy can step on them and.
+DOCTOR: Yes.
+PATIENT: And then I have a couple of times but it’s a good thing I've had my shoes or.
+DOCTOR: Yeah make sure you're always wearing something.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yep.
+DOCTOR: Let me um talk to my boss.
+PATIENT: Okay.
+DOCTOR: And we'll give you the green light to go.
+PATIENT: Okay.
+DOCTOR: You're doing, there's nothing that we need to change today.
+PATIENT: Okay great.
+DOCTOR: So that's good.
+PATIENT: Except you staying here.
+DOCTOR: I know.
+PATIENT: I know.  I know, I know.
+DOCTOR: I'll be back.
+PATIENT: Alrighty.  Hypertension and the kidney?
+(DOCTOR OUT:  81:31  DOCTOR IN:  84:03)
+DOCTOR: Hmm.
+PATIENT: I didn't know hypertension affected the kidneys.
+DOCTOR: Yeah the kidneys can cause hypertension too, if the arteries.
+PATIENT: Really.
+DOCTOR: If the, see this here?
+PATIENT: Uh-huh.
+DOCTOR: This is a normal artery.
+PATIENT: Uh-huh.
+DOCTOR: Going to the kidney and it's one of.
+PATIENT: Oh.
+DOCTOR: If it’s narrowed, the kidneys are kind of also part of your how your blood pressure [REDACTED] so if it’s narrowed, it can cause hypertension.
+PATIENT: Okay sure.
+DOCTOR: Yep but that's um, that's not a very common cause.
+PATIENT: Hmm, I thought the kidneys you know went along with the liver taking care of everything and sort of filtering and but yeah it makes sense.  It makes sense I mean, if you've got something, especially of the kidneys.  I mean they're a big thing with the blood.  Yeah.  Will you do me a favor?
+DOCTOR: Yes.
+PATIENT: Well I don't know if you're allowed to but I hope you are, allowed to take my number with you.
+DOCTOR: Uh-huh.
+PATIENT: And.
+DOCTOR: Do you have e-mail?
+PATIENT: Yes.
+DOCTOR: I'll just give you my e-mail address.
+PATIENT: Okay, oh yeah, that'd be nice and I know you're gonna be busy so if I do e-mail you.
+DOCTOR: Don't worry.
+PATIENT: And you don't answer right away I understand.  I understand.  I think its well, going into this cancer research is just, can I ask.
+DOCTOR: Yes.
+PATIENT: A personal question?
+DOCTOR: Sure.
+PATIENT: When I mean personal, it's about this cancer thing.
+DOCTOR: Uh-huh.
+PATIENT: And I hate to say this and I know.
+DOCTOR: Just ask me.
+PATIENT: Is this, is this, other cancers that are curable that they just don't want to.
+DOCTOR: Tell you about?
+PATIENT: Yeah.
+DOCTOR: No.  There are cancers that are curable provided they're found early enough so it's all about screening and early detection.  So.
+PATIENT: [REDACTED].
+DOCTOR: Yeah so the problem is that a lot of cancers, because we don't routinely check.  You know pancreatic cancer; there are certain types of cancers where you're a goner.  So essentially I don't care what.
+PATIENT: Why can't, if they can transplant a heart, a kidney, a liver, everything.
+DOCTOR: Yeah.
+PATIENT: Why not a pancreas?
+DOCTOR: Because the thing is that by the time it's found it's so advanced that it's infiltrated all the areas surrounding it.
+PATIENT: Okay you know I had heard that and uh, now it doesn't seem right but is that what it is?
+DOCTOR: Uh-huh.
+PATIENT: But I thought like, Patrick Swayze, I thought that they had diagnosed his early what not early enough.
+DOCTOR: The pancreas cancer is one of those where.
+PATIENT: Here and now, it's gone.
+DOCTOR: Yeah you're um.
+PATIENT: Wow, wow.
+DOCTOR: It's.
+PATIENT: Okay somebody like me, my pancreas is not working right.
+DOCTOR: Uh-huh.
+PATIENT: I mean that's why I'm taking insulin.
+DOCTOR: Uh-huh.
+PATIENT: Why can't they do a transplant on me?  I've heard over there at MCB at the Commission for the Blind, there's a girl there who is a diabetic who they did a cornea transplant on.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: I haven't heard of pancreas transplants, they haven't done that yet.
+PATIENT: Why?
+DOCTOR: I don't know.
+PATIENT: I'm sure there's got to be.
+DOCTOR: I really don't know to be honest with you.  I'm sure they're looking into it.
+PATIENT: Yeah.
+DOCTOR: But I've not heard of it so in terms of it being something that they're offering.
+PATIENT: I can't imagine.  I don't know how like with a heart or a kidney.  I don't know how you would fit.  How do they sew that stuff together?
+DOCTOR: Yeah I know it's amazing.
+PATIENT: I mean who thinks this stuff up you know?
+DOCTOR: Uh-huh.
+PATIENT: I just, but I remember when what's his name Bernard Shaw, the first heart transplant, the name was Bernard, maybe that might have been the last name.
+DOCTOR: I can't remember the name.
+PATIENT: Yeah that was…
+DOCTOR: They've come a long ways.
+PATIENT: That was, that was space age.  Uh that was Buck Rogers and then some yeah.
+DOCTOR: Yeah.
+PATIENT: Uh and he didn't live all that long but it was still, it was still uh.
+DOCTOR: Uh-huh.  So I'm not sure how long this e-mail's going to work.
+PATIENT: Okay.
+DOCTOR: But this will be the new e-mail starting July 1.
+PATIENT: This one.
+DOCTOR: The EMAIL.
+PATIENT: Okay.
+DOCTOR: Yep.
+PATIENT: What can I say but thank you?  You know, you know where I was and you know where I've come and it's all because of you.
+DOCTOR: Well.
+PATIENT: You've given me the incentive, you have.
+DOCTOR: Well I'm glad.
+PATIENT: Uh because there sure could have been a lot of other doctors that I could have got who would not have been.  You know I remember once we were talking and you helped me get the pump and helping me when I'm down.  Well, put [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And I'm.
+DOCTOR: It's been a pleasure PATIENT, you're very welcome.  You keep it up though okay.
+PATIENT: I will.  I want to keep in contact.  You've been an inspiration to me.
+DOCTOR: Great, I'm glad.  Um now I can tell you, I'm still your doctor until June 23rd.
+PATIENT: Okay.
+DOCTOR: Okay so if you need anything you call.
+PATIENT: Okay.
+DOCTOR: Afterwards just e-mail, call me, I don't care okay, seriously.  Um and then otherwise we'll get you to a physician in either of these clinics, if they can't then they'll put you in whoever is taking over for me.  Okay.  If for whatever reason you don't like the new doctor you get, just switch to a different doctor.  Just FYI, you’re not stuck. Okay just ask for a new doctor.
+PATIENT: You know it'll be.
+DOCTOR: I don't, that's the deal.  So we just that's the problem, if you don't like who they gave that's why you make a request for a new physician okay.  Well and I know you told me.  You can ask [REDACTED] to follow you as well.  It's not a problem.  [REDACTED] don't by fooled by the [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Still if you don't like who you get, just switch.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Then maybe [REDACTED].
+DOCTOR: But I think what you need right now is to just do the [REDACTED].  Yeah so I think that's the most important.  More important than Neurology.  You're welcome.  You're welcome.
+PATIENT: 91:27.
+Time is 10:03
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249444
+TRANSACTION # 578-10-2-316-0103

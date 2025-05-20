@@ -1,0 +1,212 @@
+DOCTOR: PATIENT?
+PATIENT: Yes it is.  I am here.
+DOCTOR: Good to see you.  [REDACTED].  Have a chair.
+PATIENT: What'd you say?
+DOCTOR: [REDACTED].  Alright how you doing?
+PATIENT: Okay.
+DOCTOR: Alright that's good.
+PATIENT: Haven't seen you in a while.
+DOCTOR: Yeah it's been since September here.
+PATIENT: I know.
+DOCTOR: (Whistles).
+PATIENT: Last September.
+DOCTOR: Oh yeah September 24th.
+PATIENT: September 24th.
+DOCTOR: Yeah.  How you doing?
+PATIENT: Fine.
+DOCTOR: Very good.  Okay anything new going on?
+PATIENT: Nothing new.
+SECOND PERSON U677
+He was hospitalized [REDACTED].
+DOCTOR: Oh is that right?
+PATIENT: I was in the hospital.
+DOCTOR: Oh okay.  What for?
+PATIENT: Uh [REDACTED].
+DOCTOR: Have you been getting treatment for it?
+PATIENT: Yes I'm improving I think at this point.
+SECOND PERSON U677
+He didn't [REDACTED]
+PATIENT: I haven’t.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Alright.
+SECOND PERSON U677
+Alright.
+DOCTOR: Do you need refills or anything?
+PATIENT: No but [REDACTED].
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: [REDACTED].  Alright you feel well otherwise.
+PATIENT: [REDACTED] perfect health.
+DOCTOR: Oh very good.  [REDACTED].  You're telling me huh.
+PATIENT: (Laughter).
+DOCTOR: So your hemoglobin dropped a little bit.
+PATIENT: [REDACTED]
+DOCTOR: You're not feeling tired or anything?
+PATIENT: No.
+DOCTOR: Still taking the thyroid medicine?
+PATIENT: Yes I am.
+DOCTOR: Alright does that need to be refilled?
+SECOND PERSON U677
+Yes.  Are you talking about the [REDACTED]?
+DOCTOR: Yes.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Have you got all your immunizations done?
+PATIENT: Yes we did.
+DOCTOR: Flu shot [REDACTED].
+PATIENT: It wasn't [REDACTED].
+DOCTOR: So you didn't want it?
+PATIENT: Didn't want it.
+SECOND PERSON U677
+It's just.
+PATIENT: [REDACTED] flu shot [REDACTED].
+SECOND PERSON U677
+I think he needs a refill on let me remember, for hydrochlorothiazide.
+DOCTOR: I can get it.
+SECOND PERSON U677
+Okay.
+DOCTOR: So you saw the endocrinologist too, huh?
+PATIENT: DOCTOR.
+DOCTOR: DOCTOR [REDACTED] dentist?
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] specific [REDACTED]
+PATIENT: Oh I see.
+SECOND PERSON U677
+That's got to be it.
+PATIENT: By the way, [REDACTED], implant.
+DOCTOR: Implant of teeth?
+PATIENT: Yeah.
+DOCTOR: Yeah they won't do that here.
+PATIENT: Oh I see.
+DOCTOR: [REDACTED].  Can you come up here?
+PATIENT: Oh yes.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Deep breath.
+SECOND PERSON U677
+Yeah (laughter), a light in your head.
+DOCTOR: Good so far.
+SECOND PERSON U677
+You did.
+DOCTOR: Have you been bleeding at all from anywhere?
+PATIENT: Nowhere.
+DOCTOR: No black stool.
+PATIENT: Uh-huh.
+DOCTOR: No okay.  No blood from the top or [REDACTED].
+PATIENT: No.
+DOCTOR: Okay.  You saw a hematologist in September too.
+PATIENT: Hmm.
+DOCTOR: What did they say?  Did you make an appointment with the hematologist again?
+SECOND PERSON U677
+Um they didn't [REDACTED].
+PATIENT: No.
+DOCTOR: I think we should do that yeah so I think they wanted it six months from September.
+SECOND PERSON U677
+Okay.
+DOCTOR: September or October [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Huh?
+PATIENT: DOCTOR.
+DOCTOR:
+DOCTOR: .  You should schedule an appointment.
+SECOND PERSON U677
+Okay.  Okay.
+DOCTOR: With them and see DOCTOR.
+SECOND PERSON U677
+Okay.
+DOCTOR: Okay.
+SECOND PERSON U677
+So like the middle of March.
+DOCTOR: Any time in March.
+SECOND PERSON U677
+Okay.
+DOCTOR: Any time in March, I think that's fine but you should do that.
+SECOND PERSON U677
+Okay.
+DOCTOR: And make sure that pancreatic test is followed up cause he's got anemia too.
+SECOND PERSON U677
+Oh.
+DOCTOR: So we should be following that up.
+SECOND PERSON U677
+Okay.
+SECOND PERSON U677
+Who do we see for [REDACTED]?
+DOCTOR: Hematology, yeah DOCTOR.
+PATIENT: Can I have a copy of the, this here?
+DOCTOR: [REDACTED] numbers?
+PATIENT: Yeah.
+DOCTOR: Yeah we can get it.
+SECOND PERSON U677
+He's been trying to just [REDACTED].
+DOCTOR: Yes.  [REDACTED]  [REDACTED] be right back.
+PATIENT: Fine.
+(DOCTOR OUT:  26:31  DOCTOR IN:  42:54)
+DOCTOR: So um, everything is okay I just wanted to make sure that, his hemoglobin was dropping a little bit and I want to recheck that okay.  Um so we need to get some lab tests done today.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And we can [REDACTED].  But I want you to push up that HEMOC appointment okay.
+SECOND PERSON U677
+Push it up?
+DOCTOR: Yeah, get it done for February.  You know what, keep it at March, but I need him coming back, the CBC that I’m running.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Then I'll tell them [REDACTED].
+SECOND PERSON U677
+Oh.
+DOCTOR: [REDACTED].
+PATIENT: Alright doctor, thanks.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Yeah.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Well I need to be here all day.
+SECOND PERSON U677
+Oh yeah.
+DOCTOR: [REDACTED] all day.
+SECOND PERSON U677
+Woo.
+DOCTOR: [REDACTED] too.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: [REDACTED] now.
+SECOND PERSON U677
+Wow.  [REDACTED].
+PATIENT: [REDACTED]
+SECOND PERSON U677
+[REDACTED].
+PATIENT: [REDACTED].
+SECOND PERSON U677
+Wow.
+PATIENT: Leaving.  [REDACTED].
+SECOND PERSON U677
+Yes.
+DOCTOR: Can you give me some urine today too?
+PATIENT: It's possible.
+DOCTOR: Yes.
+PATIENT: Yep okay.
+DOCTOR: Okay so lab work, the urine and you follow up with me in six months okay.
+PATIENT: Okay.
+DOCTOR: The only medication that you're taking for psychiatry medicines is Zyprexa?
+SECOND PERSON U677
+Yeah, uh-huh.
+DOCTOR: And that was started over at the hospital?
+SECOND PERSON U677
+Okay.  [REDACTED].
+DOCTOR: Okay when are you seeing, oh, you are seeing him in March too.
+SECOND PERSON U677
+[REDACTED].
+DOCTOR: Alright sounds good.
+PATIENT: Alright.  Good to see you.
+DOCTOR: So you'll do lab work, you'll do everything.  You can finish it.
+PATIENT: Yes.
+DOCTOR: I'll run this down.  Alright take care.  [REDACTED].  No okay.
+PATIENT: Oh you too.
+PATIENT: 45:47.
+Time is 12:04.
+DD: 09/12/12
+DT: 09/19/12
+INFOPRO/800511/JOB#  1249446
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,450 @@
+DOCTOR: PATIENT.
+PATIENT: Yeah.
+DOCTOR: I'm sorry hi.  What kind of problem have you had?
+PATIENT: [REDACTED]. They've heard everything, the whole thing.
+DOCTOR: Uh-huh.  Um okay so the last time I saw you, I saw you in Urgent Care right?
+PATIENT: Uh-huh.
+DOCTOR: Alright.  And we gave you, we did the x-rays and um we started you on the ibuprofen.  Have you been taking the ibuprofen?
+PATIENT: Yes.
+DOCTOR: Okay and that's not helping?
+PATIENT: Well it's slacks up you know.  It worked if I take two of them.
+DOCTOR: Uh-huh.  How many have you been taking?
+PATIENT: I just took, I been taking one at a time then I do two and that seemed to help me much better.
+DOCTOR: How many times a day have you been taking two?
+PATIENT: Just once.
+DOCTOR: Just once a day?
+PATIENT: Uh-huh.
+DOCTOR: So you've just been taking two pills a day basically?
+PATIENT: Uh-huh.
+DOCTOR: Alright give me one second I'm just gonna review the, probably look at the x-ray myself okay.
+PATIENT: Okay.
+(DOCTOR OUT:  10:00  DOCTOR IN:  17:46)
+DOCTOR: Sorry about that.
+PATIENT: NAME.
+DOCTOR: Yeah no, no, I think it's [REDACTED].
+DOCTOR: Alright you're gonna get that done.  We definitely want to do that.
+DOCTOR: Yeah sorry about that.  Um so the x-rays.
+PATIENT: Uh-huh.
+DOCTOR: The x-rays that we got when I saw you in Urgent Care it showed evidence of osteoarthritis.
+PATIENT: Uh-huh.
+DOCTOR: Have you heard of that before?  So there's two kinds of arthritis, well this actually well several different kinds of arthritis um but the two that everyone knows is rheumatoid arthritis and osteoarthritis.
+PATIENT: Hmm.
+DOCTOR: Osteoarthritis is the one that you have and it's basically wear and tear.
+PATIENT: Uh-huh.
+DOCTOR: You know as you get older.  Anyone who lives long enough is probably going to have osteoarthritis in one or more of their joints and you know you got two bones against each other over 65 years and you know.
+PATIENT: Uh-huh.
+DOCTOR: Kind of wears down so.  Um what you see typically on the x-rays is you know the bones are like this you know.
+PATIENT: Uh-huh.
+DOCTOR: And with osteoarthritis you see narrowing so the bones get a little bit closer.
+PATIENT: Uh-huh.
+DOCTOR: Sometimes they have um, you see degrading of the surface you know.
+PATIENT: Uh-huh.
+DOCTOR: And so that's what they saw in both of the knees.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] so the question is what do you do about it?  Um several things you can do um you can do, well the first thing you try to do is just control the pain with nonsteroidal anti-inflammatories like ibuprofen.  Then what you can also, you know, going up from that or you know if you're not getting enough pain control then you go with other things.  You know there are different medicines and you can also do injections, injections of the joint with um a steroid.
+PATIENT: Uh-huh.
+DOCTOR: And that kind of lowers the inflammation and it usually helps with the pain.  Um patients who get that usually get pain relief for a month or two and they have to come you know several times a year to get re-injected and then after that um you know there's other things that you can go on and then there are other things that you can do to kind of help with the pain.  You can strengthen the muscles around the joint uh mainly you know the leg muscles you've got here um.  So you know there's things that we can do.
+PATIENT: Uh-huh.
+DOCTOR: Um but unfortunately all of the things that we do don't really cure it.
+PATIENT: No.
+DOCTOR: There really is no cure I mean it's hard to cure you know worn down knees.
+PATIENT: Right.
+DOCTOR: So um you know everything that we, you know the treatments that we offer are basically controlling the pain, trying to minimize further damage to the joint and so on okay.  So you I mean, I saw you two weeks ago, right.
+PATIENT: Right uh-huh.
+DOCTOR: Um yeah and you said it's been getting worse in the last few years um and I started you on some ibuprofen.  So how do you feel?  I mean is the pain better than it was when I first saw you?
+PATIENT: Well it's I can walk and do everything.  It's not like if I'm sitting here and I ain't having no problem getting up because it seem like it tightens up.
+DOCTOR: Tightens up.
+PATIENT: Yeah like that.  As long as I'm walking and everything - tolerable.
+DOCTOR: Uh-huh good.  You know and you're only taking, when do you take the ibuprofen that I prescribed?  You're just taking it once a day you said right?  Take two tablets once a day?
+PATIENT: When I get ready to go to work.
+DOCTOR: Okay and what do you do?  Do you work nights or?
+PATIENT: Uh-huh.
+DOCTOR: You work nights?
+PATIENT: Right.
+DOCTOR: So you, you know take it in the evening basically before you go to work.
+PATIENT: Right.
+DOCTOR: It gets you through the.
+PATIENT: Yeah, the whole night, right.
+DOCTOR: All night.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: And then you get home and it hurts.
+PATIENT: It hurt all day anyway but uh it just eases the pain that's all.
+DOCTOR: Uh-huh.  The other thing we can do, so you can take you know you're taking, they say that the safe amount.  You know with every medicine there's a limit as to how much you can take.
+PATIENT: Uh-huh.
+DOCTOR: Um the medicine that you're taking is 2.4 mg.
+PATIENT: Uh-huh.
+DOCTOR: Give or take and you're taking 600 or so and you can take about four of those tablets a day.
+PATIENT: Uh-huh but I ain't taking nowhere close to that.
+DOCTOR: Yeah and the other thing that you know what you can do is you can take it more often so what I was just thinking another option would be right now you've got I gave you the prescription for the 600.
+PATIENT: Uh-huh.
+DOCTOR: We can do 800 which is a little bit higher of a dose.
+PATIENT: Uh-huh.
+DOCTOR: And you can do that like three times a day.
+PATIENT: Uh-huh.
+DOCTOR: You know so that way it's like, you know you get it before you go to work and then you know you can take it when you get home from work you know, so you'd be kind of like spacing it out.
+PATIENT: Right, right.
+DOCTOR: You know what I'm saying um that could be another option.  I mean I guess I'm trying to get a sense of what your, what your thoughts are.
+PATIENT: Uh-huh.
+DOCTOR: If it's just pain that.
+PATIENT: No it's not a boom, stopping me from doing anything.
+DOCTOR: Uh-huh.
+PATIENT: It's just, it's there.
+DOCTOR: It's there.
+PATIENT: Uh-huh.
+DOCTOR: How and like 0-10 what would you think it would be?
+PATIENT: Before the medicine, before the ibuprofen it was about a 8.
+DOCTOR: And now?
+PATIENT: When I take it it's good.
+DOCTOR: You have no pain when you take it?
+PATIENT: Oh I have pain all the time regardless if I take it or not.  It's just not as pronounced when I take it.
+DOCTOR: So you were an 8 before.
+PATIENT: Uh-huh.
+DOCTOR: And then what does it bring it down to?
+PATIENT: It come on down to about a 6 or something like that you know.
+DOCTOR: Uh-huh.
+PATIENT: Cause I’m constantly walking all night.
+DOCTOR: Well the other thing I mean we can give you something else too you know um.  Six you know I, there's different, you know everyone's different but the ideal is to get it down to about a 4.
+PATIENT: Uh-huh.
+DOCTOR: Okay uh so what we can do and I'm just looking at your labs.  We checked all your labs in February.  Checked your livers, kidneys, all that looks good so.  Um yeah I think we should add something, you know like a different type of medicine so um we'll try that.  Does that sound okay?
+PATIENT: Okay.
+DOCTOR: Um you know no one likes to take more pills but this is something that you would take as needed.
+PATIENT: Hmm, okay.
+DOCTOR: Um the medicine that you're on you've been taking.  Are you still taking the tramadol?
+PATIENT: What is that one?
+DOCTOR: Tramadol is for pain too.
+PATIENT: No, no I don't take that.  Ibuprofen is the only thing I'm taking.
+DOCTOR: So how many, okay let's go over your medicines real quick.
+PATIENT: Okay.
+DOCTOR: How many pills are you, do you know them?  Can you list your medicines or?
+PATIENT: I know them when I hear them.
+DOCTOR: Okay.  You got the six of them.
+PATIENT: Uh-huh.
+DOCTOR: Alright we've got the ibuprofen.
+PATIENT: Uh-huh.
+DOCTOR: Then you've got your blood pressure medicines.
+PATIENT: Right.
+DOCTOR: Lisinopril.
+PATIENT: Okay.
+DOCTOR: The amlodipine.
+PATIENT: Right.
+DOCTOR: Uh Bumex.
+PATIENT: Right.
+DOCTOR: That's a water pill.
+PATIENT: Right.
+DOCTOR: Uh let's see what else, metoprolol.
+PATIENT: Right.
+DOCTOR: You're taking all of those alright and then in addition you got a nasal spray.
+PATIENT: Uh-huh.
+DOCTOR: Um and then you've got the medicine for the diabetes.
+PATIENT: Uh-huh.
+DOCTOR: Glipizide.
+PATIENT: Right.
+DOCTOR: Uh and then the medicine for the cholesterol, simvastatin.
+PATIENT: Right.
+DOCTOR: Okay, anything else?
+PATIENT: That's it.
+DOCTOR: Okay.
+PATIENT: And I'm on aspirin.
+DOCTOR: You take like a baby aspirin, yeah.
+PATIENT: Yeah, uh-huh.
+DOCTOR: Okay good.  Um okay and then uh you have tramadol which I'd give or someone had given you in the past um.
+PATIENT: That was a pain medicine.
+DOCTOR: That's a pain medicine.
+PATIENT: Right.
+DOCTOR: Um which is, it's actually incidentally the same medicine that I would.  It's a different type of pain medicine so you have ibuprofen and tramadol but they're different types of pain medicine and they work differently.
+PATIENT: Uh-huh.
+DOCTOR: Um you know if you give someone two of the same types of pain medicine you're kind of not doing much, you might as well just give them more of the original medicine.
+PATIENT: Yeah.
+DOCTOR: Yeah this is what I would do had you not been on it.
+PATIENT: Uh-huh.
+DOCTOR: And you've already got a prescription for it; you probably don't have any at home right?
+PATIENT: No.
+DOCTOR: You still have refills so what I'm gonna do is I'm gonna renew it.  Its tramadol 50 mg uh you can take it three times a day.
+PATIENT: Uh-huh.
+DOCTOR: Okay um you know and you just take it three times a day as needed for pain.  So if you took you know the ibuprofen and one of the tramadol maybe before you go to work.
+PATIENT: Okay, you can one and one or something like that.
+DOCTOR: Yeah, yeah.
+PATIENT: Okay.  Uh-huh.
+DOCTOR: So how does that sound?
+PATIENT: Sounds right uh-huh.
+DOCTOR: Alright.  So.
+PATIENT: You can just have that, just sent to the house.
+DOCTOR: You want me to have it sent to the house?
+PATIENT: Yeah.  Mostly the ibuprofen I'm just using that right now.
+DOCTOR: Okay yeah and it's already sent, already ordered that way.  Let me see if I have everything here.  Alright is there anything else you want to take care of today?
+PATIENT: I'm good, I'm doing good.
+DOCTOR: You’re good otherwise.  Well it worked out that I got to see you both times.
+PATIENT: Right uh-huh.  Cause those knees can wake you up at night too.
+DOCTOR: They wake you up?
+PATIENT: Yeah.
+DOCTOR: You know.
+PATIENT: If I lay wrong.
+DOCTOR: What we can do, how about, you work nights?
+PATIENT: I work 7 to 7, 7 at night to 7 in the morning.
+DOCTOR: And what are you doing?  You're working in a plant right?
+PATIENT: Right uh-huh.
+DOCTOR: Okay.  Um when do you sleep?
+PATIENT: I come home, I get to sleep about 10 o'clock.
+DOCTOR: Uh how late?
+PATIENT: Until about maybe 3:30 or something like that.
+DOCTOR: That's a tough schedule.
+PATIENT: Right.  But like not every day.
+DOCTOR: How many days a week?
+PATIENT: It's EOP, three days then two days.  Like I go to work at night I mean tomorrow, Friday.  I work Friday, Saturday and Sunday, three days.
+DOCTOR: And then get two off.
+PATIENT: And then I'm off two.  I'm off Monday and Tuesday and the following weekend I'm off.  I work every other weekend and I work three days.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: So that makes it yeah, it makes it a little more manageable.
+PATIENT: Right.  I couldn't do it five days.
+DOCTOR: Yeah that's tough.
+PATIENT: You know.  And I'm trying, I'm gonna give it up, this is not [REDACTED].
+DOCTOR: You're gonna retire?
+PATIENT: Yeah.  I ain't gonna do it no more.  I'm just gonna let it go.  This summer be the last for me.
+DOCTOR: Then what are your plans?
+PATIENT: Go fishing.
+DOCTOR: Where you gonna go fishing?
+PATIENT: All over yeah.
+DOCTOR: That sounds like a good plan.
+PATIENT: Yep.  Uh-huh.
+DOCTOR: Alright, so other than that um you checking your sugars?
+PATIENT: Uh-huh.
+DOCTOR: How are they running?
+PATIENT: They're not, I don't think they bad because I don't feel bad, 140s, 150s you know.
+DOCTOR: Check them every day?
+PATIENT: Yeah.
+DOCTOR: One a day?
+PATIENT: Yeah once a day.
+DOCTOR: 140s to 150s.
+PATIENT: Uh-huh.
+DOCTOR: Does it ever get low?
+PATIENT: I don't let it get low.
+DOCTOR: Stay on top of it.
+PATIENT: ‘Cuz I eat stuff I ain't supposed to so it don't never get low.
+DOCTOR: That's your way of staying on top of it.
+PATIENT: Right cause it got low one time and it makes me feel bad.
+DOCTOR: Yeah.
+PATIENT: Uh-huh.
+DOCTOR: So okay um let me just see when your last A1c was.  Your last A1c was 6.6 so it looks like you're doing a pretty good job.  Um, you haven't had any low episodes right?
+PATIENT: No.
+DOCTOR: Recently, alright, let's see.  Yeah you've been pretty good with all of these since they started checking them, going back all the way back to 2001.
+PATIENT: Uh-huh.
+DOCTOR: So alright, that's good.  Just keep doing what you're doing um I think um and you know it always, it never hurts to try and eat healthy.
+PATIENT: Uh-huh right uh-huh.
+DOCTOR: Um you know how would you describe your diet?
+PATIENT: It's been, you know I eat vegetables.  I do good on the eating you know I haven't got no problem with that.  I can follow stuff like that.
+DOCTOR: You eat a lot of sweets or you try and stay away from those?
+PATIENT: Oh I don't eat a lot of sweet stuff no.
+DOCTOR: How about fried foods, stuff like that?
+PATIENT: Occasionally yeah uh-huh.  I'm gonna fry something you know.
+DOCTOR: Uh-huh.
+PATIENT: But uh I like vegetables and I boil a lot of stuff.
+DOCTOR: Uh-huh.
+PATIENT: You know so.
+DOCTOR: Yeah so you know the things that you want to, you know, these are just kind of general principles and if you want we can refer you to.
+PATIENT: Uh-huh.
+DOCTOR: To kind of like a nutrition you know education.
+PATIENT: Uh-huh.
+DOCTOR: Uh clinic here.
+PATIENT: Uh-huh I'm not going to do that.
+DOCTOR: But uh you know and uh they'll probably tell you stuff you already know but you want to stay away from things so with regards to the high blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: Which affects heart disease.
+PATIENT: Right.
+DOCTOR: Vascular disease as well as like brain, strokes, puts you at risk for that sort of thing um you want to stay away from foods that are high in salt.
+PATIENT: Right.
+DOCTOR: Um.
+PATIENT: Uh-huh.
+DOCTOR: And then you know the fried foods.
+PATIENT: Uh-huh.
+DOCTOR: You know foods that are high in fat you know.
+PATIENT: Uh-huh.
+DOCTOR: Uh red meat.  You know no one's saying you have to become a monk.
+PATIENT: Right.
+DOCTOR: And not eat that stuff any more.
+PATIENT: Right, right, right.
+DOCTOR: But you want to try and limit this you know.
+PATIENT: Right.
+DOCTOR: Stuff.
+PATIENT: Uh-huh.
+DOCTOR: We all know that fried stuff tastes better.
+PATIENT: Right.
+DOCTOR: You know.
+PATIENT: Uh-huh.
+DOCTOR: Red meat is good, steak is good um but you really want to try and limit it.
+PATIENT: Uh-huh.
+DOCTOR: And eat more you know of lighter, you know white meats.
+PATIENT: Right.
+DOCTOR: Chicken, fish, you know you want to bake things instead of frying.
+PATIENT: Not frying everything all the time right.
+DOCTOR: No, you know not adding salt to uh.
+PATIENT: They're already salty stuff.
+DOCTOR: Yeah, yeah.
+PATIENT: Uh-huh.
+DOCTOR: You know then the other thing with regards to salt um your blood pressure was a little high today um salt affects blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: Um you know try to stay away from foods like prepared foods.  Anything in a can, anything in a box.
+PATIENT: Uh-huh.
+DOCTOR: Chances are, it’s going to have high salt because salt is a preservative.
+PATIENT: Uh-huh.
+DOCTOR: You know we've been using salt to preserve food for thousands of years.
+PATIENT: Right.
+DOCTOR: You know and we still use it um so like canned food, food that comes in a box that sort of thing.  Those things tend to have a lot of salt.
+PATIENT: Uh-huh.
+DOCTOR: So you know instead of eating like canned vegetables, you know whenever possible try to eat fresh or frozen vegetables.
+PATIENT: Uh-huh.
+DOCTOR: Things like that.
+PATIENT: Okay.
+DOCTOR: Um you know those are things that you can do with your diet.
+PATIENT: Uh-huh.
+DOCTOR: To kind of you know improve uh things you know.  I think, like I said your sugars have been fairly well controlled but your blood pressure is an issue.  Um even though you're not too bad you're still not where we want you to be.  You know you're at 143/70 today and we'd like to get you below close to 120 if possible and at very least below 130 you the top number.
+PATIENT: You mean on the blood pressure how many times a day I'm supposed to take that?
+DOCTOR: Take what, measure your blood pressure or take the pills?
+PATIENT: The pills?
+DOCTOR: So.
+PATIENT: I only take like once a day.
+DOCTOR: You're on a few different medicines, so the amlodipine.
+PATIENT: I don't take nothing but once a day all day.
+DOCTOR: Yeah let me just look.  Amlodipine is once a day, Bumex is once a day um lisinopril once a day.  The metoprolol you're supposed to be on twice a day.
+PATIENT: I only take it once.
+DOCTOR: Okay.  So yeah, yeah, that may be.
+PATIENT: So I just have to start taking that twice.
+DOCTOR: Yeah you know which one I’m taking about?
+PATIENT: Uh-huh, right.
+DOCTOR: 50 mg.
+PATIENT: Uh-huh.
+DOCTOR: You're supposed to be taking that twice a day you know so I would take it you know, it's supposed to be 12 hours apart.
+PATIENT: Okay so I'll take it when I.
+DOCTOR: Yeah.
+PATIENT: When I go to work and while I'm at work.
+DOCTOR: Yeah.
+PATIENT: That's all.
+DOCTOR: Yeah like right before you go to work.
+PATIENT: Uh-huh.
+DOCTOR: And right when you get off.
+PATIENT: Right uh-huh.
+DOCTOR: So maybe that's what we're dealing with.  So yeah let's uh, you know the next time we see you.
+PATIENT: Uh-huh.
+DOCTOR: We'll see where your blood pressure's at you know.  Um we won't make any changes.  The only change we'll make is that you'll start taking the metoprolol.
+PATIENT: Uh-huh.
+DOCTOR: You know twice a day like its prescribed.
+PATIENT: Right.
+DOCTOR: And we'll follow up on it next time.
+PATIENT: Okay.
+DOCTOR: Um other than that, you doing okay?
+PATIENT: Good, real good.
+DOCTOR: Alright now the last thing, we talked about all your labs and your cholesterol looks good.  Um health maintenance um you actually had a colonoscopy this past summer.  Prostate we’ll repeat [REDACTED].  You had the flu shot this year.  And then last time I saw you.
+PATIENT: Yeah you said did I want the flu shot today.
+DOCTOR: But you had it, you already had it.
+PATIENT: Uh-huh.
+DOCTOR: Um and then you had the uh the tetanus diphtheria I gave you the last time you were here.
+PATIENT: Uh-huh.
+DOCTOR: Um and have you ever smoked in your life?
+PATIENT: In the '70s.
+DOCTOR: Oh okay.  One last thing is uh doing an ultrasound of the abdomen and the reason what they, the recommendations are that any male, any male who smoked.
+PATIENT: Uh-huh.
+DOCTOR: Should get checked one time at the age of 65.
+PATIENT: Uh-huh.
+DOCTOR: Should check a one-time ultrasound of the belly.
+PATIENT: Uh-huh.
+DOCTOR: Um and what they're looking up is the aorta, that's the main blood vessel that goes, you know comes out of the heart.
+PATIENT: Uh-huh.
+DOCTOR: And then goes you know.
+PATIENT: Uh-huh.
+DOCTOR: Um so people who had smoked it puts you at risk for what's called an aneurysm so basically it's a weakness in the wall of the artery.
+PATIENT: Uh-huh.
+DOCTOR: And it bulges out and then those can rupture and that's you know a very bad thing.
+PATIENT: Right.
+DOCTOR: So they say anyone who smoked at the age 65 they recommend doing a one-time only ultrasound.
+PATIENT: Uh-huh.
+DOCTOR: Of the belly.
+PATIENT: I haven't smoked in 20, 30 years.
+DOCTOR: They say any smoking history.
+PATIENT: Okay.
+DOCTOR: You know just because it's such a, if it does happen it's such a devastating thing.
+PATIENT: Uh-huh.
+DOCTOR: And the way you check for it is very, very easy.  They just put a little probe on your belly.
+PATIENT: Uh-huh, uh-huh.
+DOCTOR: Do you know what I'm talking about, an ultrasound?  It's like the things they do on pregnant women.
+PATIENT: Yeah I understand, right.
+DOCTOR: Yeah they use one of those just to kind of make sure that you don't have anything to worry about it ever again.
+PATIENT: Uh-huh, right.
+DOCTOR: So I think you know it'd be worthwhile just ordering it.
+PATIENT: Uh-huh.
+DOCTOR: Get this done and you know you come back at your leisure.
+PATIENT: Okay.
+DOCTOR: Getting a little [REDACTED] you know come in, do it.
+PATIENT: Uh-huh.  Okay, no problem.
+DOCTOR: Other than that, I think we're all good so I will I put in the order for the pain medicine tramadol.
+PATIENT: Uh-huh.
+DOCTOR: Metoprolol you're gonna take; start taking it twice a day.
+PATIENT: Uh-huh.
+DOCTOR: And then I'm gonna put in an order for the ultrasound.
+PATIENT: Okay.
+DOCTOR: And then otherwise I don't think we need to see you back here until another six months.
+PATIENT: Okay.
+DOCTOR: And then at that time you know we'll check cholesterol and a couple of the other things.
+PATIENT: Right, uh-huh.
+DOCTOR: Sound good?
+PATIENT: Real good uh-huh.
+DOCTOR: Alright.  Is there any particular time?  Are you coming back here any time soon for any tests or anything?
+PATIENT: Uh uh.
+DOCTOR: Alright.  When would be a good day for you to come back to do the ultrasound?
+PATIENT: It'd be on one of my off days so.  You just get a day I mean it doesn't matter to me.  As long as it's on one of my off days I just come back.
+DOCTOR: Okay.  I'll schedule that for next Wednesday, does that sound okay?
+PATIENT: Let me see what next Wednesday is.
+DOCTOR: The 29th.
+PATIENT: Yeah [REDACTED].
+DOCTOR: You say, when are you working?  You're working.
+PATIENT: Uh I have to look at my off day calendar it tells me.  Uh okay.
+DOCTOR: Yeah we're the 23rd.
+PATIENT: I'm off the red days.
+DOCTOR: Oh you're off the red days okay.  So how about next Monday or Tuesday?
+PATIENT: You see it on there?
+DOCTOR: Yeah the, where it is, 27th and 28th.  You work tomorrow, Saturday, Sunday and then Monday, Tuesday you're off.
+PATIENT: Right.
+DOCTOR: So I'll put you for the next Monday or Tuesday, what would you rather do?
+PATIENT: Tuesday is good.
+DOCTOR: Sounds good.  Alright.  Give me one minute, I'm gonna go talk with DOCTOR.
+PATIENT: Uh-huh.
+DOCTOR: And uh I think [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: We chatted when I first saw you right.
+PATIENT: Right.
+(DOCTOR OUT:  42:19  DOCTOR IN:  44:56)
+DOCTOR: Alright, last, but not least. You're done.  I just wanted to quickly, gonna listen to you, have a seat over here real quick.  [REDACTED].  Deep breath in and out.  Breathe in.  No nausea, vomiting, diarrhea?
+PATIENT: No.
+DOCTOR: Chills. So no constipation, bowel movements are okay?
+PATIENT: You know I’m going to the bathroom [REDACTED] way I should.
+DOCTOR: How often are you going?  Every day?
+PATIENT: Once a day, every other day something like that.
+DOCTOR: We can give you something to help you uh why don't you start with more fiber um.  Uh yeah so we can do that, we can give you some fiber.  How does that sound?
+PATIENT: Uh-huh.
+DOCTOR: Alright.  I just have a program I need to check [REDACTED].  Alright.  Alright so you want to get it in the mail too?
+PATIENT: Uh-huh.
+DOCTOR: Alright.  So this is just like a big uh, like a big [REDACTED] um you just take a scoop, put it with water or juice.
+PATIENT: Like a Metamucil type thing.
+DOCTOR: That's exactly what it is.
+PATIENT: Uh-huh.
+DOCTOR: Alright and you know you can use it three times a day if you like, just depending on how you want to use it.  If this doesn't work we've got stronger stuff.  I kind of like to stick with the natural stuff you know.
+PATIENT: Uh-huh.
+DOCTOR: But if this doesn't work then we can give you something a little bit stronger and we'll leave that stuff that'll.
+PATIENT: Yeah okay, okay.  I know, alright.
+DOCTOR: Alright.
+PATIENT: Uh-huh.
+DOCTOR: Otherwise we'll see you in six months.
+PATIENT: Good, really good.
+DOCTOR: And you're done.
+PATIENT: Alrighty.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: Take care.  Too much [REDACTED] out.
+PATIENT: Exactly, alright, thank you doctor.
+DOCTOR: Alright take care.
+PATIENT: 50:04
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300321
+TRANSACTION # 578-10-2-316-0103

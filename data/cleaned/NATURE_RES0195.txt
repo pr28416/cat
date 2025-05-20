@@ -1,0 +1,109 @@
+DOCTOR: What brings you in here today?
+PATIENT: Yeah hi, I'm so over the past few months I've noticed that I get short of breath sometimes. And my eyes are so irritated. And they feel itchy and red. And I've also noticed this rash below my knees, so I just wanted to get everything checked out.
+DOCTOR: OK and when did this all kind of start?
+PATIENT: Ah it started a couple months ago like 2, 3 months ago.
+DOCTOR: OK and when did the shortness of breath start?
+PATIENT: That's been on and off for the past two months as well.
+DOCTOR: OK, and how about the rashes?
+PATIENT: The rashes started like a month back, but it looks worse now. It started off small.
+DOCTOR: OK, um so for the cough, is it like a dry cough or a wet cough?
+PATIENT: It's a pretty dry cough.
+DOCTOR: Dry cough OK, are you bringing up any green or yellow material or any blood at all?
+PATIENT: No.
+DOCTOR: OK, and this also started like a few months ago?
+PATIENT: Yes.
+DOCTOR: And is it constant or does it come and go?
+PATIENT: Um it's it's getting worse now so it feels more constant now, but at first it it just came in. Yeah, it came in went.
+DOCTOR: OK, and has this happened to you before at all of these symptoms?
+PATIENT: No.
+DOCTOR: OK. Alright um. So it started a few months ago and how about the rashes? Are they have they been there like the ones below your knee since the two months? Or do they come and go?
+PATIENT: Um that's been there for the past month.
+DOCTOR: OK. And can you describe the rash a little bit? What does it look like?
+PATIENT: Sure, so it's now pretty diffuse. It's just below my knees like on my shins. It's on both sides. The one on my right side is a little bit bigger. It's about I'd say maybe like 10 centimeters and diameter. It's it's red or like a dark pink um. There's nothing coming out of it.
+DOCTOR: OK. Is it painful or itchy at all?
+PATIENT: It's um painful, yeah.
+DOCTOR: OK. What kind of paint do you feel that when you press on it?
+PATIENT: It's it's not that OK, so it's not painful painful, it's tender. So if I touch it, it will feel tug tender.
+DOCTOR: OK. Uh. Have you tried anything that has helped you relieve these symptoms?
+PATIENT: Um I took some ibuprofen that helped a little bit.
+DOCTOR: OK. OK, um and. So you've had the cough, but have you been having any kind of shortness of breath?
+PATIENT: No. Well, actually sorry, sorry I have had a shortness of breath. I haven't had a cough.
+DOCTOR: OK, so no cough, but you've been having shortness of breath.
+PATIENT: Yeah
+DOCTOR: And. When your shortness of breath is it more so that you're not able to take deep breaths, or you taking shallow breaths, how would you describe it?
+PATIENT: It just feels like, yeah, I can take in a full deep breath.
+DOCTOR: I see. And are you having any other symptoms like fevers or chills?
+PATIENT: No.
+DOCTOR: OK, and how about the eye irritation? When did that start?
+PATIENT: That started a month ago as well.
+DOCTOR: OK, and you do you have any red eyes? Or can you see any changes in your vision at all?
+PATIENT: Yeah, my eyes do look a little bit red and. I don't know if my vision changed a lot, but sometimes things will look a little bit blurry when they're far away.
+DOCTOR: OK. And with the shortness of breath, is it brought on by exertion, or can it be at rest as well?
+PATIENT: It can be at rest as well.
+DOCTOR: OK. And then, do you have any other symptoms? Like any joint pains?
+PATIENT: No no join pains.
+DOCTOR: OK. Any nausea or vomiting?
+PATIENT: Um no.
+DOCTOR: OK, any headaches?
+PATIENT: No.
+DOCTOR: Any muscle pain?
+PATIENT: Uh no.
+DOCTOR: OK. And any recent travel or contact with someone who's been sick?
+PATIENT: Um no.
+DOCTOR: Do you see any or do you notice any like fluid coming out from your eyes or anything like that?
+PATIENT: Uh no, I didn't notice that.
+DOCTOR: OK, do you get any night sweats?
+PATIENT: No.
+DOCTOR: And any chest pain?
+PATIENT: Sometimes the shortness of breath.
+DOCTOR: OK, is it just like a discomfort or is it a pressure or stabbing pain?
+PATIENT: Ah it just feels like a discomfort.
+DOCTOR: Do you feel your heart is racing?
+PATIENT: Uh. No.
+DOCTOR: OK, and any changes in your bowel movements at all?
+PATIENT: No, nothing like that.
+DOCTOR: OK. Any changes in your urinary pattern?
+PATIENT: No.
+DOCTOR: OK. Any sore throat, runny nose, any cold like symptoms?
+PATIENT: Uh no, but I haven been feeling um a little bit hot, so I wonder if I have a fever. I haven't checked it.
+DOCTOR: OK, we can check. Have you had any recent weight changes?
+PATIENT: Now that you mention it, I have had some weight loss over the past um six months. I've lost about 15 pounds.
+DOCTOR: 15 pounds OK. How about your appetite? Have you been eating well?
+PATIENT: Yeah, I've been eating the same.
+DOCTOR: OK, OK, and have you had any exposure to any fumes, dust, animals or pets in your environment?
+PATIENT: No.
+DOCTOR: Have you been diagnosed with any medical conditions in the past?
+PATIENT: Uh no.
+DOCTOR: Do you take any medications?
+PATIENT: Um nope.
+DOCTOR: OK, any allergies?
+PATIENT: No allergies .
+DOCTOR: OK. Hospitalizations or previous surgeries?
+PATIENT: Uh I had a C-section for my second child.
+DOCTOR: OK, any complications with that?
+PATIENT: No, it was it was a pretty standard. I didn't have any excessive blood loss or anything like that.
+DOCTOR: OK, any family history of any medical conditions like any lung or heart conditions?
+PATIENT: Um no lung or heart conditions. There are some autoimmune conditions in my family though.
+DOCTOR: OK, and what what kind of autoimmune conditions are there?
+PATIENT: Uh, there is rheumatoid arthritis um . There is um uh lupus. Like type one diabetes.
+DOCTOR: OK. OK and then. Are they for any like direct relatives like your parents or or children?
+PATIENT: Yes, my parents.
+DOCTOR: OK. And currently right now do you work?
+PATIENT: I work from home. Yeah, I teach I teach online.
+DOCTOR: OK and how's your living situation like right now?
+PATIENT: Pretty good. We live in a house. I live with my husband and two children.
+DOCTOR: OK, um. And do you currently smoke?
+PATIENT: No.
+DOCTOR: OK. And any recreational drug use like marijuana?
+PATIENT: No.
+DOCTOR: OK and any um alcohol?
+PATIENT: I drink once in awhile like I'll have a glass of wine on Fridays.
+DOCTOR: OK. Alright, yeah, so those are all the questions I had. Do you have any questions for me?
+PATIENT: Um no, like what what do you think I have and how should I treat it?
+DOCTOR: Yeah, so definitely one thing we need to rule out with the shortness of breath is any viral or viral infection like coronavirus so we will get a test done for you today. However, since this seems to be kind of a chronic issue, been going on for a few months and you're having with the shortness of breath, some other symptoms, the rash below knees, or is what we called erythema nodosum and irritation in your eyes and you have a family history
+of auto immune conditions as well. So sometimes you can get an auto immune disease that affects the lungs, so we need to rule out something like sarcoidosis which can cause fibrosis in your lungs and cause shortness of breath. So just to work that up will get a chest X Ray and also do some inflammatory marker tests like CRP, ESR and some other rheumatological tests as well, and based on what comes back we may have to refer you to a rheumatologist for further management and treatment. Yeah, so let's just do some of those tests 1st, and then we'll go from there. You have any questions?
+PATIENT: No, that sounds great. Thank you so much.
+DOCTOR: You're welcome, and you may need depending on what we find, steroid treatment today or until you see the rheumatologist.
+PATIENT: OK.
+DOCTOR: Alright, take care.
+PATIENT: You too.

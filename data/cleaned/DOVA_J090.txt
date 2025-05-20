@@ -1,0 +1,322 @@
+DOCTOR: Come on back.  How's everything going?
+PATIENT: I'm hanging in there.
+DOCTOR: Good.  Your blood pressure was a little high when you first came in.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] running around.  [REDACTED] rechecked it and it was 136/84 so.
+PATIENT: I know [REDACTED].
+DOCTOR: Yeah this time, the past three times when we've rechecked it it's always been 120s [REDACTED].  Are you in any pain today?  Could be that why it's elevated.
+PATIENT: I'm getting pain today because I'm kind of pissed off actually.
+DOCTOR: Uh-huh.
+PATIENT: No, actually when I saw you in January you was gonna put some orders in for me to uh have an eye consult.
+DOCTOR: Yeah did they not schedule your eye appointment?
+PATIENT: No eye appointment, no Ortho consult, no.
+DOCTOR: Well remember we were going to try the physical therapy before we tried the Ortho consult and we ordered those films.  We wanted to take a look at those films so that's why the Ortho consult wasn't placed yet because we had ordered those films of your knees to look and see if there were any fracture or dislocation or anything that [REDACTED] images first and the physical therapy is it helping your knees?
+PATIENT: Well I, let me see I only went one more time because he said uh I don't know, he wanted me to continue but.
+DOCTOR: Yeah.
+PATIENT: But the guy downstairs he and I wanted to continue going but you know I guess he had to, he had to get something from you to continue with it and since that didn't happen.
+DOCTOR: Well we should be able to continue that, I mean physical therapy isn't usually just one session.
+PATIENT: Well I had [REDACTED].
+DOCTOR: It looks like you went multiple times.
+PATIENT: I went multiple times.
+DOCTOR: Okay, did you feel like you needed to continue with it?
+PATIENT: I felt, I wanted to continue but he said you know, I don't know, I guess he needed something in writing I don't know, I guess.
+DOCTOR: Okay but did you feel that you would benefit from more physical therapy?
+PATIENT: He said I could.
+DOCTOR: Uh-huh.
+PATIENT: Uh but then.
+DOCTOR: Do you feel like it was helping you?
+PATIENT: It was helping with the strengthening you know.
+DOCTOR: Uh-huh.  Okay it looks like he discharged you from the Physical Therapy Clinic.
+PATIENT: Right.
+DOCTOR: It shows you had had 11 sessions.
+PATIENT: Yeah [REDACTED].
+DOCTOR: So it looks like you were tolerating the exercises and doing well with the treatment.  But you don't feel like it was really helpful?
+PATIENT: It's just, you know, it helped with strengthening, you know strengthening my legs but.
+DOCTOR: Uh-huh.
+PATIENT: But helping with my pain or anything like that [REDACTED].
+DOCTOR: Okay so it helped you [REDACTED] but you're still having and it helped with your stability as well?
+PATIENT: No, not really.
+DOCTOR: No.
+PATIENT: No.
+DOCTOR: So you feel like unsteady when you're walking?
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Uh-huh and he's the one that gave me the cane.
+DOCTOR: Uh-huh.
+PATIENT: Uh and then let's see what else.
+DOCTOR: Do you take anything for the pain?
+PATIENT: Naprosyn.
+DOCTOR: Okay.  Is that helping?
+PATIENT: I've been taking that for so long it's not really effective anymore.  I've been taking that for you know almost 10 years.
+DOCTOR: 10 years, that's a long time.
+PATIENT: A long time.
+DOCTOR: You're putting yourself at risk for a ulcer.
+PATIENT: I alRight.
+DOCTOR: Okay, how much Naprosyn are you taking?
+PATIENT: 250.
+DOCTOR: And how often do you take it?
+PATIENT: Uh twice a day, sometimes three times a day.
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: But it's not really doing any good?
+PATIENT: No.
+DOCTOR: Okay, I would stop it then if it's not helping you, because it's just putting you at risk for an ulcer.
+PATIENT: Alright.
+DOCTOR: Since it's not helping your pain.  Um okay so you those x-rays that we took continue to show the degenerative joint disease and the narrowing of the disk space but it didn't show any fractures or dislocation but we can send you to Ortho um now that we have the films and it does um [REDACTED] if you would benefit from surgery.  They can evaluate you for that.
+PATIENT: Um what about the colonoscopy?
+DOCTOR: Is that something that you're still interested in?
+PATIENT: Yeah you said you were gonna.
+DOCTOR: Yeah did you go and get the labs done?
+PATIENT: Uh-huh.
+DOCTOR: Okay, so let's take a look at the labs here.  You went and had blood drawn?
+PATIENT: Yeah.  You said you were gonna order me some of that stuff for my skin, for the dry skin Absorbase, never got that.
+DOCTOR: Okay, so you don't have all the labs that you need for the colonoscopy.  Can you go down to the Lab today for some blood work and we can get that done.  So could you.
+PATIENT: I didn't get the labs done? I thought I did.
+DOCTOR: Those were different so before you had you know your cholesterol checked, that was back in, that was a while back, back in November I think, yeah back in January when you had your cholesterol getting checked and the hepatitis C and your prostate enzyme, all of that good stuff.  But you didn't get screening labs for your colonoscopy at that time so we need to order specific screening labs first just to review them and then we can refer you for the colonoscopy so.
+PATIENT: So okay, so after I get the labs done then I'm gonna have to have another appointment or what?
+DOCTOR: No you don't need another appointment.  I will see the labs and then I'll schedule you for the colonoscopy okay.  So let's go ahead and order these labs.
+PATIENT: Yeah I'll get them done tomorrow morning, I got something else tonight.
+DOCTOR: Okay.
+PATIENT: I got to go back there.
+DOCTOR: That's fine.  So you’ll go for the [REDACTED] labs um, the physical therapy is not helping so we put in for Ortho to see you and you want the Absorbase you said?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Do you want to pick that up today?
+PATIENT: Yeah sure.
+DOCTOR: Okay.  And you're using that for dry skin?
+PATIENT: For dry skin.
+DOCTOR: Okay.
+PATIENT: And uh I need to go to the Eye Clinic uh, I couldn't do a walk-in, I mentioned that when I saw you in January, I tried to go in and see if they had.
+DOCTOR: Uh-huh.
+PATIENT: It'd been almost a year that I had been in their so I needed to go our time here.
+DOCTOR: It doesn't look like that won't, okay [REDACTED].  Where do you use the cream, all over?
+PATIENT: All over.
+DOCTOR: So I'll do that.  [REDACTED].  Do you want to pick it up at the window?
+PATIENT: Yes.
+DOCTOR: Also there's the colonoscopy labs you can go for tomorrow.
+PATIENT: Yeah tomorrow, yeah.  What about the Eye consult?
+DOCTOR: Uh-huh.  So what was going on with your eyes?
+PATIENT: Um a few years ago um I started having blurred vision so I came in and with the guys in the Eye Clinic.
+DOCTOR: Uh-huh.
+PATIENT: And uh you know they dilated my pupils and did all that and did some additional tests.  They said they wanted to keep an eye on something, make sure I come back within a year but I kind of you know, I didn't follow up like I should have and that's probably why you know they wouldn't let me just walk back in because it had been over a year.
+DOCTOR: You had seen them here?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: It was something specific that they wanted to watch for but.
+DOCTOR: Have you been having any vision changes?
+PATIENT: Uh some yes.
+DOCTOR: What, what kind of changes?
+PATIENT: Uh just the continued uh.
+DOCTOR: Worsening of the vision?
+PATIENT: Worsening of the vision yeah.
+DOCTOR: Just when you're reading?
+PATIENT: Uh when I'm reading or you know like when I uh, just sometimes during the day my vision will, even with the glasses that I have uh, I still can't see as sharply as.
+DOCTOR: Uh-huh.
+PATIENT: As I used to.
+DOCTOR: And you think that um.
+PATIENT: I think.
+DOCTOR: That when you're looking at things far away or close?
+PATIENT: When um, normally, usually my far vision isn't affected.  My distance vision hasn't really been affected in the past but that's starting to be affected too.
+DOCTOR: Okay.
+PATIENT: So it's both.
+DOCTOR: Near and distant as well.
+PATIENT: Yeah.
+DOCTOR: Okay and then um tell me about, are you still taking those antibiotics, the amoxicillin?
+PATIENT: No I'm done with that.  I'm going; you know I got a dental appointment at 10 o'clock, a follow-up.  Yeah that was for.
+DOCTOR: That's today?
+PATIENT: Yeah that was for dental stuff that I was on amoxicillin.
+DOCTOR: Okay so you're off of it now?
+PATIENT: Yeah I'm done, I'm done, I'm done with that.
+DOCTOR: And the swish and spit.
+PATIENT: I'm still using that.
+DOCTOR: Still using that okay.
+PATIENT: I got like two bottles at home still.
+DOCTOR: Okay.  Are you still taking Tylenol for your pain?
+PATIENT: Yes I am.
+DOCTOR: [REDACTED] is that helping at all?
+PATIENT: You know I was taking the Tylenol and I was taking that for the dental pain.
+DOCTOR: Okay [REDACTED].
+PATIENT: Cause I gotta a you know.
+DOCTOR: But that doesn't help your knee pain at all.
+PATIENT: Not really.
+DOCTOR: Okay and you're taking that 500 every six hours?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: I was taking that, alternating that with 600 uh Motrin.
+DOCTOR: Uh-huh.
+PATIENT: So it was like.
+DOCTOR: Oh you're taking Motrin and.
+PATIENT: Yeah that was for my dental pain though.
+DOCTOR: The oh the.
+PATIENT: You know I got all my teeth pulled.
+DOCTOR: Okay.  I see.  How long did you, are you still taking the Tylenol and the ibuprofen?
+PATIENT: I'm still taking the Tylenol but I'm not really taking the ibuprofen as much.
+DOCTOR: Okay.  I'm going to take that off your medication list.  Since you’re not using that.
+PATIENT: What?
+DOCTOR: The ibuprofen?
+PATIENT: Unless you can order something different yeah.
+DOCTOR: So you don't need it for your tooth pain anymore?
+PATIENT: Not no.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: So you're not taking the ibuprofen but you're still taking the.
+PATIENT: Still taking the Tylenol.
+DOCTOR: Tylenol okay.
+PATIENT: Now I take it sometimes but he wanted me to take it you know alternate it you know throughout the day.
+DOCTOR: Uh-huh.
+PATIENT: One a day you know throughout the day but take something else [REDACTED].
+DOCTOR: Oh okay.
+PATIENT: I was doing it that way but you know that was like, this will be two weeks now that I had the dental work done.
+DOCTOR: Uh-huh.
+PATIENT: And uh, like I said I'm having my follow-up today.  I still got some sutures in my mouth.
+DOCTOR: Okay.
+PATIENT: They gonna remove [REDACTED].
+DOCTOR: I would stop taking your Naproxen because it's not helping your knee pain and if you're taking that much of it you're gonna just put yourself at risk for an ulcer.
+PATIENT: Uh-huh, right I.  And I hadn't been taking the Naproxen anyway.
+DOCTOR: Oh I thought you said you've been taking.
+PATIENT: I had been taking the Advil.  You know I had been taking the Naprosyn like for years.
+DOCTOR: Oh uh-huh.
+PATIENT: But then I ran out, I didn't try to get anymore.
+DOCTOR: Oh because it wasn't helping.
+PATIENT: Wasn't helping.
+DOCTOR: Okay.  Have you ever tried anything called tramadol?
+PATIENT: Tramadol, no, no.
+DOCTOR: We can try that for you and the pain.
+PATIENT: Okay.
+DOCTOR: Do you want to pick that up today too?
+PATIENT: Yeah.
+DOCTOR: Tramadol [REDACTED] consult [REDACTED] eyes. You got your flu shot and all of that stuff?
+PATIENT: Yeah flu and pneumonia I got all that.
+DOCTOR: Are you still in the Methadone Program?
+PATIENT: Yes.
+DOCTOR: Okay good.  Putting in the consult for you to see Ortho.
+PATIENT: Now you said uh, remember I told you, I didn't tell you my story about the hep C?
+DOCTOR: Right.  [REDACTED] active right now.
+PATIENT: [REDACTED] okay.
+DOCTOR: Uh-huh.  There is no active disease but we'll get the labs so.
+PATIENT: So I don't need to go to that the Liver Clinic or anything like that?
+DOCTOR: No, no not right now.
+PATIENT: Okay.  Its borderline or anything, it's okay?
+DOCTOR: No active disease.  It shows that you had possible; you know you were possibly infected in the past.
+PATIENT: Uh-huh.
+DOCTOR: But you're not, no active infection right now and your labs are not typical for disease [REDACTED].
+PATIENT: So could I give blood?
+DOCTOR: Um, they'll probably want to do screening labs when you give blood.  Sometimes patients who have a history of infection in the past they will not allow you to give blood.  I don't know exactly what their rules are.
+PATIENT: Okay.  And the only reason I asked that uh I have a common type.
+DOCTOR: How many year have you had knee pain?
+PATIENT: Ooh.
+DOCTOR: How many years?
+PATIENT: Well let's see, I first injured my knees in the 80s, yeah, 87.
+DOCTOR: It's been a lot of years.
+PATIENT: Yeah, 30 years, 87, this is what [REDACTED]@, yeah that long yeah.  It's been a while, too long.  That's what they say is chronic.  So you're leaving in June?
+DOCTOR: Yep.
+PATIENT: So is you all done or you going somewhere else?
+DOCTOR: I'll be all done and will um.
+PATIENT: Staying in the Chicago area?
+DOCTOR: Yeah that's something I wanted to stay in Chicago but, I'm still looking for a job so, I haven't found one just yet.
+PATIENT: Hmm.
+DOCTOR: Still working on that process.  It's hard to find a job today, now with the economy.
+PATIENT: Really?
+DOCTOR: Uh-huh.
+PATIENT: Wow.
+DOCTOR: But I’ll find something, it’s just going to take time.
+PATIENT: Yeah.
+DOCTOR: What about you, did you find some work?
+PATIENT: No.  You know I had an appointment to go to the uh, our Regional Office on Taylor Street, I'm in this program to get retrained and possibly get a job so my schedule has been kind of heavy to where they're scheduling me for appointments and not talking to me first so I've been having to cancel those appointments and they just called me now.
+DOCTOR: Uh-huh.
+PATIENT: And are gonna call me back this afternoon.  I'm just saying this uh yes, I'm looking.
+DOCTOR: Uh-huh.
+PATIENT: I'm looking.  I just don't want to jump into anything.
+DOCTOR: For your [REDACTED] Clinic, we'll send you to the Eye Clinic, to the Ortho Clinic, colonoscopy labs,
+[REDACTED].  A survey [REDACTED].
+PATIENT: Tramadol.
+DOCTOR: And have you quit smoking yet?
+PATIENT: I'm almost there.  I been going to the Cessation Class.
+DOCTOR: Oh good, excellent.
+PATIENT: I'm getting there, I'm almost there.
+DOCTOR: How many cigarettes are you down to?
+PATIENT: Four.
+DOCTOR: Okay.
+PATIENT: Four to six a day, sometimes less, sometimes.
+DOCTOR: How much were you on before you started [REDACTED]?
+PATIENT: Oh man, a pack a day.
+DOCTOR: Okay.  So improvement.  So this medication the tramadol it can cause confusion in elderly patients.  You're a young guy so I don't think you'll have a problem with it.
+PATIENT: Uh-huh.
+DOCTOR: So the first few times that you use it, make sure that you don't drive afterwards.
+PATIENT: Oh I'm not driving now.
+DOCTOR: Okay good.  Just kind of monitor yourself after you take it and make sure that your mind is still clear, you don't have any confusion and it's not making you drowsy or sleepy or anything like that okay.
+PATIENT: Alright.
+DOCTOR: And do you want to pick that up at the window as well?
+PATIENT: Yes.
+DOCTOR: And you're gonna take that on an as needed basis too.
+PATIENT: Okay.
+DOCTOR: Okay let me just talk to my boss real quick.  Anything else you wanted to discuss?
+PATIENT: No.
+DOCTOR: [REDACTED] take a seat up there.  [REDACTED].  Take some big deep breaths.  Good.  Your lungs sound good right now.  After you stop smoking you can prevent yourself from developing emphysema.  I'm on service right now at the VA and we see people coming in all the time.
+PATIENT: With emphysema?
+DOCTOR: Emphysema.
+PATIENT: Yeah, like in the Smoking Cessation Class.
+DOCTOR: Yeah, you probably see.
+PATIENT: Almost all the guys, almost all of them have emphysema.
+DOCTOR: Yeah.
+PATIENT: And asthma.
+DOCTOR: And asthma too.
+PATIENT: Yeah.
+DOCTOR: Go ahead and lay back, [REDACTED] underneath.  You're able to bend it?
+PATIENT: Yes, part of that without hurting.
+DOCTOR: Can you bend it any further?
+PATIENT: Nope.
+DOCTOR: Nope.  And how about this one?
+PATIENT: This one's kind of not as bad.
+DOCTOR: Okay.
+PATIENT: Like the last one so.
+DOCTOR: Bend it again for me.  Did that cause any pain?
+PATIENT: No.
+DOCTOR: What about this?
+PATIENT: That does, especially in the hip, not in the knee.
+DOCTOR: Okay.  But it doesn't cause any pain in the knee?
+PATIENT: No.
+DOCTOR: Okay.  Alright.  [REDACTED] it looks like you do have some restriction and some stiffness, [REDACTED] may be able to [REDACTED].  So the left side looked better.
+PATIENT: It's worse than that.  That's also the one that locks, snaps and pops all the time.
+DOCTOR: Okay.  (doctor working on computer)  [REDACTED].
+PATIENT: Right.
+DOCTOR: Heading in the right direction huh.
+PATIENT: Yeah.
+DOCTOR: Good for you.
+PATIENT: [REDACTED].  All those crazy wild days are over.
+DOCTOR: Good.  Where are you living at?
+PATIENT: Uh, presently I'm just staying with my mom.
+DOCTOR: Okay.
+PATIENT: It's a temporary situation of course.
+DOCTOR: Sure.
+PATIENT: Uh when I get back to working.
+DOCTOR: Well, I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  37:36  DOCTOR IN:  48:48)
+DOCTOR: Okay sir, she agreed with our plan.  The only suggestion she had was to use just to try diclofenac instead of um tramadol just because tramadol has some addictive properties so it probably would be better to try something without those properties first and try um.
+PATIENT: What is that that you said, what is it?
+DOCTOR: Diclofenac.  It's a stronger anti-inflammatory medicine, it's stronger than Naproxen so.
+PATIENT: Okay.
+DOCTOR: So we'll try that and you can pick that up today too.  [REDACTED].
+PATIENT: I haven’t heard of that one.
+DOCTOR: Yeah it's not really what we use that often but [REDACTED] so.  Cause usually Naproxen helps most people but.
+PATIENT: Unless they've been taking it forever huh.
+DOCTOR: Yeah I guess so.
+PATIENT: It used to work. I been taking it for a long time.
+DOCTOR: So let's try something different.
+PATIENT: I'm surprised no one's ever suggested coming off of that and trying something else.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: They always ask me how long have you been taking it and I tell them and they just keep prescribing it.
+DOCTOR: I know, so if it's helping then they'll still continue it but if it's not helping you then what's the point right?
+PATIENT: Switch up from time to time anyway though.  I think you know, will that cause ulcers too?
+DOCTOR: It can so they'll probably want you to take it with food.  They're going to [REDACTED].
+PATIENT: Yeah I always take it with food I don't, yeah I don't take without food.
+DOCTOR: Okay, so you take it once in the morning with breakfast and with dinner.  Alright.  So it sounds like they wanted you to go back up front, or go back to Room [REDACTED] because the pain scale wasn’t complete.  Do you just want to wait over here in the Waiting Room?  Okay take care [REDACTED].  There you go.
+PATIENT: We'll try again.
+PATIENT: 51:32.
+Time is 9:40.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238091
+TRANSACTION # 578-10-2-316-0103

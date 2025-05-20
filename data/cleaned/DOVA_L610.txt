@@ -1,0 +1,326 @@
+DOCTOR:
+PATIENT: did see you before.
+PATIENT: Yes you did.
+DOCTOR: You usually see DOCTOR right?
+PATIENT: Yes and I saw you and I tried to change doctors and they wouldn't let me.  To you.
+DOCTOR: Uh-huh.
+PATIENT: Yeah.
+DOCTOR: Oh you can change now cause he's leaving.
+PATIENT: Yeah that doesn't count.  So here's my question how long you gonna be around?  I hear you supposed to graduate.
+DOCTOR: One year.
+PATIENT: So after you graduated you gonna be around?
+DOCTOR: Um I was thinking about working here permanently but my family's in California and we're having a baby so.
+PATIENT: Congratulations.
+DOCTOR: Thank you, thank you.  So.
+PATIENT: So I'm gonna have to follow you in California.
+DOCTOR: You know you're more than welcome too.
+PATIENT: You don't know me; I really will come to California okay.
+DOCTOR: Let me finish filling out a couple of things here from my last patient and then we'll get talking.
+PATIENT: Okay.
+DOCTOR: There are a couple of things that um we ordered for you so.
+PATIENT: Yeah I haven't seen him for six months.
+DOCTOR: Yeah he hadn't seen you in a while and now he's moving on I guess so okay, he's actually moving to St. Louis.
+PATIENT: Hmm.
+DOCTOR: I know I, okay.  I'm sorry I didn't recognize you initially.
+PATIENT: Okay.  Its okay, hey I know you go through a lot of people.  Now there's another doctor here.  His name is oh God what did they say his name was DOCTOR something.
+DOCTOR: DOCTOR?
+PATIENT:
+DOCTOR: okay.  If you drop me, would you make sure I get him?
+DOCTOR: Okay you probably won't.  Well he's my boss in this clinic.
+PATIENT: Fantastic.  I’m tired of going through this you know.
+DOCTOR: I guess it's finally making me do this, okay so what can I help you with today?
+PATIENT: Okay.  I just came from Urology okay.
+DOCTOR: Yeah.
+PATIENT: She said that I need to talk to you.
+DOCTOR: About?
+PATIENT: I still have this congestion going on here.  Now I think I indicated to you the last time that I hadn't had this congestion until the pulled all my teeth out and one was really rough pulling that tooth out.  Uh did not give me the proper injection cause I felt it, I mean I was really in pain and I told them about that.  So now I have this constant drain.  I told you about that last time and you gave me something for it.
+DOCTOR: Yeah, let's see what I gave you um.  What did I just give you; oh you were on Zyrtec before right, that's not new.
+PATIENT: What's the Zyrtec for?
+DOCTOR: Allergies and postnasal drip.
+PATIENT: Oh okay, I think that's one of the ones I got mixed up, so start taking the Zyrtec.
+DOCTOR: The Zyrtec.  Well I increased your blood pressure medicine last time.
+PATIENT: Right.
+DOCTOR: Remember you have high blood pressure.
+PATIENT: That one too.
+DOCTOR: Okay.
+PATIENT: And I'd like to get that blood pressure without adding another.
+DOCTOR: Okay, eventually.
+PATIENT: Okay.
+DOCTOR: Do you have a low salt diet?
+PATIENT: Oh, I'll go to the low salt diet, whatever you tell me to do, I'm gonna do.
+DOCTOR: Low salt diet.
+PATIENT: Okay.  Cause I'm in my 60s okay.  I got a 12-year-old so I want another 60 years.
+DOCTOR: You don't look 61 okay.
+PATIENT: Okay.
+DOCTOR: You can very well live longer.
+PATIENT: Okay.
+DOCTOR: Um the one thing though, you brought it up, I'm glad I see this now is um, oh okay I'll talk about that in a second.  Low salt diet.
+PATIENT: You got it.
+DOCTOR: Okay and no fried foods, once a week great you know.
+PATIENT: Okay.
+DOCTOR: Anything more than that, probably not a good idea.
+PATIENT: Okay.
+DOCTOR: That's the best thing to do okay.  Okay so that's that.  Um you have high calcium okay.
+PATIENT: Right.
+DOCTOR: And people wonder what does that mean, well it can make you feel, it can sometimes present some of the symptoms of fatigue, feeling.
+PATIENT: Uh-huh.
+DOCTOR: Kind of blah.
+PATIENT: Okay.
+DOCTOR: They call it moans, stones and groans I think are the three things that's kind of alarming.
+PATIENT: Hmm.
+DOCTOR: Because you've got muscle aches and pains.
+PATIENT: Uh-huh.
+DOCTOR: Cramps.
+PATIENT: Uh-huh.
+DOCTOR: Fatigue and then kidney stones.
+PATIENT: I had them oh how, oh God that was horrible.
+DOCTOR: So then you ask why do you have high calcium levels.
+PATIENT: Uh-huh.
+DOCTOR: Well it very well could be parathyroid.
+PATIENT: Parathyroid, that's what they told me when they last seen me okay.
+DOCTOR: So we need to check the um.
+PATIENT: Calcium?
+DOCTOR: Well we need to check the calcium and the urine.
+PATIENT: Okay.
+DOCTOR: And I think he ordered that, did he or did you want me to order it.
+PATIENT: He said that he was gonna order it, I went down and never received the bottle cause he wanted me to urinate in the bottle for 24 hours and then send it to the lab.
+DOCTOR: Unfortunately that's the process.
+PATIENT: Okay.  If you put in the consult I'll come back out on Monday and pick the bottle up.
+DOCTOR: I already ordered that so that's done okay.  Um and I think we need to take a look at this too.
+PATIENT: Okay.
+DOCTOR: Um, it would probably be better to get the labs first and then we can maybe take a look at this stuff.  Um so there's a couple, here's the thing.  So what do you do about that oral surgery, if this is significant.  If these labs are concerning enough.
+PATIENT: Uh-huh.
+DOCTOR: And you are sent to Navocate, sounds like.
+PATIENT: Uh-huh.
+DOCTOR: So I think this would qualify for surgery but I want to see the labs first.
+PATIENT: Okay.  My understanding was they were going to try me on medicine first.
+DOCTOR: We could try the medicine first.
+PATIENT: Okay.
+DOCTOR: But let me see what the labs look like.
+PATIENT: Okay.
+DOCTOR: Because if it's really from the parathyroid you could do medicine but the gold standards of care is to remove them.
+PATIENT: I don't like removing stuff.  I want to leave out of here with everything I came in with.
+DOCTOR: Well let me see.
+PATIENT: If we can get around it that's cool, if we can't then I’m not going to be a problem.
+DOCTOR: Now how's your breathing?
+PATIENT: That's what I have a problem with, especially during intercourse.  I mean I get shortness of breath.
+DOCTOR: During intercourse you say?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Or anytime I stress myself.  I used to walk quite a bit, I can't do that anymore.  I used to be able to run; I can't do that at all.
+DOCTOR: And we never got a stress test on you did we?
+PATIENT: A long time ago.  It's just like I inhale and it's like its tight right in here.  Feels like it's congestion up in here uh when I'm exerting myself even modestly okay and that's what concerned me so is it from the nasal drip, is it from my smoking from 30 years, I mean what kind of.  And they took x-rays, did that help them?
+DOCTOR: Not really.  So, that was - not very long.
+PATIENT: So they took, checked an x-ray but they took it times four and they said it was all behind in my heart, they didn't get a good shot at so they wanted to give me.
+DOCTOR: Yeah which is very possible so.
+PATIENT: Okay.
+DOCTOR: [REDACTED]
+PATIENT: It could be the what?
+DOCTOR: It could be [REDACTED].
+PATIENT: Alright.
+DOCTOR: So it's hard to say um.  He wants a repeat chest x-ray.
+PATIENT: How often can I get these things?
+DOCTOR: Well okay, you're just starting.  I mean we want to see your lungs okay.  I know you smoked for a while.
+PATIENT: Uh-huh.  I haven't smoked in over 11-12 years.
+DOCTOR: Okay but how many years did you smoke for?
+PATIENT: Well probably a good part of 30, 25-30.
+DOCTOR: That's a long time.
+PATIENT: Uh-huh.
+DOCTOR: Even if you quit um.  There was no obvious thing on the x-ray that was concerning okay.
+PATIENT: Okay.
+DOCTOR: Um and you had normal lung function tests.
+PATIENT: Okay.
+DOCTOR: Recently.
+PATIENT: So have not found any ill-effect from the smoking?
+DOCTOR: No there's no emphysema.
+PATIENT: Okay, whew.
+DOCTOR: No it was completely normal, that's [REDACTED]@ a year ago.
+PATIENT: Okay, so whatever this congestion is something else.
+DOCTOR: It's something else. Um is it the heart, maybe okay.  Your echo that I ordered for you before is completely normal.
+PATIENT: Okay.
+DOCTOR: Okay.  Um it was a little bit limited because I think the person who performed the test was not very skilled.
+PATIENT: Okay.
+DOCTOR: So cause you know you deal with very obese people, it's hard to see the heart and you're right [REDACTED] very obese.
+PATIENT: Uh-huh.
+DOCTOR: So I might recommend a stress test actually.
+PATIENT: Let's do it.
+DOCTOR: Okay.
+PATIENT: Here's another thing, it may be a minor concern or not.
+DOCTOR: Oh actually you had it in July actually oh a year ago, it was normal.  Cause I thought you had one.  Didn’t you have one?
+PATIENT: Yeah, describe what a stress test is?
+DOCTOR: You can do it any yeah, either they inject something into and you feel sick or they put you on a treadmill and make you walk.
+PATIENT: That is the one I did. But, here's the thing I worked out and went a long time on the treadmill.  I remember that.
+DOCTOR: Okay.
+PATIENT: Uh I couldn't do even a third of that now, that's what I'm saying it's different.  Uh and my legs, my legs are weak, okay I'm stumbling and tripping a whole lot.  I almost, in fact this morning, I'm walking up the stairs, six flights of stairs and it's like my knee gave out.  It's like my muscles could not, actually going on.
+DOCTOR: Did you have any knee arthritis?
+PATIENT: No.
+DOCTOR: You're on medicine for it though.
+PATIENT: Arthritis?
+DOCTOR: Yeah meloxicam, arthritis medicine.
+PATIENT: Meloxicam, I remember the meloxicam but I thought that was something else.  You know at some point I'm going to need somebody to write down all the medicines I got and what they for.
+DOCTOR: Okay.  Why don’t I, I will work on that okay.
+PATIENT: Okay.
+DOCTOR: I'm extremely.
+PATIENT: I know.
+DOCTOR: I'm taking care of 12 people upstairs right now, opening the new hospital so, what I can do and I'll remind myself is to send you a letter with all the medicines down and what they're used for okay.
+PATIENT: Alright.
+DOCTOR: And then we'll decide which ones you really use and which ones you really want.
+PATIENT: Uh-huh.
+DOCTOR: And which ones are worthless.
+PATIENT: Okay cause.
+DOCTOR: Cause trying [REDACTED].
+PATIENT: Exactly.  I never liked taking medicines.
+DOCTOR: [REDACTED].  It's nothing new.  Your blood pressure stuff.
+PATIENT: Yeah.
+DOCTOR: That's necessary and let's no more salt and you lose a little weight okay.
+PATIENT: I'm working on it.  As a matter of fact, that's what I was going to say that uh.
+DOCTOR: Yeah.
+PATIENT: My weight came down; it's down to 114 so I lost four pounds since I last came here.
+DOCTOR: Actually were you using the program, the Telephone Program or no or am I thinking of somebody else?
+PATIENT: What telephone, no, no, no.
+DOCTOR: There's a telephone, okay that's something else.  I still hear that murmur.  They didn't detect it on that echo.
+PATIENT: That's what it is about you.  You detected that murmur.
+DOCTOR: I still hear it.
+PATIENT: Nobody else has detected that.
+DOCTOR: And with that echo not showing it, maybe I'm crazy but I swear there's a.
+PATIENT: Well let's check into it, crazy or not.
+DOCTOR: Yeah.  Deep breath in.
+PATIENT: (Coughs)
+DOCTOR: Oh, okay one more time, okay.
+PATIENT: See I been doing that.
+DOCTOR: Deep breath.  How long has this been going on?
+PATIENT: Been going on a while.  When I first I came here I started talking about this.
+DOCTOR: You don't have a blood clot history in your family do you?
+PATIENT: Hmm, you know what yes.  My mother died a year or so ago from blood clots.
+DOCTOR: Blood clots okay.
+PATIENT: Yeah.
+DOCTOR: Okay where were the blood clots?
+PATIENT: Oh God, it went from her chest to her brain or something like that.
+DOCTOR: Okay, let me see [REDACTED] have a seat and I want to talk to DOCTOR.  I know you like DOCTOR.
+PATIENT: No, I never meant him. I meant you. I like you.  You're going somewhere I really want to.
+DOCTOR: Okay.
+PATIENT: Again.
+DOCTOR: Hang on to that.
+PATIENT: They have so many doctors and nurses here that.
+DOCTOR: Alright.
+PATIENT: That are not people friendly.
+DOCTOR: Oh.  I [REDACTED].
+PATIENT: I know.
+DOCTOR: Have a seat.
+(DOCTOR OUT:  20:10  DOCTOR IN:  32:50)
+DOCTOR: Alright.  Here's what we're gonna do.  I was talking with the other doctors okay.
+PATIENT: Uh-huh.
+DOCTOR: About how much to get excited about this cause you've had it, actually we were looking, you've had a very extensive work-up.
+PATIENT: Uh-huh.
+DOCTOR: Heart, lungs, let's work on [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay and the parathyroid and see if that helps.
+PATIENT: Okay.
+DOCTOR: Okay and then um we'll go from there okay.  I want you to use your [REDACTED].  You're telling me it felt like a congestion type of thing.
+PATIENT: Uh-huh.  Do that para thing?
+DOCTOR: Yeah do you have nasal symptoms too?
+PATIENT: Yeah.
+DOCTOR: Use this [REDACTED], we want to something for the nose also.
+PATIENT: Okay.
+DOCTOR: Okay.  Let's try that.  So make sure you, I want to make sure you have renewals on that too.
+PATIENT: Uh what I'm most concerned about is the breathing and the other item is the loss of muscle mass.  I mean I'm really losing muscle mass.
+DOCTOR: How are you [REDACTED]?  Are you lifting weights?
+PATIENT: No I'm not doing anything.  I mean was really active about five years ago and.
+DOCTOR: Oh okay.
+PATIENT: And now I’m out of work, so I'm not quite as active.
+DOCTOR: [REDACTED] okay, so it is a one thing that they brought up.
+PATIENT: Well.
+DOCTOR: So part of this, because you're not such a good cardiac and there's that murmur.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  This may not um, let's see okay.
+PATIENT: But yeah, try to make a change on that as they're sending it to Apartment 1A and it should be 11A, A11.
+DOCTOR: Uh you know.
+PATIENT: I understand.  You're busy; yeah I'll have them do it out there.
+DOCTOR: I don't know how to do that.  So let's do that.
+PATIENT: Okay.
+DOCTOR: And we'll do all the calcium stuff too, now DOCTOR ordered that okay.  Um I'm going to; those orders should still be in effect.
+PATIENT: Okay.
+DOCTOR: Uh let me if the orders are in.  And then I want to make sure it comes to me okay.
+PATIENT: And the muscle pain you were saying what?
+DOCTOR: You're deconditioned.
+PATIENT: Okay.
+DOCTOR: You need to be doing like actually sit-ups.
+PATIENT: Okay.
+DOCTOR: It was interesting.  I thought it was very interesting, you know how it is interesting that this is very noticeable during intercourse.
+PATIENT: Uh-huh.
+DOCTOR: During intercourse you're using your core muscles.
+PATIENT: Uh-huh.  So I need to work on my core.
+DOCTOR: You've got to work on your core.
+PATIENT: Is there someplace here I can do that?
+DOCTOR: There is.  Have you been to the MOVE Program before?
+PATIENT: No.
+DOCTOR: You know it's an exercise program.
+PATIENT: Works for me.
+DOCTOR: Okay let's send you there okay.  You'll be happy with it okay.  And then this is the thing, this is why cause the other guy was supposed to come at 4:00 p.m., they overbooked me, he didn't show up.
+PATIENT: Oh.
+DOCTOR: He's in that program and apparently you have a work-out buddy and stuff and you keep track of your progress.
+PATIENT: Uh-huh.
+DOCTOR: And it's through the telephone.
+PATIENT: Uh-huh.
+DOCTOR: And it's sent through the VA and shows how you're doing.
+PATIENT: Okay.
+DOCTOR: Let's do that okay.  Um.
+PATIENT: MOVE Program.
+DOCTOR: Let's send you over there uh.  And we need to watch that murmur okay.
+PATIENT: Okay.
+DOCTOR: I swear I hear something there.  If you do all these things.
+PATIENT: Uh-huh.
+DOCTOR: And you come back to me in a couple months.
+PATIENT: Uh-huh.
+DOCTOR: Then [REDACTED] progress.  We're going to get the echo done again.
+PATIENT: Uh-huh.
+DOCTOR: And I'll send you to Cardiology and they might do a cardiac cath.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Not a problem.
+DOCTOR: Okay.
+PATIENT: So when is the baby due?
+DOCTOR: Uh she's 39 weeks as of today.
+PATIENT: Uh-huh.
+DOCTOR: So it's due anytime.
+PATIENT: What are you getting boy or girl?
+DOCTOR: Boy.
+PATIENT: Boy congratulations.
+DOCTOR: First baby.
+PATIENT: You're gonna have to get another one, you know that right.
+DOCTOR: Oh yeah.
+PATIENT: You gotta get a girl for you.  The boys are gonna go to the mother. You need to; I'm telling I've got five girls.
+DOCTOR: Oh boy.
+PATIENT: Four boys, 21 grandkids.
+DOCTOR: Oh my goodness.  Well this could be it.  [REDACTED] I've always wondered if you get [REDACTED].
+PATIENT: It's bizarre.  The never grow up, they never go away.
+DOCTOR: You know that's nice, but I want to get the [REDACTED].
+PATIENT: That's fantastic.
+DOCTOR: I mean I think it's great.
+PATIENT: Uh Thanksgiving, holidays are really, really special.
+DOCTOR: If you want to get this stuff done today go ahead okay.
+PATIENT: Let's do it Monday.
+DOCTOR: Okay.
+PATIENT: Cause I've got somebody that's driving me [REDACTED].  So Mondays and Thursdays is good.
+DOCTOR: And let's put in for; see you in three months okay.
+PATIENT: Okay.
+DOCTOR: We'll have you come back [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay just call.
+PATIENT: Uh-huh.
+DOCTOR: Um our schedules are a little bit better now.
+PATIENT: Uh-huh.
+DOCTOR: So hopefully um, let's me just find it, down here.   Okay.  I'm going to work on this, it'll be a project but I think we'll get through it.
+PATIENT: Alrighty.
+DOCTOR: Nice to see you again and thank you.
+PATIENT: That's alright, it's alright.
+DOCTOR: Okay, check out there and tell them about the address okay.
+PATIENT: Alright doc.
+DOCTOR: Oh he's actually going to be checking out.
+PATIENT: Okay.
+PATIENT: 39:59
+Time is 4:45.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249448
+TRANSACTION # 578-10-2-316-0103

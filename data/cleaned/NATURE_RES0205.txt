@@ -1,0 +1,76 @@
+DOCTOR: I'm going to be having a chat with you today get an idea of how things are going and then I'll go over it with the opposition that I'm working with and we can come back together and talk to you about the next steps, that sound good to you?
+PATIENT: Yeah.
+DOCTOR: I know that you've been having experiencing a cough. Can you tell me a little bit about that?
+PATIENT: Yeah, I um I've had this cough for the past two weeks and it just doesn't go.
+DOCTOR: OK. have never had anything like this before?
+PATIENT: I’m I usually get a cold once a year or so. But the cough doesn't last this long, like it's usually over in a week or week and a half or so.
+DOCTOR: Mm. And it's it's not letting up.
+PATIENT: Mm.
+DOCTOR: OK um. I'm gonna ask you a few questions about the cough itself. Is this a dry cough that you're experiencing? Or are you producing like any any mucus or coughing up anything?
+PATIENT: There was some mucus um earlier on, but now it's it's all, it’s a dry cough.
+DOCTOR: Now, it's dry OK how long, what was the timeline for that? I guess how long?
+PATIENT: Yeah, so maybe for the first four or five days there was this like whitish clear kind of mucus that was coming up and then after that was a a dry cough.
+DOCTOR: OK, OK. And do you feel like the intensity of the cough got worse over the last two weeks, or has it gotten any better?
+PATIENT: Kind of the same, I would say.
+DOCTOR: And has the cough gotten more frequent over this time as well?
+PATIENT: No.
+DOCTOR: How often would you say that you're coughing?
+PATIENT: Uhm? It's hard for me to quantify, maybe a couple of times an hour, maybe three or four times an hour or so.
+DOCTOR: Is there anything you can think of that triggers the cough, or is it spontaneous?
+PATIENT: It’s kinda, spontaneous um. Can't really think of anything.
+DOCTOR: OK. And along with the cough, are you experiencing any difficulty breathing?
+PATIENT: No.
+DOCTOR: OK, have you noticed any fevers?
+PATIENT: Uhm, no.
+DOCTOR: OK um. Have you had any sore throat?
+PATIENT: Um I did initially um for the first two or three days and then that got better.
+DOCTOR: OK um. Have you had any runny nose?
+PATIENT: I did initially yeah, I have like had all those flu symptoms for the first couple of days, but the cough just kinda stayed. Everything else resolved in the first uhm three or four days I would say.
+DOCTOR: OK. Thank you for sharing that have you had, did you have any chest pain at any point?
+PATIENT: No, but I guess like sometimes when I'm coughing too much my chest hurts a little bit.
+DOCTOR: OK, so it feels kind of sore after all that?
+PATIENT: Yeah.
+DOCTOR: OK. OK, have you been in contact, I guess it's hard to say because it started a while ago, but before it started bringing contact with anyone that's been sick?
+PATIENT: I I work at the hospital, but. Um I'm wearing PPE all the time, and I'm very careful so.
+DOCTOR: OK. Have you traveled anywhere outside of the province?
+PATIENT: No.
+DOCTOR: OK, have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: OK, any belly pain?
+PATIENT: Uhm, no.
+DOCTOR: OK, um so I'm just gonna ask you some questions about your overall health. Have you had any respiratory problems in the past?
+PATIENT: No.
+DOCTOR: OK. Or do you have any chronic conditions that you see your family doctor for regular thing?
+PATIENT: I’ve got acid reflux and uh, I also have anxiety.
+DOCTOR: Are you currently taking any medications?
+PATIENT: Um. I I used to, not anymore.
+DOCTOR: Uh, was there any particular medication that you stopped recently?
+PATIENT: No, no. I used to take. I used to take something for anxiety two three years ago.
+DOCTOR: OK. And what do you do for your reflux?
+PATIENT: I just avoid right now, I'm just trying to avoid the foods that make things worse for me and I feel like that's helped me quite a bit, uhm so yeah. I quite like acidic foods and chocolates and things like that.
+DOCTOR: Sure. That's no fun.
+PATIENT: Yeah.
+DOCTOR: Do you have any allergies?
+PATIENT: Just hay fever.
+DOCTOR: And do you have any family history of respiratory problems or heart problems?
+PATIENT: No.
+DOCTOR: OK, and this is in terms of your lifestyle. Do you live with family, alone?
+PATIENT: I I live with my partner.
+DOCTOR: OK, and do you have any kids or pets living with you?
+PATIENT: No.
+DOCTOR: Do you smoke?
+PATIENT: Uh I don’t, no.
+DOCTOR: Drink alcohol?
+PATIENT: Um occasionally. On Christmas.
+DOCTOR: Oh OK, I see. And do you use any other substances?
+PATIENT: No.
+DOCTOR: OK. Uhm, and what do you do for work?
+PATIENT: I’m a clerk at the hospital.
+DOCTOR: OK. Right, you just say you working at the hospital. And, uh. I can't think I thought I had another question for you, but I can't remember it. Anything else that you wanted to tell me about that I didn't ask you.
+PATIENT: Um. No, I guess I was just wondering why I still have a cough. It's been such a long time. Um yeah, and I was wondering if I could get any medications just to help with that. It's not really. Yeah, it's everyone's like scared at work when I cough. I have. I have had the covid test and I don't have it, um so yeah.
+DOCTOR: When we got the last test done?
+PATIENT: Um I had the test done when I first started having symptoms about two weeks ago? Since then I've been at home and I'm just waiting for my symptoms to get better, but I you know, I kind of like get back, and I don't want to be coughing when I get back. Um yeah.
+DOCTOR: OK. Well, I'm gonna have a quick listen to your heart and lungs I'll do a quick physical exam and then I will go get the doctor that I'm working with all kind of go over everything you talked about, and then we'll come back and talk to you about where to go from here.
+PATIENT: Sounds great.
+DOCTOR: OK well thanks for chatting with me.
+PATIENT: Your welcome.

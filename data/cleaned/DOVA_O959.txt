@@ -1,0 +1,216 @@
+DOCTOR: PATIENT.  All the way back to the left.
+PATIENT: Okay.
+DOCTOR: Okay, [REDACTED] about really don't have to, I don't know about that okay.  How you feeling?
+PATIENT: Fine.
+DOCTOR: [REDACTED] weather. I feel like I haven’t seen the sun in years. How have your sugars been?
+PATIENT: High.
+DOCTOR: Okay how high is high.
+PATIENT: 372, 360.
+DOCTOR: Okay.
+PATIENT: I'm at 50 cc a night plus the uh.
+DOCTOR: Plus the metformin.
+PATIENT: Metformin right.
+DOCTOR: Okay.  Plus the Glargine.
+PATIENT: Yes.
+DOCTOR: The Glargine is 50, the glyburide is 10.
+PATIENT: Right.
+DOCTOR: And you take that and the glyburide twice a day.
+PATIENT: Right.
+DOCTOR: The metformin.
+PATIENT: Twice a day.
+DOCTOR: Okay.  I looked at your, your triglycerides have come down a little bit by 200 points.
+PATIENT: Okay.
+DOCTOR: So we're going in the right direction but that's another thing that I want to tackle and I'm debating on how to do that since you're on gemfibrozil you're kind of maxed out on that.  Are you taking um fish oil?
+PATIENT: No.  I'm allergic to fish,
+DOCTOR: You’re allergic to fish. So that's a no go okay.  So the blood pressure was good.
+PATIENT: Yeah I don't have any refills on my medications.
+DOCTOR: I will make sure everything is refilled.  Actually let me do that right now.  Let's go through it together.  Glyburide you have two refills.
+PATIENT: Alright.
+DOCTOR: I want you to continue that so let me just make sure you have enough okay.  Let's do, actually let's wait when I come back to see if we need to make any changes to anything.  Um you're at 50.  I'm just thinking that we're gonna have to go up on the Glargine.  Um are your sugars 300 consistently throughout the entire day?
+PATIENT: Yeah.
+DOCTOR: Okay.  What are they right before you go to bed at night?
+PATIENT: Um if I'm good it gets down to about 278.
+DOCTOR: 278.  What are they in the morning when you wake up?
+PATIENT: Around 300.
+DOCTOR: Still in the 300s okay and you're taking, you're taking the Glargine.
+PATIENT: Yes.
+DOCTOR: You're taking three of the metformin tabs.
+PATIENT: Metformin?
+DOCTOR: Yeah metformin.
+PATIENT: I take two, two tablets.
+DOCTOR: You take two of the 500.
+PATIENT: One in the morning and one at night.
+DOCTOR: In the morning okay.  So that's okay so that's one thing we should do um, the order here is for you to take three so let's start taking three.
+PATIENT: Okay.
+DOCTOR: So morning, noon and at night.
+PATIENT: Yeah, okay.
+DOCTOR: Okay.  You were only taking it twice a day.  There are too main things, the triglycerides and the diabetes.  Would you agree with that?
+PATIENT: Right.
+DOCTOR: Anything else going on?  Okay.
+PATIENT: This tooth I got and the dentist is watching that now.
+DOCTOR: Okay good cause I know I don't do teeth, I know nothing about teeth.  Okay um how's the rash?  It looks better.
+PATIENT: It looks better but I ran out of the lotion, they just refilled me so.
+DOCTOR: Okay perfect um.
+PATIENT: I saw Dermatology on the 11th.
+DOCTOR: Good, good, I'm glad that that's helping.  Um and we can even do metformin, we can even do it four times a day but that's kind of like maxing it out so most people recommend for type 2 diabetes to max out the metformin so to have it 2000 mg a day so that would be you know two in the morning and two at night.
+PATIENT: Okay.
+DOCTOR: Something like that.  Since your sugars are so high um I mean that's, it's kind of what I want, I want to go up on that.  I know you should be at least taking three times a day.  Are you taking, are you checking your sugars after meals at all?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: Once in the morning and once at night I check it before I go to bed.
+DOCTOR: Okay and so both in the morning and both at bed they're about 300.
+PATIENT: Right.
+DOCTOR: Um and your last A1c was in June I think.
+PATIENT: I just had blood taken today so.
+DOCTOR: Today, is that, did I order.  I saw some of them came back already.
+PATIENT: Now uh.
+DOCTOR: Was it just the triglycerides that I ordered today?
+PATIENT: I don't know.
+DOCTOR: Let me see.  I wonder.  There's a ton that I ordered um NAME, who is NAME.
+PATIENT: It could be someone from special Clinic?
+DOCTOR: Okay.  Okay.  Are you at home right now?
+PATIENT: Yes.
+DOCTOR: Living at home okay.  Okay, staying away from the drugs?
+PATIENT: Oh I did cocaine Sunday but.
+DOCTOR: Okay.
+PATIENT: Just a little pinch.
+DOCTOR: Again we got to keep you away from that, got to keep you away from that.  Alright.  So we got your triglycerides.
+PATIENT: Uh-huh.
+DOCTOR: And we got your diabetes.  Um cocaine won't help either of those.
+PATIENT: I know.
+DOCTOR: Um so let me talk to DOCTOR, can I get you up here to just take a good listen to you?  Um I like that you're checking your sugars twice a day.
+PATIENT: Right.
+DOCTOR: That’s good. That way we can get a good assessment.  I might actually; I know you already got stuck once today um there's a couple other I might, at least draw [REDACTED].  We did not, oh yeah they did.  Oh yeah he did.  I wonder if that was drawn today.
+PATIENT: That was drawn today.
+DOCTOR: The hemoglobin A1c, do you know?
+PATIENT: That's what they were checking for the fast issue.
+DOCTOR: Yeah they did the fast.
+PATIENT: Diabetic.
+DOCTOR: Yeah and the diabetic one.
+PATIENT: Yes they done it, okay.
+DOCTOR: Okay.  I'll have to just look for those then.  Okay.  Just breathe normally.
+PATIENT: I'm doing whatever, you know the oxygen, no not oxygen but you know the breathing machine.
+DOCTOR: Oh for the sleep apnea.  Remember oh yes I remember that so does that make you feel a little bit better throughout the day?
+PATIENT: Oh yeah, yeah.
+DOCTOR: 100% huh.  It's like night and day isn't it?
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: I'm getting rest at night now so.
+DOCTOR: Yeah it makes you feel a lot better.  Oh my God it makes you feel a lot better.  I'm glad um, I thank you for reminding me of that, I forgot about that.  Um so we solved one of your problems.
+PATIENT: Uh-huh.
+DOCTOR: I think we're getting close on the triglycerides.  We got to get those down because like I said they, when they're at such high levels with the diabetes you have an increased risk of heart disease.
+PATIENT: Uh-huh.
+DOCTOR: So we have to control the diabetes better and we have to control the triglycerides better.  Let me look at some of the medications that we can go up on.  The metformin, I'm thinking that I want to go up to four a day but let me run that by DOCTOR.
+PATIENT: Okay.
+DOCTOR: Um.  I'm gonna see how high I can go.  Huh.  You're at the max for glyburide.  Allergic to fish okay.  Yeah cause you went from 1155 for the triglycerides.
+PATIENT: Uh-huh.
+DOCTOR: To 765 and now we're at 537.
+PATIENT: It's going down.  You want to get me down to below 4 right?
+DOCTOR: Yeah I'd like to get you below about 100.
+PATIENT: Huh.
+DOCTOR: Have you ever tried a medicine called niacin?
+PATIENT: No.
+DOCTOR: I saw that you were on it in the past.
+PATIENT: What is niacin for?
+DOCTOR: It was the lipids, the fat in the blood.
+PATIENT: Uh-huh.
+DOCTOR: Um.  Blood pressure was good today.  Alright, let me see I think.  Let me talk to DOCTOR.  I think I want to go up on the metformin and we'll see what she says.
+PATIENT: Okay.
+DOCTOR: Um and I'd like to see if, see what the dose for niacin is and I'd like to try niacin and maybe increasing your simvastatin.  We're getting there slowly.
+PATIENT: Yeah.
+DOCTOR: So we're going up slowly and things are coming down so we're going in the right direction.
+PATIENT: Okay.
+DOCTOR: So it might take another month or two but I think we're gonna get there okay.
+PATIENT: Alright.
+DOCTOR: Along with diet.  Diet's going to be a main thing too you know, fruits and vegetables and stay away from the fatty foods so.  Let me go talk to her real quick.
+PATIENT: Okay.
+DOCTOR: And I'll be back okay.
+(DOCTOR OUT:  32:00  DOCTOR IN:  38:21)
+DOCTOR: Okay.  DOCTOR said it was a good idea um.  Um so the metformin.
+PATIENT: Uh-huh.
+DOCTOR: You should take it as it's written right now.  So do the.
+PATIENT: One in the morning and one at night?
+DOCTOR: Well it's actually written for three times a day.
+PATIENT: Oh okay so I can.
+DOCTOR: So take one.
+PATIENT: At noon.
+DOCTOR: Morning, noon and night.
+PATIENT: Okay.
+DOCTOR: And then we're also gonna increase your Glargine so that's okay we'll get the orders here, medications.  Um so keep taking the glyburide and you take that's two of them twice a day.
+PATIENT: Right.
+DOCTOR: Okay um you take the Glargine so we're gonna change that.  You're at 50 right now, let's go to 60.
+PATIENT: Okay.
+DOCTOR: Okay.  And you keep getting that by mail?
+PATIENT: Right.
+DOCTOR: Okay.  Um so let's do 60.  You get that by mail okay.  Um the metformin it's three times a day.
+PATIENT: Okay.
+DOCTOR: So just take it before meals.
+PATIENT: Right.
+DOCTOR: Right so breakfast, lunch and dinner.  Um the simvastatin we're gonna keep the same.
+PATIENT: So a half a tablet.
+DOCTOR: Yep right.  Um okay we need to see what else needs to be refilled, gemfibrozil.
+PATIENT: My blood pressure pills.
+DOCTOR: Okay, the enalapril.
+PATIENT: That's [REDACTED] blood pressure.
+DOCTOR: Okay.  Are you still taking insulin at all?  Just for, or those are the syringes.
+PATIENT: Right.
+DOCTOR: I'll make sure they'll send some out to you okay.  Do you get those mailed out?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: I need to order the strips, the [REDACTED] strips.
+DOCTOR: Really.  Does one of the mental health people refill the [REDACTED]?
+PATIENT: [REDACTED] that was refilled today.
+DOCTOR: Okay so they refilled those, I don’t touch those.
+PATIENT: Right, that's already done.  I already got them.
+DOCTOR: Okay they do those.  Um I wonder, do you [REDACTED] to.
+PATIENT: DOCTOR.
+DOCTOR: We need to make sure of that cause there's no refills on those.
+PATIENT: Right.  I get them once a month.
+DOCTOR: And do you have to go.
+PATIENT: I got to see him once a month.
+DOCTOR: Okay.  So then I'm okay, I'm not gonna touch those then.  Same with the bupropion.
+PATIENT: Bupropion and the [REDACTED].
+DOCTOR: Okay the test strips I will change okay.  Simvastatin.  Okay everything else seems to be in good shape and the glyburide.  Okay so what um, [REDACTED] there's a new one that I want to add too.  It's a non-formulary medication.
+PATIENT: Uh-huh.
+DOCTOR: Um that's something but I have to get someone to approve it so hopefully, let's see.  Okay so it's 160 mg a day okay.  Okay so you're gonna take one a day of this, it's called fenofibrate.
+PATIENT: Fenofibrate okay.
+DOCTOR: Yep and it's for the triglycerides okay so.
+PATIENT: What's a good time to take it, morning or evening?
+DOCTOR: Um let's take it in the morning, let me make sure of that.  Yeah so just take it in the morning with breakfast.
+PATIENT: Okay.
+DOCTOR: It says take it with meals.  I'll have it mailed to you okay.
+PATIENT: Right.
+DOCTOR: How does that sound?
+PATIENT: Sounds great; I've been here all day.
+DOCTOR: Length of therapy, medications.  I think, actually, if you want you can go and I'll just finish typing this up so they should mail it to you okay.
+PATIENT: Okay.
+DOCTOR: Um and if for some reason they don't approve then I'll have to kind of fight with them to get it approved.
+PATIENT: No problem.
+DOCTOR: But it'll be a new, new medication that'll come in the mail.
+PATIENT: Okay.
+DOCTOR: That's gonna be daily, so the metformin three times a day right.
+PATIENT: Right.
+DOCTOR: Okay and then what are you gonna go up to the Glargine?
+PATIENT: Glargine it's still going two.
+DOCTOR: No, no.
+PATIENT: Glyburide I take two.
+DOCTOR: The Glargine is the needle one.
+PATIENT: The insulin?
+DOCTOR: Yeah that's gonna be 60.
+PATIENT: It will be 60.  It'll be 60 on the needle; I'll need to reset this.
+DOCTOR: But do a 50 and then do a 10.
+PATIENT: Okay.
+DOCTOR: And I changed it so I don't know if they'll give you bigger syringes but do a 50 and then do a 10.
+PATIENT: Okay.
+DOCTOR: Um so take the metformin three times and I'll see you back in about three months okay.
+PATIENT: Okay.
+DOCTOR: Um and when you come back go to the Lab before your appointment and I'll order labs okay, so we're gonna check your blood tests again okay.
+PATIENT: Uh-huh.  No problem.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Thanks doc.
+DOCTOR: Yep good luck.
+PATIENT: 47:46.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286107
+TRANSACTION # 578-10-2-316-0103

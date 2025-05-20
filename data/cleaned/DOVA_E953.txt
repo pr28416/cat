@@ -1,0 +1,302 @@
+DOCTOR: PATIENT.
+PATIENT: Yeah, yeah.
+DOCTOR: Hi PATIENT.  How are you?
+PATIENT: Alright.  How are you?
+DOCTOR: [REDACTED] huh.  Come on back.
+PATIENT: You're gonna be my permanent doctor right?
+DOCTOR: I sure am.
+PATIENT: Alright.
+DOCTOR: How's that sound?
+PATIENT: That sounds good to me.
+DOCTOR: Okay.  I'm pleased to meet you, come on in.
+PATIENT: Okay.
+DOCTOR: Have a seat.
+PATIENT: Alright.
+DOCTOR: So how are you today?
+PATIENT: I'm okay.
+DOCTOR: Enjoying this, okay.
+PATIENT: Yeah I enjoy the weather.
+DOCTOR: What a beautiful day and unfortunately you had to come see me.
+PATIENT: I enjoy much of it whatever.  My scheduled appointment, I am gonna accept it.
+DOCTOR: I'm glad you came okay, one second.  Alright the last time we saw you is 2008.  Oh my God.
+PATIENT: Ooh.
+DOCTOR: What'd you doing to us?
+PATIENT: I'm [REDACTED].
+DOCTOR: Yeah I know, right.
+PATIENT: Yeah I came to see ya'll.  I'm like having shortness of breath, I don't know.
+DOCTOR: Alright, let me.
+PATIENT: Yeah.
+DOCTOR: What medical problems do you have?
+PATIENT: I been having shortness of breath.
+DOCTOR: What medical problems do you have?
+PATIENT: Ain’t that medical?
+DOCTOR: No, I'll talk to you about that.  You have hepatitis, anything else.  Any other medical?
+PATIENT: Hepatitis C um uh.  It ought to be on file actually.
+DOCTOR: Okay, okay.  Tell me about the shortness of breath.
+PATIENT: Shortness of breath.  That's you know, finding myself I can't do too much of anything.
+DOCTOR: What makes you short of breath walking?
+PATIENT: Walking.
+DOCTOR: How much?
+PATIENT: Not that far.
+DOCTOR: How much?
+PATIENT: Steps, not that much, but I don't know if it's my kidneys.
+DOCTOR: Sure.
+PATIENT: I got cysts on my kidneys; I know about that.  Then I've been having cramps in my legs.
+DOCTOR: Well I got it, okay the shortness of breath.
+PATIENT: Yes.
+DOCTOR: When did it start?
+PATIENT: Hmm, that's been going on, I just noticed it more lately, about the last five, six months you know.
+DOCTOR: Five, six months.
+PATIENT: Right.
+DOCTOR: Okay.  Has it kind of stayed the same in the last six months or has it gotten worse?
+PATIENT: Probably gotten worse.
+DOCTOR: Do you smoke?
+PATIENT: No I don't.
+DOCTOR: Any heart problems?
+PATIENT: I took an EKG, it came out alright.
+DOCTOR: When?
+PATIENT: Um I think the first part of May I took it.
+DOCTOR: Why did you do an EKG?
+PATIENT: Cause I wanted to check my heart and make sure I'm also.
+DOCTOR: Okay.  Who did you see for this EKG?
+PATIENT: Oh I went upstairs on the 2nd floor in the Taylor Building.
+DOCTOR: Okay.
+PATIENT: It's in this building it's on the EKG floor.
+DOCTOR: Okay.  No chest pain?
+PATIENT: No no chest pain.
+DOCTOR: Okay any nausea, vomiting?
+PATIENT: No.
+DOCTOR: You've never smoked?
+PATIENT: I smoked years ago.
+DOCTOR: When did you quit?
+PATIENT: 27 years ago, [REDACTED].
+DOCTOR: Were you a heavy smoker at that time?
+PATIENT: I might have been, [REDACTED].
+DOCTOR: Okay.  Any cough?
+PATIENT: I cough pretty regularly, especially at night.
+DOCTOR: You have a cough at night?
+PATIENT: [REDACTED].
+DOCTOR: Okay kind of a dry cough when you lay down?
+PATIENT: Kind of dry cough.
+DOCTOR: How long has that been going on?
+PATIENT: Hmm, that been going on for a long time.
+DOCTOR: Same time?
+PATIENT: Yeah it was about the same time.
+DOCTOR: Hmm.  You've never been diagnosed with asthma or anything like that?
+PATIENT: No.
+DOCTOR: Well are you on any medicines?
+PATIENT: No.
+DOCTOR: Okay.  Do you get any swelling in your legs?
+PATIENT: Yeah, swelling in the right leg but I had what do you call it, for the varicose veins.
+DOCTOR: So you've always had swelling in your legs?
+PATIENT: Hmm for the last uh year or two pretty much.
+DOCTOR: Okay um.  How many pillows do you sleep on at night?
+PATIENT: Two.
+DOCTOR: Why?
+PATIENT: One I prop up against the wall, the other one I lay on it.
+DOCTOR: It’s not because of your breathing?
+PATIENT: Not [REDACTED].
+DOCTOR: Um so walking just a block or several steps.
+PATIENT: I would say more than a block, maybe about two, three.  I seen the foot doctor last week about that.
+DOCTOR: Okay.  Um no history of COPD or anything?  Chronic bronchitis?  Okay.
+PATIENT: No.
+DOCTOR: Okay.  Have you ever had an ultrasound of your heart?
+PATIENT: No.
+DOCTOR: Have you ever had lung tests, lung function tests?
+PATIENT: No, [REDACTED].
+DOCTOR: And you're also having cramps in your legs?
+PATIENT: Yes [REDACTED].
+DOCTOR: Both legs?
+PATIENT: Huh?
+DOCTOR: Both legs?
+PATIENT: Yes.
+DOCTOR: When do you get them?
+PATIENT: Uh when late the night, [REDACTED].
+DOCTOR: So wait, wait, you’re mumbling.
+PATIENT: I said later in the night.
+DOCTOR: Okay.
+PATIENT: You know when I get ready to go to bed I get them [REDACTED].
+DOCTOR: What about after you walk?
+PATIENT: No, [REDACTED].
+DOCTOR: So have you always had cramps or just sometimes.
+PATIENT: Sometimes.
+DOCTOR: Daily or not?  How often?
+PATIENT: Quite a bit, maybe [REDACTED].
+DOCTOR: And how long has that been going on?
+PATIENT: It's been going on quite a while.
+DOCTOR: What's quite a while?
+PATIENT: Six, seven, [REDACTED].
+DOCTOR: Okay.  Um any fevers, chills anything like that?
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Let me examine you.  You know what you can pull your jeans up as much as you can.
+PATIENT: And I think I have a weight problem.
+DOCTOR: Well let's address your issues right now.
+PATIENT: [REDACTED].
+DOCTOR: Well the shortness of breath is the most important one okay.  Shortness of breath is not something you should be having, okay.  Oh no I want you to sit up.  Do you snore at night that you know of?
+PATIENT: Do I snore?
+DOCTOR: Uh-huh.
+PATIENT: I probably do.
+DOCTOR: Okay do you, when you wake up in the morning do you feel refreshed?
+PATIENT: Not really.
+DOCTOR: No okay.  Have you gained weight?
+PATIENT: Right here, yeah I been gaining weight.
+DOCTOR: Okay.  Deep breaths.  Okay breathe normally.  Okay now can I have you lay down please?  I’m going to look at your legs, is that okay?
+PATIENT: Yes.  Who do I see about the prostate?
+DOCTOR: What about your prostate?
+PATIENT: I thought it was swole or a different pain I don't know.
+DOCTOR: Okay, we can address that as well.  We're gonna do that at our next visit.  You're gonna be seeing me a lot okay.
+PATIENT: Okay.
+DOCTOR: Unfortunately, I'm gonna make you come, I'm sorry mainly because I want to address your.  Now the fact that you’re having shortness of breath, I'm gonna tell you, it can be several different things.  It can be your heart.  It can be your lungs.  It can be your weight; a lot of things can do it okay.  So I want to make sure we look at everything.  You know a lot of people who are, what are these marks from?
+PATIENT: Scratches.
+DOCTOR: A lot of people who are anemic have low blood cells can get short of breath, you're not.
+PATIENT: I'm not anemic.
+DOCTOR: Uh uh.  Sit up for me.  You can have a seat over there.  I want to look at a couple things and then I'm gonna talk to DOCTOR and if you can, what I want to do is get a bunch of tests okay.
+PATIENT: Okay.
+DOCTOR: Um to make sure your breathing is not because of asthma, lung disease, get a chest x-ray and get an ultrasound of your heart.  Cause like I said even if you're not having chest pain you can have shortness of breath just from heart problems.  No family history of heart problems?
+PATIENT: Well my father passed.
+DOCTOR: From what?
+PATIENT: He had a heart attack and my brother; I think he had congestive heart failure.
+DOCTOR: Yeah congestive heart failure is the one I'm worried about.
+PATIENT: Uh-huh.
+DOCTOR: Has anyone ever uh, let's see now your EKG from the 19th, everything looks fine.  So that's good.  Um yeah we're gonna do all the prostate, the colon, all of those things.
+PATIENT: Yeah okay.
+DOCTOR: Cool, you're excited.
+PATIENT: [REDACTED] I’m excited to see what’s going on.
+DOCTOR: I agree.  We need to figure this out; it's been going on way too long.
+PATIENT: Right cause I sure wish they could get to all that.
+DOCTOR: Probably [REDACTED].
+PATIENT: Now.
+DOCTOR: [REDACTED].
+PATIENT: Well I had never had that problem it but I'm just saying when I was coming in.
+DOCTOR: [REDACTED] six months.
+PATIENT: I'm saying back in 2003 or whenever broke my foot and all that.
+DOCTOR: Do you drink?
+PATIENT: Yes I drink.
+DOCTOR: How much?
+PATIENT: I drink about a six-pack [REDACTED] a day.
+DOCTOR: Six-packs a day.
+PATIENT: A six-pack not.
+DOCTOR: That's a lot of alcohol.
+PATIENT: Yeah it is.
+DOCTOR: A lot.
+PATIENT: A six-pack is?
+DOCTOR: Yes.  [REDACTED].
+PATIENT: But I ain't been doing that for a year so it wasn't that long.
+DOCTOR: How long have you been doing that?
+PATIENT: About a year.
+DOCTOR: Okay.
+PATIENT: Maybe I shouldn't have done it at all.  About a year, one year.
+DOCTOR: Not good.
+PATIENT: Okay.
+DOCTOR: But your.
+PATIENT: I understand that, that probably [REDACTED].
+DOCTOR: Have you heard about our MOVE Program?  Would you be interested in our MOVE Program?
+PATIENT: I don't know what it is.
+DOCTOR: It's um a weight loss program.  We have an excellent nurse.
+PATIENT: Uh-huh.
+DOCTOR: Would you be interested in that?
+PATIENT: How often they meet?
+DOCTOR: You address that with her.  She will kind of go over that stuff with you.
+PATIENT: Yeah, I'll probably check into it.
+DOCTOR: Great.  Um I am gonna set you up for a colon cancer screening.
+PATIENT: Okay.
+DOCTOR: Okay.  Would you do that?  Have you ever had a colonoscopy?
+PATIENT: No.
+DOCTOR: Probably not okay.  Have you ever had your um uh prostate checked?
+PATIENT: Not for a while.
+DOCTOR: Do you have symptoms, any symptoms when you urinate or are you just worried about it because of your age?
+PATIENT: Just worried about the blood draw.
+DOCTOR: Huh?
+PATIENT: I said I be worried about it, you know worried about urinating and all that kind of stuff.
+DOCTOR: Are you urinating okay though right now?
+PATIENT: Yeah I'm urinating now but it's colored you know it's not clear cause [REDACTED] almost like a orange like.  You know what I'm saying?
+DOCTOR: You're drinking enough water?
+PATIENT: Maybe I'm not, I don't know, maybe not.
+DOCTOR: You want to drink water okay.
+PATIENT: Okay.
+DOCTOR: Okay I will be right back okay.  So [REDACTED] all those tests are what I’m planning.
+PATIENT: Uh-huh.
+DOCTOR: I'm gonna talk to my boss.
+PATIENT: And see if he can get for any day but June 10th.
+DOCTOR: For what?
+PATIENT: Any one of them.
+DOCTOR: Oh we'll schedule those okay.  We'll go out and talk to them and we'll schedule them okay.
+PATIENT: Okay.
+DOCTOR: Who did you see in April let's see.  They did a whole lot of tests on you.
+PATIENT: In April?
+DOCTOR: Uh-huh.
+PATIENT: They did blood.  They did blood.
+DOCTOR: [REDACTED].
+PATIENT: I told them to do any tests they wanted to.
+DOCTOR: Huh?
+PATIENT: I gave them permission to do any tests [REDACTED]
+DOCTOR: [REDACTED] looks good. So I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: Okay I'll be right back.
+(DOCTOR OUT:  23:16  DOCTOR IN:  42:35)
+DOCTOR: Alright.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].  I'm sorry, here's your things.
+PATIENT: That's okay.
+DOCTOR: I'm gonna order, we're gonna start with two things.  The first step we’re going to schedule,  okay, let me I'll do it while I'm telling you, okay.  I want to do a stress test and an x-ray of your chest.
+PATIENT: Okay, yeah.
+DOCTOR: Okay um the x-ray you can get done today.  The stress test you'll have to schedule up front okay.
+PATIENT: Okay.
+DOCTOR: How does that sound to you?
+PATIENT: Okay.
+DOCTOR: I think we will figure out what is going on and we will be able to help you okay.
+PATIENT: Okay.  What about the kidneys.
+DOCTOR: Your kidneys look fine.  Your kidneys look great.
+PATIENT: Uh-huh.
+DOCTOR: We got urine and we got your labs and the kidneys look beautiful.  Just that makes me feel good.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Do you have time to get that test done, the x-ray?
+PATIENT: Yeah.
+DOCTOR: Good.
+PATIENT: Fourth floor?
+DOCTOR: Actually the chest x-rays are on the first floor.
+PATIENT: [REDACTED].
+DOCTOR: It’s right in the Damen Building. Okay? My suspicion is it's related to your heart.  Not saying we can't help you but once you know what the cause is you can treat it okay.
+PATIENT: Okay.
+DOCTOR: Alright um let's see.  I am gonna; I want to see you back soon so about a month because I want you to get these tests before you see me okay.  So please schedule stress test and then I'll give you the information for a colonoscopy.  You know it's not my first priority; the first priority is the stress test and the chest x-ray okay.
+PATIENT: Yeah.
+DOCTOR: So the colonoscopy yes I need you to get it.
+PATIENT: Hmm.
+DOCTOR: But it's not urgent okay.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: The prostate when are you gonna do that?
+DOCTOR: We're gonna do that on your lab tests, [REDACTED] okay.  Um do you want to see the [REDACTED] of the MOVE Program today or at the next visit?
+PATIENT: Probably the next visit.
+DOCTOR: Okay.
+PATIENT: Cause it will be probably earlier right.
+DOCTOR: Yeah try to ask them if you can get the 1 o'clock scheduled and you can come right away, if you get here about 12:45 you'll be the first patient I see.
+PATIENT: Okay.
+DOCTOR: That's what I would do if I were you.  It's the best way to be seen right away.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Bring this out to the front okay.
+PATIENT: Uh-huh.
+DOCTOR: And when you leave here I want you to go get your x-ray then you can go home.  If there's anything wrong let me make sure I have your number um NUMBER?
+PATIENT: Right.
+DOCTOR: Alright.
+PATIENT: Or you can use cells, I got a cell phone.
+DOCTOR: Huh?
+PATIENT: I got a cell phone number too.
+DOCTOR: Oh that ones perfect, I'll leave you a message okay.
+PATIENT: Alright.
+DOCTOR: You have a good day.
+PATIENT: You too.
+DOCTOR: It was nice to meet you.
+PATIENT: Same here.  I'll be seeing you, since you're gonna be my primary [REDACTED].
+DOCTOR: Uh-huh you're stuck.
+PATIENT: Well you have a good day.
+DOCTOR: You too.
+PATIENT: 46:20.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286143
+TRANSACTION # 578-10-2-316-0103

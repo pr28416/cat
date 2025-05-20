@@ -1,0 +1,124 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: I'm DOCTOR.  [REDACTED].  Tell me what brings you in here today.
+PATIENT: [REDACTED] primary doctor, I don't know why [REDACTED].  You know [REDACTED].
+DOCTOR: What's that?
+PATIENT: I didn't have a primary doctor.
+DOCTOR: It looks like you do, DOCTOR.
+PATIENT: Well I, I, oh just go ahead.
+DOCTOR: What's that?
+PATIENT: [REDACTED].
+DOCTOR: Uh well what I can tell you is unfortunately they probably shouldn't have set you up with me uh.
+PATIENT: Because.
+DOCTOR: I'm leaving in three months uh so.
+PATIENT: I think that's a problem.
+DOCTOR: What's that?
+PATIENT: [REDACTED] problem.
+DOCTOR: Yeah uh, is there anything I can do for you today?
+PATIENT: Well [REDACTED] patches, [REDACTED] blotches.
+DOCTOR: Let's see when you last saw DOCTOR.  I apologize.
+PATIENT: No problem.
+DOCTOR: They uh, they probably shouldn't of set you up with me.  I know you've got a lot of issues um, unfortunately I'll be gone by the time we would.
+PATIENT: You're going to practice medicine?
+DOCTOR: Yeah I'm actually going to do just inpatient stuff, like if you were admitted to the hospital and I'm moving to Kansas City.
+PATIENT: Nice.
+DOCTOR: Uh I'd be happy to see you again but I'm leaving.  I don't want you to think that I'm bailing on you uh it's just a glitch in in the system [REDACTED].
+PATIENT: Right.
+DOCTOR: They're going to set you up with who's gonna be here longer uh.  Okay let's just kind of go over your stuff real quick to see if there's anything I can help you with, if you'll just bear with me for a moment uh.  Alright any uh chest pains?
+PATIENT: Once every while over here.
+DOCTOR: And is that new?
+PATIENT: Yes.
+DOCTOR: How long has that been going on for?
+PATIENT: For just a few months.
+DOCTOR: Now do you have a cardiologist?  A heart doctor?
+PATIENT: No.
+DOCTOR: And you had a, you've had a bypass.
+PATIENT: Yes.
+DOCTOR: And when do you feel that pain?
+PATIENT: I don't know it just comes in.
+DOCTOR: And what's it feel like?
+PATIENT: Like a deep pain, just a deep, like somebody.
+DOCTOR: How long does it last?
+PATIENT: A couple seconds, I don't even know how long.
+DOCTOR: Any trouble breathing, nausea, vomiting, anything like that?
+PATIENT: No.
+DOCTOR: Does it ever move around?
+PATIENT: Yeah I always move, I mean how do you ever just sit and just, but I got back problems though.
+DOCTOR: You know this couple of seconds pain, is it kind of sharp?
+PATIENT: Yes.
+DOCTOR: Yeah that's typically uh musculoskeletal pain.
+PATIENT: Uh-huh.
+DOCTOR: It doesn't really sound uh cardiac uh I mean it doesn't sound like that's coming from your heart.
+PATIENT: Good.
+DOCTOR: You're on aspirin, citalopram, hydrochlorothiazide, metformin, omeprazole, simvastatin, Valsartan.
+PATIENT: Them are just goes up for blood pressure?
+DOCTOR: Valsartan and hydrochlorothiazide.  And are you taking carvedilol Coreg?
+PATIENT: Yes.
+DOCTOR: It looks like some of these expired; I can try and reorder a bunch of them for you.  Your blood sugar looks pretty well controlled, that was quite a while ago, that was September.  So we want to get repeat blood work on you before you see your next doctor.
+PATIENT: Okay.
+DOCTOR: Okay, I'll reorder that Coreg to make sure you get that uh.  You're on Plavix as well?
+PATIENT: Yes.
+DOCTOR: And you're wearing a BiPAP machine, CPAP machine?  And you're not smoking?
+PATIENT: No.
+DOCTOR: Are you on the bupropion?
+PATIENT: Yeah it's the pain medicine.  I have back pain.
+DOCTOR: No this is a medication for smoking.
+PATIENT: Oh [REDACTED].
+DOCTOR: Okay.
+PATIENT: No I'm done, getting too old.
+DOCTOR: Your thyroid function is normal.  Okay, have a seat up here.  Take a few deep breaths.  Just breathe normally.  So you know looking at your stuff here, I would continue the same medications for now.
+PATIENT: Yeah.
+DOCTOR: Um, really I think the thyroid function looks good, that was all normal from today.  We don't need to change anything for now.  Otherwise we'll need to have you, unfortunately, get another doctor.  I apologize.
+PATIENT: No need to apologize.
+DOCTOR: If I would have known that's why you were coming in I would have tried to change things but uh I didn't know.
+PATIENT: No problem.  [REDACTED].
+DOCTOR: Um is there anything else I can do for you?
+PATIENT: No everything is fine doc.
+DOCTOR: Well let's try and set you free here.
+PATIENT: I’m so sleepy, why is that?  I'm supposed to be using [REDACTED].  Sometimes I just go to sleep eight hours, I'm perfectly fine, no problems and yesterday I was shopping with my wife, sleeping in the car and I [REDACTED], I was sleeping, why is that?
+DOCTOR: Now are you wearing the CPAP the entire time at night?
+PATIENT: No.
+DOCTOR: That machine.
+PATIENT: Right no.
+DOCTOR: How long do you wear it?
+PATIENT: Sometimes I just kind of rip it, I would say.
+DOCTOR: Right.
+PATIENT: But I would say six months it was perfect and I didn't change any.
+DOCTOR: Um that I mean that is likely why you've got this obesity hypoventilation syndrome uh so it's very important that you wear that CPAP.
+PATIENT: Okay.
+DOCTOR: You know other things could be thyroid problems but we just got your blood work today and that looks okay.  So you know the most.
+PATIENT: Now that's just my question.  I don't why, is it something like being tired.  Cause everything is the same every day.
+DOCTOR: The thing with your diagnosis and this obesity hypoventilation syndrome, that's one of the symptoms.  Uh it's just daytime fatigue, the sleepiness.  So if you don't wear the CPAP the entire time, you know if you're wearing your CPAP all day and all night then we would say maybe we need to look into other things.
+PATIENT: Yes.
+DOCTOR: But even then you could still have symptoms because you're not, you're gas exchange isn't normal.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] and it gets worse at night and when that happens, your CO2 starts to build up.
+PATIENT: Right.
+DOCTOR: Your carbon dioxide starts to build up and you start feeling sleepy uh, so that's why it's important to keep that CPAP on because that will help maintain the normal level of carbon dioxide uh while you may still sleep well at night without it, you're gonna be sleepy during the day if those levels are high.  So that's why it's important to wear that mask uh.
+PATIENT: But it's not every day.  For the last three or four days I've been, I bet you it'll be a couple more days and then I'll be normal again.
+DOCTOR: You know I still think that's probably the.
+PATIENT: [REDACTED].
+DOCTOR: Otherwise you know, from what I know about you and examining you, it's not clear.  That's the far and away the most likely culprit.
+PATIENT: It seems like, it seems like after my open heart surgery, six months later I was passing out, passing out, passing out, right, so I say doctor I think something's wrong.  I had to go to the hospital like [REDACTED] weeks.  They couldn't figure out anything so you know what I did, I stopped taking the [REDACTED] then it disappeared.  [REDACTED] is a medicine, some kind of a reaction and still doctors are worrying me.  I said doctor that's what it is.  I said, you see what happened I took the medicine right at home and I could see after 15 minutes [REDACTED] it could go down.
+DOCTOR: Yeah that's.
+PATIENT: Okay and then I could [REDACTED] like my head is turning [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And I passed out and was in the hospital for weeks, you know they couldn’t find anything wrong.  So [REDACTED] I stopped taking medicines bang, I've [REDACTED].
+DOCTOR: So uh, it sounds like you're having allergic reactions.
+PATIENT: Something yeah.
+DOCTOR: You know you've been on all these other medicines for a while too, so that shouldn't be uh.
+PATIENT: No but that was like eight years ago.
+DOCTOR: Yeah.
+PATIENT: Then I stopped taking, stopped taking the vitamin everything is fine.
+DOCTOR: We'll get repeat blood work and uh you'll see a new doctor.
+PATIENT: Uh-huh.
+DOCTOR: Once again I apologize.
+PATIENT: Alright.
+DOCTOR: That it was scheduled. Uh if there's anything I can do to help you, let me know.
+PATIENT: Thank you, have a nice day doctor.
+PATIENT: 84:27
+Time is 4:25.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249436
+TRANSACTION # 578-10-2-316-0103

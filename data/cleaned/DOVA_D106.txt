@@ -1,0 +1,307 @@
+DOCTOR: PATIENT?
+PATIENT: Oh, oh you wanna fight?
+DOCTOR: No, (laughter).  [REDACTED], yeah that's [REDACTED].
+PATIENT: You better be good to me or I will end up.
+DOCTOR: Let's see, yes you can.  I apologize for that, I didn't mean it to be such a public thing.
+PATIENT: I didn't either, ha, ha.  Sit here?
+DOCTOR: Yeah.  You mainly see DOCTOR?
+PATIENT: Right.
+DOCTOR: Okay.  Do you know why you're here today?  You're in the hospital is that right?
+PATIENT: I work in the hospital.
+DOCTOR: Okay.  How have been sick?
+PATIENT: Fine.
+DOCTOR: Do you walk?  Sounds like your heart was beating fast.
+PATIENT: Right.
+DOCTOR: Uh, they started you at base, increased some of your medicines and started you on . . .
+PATIENT: They changed some medicines too and that's what I want to talk to you about.
+DOCTOR: Okay.  So let's take a look at the medicines and then you can tell me your questions.  Looks like you're on Coumadin, which is new.
+PATIENT: Right.
+DOCTOR: A blood thinner.
+PATIENT: So it's not new.  I was on it before [REDACTED] and I was taken off of it.
+DOCTOR: Uh-huh.
+PATIENT: Now I'm back on it.
+DOCTOR: Okay and then um digoxin.
+PATIENT: They put me on that when I got out of the Hospital.
+DOCTOR: And then a water pill, Lasix, furosemide.
+PATIENT: Yep.
+DOCTOR: Metoprolol?
+PATIENT: Right, taking it while I was in the hospital.
+DOCTOR: And then isosorbide mononitrate?
+PATIENT: Yep.
+DOCTOR: And then [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Lisinopril?
+PATIENT: Yes half a pill in the morning, half in the afternoon and half in the evening.
+DOCTOR: Magnesium?
+PATIENT: Yes.
+DOCTOR: Diltiazem?
+PATIENT: Yes.
+DOCTOR: And then B12 shots.
+PATIENT: Right.
+DOCTOR: And then glipizide.
+PATIENT: Glipizide which I'm almost out of, which is doing absolutely no good.
+DOCTOR: Cause your sugars are high?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: They took me off of.
+DOCTOR: Metformin?
+PATIENT: Metformin and uh gluco.
+DOCTOR: Gliburide.
+PATIENT: Glucophage.
+DOCTOR: It's because of your kidneys um.  Your kidney function is not normal anymore and metformin is actually dangerous in people with kidney functions that were not normal so that's probably why.
+PATIENT: Oh.
+DOCTOR: And then they didn't, you know, give you something to kinda help with the diabetes so.
+PATIENT: Right.
+DOCTOR: Um.
+PATIENT: And the glipizide is not doing it.
+DOCTOR: You're taking 10 mg twice a day.  That's the maximum dose actually so.  Have you ever taken anything else for your diabetes?
+PATIENT: Well uh, let me think it's so many years ago.  Uh, the metformin and the Glucophage have been here at Hines.
+DOCTOR: What's your blood, what's your blood sugar now?
+PATIENT: Well in the morning it's been as much as 150-160.
+DOCTOR: Okay.
+PATIENT: In the evening it's around 290.
+DOCTOR: Wow.  That's pretty high.
+PATIENT: Yeah and I had perfect control with the . . .
+DOCTOR: The metformin.
+PATIENT: With the metformin.
+DOCTOR: It's just that it's very dangerous with your renal function so we have to figure out something to help you out.  Now were you having heart failure when you came in, swelling in your legs, anything like that?
+PATIENT: Well I had some little swelling in my right ankle and I wear elastic stockings for that.
+DOCTOR: Okay.
+PATIENT: That seems to control it.
+DOCTOR: Let's see cause we're kind of limited by what we can give you by mouth um.  There's one medication that we can try um but it's associated with swelling in the legs and you were here last time with a little bit of heart failure and so if I give you that medicine.
+PATIENT: I didn't have heart failure I had a high pulse.
+DOCTOR: Yeah it sounded like when DOCTOR wrote the sign-off note for you she mentioned that you had a little bit.  So we can try that medication and if you start noticing that your swelling in your legs gets out of control then um perhaps we can try a different medicine.  Cause, so there's only, metformin is the best medication for diabetes.  Next is the glipizide that you're taking now um and then the other ones are just A OK and then the next step would be insulin but that's you know that's a big hassle, a big lifestyle change.
+PATIENT: Right.
+DOCTOR: And we want to try to avoid that.
+PATIENT: Yeah I do too.
+DOCTOR: So, yeah we can try you on this new medication and it's called pioglitazone um.  The side, the main side effect is swelling in the legs okay, which I'm kind of worried but um we can try that okay.  Uh let's see what's the last time DOCTOR checked your diabetes [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: The last time your control was actually really good and that was in the beginning of November but if you're telling me your blood sugars have been high we should . . .
+PATIENT: Well that, the blood sugars are that high since they took me off of the metformin.
+DOCTOR: Yeah I understand that.  Okay, we'll try this new medication and then, and then see how your sugars improve okay.
+PATIENT: Okay.
+DOCTOR: Um if anything um maybe DOCTOR just wanted to start you on a little booster, one time a day, of insulin instead of you know.  Cause insulin is done multiple ways.  But let's try this one medication and see how it goes.  So that's one thing your diabetes.  Um, your heart rate today is well controlled; it was 67, so that's good.  I think all the medications they put you on um helped that.  Um how often do you [REDACTED]?
+PATIENT: Feel fine.
+DOCTOR: You feel good?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um, so we'll get some blood work today to check all of that stuff again.  I know you got some about two weeks ago.
+PATIENT: That Coumadin is.
+DOCTOR: Sticker right?
+PATIENT: Look at that (shows arm).
+DOCTOR: [REDACTED].  It does that.  It thins your blood you know.  It prevents strokes that's the thing so.  Um alright.  Any other questions about the medications?  What else you got?
+PATIENT: Well, I don't know yet the effect of the other medications cause I haven't been on them that long.
+DOCTOR: Okay, so do you want to discuss, I mean kind of ask me questions like what they’re for? Do you want me to answer questios like that?
+PATIENT: Well uh I know most of them are for the uh.
+DOCTOR: The heart rate.
+PATIENT: The heart rate.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: The only thing is your blood pressure is a little high but I'll recheck it today.  Does your blood pressure get a little more on the high side?
+PATIENT: It must.  I can’t explain it to you and almost all my life, it's been in the upper readings.  It's been around 140-150.
+DOCTOR: Okay.
+PATIENT: And the lower reading has always been in the low 60s, that's what diastolic, in the low 60s, but the same reason that I've had a high pulse without realizing it for maybe 15 years.
+DOCTOR: Uh-huh.
+PATIENT: You know I just noticed it when I go in the stores and I checked it at the store machine which shows a high pulse of 90, 100.
+DOCTOR: Yeah.
+PATIENT: 90s, 100s.
+DOCTOR: Yeah.
+PATIENT: In that area.
+DOCTOR: The thing is um, they both are you know connected.  The fact that you've had your blood pressure on the little higher side for so long, your heart structurally the muscles pump against a higher blood pressure and so the muscles, over time, stretch, over like say the you know before you get the high high blood pressure.  So the more the muscles stretch and then, so the inner connections are loose and hence your heart beats faster.
+PATIENT: But I never, I've never had high blood pressure until ten years ago.
+DOCTOR: Oh ten years ago?
+PATIENT: Maybe not even that long ago.
+DOCTOR: Okay.  So I think the key to preventing your heart, well you're hearts already in that faster rhythm, but controlling your blood pressure is key.  We can still go up on the lisinopril.
+PATIENT: Well I took lisinopril I'd say about 15 years or 20 years ago, back when I started on it with Doctor [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And uh when I was taking more of a dose than I'm taking now, which is a half a tablet in the morning, half in the evening uh I, my lisinopril causes my potassium to go up.
+DOCTOR: I see.
+PATIENT: So I don't know if you want to increase the lisinopril and automatically increase.
+DOCTOR: Then your potassium is high.  You're very right, you're very right.  Um well other things, the other thing is we'll just go up on your, will just raise, make your heart rate go down even more and at this point, your heart rate is pretty low so.  We don't want to drop it too low.
+PATIENT: No I don't want to drop it too low either.
+DOCTOR: So that doesn't make you feel good.  Um, let's see.  We can go up on the water pill, the furosemide.  Go up to twice a day.  It makes you pee, you probably know that.
+PATIENT: I do that anyhow.
+DOCTOR: But the, the nice thing is because your potassium tends to be on the higher side, so the furosemide actually drops your potassium so maybe that can counteract a little bit.  So maybe we'll go, would you rather take twice the dose in the morning or would you rather split it in two doses twice a day?
+PATIENT: It doesn’t make any difference.
+DOCTOR: [REDACTED] okay.  Let's do it twice a day then.
+PATIENT: Okay.
+DOCTOR: I think it's more effective [REDACTED].
+PATIENT: Okay I am almost out of glipizide because . . .
+DOCTOR: Okay.
+PATIENT: I got two pills left.
+DOCTOR: Cool, alright.  You need that too.  Okay, you want to come up here?  How about [REDACTED].  I'll just have you come back for blood work in about two weeks.
+PATIENT: I've gotta come back for blood work on December 9th.
+DOCTOR: Okay.
+PATIENT: For the Coumadin check.
+DOCTOR: Okay.
+PATIENT: So do want to do it then?
+DOCTOR: Let's do it then, yep, yeah let's do it all then.  I think that’s good.
+PATIENT: That's only six days from today.
+DOCTOR: Do you want to pick up the new pill downstairs or do you want to mail it?
+PATIENT: If they mail it takes about four days.
+DOCTOR: Yeah.
+PATIENT: Well I have enough for a week.
+DOCTOR: Okay.  So the furosemide you just double it.  Just take one in the morning and one at night until we.
+PATIENT: Will they mark that on the prescription?
+DOCTOR: Oh yeah when you get it yeah.
+PATIENT: Okay.
+DOCTOR: Okay.  I can write it down for you if you want.
+PATIENT: Right.
+DOCTOR: Do you have your med list?
+PATIENT: Furosemide twice a day.
+DOCTOR: Here, your med list is right here.  I'll just mark it on here.
+PATIENT: You got your notes on that; don't you want to keep those?
+DOCTOR: No there up here, so it's good.
+PATIENT: Oh.
+DOCTOR: Change to twice a day.  Okay um and then I'll send the new diabetic medication then too.
+PATIENT: Okay.
+DOCTOR: You can start that today.
+PATIENT: So I can’t get started today I'll stop and pick it up right?
+DOCTOR: Um exactly.
+PATIENT: Yeah.
+DOCTOR: So I'll send it.  I [REDACTED].
+PATIENT: Do I take that new diabetic medicine at night or in the morning, when?
+DOCTOR: Take it in the morning.
+PATIENT: Just once a day.
+DOCTOR: Yes, once a day.  I'll be right back okay?
+(DOCTOR OUT:  39:53  DOCTOR IN: 40:44)
+DOCTOR: Deep breath please.  Other side.  [REDACTED] okay thank you.  You're heart is regular today so.
+PATIENT: Oh.
+DOCTOR: Yeah.  The Coumadin.
+PATIENT: That's what drives me nuts.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah you know the Coumadin is one of the downfalls of medicine.  It works because it does what we need it to, which is prevent stroke but.
+PATIENT: Yeah.
+DOCTOR: But the complications of bleeding and like you know so difficult to monitor.
+PATIENT: Oh it's terrible.
+DOCTOR: Yeah so I mean.
+PATIENT: I get the blood tests every two weeks.
+DOCTOR: So but once you start getting more control I think it's the management that [REDACTED] once you get more regular.  I think you're in that early period where.
+PATIENT: Well I was in the [REDACTED] for six years.
+DOCTOR: Yeah I know.
+PATIENT: And they took me off of it because my echocardiogram was perfect and my uh, the EKG was perfect and the heartbeat was perfect and everything.  Then I went off of it for a month and now it’s all screwed up.
+DOCTOR: Yeah. Screwed up.  Let me look at the dose then.  [REDACTED].  So once a day.
+PATIENT: Should I watch for swelling in the legs or what?
+DOCTOR: Yeah.  So if you start noticing increased swelling in the legs give me a call or give DOCTOR a call and then we'll have to come up with other options.  [REDACTED].
+PATIENT: Well I don't, because [REDACTED] swelling and just.
+DOCTOR: Yeah massive swelling.
+PATIENT: Oh geeze.
+DOCTOR: Yeah.
+PATIENT: I don't know that I didn't want to take that.
+DOCTOR: Well it doesn't, you know it's just about maybe 10% of people get it, so.  The majority of the time it doesn't happen.
+PATIENT: Okay.
+DOCTOR: Or happens in a small amount.  Alright I'll be right back okay sir, I'm going to talk to my attending and uh I'll be right with you okay?
+PATIENT: Sure.
+DOCTOR: How old are you sir?
+PATIENT: 75.
+DOCTOR: 75 okay.
+(DOCTOR OUT:  44:01  DOCTOR IN:  48:37)
+DOCTOR: Alright sir.  So actually that water pill, my attending wanted just to do it once a day to make it easier for you.
+PATIENT: So what I'm taking.
+DOCTOR: So at a higher dose but just once a day.
+PATIENT: Okay.
+DOCTOR: So, so if you can just with the tabs you have right now, just take two tabs until you get the new medicine.
+PATIENT: Okay.
+DOCTOR: In the mail.
+PATIENT: And then do I still take the glipizide?
+DOCTOR: Yeah, yep.  No I'm talking about the water pill.
+PATIENT: I know you're talking, I know what you're talking about.
+DOCTOR: Okay and the glipizide stays the same.
+PATIENT: Two a day?
+DOCTOR: Yeah one in the morning and one at night.
+PATIENT: And I'm out of that.
+DOCTOR: Yeah so I refilled that in the mail.  Are you completely out?
+PATIENT: No I've got two pills left, two pills left.  And I’ve gone one . . .[REDACTED] I'll be out by Tuesday.
+DOCTOR: Well why don't you just come in.
+PATIENT: I'd rather just pick it up [REDACTED].
+DOCTOR: And the new medication that I'm starting for your diabetes, I have to actually do a special request for it so you won't be able to pick it up today.
+PATIENT: Okay but what do I do about the glipizide?  I'll pick up another.
+DOCTOR: You can pick up the glipizide today.
+PATIENT: Well I'm gonna stop taking it right, when I take this other one?
+DOCTOR: No you take it in addition.
+PATIENT: In addition to the glipizide.
+DOCTOR: Exactly yes.
+PATIENT: Now I'm not talking about the water pill.
+DOCTOR: No we're not talking about the water pill.
+PATIENT: We're talking about the other pills that's on the way.
+DOCTOR: Exactly.  That one you will add in addition to your glipizide.
+PATIENT: Okay.  Just another pill.
+DOCTOR: Yeah, yeah I know.
+PATIENT: Uh so what, I don't have to go the pharmacy?
+DOCTOR: Well you wanted to pick up the glipizide so you don't run out right?
+PATIENT: Right.
+DOCTOR: Yeah, you'll pick that up.
+PATIENT: Yeah.
+DOCTOR: And then the new one will come at home.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Oh yes, for a whole year.  And I believe that’s all.  So the new diabetic medication and the water pill will both come home.
+PATIENT: Right.
+DOCTOR: And the glipizide you'll pick up today.
+PATIENT: Okay.
+DOCTOR: And then we're gonna have you check some blood work in two weeks.
+PATIENT: And the glipizide [REDACTED] the 9th.
+DOCTOR: The 9th exactly.  12/9 and then.
+PATIENT: You have to order that and put it in the computer.
+DOCTOR: Yes and then um and then I'm gonna have you see DOCTOR in about six weeks.
+PATIENT: Six weeks.
+DOCTOR: If they can find an appointment that soon.
+PATIENT: Well, see, I’m having a problem with appointments here.  Let me explain.
+DOCTOR: Sure.
+PATIENT: Uh [REDACTED] appointment with the cardiologist.
+DOCTOR: Yeah.
+PATIENT: DOCTOR.
+DOCTOR: DOCTOR.
+PATIENT: The 17th.
+DOCTOR: Uh-huh.
+PATIENT: So that's gonna be, maybe I can see him and I don’t know what he’s going to decide. then I'd have B12 shot at the end of December.
+DOCTOR: That's right.
+PATIENT: And at the same time, I usually have a blood draw to check on the INR.
+DOCTOR: Yes.
+PATIENT: Uh, the 9th I've got your blood tests request and [REDACTED] Coumadin test.
+DOCTOR: December 9th, yes.
+PATIENT: Right.  January 5th I've got to see Dermatology.
+DOCTOR: Yes.
+PATIENT: And January 12th I've got to have the dentist.
+DOCTOR: Yes.
+PATIENT: Massive dentist work.
+DOCTOR: Do you want me to move it to two months then?
+PATIENT: Yeah at least two months.
+DOCTOR: Okay.  I just don't want your diabetes to go [REDACTED].
+PATIENT: Well [REDACTED].  I'm gonna be walking around with black eyes.
+DOCTOR: I just don't want your diabetes to go unchecked.
+PATIENT: Well I don't either.
+DOCTOR: Yeah and so that's why I want to see you.
+PATIENT: That's why I was hoping to get back on metformin.  I had control.
+DOCTOR: I think metformin is out um at this point um with your kidney function.
+PATIENT: [REDACTED].
+DOCTOR: Yeah and these since the hospitalization, since you were in the hospital [REDACTED].  Alright.  Any other questions sir?
+PATIENT: No.
+DOCTOR: Okay.  Well, sorry to add another pill but it's taking the.  It's not really taking the place of the metformin, because metformin is very good, but it’s the next thing, Okay.
+PATIENT: Metformin was excellent.
+DOCTOR: Yes it was.  Okay sir so.
+PATIENT: Okay doc.  Thank you.
+DOCTOR: Here is this.
+PATIENT: What do I do with that?
+DOCTOR: I'll take it up front.  Here's your medication list.
+PATIENT: Now you'll put the order in for the medication I pick up today?
+DOCTOR: Yes.
+PATIENT: So I have to go to the Common Room and wait?
+DOCTOR: Yes.  So I'll give you this list so that you know which one I am increasing, 40 mg once per day okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] make you get in that wheelchair.
+PATIENT: Okay.  Sure gave you a hard time didn't I.
+DOCTOR: It happens though, you know.
+PATIENT: Well.
+DOCTOR: I wish I had something better but.
+PATIENT: [REDACTED].
+DOCTOR: It was nice meeting you sir.
+PATIENT: Nice seeing you.
+DOCTOR: You have a good holiday okay.
+PATIENT: You too.  I won't see you till after Christmas.
+DOCTOR: See ya later.
+(DOCTOR OUT: 54:56)
+Time is 3 o'clock.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235291
+TRANSACTION # 578-10-2-316-0103

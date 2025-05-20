@@ -1,0 +1,115 @@
+DOCTOR: How are you?
+PATIENT: I'm not so good, these last few days I haven't benn able to reallykeep anything down and not feeling so good.
+DOCTOR: OK, I'm sorry to hear that. Um, when you say last few days, did you mean the past two days? 3 days?
+PATIENT: Well, I feel like maybe the last five days I just haven't been feeling so good and I haven't really felt like eating. But these last two days I've been really nauseous and I've thrown up a few times.
+DOCTOR: OK, when you say you haven't been feeling good for the past five days, is it that you feel achy? Do you feel hot like you have a fever, or do you feel weak?
+PATIENT: Yeah, I do feel hot and um, yeah, maybe a bit tired.
+DOCTOR: Tired? OK. And nausea and vomiting. Are you throwing up or just feeling nauseous?
+PATIENT: Mostly nauseous, but yeah, yesterday I threw up like three or four times and then again today I threw up like two or three times.
+DOCTOR: OK, are you throwing up any blood?
+PATIENT: No, I didn't see any red. It was mostly like yellow and umm, liquidy beacuse I haven't been eating much solids or like just like food. I've been mostly just having drinks.
+DOCTOR: OK, um, and so mostly fluid you said?
+PATIENT: Yeah.
+DOCTOR: OK, and what color is it?
+PATIENT: Uhh, yeah, usually usually kind of like yellowish clear.
+DOCTOR: OK. Are you having any abdominal pain?
+PATIENT: Maybe like after I vomit it kind of feels like squeezing a little bit. But I think, yeah, I think yeah that's just really just with when I'm heaving.
+DOCTOR: Right, um, are you, do you have any changes in your bowel movements?
+PATIENT: Umm, no, I haven't noticed anything there.
+DOCTOR: OK. And so no diarrhea, no constipation?
+PATIENT: No, nothing like that.
+DOCTOR: OK, no blood in your stool?
+PATIENT: No blood, I haven't seen any red.
+DOCTOR: OK, and how about issues swallowing food?
+PATIENT: Oh yeah, no problem swallowing. Just haven't felt hungry.
+DOCTOR: OK, so you don't have much of an appetite then.
+PATIENT: No, not not really.
+DOCTOR: OK, alright, so um, any changes in in taste?
+PATIENT: Um, maybe I mean, yeah, I think I might not be really tasting things the same.
+DOCTOR: OK, how about smell?
+PATIENT: Now that you say it, I might, uh, yeah I think my smell has been impacted as well. I can't really smell anything.
+DOCTOR: OK.
+PATIENT: I thought that was kind of weird, but didn't think anything of it actually until you just asked me.
+DOCTOR: Yeah for sure. And how about any changes in your vision or hearing?
+PATIENT: No changes to vision or hearing.
+DOCTOR: OK, any discharge?
+PATIENT: Uh, nothing like that that, but I mean my eyes were a bit, they've been a bit red these last two days.
+DOCTOR: OK, have they been in any pain?
+PATIENT: Nope, no pain and I've been able to see everything OK. It's just I just noticed they were a little bit more red. I just thought maybe I don't know I was, I've just been tired.
+DOCTOR: Yeah for sure. Any coughing?
+PATIENT: Uhh, yeah I haven't had a cough but um, I've had a cough for a few years now, so yeah, that's not really a change for me.
+DOCTOR: Alright, so no change in your cough. Is it a dry cough or a wet cough?
+PATIENT: It's uh, oh, a dry cough usually.
+DOCTOR: Dry cough, OK. Any blood that you produce?
+PATIENT: No blood, no blood.
+DOCTOR: OK, any shortness of breath?
+PATIENT: I'm not really able to exercise and stuff like that.
+DOCTOR: OK, have any wheeziness?
+PATIENT: : Um, no, I haven't had a a wheeze.
+DOCTOR: OK, how about any fatigue or tiredness?
+PATIENT: Yeah, I've definitely felt a little bit more kind of groggy and tired this last week, really.
+DOCTOR: OK, and muscle aches to go along with that?
+PATIENT: Yeah, bit in my like kind of upper arms and legs a little bit.
+DOCTOR: OK, you said you've been feeling groggy. Do you feel dizzy at all?
+PATIENT: Not dizzy, just maybe that I'm like moving in slow motion.
+DOCTOR: OK yeah, any confusion or memory loss?
+PATIENT: No, I think I've been OK.
+DOCTOR: OK, any rashes?
+PATIENT: No, I haven't noticed any rashes.
+DOCTOR: OK, how about headaches?
+PATIENT: Yeah, these last few days I've had a bit of a headache as well.It hasn't been very intense, so, um, I'm not worried about it too much.
+DOCTOR: Right, OK. It hasn't been intense you said? So have you had headaches like this in the past?
+PATIENT: Yeah, I had similar headaches before I think. They come like this. Like if I didn't get a good sleep or from not drinking enough water or something, I'll kind of get a headache like this. Kind of feels like it's squeezing.
+DOCTOR: Yeah, that's understandable. But it's not like the worst headache you've ever had?
+PATIENT: No, no, it's pretty similar to headaches that I've had before.
+DOCTOR: OK, OK, good, and are you otherwise healthy?
+PATIENT: Yeah, well I have high blood pressure and also, high cholesterol, so I do take medications for both of those. So yeah, I take a statin and Amlodipine I think.
+DOCTOR: OK, OK, good. It's good that you're on both of those. Do you take any other medications like over the counter medications or herbal supplements?
+PATIENT: Yeah, I've been taking vitamin D and also a multivitamin. I heard that that we don't get enough vitamin D throughout the winter.
+DOCTOR: Yeah, it's a great idea to take that, especially as we get older and if we live in a country where we don't get a lot of sun exposure like Canada, so that's good. And sorry before I move on, I forgot to ask you earlier if you have experienced any weight loss or night sweats recently?
+PATIENT: No, my weight's been, uh, about the same unfortunately and I haven't had any night sweats. But I mean now that you asked if I felt more hot than than usual, maybe.
+DOCTOR: OK, and did you take your temperature?
+PATIENT: Uh, I did and the last time I checked it was a few days ago and at that time I didn't have a fever, but I mean, I'm still feeling hot so I'm not sure.
+DOCTOR: Yeah, OK. Alright, so I'll go back to your past medical history. Have you been hospitalized or have you ever needed surgeries in the past?
+PATIENT: Um, no. Like the last time I was in the hospital with, it was for a colonoscopy a few years ago which came back normal.
+DOCTOR: OK, that's good. Um, are you up to date with all your immunizations?
+PATIENT: Uh, yeah, actually got the shingles vaccine a few months ago.
+DOCTOR: OK.
+PATIENT: Probably closer to a year ago now, actually.
+DOCTOR: Oh great, OK, that's awesome and are you allergic to anything?
+PATIENT: Just peanuts.
+DOCTOR: Peanuts, OK. Do you know if you have a family history of any lung or heart conditions?
+PATIENT: Yeah, my son has asthma. But nobody in my family's had a heart problem, though.
+DOCTOR: OK, how about any stomach problems or liver problems? Colon problems?
+PATIENT: Yeah, my dad actually had colon cancer. He was 70 and so that's why we went and decided to get a colonoscopy instead of just doing the immunohistochemistry test.
+DOCTOR: OK, yeah, that's a good idea. Um, so it sounds like you're, you know, preemptive with your health, which is good. Any other cancers that run in the family?
+PATIENT: No, just my dad had colon cancer.
+DOCTOR: OK. And do you smoke at all?
+PATIENT: No, I don't.
+DOCTOR: OK, how about marijuana?
+PATIENT: Um, no, I don't smoke marijuana.
+DOCTOR: OK, how about other recreational drugs?
+PATIENT: I mean, I briefly like dabbled in the past at parties and stuff like that but that was when I was way younger, like in in my college years.
+DOCTOR: OK, what kind of drugs?
+PATIENT: I think maybe we used cocaine a few times and MDMA, uh, but that was like a long time, probably like 30 years ago.
+DOCTOR: OK, were any of these drugs injected IV?
+PATIENT: No, no, I've never done that.
+DOCTOR: OK, OK, that's good. Do you drink alcohol?
+PATIENT: I have like maybe I don't know a couple of drinks a week.
+DOCTOR: OK, that's good. What kind of drinks do you have and how much of it do you have?
+PATIENT: Usually, it'll just be one or two glasses of wine at a time and maybe two nights a week.
+DOCTOR: OK.
+PATIENT: And I usually stick with red wine.
+DOCTOR: OK, great, and who do you live with?
+PATIENT: So um, it's just me and my son.
+DOCTOR: How old is your son?
+PATIENT: Uh, he's 18.
+DOCTOR: OK, and do you live in a house or an apartment?
+PATIENT: Um, yeah, we live in an apartment. Yeah, on the 8th floor.
+DOCTOR: On the 8th floor, OK, any issues in terms of like old carpet or mold or asbestos in the apartment?
+PATIENT: It's a newish building so there isn't really any carpet actually in the unit, so yeah, it's pretty clean that way.
+DOCTOR: OK good. That's good. So those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we ended the interview?
+PATIENT: Well, I'm just hoping to to get this sorted out and feel better.
+DOCTOR: Yeah for sure. So you know, right now we're thinking it could be a viral GI viral infection because of your complaints of nausea, vomiting, loss of appetite and fever. But it could also be COVID and we are going to have to do a swab for you and run that test because you have a lot of symptoms that overlap with those symptoms. Um, and then, so just going off of that, we'll wait for the swabs to come back. If they come back positive, we will notify public health and they'll do a trace to see where you could have gotten this infection from. And then meanwhile, we do suggest that you isolate for two weeks so that you don't spread the illness, and even if the swab comes back negative, there is still a chance that you may have COVID and it's a false negative test. So we'll start there. If it turns out you don't have any of those viral illnesses and you have more of a, you know, bacterial picture, we can work you up for that and prescribe antibiotics. So that's where we will start. How does that sound?
+PATIENT: Yeah, that sounds like a great start. Thank you.
+DOCTOR: Alright, great.

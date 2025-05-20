@@ -1,0 +1,202 @@
+DOCTOR: Hi.
+PATIENT: Hello yeah.  Oh the right side.  Okay, alright.
+DOCTOR: I'm DOCTOR.
+PATIENT: Alright, I was wondering.
+DOCTOR: [REDACTED].
+PATIENT: Had I ever seen you before.
+DOCTOR: Huh.
+PATIENT: I wondering if had I ever seen you before.
+DOCTOR: Yeah you see DOCTOR and he's my boss.
+PATIENT: Yeah right yeah.
+DOCTOR: Yeah.  What brings you in today?
+PATIENT: A appointment follow-up.
+DOCTOR: Just a regular check-up is that right?
+PATIENT: Yeah uh-huh.
+DOCTOR: Okay anything been bothering you recently?
+PATIENT: No not really.
+DOCTOR: So you're doing well?
+PATIENT: Yeah pretty good.
+DOCTOR: Are you taking all your medicines?
+PATIENT: Yeah.
+DOCTOR: Okay and you saw DOCTOR back in October?
+PATIENT: Right yeah.
+DOCTOR: And uh at that time are you still having any of that leg pain or, you were having some leg pain there.
+PATIENT: Uh yeah when I walk.  You know I had a CAT scan back here about two or three months ago but I never did hear from them.  My bone scan it was, bone scan.
+DOCTOR: Oh bone scan yeah.
+PATIENT: Yeah.
+DOCTOR: He said that um uh it your, it showed some your left hip.
+PATIENT: Right yeah.
+DOCTOR: Flared up a little bit.
+PATIENT: Yeah right.
+DOCTOR: That could be from arthritis but you also have prostate cancer.
+PATIENT: Yeah [REDACTED].
+DOCTOR: We just need to make sure that it's not um and then you got the CT scan.
+PATIENT: Uh-huh.  No this was so I was trying to say.
+DOCTOR: Oh you just got the bone scan.
+PATIENT: Bone scan yeah.
+DOCTOR: Yeah so we need to get a x-ray and a CT scan of that hip.  Is that hip still hurting you real bad?
+PATIENT: Sometime it do and then sometime it don't.
+DOCTOR: Is it better than October or worse?
+PATIENT: See it only hurt when I walk but don't hurt when I'm just sitting or.
+DOCTOR: It only hurts when you walk.
+PATIENT: When I walk yeah.
+DOCTOR: Oh okay.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  And that bone scan was let's see October okay.
+PATIENT: Hmm.
+DOCTOR: Okay uh any changes in your urinary frequency?
+PATIENT: No about the same.
+DOCTOR: Any diarrhea, constipation or anything?
+PATIENT: No nothing.
+DOCTOR: Chest pain, shortness of breath?
+PATIENT: No. Oh I have shortness of breath.  I had that real bad.  You know back here last month I had it so bad I couldn't hardly walk through the house when I had.  It stayed like that for about two or three weeks but I realized I think I had a little cold.  It was like partially blocking my.
+DOCTOR: Oh.
+PATIENT: [REDACTED].  It lasted for about almost a month.
+DOCTOR: Okay.
+PATIENT: I couldn't hardly catch my breath.
+DOCTOR: But is that, that's all gone now?
+PATIENT: Yeah so I got a lots better.  Sometime I say it's hard to breathe all the time.
+DOCTOR: Okay.  Are you smoking?
+PATIENT: No I used to but I quit about 20.
+DOCTOR: You have COPD.
+PATIENT: 20 years ago.
+DOCTOR: Do you take any inhalers?
+PATIENT: Yeah I got four of those.
+DOCTOR: And those help?
+PATIENT: Yeah, yeah.  Oh if I didn't have those I don't know I would make it.
+DOCTOR: Okay.  Okay.  And uh you have all the same medications that you were on last time?
+PATIENT: Right yes.
+DOCTOR: Do you have refills on all of them?
+PATIENT: Well no I had a [REDACTED] in this bag but I'm running a little low on everything so.
+DOCTOR: So these are all of them?
+PATIENT: Yeah and you know they told me last time I was here they was gonna stop the Coumadin or something they said.  The pharmacist was telling me.
+DOCTOR: You're supposed to be on Coumadin?
+PATIENT: Yeah I'm on Coumadin but they was talking about stopping it or changing it.
+DOCTOR: Let me see.
+PATIENT: Changing it or something she said.
+DOCTOR: Oh you already take Coumadin.
+PATIENT: Right yeah.
+DOCTOR: Okay.
+PATIENT: I was supposed to see the dietician today too to get the medicine.
+DOCTOR: Oh you're gonna see the pharmacist today.
+PATIENT: The pharmacist.
+DOCTOR: Yeah okay.  They'll take care of that.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  And let's take a look at your labs.  You had them all done oh just recently let's see.  Okay.  Your vitamin D is 49 so that's good.  You took the vitamin D.  Are you still taking it?
+PATIENT: That's the uh.
+DOCTOR: Ergocalciferol once a week.
+PATIENT: No.  Once a week.
+DOCTOR: You don't take it anymore?
+PATIENT: No.  That must have been something temporary I was taking or something yeah.
+DOCTOR: Okay.  Let's see.  And you have a fistula of your left arm in case you need that option.
+PATIENT: Yeah you know when they put that in, see that scar.
+DOCTOR: Uh-huh.
+PATIENT: It was under that scar but it healed fine and crossway on my arm like that.  That might a affected [REDACTED].
+DOCTOR: Uh well, you know if they ever have to use it they'll have to do a test to make sure it works.
+PATIENT: Yeah that's what they say, when it come, moved out of position [REDACTED].
+DOCTOR: Yeah so the kidney doctors don't think there's anything acutely that we need to do about it.
+PATIENT: Uh-huh, yeah.
+DOCTOR: So.  Okay and have you been checking your blood sugars at home?
+PATIENT: Yeah.
+DOCTOR: What have they been?
+PATIENT: I got uh, they've been, it's been you know like up and down.  I brought the thing with me I think.  I needed to bring it.  Yeah here it is though.
+DOCTOR: Do you know what the last few uh.
+PATIENT: Let's see here.  Uh this morning it was 132, yesterday 157, the day before was 147, 121.
+DOCTOR: Okay.
+PATIENT: 152.
+DOCTOR: Okay.  So they've been in the hundreds.
+PATIENT: Yeah a little over a hundred.  One time it dropped down to 50.
+DOCTOR: Oh, sometimes it can happen.
+PATIENT: It went right back up, it didn't last long.
+DOCTOR: Okay good.
+PATIENT: A couple hours it was back up.
+DOCTOR: Okay.  Okay I'm just looking at a few more things.  Okay.  Your blood pressure's a little high today.
+PATIENT: Yeah.
+DOCTOR: Higher than we want it.
+PATIENT: Uh-huh.
+DOCTOR: Um.  We might have to go up on one of your meds.
+PATIENT: Uh-huh.
+DOCTOR: And as far as the uh prostate, those people are saying oh just continue the meds okay.
+PATIENT: Uh-huh.  You know I had that, I took those shots for about two years and then they said the PSA went so low and so they took me off of it and I haven't had a shot now in about two years.
+DOCTOR: Oh okay.  Good, good.
+PATIENT: Yeah.
+DOCTOR: And you take your iron?
+PATIENT: Yeah, uh-huh.
+DOCTOR: Let's see.  And your iron was checked in May.  Were you supposed to have your labs drawn back in October?
+PATIENT: Hmm October, I pretty sure I did.  You mean for the prostate?
+DOCTOR: Uh okay, no I think we’re okay.  And you take the calcitrial?  For your calcium?
+PATIENT: Yeah right, yeah.
+DOCTOR: Okay.  I'll be back in a minute okay.
+PATIENT: Okay.
+DOCTOR: I think we may have to increase one of your blood pressure meds.
+PATIENT: Uh-huh.
+DOCTOR: Um and uh we'll go from there okay.
+PATIENT: Okay.
+DOCTOR: I'll be back in a second.
+PATIENT: Okay, yeah.
+(DOCTOR OUT:  40:02  DOCTOR IN:  54:36)
+DOCTOR: Sorry to keep you waiting.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Okay so everything's fine.  So we just, do you have time to go to Radiology after this?
+PATIENT: Yeah, I’m supposed to see.
+DOCTOR: For your hip, okay?
+PATIENT: I suppose to see the pharmacist, what time is it?
+DOCTOR: Uh you could go after the pharmacist.
+PATIENT: Uh-huh.
+DOCTOR: Uh and we need to get a CT scan of your hip.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: So um.  So can you go for the CT after your pharmacist appointment?
+PATIENT: Yeah.
+DOCTOR: Okay I'm going to order it stat then.  So it's in the computer okay, you just have to go there.
+PATIENT: Uh-huh.
+DOCTOR: I'm gonna write all the things here.
+PATIENT: What floor is that on then?
+DOCTOR: It's right across the hall on this floor.
+PATIENT: Oh okay.
+DOCTOR: And then you can uh come back.  So the CT scan.  You're gonna come back and see DOCTOR in a month okay.
+PATIENT: Okay yeah.
+DOCTOR: Do you want all your medicines mailed to you?
+PATIENT: Yeah.
+DOCTOR: Okay I'll take care of all those okay.
+PATIENT: Okay.
+DOCTOR: And um uh I'm gonna send you to the pharmacist for a blood pressure check in two weeks okay.
+PATIENT: Okay.
+DOCTOR: It was high today but I want to just make sure that it's high again before I change your meds.
+PATIENT: Okay.
+DOCTOR: Do you have a blood pressure cuff at home?
+PATIENT: Yeah.
+DOCTOR: Do you use it?
+PATIENT: Yeah.
+DOCTOR: What are your blood pressures at home?
+PATIENT: Uh it's been ranging something like it was today almost like.  Be like 160s or 70s over 40s and 50s like that.  It's been a little bit high for the last month or so yeah.
+DOCTOR: Yeah.  Okay.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Alright um so I'm gonna put in.  So when you stop by the clerk on your way out and tell them you need to um come back in a month and see DOCTOR.
+PATIENT: Hmm.
+DOCTOR: And then you'll come back, you'll get something in the mail to remind you to come back in three months for your regular appointment.
+PATIENT: Uh-huh.
+DOCTOR: This is going to be just to follow up the CT scan okay.
+PATIENT: Yeah.
+DOCTOR: And then come back and see the pharmacist in a couple weeks to recheck your blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Yeah uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And then make sure after your appointment today you go over and get that CT scan done of your hip.
+PATIENT: Okay, yeah.
+DOCTOR: The left hip right?
+PATIENT: The left right yeah.
+DOCTOR: Yeah okay.
+PATIENT: So it's already in the computer now?
+DOCTOR: Already in the computer you just have to go over there.
+PATIENT: Okay, alright.  Alright.  [REDACTED].
+DOCTOR: Okay sir take care.
+PATIENT: Take care.
+PATIENT: 59:51
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255188
+TRANSACTION # 578-10-2-316-0103

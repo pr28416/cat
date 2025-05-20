@@ -1,0 +1,291 @@
+DOCTOR: How you doing?  How are you doing today?
+PATIENT: Okay.
+DOCTOR: So how have you been?
+PATIENT: Doing pretty good.
+DOCTOR: Any um, do you have any pain?
+PATIENT: Oh I kind of subsided a little bit.
+DOCTOR: Still there though?
+PATIENT: Off and on but mostly not.
+DOCTOR: Um.  When do you get the pain now?
+PATIENT: If it's there, it's during bowel movements.
+DOCTOR: Okay.  Any blood in your stool?
+PATIENT: No.
+DOCTOR: On a scale of 1-10 how bad is the pain?
+PATIENT: Uh when it comes it's not that bad, maybe 1 or 2.
+DOCTOR: Okay um.  Well the CT scan that we got of your pelvis.
+PATIENT: Uh-huh.
+DOCTOR: And the abdomen um, it didn't show any infection or masses around your rectum.
+PATIENT: Uh-huh.
+DOCTOR: But it did show kind of a signal in your pancreas that we don't know what it would be.
+PATIENT: Uh-huh.
+DOCTOR: And so the radiologist wanted to repeat a dedicated CT of just the pancreas.
+PATIENT: Uh-huh.
+DOCTOR: Um so, I'd like to do that and also I think that we should send you for a colonoscopy um.  We tried, did you do four weeks of antibiotics or two weeks.
+PATIENT: I'm sorry?
+DOCTOR: Did you do antibiotics for four weeks or two weeks?
+PATIENT: Um when you gave it to me I was on that so, it's been about four I would say.
+DOCTOR: I think the last time we gave you; we gave you two weeks with one refill.  No we gave you four weeks worth.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um okay.  We checked your cholesterol on the 25th of August.
+PATIENT: Right.
+DOCTOR: And that was high.
+PATIENT: It was high?
+DOCTOR: Yeah.  Your bad cholesterol was 162 and so um it should really be and you don't have any diabetes?
+PATIENT: Uh uh.
+DOCTOR: No history of heart attack or anything like that?
+PATIENT: No.
+DOCTOR: Um so it should really be under 130 and then your total cholesterol was 238 and that should be under 200.
+PATIENT: Hmm.
+DOCTOR: Um the reason I always get cholesterol levels is because they’ve found that there's an increased risk of heart attack and stroke with high cholesterol.
+PATIENT: Uh-huh.
+DOCTOR: And so for the long term the blended measure um, so there are medications that can decrease your cholesterol called statins, simvastatin and Lipitor.
+PATIENT: Uh-huh, yeah I'm familiar with it.
+DOCTOR: So have you ever been on it at any in the past?
+PATIENT: Yeah like maybe ten years ago I was on it for a little while.
+DOCTOR: Okay.  Why did you stop?
+PATIENT: I just didn't refill the medication.
+DOCTOR: Did you have any muscle cramps or pain?
+PATIENT: No, I don't know if it was the result of the medications but sometimes I get cramps in my leg but you know maybe that's from running and stuff.
+DOCTOR: Okay.  The biggest complaint people have is sometimes they get muscle pains.
+PATIENT: Uh-huh.
+DOCTOR: If that's the case then we just stop it and give you a different medication to try.  Um we also need to monitor your liver enzymes.  Sometimes people when they start the medications the liver, your liver processes the drug.
+PATIENT: Right.
+DOCTOR: Sometimes people's livers can respond by increasing the enzymes.
+PATIENT: Uh-huh.
+DOCTOR: And so if it increases too high then we have to stop the drug as well.
+PATIENT: Hmm.
+DOCTOR: So what we do is just test your liver enzymes now and then in six weeks or so again to see if they've gone up um while you're on the medications.  Most people are completely fine.  Sometimes people need to stop it and then there are other things um that don't work quite as well as the statins that's why we start with them first but um, yeah most people tolerate it really well.  Uh any fevers or chills or chest pains?
+PATIENT: No.
+DOCTOR: Your last colonoscopy was in 2000 okay.  You're due for another colonoscopy.
+PATIENT: Now when I took the barium, that you sent me, what was that for?  Is that just a dye or something?  Cause they sent me something in the mail that I had to drink or something when I had a CT scan.
+DOCTOR: Uh yeah that was for the um CT scan.
+PATIENT: That's not a colonoscopy?
+DOCTOR: No.
+PATIENT: Oh.
+DOCTOR: The colonoscopy is a camera study with a camera on kind of like a hose.
+PATIENT: Right.
+DOCTOR: And that they, you know you had it before.
+PATIENT: Yeah.
+DOCTOR: But the, so the barium there was the contrast for the CT scan.
+PATIENT: Oh.
+DOCTOR: So you swallow it and it glows on the scan.
+PATIENT: Oh okay, yeah you drink that terrible stuff.
+DOCTOR: Yeah I'm sure it's terrible.  But the prep for the colonoscopy is not much better um.  I've never had one myself but I've heard it doesn't taste as bad as the barium but it cleans you out.  [REDACTED].
+PATIENT: Yeah.
+DOCTOR: They want you to be clean um.  Yeah I'm trying to think of what other things could be causing the pain.  You know you could have like a small tear inside.  Sometimes in people if they're constipated or their stools are hard, some are actually hard enough to tear the lining.
+PATIENT: Uh-huh.
+DOCTOR: And that causes pain and that can be sort of heal slowly over months.  Sometimes it just tears and if that happens it needs a repair with a stitch [REDACTED].  Um [REDACTED] antibiotics to prevent infection [REDACTED].
+PATIENT: No like 90% there's no pain but when there is, I can feel it.
+DOCTOR: It's possible that you did get a, like you did get a small tear or something um and it just heals slowly.  But given that you had polyps in the past.
+PATIENT: Yeah.
+DOCTOR: You’re due for a colonoscopy regardless.  Um and then because of the um pancreas, you know it could be absolutely nothing but it’s worth following up on just to rule it out.  Um you know it's an incidental finding but…
+PATIENT: Uh-huh.
+DOCTOR: … it’s the kind of thing that if it were something that you haven't found it before, [REDACTED]
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: So more than likely it's nothing but um it's nothing but something that we would advise for right now.  Um, these are the only outstanding things from the last visit, how are things going otherwise?
+PATIENT: Pretty good.
+DOCTOR: Okay.  Um any luck finding work since the last time?
+PATIENT: I'm sorry?
+DOCTOR: Any luck finding work since the last time?
+PATIENT: No.
+DOCTOR: A lot of guys out of work this time.
+PATIENT: We're unemployed.
+DOCTOR: Yeah.
+PATIENT: I'm looking so.
+DOCTOR: Well that's good.  Um any difficulty sleeping at night?
+PATIENT: Every once in a while I have trouble getting to sleep but normally I just get myself tired so I just.
+DOCTOR: Yeah.  Okay good.  Um so we'll start the statin today and I'll put in the request for the colonoscopy.  For the colonoscopy they make you do some more blood work.  They test your electrolytes and that sort of thing.
+PATIENT: Uh-huh.
+DOCTOR: Um your iron studies and stuff like that.
+PATIENT: Uh-huh.
+DOCTOR: So you'll be getting blood drawn beforehand so.
+PATIENT: Okay.
+DOCTOR: And then just doing the prep [REDACTED].
+PATIENT: And that is going to be sent to me again probably?
+DOCTOR: I'll put in for it and they should call you with a date to make an appointment um.  You don't take aspirin.  You should probably be on a daily aspirin uh I wouldn't start it before the procedure.
+PATIENT: Uh uh.
+DOCTOR: Okay so don't start it now.  They'll want you to stop it five days before the colonoscopy.
+PATIENT: But I should be taking aspirin?
+DOCTOR: Yeah I think so um.  Yeah they found that it's just for heart health it decreases the risks of stroke and heart attacks.
+PATIENT: Hmm.
+DOCTOR: So it's 81 mg daily, just the tiny baby size.
+PATIENT: Uh-huh.
+DOCTOR: Uh they think that it decreases the risk of forming blood clots and things like that and people seem to tolerate it pretty well.
+PATIENT: Okay.
+DOCTOR: It looks like you're probably taking two extra pills, the statin.
+PATIENT: Okay.
+DOCTOR: The aspirin and then the colonoscopy and CT scan.
+PATIENT: Okay.  So I got to get another CT scan?
+DOCTOR: Yeah just of the pancreas.
+PATIENT: Okay.
+DOCTOR: The one we did was from here to here, kind of the broad, wide view.
+PATIENT: Right.
+DOCTOR: This one will be more narrow.
+PATIENT: Okay.
+DOCTOR: With more details.  Alright can I get a quick listen to you?
+PATIENT: Okay.  Should I sit over here?
+DOCTOR: Yes, please. Um.
+PATIENT: Do I have to uh pick up anything today or will it be mailed to me?
+DOCTOR: We can have you pick up the Lipitor today, the simvastatin.  Otherwise we can mail it to you.
+PATIENT: Yeah.
+DOCTOR: Do you want us to mail it to you?
+PATIENT: Yeah if you don't mind.
+DOCTOR: Yeah sure.
+PATIENT: [REDACTED]  How about blood work today, do I have to do it today?
+DOCTOR: You don't have to do it today, just before you get the colonoscopy.  I put the order in the lab and you can go in and get it.
+PATIENT: Okay.
+DOCTOR: It'll just be a standing order.
+PATIENT: Alright.
+DOCTOR: If they don't see the blood work when they get the consult.
+PATIENT: Uh-huh.
+DOCTOR: They'll reject it.
+PATIENT: Oh okay.
+DOCTOR: So get it sooner rather than later, can you come in Monday or Tuesday?
+PATIENT: Of this week?
+DOCTOR: This coming week yeah?
+PATIENT: Oh.
+DOCTOR: You know what we can do instead is I'll order the blood work.
+PATIENT: Uh-huh.
+DOCTOR: And then you get it whenever you want to and then I'll put in the order for the colonoscopy after we've received the blood work.
+PATIENT: Yeah.
+DOCTOR: Then they don't reject it.
+PATIENT: Right, right.  That'd be better.
+DOCTOR: Okay, I'll do that.  Take a couple of deep breaths.  [REDACTED].  Okay.  Couple of deep breaths.  Okay.  You can breathe normally while I listen to your heart.  Okay.  Can you lie back for me please?  Any pain up here?  It hurts?
+PATIENT: Oh it hurts right in here.
+DOCTOR: Do you ever get heartburn or reflux-type symptoms?
+PATIENT: Yeah I've had them before too.
+DOCTOR: Just right in the middle?
+PATIENT: Yeah.
+DOCTOR: Have you ever tried omeprazole or any other kind of heartburn medications?
+PATIENT: Oh no not really.
+DOCTOR: Okay.  Right here in the middle?  A little bit more?
+PATIENT: Yeah.
+DOCTOR: A little more, here?
+PATIENT: Right around in here so, you know.
+DOCTOR: Okay.  How much alcohol do you drink?
+PATIENT: Hmm hardly any.
+DOCTOR: You can sit up.  Um alright.  So one of the things it could be is uh acid reflux um.
+PATIENT: I do have a history of that.
+DOCTOR: Yeah.  Do you want to try some medication for it?  We could do two weeks and see if it calms it down.
+PATIENT: No.
+DOCTOR: Either that or try avoiding spicy foods and that kind of thing.
+PATIENT: Yeah maybe I should just try avoiding foods.
+DOCTOR: Okay.  Whichever you decide to do, if it's still bothering you next time then uh you we could always think about trying something.
+PATIENT: Yeah.
+DOCTOR: Do you get it lying down?
+PATIENT: Sometimes I have it laying down yeah.
+DOCTOR: Is it worse after meals?
+PATIENT: Right after meals but then it goes away.
+DOCTOR: Does it wake you up at night?
+PATIENT: It used to.
+DOCTOR: Okay.  But it's been okay recently?
+PATIENT: Been okay recently.
+DOCTOR: Alright.  We could take it slow um.  There's a couple of over-the-counter things that work pretty well.
+PATIENT: Uh-huh.
+DOCTOR: Um you know the Prevacid.
+PATIENT: Yeah.
+DOCTOR: Um that's the same medication we give here it's just a weaker dose, you can get like a two week course and sometimes when people get.
+PATIENT: Yeah I used to get samples of those.
+DOCTOR: Yeah.  Unfortunately, we don't have any samples at the VA um but uh we could get you [REDACTED].
+PATIENT: Okay.
+DOCTOR: Uh let me just run this stuff by my attending and uh I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: Any questions?
+PATIENT: Um not at the moment.
+DOCTOR: Okay.
+(DOCTOR OUT:  41:38  DOCTOR IN:  49:05
+PATIENT: (Knock on door)  Hello.
+DOCTOR: Okay so, we'll start the simvastatin um and then we'll get you a colonoscopy.  I think the last time you were here you got a urine test.
+PATIENT: Yeah.
+DOCTOR: To see if there were any white blood cells.  When you get your labs can you get another urine test to see we can catch anything now that you’re off antibiotics? Just to be on the safe side?
+PATIENT: Uh-huh.
+DOCTOR: Okay so that's good.  We'll send you the medication called simvastatin.
+PATIENT: Okay.
+DOCTOR: Um so we'll have you do the labs and you'll get a call about the colonoscopy.
+PATIENT: Okay.
+DOCTOR: And the CT, I'll put in and they should call you [REDACTED].
+PATIENT: Okay.  And the phone number, do you have my home phone?  PHONE NUMBER.
+DOCTOR: Yeah.
+PATIENT: A better number is my cell phone.  I can give that to you.
+DOCTOR: Okay.  Do you, I can't um edit this.
+PATIENT: Oh okay.
+DOCTOR: You can give it to them at the front desk and ask them to put it in for me when you sign out.
+PATIENT: Oh yeah sure, I can do that.
+DOCTOR: I'd like to see you back probably three months.  If there's anything pressing.
+PATIENT: Uh-huh.
+DOCTOR: I'll call you before that and we'll get you in sooner.
+PATIENT: Okay.
+DOCTOR: But otherwise we'll see what the lab shows.  So you're doing the labs in the next week.
+PATIENT: Okay.
+DOCTOR: And then we'll repeat your liver enzymes and check that.
+PATIENT: Okay.
+DOCTOR: And repeat this to see if the so um.  I'm sure they'll call you on the CT scan and the colonoscopy.
+PATIENT: Okay.
+DOCTOR: You can go to the lab any day to get your labs drawn.  Um sooner rather than later, if you can get them next week that'd be great then we can get the colonoscopy in a week or two and then recheck labs again.
+PATIENT: Okay.  So some time next week I just come in for those?
+DOCTOR: Yeah just go to the Lab downstairs, [REDACTED].
+PATIENT: Right.  So I don't have to have an appointment for that?
+DOCTOR: Nope, just come in.
+PATIENT: And they know what.
+DOCTOR: Yeah it'll be in the computer so you give them your name and everything will pop up.
+PATIENT: Okay.
+DOCTOR: So we've got labs um oh and uh [REDACTED].  Should be one pill a day.
+PATIENT: Okay.
+DOCTOR: So that's something they give it at night.  They actually found that the body makes more cholesterol while you sleep so take it before bed.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Hmm.  Okay.  So let's say I do it basically, just come in any time and get the blood work done.  Now when I get the CT test done they're going to do some more blood work right on the day or whatever.
+DOCTOR: Uh.
+PATIENT: Or do I have to.  I won't have to take any kind of dye for this time or?
+DOCTOR: To do this contrasting again?
+PATIENT: The CT.
+DOCTOR: Yeah they probably have to.
+PATIENT: Do they have to do the dye again?
+DOCTOR: I don't think they use any dye for the bowel, you know the drinking dye.
+PATIENT: Yeah.
+DOCTOR: They'll probably give you the IV dye.
+PATIENT: Oh yeah well that's no problem.  The other wasn't a problem either but.
+DOCTOR: Yeah it depends.  If you're not looking directly at the uh intestines, it shouldn't have to be the oral dye.
+PATIENT: Uh-huh.
+DOCTOR: But I'm not 100% sure okay.  [REDACTED].
+PATIENT: And then the colonoscopy is something different.
+DOCTOR: Yeah the whole clean out of the intestines.
+PATIENT: Right.
+DOCTOR: And so get the labs next week and then they should call to schedule the colonoscopy and the CT scan.
+PATIENT: Okay.
+DOCTOR: And show up and do your labs.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: So um I'll update the phone number because you might not be able to get through on the landline.
+DOCTOR: Yeah give them your cell.
+PATIENT: I'll tell them.
+DOCTOR: You'll be here anyway; I said something in your note so.
+PATIENT: Cause when you call me because.
+DOCTOR: Yes.
+PATIENT: Sometimes the phone just goes out and huh you might get a busy signal.
+DOCTOR: Sure.
+PATIENT: So my cell phone is PHONE NUMBER.
+DOCTOR: Uh-huh.  Okay.
+PATIENT: I'll be able to answer that.
+DOCTOR: And then [REDACTED] bowel cleanse.  Do you follow with Mental Health here?
+PATIENT: Uh yes.
+DOCTOR: Okay.  So do they do the.
+PATIENT: I'm on medication with that too.
+DOCTOR: Uh-huh.  Oh you've seen them recently.
+PATIENT: Yeah I see them now.
+DOCTOR: Okay good.  Alrighty.  If there's anything else um.
+PATIENT: Yeah I'm in the middle of a [REDACTED] with PTSD.
+DOCTOR: Oh yeah.
+PATIENT: And then I guess I'm seeing my psychologist, psychiatrist again pretty soon, the end of this month I think.  I got to look and actually see.
+DOCTOR: Okay you're all set.
+PATIENT: Okay thank you very much.
+DOCTOR: Okay, take this to the front desk on the way out.
+PATIENT: Okay.
+PATIENT: 57:27
+Time is 2:50 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238129
+TRANSACTION # 578-10-2-316-0103

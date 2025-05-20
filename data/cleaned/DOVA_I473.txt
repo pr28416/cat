@@ -1,0 +1,282 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.  Your collar is unbuttoned there.  More, you got more?  Uh-huh.
+DOCTOR: How are you doing today?
+PATIENT: Pretty well.
+DOCTOR: Well go ahead and have a seat.  How you feeling today?
+PATIENT: Pretty well in one sense and the other sense I got a terrible pain in my arm but then.
+DOCTOR: What happened there with your arm?
+PATIENT: A car accident.
+DOCTOR: Oh no.  When was that?
+PATIENT: When was it?
+DOCTOR: Uh-huh.
+PATIENT: 15th of last month.
+DOCTOR: 15 of last month.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  What happened to your arm?
+PATIENT: Oh it got broke here.
+DOCTOR: Oh okay.
+PATIENT:
+DOCTOR: put a pin in it.  But it swelled quite a bit.
+DOCTOR: Yeah.
+PATIENT: I was wishing that I could get something to help it go down.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Who, where did you get the pin done?
+PATIENT: Christ Hospital.
+DOCTOR: Christ okay.
+PATIENT: Uh-huh.
+DOCTOR: So it was on the 15th of January, oh that must have been terrible.  Did they, they didn't cast it?  You don't have a cast on?
+PATIENT: Uh uh.
+DOCTOR: Now why did they do that?  I wonder hmm.
+PATIENT: I'm not the doctor, please don't ask me.
+DOCTOR: That's okay.  And when was the operation?
+PATIENT: They did the operation on the 20th.
+DOCTOR: On the 20th okay.
+PATIENT: Uh-huh.
+DOCTOR: Alright.  What are you taking for the pain?
+PATIENT: I think they gave me Vicodin; I brought the medicine they gave me.
+DOCTOR: Thank you.
+PATIENT: That's the pain med, for iron.
+DOCTOR: Yeah.  Did they give you the iron?
+PATIENT: Hmm?
+DOCTOR: Did they give you this iron here?
+PATIENT: They gave me both of them.
+DOCTOR: Yeah I wonder why they gave you iron?  Are you taking iron?  Well I don't think you're taking iron with us.
+PATIENT: No I’m not taking iron with you.
+DOCTOR: They must have thought you needed it for some reason huh.
+PATIENT: Probably had I lost so much blood.
+DOCTOR: Ah okay.
+PATIENT: But I needed some iron tablets.
+DOCTOR: So have you been taking this?  Is it making you constipated, this iron?
+PATIENT: Yeah, yeah.
+DOCTOR: Are you taking it three times a day?
+PATIENT: I take whatever it says.
+DOCTOR: Thank you.  Alright now um your blood pressure's a little low um.
+PATIENT: Oh.
+DOCTOR: Yeah.  Are you feeling dizzy at all?
+PATIENT: I wasn't feeling the best this morning.  I guess I was a little dizzy.
+DOCTOR: Did you eat breakfast this morning?
+PATIENT: No I didn't.
+DOCTOR: Okay that might have something to do with it.
+PATIENT: No I thought I had to have some lab work done so I hadn't eaten nothing since 12 o'clock last night.
+DOCTOR: Oh okay.
+PATIENT: Just then I just had a cup of water a few minutes ago.
+DOCTOR: Okay.
+PATIENT: But no I hadn't eaten nothing.
+DOCTOR: Okay let's see um see if we need to get lab work done.
+PATIENT: I went over there to check and they said “No.”
+DOCTOR: Yeah just give me a little bit.  Okay um now uh no chest pain, shortness of breath?
+PATIENT: Not really.
+DOCTOR: Not really.  Um you're not feeling.
+PATIENT: But this whole side over here is sore and I guess it is sore cause I been carrying my arm a certain way.
+DOCTOR: Yeah.
+PATIENT: Okay so I can't really say I'm not having chest pain or short of breath.  I am a little sore on this side.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Were you the one driving the car?
+PATIENT: I was driving the car but somebody hit me.
+DOCTOR: Someone hit you okay.  Um okay, let's see here.  Um and did you take your blood pressure pills this morning?
+PATIENT: Took all of my medicine this morning.
+DOCTOR: Okay.  And you're still taking the water pill?
+PATIENT: Yes.
+DOCTOR: Okay and how have your sugars been at home?
+PATIENT: My sugars been running between 115 and 120.
+DOCTOR: 115 and 120.
+PATIENT: 119 this morning.
+DOCTOR: Any numbness or tingling in your feet?
+PATIENT: Numbness or tingling?
+DOCTOR: No.
+PATIENT: Uh uh.
+DOCTOR: And you just saw the podiatrist and the eye doctor.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  How long have you had that pacemaker now?  Or the device?
+PATIENT: Pacemaker I had that since 2008.
+DOCTOR: Okay.  Alright um, so a couple things um you are due for some lab work but you don't need to be fasting for it.
+PATIENT: Right.
+DOCTOR: The other thing is um you were due for a repeat colonoscopy, you know what that is for the colon cancer screening?  Um so we'll start setting that up and they'll probably call you about when to set that up.  It's to check for colon cancer.
+PATIENT: Okay.
+DOCTOR: Okay.  Um let me see, [REDACTED].  Check you A1c, let's see um and you know the last time you were here we talked about um that you are having problems sort of with [REDACTED] that you were getting tired quicker.  Do you feel like that's happening still?
+PATIENT: Uh-huh.
+DOCTOR: Not necessarily?
+PATIENT: Uh it's still happening but not as bad as it was.  Let me put it this way I haven't been running up and down stairs lately.
+DOCTOR: Okay.
+PATIENT: Okay so I can't really say.
+DOCTOR: Why don't you just have a seat here.  I just want to take a look at you.
+PATIENT: Okay.
+DOCTOR: So do you think your arm is more swollen than when you had the surgery or is it getting a little bit better?
+PATIENT: No it's more swollen now and it actually getting much heavier.
+DOCTOR: Okay.  I'll look at it.
+PATIENT: Hmm.
+DOCTOR: You can just relax.  Do you smoke sir?
+PATIENT: Yeah, yeah I smoke.
+DOCTOR: Do you want to quit?  We have the Cessation Clinic here if you want you know with patches and gums and things like that if you're interested.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  It's be good for your heart.  Deep breaths.  Do your legs ever swell?
+PATIENT: Uh-huh.
+DOCTOR: Yeah.  Now is this more than usual or about the same?
+PATIENT: Uh a little bit more than usual.
+DOCTOR: Now when you sleep at night can you lay flat or do you have to sit up?
+PATIENT: Oh, no I normally sleep on two or three pillows.
+DOCTOR: Two, three pillows.
+PATIENT: Uh-huh.
+DOCTOR: So does it feel real tight, your arms?
+PATIENT: Yes it feels real tight.
+DOCTOR: Okay.  Let me just take a look.  When are you seeing them again over at Christ?
+PATIENT: When do I see them again?
+DOCTOR: Yeah.  Do they have a follow-up with you?
+PATIENT: On the 15th.
+DOCTOR: 15th okay.
+PATIENT: You say you want to see this?
+DOCTOR: Yeah.
+PATIENT: Pull that down a second.  I need a little help.
+DOCTOR: Sure.  Okay, is that alright?  Okay.  Well so, the medicine I can give you for the swelling, I just want to make sure.  Do you have a lot of pain going all the way down your arm or the?
+PATIENT: Yeah [REDACTED].
+DOCTOR: Can you feel these fingers okay?
+PATIENT: Yeah I feel them.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay here, good okay.  Now um there's a thing called compartment syndrome where if there's so much swelling in your arm and you can't get it off, so that would be like a lot of pain you know excruciating pain um the medicine we give for to decrease swelling can sometimes affect the kidneys so I'm going to talk to DOCTOR and make sure cause your kidney function is not normal, it is not in a bad place but it is not normal and that is probably from the diabetes [REDACTED] blood pressure and stuff like that.
+PATIENT: Okay.
+DOCTOR: Okay.  Well let me talk to her.  You can keep your jacket off and I'll help you put it back on after I have her, she's going to come in and talk with you as well okay.
+PATIENT: Okay.
+DOCTOR: So where did you lose the blood from?  The break in the arm, is that right?  Okay.
+(DOCTOR OUT:  23:40  DOCTOR IN:  34:10)
+DOCTOR: Hey PATIENT.
+PATIENT:
+DOCTOR: are you?
+DOCTOR: Great, how are you?
+PATIENT: Oh I would be better if this wasn’t.
+DOCTOR: So where is the surgery?
+PATIENT: Right here, right in there.
+DOCTOR: Okay.  Is the wound is okay?
+PATIENT: Uh-huh.
+DOCTOR: Wound is healing?
+DOCTOR: You know where they cut, is it oozing or anything or does it look clean when you have unwrapped that?
+PATIENT: No [REDACTED] enough, uh-huh.
+DOCTOR: No is the swelling worsening or is it the same?
+PATIENT: Much worse, absolutely.
+DOCTOR: [REDACTED] okay.
+DOCTOR: Are you having any dizziness or anything?
+PATIENT: No.
+DOCTOR: Did you hurt anywhere else besides the arm?
+PATIENT: No.
+DOCTOR: This is the only place where you got hurt.  No head trauma, no bleeding, no hurting anywhere else?
+PATIENT: Uh uh.
+DOCTOR: Okay.  How's your breathing?
+PATIENT: Breathing's okay.
+DOCTOR: No chest pain?
+PATIENT: No.  [REDACTED].
+DOCTOR: Just a venous Doppler right?
+DOCTOR: Yes, exactly um.  And who is the doctor?  Do we have the doctor’s information?
+PATIENT: DOCTOR.
+DOCTOR: Okay.  Go ahead and pull it up, just try to check that wound and make sure that it’s okay.  Go ahead and pull down the, you are changing the dressing or they are changing the dressing?
+PATIENT: Well I've been changing the dressing.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: DOCTOR [REDACTED] down there.
+(DOCTORS TALK ABOUT PATIENT BETWEEN THEMSELVES)
+(DOCTOR OUT:  37:38  DOCTOR IN:  39:53)
+DOCTOR: Okay.  [REDACTED] the VA.  Oh, sorry about that.  So your wife's helping you at home?
+PATIENT: Uh-huh.
+DOCTOR: Good.  That's terrible.  I was in a car accident about seven months ago.  I didn't get my car back for like three weeks.  It was that [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: So was your car totaled?
+PATIENT: [REDACTED].
+DOCTOR: What’s the plan with that? What was the person, what were they doing?  Were they just, no drinking or anything?
+PATIENT: Drinking and driving.
+DOCTOR: Oh no.
+PATIENT: [REDACTED].
+DOCTOR: Gosh.  What time of day was it?
+PATIENT: 11 something, I.
+DOCTOR: Did they run a stop light or anything or what?
+PATIENT: Something I don't remember.
+DOCTOR: Okay.
+PATIENT: One block from the house.
+DOCTOR: Oh my gosh.  Sorry about that.
+PATIENT: No problem.
+DOCTOR: Okay.  Okay, let me just grab DOCTOR okay.
+PATIENT: Okay.
+DOCTOR: Looks like you've got a lot [REDACTED].  You know does it weep a lot or no?  Not necessarily.
+PATIENT: Huh?
+DOCTOR: Does it weep a lot of fluid?
+PATIENT: Uh uh.
+DOCTOR: Okay.
+PATIENT: This dressing's been on there since yesterday morning [REDACTED].
+DOCTOR: Okay.
+DOCTOR: Wow pretty big trauma huh.  Okay.  I think we leave it [REDACTED].
+PATIENT: [REDACTED].
+(Doctors talk among themselves)
+DOCTOR: So this swelling is worse than before huh?
+PATIENT: Yeah.
+DOCTOR: Do you have the pain?
+DOCTOR: It's swelling [REDACTED].
+(Doctors talk among themselves)
+DOCTOR: Okay so what happened to the arm my friend? Car accident and it’s healing so slowly.  Are you diabetic?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  How's your sugars?
+PATIENT: [REDACTED].
+DOCTOR: Huh?
+PATIENT: Should be okay lately.
+DOCTOR: I see, I have some [REDACTED].  I'll be right back.
+(Doctors talk among themselves.)
+DOCTOR: Okay, that is skin, it's healing slowly, at least non-bleeding, non-oozing, there's no infection and we might debride at one point.  So what do your wife does, does she put the Kerlix with this?
+PATIENT: Uh-huh.
+DOCTOR: She wraps it up.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: [REDACTED] though.
+DOCTOR: Okay just put the [REDACTED], thank you.  [REDACTED] some tape.
+DOCTOR:
+PATIENT: you want your medicine to come to your house?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um the only other thing for the Vascular Lab is in the Damon Building on the third floor.  Are you [REDACTED] in the Damon Building, third floor Vascular Lab.
+PATIENT: Uh-huh.
+DOCTOR: They're just gonna ultrasound your arm to make sure there's no clot since it's swollen so bad okay.  Then you need to tell them to go to the Lab, its okay if you eat something.  These labs will only check to see if you need the iron and will also check your diabetes stuff.  Um would you come back here when you're finished with those two things and just wait here and I'll tell you the results?
+PATIENT: Okay.  Labs down here.
+DOCTOR: Yeah.
+PATIENT: Okay.  What floor, is it on the 3rd floor?
+DOCTOR: Uh yeah 3rd floor Damon Building yeah.
+PATIENT: Okay.
+DOCTOR: And then do the lab.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Okay sir.
+PATIENT: You could even give me a hand.
+DOCTOR: Yeah I will.
+DOCTOR: Okay, alright.
+DOCTOR: Give me just one second.
+DOCTOR: Alright you can go.  Do you want me to [REDACTED]?
+DOCTOR: Oh I did already.  I'm just going to help put [REDACTED].
+DOCTOR: Okay.  Go ahead and do the, they want him now or later?
+DOCTOR: Yes.
+DOCTOR: Okay go ahead and go to the Vascular Clinic.
+PATIENT: Uh-huh,
+DOCTOR: That's the Vascular Clinic, [REDACTED].  It's on the main hospital, the old one.
+PATIENT: Okay.
+DOCTOR: Uh the Damon Building, sixth floor.
+PATIENT: Uh-huh.
+DOCTOR: Sixth floor now Vascular.  Okay, it's on the fifth floor.
+DOCTOR: Sorry about that, it's the fifth floor.
+DOCTOR: Okay and it's called Vascular Lab.
+PATIENT: Okay.
+DOCTOR: Okay and as soon as that is done go to the Lab.
+PATIENT: Uh-huh.
+DOCTOR: Do the blood and then wait out there.
+PATIENT: Okay.
+DOCTOR: I need to check the results before you leave.  And eat and drink some fluids.
+PATIENT: Okay.
+DOCTOR: Okay because your blood pressure is really low so I want them to check it again.
+PATIENT: Okay.
+DOCTOR: Other way.
+DOCTOR: Okay sorry.  Okay.  Okay good up here.
+PATIENT: Uh-huh.
+DOCTOR: Okay so 5th floor Damon Building.
+PATIENT: 5th floor.
+DOCTOR: Damon Building and then the Lab after that and then you come wait and we'll, I'll come get you outside.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: 49:39
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286114
+TRANSACTION # 578-10-2-316-0103

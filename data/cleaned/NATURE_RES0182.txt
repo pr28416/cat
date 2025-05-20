@@ -1,0 +1,98 @@
+DOCTOR: How may I help you?
+PATIENT: Hi, yeah, I'm here because I'm over the past like couple of months I've been losing a lot of weight. Uhm, but I didn't really have any other symptoms, but since like 2 weeks ago I've been coughing up some blood and now I have a fever as well.
+DOCTOR: OK, so you mentioned you notice the weight loss first. How much weight have you lost? Or roughly?
+PATIENT: I've lost about 30 pounds in the past, past like 8 months.
+DOCTOR: OK. So, and have you been trying to lose weight?
+PATIENT: No.
+DOCTOR: OK and, any, like any changes to your diet or exercise?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and more recently you started to have a cough. When did that start?
+PATIENT: The cough started two weeks ago.
+DOCTOR: OK. And prior to this, did you have a cough?
+PATIENT: No.
+DOCTOR: No. And are you bringing bringing up any sputum or phlegm?
+PATIENT: Uh yeah it's yeah, there's sputum for sure and it looks bloody.
+DOCTOR: OK. So you're, you're, you're coughing up blood as well.
+PATIENT: Yes, that's right.
+DOCTOR: OK, uh, and that's been going going on for the last two weeks too?
+PATIENT: Yes.
+DOCTOR: OK. And how much blood have you been bringing up roughly? If you can think of it in like terms of tablespoons or teaspoons.
+PATIENT: Like every time I cough, it's about the size of a teaspoon.
+DOCTOR: OK, and are there any triggers for your cough that you can think of?
+PATIENT: Uhm, I don't think so. They just happen throughout the day.
+DOCTOR: OK, and have you tried anything for the cough?
+PATIENT: I tried this cough suppressants. I tried like salt water rinses, like just like at home remedies and over the counter products, but nothing is helping.
+DOCTOR: OK. And so have you had any like viral infectious type symptoms, such as like eye, eye discharge or red eyes or runny nose or even a sore throat?
+PATIENT: No, nothing like that.
+DOCTOR: OK. And, and have you had any any headaches?
+PATIENT: No, no headaches.
+DOCTOR: OK. Have you had any, have you had a runny nose?
+PATIENT: No.
+DOCTOR: OK, how about any, have you had any loss of smell or, or taste?
+PATIENT: No.
+DOCTOR: OK, have you had any shortness of breath?
+PATIENT: Uh, no.
+DOCTOR: Have you had any wheezing?
+PATIENT: Uhm, no. No wheezing.
+DOCTOR: OK, have you had any chest pain?
+PATIENT: No.
+DOCTOR: OK. Have you had any dizziness or fainting?
+PATIENT: Uhm, no, nothing like that.
+DOCTOR: Heart palpitations?
+PATIENT: No.
+DOCTOR: OK. And have you had any any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any diarrhea or constipation?
+PATIENT: No.
+DOCTOR: Have you had any pain with urination or, or frequency?
+PATIENT: Uh, no.
+DOCTOR: OK, have you had any rashes?
+PATIENT: No.
+DOCTOR: How about muscle aches or body pains?
+PATIENT: Uhm, muscle aches, yeah. Yeah, that's been happening.
+DOCTOR: Any particular muscles? Or is it more general?
+PATIENT: It's more general.
+DOCTOR: Have, have you been having any bone pain like any in your back or anything like that?
+PATIENT: No.
+DOCTOR: OK, and, uh, how has your energy been?
+PATIENT: Ah, pretty low.
+DOCTOR: OK, and how is your appetite been?
+PATIENT: Uhm, also pretty low.
+DOCTOR: OK. And in the in the past have you been diagnosed with any medical conditions?
+PATIENT: Uhm, no, I've been pretty healthy so far.
+DOCTOR: OK. Uhm, so do you take any medications regularly for anything?
+PATIENT: No.
+DOCTOR: OK. And do you have any allergies to medications or, or anything environmental?
+PATIENT: Uh, no.
+DOCTOR: OK, and have you had any prior hospitalizations or surgeries?
+PATIENT: Uhm, no.
+DOCTOR: OK. And, uh, could you tell me a little bit about your living situation currently? Like who you're living with an ah, whereabouts you're living?
+PATIENT: Uhm, I live alone by myself. I live in an apartment downtown.
+DOCTOR: OK, and are you working currently or in school or?
+PATIENT: Um, I'm working from home right now.
+DOCTOR: OK, have you been around anybody who's been sick?
+PATIENT: No.
+DOCTOR: Have you traveled anywhere recently?
+PATIENT: No, not since I moved here.
+DOCTOR: OK, when did you move here and where did you move from?
+PATIENT: I moved here a year back from Sri Lanka.
+DOCTOR: OK. And, and in Sri Lanka, were any of your family members or people that you spent time around ever diagnosed with tuberculosis?
+PATIENT: I mean, it's pretty common in Sri Lanka. None of my immediate family members were.
+DOCTOR: OK. And do you smoke cigarettes?
+PATIENT: No.
+DOCTOR: And ah, do you smoke cannabis or use any cannabis products?
+PATIENT: No.
+DOCTOR: OK. And do you drink alcohol?
+PATIENT: I don't.
+DOCTOR: OK, how about the use of any other recreational drugs?
+PATIENT: Uh, no.
+DOCTOR: OK. And uh, any family history of heart or lung problems?
+PATIENT: Heart or lung? Uh, no, not that I know of.
+DOCTOR: OK, and how about any cancers in the family?
+PATIENT: No, no cancers.
+DOCTOR: I see, alright. Did you have any other questions for me today? I think that was everything I wanted to ask about for now.
+PATIENT: Ah no, what do you like, what do you think I have, and how do you think I should treat it?
+DOCTOR: So, uh, yeah, it's sounding like, like it could be tuberculosis based on the kind of timeline of your symptoms and so and cough and hemoptysis and so we'll do a test for that, like an acid fast test of the sputum. Get a chest X Ray. And if it is tuberculosis, it will require a prolonged course of antibiotics, so that I'll be over several months. Umm, and so I we'll get the infectious disease team involved to help kind of guide our management with the appropriate antibiotic choice, if it does come back to be tuberculosis.
+PATIENT: OK. OK, that sounds good, thank you.

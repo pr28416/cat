@@ -1,0 +1,254 @@
+DOCTOR: PATIENT.
+PATIENT: Right here.  Right.
+DOCTOR: PATIENT.  You used to see DOCTOR right?
+PATIENT: Well I think so yeah.
+DOCTOR: Alright have a seat.
+PATIENT: Okay.
+DOCTOR: How have you guys been?
+PATIENT: Just fine.  Pretty good.
+SECOND PERSON T348
+Good.
+DOCTOR: [REDACTED].  Okay.
+PATIENT: What was that?
+DOCTOR: Nice to meet you again.  So I was just reading here you went to the ER recently.
+PATIENT: No that's not real recent, that was like the last time.
+DOCTOR: Alright that was about a year ago.
+PATIENT: Yeah.
+DOCTOR: Yeah you're right.  You haven't been here in a while.
+PATIENT: That's right.
+DOCTOR: Yeah.  Alright.  So there were no more episodes where you fainted or anything like that?
+PATIENT: Oh no, no.
+DOCTOR: Okay.
+PATIENT: That was bad.
+DOCTOR: Okay.
+SECOND PERSON T348
+It’s only when he had blood drawn.  He actually kind of [REDACTED].
+DOCTOR: Every single time?
+SECOND PERSON T348
+Pretty much yeah.
+DOCTOR: Okay good.  Okay.  How have things been going at home?
+PATIENT: Oh what?  I just finished writing my thesis.
+DOCTOR: Oh okay.
+PATIENT: And I'm gonna defend next week.
+DOCTOR: Great.
+PATIENT: So.  It's been a tough week.
+DOCTOR: So at least it's done.
+PATIENT: Yeah well I was up for like 30 hours like last week and then I was gonna be getting up like on Thursday and then later I think from Sunday to Monday I was up for another 24 hours so it's been a little rough.
+DOCTOR: Okay.  What medications are you taking?
+PATIENT: Uh well I ran out of medicines but what I had been on was I had been on I think it's the ARB inhibitors.
+DOCTOR: Uh-huh.
+PATIENT: With the.
+DOCTOR: Losartan.
+PATIENT: Losartan right and then I was on fish oil pills.
+DOCTOR: Uh-huh.
+PATIENT: And then the other thing that I was on uh like.
+DOCTOR: Chlorthalidone?
+PATIENT: Yeah chlorthalidone but I really didn't like that one.
+DOCTOR: Okay.
+PATIENT: The one previous to that, I'd been on.
+DOCTOR: Hydrochlorothiazide.
+PATIENT: Yeah the hydrochlorothiazide was better.
+DOCTOR: When was the last time you took any of these?
+PATIENT: Uh like a month ago is when I ran out.
+DOCTOR: Okay and you take fish oil how many times?
+PATIENT: Uh I would, I was taking those twice a day.  Uh like uh two pills.
+DOCTOR: Okay.  And were you taking amlodipine?
+PATIENT: Uh no.
+PATIENT: That was the one prior; I think that was in um what do they call it.  So there’s the [REDACTED] but there was another one before that that I took that didn't seem to work very well not AR the other one.
+DOCTOR: ACE inhibitor?
+PATIENT: ACE inhibitor yeah it was an ACE inhibitor that was it.  It made me cough a little bit.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+SECOND PERSON T348
+And then they put you on another thing at that time.
+DOCTOR: Yeah I know that's what it was called.
+PATIENT: Oh that's right, I remember now.  There was also the amlodipine [REDACTED] no it was a different one.
+DOCTOR: Okay.  And you haven't been taking that right?
+PATIENT: No.  I ran out of everything and I didn't have another appointment for a while.
+DOCTOR: Okay.  Alright.  Okay and I saw that your blood pressure was high.
+PATIENT: Yeah I've never had it that high before, that's crazy.
+DOCTOR: Do you check it at home?
+PATIENT: Uh I should but I haven't been no.
+DOCTOR: Do have a monitor?
+PATIENT: I do have one.
+DOCTOR: Okay, okay.
+PATIENT: Yeah.
+DOCTOR: And we're due for labs, the yearly labs.  But you faint every time huh?
+PATIENT: Pretty much.  It's not every time but it's.
+DOCTOR: And there's just so many [REDACTED] of passing out.  Is it because you don't eat or?
+PATIENT: No, they only draw the blood and then about two minutes later then I pass out.
+DOCTOR: Okay.
+PATIENT: Yeah. It’s weird.
+DOCTOR: Yeah.
+PATIENT: All of a sudden.
+SECOND PERSON T348
+This happened [REDACTED].
+PATIENT: So the last time I was in.
+SECOND PERSON T348
+The last time it was [REDACTED].
+PATIENT: Yeah the last time it was terrible.
+SECOND PERSON T348
+This is why I came today.
+PATIENT: Because then I pass out for like five minutes and stuff like that.
+DOCTOR: Okay.
+PATIENT: And that's why they rolled me down to the ER because I didn't wake up right away.
+SECOND PERSON T348
+Maybe they can elevate his feet.
+DOCTOR: Yeah maybe.
+PATIENT: Whatever.  That's just why I don't like it very much.
+DOCTOR: Okay.  Okay.  Let me listen to your heart and lungs.  What did you do your thesis on?
+PATIENT: Uh graphite and diamonds.
+DOCTOR: Oh wow.  Deep breath, good, again, alright.  So it's geology that you're into?
+PATIENT: Uh no actually I'm a chemist.
+DOCTOR: Chemist okay.
+PATIENT: So yeah.
+DOCTOR: And do you smoke?
+PATIENT: No.
+DOCTOR: Drink or anything like that?
+PATIENT: I don't smoke.  The only time I drink is like maybe once a month [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: So.  Very occasionally.
+DOCTOR: No illicit drug use?
+PATIENT: Nope.
+SECOND PERSON T348
+He [REDACTED].
+PATIENT: Well this is an intereting case study.  What do you get after you write a thesis?
+DOCTOR: Any kids at home?
+PATIENT: None.
+SECOND PERSON T348
+[REDACTED] before your thesis [REDACTED].
+PATIENT: Oh they have, they have [REDACTED] yeah.
+SECOND PERSON T348
+They have the formula.  They have a formula.
+PATIENT: Yeah this at the Ph.D. Program.
+DOCTOR: What do you not like about the chlorthalidone?
+PATIENT: Uh it causes erectile dysfunction so.
+DOCTOR: Okay.
+PATIENT: It was because of that yeah, absolutely.  Uh the other thing is it will make me slightly dizzy on occasion and uh let's see what else.  I think it also just made me feel generally bad.  I don't to say like depressive but not feel, like low energy I guess.
+DOCTOR: Uh-huh.
+PATIENT: Is the way I'd describe it.
+SECOND PERSON T348
+[REDACTED].
+DOCTOR: I'll talk to DOCTOR; he's one of the attending physicians here.  But I'm thinking we'll probably restart you on some of your blood pressure medicines and have you follow up with the nurse for a blood pressure check okay.  Um.
+PATIENT: Yeah okay.
+DOCTOR: So we could always put you on the hydrochlorothiazide if you like that better than the chlorthalidone.
+PATIENT: Yeah definitely that was better than the chlorthalidone.
+DOCTOR: Okay.
+SECOND PERSON T348
+Oh yeah and is there any [REDACTED] Nephrology people or do you need that?
+PATIENT: [REDACTED] they generally like to have.
+DOCTOR: Chemistry.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: But I'll try to set up, yeah a urine sample for the nephrectomy.
+DOCTOR: Okay.
+PATIENT: I'm supposed to see those guys like next month or something.  Based on [REDACTED].
+DOCTOR: Yeah.  Okay, I'll be right back.
+DOCTOR: 13:25   DOCTOR IN:  25:24
+DOCTOR: Alright.  [REDACTED].  I'm gonna start you again on the hydrochlorothiazide, not the chlorthalidone.
+PATIENT: Okay.
+DOCTOR: Uh and you can get a combo pill, your Losartan is a combo pill, just give you one pill.  And I think okay.  So whenever you get your blood drawn, ask if you can lie down completely.
+PATIENT: Yeah, so I figure [REDACTED].
+DOCTOR: But just tell them [REDACTED] ooh every sit.
+SECOND PERSON T348
+[REDACTED].
+DOCTOR: Just ask if you can lie down before and then once you're done give yourself a couple minutes and then get up.
+PATIENT: Yeah I think that's probably the wise idea.
+DOCTOR: Yeah.
+PATIENT: So lame.
+SECOND PERSON T348
+It really bothers him.
+DOCTOR: Okay I'll put you on the hydrochlorothiazide take 25 and the Losartan you were taking 100.
+PATIENT: Uh-huh.
+DOCTOR: So you just take two pills so there's a combo pill that has both your medicines in it and you just take two pills of that in the morning.
+SECOND PERSON T348
+So you take it, the dose is two pills.
+PATIENT: The dose is two pills once per day.
+DOCTOR: Uh-huh yeah.  So each pill has 12.5 of hydrochlorothiazide and 50 of the Losartan.
+PATIENT: I got it, gotcha.
+DOCTOR: (Someone knocks on the door)  Come in.  Okay thank you.  Okay and then I'm gonna have you check your blood pressure at home and then the nurse can call you in a couple of weeks.
+PATIENT: Okay.
+DOCTOR: And just ask you what it is.  That way you don't have to come back in.
+PATIENT: Okay.
+DOCTOR: And if it's not controlled we might just start you on amlodipine again.
+PATIENT: Okay.  I'll start tracking.
+DOCTOR: Alright.  So I put your labs in [REDACTED] and that should be good enough for the renal people.  They'll ask you for some urine.
+PATIENT: Okay.
+DOCTOR: I'll put everything they might want in.  Do you have any other questions?  Do you need anything else?
+PATIENT: Uh just um, I think there were two things.  So the first thing is what's the point of contact if I run out of medicine again that I can get a hold of you?
+DOCTOR: You can call here, the nurses or and they can usually just have the doctors like usually DOCTOR can refill it from here.
+PATIENT: Okay alright so just call the Green clinic.
+DOCTOR: Uh-huh.
+PATIENT: And that'll work it out.
+SECOND PERSON T348
+And then the thing if he decides something in the combo pill doesn't work like the other one did or something he works with, he's unhappy with.
+DOCTOR: Uh-huh.  And I plan to see him back in two months just to like sort that out.
+PATIENT: Okay that's fine yeah.
+DOCTOR: Okay.  This is, once we sort it out and as long as you're stable you can just come like a regular doctor's visit once a year.
+PATIENT: Okay sure.
+DOCTOR: Okay.  But just to check on your meds and everything.
+PATIENT: No that makes sense.
+DOCTOR: Alright.  Any other questions?
+PATIENT: No it's just uh [REDACTED].
+DOCTOR: The fish oil.
+PATIENT: Oh yeah fish oil is probably a good thing to put me on.
+DOCTOR: Yeah.
+PATIENT: Is there um uh so I have been having like acne issues.  I was wondering if it was possible to see a dermatologist?
+DOCTOR: Yeah you should be able to come in and see them.  Let me get  your fish oil [REDACTED].  You remember if it was 1000?
+PATIENT: Yeah it was 1000.
+DOCTOR: Twice a day.
+PATIENT: Twice a day.
+DOCTOR: Okay and I can put in a referral for the dermatologist but um let me see if I can give you something.  Have you tried anything before?
+PATIENT: Oh my God.
+SECOND PERSON T348
+He has been dealing with this.
+PATIENT: Years.
+DOCTOR: Years.
+PATIENT: Yeah when I was in high school I started out on tetracycline and then that got moved up to minocycline at some point.
+DOCTOR: Uh-huh.
+PATIENT: Uh so it's kind of been [REDACTED].
+DOCTOR: Have you tried like Retin A and all that other stuff?
+PATIENT: Yeah they did try Retin A once that was kind of nasty.
+DOCTOR: Yeah.
+PATIENT: Not good.
+DOCTOR: Dried you out pretty good.  Have you tried, but can [REDACTED] and see if that works.  Do you think it [REDACTED] some kind of service connection for [REDACTED].
+PATIENT: I think I'm like at 0% for derm.
+DOCTOR: You're at 0% for derm?
+PATIENT: Yeah.
+DOCTOR: I don’t think that'll work, let me just see.  Have you tried, so you've tried hydrogen peroxide, you've tried?
+SECOND PERSON T348
+And he's tried a lot of things but given his long history, we felt that he should see Derm regularly.
+DOCTOR: Yeah.
+SECOND PERSON T348
+[REDACTED].
+DOCTOR: Yeah and he can be referred to them and so.  [REDACTED].
+SECOND PERSON T348
+I think it's [REDACTED] acne because it's not just regular acne.  It was really bad when you were in Iraq right?
+PATIENT: That's true, that’s why it’s a 0% service connection.
+DOCTOR: Uh-huh.  And you saw DOCTOR so they'll see you, so I'll put it in.  There you go and okay.
+SECOND PERSON T348
+12.5 [REDACTED].
+PATIENT: It's 12.5 x2, so that's 25 and then the 50 times two is 100.
+SECOND PERSON T348
+So which pill is which?
+PATIENT: So it's 12.5 of the hydrochlorothiazide.
+DOCTOR: Okay yeah I put it in.  Let me put it on here and they can just schedule the appointment.  Specialty clinic, Derm, Neprhology.  That's okay.
+PATIENT: Okay well thanks so much, sure appreciate.
+DOCTOR: No worries.
+PATIENT: So are you a resident here?
+DOCTOR: Uh-huh.
+PATIENT: Oh good luck with everything I hope you survive.
+DOCTOR: I hope so too. What a thing to say!
+PATIENT: Well no I mean I know all the pressure on the MDs and like.
+DOCTOR: Uh-huh.
+PATIENT: And like with your residency.  One of my colleagues, she's a physicist and her husband's a surgery resident.
+DOCTOR: Yeah.
+PATIENT: And you get to hear all the horror stories.
+DOCTOR: Dying yeah.
+PATIENT: Well just the long hours and uh it's you know the tough times.
+DOCTOR: Yeah.  Alright okay.
+PATIENT: Well good luck thank you so much.  Take care.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38313
+TRANSACTION # 578-10-2-316-0103

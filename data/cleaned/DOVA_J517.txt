@@ -1,0 +1,352 @@
+DOCTOR: PATIENT.
+PATIENT: Yes.
+DOCTOR: Sorry about the wait.  I'm not your regular doctor.  I think you see DOCTOR.
+PATIENT: Yeah.
+DOCTOR: Normally um.
+PATIENT: Yep.
+DOCTOR: Is there anything in particular you want to talk about today or is this kind for you still a regular follow-up?
+PATIENT: Uh well I yeah I uh blood pressure.  Every time I come here it is like it's up.  Today it was 150, what was it 160 something and then she checked my right arm and it was 162.
+DOCTOR: Yeah.
+PATIENT: So it's always high and I'm on the, what is that listinol and also omeprazole and I don't know what's going on and why my pressure is up like that.
+DOCTOR: Yeah.
+PATIENT: And then at night uh during the day, rather, my feet swell.
+DOCTOR: Your what swells?
+PATIENT: My feet, both feet swell yeah and uh of course I prop them, sometimes I prop them up at night maybe not all the time but they seem to go down overnight but I don't know if [REDACTED], I don't know.
+DOCTOR: Sometimes as we age our veins aren't as strong.
+PATIENT: Uh-huh.
+DOCTOR: So the fact that you get them during the day and you lay down at night and you bring your leg up so the veins don't have to fight against gravity.
+PATIENT: Uh-huh.
+DOCTOR: The blood can flow back and that's very common.
+PATIENT: Well okay.
+DOCTOR: When you get older.  What do you do about it not much.  There are stockings, compression stockings you can wear to help during the day if you want to.  Some people think they're very uncomfortable.
+PATIENT: Uh-huh.
+DOCTOR: They kind of keep your, the pressure against the veins a little bit tighter so that they can't pool the blood there.
+PATIENT: Uh-huh.
+DOCTOR: And it helps to move the blood back up.  That is an option if you want something like that.
+PATIENT: Okay.  Yeah I wondered why my leg [REDACTED] or something.  Uh I don't, you know it doesn't hurt or anything but I can feel them.  You like when I go to the washroom.
+DOCTOR: Yes.
+PATIENT: I can feel like I feel them swelling.
+DOCTOR: Right.
+PATIENT: You know and it just started um I don't know and it's just started since my pressure's been high.
+DOCTOR: But your pressure's been high I think for quite some time.
+PATIENT: Yeah.  For more than a year, it's been up for a couple of years now and I just retired last February uh and I drove a bus, you know drive there and then wait eight hours a day so I thought that maybe I shouldn't let my feet swell after that well I noticed after we started finding my pressure high that's when I noticed the swelling you know.
+DOCTOR: Let me ask you a few questions so we're on the same page because it's the first time I’m seeing you.  As far as I understanding some of the major issues that you have and doctors follow, you see the Rheumatology Clinic for your arthritis correct?
+PATIENT: Right.
+DOCTOR: Okay and you see the GI Liver Clinic.
+PATIENT: Yes.
+DOCTOR: Because you have a history of Hepatitis C, is that correct?
+PATIENT: Yeah and also like I say I cancer removed May 17th.
+DOCTOR: This past May?
+PATIENT: Uh-huh.  They did surgery to remove cancer in my liver and also they gave me what they called a [REDACTED], yeah I had two spots on my liver.  One they removed and then the other they did a [REDACTED] on it, I forget what they called it where it's just something like a microwave that would kill the cancer that they think was there.  That was done on May 17th.
+DOCTOR: Well after that you had a CT.
+PATIENT: CT scan.
+DOCTOR: You had a CT just recently in October.
+PATIENT: Yeah uh-huh.
+DOCTOR: But it looks like you have another mass in your liver.  Did anybody tell you that?
+PATIENT: No.
+DOCTOR: Yeah.
+PATIENT: They told me everything was okay.
+DOCTOR: Well you saw the Liver Clinic before that.  You saw the Liver Clinic on October 1st.
+PATIENT: Uh-huh.
+DOCTOR: And they said they'd order a CT for you just to make sure [REDACTED] every six months.
+PATIENT: Right yeah.
+DOCTOR: Uh and I don't know if they called you.
+PATIENT: Uh yes she called me then and uh I can't recall when she called me.
+DOCTOR: Okay so I guess their interpretation of this is [REDACTED] they did call you.  They're saying that it looks like a, almost like a bruise what we call a hemangioma on the liver.  But the radiologist said that it's a finding highly suggestive of recurrent hepatocellular carcinoma.
+PATIENT: What does that mean?
+DOCTOR: That means the cancer.
+PATIENT: Uh-huh.
+DOCTOR: What they're seeing on the CT means they're concerned of a recurrence of the cancer.  When DOCTOR called you her thought process, she talked to DOCTOR, I don't know who DOCTOR is, if that's the GI doctor, do you know DOCTOR?
+PATIENT:
+DOCTOR: may be one of the GI doctors I can't remember his name.
+DOCTOR: Yeah he'd be one of the liver doctors.
+PATIENT: Uh-huh.
+DOCTOR: So I think DOCTOR looked at it and thought it does not look like cancer that it looks like a pooling of blood there because of the surgery so from their standpoint I think she's trying to tell you she's not that concerned and just so you know what the official reading was you know.
+PATIENT: Uh-huh, yeah.
+DOCTOR: So from their standpoint it's fine.  You will still need your every six month CT.
+PATIENT: Uh-huh.
+DOCTOR: Um those I think are your biggest issues.
+PATIENT: Hmm.
+DOCTOR: Biggest issues correct?
+PATIENT: Uh-huh.
+DOCTOR: Uh right now I mean.
+PATIENT: Right but on the other finding, the one that thinks that its cancer, somebody thinks that it's cancer.
+DOCTOR: It's the same thing.  The same thing that they see the radiologist thought it looked maybe like cancer again.
+PATIENT: Okay.
+DOCTOR: But the liver doctor looked at it and he thinks it's blood pooling there because you had the surgery.
+PATIENT: Surgery okay.
+DOCTOR: So that's what they think so I obviously would check with them cause they're the ones with the CTs.
+PATIENT: Yeah.
+DOCTOR: And they're the ones that are deciding on treatment for your care.  Um I don't think, you did not have any blood work today is that correct?
+PATIENT: No, correct.
+DOCTOR: Um you're probably due for some blood work for the next time you see DOCTOR so I'll some like your cholesterol.
+PATIENT: Okay.
+DOCTOR: Your kidney disease.  Your blood pressure issue um do you ever get any chest pain?
+PATIENT: No.  I have a pacemaker and uh sometimes I feel my heart beating and pulsating faster.
+DOCTOR: Okay.
+PATIENT: You know and I'm due for a pacemaker check and this one is on the 24th, the 24th of November this month cause they rescheduled it.
+DOCTOR: Okay my thought is that um you don't have an echo of your heart, that's the ultrasound of the heart for many years.  The last one was in 2000.
+PATIENT: Right.
+DOCTOR: 12 years ago.  Uh as we age the heart can get weaker and I know you have a pacemaker and that's good.
+PATIENT: Right, uh-huh.
+DOCTOR: But there are times when the heart can't pump out fluid as well so it backs up and can cause our legs to swell.  Can I see your legs?
+PATIENT: Uh-huh.
+DOCTOR: If that's the issue there's a different medication that may help.  It's called Lasix.
+PATIENT: Uh-huh.
+DOCTOR: Actually, not that bad.
+PATIENT: Good.
+DOCTOR: So the type of edema that you see from a weak heart is different than what you have.
+PATIENT: Uh-huh.
+DOCTOR: You would be able to see my fingerprints in your legs.  So I think this is purely because of your veins and you're kind of correct in saying you're a bus driver cause you drive all day and you're pushing the pedals.
+PATIENT: Yeah.
+DOCTOR: You're exercising your calves.
+PATIENT: Uh-huh.
+DOCTOR: You're pushing blood back up in your veins when you stop.
+PATIENT: Uh-huh.
+DOCTOR: So that's actually pretty common to a lot of people can [REDACTED].  So compression stockings would help.  I can send you those.  I don't think you need anything else right now.  There's another medication, a type of water pill, it makes you urinate a lot.
+PATIENT: Uh-huh.
+DOCTOR: It can help with the edema but I'm not sure that you really need that.
+PATIENT: No I don't need that.  I uh, one reason I have incontinence, what is it continence?
+DOCTOR: Incontinence.
+PATIENT: Incontinence.
+DOCTOR: Yeah.
+PATIENT: Yeah I wear Cunningham clamp and it's my you know but I have to wear this thing 24 hours you to keep me from constantly urinating but to hold it in my bladder.
+DOCTOR: Do you think you've have time to go pick up the stockings today?  Only because they would be able to measure how much pressure of the stocking they should give you?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um and they'll let you know where and he's in Building 228.
+PATIENT: Yeah.
+DOCTOR: Have you been there?
+PATIENT: Prosthetics?
+DOCTOR: Yeah.
+PATIENT: Yeah I was over there last week.
+DOCTOR: So I'll put the order in and you just go there after this.
+PATIENT: Uh-huh.
+DOCTOR: Um and you can get them.
+PATIENT: I need something on my medication.
+DOCTOR: Yeah let's go through them so.
+PATIENT: And also this I haven't had for a while but I don't know if [REDACTED] last year I think it was [REDACTED]@, but I used it on my back and I have this fungus like.
+DOCTOR: Okay.
+PATIENT: And uh it went away but now it's back, you know it comes back again if I use that [REDACTED].  So you got it the list.
+DOCTOR: Yeah we'll talk about it.  And if they mail them to you that's okay?  To mail them?
+PATIENT: Yeah that's okay.
+DOCTOR: Okay so first on my list that I have for you of the medications that I'm giving you, you're taking fish oil.
+PATIENT: Yeah the fish oil I have one refill left.
+DOCTOR: Okay I'll make sure, you keep this I have it on the computer.
+PATIENT: Okay.
+DOCTOR: Then you have the hydrocodone Tylenol that's for pain?
+PATIENT: Uh yeah I haven't been taking that.  They gave it to me when I was released from the hospital.
+DOCTOR: Okay.
+PATIENT: But uh.
+DOCTOR: So you don't even have any refills on it.
+PATIENT: That's and that's Vicodin.  That's Vicodin isn't it?
+DOCTOR: Uh Norco, similar to Vicodin.
+PATIENT: Yeah no I haven't taken that.
+DOCTOR: I think [REDACTED].  So fish oil, that's Latanoprost eye drops are you using them?
+PATIENT: Uh those yes uh-huh.
+DOCTOR: Okay lisinopril every day?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I use that yeah.
+DOCTOR: Metoprolol half a tablet twice a day?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um omeprazole 20 mg every morning?
+PATIENT: Omeprazole yeah right uh-huh.
+DOCTOR: Um psyllium that's the packets.
+PATIENT: Yeah I got two of those I just got some.
+DOCTOR: Okay and then what is this Bactrim for?  The sulfamethoxazole.
+PATIENT: What is that?
+DOCTOR: It's an antibiotic.  It says take for seven days.
+PATIENT: That's sulfamethoxazole?
+DOCTOR: Yeah.
+PATIENT: Uh no that's what I was taking, DOCTOR I think put me on that sulfameth, one of the doctors did.
+DOCTOR: Oh that's been a while.  Are you still taking that?
+PATIENT: No, no.
+DOCTOR: Are you sure?  You not taking it recently?
+PATIENT: No.  I haven't if anything and I don't know I mean.
+DOCTOR: I think she wanted you to be on that because you have so many UTIs.
+PATIENT: Uh-huh.
+DOCTOR: And that's why.  It's kind of a preventative measure for you.  She ordered that a while ago and you still have some active refills.  You haven't gotten it in over a year so you're not taking it but.
+PATIENT: Yeah well maybe I should be taking it then; I didn't know that's what she wanted.
+DOCTOR: Yeah I'm tag her my notes she wanted that but I think that you're supposed to be on that and you have refills so when you don't get it mailed to you you have to call them and say that you need it.
+PATIENT: Okay.
+DOCTOR: The Pharmacy.
+PATIENT: Okay.  So will they mail it to me now?
+DOCTOR: Um I can renew it and mail it but I don't know if she wants you to be on it cause you haven't gotten it in over a year.
+PATIENT: Oh okay.
+DOCTOR: So I'm gonna wait to see what she says.
+PATIENT: Okay.
+DOCTOR: Um, well let me renew it so you get one month's worth at least.
+PATIENT: Okay.
+DOCTOR: If she changes her mind she can just order it.
+PATIENT: Okay she can give me a call or something.
+DOCTOR: Uh then you're on aspirin, full dose aspirin correct?
+PATIENT: No I can't take aspirin anymore.  It starts my nose to bleed uh while I was taking it but I can't take it.  Calcium, calcium, I haven't had that in a while but I would like to take that calcium with the vitamin D.
+DOCTOR: Uh-huh.
+PATIENT: It may be able to help my, my knee just feels like a bone on bone.
+DOCTOR: Yeah.
+PATIENT: You know I'm listening to them.  I had a cortisone shot last week, week before that I think it was [REDACTED] and then at home the other day I wasn’t paying attention and I was bending over and my knee felt, you know it didn't feel like it but I could hear it.
+DOCTOR: Yeah.
+PATIENT: Like bone on top of bone.
+DOCTOR: Yeah.  Yeah you probably do.  I think as we all age we get arthritis.
+PATIENT: Yeah.
+DOCTOR: That's probably happening.
+PATIENT: That cartilage, there ain't no cartilage there.
+DOCTOR: Yep, yep.  Um do you want the calcium vitamin D from here?
+PATIENT: Yes.
+DOCTOR: From the VA?
+PATIENT: Yes right yeah.
+DOCTOR: You're gonna need some a lot of blood work when you see DOCTOR next time okay.  So you need to go over there.
+PATIENT: Okay.
+DOCTOR: Even if nobody calls you and tells you to come over you should come in early and go to the Lab.
+PATIENT: Okay.  Will do.
+DOCTOR: So I think the vitamin D and the calcium we're gonna have to order separately.
+PATIENT: Hmm.
+DOCTOR: Um because otherwise they're not strong enough pills.
+PATIENT: Oh okay.
+DOCTOR: So by Vitamin D 2000 what we call International Units.
+PATIENT: Uh-huh.
+DOCTOR: A day.
+PATIENT: Okay.
+DOCTOR: Calcium carbonate.  And you're taking steroids as well as prednisone?
+PATIENT: No I stopped it.
+DOCTOR: You're not taking those?
+PATIENT: No I'm not taking anything.
+DOCTOR: When was that stopped?
+PATIENT: Uh last year or the year before, last year I think it was [REDACTED]@.
+DOCTOR: Are you still taking a multivitamin?
+PATIENT: No [REDACTED]@.
+DOCTOR: Are you still taking a multivitamin every day?
+PATIENT: Uh sometimes, no I don't take it every day.
+DOCTOR: So your calcium vitamin D for sure, I mean you don't necessarily [REDACTED].  I'm just cleaning all of your medications up.
+PATIENT: Yeah.
+DOCTOR: To get rid of whatever we can.  Okay um and I don't have any bloodwork for you today.  Let me see what it was back in October.  Okay I'm gonna have you have a seat up here so I can take a quick listen to your lungs.
+PATIENT: You need me to take anything off?
+DOCTOR: What's that?
+PATIENT: Do I need to take my sweater off?
+DOCTOR: Oh no you're okay.  Open your mouth and say ah.
+PATIENT: Okay look at my nose, reach in.
+DOCTOR: Uh-huh.
+PATIENT: Yeah you can put another out I got one.
+DOCTOR: Deep breath through the mouth good.  Good.  Take a listen to your heart now.  Can I have you lay back?  Can I lift your shirt?
+PATIENT: Uh-huh sure.
+DOCTOR: What are all these scars from?
+PATIENT: That's the.
+DOCTOR: You've had a lot of surgeries.
+PATIENT: The one going across this way.
+DOCTOR: Yeah.
+PATIENT: That's the liver surgery I had in May.  This one was a colon reversal.
+DOCTOR: Hmm.
+PATIENT: Basically just my colon.
+DOCTOR: Can you take a deep breath okay good.  Lift your ankles from the floor.  Can I see the skin on your back that you were talking about?
+PATIENT: Yeah.
+DOCTOR: I'm not sure this is fungus.
+PATIENT: Hmm.
+DOCTOR: Were you told that by a skin doctor before?
+PATIENT: Yeah that's what I was using.  I was using it on a regular basis and then.
+DOCTOR: It got better?
+PATIENT: Uh yeah it got better.
+DOCTOR: Okay.
+PATIENT: It would go away and I stopped using it and it came back.
+DOCTOR: Okay.  We'll mail that to you.
+PATIENT: Okay.
+DOCTOR: You can have a seat here.
+PATIENT: Oh in the summer months it's just really, that's when it came back in the summer and uh I had it over and when I used it I had a bottle.  That bottle had some left in that one and I used it and I started getting better again then I ran out.
+DOCTOR: You said, you had all sort of urinary; you do have episodes of urinary incontinence correct?  You urinate without getting to the bathroom first?
+PATIENT: Oh I what'd you say now?
+DOCTOR: You just sometimes lose your urine without getting to the bathroom first?
+PATIENT: Yeah even though I got this clamp on uh yeah it'll come if I don't rush, if I don't get there you know otherwise I'll lose it.
+DOCTOR: And I’m supposed to ask all patients now is in the past two months have you been living in stable housing that you own, rent or stay in as part of a household?
+PATIENT: Well I just stay and I rent.
+DOCTOR: Okay cool.  Um are you worried or concerned in the next two months you may not have stable housing?
+PATIENT: No.
+DOCTOR: Okay and then have you had any falls recently?
+PATIENT: Uh uh.
+DOCTOR: So there's a screening for osteoporosis, I don't think you’ve had this um it's called a DEXA scan and it basically is kind of like a big x-ray of the body to see how strong your bones are.
+PATIENT: Uh-huh.
+DOCTOR: Um and it suggests if you're 84 that you would get that screening done, do you want that?
+PATIENT: Yeah.  I'll get it.  At my age I just can't [REDACTED].  I twisted my knee in 2011 [REDACTED] birthday.  I twised and I already I have a rod inside my left femur which I guess comes down almost just above my knee and I messed up the cartilage and the arthritis seems to be worse in this knee here but anyway uh.
+DOCTOR: Do you have a history of a hip repair?  Did you have a hip repair?
+PATIENT: No just the uh, well I was in an automobile accident, this was in 89 in uh 1989 and I severed my artery and the muscle and broke the femur, left femur.  So he put a steel rod inside the femur but uh you know actually it doesn't bother me you know just the arthritis in the knee and then I twisted it after my birthday on my birthday in 2011 and it's gotten worse.
+DOCTOR: Hmm.
+PATIENT: But otherwise you know it doesn't bother me.  That's the arthritis of course that's gonna be with me, I guess [REDACTED].
+DOCTOR: Okay so I have to quickly go talk with my attending about all the cases.
+PATIENT: Uh-huh.
+DOCTOR: Uh basically we went through your medications.
+PATIENT: Uh-huh.
+DOCTOR: You will have a lot of blood work ordered for next time; you can follow-up with some things with DOCTOR.  She will likely call you back to let you know about that medication if you need to be on it for your UTIs, your urine infections.
+PATIENT: Yeah.
+DOCTOR: Um because I know you’ve had a history of that urine infections in the past.
+PATIENT: Yeah.
+DOCTOR: Um and you'll get the scan whenever you, I think they'll try to either um schedule it for you or I think you can go down and get it today if that's okay if you have time you should walk in and get it whatever.
+PATIENT: That's where they look at your bones?
+DOCTOR: Yeah where they see how strong your bones are.
+PATIENT: Uh-huh.
+DOCTOR: Um and then you can also go to Prosthetics today and pick up the stockings right and they'll measure and see how strong of a stocking you should be using.
+PATIENT: Okay.
+DOCTOR: Um.  I'll be right back.
+PATIENT: Throw these away right here?
+DOCTOR: Yep.
+DOCTOR: 53:10  DOCTOR IN:  58:48
+DOCTOR: Okay.  Sorry that took so long.
+PATIENT: Okay.
+DOCTOR: Alright so one thing the blood pressure issue.
+PATIENT: Uh-huh.
+DOCTOR: I think we have room to go up on your lisinopril.
+PATIENT: Okay.
+DOCTOR: It's the medication that's 5 mg I think DOCTOR had increased it last time as well.
+PATIENT: Uh-huh.
+DOCTOR: Um you're taking one pill.  I would just increase the dose and take right now you're gonna start taking two pills starting tomorrow.
+PATIENT: Okay.
+DOCTOR: Of lisinopril.  Once you get the new bottle that pill should be stronger so you take one pill so it's gonna be 10 mg.
+PATIENT: Oh okay.
+DOCTOR: Okay it'll say it on the bottle.
+PATIENT: Okay.
+DOCTOR: But overall you're gonna have twice as much of the lisinopril.
+PATIENT: Okay.
+DOCTOR: Which means that you need to come back here and get your blood pressure checked.
+PATIENT: Uh-huh.
+DOCTOR: Uh with the nurse and obviously all the blood work that I ordered just get it done in about a month.
+PATIENT: Okay.
+DOCTOR: So I'm gonna say lab one month.
+PATIENT: Uh-huh.
+DOCTOR: Then you need to come back for a nursing check in one month and I think we'll try to do it with DOCTOR's nurse that you follow up with all of that for the next time.
+PATIENT: See the nurse during the same day right?
+DOCTOR: What's that?
+PATIENT: Can they do these two on the same day?  The lab and the nurse?
+DOCTOR: Yeah well you down to the lab get your blood drawn because it's gonna be an active order but then the nurse, the blood pressure check you have to come back to the clinic.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] see how it's doing.  Ideally your medications should be taken for about 2-4 weeks before we can see the effect.
+PATIENT: Uh-huh.
+DOCTOR: So you get the new bottle and now whenever you get it you know you can finish out your old pills still.
+PATIENT: Yeah.
+DOCTOR: Just take two of them.  Um and then you'll get the new bottle, you'll have to take blood work to make sure your potassium is fine cause sometimes this medication [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: But you'll come back in and they'll want some blood work that day as well.
+PATIENT: Okay.
+DOCTOR: Okay so that's a lot of stuff but.
+PATIENT: Yeah.
+DOCTOR: I think we went through some medications and you will come back in a month because you're gonna increase your lisinopril so you're gonna come back to the hospital for blood work and check your blood pressure with the nurse.
+PATIENT: Uh-huh.
+DOCTOR: After you leave here today go to Prosthetic and get your stockings and whenever it is convenient for you you can get the DEXA scan.
+PATIENT: What was it?
+DOCTOR: That's just the scan that looks for osteoporosis in the body.
+PATIENT: Okay.
+DOCTOR: Or weak bones and that can be done at any time.
+PATIENT: Okay.
+DOCTOR: Go to Radiology and tell them your name.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: It's totally up to you, whatever your day is looking like.  You can come later and there's no rush.
+PATIENT: Oh okay, I'll check down there today and if I can get it [REDACTED].
+DOCTOR: Okay.  Yeah.  Maybe it won't be [REDACTED].
+PATIENT: Oh right right yeah.
+DOCTOR: Okay.  Actually through the checkout counter.
+PATIENT: Okay.
+DOCTOR: [REDACTED] in three months.  He needs a nurse visit with I think [REDACTED] and labs in a month.  He can go to Prosthetic afterwards.  I ordered him a DEXA scan which I don't know he needs to be scheduled or if can just go up to X-ray.  They'll take good care of you right.
+PATIENT: Okay.  Thank you, alright have a good one.
+DOCTOR: Have a good evening.
+PATIENT: Alright.
+Time is 11:32.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  38306
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,116 @@
+DOCTOR: I was wondering if you could tell me what brought you in?
+PATIENT: Sure, you know I've been feeling kinda hot for the past couple of days and I have this terrible, terrible headache. And just my brain feels foggy. So I thought I should come get it checked out.
+DOCTOR: OK, I see when uh did these symptoms start exactly?
+PATIENT: So they started about 3 days ago. But it's getting worse.
+DOCTOR: OK. Uh, and uh, in terms of the headache, uh, does your head hurt in any particular location?
+PATIENT: I would say mostly the sides of my head.
+DOCTOR: OK, and how long has the headache been going on for?
+PATIENT: Uh the same amount of time, so like the past three days.
+DOCTOR: OK, and um, how would you describe the headache? Is it like sharp, is it like a vice grip? Is it pulsating, pressure like sensation or none of those?
+PATIENT: It you know it feels crampy.
+DOCTOR: OK. Um, and has there been anything that triggered the headache or or made it worse?
+PATIENT: I don't think so. Nothing is helping, sleeping is not helping, moving around is not helping. It's just always there.
+DOCTOR: OK, does the headache get worse with lying flat?
+PATIENT: Uh, no, I wouldn't say so, no.
+DOCTOR: OK, and are you feeling any pain down into your neck or into your shoulders or back?
+PATIENT: No, no.
+DOCTOR: OK. And, would you say that this headache, which is was like worst headache of your life or thunder clap kind of sensation?
+PATIENT: Uh, no, no.
+DOCTOR: OK, have you had headaches like this before in the past?
+PATIENT: No, never.
+DOCTOR: OK. And, how would you rate it in terms of severity, with 10 being the most severe that you could possibly have and one being not painful at all? How would you rate it?
+PATIENT: I would say I would give it around a 6 or seven.
+DOCTOR: OK. And have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: OK, and how about any sensitivity to light when you're you're seeing it or sensitivity to sound?
+PATIENT: No.
+DOCTOR: OK, and have you had any eye symptoms such as discharge, tearing or or itchiness?
+PATIENT: No, nothing like that.
+DOCTOR: OK, um, and so you you mentioned that you had you had a fever as well. Did you check your temperature?
+PATIENT: I didn't actually, no I didn't check my temperature, I just feel hot.
+DOCTOR: OK, we'll be sure to check that today in clinic. And have you been experiencing any other symptoms?
+PATIENT: Um, just like the brain fog that I was speaking of, you know. I just don't remember, I remember things, but it's it's like I'm doing everything underwater.
+DOCTOR: Oh OK. Have you been uh confused or concerns with your memory?
+PATIENT: Um, no, I haven't forgotten things. It just feels like I'm really slow at doing things.
+DOCTOR: I see, OK, and how has your energy been? Have you had uh significant fatigue?
+PATIENT: Yes, I would say I am significantly more tired than I used to be.
+DOCTOR: OK, um, how has your sleep been?
+PATIENT: My sleep has been pretty normal. I go to bed around the same time, wake up around the same time. Yeah, I'd say that there's no issue there.
+DOCTOR: OK, with this fatigue, have you had any aches and pains?
+PATIENT: Some muscle aches, I would say mostly in my arms and just my legs, yeah.
+DOCTOR: OK, and have you had a cough?
+PATIENT: No cough, no.
+DOCTOR: Alright, how about shortness of breath?
+PATIENT: No shortness of breath either.
+DOCTOR: OK, have you experienced any chest pain?
+PATIENT: No.
+DOCTOR: OK, how about any period where you felt as though your heart was racing?
+PATIENT: No.
+DOCTOR: OK, and have you have any wheezing?
+PATIENT: Um no no wheezing.
+DOCTOR: OK, and have you had any loss of taste or smell?
+PATIENT: Um, no.
+DOCTOR: OK, alright have you noticed any rashes?
+PATIENT: No rashes either.
+DOCTOR: Alright. And have you had any abdominal pain?
+PATIENT: No no.
+DOCTOR: OK, have you had any diarrhea?
+PATIENT: Um no, no diarrhea.
+DOCTOR: OK, um and any constipation?
+PATIENT: No.
+DOCTOR: Alright, and then how about any urinary problems such as painful urination or going frequently?
+PATIENT: No, no changes.
+DOCTOR: OK. And are you currently sexually active?
+PATIENT: I am.
+DOCTOR: OK. Could you tell me about your partners or partner?
+PATIENT: Sure, I I just my husband, um we we don't use protection. But I'm on the birth control pill.
+DOCTOR: OK, and have you had a sexually transmitted infection before?
+PATIENT: No.
+DOCTOR: OK, and any I guess like vaginal discharge or vaginal discomfort?
+PATIENT: No.
+DOCTOR: OK. And, so next just wanted to ask a few questions about your past health. Have you been diagnosed with any medical conditions in the past?
+PATIENT: No.
+DOCTOR: OK, so no diabetes, high blood pressure, anything like that?
+PATIENT: No.
+DOCTOR: Alright, and do you take any medications regularly like prescription or over the counter?
+PATIENT: I don't.
+DOCTOR: Alright, so it's just the birth control?
+PATIENT: Oh sorry, yes. Just the birth control pills.
+DOCTOR: Yeah OK, no worries, and any allergies?
+PATIENT: Just seasonal allergies.
+DOCTOR: OK, and so are immunizations up to date?
+PATIENT: Yep, they are.
+DOCTOR: Alright, and in in the home, is there anybody who's sick right now?
+PATIENT: No, no one is sick.
+DOCTOR: Ok, how about at work?
+PATIENT: I'm I'm a teacher. Um, so I work with a lot of children, but no one that I no one I know of has been sick.
+DOCTOR: OK, um and so have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: Alright. And do you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: OK. Do you smoke marijuana?
+PATIENT: I don't.
+DOCTOR: Alright. Did you use any recreational drugs?
+PATIENT: I sometimes take some marijuana edibles, but that's about it.
+DOCTOR: OK, and, do you purchase those at a dispensary?
+PATIENT: I do.
+DOCTOR: OK, so for one of the Ontario stores?
+PATIENT: Yes.
+DOCTOR: OK great yeah 'cause you could never be sure where else, what the dosing is, so it's good to get it from the appropriate stores for sure.
+PATIENT: Right.
+DOCTOR: Do you drink alcohol?
+PATIENT: I do, I'll have a glass of wine with dinner.
+DOCTOR: OK is this daily?
+PATIENT: Um most days I would say, maybe like four or five days of the seven days of the week.
+DOCTOR: OK, I see. And has anybody in your family had similar symptoms in the past to what you're having or had any lung conditions in the past?
+PATIENT: No, nothing like that.
+DOCTOR: OK, how about any heart conditions?
+PATIENT: Um, my father passed away at 75 from a heart attack.
+DOCTOR: OK, and uh, how about any cancers in the family?
+PATIENT: None that I know of.
+DOCTOR: OK. So I think that was, uh, all of the questions that I wanted to ask on history today. Was there anything else that you thought I was missing or that you wanted to tell me about?
+PATIENT: No, I don't think so. But, uh, what do you think I have?
+DOCTOR: So with the acuity of your symptoms, starting with the last few days and getting worse, especially with a fever which we now have documented of 38.8 and a kind of feeling, uh, tired with aches and pains and the headache, I am concerned that you have possibly a viral infection, and one of those possibilities could be COVID-19, but also it could be the influenza. It could be something like the common cold, such as adenovirus. So certainly we will do a PCR COVID swab as well as order some general lab work to look for signs of infection, such as a CBC and a white blood cell count. But um, for now we will get those tests ordered. Did you have any questions?
+PATIENT: OK yeah that sounds great. Do you think I could also have you know, meningitis or something? 'Cause I was reading online on Google and that's the first thing that came up.
+DOCTOR: Oh yeah, you're you're absolutely right, so, um sorry, I we will go ahead and investigate that as well and we might need to do a lumbar puncture or some blood work to look for signs of infection that might be needed to be treated with antibiotics.
+PATIENT: OK, alright that sounds good, thank you.

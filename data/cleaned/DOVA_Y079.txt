@@ -1,0 +1,393 @@
+DOCTOR: PATIENT?  How do you do, I'm DOCTOR.
+PATIENT: Really.
+DOCTOR: Uh-huh.
+PATIENT: Where's DOCTOR at?  [REDACTED].  So you're taking DOCTOR's place huh.
+DOCTOR: Sorry?
+PATIENT: I said you taking DOCTOR's place.
+DOCTOR: Which DOCTOR?
+PATIENT: Huh?
+DOCTOR: You haven't been seen in the GMC Clinic in quite a while.
+PATIENT: Yeah every six months, but the last time I was here was DOCTOR.  He's the one that wrote my last prescriptions.  That's why I came, [REDACTED] taking his place.
+DOCTOR: Um yeah.  I mean I'm really taking his place [REDACTED] but.
+PATIENT: Okay, okay yeah they got your name and stuff here.
+DOCTOR: Yeah right okay.
+PATIENT: So I was [REDACTED].
+DOCTOR: So what brings you in today?
+PATIENT: The letter.  Usually I [REDACTED].
+DOCTOR: [REDACTED] make you come in.
+PATIENT: Right usually twice a year.
+DOCTOR: Okay.
+PATIENT: To see my primary caregiver but I had other, because they called me first yeah [REDACTED] decide my other isseus in the meantime I need to see the dentist and [REDACTED].
+DOCTOR: Uh-huh yeah.
+PATIENT: And I need a referral to the dentist and I been complaining to uh when I come to the Emergency Room cause I been having chest pain.
+DOCTOR: Yeah they said that it wasn't anything [REDACTED].
+PATIENT: Yeah but after a while I'm still having chest pain plus my left arm goes numb.
+DOCTOR: Are you still having that now?
+PATIENT: Huh?
+DOCTOR: Right now?
+PATIENT: Huh?
+DOCTOR: Like right now?
+PATIENT: Yeah it's, you know when I really notice it is when I'm sitting, I'm sitting and the angle I'm sitting at is like you know first it feels like maybe you've strained a muscle then it starts hurting then my left arm goes numb and the circulation [REDACTED].
+DOCTOR: So this is the same thing you had in the ER?
+PATIENT: Right, yeah but I been telling them like for the last, you know for a long time.
+DOCTOR: So you had a stress test in May that was normal.
+PATIENT: Yeah that was last May.
+DOCTOR: Um and all your EKGs are normal.
+PATIENT: Right.
+DOCTOR: So it doesn't sound like it's your heart.
+PATIENT: Yeah it seemed like, I don't know if it's like a muscle part or I was wondering maybe you know they had seen some type of tissues that was in my lungs you know now that's something do I have cancer, is that causing the pain, do I have a tumor?  You know so I'm just wondering what you call it because it just keeps bugging me.  You know they gave me blood cultures and.
+DOCTOR: Yeah.
+PATIENT: Everything you know the last time I was over at the Emergency Room the last time.
+DOCTOR: Everything was totally normal.
+PATIENT: Yeah, it was everything was normal.  I said then why am I still having pain and.
+DOCTOR: What did she say?
+PATIENT: She's said she didn't know because all your tests come back as normal.
+DOCTOR: Yeah I mean does it hurt if you push on it?
+PATIENT: Huh?  Here's what I show, sitting I first started out and I'm sitting dang you know it started hurting and I sit up and I take the pressure off.
+DOCTOR: Does it get better when you move around?
+PATIENT: I move around and I change positions.
+DOCTOR: It gets better.
+PATIENT: Right.
+DOCTOR: Sounds like it’s a muscle, you know a pulled muscle.
+PATIENT: You know, but it's been like this going on year.  But of course I came in pain recently, you know before I came in - my left arm, you know just like I told you it gets numb, like needles and pins.
+DOCTOR: Do you feel weak in that left arm?
+PATIENT: Huh.  It’s not weak, it’s like, you know I lose sensation you know it’s like, [REDACTED].
+DOCTOR: Like every day or?
+PATIENT: [REDACTED] circulation.
+DOCTOR: How often does that happen?
+PATIENT: That’s every day.
+DOCTOR: Like right now?
+PATIENT: Huh?  Right now it's not bothering; I just threw it across, see if maybe uh I move my arm you know too much and the wrong angle, because I had surgery back in 2006.
+DOCTOR: Oh.
+PATIENT: On this arm.
+DOCTOR: So if you had it [REDACTED] I bet it's a little bit of the nerve that's irritated.
+PATIENT: Yeah because you know [REDACTED] when I came in when I had the surgery on this, right I had lost all function of this arm.
+DOCTOR: Hmm, this is post-surgical.
+PATIENT: Alright, now this is bothering.  Kind of like [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Sometimes it's like needles and pins all up and down my arm because it's [REDACTED].  [REDACTED] any pain, [REDACTED] you know like what I used to do with the type of work I was doing then you know I was trying to [REDACTED].  So the only thing I connect it to you know was maybe the surgery you know, cause uh after surgery I had a lot of occupational therapy.
+DOCTOR: [REDACTED].  Yeah.
+PATIENT: You know rebuild my muscle up cause I had to hold my arm up when I came here before the surgery and like the doctor said, you know, gave me those tests and then they did a probe you know they took blood, they [REDACTED], biopsies, five needle prong, [REDACTED].
+DOCTOR: Hmm.
+PATIENT: We're going to do surgery blah blah and now I mean I've already had one surgery when they removed a tumor [REDACTED].
+DOCTOR: Well [REDACTED] new symptoms.
+PATIENT: Huh?
+DOCTOR: Nothing new is going on.
+PATIENT: No this is, these two, the chest and the arm and you know I need to see a dentist, not like I want to but to check what you know when I try sometime when I try to eat or drink something or liquids you know there's a pain in my gums, I don't know what that, but I have to see a dentist that had.
+DOCTOR: Any fevers or chills or big lumps or bumps anywhere?
+PATIENT: No just pain.  Cause I would try to get a referral back cause I need to get some partials or maybe just this little a tooth that I need to have extracted, it broke off.
+DOCTOR: Okay.
+PATIENT: And maybe the you know with if it increases are getting in my system or [REDACTED] pain for this.
+DOCTOR: Now um and you're followed by Oncology for, what did you last see the oncologist for?
+PATIENT: Well what's the date on that?
+DOCTOR: You just saw her last month.
+PATIENT: Yeah that's when I thought I was having pain.
+DOCTOR: For the oncologist, the cancer doctors.
+PATIENT: When did I see them?
+DOCTOR: Last month.
+PATIENT: Really.  Who was the doctor?
+DOCTOR: You don't remember this at all?
+PATIENT: I've been here so many times [REDACTED].  I know I [REDACTED] see like before when I was in here when they did the biopsy.
+DOCTOR: Oh did you have prostate cancer?
+PATIENT: Huh?
+DOCTOR: Do you have prostate cancer?
+PATIENT: Not that I know of.  I just had a prostate exam last month.
+DOCTOR: Are you taking any medicine for your prostate?
+PATIENT: Yeah I take um – what’s that?  They have finasteride and I got.
+DOCTOR: Oh you just have an enlarged prostate.
+PATIENT: Right they gave the medicine for you know [REDACTED].
+DOCTOR: But why did you see the oncologist for that?
+PATIENT: Well the program I was in that's what they've been sending me to cause see I went up, I'm in a program that uh gives you a multivitamin and at that time like it would be either selenium to see if it had any affect on decreasing your chances of you know getting prostate cancer.
+DOCTOR: Hmm.
+PATIENT: But I've been in that program like for seven years.
+DOCTOR: Okay, okay.
+PATIENT: Yeah so I had a colonoscopy, I had that just once a year, I had a prostate exam so like I had a prostate exam.
+DOCTOR: Okay, gotcha, gotcha.
+PATIENT: Yeah.
+DOCTOR: Um.
+PATIENT: So I was required, so I was asking them about you know the tumor cause they seen a growth and they checked it before and said it was benign then I was wondering could I have cancer which would have affected me.
+DOCTOR: Your chest x-ray in December was completely normal.
+PATIENT: Uh-huh.  Guess I know before 200@, because like I had this surgery.
+DOCTOR: Last year.
+PATIENT: Yeah.
+DOCTOR: Um and you've got some fibrosis in your lungs.
+PATIENT: That's what it is.
+DOCTOR: Do you smoke?
+PATIENT: Yeah unfortunately I do smoke.
+DOCTOR: Yeah see that's where the pain is from.
+PATIENT: Uh-huh.  Yeah the pain it goes here on this side, on the same side as my heart.
+DOCTOR: Your lungs are becoming stiff and they're not moving that well with air.
+PATIENT: Yeah.
+DOCTOR: And your smoking will continue to make it worse.
+PATIENT: Uh-huh.  Okay I'm glad you told me that.
+DOCTOR: I mean that's what's going on here yeah.
+PATIENT: Cause I been thinking [REDACTED].
+DOCTOR: Have you been [REDACTED] substances?
+PATIENT: Yeah that's what kind of led me to surgery back in 2006 because I had the episode, you know I was doing rehab construction and so like one time we had to remove you know like we cleaned some stuff from this building so we used some caustic chemicals and I had to put on you know a protective suit and the doctor was saying DOCTOR said maybe you know it had seeped through and affected my renal system cause I had this tumor that popped up you know on my left arm, I couldn't use it.
+DOCTOR: Uh-huh.
+PATIENT: I broke out in a rash.  For two days I couldn't see my eyes swole shut you know.  So when I came in to see them because it happened the same time I was seeing my regular physician which was DOCTOR then.  You know he rushed me to the Emergency Room and that's when I thought this is why my system is breaking down.
+DOCTOR: Oh okay yeah, I see.
+PATIENT: I lost weight, you know I couldn't eat.
+DOCTOR: Okay.
+PATIENT: Couldn't do nothing.
+DOCTOR: Alright.
+PATIENT: Yeah I was really out of it.
+DOCTOR: We need to get you to stop smoking.
+PATIENT: I need to do that for sure.  Especially since you alerted me to the fibrosis part and all the pain from this side.
+DOCTOR: Oh.
+PATIENT: I'm still thinking about because they had you know [REDACTED] give me x-rays back in 2006 where they wanted to do exploratory surgery but the lady that was in charge of me then said no he just came out of surgery that's benign, blah, blah and I was dealing with the kid saying okay we got Hepatis C, we have to deal with this.
+DOCTOR: Hmm.
+PATIENT: And I didn't know I had that cause they didn't inform me.
+DOCTOR: Your head, what's going on with that?
+PATIENT: Huh?
+DOCTOR: With your hepatitis?
+PATIENT: Well I had first contacted hepatitis when I was overseas but it wasn't hepatitis C.
+DOCTOR: But you're not doing treatment for that?
+PATIENT: No since, she did – she gave me what was that, what's it called I can't remember [REDACTED] and they did a biopsy, checking my liver.
+DOCTOR: Oh you had a biopsy.
+PATIENT: Right.  She wanted [REDACTED] liver biopsy [REDACTED].
+DOCTOR: [REDACTED] when was that liver biopsy.
+PATIENT: Yeah.
+DOCTOR: And when was your oh, so you haven't had your liver stuff checked for a long time.
+PATIENT: What?
+DOCTOR: Why didn't they check your liver when you were in the hospital?
+PATIENT: The last time I did the liver was [REDACTED] and they gave me the biopsy.
+DOCTOR: Can you get up to the Lab today?
+PATIENT: Huh?
+DOCTOR: Can you go to the Lab today?
+PATIENT: I'm here.
+DOCTOR: Okay.  We'll just check your liver today.
+PATIENT: Yeah.
+DOCTOR: In the Lab.
+PATIENT: Yeah but I was just trying [REDACTED] hepatitis [REDACTED] I have hepatitis [REDACTED] so that I could be at Hines, they were going to keep me for 30 days, [REDACTED] rest, eat and you know when I discovered all that, you know jaundice had set in you know cause I was working and okay, what'd you do overseas, okay I said hey sometime I would be out in the field you know and would drink water and we're supposed to put the iodine tablets in the water but I was thirsty so most of the time we didn't do that you know.
+DOCTOR: Oh.
+PATIENT: Yeah so I found out it was hepatitis A [REDACTED] you have had this since 2001 and I said no one said nothing and so she did some blood tests and oh you have hepatitis C now and ain't this a trip and then she [REDACTED] tests to see if she was gonna prescribe some medications to uh you know to help me with it.
+DOCTOR: Well today, do you need anything today specifically the thiazide, medications or anything you need refills on all your medications?
+PATIENT: I don't need refills cause I got emergency refills to last me till [REDACTED].
+DOCTOR: So do you know what med you take?
+PATIENT: Let's see if I got it written down.
+DOCTOR: Do you take amlodipine?
+PATIENT: Right.  I know I got a list, number one is hydrochlorothiazide.
+DOCTOR: Hydrochlorothiazide.
+PATIENT: Finasteride.
+DOCTOR: Hydrochlorothiazide, do you take the metoprolol?
+PATIENT: Right, twice a day.
+DOCTOR: Do you take potassium?
+PATIENT: Potassium chloride twice a day of the tablets.
+DOCTOR: And [REDACTED] study [REDACTED].
+PATIENT: Yeah [REDACTED].
+DOCTOR: And that's all your medicines right for now?
+PATIENT: For now right, yeah so I take an aspirin.
+DOCTOR: Do you take; you just take one medicine for your prostate, just the finasteride?
+PATIENT: Yeah.
+DOCTOR: And then the other things selenium.
+PATIENT: Yeah selenium is mostly a vitamin.
+DOCTOR: Yeah.
+PATIENT: Cut off the selenium.
+DOCTOR: I'll give you a refill of that.
+PATIENT: [REDACTED] Emergency refill [REDACTED], in the Emergency Room I told them.
+DOCTOR: Yeah.
+PATIENT: I had ran out cause I called in and she said okay wait until you see a regular primary [REDACTED] Emergency Room she put me on that.
+DOCTOR: And I’ll refer you to a dentist today.
+PATIENT: [REDACTED].
+DOCTOR: Now your blood pressure was a little bit high.
+PATIENT: Yeah it's high.  Well I was drinking coffee before I came in.
+DOCTOR: Oh this morning?
+PATIENT: Yeah so [REDACTED].
+DOCTOR: Oh you need to [REDACTED].
+PATIENT: Uh the last time I saw [REDACTED] just for fun, coffee and stress. I had stress coming over cause I was with some high school kids you know that's stress all the time [REDACTED].
+DOCTOR: Oh gee okay.  Um but uh and you have been smoking.
+PATIENT: Oh I smoke about 10 cigarettes a day.  [REDACTED]
+DOCTOR: Okay.
+PATIENT: About ten a day.
+DOCTOR: And are you working?
+PATIENT: Huh?
+DOCTOR: Are you working?
+PATIENT: No.
+DOCTOR: Okay.  And you took all your blood pressure medicines this morning?
+PATIENT: Right at 6 o'clock.  Yeah the metoprolol I take twice a day.
+DOCTOR: Yeah.  So the um, so for the hepatitis C we'll recheck your lab today and um.
+PATIENT: Yeah but I had a little biopsy and she didn't give me any medication so I told her okay you hold it steady you know whatever it is you’re doing - you know it was really affecting me but I was shocked to find out they had to give you progress from A to C and there was a consequence of having C man, what's next.  The longer I live the more crap come up to mess with.
+DOCTOR: Yeah.
+PATIENT: Yeah I know your body's like a car, you got to take it to Jiffy Lube and Maaco and all this, [REDACTED] you know.
+DOCTOR: And then for your high blood pressure you take all these, the hydrochlorothiazide.
+PATIENT: Yeah one a day.  Do I have to take it night and day; I take that one with my cholesterol.
+DOCTOR: Oh you take amlodipine.
+PATIENT: Right.  Half a tablet a day.
+DOCTOR: Maybe we'll go up on that to a full tablet um.  Your blood pressure is kind of high today.  Higher than we want.
+PATIENT: No I have no problem.  First reading she says was 149.
+DOCTOR: You don't take this uh terazosin?
+PATIENT: Yeah terazosin, I take that in the evening.
+DOCTOR: Oh you do take it.
+PATIENT: Right, like I said one in the evening right before bedtime, with the felodipine.
+DOCTOR: Yeah.
+PATIENT: I forgot about that.  I take something in the evening.
+DOCTOR: So you don't think we need to increase the amlodipine?
+PATIENT: Huh?
+DOCTOR: I think we should increase the amlodipine.
+PATIENT: You do?
+DOCTOR: To a full tablet.
+PATIENT: Okay.
+DOCTOR: Okay.  Cause your blood pressure is.
+PATIENT: I know it's high today.
+DOCTOR: High yeah.
+PATIENT: It was 149 [REDACTED].
+DOCTOR: We're not gonna add anything.
+PATIENT: It was 154.
+DOCTOR: We're not gonna add anything new.  You just take a full pill of that.
+PATIENT: I don't need one, I been on this since 2001.  Now you know I come over her and my pressure be up because I’m going through some pressure with those kids. They be loud.
+DOCTOR: And do you have that, how's your breathing?
+PATIENT: It's alright.  I'm not going to be running up the stairs [REDACTED].
+DOCTOR: But you don't feel short of breath?
+PATIENT: No, only when I get [REDACTED].
+DOCTOR: You don't need any inhalers or anything?
+PATIENT: No had inhalers but that was back in what 2005, they had me inhalers [REDACTED] but that was [REDACTED] but that was in the summertime I had to get it prescribed [REDACTED].
+DOCTOR: Well one thing that we really need to do is get you to stop smoking.
+PATIENT: Yeah I know.  Since you alerted me to fibrosis, I'll have to go look that up when I get home but I'm gonna quit though.  I know [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Yeah.  What was your last prostate level?  I see your cholesterol was good this summer.
+PATIENT: What was my cholesterol?  I’m in the safe zone?
+DOCTOR: Oh yeah.
+PATIENT: I try to eat a lot of veggies, [REDACTED].  I just eat chicken and fish.
+DOCTOR: Yep it's 100, it's perfect.
+PATIENT: Hey something's good.  [REDACTED] the game [REDACTED].
+DOCTOR: And have you had a colonoscopy?
+PATIENT: Yeah, about two or three years ago.
+DOCTOR: When was that?
+PATIENT: Don't ask me, about two or three years.
+DOCTOR: Was it here?
+PATIENT: Yes, yeah [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah 45 minutes, I got to watch the probe, it didn't hurt at all.  It was interesting [REDACTED].
+DOCTOR: You had a liver biopsy done.
+PATIENT: Yeah that's right I had a liver biopsy.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  Colonoscopy.  [REDACTED] drinking all that water.  [REDACTED].
+DOCTOR: Do you remember if it was normal, the colonoscopy?
+PATIENT: Uh they said it was alright uh-huh.  I don't know if they put it in.
+DOCTOR: It looks like it might have been in 2004.
+PATIENT: What.
+DOCTOR: [REDACTED] your colonoscopy?
+PATIENT: I have no idea [REDACTED] I think it was [REDACTED].
+DOCTOR: Well that's what; let me just see.
+PATIENT: I'm not sure it was that long ago, maybe four years, seems like I was here in the hospital for surgery in 2006, all in 2006.  [REDACTED].
+DOCTOR: You should go back and see the liver doctors though.
+PATIENT: Yeah.
+DOCTOR: They want to see you.
+PATIENT: I have no problem with that.  [REDACTED].  2005 no.
+DOCTOR: Hmm.  I don't see it.  Well we'll send you back to the liver doctors in [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: It's the same people, the GI doctors who do the colonoscopy.
+PATIENT: Now I know I had it, I just don't know what the year.  I didn't think it was that long ago.  I thought it was in 2006, maybe three or four years.  Or was it 2007, I had the biopsy.
+DOCTOR: Okay let me go talk to my boss real quick and we'll get you off to your way.  I think we can increase your amlodipine to, oh when did you get this done?
+PATIENT: They mailed it to me.  It had to come from the series of tests maybe when I was in the Emergency Room.
+DOCTOR: Okay.
+PATIENT: Cause it surprised me well they mailed me something, what's this.
+DOCTOR: From 07,2009, you don't even have any [REDACTED] there.
+PATIENT: I think that's what they said, [REDACTED]. Vitamin D was low.  I don't understand it, I be out of everything, [REDACTED].  But [REDACTED].
+DOCTOR: This isn't yours.
+PATIENT: Huh?
+DOCTOR: Well you're not in the Vitamin B Study.  This was mailed to the wrong person.
+PATIENT: Oh.
+DOCTOR: I don't think this was for you.  I can just keep it here.
+PATIENT: [REDACTED].
+DOCTOR: I mean you you're not on any vitamin.
+PATIENT: But they mailed me and that's what [REDACTED].
+DOCTOR: There's nothing in there.
+PATIENT: Yeah.
+DOCTOR: So it must be a mistake.
+PATIENT: Okay.  So it freaked me out, freaked me out.
+DOCTOR: Yeah.
+PATIENT: You know before I eat and like I say I [REDACTED].  You know my muscles [REDACTED], I take vitamin D anyway.
+DOCTOR: Okay.  Okay I'll put in the referral for.
+PATIENT: [REDACTED] cod liver oil.
+DOCTOR: Oh good.  Give me just a minute.
+PATIENT: Okay doctor.
+(DOCTOR OUT:  47:59  DOCTOR IN:  66:31)
+DOCTOR: Hello, okay, sorry about that.
+PATIENT: I'm going [REDACTED].
+DOCTOR: Okay so, okay [REDACTED] smoking okay.
+PATIENT: Okay.
+DOCTOR: And I'll refer you to the dentist.
+PATIENT: Yeah.
+DOCTOR: And uh you also we'll refer you back to the Liver Clinic and you need to get some labs done today okay.
+PATIENT: Yes.
+DOCTOR: So I'm going to order the labs and you just go right over there and get them all done.  Um.  Okay so go to the Lab and then uh I'm going to put in your dental thing.  How long have your gums been hurting? [REDACTED] how many days a week?
+PATIENT: Oh one month.
+DOCTOR: A month.
+PATIENT: I had it before  [REDACTED].
+DOCTOR: And uh. Okay.
+PATIENT: They gave me a.
+DOCTOR: And uh okay write down this number and call and get a Liver Clinic appointment.
+PATIENT: Okay.
+DOCTOR: It's 1-888.
+PATIENT: 1-888.
+DOCTOR: XXX.
+PATIENT: XXX.
+DOCTOR: XXXX.
+PATIENT: XXXX.
+DOCTOR: Tell them you need to be seen the next available appointment.
+PATIENT: Okay.
+DOCTOR: To follow up your hepatitis C.
+PATIENT: Alright.
+DOCTOR: Okay and then let me do all the medications.  Do you want to pick those up today?
+PATIENT: Huh?
+DOCTOR: Your medications.
+PATIENT: Yeah.
+DOCTOR: You want to pick up your medicines here today?
+PATIENT: Yeah I guess you know, one stop shopping.
+DOCTOR: And you need all your medicines right?
+PATIENT: Right.  That's what they gave me in the Emergency Room.
+DOCTOR: And I changed the amlodipine dose to from 5 to 10 okay.
+PATIENT: Okay.  Yeah cause I've been doing a half tab.
+DOCTOR: Yeah so the ones you have left just take a full one until you get the new ones.
+PATIENT: Okay.
+DOCTOR: I'm giving you enough for about three months or six months I mean.
+PATIENT: Okay, I appreciate that now.
+DOCTOR: You take one tablet of the multivitamin for the prostate?
+PATIENT: Yeah every day.
+DOCTOR: Once a day?
+PATIENT: Right.
+DOCTOR: Okay so go pick up your medicine at the Pharmacy.
+PATIENT: Uh-huh.
+DOCTOR: So I'm gonna write this, you give this to the clerk out there.
+PATIENT: Yes.
+DOCTOR: You need to go to the Lab.
+PATIENT: Yeah.
+DOCTOR: Pharmacy, Dental Clinic appointment, they'll make it for you.
+PATIENT: What the clerk of the dental people?
+DOCTOR: Yeah.  A Liver Clinic appointment.
+PATIENT: [REDACTED].
+DOCTOR: New consult and who to call [REDACTED] okay and then uh I'll see you.  I'll put a order in the computer so they'll send another letter in the mail.
+PATIENT: Okay that's cool.
+DOCTOR: Come back in six months.
+PATIENT: [REDACTED].
+DOCTOR: Yeah [REDACTED] yep.
+PATIENT: That's all okay.  That way you got me extra [REDACTED].
+DOCTOR: Yeah.
+PATIENT: That way [REDACTED] burden my transportation.
+DOCTOR: Oh yeah, yeah, yeah.  Okay.
+PATIENT: I'm all set doctor.  I thank you for your help and making me aware of fibrosis.
+DOCTOR: [REDACTED].  stop smoking.
+PATIENT: Yeah.  [REDACTED] but do ya'll have type of treatment for that?
+DOCTOR: Stop smoking.
+PATIENT: Yeah I understand that.
+DOCTOR: But once the fibrosis has gotten there there's nothing that can make it go away.
+PATIENT: Oh okay.
+DOCTOR: So the only thing you can do now is stop it from getting worse.
+PATIENT: Oh okay.
+DOCTOR: Okay.
+PATIENT: I'm still going to look it up in my [REDACTED].
+DOCTOR: Oh.
+PATIENT: So I can learn about it myself yeah.
+DOCTOR: Okay.
+PATIENT: I've got it.  I keep a medical book.  [REDACTED].  Thank you doctor.
+DOCTOR: You're welcome.
+PATIENT: 74:38.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255187
+TRANSACTION # 578-10-2-316-0103

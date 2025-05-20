@@ -1,0 +1,80 @@
+DOCTOR: What brings you here today?
+PATIENT: Um hi, yeah I've had the stuffy nose um that's been on and off, as well as a runny nose for the past week and it doesn't seem to be getting any better, so I thought I should come in and get it checked out in case I have covid.
+DOCTOR: OK, yeah I know for sure that's a good idea. So how long have you had this for?
+PATIENT: A week now.
+DOCTOR: A week. And did. So what started first? Was it the runny nose? Or like the stuffiness?
+PATIENT: It felt pretty stuffy at first, but now it's mostly running.
+DOCTOR: OK, and are you coughing at all?
+PATIENT: No.
+DOCTOR: No OK, and the runny nose what kind of content are you producing or draining? Is it mainly like clear or is there any color to it?
+PATIENT: It's mostly clear.
+DOCTOR: OK. And, is it mainly just congestion and drainage from your nose or are you feeling and go at the back of your throat as well?
+PATIENT: Uh no it's just mostly for my nose.
+DOCTOR: OK, any other symptoms like sore throat, shortness of breath, fevers or chills?
+PATIENT: No.
+DOCTOR: No OK. And is this like something that's constant or does it come and go?
+PATIENT: Ah, it's it's. Ah It's been pretty constant for the past week.
+DOCTOR: OK, has this happened to you before at all?
+PATIENT: No, well, actually I've had I've had a cold before but not recently. Maybe like five years ago.
+DOCTOR: OK, have you tried any over the counter medications at all?
+PATIENT: Um I've tried like decongestants and. That's not. Well, I guess my nose is runny now so that worked a little bit.
+DOCTOR: OK. OK, and have you been in contact with anyone who's been sick recently?
+PATIENT: Uhm? No, I don't think so. My I have um a nephew who I live with who goes to daycare.
+DOCTOR: OK, and has he been sick at all?
+PATIENT: No, he's been fine.
+DOCTOR: OK, any recent travel at all?
+PATIENT: No.
+DOCTOR: No, OK. Any headaches or nausea or vomiting?
+PATIENT: Nope, nothing like that.
+DOCTOR: OK, any fatigue?
+PATIENT: A little bit.
+DOCTOR: OK, any loss of sense of taste or smell.
+PATIENT: Um. No, um not that I've noticed.
+DOCTOR: OK, any sort of like chest pain or racing sensation of racing of yourbheart or anything like that?
+PATIENT: No.
+DOCTOR: No OK? Any changes in your bowel movements?
+PATIENT: No.
+DOCTOR: How about your any difficulties in urinating?
+PATIENT: Um no.
+DOCTOR: OK, have you been sleeping and eating well?
+PATIENT: Yes.
+DOCTOR: OK, any weight changes like any significant weight loss recently?
+PATIENT: No, no, no, nothing like that.
+DOCTOR: OK. At home or at work home any exposure to like fumes, dust or animals?
+PATIENT: No.
+DOCTOR: OK, and have you been diagnosed with any medical conditions in the past?
+PATIENT: Um I have type one diabetes.
+DOCTOR: OK, and when were you diagnosed with that?
+PATIENT: When I was like 7.
+DOCTOR: OK. And so you have your insulin medication and your are you all up to date with that?
+PATIENT: Yes.
+DOCTOR: OK, and do you see an endocrinologist?
+PATIENT: I do.
+DOCTOR: OK, alright. Any medications that you are on besides insulin?
+PATIENT: Uh no .
+DOCTOR: No, OK. Any allergies at all?
+PATIENT: No.
+DOCTOR: OK, have you been hospitalized or had any surgeries before?
+PATIENT: No.
+DOCTOR: No, OK. Any family history of any medical conditions, in particular with the lungs or the heart.
+PATIENT: No.
+DOCTOR: No, any autoimmune diseases?
+PATIENT: No.
+DOCTOR: OK. And currently right now do you work or do you go to school?
+PATIENT: I’m in school right now.
+DOCTOR: OK, and so are you living, where are you living right now?
+PATIENT: I live in an apartment by myself.
+DOCTOR: OK. And currently, do you use any recreational drugs like marijuana or anything?
+PATIENT: Uh no, not OK so not frequently, but maybe like once a month I'll have an edible.
+DOCTOR: OK, any other recreational drugs like cocaine and heroin? Anything like that?
+PATIENT: Oh no.
+DOCTOR: No. And you drink alcohol?
+PATIENT: Uh no.
+DOCTOR: And do you smoke tobacco?
+PATIENT: No.
+DOCTOR: Yeah, those were all the questions that I had for you today. Do you have any questions for me?
+PATIENT: I yeah, how do I get rid of this? And it's really been bugging me.
+DOCTOR: Yeah, it kind of so just a stuffy nose in the runny nose it seems like it's most likely a viral infection like the common cold. It takes a few weeks for the symptoms to get relieved, but there's not much that we can do besides supportive care, so make sure you get you stay well hydrated. You can use over the counter medications uh like Tylenol cold. now, if you to relieve some of your symptoms, but since right now we're in a pandemic, some of these symptoms can also be seen in covid patients, so we will also get a swab done for you today, and you should have the results back by 48 hours. Um until then, we recommend that you stay isolated in your own home and not see anyone else. And then once the results come back, you'll get further instructions from public health.
+PATIENT: OK, that sounds great. Thank you.
+DOCTOR: Your welcome. Take care
+PATIENT: You too bye.

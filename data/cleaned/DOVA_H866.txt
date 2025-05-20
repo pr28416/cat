@@ -1,0 +1,177 @@
+DOCTOR: Alright come on down.  How you doing?
+PATIENT: [REDACTED].
+DOCTOR: How you been?  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Are you working?
+PATIENT: They been giving me shots in this sore arm.
+DOCTOR: Oh.
+PATIENT: [REDACTED].
+DOCTOR: Um that's stressful sometimes.  [REDACTED].  So how have you been doing?
+PATIENT: Good.
+DOCTOR: Good.
+PATIENT: Real good.
+DOCTOR: No problems?
+PATIENT: No the problem that I did have was medicine, some stuff that the doctor gave me.
+DOCTOR: What'd they give you?
+PATIENT: Uh I was having trouble.
+DOCTOR: Going to the bathroom?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: But you gave me that what's that Tyl stuff?
+DOCTOR: Oh okay, oh and then you drink it?
+PATIENT: I did, I put it in juice or something.  Is it, I.
+DOCTOR: Metamucil?
+PATIENT: No they gave me something else um it's like um glucose or something [REDACTED] I don't know.
+DOCTOR: Psyllium?  Oh polyethylene glycol.
+PATIENT: Yeah.  That's what it is.
+DOCTOR: I thought you were trying; you were doing the vegetable diet and stuff.  That's still not helping huh?
+PATIENT: Oh I feel good yeah.  I been doing that for.
+DOCTOR: So you're still getting kind of constipated?
+PATIENT: Okay I think the reason I was constipated might have been water.
+DOCTOR: You don't drink enough water?
+PATIENT: Yeah.  I don't know what is the reason but that stopped it because on my right side it hurt bad, like when I turn over in the bed.  It was killing me and you know my wife, you know she talks a lot.  She says it's probably your blah, blah, blah and probably need to use the bathroom.  You know I took her advice so I came on back and talk about and you know that's what it was.
+DOCTOR: Awesome.  But it seems to help now that you've been taking that.  So no belly pain or anything like that?  You're having regular bowel movements?
+PATIENT: Uh-huh.
+DOCTOR: Awesome.
+PATIENT: Yeah.
+DOCTOR: Any pain in your chest, trouble breathing?  How's your asthma?
+PATIENT: My asthma, for the last four, five years, been okay.
+DOCTOR: Uh-huh.
+PATIENT: I lost weight, I try to eat right.  I go to the gym.
+DOCTOR: Wow, look at you.
+PATIENT: I take the medication all the time and.
+DOCTOR: Your blood pressure's a little high today.  You took it today.
+PATIENT: Yeah.  Probably, see I got a little grandbaby there and.
+DOCTOR: Oh yeah.
+PATIENT: Just before I came, just before I left she's been on my nerves.
+DOCTOR: I thought they were supposed to be angels.
+PATIENT: I did too.  Angels with dirty faces.
+DOCTOR: Alright.
+PATIENT: And my daughter got this dog, a little funny-looking dog.
+DOCTOR: What kind is it?
+PATIENT: I don't know but she take it to the dog wash, giving him a blow dry, keep the dog fluffy and the dog [REDACTED].
+DOCTOR: So he's not cute?
+PATIENT: He cute, did you say cute?
+DOCTOR: Cute yes.
+PATIENT: Oh he's cute, she just babies him.
+DOCTOR: Oh yeah.
+PATIENT: You know it's one of those dogs that ain't gonna grow to be big.
+DOCTOR: Yeah.
+PATIENT: And she totes the dog around and all this and, it's something else.  Ride the dog around in the car with her all the time, staying with it when it has to go and it's something else.
+DOCTOR: Alright so I looked at your liver tests when you were here also and they looked fine.
+PATIENT: That's good.  They did an [REDACTED] no they did.
+DOCTOR: They did a CAT scan, it was normal.
+PATIENT: Okay.
+DOCTOR: So that was fine.
+PATIENT: Then I was supposed to came and did another thing.
+DOCTOR: An ultrasound.
+PATIENT: I think but I didn't make it and he told me that I could talk to, somebody [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Something about rescheduling it.
+DOCTOR: Do you know what it was to look at?
+PATIENT: Um.
+DOCTOR: Let's see, a colonoscopy?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Because I think, am I scheduled to have one?  I had one but I didn't know when.
+DOCTOR: Let's see if they put in, yeah.  They put in that they're gonna contact you about it um.
+PATIENT: So they're gonna call me?
+DOCTOR: Yeah they're gonna call you.  I mean, you had a colonoscopy already in 2007.
+PATIENT: Okay.
+DOCTOR: So you are due um.  It's a little early.
+PATIENT: Oh.
+DOCTOR: But uh it’s okay, we'll just put that you've been having all this pain and what not.
+PATIENT: It's not way too early is it?
+DOCTOR: No.  It's like a few months.
+PATIENT: Okay.
+DOCTOR: So it won't really make a difference.
+PATIENT: Yeah.  Because you know when I had it done the first time, she said they found two something and they cut them off.
+DOCTOR: Yep and that's why you have to have it done five years later so that one was about five years ago.  Um and then I saw so you went and got you hearing aids.
+PATIENT: Yeah I got one hearing aid.
+DOCTOR: How's that so uh they did find anything wrong.  Cause I remember the last time your hearing.
+PATIENT: That's because some of my hearing is lost in the left ear.
+DOCTOR: That is, well I'm glad that you have that for your left one.
+PATIENT: I forgot it.
+DOCTOR: Oh.  Well you can hear me, sound good.
+PATIENT: Okay.
+DOCTOR: Why don't you sit up here I'll take a listen to you.
+PATIENT: Uh.
+DOCTOR: Deep breath.
+PATIENT: I got what they did with my naval.  I had um.
+DOCTOR: I'm going to have you lay back.
+PATIENT: What's that operation?
+DOCTOR: Hernia.
+PATIENT: Umbilical.
+DOCTOR: Yeah.
+PATIENT: And sometime there be something running out of it.
+DOCTOR: But does it go back in?
+PATIENT: Yeah.
+DOCTOR: That's okay.
+PATIENT: Okay.  I got one more thing.
+DOCTOR: Yep.
+PATIENT: I got a cough.
+DOCTOR: Okay.
+PATIENT: At night I have a real bad cough.  It just started a couple days ago.
+DOCTOR: Have you been using your inhalers?  Okay, does it help?  Probably your asthma with changing of the season.
+PATIENT: Yeah that's what I was thinking.
+DOCTOR: Usually nighttime cough, that's what it is.
+PATIENT: Yeah it's bad.
+DOCTOR: Yeah.  Um you're just taking the albuterol now right?
+PATIENT: Um I don't know they gave me something.  I was taking.
+DOCTOR: Formoterol are you using that too?
+PATIENT: No they gave me just one.
+DOCTOR: Formoterol with mometasone?
+PATIENT: Nope.
+DOCTOR: No steroids?
+PATIENT: I was taking it but she gave me this one that replaced that.  Instead of taking both of them she said it's just one.
+DOCTOR: Yeah that's one.  Uh I don't know the name of it.  It's the two things in one.  But it's a steroid, you been using that?
+PATIENT: Yeah.
+DOCTOR: How long has the cough been going on?
+PATIENT: About three days.
+DOCTOR: Okay.  And I think maybe we should just let it ride out for a little bit. With the season, I don’t think changing the medicines is gonna do much.  I'm pretty sure it's probably the asthma so I think you just have to give it a little bit of time.  If it gets worse we can maybe try changing the medicines.  I think with only three days we don't really want to do anything aggressive and then have you on too much medicine.
+PATIENT: Okay.
+DOCTOR: Does that sound okay?  Your lungs sound good.  You're not wheezing or anything like that so.  Um and you haven't had a prostate exam yet or anything like that have you?  Uh uh.
+PATIENT: I thought the colonoscopy and the prostate is different?
+DOCTOR: Yeah the colon, the prostate is a different uh.
+PATIENT: I never have done it.
+DOCTOR: We can do a blood test to look for that.
+PATIENT: Okay.
+DOCTOR: Um and then.
+PATIENT: I don't know I took a blood test.  Oh you already took it.
+DOCTOR: Do what?  You had a blood test.
+PATIENT: Yeah.
+DOCTOR: Yeah it looked at um, it looked at your, we want to look at your lipids, your cholesterol.  You haven't had that for a while so um.  Alright well let me go talk with DOCTOR to see if he has any other thoughts about things to change and you're not taking anything for your cholesterol are you?
+PATIENT: Not that I know of.
+DOCTOR: Okay.  We might need to go up on one of these blood pressure pills cause it looks like the last time you were here it was a little high.
+PATIENT: Yeah.
+DOCTOR: So maybe we'll go up on your amlodipine um, so we'll go ask him okay.  I'll be right back.  Everything else looks great.
+(DOCTOR OUT:  35:11  DOCTOR IN:  37:18)
+DOCTOR: Alright.  Everything he said looks good.  We'll just do blood tests today.  We'll go up on the amlodipine and um.
+PATIENT: Um could you put in um a what do you call it?  A consult for me to go to the gym or the Wellness Center?
+DOCTOR: Yeah, I can, sure um.
+PATIENT: Cause I haven't been in a couple of weeks so I might be out of the.
+DOCTOR: Um let me, let me make sure [REDACTED] here.  You've been there before yes?
+PATIENT: Yeah.
+DOCTOR: Okay yeah I can put everything in.  So we'll just um on your way out, I guess just stop.  I don't know um just ask her at the front about getting the shot.  I don't know how to order it um if they know how they can let me know.
+PATIENT: Alright.
+DOCTOR: So we can get one.
+PATIENT: What is that, the tetanus?
+DOCTOR: Yeah the tetanus shot um, they should be able to order it up there, I think, or the nurse can.
+PATIENT: Okay.
+DOCTOR: And then um get the blood tests and then I'll have them send you the new prescription in the mail if you want.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Yeah.  So do I need to get, go to get the blood tests?
+DOCTOR: Yeah they're right where they, oh the blood tests yeah, it's across the hall um at the Lab.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Ask her about the shot.
+DOCTOR: Yeah.
+PATIENT: Have a nice day.
+DOCTOR: Alright have a good one.
+PATIENT: You too.
+PATIENT: 38:57.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286141
+TRANSACTION # 578-10-2-316-0103

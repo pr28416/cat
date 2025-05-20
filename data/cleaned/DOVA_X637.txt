@@ -1,0 +1,330 @@
+DOCTOR: PATIENT?
+PATIENT: PATIENT.
+DOCTOR: How are you?
+PATIENT: How are you too?
+DOCTOR: Okay.  Come on in.
+PATIENT: Oh.
+DOCTOR: How are you?
+PATIENT: I have four things.
+DOCTOR: Yeah my name is DOCTOR, nice to meet you.
+PATIENT: Uh where is my regular doctor?
+DOCTOR: Um DOCTOR?
+PATIENT: Yeah.
+DOCTOR: Yeah she's here.  I'm just working with her right now but she'll come in and say hello to you.
+PATIENT: Oh okay.
+DOCTOR: You're having a lot of pain, is this usual for you?
+PATIENT: Well, the doctor I'm getting in dialysis gave me medicine.
+DOCTOR: Uh-huh.
+PATIENT: And those do good for me.
+DOCTOR: [REDACTED].
+PATIENT: The pain is in my legs.
+DOCTOR: Uh were you just in the hospital?
+PATIENT: Yep.
+DOCTOR: And why did you go into the, oh your heartbeat was fast.
+PATIENT: Uh-huh.  That's something.  I always sneeze when I come over here.
+DOCTOR: What's that.
+PATIENT: I live in the North Division, the North Roadside Grays Lake.
+DOCTOR: Uh-huh.
+PATIENT: And in there all three years ago, it was my last year for the ear and they tell me I was in the borderline but not exactly yet and I think that past the borderline [REDACTED].
+DOCTOR: Past the borderline?
+PATIENT: I can't hear, correct.
+DOCTOR: The problem is you can't hear.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: So I needed an appointment for.
+DOCTOR: Okay.  Now do you have um, do you have, you're on dialysis.  You have high blood pressure, high cholesterol, diabetes.  You have a history of a heart attack and they went in and they put a stent?
+PATIENT: No.
+DOCTOR: They didn't put in a stent; they just went inside to look?  Do you want, can you sit here?  Can you hear me okay?
+PATIENT: Huh?
+DOCTOR: Can you hear me okay?
+PATIENT: Oh yes.
+DOCTOR: So you had, you had a history of a heart attack right?
+PATIENT: They say.
+DOCTOR: Okay in 2005 and then you had a large prostate.
+PATIENT: Uh-huh.
+DOCTOR: Is that right?  Anything else?  Any cancers or anything like that?
+PATIENT: No.
+DOCTOR: Okay.  And then your, what medical problems does your family have?  Your mother has high blood pressure and diabetes?
+PATIENT: Uh-huh.
+DOCTOR: And what else?  And what about your father.
+PATIENT: Yes she died.
+DOCTOR: What about your father.
+PATIENT: He died of cancer.
+DOCTOR: What kind of cancer?
+PATIENT: [REDACTED].
+DOCTOR: Anybody else, what about your brothers and sisters?
+PATIENT: My sister died of cancer in her head.
+DOCTOR: Okay what else?
+PATIENT: And the other sister got cancer on her breast.
+DOCTOR: Okay what else?
+PATIENT: That's it.
+DOCTOR: Okay.  Um and then you, you quit smoking 20 years, when did you quit smoking?
+PATIENT: About 20 years ago.
+DOCTOR: And then how much were you smoking?
+PATIENT: Plenty, at least a pack a day.
+DOCTOR: For how many years?
+PATIENT: I don't know, I was smoking for about 15-20 years.
+DOCTOR: And then what about alcohol?
+PATIENT: Alcohol, I did used to drink on weekends a lot.
+DOCTOR: When did you quit?
+PATIENT: Oh 15 years ago.
+DOCTOR: Were you a heavy drinker?
+PATIENT: Well if you call heavy drinker on weekends.  Never did I during the week no.
+DOCTOR: And then what about drugs?
+PATIENT: No.
+DOCTOR: And then do you work right now?
+PATIENT: I'm retired.
+DOCTOR: From?
+PATIENT: Coca Cola.
+DOCTOR: What did you do with Coca Cola?
+PATIENT: Service.
+DOCTOR: So Coca Cola things?  Do you service the machines?
+PATIENT: I used to service the machines.
+DOCTOR: I see.  Did you get a lot of free soda?
+PATIENT: All I want.
+DOCTOR: Really?
+PATIENT: But to bring home, I have to buy it.
+DOCTOR: Oh really, so you can drink on the job all you want?
+PATIENT: Yeah.
+DOCTOR: Are you married?
+PATIENT: Yes.
+DOCTOR: And you live here in Chicago?
+PATIENT: Yes.
+DOCTOR: And then um, so you said that you feel like.  Sorry.  Have you seen DOCTOR before?
+PATIENT: Yeah.
+DOCTOR: You have seen her; I just can't bring up her notes.  Hmm.  But at any rate are you feeling?  How are you feeling today?  You said they started you on some new medicines?
+PATIENT: Well I just started coughing badly.
+DOCTOR: For how many days now?
+PATIENT: Oh for I'm not [REDACTED] as severe now, oh for a week.
+DOCTOR: Anything coming up?
+PATIENT: Yeah, a lot phlegm coming up.  Although with the medicine that I get from the doctor, you can see it over there.  Yeah ever since doctor give it to me.
+DOCTOR: Oh, oh.  They gave you Benadryl.  And it's helping you?
+PATIENT: Oh yeah.
+DOCTOR: What color is the phlegm?
+PATIENT: Uh yellowish but it's coming to an end already.
+DOCTOR: Okay good.  I've never used that before, that's good.  Any chest pain?
+PATIENT: No.
+DOCTOR: Shortness of breath?
+PATIENT: Shortness of breath it comes because my nose always plug.
+DOCTOR: Okay.  But otherwise you can walk around without any problems?
+PATIENT: It comes in my legs still.
+DOCTOR: Okay.  But it's the pain in your leg that makes you stop but not shortness of breath?
+PATIENT: It’s two different pains.
+DOCTOR: Okay.
+PATIENT: In the same person.
+DOCTOR: Okay and then uh so do you.  How far can you walk?
+PATIENT: I've never measured it.
+DOCTOR: No okay.
+PATIENT: But during the home I don't walk that much.
+DOCTOR: Okay.
+PATIENT: Because after all we're living in three levels and from the first floor to the second floor is 20 steps.
+DOCTOR: Oh that's a lot.  That's a lot even for me.  Okay.  Any nausea, vomiting, fevers or chills?
+PATIENT: No.
+DOCTOR: Any belly pain?  Any black stool, black like this?
+PATIENT: No.
+DOCTOR: Any bloody stools?
+PATIENT: Not that I know.
+DOCTOR: And do you still make urine?
+PATIENT: Huh?
+DOCTOR: Or do you still pee or no?
+PATIENT: Oh yeah.
+DOCTOR: Okay.  Does it burn when you pee?
+PATIENT: No.
+DOCTOR: Any blood in your urine?
+PATIENT: Not that I know.  No because I can see what it.
+DOCTOR: You don't see any okay.  And then, you can see though, you just haven't been looking?
+PATIENT: Oh when they did the operation.
+DOCTOR: What did they do for that operation?
+PATIENT: They changed the pupil.
+DOCTOR: Pupil or.
+PATIENT: Pupil rather, the part of the eye.  Now I need glasses only for reading.
+DOCTOR: Pupil or lens?
+PATIENT: Huh?
+DOCTOR: Pupil or lens?
+PATIENT: The lenses are for reading.
+DOCTOR: But they never changed the pupil.  The pupil is just the opening.
+PATIENT: There was something, they did something over here.  They put something new and I don't need any glasses.
+DOCTOR: Implants.  Uh cataracts.
+PATIENT: Yeah they took that out.
+DOCTOR: Okay.  And then your fistula, they just put it in November huh?
+PATIENT: Yeah, it is right here.
+DOCTOR: Okay.  Does it hurt?
+PATIENT: Still hurt.
+DOCTOR: It hurts?
+PATIENT: Yeah.  You can touch it, see.
+DOCTOR: Very good.
+PATIENT: It's working?
+DOCTOR: Yeah, yeah.  So you had in 2007, you had a fistula too.
+PATIENT: Here.
+DOCTOR: But it's not working anymore huh?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: The one that work I have over here.
+DOCTOR: What is that?
+PATIENT: The two tubes for the dialysis.
+DOCTOR: Oh okay and then they took it out.
+PATIENT: No it still there.
+DOCTOR: Oh it is, can I see?  How come they haven't taken it out?  How come they haven't taken it out?
+PATIENT: Cause they're still using it.  Because this is where they use it for blood yet.
+DOCTOR: Alright.  Thank you.  It should be getting ready soon.  One month or did they tell you a couple months?
+PATIENT: I prayed to the Lord it take a short time about 15 years or 10 or 20.
+DOCTOR: You didn't want them to use that?
+PATIENT: Look at that.
+DOCTOR: They tried [REDACTED] again?
+PATIENT: Over here by the elbow here.
+DOCTOR: Here did they try that already?
+PATIENT: No.
+DOCTOR: What other surgeries have you had?
+PATIENT: What other what?
+DOCTOR: What other surgeries have you had?
+PATIENT: They covered my whole body, what do you want.
+DOCTOR: They what?
+PATIENT: Oh yeah.
+DOCTOR: Yeah no, we don't need your.
+PATIENT: What does she want?
+DOCTOR: So they put that chest in August.
+PATIENT: Something like that, yes.
+DOCTOR: Is there anything that you wanted us to address today?
+PATIENT: Uh.
+DOCTOR: It looks like you're doing pretty good.
+PATIENT: Hold on, they took x-rays of my legs.
+DOCTOR: Okay.
+PATIENT: For the pain.  I don't know what happened to it.  I never heard of it.
+DOCTOR: Okay.  Let me renew your medicines.  You're taking all your medicines without any problems?
+PATIENT: That’s right, yes.  Oh sometimes I cut them in half and that piece like that but.
+DOCTOR: Do you want all these medicines to be sent to you at the house?
+PATIENT: Yes.
+DOCTOR: You're taking medicines for your prostate too huh?
+PATIENT: Yeah.
+DOCTOR: And you're taking Viagra and any problems with that?
+PATIENT: Yes I'm out of Viagra.
+DOCTOR: You can always pick some more up um.  You have.
+PATIENT: [REDACTED] Viagra; [REDACTED] over here.  One pill.
+DOCTOR: I know. I don't know why they do that.  I'm very sorry.  I don't know why they do that.
+PATIENT: Cheaper.
+DOCTOR: But that’s the government, right?  Let me see.  I will give you more refills on the Viagra but you can only still pick it up once a month.
+PATIENT: Uh-huh.
+DOCTOR: Um.  Okay.
+PATIENT: What's the other one, the ear exam?
+DOCTOR: Yes.  I'm gonna look in the ears but I'm also gonna send you to somebody.
+PATIENT: Uh-huh.
+DOCTOR: Now you had the chest x-ray right?  Your chest x-ray looks good.
+PATIENT: What about my legs.
+DOCTOR: And your legs, when did they do your legs?
+PATIENT: I don't know [REDACTED].
+DOCTOR: They did your, oh they did your bone scan.
+PATIENT: Ah that’s what it is.
+DOCTOR: Um let's look.  Your bone showed that you have weak bones.  It showed that you have weak bones and do you drink milk or take vitamins, vitamin D or calcium?
+PATIENT: I only take whatever they give me here.
+DOCTOR: Okay.  So hmm.  Oh [REDACTED].  Hmm.  So I might start you on a vitamin, another vitamin.
+PATIENT: Uh-huh.
+DOCTOR: Vitamin D for your bones.  Do you, have you been falling at all or anything like that?
+PATIENT: Whatever they gave me my wife take care of it, that [REDACTED].
+DOCTOR: But you haven't been falling?  Have you fallen?
+PATIENT: No I'm very careful.
+DOCTOR: Okay.  Do you feel like you're losing your hearing and that's why you want to get it checked?
+PATIENT: Well about three years ago the doctors said that I'm the borderline.  [REDACTED] The television huh?
+DOCTOR: Which doctors?
+PATIENT: In the nerve division.
+DOCTOR: Have a seat here, let me look.
+PATIENT: Uh I lay down to listen to the television I have to put it at very high volume.
+DOCTOR: No ear pain?
+PATIENT: No.
+DOCTOR: Very good.  Do you clean your ears?
+PATIENT: Yes.
+DOCTOR: You can stop.  Does that hurt?
+PATIENT: No.
+DOCTOR: Don't put anything into your ears.
+PATIENT: I have to clean because when I take a shower water gets in.
+DOCTOR: Oh okay.  You've never used hearing aids before?
+PATIENT: No.
+DOCTOR: Can you unzip your jacket?  Deep breath in and out.  When are your dialysis days?
+PATIENT: Monday, Wednesday and Friday.
+DOCTOR: Where do you get dialysis?
+PATIENT: Huh?
+DOCTOR: You get dialysis here?
+PATIENT: Yes.
+DOCTOR: Any swelling in your legs?
+PATIENT: No, no swelling.  And yes I can feel it.
+DOCTOR: What do you take for the pain?
+PATIENT: Uh Tylenol.
+DOCTOR: So it gets better?
+PATIENT: Yeah but I don't take the Tylenol very often.
+DOCTOR: Alright.  Okay.  I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: Anything else, so just the bones and then your cough is getting better right?
+PATIENT: Yes, oh yes uh-huh.
+DOCTOR: Let me just take a look inside.  Say ah.
+PATIENT: Ah.
+DOCTOR: Stick out your tongue good.  I'll be right back okay.
+(DOCTOR OUT:  51:11  DOCTOR IN:  52:43)
+DOCTOR: She's still a little bit busy.  You didn't feel like your heart was racing?
+PATIENT: No.  Did you know this?
+DOCTOR: The recorder?  Are you recording me?
+PATIENT: No somebody is.
+DOCTOR: Oh good.  They didn't increase your medicine.  You didn't bring your medicines.  Did you bring your medicines?
+PATIENT: No.
+DOCTOR: Is this to record your heart though right?  Who gave this to you?
+PATIENT: He was taking a census over there.  He said to find out how the doctors behave you know when they're with a patient.
+DOCTOR: Oh.
+PATIENT: Some type of research.
+DOCTOR: Oh okay okay.  I thought it was a machine to, okay.  I'm sorry I thought it was something else for your heart.
+PATIENT: No.
+DOCTOR: Okay.  That's fine.
+PATIENT: Now you got two.
+DOCTOR: I don't think so, well maybe.  Well I'll have them explain it to you.  Um I'm sorry um one of your medicines.  One of your medicines they were supposed to increase it but did you bring your medicines with you?
+PATIENT: No.  I used to but the only the that I had that.
+DOCTOR: It was too many?
+PATIENT: They never used it I mean they're white.
+DOCTOR: I'm really sorry but one of your medicines they were supposed to increase but on here it looked like they lowered it.  So I would, your blood pressure I mean your blood pressure and your heart rate we can make it better controlled.  So can I change one of your medicines?
+PATIENT: Huh?
+DOCTOR: Can I change one of your medicines?
+PATIENT: Change what?
+DOCTOR: Change one of your medicines.
+PATIENT: Whatever.  I'm not a doctor.  I’m at your mercy, that's all.
+DOCTOR: Okay.  I'm not sure why they.
+PATIENT: I know the last time the doctor gave me a piece of paper.
+DOCTOR: Right.
+PATIENT: And they eliminated two and they cut one in half.
+DOCTOR: They eliminated two and cut one in half?
+PATIENT: Yeah.
+DOCTOR: Yeah I'm not sure why they cut it in.  I wonder why they cut your medicine in half because in your note it says to continue it.  Hmm.
+PATIENT: I remember in there in dialysis every month they make a, they take blood and configure whatever the content possibly based from that.
+DOCTOR: Okay I'm very sorry it's taking a little bit longer.  Let me go see [REDACTED].
+PATIENT: Oh it's okay.
+DOCTOR: Alright.  Let me see if I can figure out what your, what your medicine is.
+PATIENT: I use the telephone you could call my wife, she tell you.
+DOCTOR: What's your wife's telephone number?
+PATIENT: Uh NUMBER.
+DOCTOR: She's at home right now?
+PATIENT: Yeah.
+DOCTOR: What's her name?
+PATIENT: NAME.  [REDACTED] I call her for her.
+DOCTOR: Okay, alright thank you.  Let me see if I can't get a hold of her.  Okay we're gonna check one blood test.  I didn't have to call your and I'm going to send you for the ears.
+PATIENT: Uh-huh.
+DOCTOR: Okay and we're gonna send you for one blood test that is, we're gonna check for your vitamin D level to see if we need to give you something for your bones.
+PATIENT: Uh-huh.
+DOCTOR: And then um next time you're gonna see DOCTOR okay.  It was a mistake for you to be seen with us.
+PATIENT: What’s the difference?
+DOCTOR: Sorry.
+PATIENT: For me a doctor is a doctor.
+DOCTOR: You better.
+PATIENT: A doctor is a doctor, that’s it.
+DOCTOR: She has more experience.
+PATIENT: Well that may be, but you are younger [REDACTED].
+DOCTOR: And then um and then I put in um an order for you to get your ears checked but they'll call you or they'll send you an appointment.
+PATIENT: Oh okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: So then you'll come back and see her in about four months.
+PATIENT: Okay.
+DOCTOR: Okay.  Okay.
+PATIENT: Okay.
+DOCTOR: Thank you very much.  It was nice meeting you and you can just give that to the front office.  Thank you.
+PATIENT: Okay.
+PATIENT: 66:36
+It is 10:30.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255163
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,391 @@
+DOCTOR: PATIENT.  Hi I'm DOCTOR.
+PATIENT: DOCTOR.  Please to meet you DOCTOR.
+DOCTOR: Nice to meet you.
+PATIENT: What happened to DOCTOR?
+DOCTOR: She's here.  The Gold Team.
+PATIENT: I thought she was [REDACTED].
+DOCTOR: No she's here.
+PATIENT: [REDACTED] no more?
+DOCTOR: What?
+PATIENT: [REDACTED].
+DOCTOR: No.  She's the way to [REDACTED] us.
+PATIENT: Oh okay.
+DOCTOR: [REDACTED] your blood pressure is a little bit elevated today.  We'll recheck it.
+PATIENT: Really.
+DOCTOR: Yeah.  Just a tiny bit.  What has your blood pressure been running at home?  Do you take it?
+PATIENT: I don't know.  They gave me a blood pressure machine; I can't make it work right.
+DOCTOR: [REDACTED].
+PATIENT: They say [REDACTED] arm [REDACTED] .
+DOCTOR: Alright.  Yeah if you can go to Prosthetics one day and bring you old one and they could give you a new one then.
+PATIENT: Is that from here?  I've had it for maybe a year or so but I never did get it to work so I just got angry you know.
+DOCTOR: Alright.
+PATIENT: [REDACTED].
+DOCTOR: So you don't check it yourself at home?
+PATIENT: No I used to though.
+DOCTOR: Yeah.  I want you to check it.
+PATIENT: I know.
+DOCTOR: Um are there any problems or like how are you doing otherwise?
+PATIENT: Oh I been having belly pain once in a while.
+DOCTOR: Uh-huh.
+PATIENT: And uh chest pains I'm still having.
+DOCTOR: Uh-huh when is it?
+PATIENT: And the hives I've still got.
+DOCTOR: When has the chest pain been going on?
+PATIENT: All the time.  It never stops.  I just gave up.
+DOCTOR: Well when does it occur like when you're walking or not when you're walking or?
+PATIENT: Like I was saying to one lady this morning like you touch this spot right here, it stays sore now all the time.
+DOCTOR: Uh-huh.
+PATIENT: She says that sounds like a muscle.
+DOCTOR: Yeah it sounds like a muscle pain.  Have you tried any kind of like creams on it or anything?
+PATIENT: Yeah.  Yeah it's just there on my neck and lower.  That's why they did all that stuff on my heart.
+DOCTOR: Yeah to make sure it wasn't your heart.
+PATIENT: And they say well this [REDACTED] be my heart so.
+DOCTOR: Yeah so you had a stent placed.
+PATIENT: Right and uh.
+DOCTOR: Are you doing better with that or relieved the symptoms yeah.
+PATIENT: Yeah.
+DOCTOR: Have you tried like a little heating pad or anything like that?
+PATIENT: No.  I had some of that rub, I still got some left.  They gave me some muscle rub.
+DOCTOR: Yeah and it didn't help?
+PATIENT: It help some of it.
+DOCTOR: So like why don't you do that or?
+PATIENT: I do.
+DOCTOR: Okay.  How about um problems elsewhere like any problems with, you stillget  headaches, how long has that been going on?
+PATIENT: Uh they go off and on.  Like I've got one now, for about a week but I was thinking the next time I come.
+DOCTOR: [REDACTED].
+PATIENT: Maybe for some reason there's pain in my chest and in the neck.
+DOCTOR: Yeah muscle pain.
+PATIENT: Yeah.
+DOCTOR: Well are you still taking the gabapentin or not really?
+PATIENT: I ain't taking nothing.  I ain't on nothing and the last time I come here the lady who gives me my medicines list she told me I was all out a lot of refills.
+DOCTOR: Okay so which.
+PATIENT: She say I need uh.
+DOCTOR: So how long have you been off the medications?
+PATIENT: Uh I know it was a month.
+DOCTOR: A month.
+PATIENT: Cause I went out of town and I was gone for a while so when I came back I made an appointment.  Probably about a month and a half or two months.
+DOCTOR: Yeah.
+PATIENT: Cause it was ’09 when I ran out and now this is 2010.
+DOCTOR: [REDACTED] okay.  So let's just go through some of your medications here.  You're on hydrochlorothiazide, you'll pick it up at the window, why don't you get it since you're here already.
+PATIENT: Yeah [REDACTED].
+DOCTOR: And then the cholesterol medication.
+PATIENT: Right.
+DOCTOR: And then.
+PATIENT: They took me off that blood pressure medicine.
+DOCTOR: Yeah well you kind of need it today.  I mean your blood pressure is elevated and since you have a history heart disease you really need to be on a blood pressure medication.
+PATIENT: Do I gotta go back on that?
+DOCTOR: Uh-huh. [REDACTED] aspirin.
+PATIENT: I don't know what makes my blood pressure go up and down like that.  Yeah, I take an aspirin. [REDACTED] at Walgreens.
+DOCTOR: Yeah so do.
+PATIENT: [REDACTED].
+DOCTOR: Do you want to pick it up here or do you want to like pick it up at Walgreens or here?
+PATIENT: Uh I don't know, [REDACTED].
+DOCTOR: I'll [REDACTED] alright.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Cause I only take like one every day.
+DOCTOR: Yeah.
+PATIENT: I have two or three bottles of them.
+DOCTOR: Okay.
+PATIENT: So I got like a half a bottle.
+DOCTOR: Alright then I won't fill it.
+PATIENT: I know I refilled this one.  I know I got at least 100 pills maybe 50.  I don't got uh like; I might have a couple of [REDACTED] left.
+DOCTOR: Okay.
+PATIENT: Uh [REDACTED] cholesteral.
+DOCTOR: Uh-huh.
+PATIENT: I might have a few of those left.  But they last longer than any other pills and this one lasted a month.
+DOCTOR: Uh-huh.
+PATIENT: At a time.
+DOCTOR: Well let's just start you on these medications, the cholesterol medication, we're gonna refill the aspirin and then one blood pressure medication.  Are you taking the Depakote or risperidone?
+PATIENT: Uh yeah I supposed to pick that up today.
+DOCTOR: You saw the psychiatrist right?
+PATIENT: [REDACTED] downstairs.
+DOCTOR: Okay.
+PATIENT: She got a urine so I went and did that.
+DOCTOR: Okay.
+PATIENT: I need something for my eyes.  I had that moisturizer to make more tears.
+DOCTOR: Uh-huh.
+PATIENT: It lasted, I think I ain't got no more and I ran out.
+DOCTOR: Alright.
+PATIENT: And now my eyes is really dry.
+DOCTOR: I can give you some new drops.
+PATIENT: I don't know why my eyes are so dry.  Every morning when I wake up I can't, I can't open them and I can't close them, it hurts.
+DOCTOR: Yeah.
+PATIENT: And then after I work them for about 10 minutes then they start back and stop hurting.
+DOCTOR: Yeah I mean [REDACTED] or no.
+PATIENT: Well we got, actually we got no humidifier but we got that [REDACTED] thing, we ain't got no [REDACTED].
+DOCTOR: Yeah [REDACTED].
+PATIENT: That's why it's drying it up.
+DOCTOR: I mean it could be cause if you wake up at night yeah and you wake up in the morning and it's dry.
+PATIENT: Yeah it's dry, real dry.
+DOCTOR: Okay anything else then?  Any vision changes?
+PATIENT: That's it.  No I got my eyeglasses.  They give me new eyeglasses.
+DOCTOR: Okay good.  No cough or sore throat?
+PATIENT: I had a cold.  I don't think I had no flu – I don’t take no flu shots - but I had a cold and I had a sore throat and I just got over the sore throat.  The sore throat lasted longer than the cold did.
+DOCTOR: Yeah.
+PATIENT: And sometimes I start to feel the sore throat, I think it's because I play a harmonica.
+DOCTOR: Really.
+PATIENT: Sometimes when I blow the harmonica a lot it be sore.
+DOCTOR: Yeah.  You have nasal drainage or anything?
+PATIENT: I have never get drainage.
+DOCTOR: Well I'll give you this nasal spray so you can have that at home.  Sometimes your throat gets sore.
+PATIENT: Yeah.
+DOCTOR: Because there's stuff draining into the back of your throat.
+PATIENT: Okay.
+DOCTOR: So you can pick that up at the window today too alright.
+PATIENT: Okay.  And uh yesterday uh.
+DOCTOR: How about any problems with belly pain, nausea, vomiting, stools?
+PATIENT: I'm gonna say, well my GI problem, the only reason I got this problem is cause I don’t got teeth.  It seem like sometimes, it doesn't do all the time but it when it did, at least three times a week.  I can lay down, if I'm laying down it seem like the food that I ate is gonna come back up.
+DOCTOR: Hmm.
+PATIENT: It do it at least two or three times a week.
+DOCTOR: You feel like nauseous or?
+PATIENT: I don't feel like I'm gonna throw up it just feel like, like a pain, it feel like food is kicking up by my stomach like [REDACTED].
+DOCTOR: Do you feel bloated and stuff?
+PATIENT: I just feel like, [REDACTED] but I do feel that.
+DOCTOR: Do you feel like you’re full of gas.
+PATIENT: Yeah well I have a lot of gas but it feel like basically like I said.
+DOCTOR: Do you have like problems with acid is coming up?
+PATIENT: Oh I still have some acid reflux right.
+DOCTOR: Yeah.
+PATIENT: That's what's doing it?  Acid reflux.  Okay.
+DOCTOR: It could be a possibility.
+PATIENT: Okay so.
+DOCTOR: I’ll give you one of those medications.
+PATIENT: I took that for a while and I'm gonna tell you what happened with that.  The lady said [REDACTED] I thought you just take it at one time and it cured it. But she said you gotta take it every day.
+DOCTOR: It depends on how bad it is yeah.  Some people take it every day and I only take it every once in a while if I need it.
+PATIENT: They said you gotta take it, that's what the lady told me.  I got some lady downstairs.
+DOCTOR: Yeah.
+PATIENT: She said oh it'll go away [REDACTED].
+DOCTOR: Yeah.
+PATIENT: I say my stomach is doing fine, I got nothing serious.
+DOCTOR: Yeah.
+PATIENT: But it didn't.
+DOCTOR: Yeah.  And sometimes people notice [REDACTED] happens.
+PATIENT: And then you say take two times a day.
+DOCTOR: That's what I do when I get it.
+PATIENT: So you still use it when [REDACTED] can't.
+DOCTOR: Yeah.
+PATIENT: Not so rough.
+DOCTOR: Does it.
+PATIENT: It feel like it gonna come up, it's burning like.
+DOCTOR: Burning right.
+PATIENT: Like a acid burn.  It feel like the food is coming up and it seems like.
+DOCTOR: So I think the acid burning.
+PATIENT: Sometimes I get it when I eat like ice cream or something.
+DOCTOR: Really.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Do you want to try it or not?
+PATIENT: I'll try it yeah I'll try it.
+DOCTOR: I'll give you ranitidine and you can just take it once at bedtime okay.
+PATIENT: That's just for the acid right?
+DOCTOR: Uh-huh.  Okay.  Alright then um anything else?
+PATIENT: I don't want the.
+DOCTOR: Like constipation or anything?
+PATIENT: I ain't constipated, my bowels move good.  And I need to ask for more [REDACTED].  Uh [REDACTED] sexual [REDACTED].
+DOCTOR: Do you need [REDACTED].
+PATIENT: Well I really need something.  I [REDACTED] trying to [REDACTED].  So if it don't work I ain't worried about it.
+DOCTOR: Yeah well.
+PATIENT: Cause that stuff makes the heart pump real fast.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Say ah.
+PATIENT: Ah.
+DOCTOR: Ah okay you're fine.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: My girlfriends talks like I need some drugs.
+DOCTOR: Any pain?
+PATIENT: No.  I just got a lot of [REDACTED] right here.
+DOCTOR: Has that headache been coming more often lately or?
+PATIENT: No not really.
+DOCTOR: Like once a month or once every three weeks or?
+PATIENT: Some days I have [REDACTED] pain.
+DOCTOR: Okay.
+PATIENT: Uh I don't get it.
+DOCTOR: Is it so bad that.
+PATIENT: I noticed it today cause I got most of the time I take like a aspirin or and aspirin will really make it go away.  Tylenol too.
+DOCTOR: The headache doesn't ever wake you up at night or anything does it?
+PATIENT: No.
+DOCTOR: Okay.  Deep breath, [REDACTED].  Alrighty.  Can you lay down for me um no weight loss or anything right?
+PATIENT: I gained weight.  At Thanksgiving I gained three pounds.  [REDACTED] something I [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Pain right there?
+PATIENT: No the only place I got pain right here.
+DOCTOR: Yeah where that rib.
+PATIENT: Right here, right here.
+DOCTOR: If you just massage for a few minutes.
+PATIENT: It's like this spot, see right there?
+DOCTOR: Yeah.
+PATIENT: Now I was gonna get, well right here too, I never noticed it over there.
+DOCTOR: Well maybe you have um; you just need to put that medication that lotion on there.
+PATIENT: The cream?
+DOCTOR: Yeah.
+PATIENT: The muscle cream?
+DOCTOR: It's a muscle cream.  Is it the menthol one or the.
+PATIENT: Yeah it's the menthol one.
+DOCTOR: I can give you the other one.
+PATIENT: Okay.
+DOCTOR: And we can see if that works.  Its chili pepper, like hot chili pepper make cause it to tingle a little bit.
+PATIENT: I already got that.
+DOCTOR: You want to try it or?
+PATIENT: Yeah I got menthol.  I'll try the chili pepper too.
+DOCTOR: Well don't rub your eyes after you put the cream.
+PATIENT: You do that with menthol and even after you wash your hands that menthol can make your eyes burn.
+DOCTOR: Yeah it works.  Yeah be careful.
+PATIENT: I can smell them, so I know to be careful, believe me.
+DOCTOR: Yeah [REDACTED].
+PATIENT: I washed them two or three times now cause I don't got that little bit and you forget and rub up here you in trouble.
+DOCTOR: Yeah.  Do you need some gloves to use maybe?
+PATIENT: Uh no.  I believe like I said about that because that would something maybe but I thought about it.  Like the menthol, like I got a little bit on my chin, it seems like those vapors from here come up and get me in the eye a little bit.
+DOCTOR: Uh-huh.
+PATIENT: I mean it didn't hurt, you have to put water and try to wash them, like out or something I mean it let's you know it's on there.
+DOCTOR: Yeah, yeah the smells and everything.  Alright you're not smoking any more?
+PATIENT: No I never been a smoker in my life.
+DOCTOR: Okay good.  No drugs?
+PATIENT: No drugs, that's for sure.
+DOCTOR: Wine?
+PATIENT: Uh I had a couple of drinks this year.
+DOCTOR: Okay.
+PATIENT: The [REDACTED] there too.
+DOCTOR: Yeah alright.
+PATIENT: I had a glass of wine yesterday and I had a drink on Christmas and some wine.  I ain't had no hard alcohol, a wine or beer.  I'm not going to [REDACTED] really I like beer stuff like that.
+DOCTOR: Okay.
+PATIENT: That's all I drink, a can of beer maybe once a year, twice a year or a glass of wine.
+DOCTOR: Alright.  Well it looks like.
+PATIENT: And I drink a wine yesterday and it made me do that too, it made me feel like, feel like it.
+DOCTOR: Yeah wine can make you feel.
+PATIENT: I drank the wine, I ate some food and it felt like my food was gonna come back out of my stomach.
+DOCTOR: Yeah it can cause that.
+PATIENT: In my mouth.
+DOCTOR: Yeah.
+PATIENT: But the last time it didn't give me any trouble because I even drank some milk.
+DOCTOR: Yeah.
+PATIENT: Orange juice or something.  Orange juice will get me too.  I already know it'll get me.
+DOCTOR: Yeah.
+PATIENT: Cranberry juice don't do it as bad.  Orange juice will make you sick.
+DOCTOR: So I want you to get your cholesterol test if you can when you come in.
+PATIENT: How do you check that?
+DOCTOR: Your blood tests.  If you come back tomorrow when you didn't eat or next week or something.
+PATIENT: Why [REDACTED] I had oatmeal.
+DOCTOR: Yeah can you come another day when you didn't eat?
+PATIENT: Yeah the last time, let me see DOCTOR gave me an appointment for, just make it for Friday.
+DOCTOR: Yeah that's fine if you can just fast.
+PATIENT: [REDACTED].
+DOCTOR: Yeah just come in Friday and get the blood drawn.
+PATIENT: Okay.  But don't eat nothing that day right.
+DOCTOR: But don't eat anything.
+PATIENT: Okay.
+DOCTOR: Okay I'll be right; oh I wanted to check your blood pressure.
+PATIENT: Oh okay.  They just checked it out there. [REDACTED]. But I took my blood pressure out there.  I [REDACTED] I felt like my heart was gonna be less.
+DOCTOR: Uh-huh.
+PATIENT: It was like breathing into a stick.
+DOCTOR: Yeah.
+PATIENT: A tunnel. [REDACTED]
+DOCTOR: Hmmm… I wonder why.
+PATIENT: I don’t know. [REDACTED]
+DOCTOR: [REDACTED].
+PATIENT: Cause your heart is a muscle too.
+DOCTOR: Nervew [REDACTED].
+PATIENT: You need some more towels over here.
+DOCTOR: Oh okay.
+PATIENT: [REDACTED].
+DOCTOR: Skip a beat.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Keep this arm [REDACTED].
+PATIENT: Okay.  See that's the problem with the thing I had. I’ll bring it back, though. [REDACTED].
+DOCTOR: Alright.  I'll try it one more time yeah it's still high.
+PATIENT: Oh it's still high.
+DOCTOR: Uh-huh.
+PATIENT: I didn’t eat nothing.
+DOCTOR: But its okay, you need to be on the blood pressure medication right.
+PATIENT: I need some uh, yeah I will be if you [REDACTED].  They say it was fine the last three or four times I [REDACTED].  Oh maybe when I had the cough I take the vitamin B 12, that wouldn’t do it?
+DOCTOR: No.  You should be on a small dose of blood pressure medication anyway.
+PATIENT: Okay.
+DOCTOR: If you have heart problems.
+PATIENT: Okay.  Alright.  They took me off it.  I didn't take myself off of it.
+DOCTOR: Yeah now it's all on here yeah.  [REDACTED].
+PATIENT: And it just gave me like a pain pill because I was having pain in my chest, that worked pretty good.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Which one?
+PATIENT: If you take pain pills you could be in pain and you wouldn’t even know it.
+DOCTOR: Yeah.
+PATIENT: So uh the last time I came the doctor gave me some pain pills.
+DOCTOR: Uh-huh.
+PATIENT: I forgot the name.
+DOCTOR: Oh.  Oh no nitroglycerin?
+PATIENT: No it was just like a pain pill. I ain’t got the paperwork [REDACTED].
+DOCTOR: I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  82:16  DOCTOR IN:  88:46)
+DOCTOR: Alright sir.
+PATIENT: Do you know what I forgot to say to you?
+DOCTOR: Uh-huh.
+PATIENT: I don't know if [REDACTED] or not.  [REDACTED].  I feel so bad, I sit in a hot tub of water, it might take a week and a half for them to go down.
+DOCTOR: So you need to lie down.
+PATIENT: [REDACTED].
+DOCTOR: Yeah okay.  I want to; we looked at your chart a little bit more.  Are you um, I forgot what I was gonna say, oh you know how the cardiologist wanted you to maybe do this one test?
+PATIENT: Yeah I didn't want it.
+DOCTOR: You don't want it?  [REDACTED].
+PATIENT: No they're [REDACTED] radiation.  She told me that put a lot of radiation in your body.  She said it would flush out in about a week or two so I was.  Well don’t got to think about it, I don't want, I was scared at first.
+DOCTOR: Do you want to go talk with them maybe?  You can make an appointment with them?
+PATIENT: No I'm fine now.
+DOCTOR: They'll make an appointment outside for you.
+PATIENT: Right I do that.
+DOCTOR: Okay.
+PATIENT: I scared. Too much [REDACTED].
+DOCTOR: Why don't you see them and talk to them because they wanted to make sure that your heart is okay you know.  That's the main thing.
+PATIENT: I don't know what's going on.
+DOCTOR: Okay.
+PATIENT: I want to make sense of it.
+DOCTOR: Well once you make an appointment then they can [REDACTED].
+PATIENT: Oh, oh, I'll think about it.  I just told you to schedule it [REDACTED].
+DOCTOR: I know but once, why don't we make the appointment and then you can call and cancel.
+PATIENT: Uh.
+DOCTOR: I mean this is your life we're talking about.
+PATIENT: I know it is.
+DOCTOR: It's not like.
+PATIENT: But if they did, they done it and they find something wrong then what are they gonna do, cut me open?
+DOCTOR: They're not gonna.
+PATIENT: Sometimes I just don't want to know all this stuff.
+DOCTOR: I mean yeah it's true, we don't know what's the next step.
+PATIENT: Yeah that's what I like.  [REDACTED]
+DOCTOR: So you want to hold off again?
+PATIENT: Let me think about it.
+DOCTOR: Do you want to come back in three months and talk to me about it?
+PATIENT: [REDACTED] operate on [REDACTED] cut me open [REDACTED].
+DOCTOR: Okay so then.
+PATIENT: That's the bad feeling I got cause I, like I said sometimes my hear is like this, it don't do it all the time.
+DOCTOR: Uh-huh.
+PATIENT: It feel like.
+DOCTOR: Well I mean I think that's the reason why you should go and see the cardiologist.
+PATIENT: I know.
+DOCTOR: What do you think?
+PATIENT: I still got to think about it.
+DOCTOR: Alright it's up to you again.  Alright so then you're gonna go pick up your prescriptions and you'll get labs next Friday right?
+PATIENT: Right.
+DOCTOR: Whenever you see DOCTOR okay.
+PATIENT: Right.
+DOCTOR: Okay.  Do you need this to remember or you'll remember.
+PATIENT: To do what?
+DOCTOR: To pick up your prescriptions and labs next Friday.
+PATIENT: Okay I'll take it.
+DOCTOR: Alright take care.
+PATIENT: Alright.  I'll, I mean I know there's something wrong but I don't [REDACTED] something wrong with my musc.es.
+DOCTOR: Yeah well.
+PATIENT: And shoulder.  Something wrong cause it's been hurting too long.
+DOCTOR: Yeah that's the reason why we were wanting you to do [REDACTED].
+PATIENT: [REDACTED] scared.
+DOCTOR: Yeah alright.
+PATIENT: I'll think about it.
+DOCTOR: [REDACTED].
+PATIENT: I'll talk to my wife about it.
+DOCTOR: Alright [REDACTED].
+PATIENT: 91:36.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255167
+TRANSACTION # 578-10-2-316-0103

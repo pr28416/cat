@@ -1,0 +1,227 @@
+DOCTOR: PATIENT?  How you doing today?  How's life treating you?
+PATIENT: Oh pretty good.
+DOCTOR: You look pretty good.
+PATIENT: Since the last time I see you, been a while.
+DOCTOR: Yeah.
+PATIENT: This time I brought all my medicines.
+DOCTOR: Good.
+PATIENT: Some of them are out and some of them aren't.
+DOCTOR: Okay, so you need a couple refills?
+PATIENT: Yes.
+DOCTOR: Your blood pressure's a little bit high.
+PATIENT: That's because some of them are out.  Some of my blood pressure medicines.
+DOCTOR: Which ones are they?
+PATIENT: I don't know that's, I don't know the names of them that's why I just brought them.
+DOCTOR: Okay.  Okay.  Sounds good, let's see.  How are your sugars doing?
+PATIENT: Here you go.  I haven't been poking my fingers cause I get.  I know I'm feeling pretty good cause my vision's not blurry and I don't have any headaches.
+DOCTOR: How long, often you checking your blood sugar?
+PATIENT: My blood sugar?
+DOCTOR: Uh-huh.
+PATIENT: Probably once a week.
+DOCTOR: Okay and the last time you checked what was it?
+PATIENT: 130.
+DOCTOR: Okay.  Uh morning when you woke up or during the day?
+PATIENT: That was during the day.
+DOCTOR: Okay.
+PATIENT: When I'm sitting in the easy chair and I look at this thing laying over on the stand I said well hell if I check it.
+DOCTOR: Fever, chills, cough, chest pain, difficulty breathing?
+PATIENT: None of that.
+DOCTOR: Swelling anywhere?
+PATIENT: No.
+DOCTOR: No vomiting.
+PATIENT: No.
+DOCTOR: Blood in the stool, blood in urine.
+PATIENT: No.
+DOCTOR: Pain when you urinate?
+PATIENT: No.
+DOCTOR: Okay, so that's good.  You had an urine infection in June?
+PATIENT: In June?
+DOCTOR: No.
+PATIENT: Oh they gave me medicine and we cleared all that up.
+DOCTOR: Okay.  So you had an infection though.
+PATIENT: Yeah, yeah.
+DOCTOR: You were treated for it okay.  Um let's see.  Were you in the hospital or this was all from the clinic?
+PATIENT: It's been a while since I've been in the hospital.  I was in the hospital here but that was.
+DOCTOR: Over here?
+PATIENT: [REDACTED].  With [REDACTED] weather outside uh it's not quite a year.  No yeah, it's been over a year.  I was in the hospital when I bought, bought that new car.  I did.  I bought a new car and the next day I went in the hospital.
+DOCTOR: So, so no problem like urinating too much or drinking too much water or anything like that?  Your vision is okay?
+PATIENT: Uh-huh.
+DOCTOR: Have you been on iron supplements?
+PATIENT: Yeah.
+DOCTOR: Okay.  How's your diet?
+PATIENT: Great.  I eat three times a day.
+DOCTOR: Fatty foods under control?
+PATIENT: I eat a lot of vegetables, fruits.
+DOCTOR: Good.
+PATIENT: Of course I'm like everybody else, I eat fast food too.
+DOCTOR: Do you smoke?
+PATIENT: No.
+DOCTOR: Did you ever smoke?
+PATIENT: Uh back when I was working for Phillip Morris.
+DOCTOR: How long have you quit?
+PATIENT: That was back uh, I went to work at Phillip Morris in 1972 and I worked for them until 1979.
+DOCTOR: So about like [REDACTED] years?
+PATIENT: Then I went to work for Budweiser selling beer so I must have stopped smoking probably about 1988 I stopped smoking.
+DOCTOR: 88, so about 20 years.  So you know what I'm gonna talk to you about right?
+PATIENT: Hmm?
+DOCTOR: Colonoscopy.
+PATIENT: Oh what [REDACTED]?
+DOCTOR: I know but I have to talk to you about it though.
+PATIENT: Someday I got to go through this.
+DOCTOR: You are due either way for the sigmoid or the colon.  If you do a colonoscopy and its fine then you're clear for 10 years.  With the sigmoid if you do that one, it's shorter but if it’s fine you still have to do it in five years.
+PATIENT: Five years doesn’t sound bad.
+DOCTOR: Instead of 10 years?
+PATIENT: When am I gonna be scheduled to do it?
+DOCTOR: And you know I'll put in a consult and they'll let you know.  It’s not like it’s going to happen tomorrow.
+PATIENT: Okay, alright.
+DOCTOR: You're probably not gonna get it tomorrow.
+PATIENT: Alright okay, okay, okay.
+DOCTOR: Ideally [REDACTED].
+PATIENT: Okay, okay.
+DOCTOR: Okay and then how's your reflux doing?
+PATIENT: I'm out of that.
+DOCTOR: Okay.  So.
+PATIENT: That's the heartburn medicine.
+DOCTOR: Um.
+PATIENT: That's what I call it.
+DOCTOR: Eye doctor?
+PATIENT: I just left them yesterday.
+DOCTOR: Okay and they did the dilating?
+PATIENT: No I drove down there by myself so they couldn't dilate me cause I couldn't get back home.
+DOCTOR: Well they're.
+PATIENT: They're gonna dilate me uh I think its December 13th.
+DOCTOR: Okay, okay. Perfect. Um podiatrist, did you see a podiatrist?
+PATIENT: Podiatrist, that's the foot doctor?
+DOCTOR: Yes.
+PATIENT: I had a corn on my toe and I bought that medicine and it took it off.
+DOCTOR: So you haven't seen them?
+PATIENT: No.
+DOCTOR: Okay.  The last time in December.  Okay.  How long have you been taking the vitamin D?  Did you come check the level or no?
+PATIENT: Some of them are rattling because they are almost empty.
+DOCTOR: It looks like I don't see you're running low for your medication though so, why was your blood pressure high?
+PATIENT: I don't know.  I'll be honest, I won't lie, I been taking my medicine, the blood pressure probably every other night.
+DOCTOR: Why?
+PATIENT: Because some nights I just forget.
+DOCTOR: You forget?
+PATIENT: Yeah and I like taking it at night rather than getting up and taking it in the morning, you know since I [REDACTED] well I got to take my medicines at night and then you fall asleep and don't take it.
+DOCTOR: But like this one, do you take the one for your stomach in the morning?
+PATIENT: For my stomach, let's see.  I have so many pills.
+DOCTOR: The omeprazole the one for your reflux.
+PATIENT: Is that a little white pill?
+DOCTOR: Uh-huh.
+PATIENT: I take it at night.
+DOCTOR: What are you doing taking it at night cause you're not eating it isn't doing any good?  It works better to take them during the day.
+PATIENT: I could switch it around and take them all in the day.  I want to be able to take them all at the same time.
+DOCTOR: Um let's see.  I guess the only one, I mean you just want to make sure you don't forget and your blood pressure right now, I don't know if it's because you're not taking it or if it's not working.
+PATIENT: No it's working cause the last.
+DOCTOR: The last one was a good one.
+PATIENT: Right, the last time I been here they said it was super good.
+DOCTOR: That it was good.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: It's working, it's just I got to get back on my, get on my horse and my schedule to take it.
+DOCTOR: Okay.
+PATIENT: I need some more of that heartburn medicine.
+DOCTOR: Uh-huh I'll give you all of them.
+PATIENT: Mail them cause I need to get to the cashier before 4 o'clock.
+DOCTOR: Do you need insulin too?
+PATIENT: Uh.
+DOCTOR: Do you need everything refilled?
+PATIENT: I remember about them telling me about the insulin that I was warned that it could pull, I been taking it and it would be too much for me.
+DOCTOR: What do you mean?
+PATIENT: In other words insulin brings down your blood sugar correct?
+DOCTOR: Uh-huh.
+PATIENT: Okay.  You were concerned if I would be taking the insulin bringing it down too low.
+DOCTOR: Um well the last time we did the hemoglobin test it was really good to the point where maybe it’s too good.
+PATIENT: It's too good?  Alright I cut back on the insulin like every other day.
+DOCTOR: What are you using right now?
+PATIENT: 30 units Humulin N.
+DOCTOR: Oh and how long were you doing this?
+PATIENT: If I go back to shooting myself every day you better order me another bottle because I went back to taking it every other day.
+DOCTOR: So what are you doing right now?
+PATIENT: Every other day.  I'm going to go back to taking it.
+DOCTOR: Once a day?
+PATIENT: Yeah.
+DOCTOR: And that's it?
+PATIENT: Right, that's what I'm going to go back to taking it once a day instead of every other day.
+DOCTOR: How about this, give me your phone number, we'll check today to see what your sugar has been in the last three months.  If it's a lot worse then we'll go back to every day okay.  So keep doing what you're doing now.
+PATIENT: Uh-huh.
+DOCTOR: And then I'll call you and let you know what to do.
+PATIENT: Okay you have my phone number don't you?
+DOCTOR: Is it the same one?
+PATIENT: Yeah it hasn't changed.
+DOCTOR: Uh NUMBER.
+PATIENT: No.
+DOCTOR: NUMBER.
+PATIENT: That's it, that's it.
+DOCTOR: So fill this one and this one.  If you give yourself insulin though you really need to check your sugars every other day.  You can’t just give yourself insulin without making sure.
+PATIENT: Yeah okay.
+DOCTOR: Cause what if it's low.
+PATIENT: Okay, okay.
+DOCTOR: You could go into a coma.
+PATIENT: Yeah but you know when it goes low you, I mean you'll know it.  You know you'll feel weak, tired.
+DOCTOR: Yeah but.
+PATIENT: For you I will take it every other day.
+DOCTOR: Are you going to pick them up?
+PATIENT: No mail everything.  I got to get to the cashier before 4 o'clock so I have child expenses to pay back home.
+DOCTOR: Okay.
+PATIENT: Cause they don't stay open when you got 3 o'clock appointments, they close at 4 sharp.  Is it normal for me to be tired when I wake up in the morning cause by 11 o'clock then I'm ready to go?  You know I have energy.
+DOCTOR: Are you sleeping okay?
+PATIENT: Uh I usually have to get up twice during the night to go to the washroom.
+DOCTOR: Hmm.  Are you more constipated than usual?
+PATIENT: No.
+DOCTOR: Hair loss?
+PATIENT: Uh.
+DOCTOR: Feeling more cold than everyone else around you?
+PATIENT: No.
+DOCTOR: Gaining weight even though you're not eating that much?
+PATIENT: I eating a lot and I ain't gaining a lot of weight.  I was gaining weight cause I was weighing 183, 84, now I'm down to 176.
+DOCTOR: Do you take aspirin?
+PATIENT: I had been taking them but last night when I ran out I stopped taking them.
+DOCTOR: Okay.
+PATIENT: That's for the heart.  I never thought I had any heart problems.
+DOCTOR: And you’re diabetic so it's kind of like having heart problems even though you don't.
+PATIENT: Oh right, I'll go back to taking the aspirin.
+DOCTOR: Do you want to get it here; do you want me to order it?
+PATIENT: Uh yeah you can put it on there, they can mail it.  That'll save me from going to the drug store.
+DOCTOR: Um did you have your tetanus shot?
+PATIENT: Which one?
+DOCTOR: Tetanus.
+PATIENT: Tetanus.  I don't know I think I had the flu shot.  Does it say when I got that two shots, that flu shot thing?  I don't know, if it's not on the record I don't know.  Maybe I haven't had it I don't know.
+DOCTOR: Let's check.  ‘05 um.  Be right back okay.
+PATIENT: You gotta go find DOCTOR?
+DOCTOR: Yep.
+PATIENT: I can't keep track.
+DOCTOR: [REDACTED].
+PATIENT: I think he's walking around.
+(DOCTOR OUT:  42:03  DOCTOR IN:  44:27)
+DOCTOR: Okay.  So we'll do that.  Well let me put this in.  Um I know you have to go today um do you promise to come back this week and get your lab done.
+PATIENT: Yeah.
+DOCTOR: Because we need to see what your sugar is doing.
+PATIENT: Okay um, today is what Wednesday?
+DOCTOR: Wednesday.
+PATIENT: Um.
+DOCTOR: When can you come back in then?
+PATIENT: Tomorrow.  But I can come any time right?
+DOCTOR: Any time.
+PATIENT: Morning or evening okay.  Tomorrow.
+DOCTOR: But come when the Lab is open.
+PATIENT: Okay.
+DOCTOR: Um, I want to check your vitamin B level cause I know it was low in the past so we'll what.
+PATIENT: See what it is now since I took the vitamin B pills.
+DOCTOR: Yeah and then if it's still low then we'll give you some more.  Um.  Questions?
+PATIENT: Is that it?
+DOCTOR: That's it.  And I'll see you in three months.
+PATIENT: I'll be here tomorrow and when are you going to see me again?
+DOCTOR: In three months.
+PATIENT: Okay send me a notice.
+DOCTOR: They will.  Questions?  So I refilled everything.  Actually how much of the, just a second, I wanted to see if I refilled the aspirin.  Okay.
+PATIENT: Okay.
+DOCTOR: That's it.
+PATIENT: Alright thank you.
+DOCTOR: Take care.
+PATIENT: 47:07.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275425
+TRANSACTION # 578-10-2-316-0103

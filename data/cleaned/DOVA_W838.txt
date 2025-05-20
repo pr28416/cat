@@ -1,0 +1,297 @@
+DOCTOR: PATIENT?
+PATIENT: Yes ma'am.
+DOCTOR: Sorry about the wait, follow me.
+PATIENT: Okay.  Are you DOCTOR?
+DOCTOR: Oh no I’m DOCTOR.
+PATIENT: Okay.  Missed several appointments here for various reasons.
+DOCTOR: That's okay, okay.
+PATIENT: Okay.
+DOCTOR: How are you doing today?
+PATIENT: I'm pretty good today.
+DOCTOR: Alright.  I saw that you were recently hospitalized.
+PATIENT: Several times.
+DOCTOR: Yeah so how have you been doing since then?
+PATIENT: Well I'm in the, I'm in the, let's see what they call it, APT upstairs.
+DOCTOR: Okay.
+PATIENT: Uh 35 Day Inpatient Program.
+DOCTOR: Okay how's it going?
+PATIENT: Just fine, fine.
+DOCTOR: Going well?
+PATIENT: Yeah.
+DOCTOR: And when was your last drink?
+PATIENT: Oh um well I had a very tiny bit on a field trip during the program.
+DOCTOR: When was that?
+PATIENT: Uh let's see that was around the 10th I believe.
+DOCTOR: Tell me how that happened.
+PATIENT: Uh it was a crazy field trip.  It was what they call um uh, what do they call that thing; it was a National Guard thing.
+DOCTOR: Okay.
+PATIENT: Um stand down.
+DOCTOR: Okay.
+PATIENT: And a lot of homeless veterans show up in that and it's kind of a party atmosphere and in line I drank a bit.
+DOCTOR: Okay.
+PATIENT: And uh they were going to throw me out of the program.
+DOCTOR: Yeah.
+PATIENT: They put me in the nut ward on 7 for seven days and let me back in the program.
+DOCTOR: Okay.  And you stopped the drinking, I mean how do you feel about the program are you committed since then?
+PATIENT: Yeah I'm trying to, I mean I don't think the, I think the program's flawed because they had four field trips just in the first 21 days I was there.
+DOCTOR: Okay.
+PATIENT: In the first 21 days, four field trips – for an inpatient, to me that didn't seem like a normal inpatient program.
+DOCTOR: I'm not sure [REDACTED].
+PATIENT: Okay but from what I understand most programs, at least 21 days before you can see the outside world but anyway um I am committed.
+DOCTOR: Okay.
+PATIENT: But I was standing in line for five hours with a bunch of homeless drunks and so on with bottles in their pockets and that's pretty tempting you know.
+DOCTOR: I know that's tempting.
+PATIENT: I'm not justifying it but.
+DOCTOR: Alright.
+PATIENT: I did it.
+DOCTOR: You did it.
+PATIENT: And I spent seven days on the nut ward for it.
+DOCTOR: Okay.  Otherwise any shakes, any tremors?
+PATIENT: Oh no, no, I had no DTs or anything.
+DOCTOR: Any hallucinations?
+PATIENT: No, no.  No I did my uh I did my detox before I went into the program.
+DOCTOR: Yeah you did.  Headaches, visions changes?
+PATIENT: No.
+DOCTOR: Good.  Are you sweating a lot?
+PATIENT: No.
+DOCTOR: Good, so you're done with all that.
+PATIENT: Yeah I'm done with all that.  A little bit of insomnia still but it.
+DOCTOR: Okay.
+PATIENT: Seems to be getting better.  I'm gonna take my jacket off.
+DOCTOR: Huh.
+PATIENT: It took so long to actually see the doctor cause I missed so many appointments.
+DOCTOR: Well I looked over your labs uh from last month.  Everything looked pretty good.  The only thing we haven't had from you in a while is a cholesterol panel.
+PATIENT: Okay.
+DOCTOR: You haven't had it for about a year so I need you to go and get that to make sure everything is good.
+PATIENT: Is that all you do today?
+DOCTOR: I mean, um this is a fasting blood test, did you have lunch today?  Well we can get it some other time, at your convenience.
+PATIENT: I've never had high cholesterol.
+DOCTOR: You haven't uh.
+PATIENT: I doubt that's an issue.
+DOCTOR: But we need to get it at least one a year [REDACTED].
+PATIENT: Okay.   Well I.
+DOCTOR: Otherwise your chemistry panel, your kidneys, your blood counts, your liver, so far look good.
+PATIENT: Okay.
+DOCTOR: And those [REDACTED].
+(Someone knocks on the door)  Doctor talks to person.
+PATIENT: During my last withdrawls, um you know they do the nostril check with a giant swabs.
+DOCTOR: Uh-huh.
+PATIENT: Um they said that I had MRSA.
+DOCTOR: Yeah that can happen if you're in the hospital a lot you get it.
+PATIENT: But I had cystic issues for years.
+DOCTOR: Uh-huh.
+PATIENT: And nothing severe, severe just acne.
+DOCTOR: But it's a colonization, [REDACTED] active infection going on.
+PATIENT: Okay well I'm seeing Dermatology on the 5th.
+DOCTOR: Okay.
+PATIENT: Um.
+DOCTOR: Sounds good.
+PATIENT: And um uh and I told you I've got a little bit of insomnia um.  I had um, it seems to be getting better but occasionally, for a while I was getting like a sharp stinging thing in the knee.
+DOCTOR: Okay.
+PATIENT: But um in my right knee and it shoots just like in a straight line like this.
+DOCTOR: Okay.
+PATIENT: And I don't know what is generally be but it's not.
+DOCTOR: When do you get it?
+PATIENT: Well I used to get when climbing in and out of bed.  I don't know if it.
+DOCTOR: Every day?
+PATIENT: Yeah. But uh it's not very often anymore but it's the same feeling.  I don't know what that would be but.
+DOCTOR: Is it always on that one side?
+PATIENT: Right here, it's a shooting pain that way.
+DOCTOR: And it's only on the right side?
+PATIENT: It's only on the right side on the outside in the front by the knee right here.
+DOCTOR: I'm not quite sure.
+PATIENT: I mean.
+DOCTOR: Any numbness or tingling?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: It's just, it's a burning.
+DOCTOR: When you get it how long does it last for?  Any rash?
+PATIENT: No, no, no, no, no, no.  It's inside.
+DOCTOR: Okay.
+PATIENT: It's just something right in through here.
+DOCTOR: Do you still smoke?
+PATIENT: Oh yeah.
+DOCTOR: You do.
+PATIENT: But if you want to um prescribe me some um, I'm suppose to ask you to prescribe me Nicorette.
+DOCTOR: Okay.
+PATIENT: But not the weak 2 mg stuff cause that doesn't do anything.
+DOCTOR: How much do you smoke?
+PATIENT: I smoke a pack a day but I do smoke a cigar occasionally.
+DOCTOR: Okay [REDACTED].
+PATIENT: I mean so that's [REDACTED] stronger than the typical [REDACTED].
+DOCTOR: So last time you were here a year ago you we got the other hepatitis tests done and they were negative.
+PATIENT: Uh-huh.
+DOCTOR: You had an EKG test that was negative but I just wanted to make sure that you know the results of all those.
+PATIENT: That was all negative.
+DOCTOR: That was negative.
+PATIENT: Okay.
+DOCTOR: They were both negative.  That's not [REDACTED].
+PATIENT: Now the hepatitis, they just tested for hepatitis C too right?
+DOCTOR: That was negative too.
+PATIENT: Good.
+DOCTOR: Hep B, hep C and HIV negative.
+PATIENT: Okay.
+DOCTOR: Which is good.
+PATIENT: Uh-huh.
+DOCTOR: Especially with alcohol use affecting the liver, we wanted to make sure.
+PATIENT: Absolutely.
+DOCTOR: Uh when was the last time you saw the eye doctor?
+PATIENT: Um I'm supposed to see the eye doctor on January the 12th.
+DOCTOR: Okay.
+PATIENT: And they're making me new eyeglasses right now.
+DOCTOR: Perfect.  Okay.
+PATIENT: I'm having those soon.
+DOCTOR: So we're on our way there.  [REDACTED]  Have you had any trouble swallowing?
+PATIENT: That went away.
+DOCTOR: Good.
+PATIENT: And I don't know what was causing that but.
+DOCTOR: Good.
+PATIENT: I couldn't even get pills down, they used to gag me.
+DOCTOR: Good.
+PATIENT: And now I take a whole fistful of them every morning cause they got me on a million vitamins.
+DOCTOR: Great yeah and you need those vitamins.
+PATIENT: Yeah I understand.  They just said that I was, oh what's the stuff that's in bananas uh.
+DOCTOR: Potassium.
+PATIENT: They said I was high on potassium.
+DOCTOR: And that's because of the dehydration.
+PATIENT: Okay so that's okay now or?
+DOCTOR: Uh so you were at primary borderline back on November 16th so that's okay.
+PATIENT: Okay.
+DOCTOR: Any usually you know that level's okay.
+PATIENT: Okay.
+DOCTOR: No problem.  So let me [REDACTED].  Did you have your flu shot this year?
+PATIENT: Yeah somebody gave me one.  Finally someone gave me one [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Is it something I got to lay back on or?
+DOCTOR: No you're fine, you're fine.
+PATIENT: I did get some uh, something for my back, I think it's muscular.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Any burning when you urinate?
+PATIENT: No.
+DOCTOR: Take some deep breaths.  Alright.  Any pain when I press down here?
+PATIENT: No.
+DOCTOR: Okay you can sit up, good.  Deep breath.  Any swelling in your legs?
+PATIENT: No.
+DOCTOR: Good.  Everything sounds good.  And no belly pain, nausea, vomiting, constipation?
+PATIENT: No I mean I get a little bit of that pain like when I had the pancreatitis but, very minor and only if I eat very heavy.
+DOCTOR: Okay.  [REDACTED] right.
+PATIENT: I think it's just like serious quantity is an issue.
+DOCTOR: Oh that too.
+PATIENT: I've got an aunt you know I an enormous amount of weight last year okay.
+DOCTOR: Yeah.
+PATIENT: I got down to 129 pounds.
+DOCTOR: You can’t tolerate it.
+PATIENT: So now I'm back to close to my original weight.
+DOCTOR: Good.
+PATIENT: So I've been eating heavy to, cause I was weak.
+DOCTOR: Oh I bet.
+PATIENT: And I was skinny.
+DOCTOR: Yeah I bet.  Probably had some malnutrition.
+PATIENT: So I've been putting the weight back on but I can't go overboard if I do it, it does cause me some problems.
+DOCTOR: Do you need any refills on any of the migraine medicine or anything?
+PATIENT: I think I'm in good shape. The nurses said to get the Nicorette and I need um and I should get a stronger dose, that's what the doctor up on 9 said cause it.
+DOCTOR: Because the doses you have are?
+PATIENT: They gave me 2 and that's nothing, like chewing air.
+DOCTOR: Do you want the patch or do you want the gum?
+PATIENT: Gum.
+DOCTOR: We’ll give you one piece of the highest dose we have.
+PATIENT: 1 piece?
+DOCTOR: That's.
+PATIENT: You mean one box.
+DOCTOR: Yeah, yeah.
+PATIENT: Okay.
+DOCTOR: But each time you take one piece.
+PATIENT: Yeah.
+DOCTOR: Yeah, yeah.
+PATIENT: And that’s all I take of the others.
+DOCTOR: Okay.  Perfect.  You want to pick it up here?
+PATIENT: I pick it up right here right?
+DOCTOR: Yeah.
+PATIENT: Yeah I'll pick it up and take it up to 9.
+DOCTOR: Let me talk with my attending and I'll be right back.  It seems like you're doing better.  I'm glad that you're in this program.
+PATIENT: Uh-huh.
+DOCTOR: Um.
+PATIENT: I think I'm doing better.
+DOCTOR: Right.
+PATIENT: I'm getting really sick of this cystic acne.  It was getting a lot better because I was on the intravenous IVs for the pancreatitis.
+DOCTOR: Uh-huh.
+PATIENT: I was getting um, oh what do you call it, antibiotics.
+DOCTOR: Right.
+PATIENT: I cleared up pretty good and now the cystic acne back.
+DOCTOR: Uh-huh.
+PATIENT: And I don't know if it’s from the detoxing or what but it's hard, it's painful, they are deep under the skin, it's not surface.
+DOCTOR: So yeah we'll talk with them and see what they say.
+PATIENT: That's what I'll talk with them.  I'm serious.
+DOCTOR: I'm glad you have an appointment and everything.  I'll be back in just a moment, alright.
+(DOCTOR OUT:  68:26  DOCTOR IN:  72:50)
+DOCTOR: Alright sir.  So we're not going to change anything.  Your blood pressure looks pretty good now.
+PATIENT: Uh-huh.
+DOCTOR: Uh so we're not gonna start anything or make any changes right now.
+PATIENT: Good.
+DOCTOR: Um otherwise the soonest you need to come back, probably a couple months after the program's done here to check up on you to make sure.
+PATIENT: How will I know, will they give me a call or something?
+DOCTOR: Yes they'll give you a call.
+PATIENT: Okay.  Is there, because I'm waking up in the middle of the night several times.
+DOCTOR: Uh-huh.
+PATIENT: Um I am able to get back to sleep.
+DOCTOR: Okay.
+PATIENT: But um is there any kind of a sleeping pill that would.
+DOCTOR: If you're able to get back to sleep the sleeping pills aren't really the ones that we would use for that situation.
+PATIENT: Oh okay, alright.  I [REDACTED].
+DOCTOR: Are you having like nightmares?
+PATIENT: I don't know, I don't know.
+DOCTOR: Bring it up to the Psychiatry people up there too since to see if there's anything special but if you're able to go back to sleep and you're able to actually fall asleep I don't recommend any further sedating medicine.
+PATIENT: Well I.
+DOCTOR: They also have an addictive potential.
+PATIENT: Oh I know that.
+DOCTOR: That's why I don't want to give you medication for that right now.
+PATIENT: Alright.  I've had insomnia my entire life.  That's a lot of the reason why I drank so much.
+DOCTOR: But I think once you stop drinking then we'll see how the insomnia goes.
+PATIENT: Alright.  Uh I think that's it, alright.
+DOCTOR: Alright sir.  [REDACTED].
+PATIENT: No, no.
+DOCTOR: [REDACTED].
+PATIENT: Oh I have kind of heavy white nasal discharge every morning.
+DOCTOR: That's a postnasal drip situation, [REDACTED] laying down a lot and when you wake up [REDACTED].
+PATIENT: It comes out but it's ridiculously thick and it's white.
+DOCTOR: I can give you a nasal spray [REDACTED].
+PATIENT: What's that?
+DOCTOR: A nasal spray to help clear it up.
+PATIENT: Is it something I should use?
+DOCTOR: I don't, you can try it temporarily just to see if it helps clear it up.
+PATIENT: Okay.
+DOCTOR: Yeah I can put that in for you.
+PATIENT: Okay.  And I should be able to pick up the uh Nicorette, nasal sprays.
+DOCTOR: It should all be there.
+PATIENT: How long do you think I should give the Pharmacy?
+DOCTOR: I think like when you get a number and you wait it'll probably be ready and [REDACTED].
+PATIENT: Oh I should get a number first and.
+DOCTOR: Yeah, yeah you should get a number.
+PATIENT: Okay.
+DOCTOR: You're good to go.
+PATIENT: Alright cause otherwise the nurses are gonna cut me off on the Nicorette because even though I still have some in my box up there, they're gonna say I don't have a prescription so I can't have any more.
+DOCTOR: Yep it's in there.
+PATIENT: Alright cool.
+DOCTOR: Take care, good luck [REDACTED].
+PATIENT: Thank you very much.  Um is this just something that every time I come here, it could be you or it could be DOCTOR, it could be either or?
+DOCTOR: It [REDACTED] so just hopefully you'll just see me [REDACTED].
+PATIENT: Okay.
+DOCTOR: But it all just depends what day it is and whoever is available.
+PATIENT: Okay.
+DOCTOR: [REDACTED] but we all take turns.
+PATIENT: And everything that we did here they know about on 9.
+DOCTOR: Yeah I'll put it in the computer.
+PATIENT: Everybody [REDACTED].  Okay thank you.
+DOCTOR: Thank you, oh [REDACTED].
+PATIENT: Yeah thank you.  Which way I go this way?
+DOCTOR: To the left.
+PATIENT: Left okay.
+PATIENT: 75:46.
+Time is 3:55.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300280
+TRANSACTION # 578-10-2-316-0103

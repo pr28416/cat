@@ -1,0 +1,87 @@
+DOCTOR: What brings you in?
+PATIENT: I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past two days, I've noticed that he's been just tugging at his ear more as well.
+DOCTOR: OK, so you said the runny nose started two days ago?
+PATIENT: Yeah, yeah he had a cough yeah cough and runny nose started about yeah 2-3 days ago
+DOCTOR: Okay, the runny nose, what color is the discharge?
+PATIENT: Pretty clear and watery
+DOCTOR: OK, and the coughing is it dry, or is it bringing up any phlegm?
+PATIENT: It's been dry.
+DOCTOR: It's been dry OK. And does it sound harsh?
+PATIENT: Not really,
+DOCTOR: No?
+PATIENT: I don't know. It sounds kinda like a typical cough.
+DOCTOR: OK, has he lost his sense of taste or smell?
+PATIENT: He's been a bit more irritable and not eating as much but I'm not sure.
+DOCTOR: OK, how about changes in his vision or hearing?
+PATIENT: No
+DOCTOR: OK. Any fevers?
+PATIENT: Uhm, I don't think so. But he, we haven't checked and he's been, yeah, as I said, kinda, a little bit irritable.
+DOCTOR: OK, any weight loss recently?
+PATIENT: Uhm no, he's been gaining weight. Actually, sorry, I think it. Yeah, he has had a fever. The fever. Yeah the fever started like yesterday.
+DOCTOR: Oh OK, did you take his temperature?
+PATIENT: Yeah, my my wife just texted me and told me that she checked it, checked it and said it was over 38.
+DOCTOR: Oh OK. Yeah, we'll definitely take a temperature here as well just to make sure. Has he had any rashes?
+PATIENT: No,
+DOCTOR: No rashes OK. And how about shortness of breath or wheezing?
+PATIENT: No, I haven't heard that.
+DOCTOR: No, OK. And then have you actually taken a look into his ears?
+PATIENT: No, I haven't. He has just been tugging at the right one.
+DOCTOR: Is he itching it at all?
+PATIENT: Uh yeah, I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit.
+DOCTOR: OK, any discharge? Oh sorry go ahead
+PATIENT: Sorry I'm just gonna say yeah he's been kind of fussy and pointing at it and no discharge from the ear.
+DOCTOR: No discharge, OK. Does it look swollen?
+PATIENT: No, the outside of the ear looks normal.
+DOCTOR: OK, OK, and how have his bowel movements been?
+PATIENT: That's been normal, .
+DOCTOR: Normal. Any changes in his urine?
+PATIENT: No, it's been normal.
+DOCTOR: Nausea or vomiting?
+PATIENT: Nope.
+DOCTOR: uhm headaches?
+PATIENT: No, I don't think so.
+DOCTOR: OK, how about dizziness or fainting spells?
+PATIENT: No.
+DOCTOR: No, any confusion or memory loss?
+PATIENT: No, I don't think so.
+DOCTOR: No OK, is he an otherwise healthy child?
+PATIENT: Yeah, he he is. I mean he, uhm about six months ago he had uhm croup I think but he recovered quickly from that and he didn't need to be hospitalized or anything.
+DOCTOR: OK, and his mother's pregnancy with him, was it complicated in any way?
+PATIENT: She had gestational diabetes, but it was diet controlled and she's healthy now from that perspective.
+DOCTOR: OK, OK, that's good. Uhm and then was he born at term?
+PATIENT: He was yeah he was born over like 38 weeks I think
+DOCTOR: Oh OK, good and was it a C-section or a vaginal delivery?
+PATIENT: Uhh vaginal.
+DOCTOR: OK, any complications during the delivery?
+PATIENT: Uhh no.
+DOCTOR: No, OK, how about uhm after birth? Was he hospitalized for any reason?
+PATIENT: No, he wasn't. He was able to go home.
+DOCTOR: OK, that's good. Uhm and has he been developing normally in terms of his motor movements, like behavior wise, social wise, like is he on par with his peers in terms of milestones?
+PATIENT: Yeah he is. Yeah, everything's been normal that way and he's been growing well too.
+DOCTOR: OK, good. growing while gaining weight well, OK, is he on any medications?
+PATIENT: No, he's not.
+DOCTOR: OK. Is he up to date with all his immunizations?
+PATIENT: He is, yeah, we've been following along with with that.
+DOCTOR: OK, does he have any allergies?
+PATIENT: I don't think so.
+DOCTOR: No, Ok. Any family history of lung or heart conditions?
+PATIENT: Uh, no.
+DOCTOR: No OK. Does anyone at home smoke?
+PATIENT: Uhm I do but not like in the house or anything like that, usually just well, it will always be either outside or when I'm at work.
+DOCTOR: OK OK, any old carpet, dust, mold, asbestos, anything like that in your home?
+PATIENT: No.
+DOCTOR: No. OK. Who does he live with?
+PATIENT: So yeah, he lives with me. It's just me and my wife.
+DOCTOR: OK. Any pets at home?
+PATIENT: We have a a dog.
+DOCTOR: OK. Has he been in contact with anyone sick recently?
+PATIENT: Uh. Not that I can think of.
+DOCTOR: OK is he in like daycare?
+PATIENT: No, no my wife's been, been looking looking after him at home. She's the primary caregiver, well while I'm at work.
+DOCTOR: OK, any trouble recently?
+PATIENT: No no.
+DOCTOR: No, OK. Well, those are all the questions that I had for you today. Did you have any questions of your own?
+PATIENT: Uhh no, just was wondering what what might be going on?
+DOCTOR: Yeah, for sure, so right now it sounds like a viral picture. It sounds like he has a cold and possibly an ear infection. I'd have to take a look into his ear to be able to tell more uhm because some of his symptoms overlap with those of covid we'll probably do a swab and you should hear back in about 24 to 48 hours. Uhm and so after I take a look into his ears, we can do one of a couple of things, so if his tympanic membrane looks like it's been perforated, or if there's pus in there, then we'll prescribe him a 10 day course of antibiotics, and if I see like middle ear effusion or his tympanic membranes bulging, and he seems really sick like he has a high fever, what she does, I will again prescribe him 10 days of antibiotics. And if he has a middle ear effusion or a bulging tympanic membrane, just one of those two, and he doesn't seem to be too sick, we can reassess him in 24 to 48 hours. Uhm An antibiotic that we usually prescribe is amoxicillin. Uhh how does that sound?
+PATIENT: That sounds really good. Thank you.
+DOCTOR: OK, no worries. Take care.

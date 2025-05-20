@@ -1,0 +1,443 @@
+DOCTOR: How you doing PATIENT?
+PATIENT: Uh not real well.
+DOCTOR: Why not?
+PATIENT: Well my blood pressure has been dipping up.
+DOCTOR: What's going on with your blood pressure yeah.
+PATIENT: You know it's getting pretty bad.  I haven't been exercising for about three months.
+DOCTOR: Why not?
+PATIENT: Well because I'm lazy and stupid, that's why but I'll start again okay.
+DOCTOR: Actually, remember we talked about the insulin?
+PATIENT: Yeah.
+DOCTOR: And uh you.
+PATIENT: Yeah.
+DOCTOR: Have a seat.
+PATIENT: Right.  Uh these refills expired.
+DOCTOR: Okay.
+PATIENT: You can check on my other ones too to make sure they're not about ready to expire.
+DOCTOR: I read about all involved the urology stuff so uh they're gonna go ahead and uh, they're gonna wait and take a look later right?  As far as the biopsy.
+PATIENT: Uh-huh.
+DOCTOR: Right?
+PATIENT: Okay I had a biopsy on my prostate then I had.
+DOCTOR: And I read all that.
+PATIENT: Okay.  Uh I had an echocardiogram on my heart then I had an echo something on my kidneys and bladders.  How'd those come out?
+DOCTOR: Still looking, one second.  You're taking the glipizide.  I just pulled everything okay.
+PATIENT: Okay good.
+DOCTOR: Were there other papers with this.  But there's a couple other sheets.
+PATIENT: For what?
+DOCTOR: [REDACTED].  Do you have your med list with you?
+PATIENT: Oh yeah, yeah.
+DOCTOR: [REDACTED].
+PATIENT: Let's see here.
+DOCTOR: We got the ultrasound of your kidneys, it looked okay, alright.  You have a little bit of medical renal disease okay.  We call it medical renal disease so um but and you knew that remember.
+PATIENT: Oh yeah right yeah.
+DOCTOR: Now uh that hasn't changed okay.
+PATIENT: That hasn't changed now?
+DOCTOR: Not the version we have so, it's not bad but it's just, what it's telling me is you know your kidneys look like they've had a little bit of damage to it.
+PATIENT: Yeah.
+DOCTOR: I can tell that just by looking at your labs.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Okay, but it's not real serious or anything?
+DOCTOR: Not yet.
+PATIENT: Alright.
+DOCTOR: The numbers gonna get worse.  It's gonna get worse um just by having the diseases that you do.
+PATIENT: Oh.
+DOCTOR: And your prostate looks a little better.  Those numbers [REDACTED] got a little better since the last time so.
+PATIENT: Yeah.
+DOCTOR: We're going to just follow that.
+PATIENT: Okay.
+DOCTOR: That is what you decided.
+PATIENT: Right.
+DOCTOR: Right?
+PATIENT: Yeah.
+DOCTOR: Follow up on this.
+PATIENT: How about the bladder, they also checked out the bladder.
+DOCTOR: I don't have anything for the bladder.
+PATIENT: Oh.
+DOCTOR: Oh the pelvis yeah.  The bladder was fine.
+PATIENT: Okay that's good, alright.
+DOCTOR: Alright.
+PATIENT: But the kidneys are so so.  The bladder is fine?
+DOCTOR: Bladder is okay.  Kidneys are not normal okay.
+PATIENT: Oh.
+DOCTOR: They're about, they're functioning actually 50% to 60% of normal.
+PATIENT: Alright, okay, alright.
+DOCTOR: Your last hemoglobin A1c was fantastic.  We're gonna recheck it today cause you know.  What have your blood sugars been running at?
+PATIENT: Oh I think yesterday morning was 112, this morning was 135.
+DOCTOR: And your weight, you're still.  You're 180 which is a far improvement from the 190s that you were.
+PATIENT: Right.
+DOCTOR: We're still doing okay there.
+PATIENT: Alright.
+DOCTOR: It looks like you lost four pounds since the last time you saw me.
+PATIENT: Okay.  I uh, yeah I got to get back to the gym you know.
+DOCTOR: Yeah, don't we all.  How are you doing otherwise?
+PATIENT: Well let me see uh about, okay last month I wrenched my back pretty bad okay.
+DOCTOR: Okay.  You need to be careful.
+PATIENT: Yeah I had, it pains like right there but [REDACTED].  I had a pain halfway up the back on this side, on this side okay.
+DOCTOR: Okay.
+PATIENT: Uh when I lay on my back or lay down on my side for a while, all of a sudden you know you've got centered.  So I figured well I probably tore a ligament you know and after about three or four weeks it went away.
+DOCTOR: Good.
+PATIENT: And it was fine okay.  Then uh, once in a while I get a little blockage in my uh you know right here, okay.
+DOCTOR: Okay.
+PATIENT: No but uh I usually take stool softeners and after a couple of days you know it cleared up okay.
+DOCTOR: Yeah.
+PATIENT: And maybe I have a kidney stone or something you know.
+DOCTOR: Okay.
+PATIENT: But uh it cleared up and everything.  Since then everything's been fine okay.
+DOCTOR: Good.
+PATIENT: Like uh today I spent two hours shoveling snow but you know I don't have any aches or pains.
+DOCTOR: Excellent.
+PATIENT: Okay.  Uh.
+DOCTOR: You're not short of breath or anything?
+PATIENT: Uh I always get short of breath you know, cause I don't exercise so you know.  If I'm shoveling for.
+DOCTOR: You don't have any pain [REDACTED].
+PATIENT: Oh no, no, no, no I'd be shoveling for about 20 minutes and then you now I'd have to rest for a while but.
+DOCTOR: Okay.
+PATIENT: No pain.  Uh but uh.
+DOCTOR: Um, [REDACTED] here about the colonoscopy.
+PATIENT: Right yeah I'm ready for that you know.  Uh I thought I'd come in today to get the date and everything.
+DOCTOR: Right so I'll order it today, perfect.
+PATIENT: Okay, alright.
+DOCTOR: So I will order it, they'll schedule it but you need to have labs done.  They require a whole bunch of labs before you get the colonoscopy.
+PATIENT: Okay, alright.
+DOCTOR: Do you want to do those today or do you want to come back?
+PATIENT: Well I can come back in a couple of weeks, you know, okay.
+DOCTOR: The problem is um, okay, couple weeks; can we do it sooner than that?
+PATIENT: Uh, okay how about next Friday.
+DOCTOR: You want to come back next Friday?
+PATIENT: Right.
+DOCTOR: Okay, um we'll do that.
+PATIENT: Okay alright.
+DOCTOR: Alright, next Friday I'll order.
+PATIENT: Sure, next Friday, okay.  Alright and I'll come back we’ll take the test and anything.
+DOCTOR: They won't do the test right there, they'll schedule it cause you need to take this prep and everything and they usually schedule it for like a month or so okay.  But they won't do the test right away.  They need to look at these labs and there's a bureaucratic way of doing it.
+PATIENT: Okay, alright.
+DOCTOR: You have to schedule it.  Just because they have a bunch and they need to schedule them.
+PATIENT: Okay, so next Friday.
+DOCTOR: You have labs.
+PATIENT: Oh okay, I'll labs next Friday.
+DOCTOR: Right and then they'll call you to schedule it.
+PATIENT: But they uh.
+DOCTOR: But I put in an order.
+PATIENT: Right.
+DOCTOR: And then they'll call you to schedule it.
+PATIENT: Okay, alright.  Will they just, I mean they do it.  They'll schedule me for the date to do the colonoscopy?
+DOCTOR: Correct.
+PATIENT: Okay alright good.
+DOCTOR: They'll just schedule you to come in and get the information and then uh they'll, at that time give you a date.
+PATIENT: Alright, okay.
+DOCTOR: Then you'll come have the test done.
+PATIENT: Okay the problem I have is my sister usually comes to the house for me but she's in her 70s and she's kind of unreliable.
+DOCTOR: Okay, so what you can do is maybe request a certain day.  Are certain days better?
+PATIENT: No, no uh I'm just wondering who's going to drive me here and take me home.
+DOCTOR: Right someone has to drive you here.
+PATIENT: So.
+DOCTOR: But you'll know like a couple weeks in advance but.
+PATIENT: Okay, well that's what I'm asking, is he gonna get a nurse to do it?
+DOCTOR: Drive you here?
+PATIENT: Yeah, to pick me up and take me home or not?
+DOCTOR: No I don't think someone will do that.  How close, how far away do you live?
+PATIENT: In Cicero.
+DOCTOR: Can you take a bus?
+PATIENT: Uh, well I would drive here, the question is can I get home.
+DOCTOR: You can't drive home after the anesthesia; they just don't want you to.
+PATIENT: Okay.
+DOCTOR: You're not gonna be like snoring and sleeping but you might be a just a little drowsy.  That's why they prefer you take like [REDACTED].
+PATIENT: Ah I see.
+DOCTOR: [REDACTED].
+PATIENT: Alright then.  Oh so there's no uh service at the hospital that would drive me home?
+DOCTOR: Uh no there isn't.  I don't think there is.  I'm not entirely sure.
+PATIENT: Oh.
+DOCTOR: You could ask the travel people about that.
+PATIENT: Okay, I'll talk to my landlady.  Well she brings her son here okay; I'll ask her if she'll do it for me.
+DOCTOR: Okay.
+PATIENT: Okay, good enough.  So I'll here Friday, then Friday they'll give me a day for uh.
+DOCTOR: Correct.  I'll put the order in with the labs and then once you get those labs then they will uh they'll take care of it.  Okay.
+PATIENT: Okay good.  Alright, that sounds good.
+DOCTOR: Have taken all of your blood pressure medication?
+PATIENT: Uh yeah, yeah, I'm taking everything religiously every day.
+DOCTOR: I heard you do you uh, definitely, yeah I can tell by how you fill these.
+PATIENT: No it's just I'm not exercising okay.  You know I'm laying in bed, I'm tired and I lay in bed all day you know.  That's what does it.  I'm telling myself I'm being lazy and stupid.
+DOCTOR: How about your medicines.  [REDACTED]?
+PATIENT: Okay, uh.
+DOCTOR: Before you [REDACTED].  I might have to add another medication.  I'm gonna check your blood pressure and we're going to try to add one more okay.
+PATIENT: Alright.  Uh, here's my list again.
+DOCTOR: Right, no I saw that.
+PATIENT: Okay, alright.
+DOCTOR: [REDACTED] What I'm gonna do is kind of a quick listen today.  You saw the eye doctor recently?
+PATIENT: Uh.
+DOCTOR: Last July.
+PATIENT: Yeah and as a matter of fact.
+DOCTOR: [REDACTED].
+PATIENT: They haven't contacted me for the next appointment.
+DOCTOR: It'll be once a year usually.
+PATIENT: Oh usually once a year okay, oh I thought it was every six months okay alright.  Uh so how did the eye test come out?
+DOCTOR: That looks fine.
+PATIENT: Looks fine okay good, alright, okay.  Glaucoma is under control and you know.  Or macular degeneration yeah or some big mess.
+DOCTOR: Why don't you just hop up there, if your not getting [REDACTED] today I'll order [REDACTED] and you can just head out of here.
+PATIENT: Okay good.  [REDACTED] shoveling snow.  It was tiring you know but, cause I didn't sleep last night [REDACTED] I'm a nervous nelly.
+DOCTOR: Deep breath.  Breathe out; breathe in and out, in and out.  Breathe through your mouth, there you go.  Drink, smoke?
+PATIENT: Uh I have mabye one beer a week and that's it.  No smoking
+DOCTOR: And you don't smoke?  Say ah.
+PATIENT: Ah.
+DOCTOR: Stick your tongue out for me.  Good.
+PATIENT: The only problem I have is with postnasal drip.  Is there anything you can you do about that?
+DOCTOR: [REDACTED].  Do you have a lot of postnasal drip?
+PATIENT: Uh yeah, yeah uh you know.  It used to make me cough a lot sometime, especially in bad weather and stuff like that you know.  I would cough a lot.  It's just like when I lay down, all of a sudden I you know I start coughing.
+DOCTOR: You start coughing when you lay down?
+PATIENT: Well uh yeah.
+DOCTOR: You're legs ever swell up?
+PATIENT: Well.
+DOCTOR: Do your legs ever swell up?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: They're a little swollen when I get up.
+DOCTOR: Do you cough more after you eat or no?
+PATIENT: Uh.
+DOCTOR: Relax.  Let's keep it palm up, there you go.
+PATIENT: I have a problem with, I can’t switch my palms up.
+DOCTOR: What?
+PATIENT: I can’t switch my palms up.
+DOCTOR: Oh really?
+PATIENT: Yeah, yeah my wrist, look at that.  I've got so many problems.
+DOCTOR: No you don't.  My uh, three o’clock has a lot of problems.  It can always be worse, trust me.  Do the best you can with what you have and you can't sit on the couch all day.  You're gonna have to; you have to want to be healthy alright.
+PATIENT: [REDACTED].
+DOCTOR: No you're fine.  I'm getting a much lower number; I just want to make sure.
+PATIENT: Okay.
+DOCTOR: I'm getting like a 125/75.
+PATIENT: How can there be that much of a difference in 12 minutes?
+DOCTOR: Um sometimes those manual cuffs don't work very well.
+PATIENT: Alright then, alright.
+DOCTOR: Do you check this at home?
+PATIENT: Uh yeah, yeah.
+DOCTOR: What are they at home?
+PATIENT: Uh it's slowly been trending up, you know for a while it was in the 120s over 60s.
+DOCTOR: Okay.
+PATIENT: And then it started to trend up into the 140s, 150s over 80s.
+DOCTOR: Okay so it's 140s 150s over 80s right now?
+PATIENT: Yeah.
+DOCTOR: That's what it's been at home?
+PATIENT: Uh yeah, yeah.  You know it just runs between 120s.  I mean it hardly ever goes over 80 but once in a while it will go over 80.
+DOCTOR: So how about the high number.
+PATIENT: Uh the high number isn't more than about 150s so.
+DOCTOR: So it has been 150?
+PATIENT: Yeah, yeah, right yeah, yeah.
+DOCTOR: So will add this pill.  We'll add the low dose pill.
+PATIENT: Okay.
+DOCTOR: It's called amlodipine.
+PATIENT: What does it do?
+DOCTOR: It's a blood pressure pill.
+PATIENT: Is in an A block, an alpha blocker?
+DOCTOR: It's not an alpha blocker.
+PATIENT: Okay good.
+DOCTOR: It's a calcium channel blocker.
+PATIENT: Calcium channel.
+DOCTOR: Yeah.  It's, I don't want to get all technical on you.
+PATIENT: No, no.
+DOCTOR: But, have a seat.
+PATIENT: Oh yeah but no.
+DOCTOR: But it reduces the blood pressure [REDACTED] level of your blood vessels essentially.
+PATIENT: Alright well no, see the problem I have is uh I've got a problem with leg cramps. And the one thing that really helps me is a pill, an over-the-counter pill called [REDACTED]. It’s two types of calcium.
+DOCTOR: Okay.
+PATIENT: If I get a cramp I take that and within a few minutes the cramp was gone and no soreness.
+DOCTOR: Try this pill.  If you get any cramps we'll stop it.
+PATIENT: Okay good.
+DOCTOR: We'll start it at a dose of like 5 mg.
+PATIENT: Right and then you know.
+DOCTOR: Then we'll see what happens.
+PATIENT: But you know [REDACTED].
+DOCTOR: I want you to come back for a blood pressure check in like uh two weeks.
+PATIENT: How about next Friday, I'll come in Friday right.
+DOCTOR: But you’re not going to have it.  Can you pick it up today then?
+PATIENT: Uh where?
+DOCTOR: The Pharmacy.
+PATIENT: Yeah if [REDACTED].
+DOCTOR: If you're taking the pill for a week then we can check it [REDACTED].
+PATIENT: As long as it's ready for me.
+DOCTOR: So come in one week and I'll say [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: So that way you can get the labs in the morning too.
+PATIENT: [REDACTED]
+DOCTOR: Walk-in.
+PATIENT: How often do I take this pill?
+DOCTOR: One time a day.
+PATIENT: So I take them in the morning with all the other pills?
+DOCTOR: Yeah, you take it in the morning; you can do whatever you want.
+PATIENT: Okay, cool.
+DOCTOR: You okay?
+PATIENT: Yeah.  Yeah, I'm gonna go back to the gym again.  Especially since I to pay for it at the Y you know.
+DOCTOR: I like the Y.
+PATIENT: Me too, it's very nice you know and you can scream at people.
+DOCTOR: [REDACTED] 30 day supply with three refills.
+PATIENT: Okay.
+DOCTOR: Pick it up here today.
+PATIENT: Yeah.
+DOCTOR: And then I want to get your blood pressure done to know whether we need to increase the dose or not.  Then, I’ll extended it long-term.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Alright give me one second, I'll have you out of here and I'll do your labs and your orders for next week and then like I said we'll order that colonoscopy and all those labs and everything as well.
+PATIENT: Alright.
+DOCTOR: Okay.  Hang tight for a second and we'll have you on your way.
+PATIENT: Alright.  Now I'm gonna get a colonoscopy right doc?
+DOCTOR: Right that's one that I have to, there's a couple of stages, you have to put the order in, you have to get the labs, then they'll contact you and set it up.
+PATIENT: Alright good.
+DOCTOR: Just hang tight for a few minutes.
+PATIENT: Alright.
+(DOCTOR OUT:  39:05  DOCTOR IN:  40:21
+DOCTOR: Okay.
+PATIENT: [REDACTED] now.
+DOCTOR: Pick that one up today.
+PATIENT: Alright okay good.  Uh now okay, the kidneys now.  Uh are they getting worse or are they staying about the same.
+DOCTOR: We'll find out next week.
+PATIENT: Oh okay.
+DOCTOR: With the lab tests.
+PATIENT: Alright.
+DOCTOR: The problem with the kidneys is you really don't know if they're really bad until they're really bad usually what happens is that when you feel it.
+PATIENT: Alright, okay.
+DOCTOR: Um your kidneys, like I said they're working 50% to 60% of what they should.  The best way to prevent them from getting worse is keep controlling the blood pressure which is why I'm being aggressive your blood pressure.
+PATIENT: Good.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: You know even though I got a lower value here and that cuff was a little bigger you know, if you check it at home daily and it's running 140 to 150, that leads me to want to treat it more aggressively.
+PATIENT: Okay [REDACTED].
+DOCTOR: You know so all the data shows that if you keep your sugar under the control, but more so the blood pressure in diabetics, you can perhaps slow down the progression of the kidney disease.  You can't stop it per se but you can really slow it down okay.
+PATIENT: Well.
+DOCTOR: And I do know people who have been at like 2, 2.2, 2.5 which is about 30%, 35% of normal kidney function um for years.
+PATIENT: Alright and I'm at what?.
+DOCTOR: Your numbers not important.
+PATIENT: Alright yeah.
+DOCTOR: You're at 1.8.
+PATIENT: Okay alright.
+DOCTOR: Alright so don't worry about the number you, don't worry about the numbers, we’ll worry about the number if they become an issue.
+PATIENT: Okay.
+DOCTOR: Once again, do the best you can.  These little things like cutting down on the salt um, just little little things like that.
+PATIENT: Cut down on the sodium?
+DOCTOR: [REDACTED].
+PATIENT: They look pretty good.
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: Little things like that.  Do you put salt on your [REDACTED]?
+PATIENT: Uh, I never use [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah, sometimes it can be a lot.
+PATIENT: I don't eat potato chips or it's not like that.
+DOCTOR: Do you eat a lot of soups?
+PATIENT: No, no.
+DOCTOR: Okay do you eat a lot of fried foods?
+PATIENT: Uh no, I do have a cheeseburger once in a while.
+DOCTOR: [REDACTED] right.
+PATIENT: But not on a regular basis.
+DOCTOR: Um what do you normally eat?
+PATIENT: Okay uh well if I stay on my diet I eat mostly chicken although a lot of it is the frozen chicken.  Its chicken nuggets and stuff like that you know uh.
+DOCTOR: There's a lot of salt in that.
+PATIENT: Yeah, I know that uh.
+DOCTOR: Why don't you eat the boneless chicken and stuff like that.
+PATIENT: Yeah, uh I have that in my freezer, I just haven’t eaten it yet.
+DOCTOR: [REDACTED].
+PATIENT: Right okay.
+DOCTOR: [REDACTED] is astronomically better for you.
+PATIENT: Oh yeah.
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: I don't eat that either.  I want something convenient because it tastes good.
+PATIENT: Yeah, okay yeah.
+DOCTOR: But it's absolute garbage you know.
+PATIENT: Right.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Not in [REDACTED].
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: Prepared food has a lot of sodium in it.
+PATIENT: Uh now.  The ketchup I use is the no salt added.
+DOCTOR: That's okay.
+PATIENT: Okay.  Uh, I drink a lot of uh cranberry juice.  Its 2 grams of sugar, [REDACTED].
+DOCTOR: [REDACTED] sugars.
+PATIENT: Oh let me see here, oh you know maybe about once a week I treat myself and [REDACTED].
+DOCTOR: Okay. [REDACTED]  Just be diligent.
+PATIENT: Okay right yeah okay.
+DOCTOR: Okay.
+PATIENT: Okay I'll try to eat more um unbreaded chicken uh.
+DOCTOR: Okay.
+PATIENT: Yeah uh.
+DOCTOR: I want to make sure you get this appointments next week.  Make sure you hand it to a live person.  [REDACTED].
+PATIENT: Okay at the Pharmacy.
+DOCTOR: Yeah at the front the front.
+PATIENT: Well uh, [REDACTED] something.
+DOCTOR: Pick up the pills at the Pharmacy.
+PATIENT: [REDACTED] at the Pharmacy.
+DOCTOR: Alright?
+PATIENT: Alright.  Have a good afternoon.  [REDACTED].
+DOCTOR: Yeah, you have a good weekend okay.
+PATIENT: Yeah I'll try to be better okay, alright.
+DOCTOR: [REDACTED] it's worth it.  You're not trying to do better for me okay.
+PATIENT: No.
+DOCTOR: [REDACTED].  Fried chicken.
+PATIENT: [REDACTED].  No, no, no.
+DOCTOR: It's not gonna hurt me, it's gonna hurt you.
+PATIENT: Yeah I know yeah, yeah.
+DOCTOR: So I'm grateful that patients, you guys say you know I'll do, you know I'll do it for you, I'll do it for you but [REDACTED].
+PATIENT: Yeah I know, I know.
+DOCTOR: But remember you're really doing it for you.
+PATIENT: [REDACTED].
+DOCTOR: Cause you don't want to be on dialysis.
+PATIENT: Right, right.
+DOCTOR: Believe me, it's not fun.
+PATIENT: Right.
+DOCTOR: Um it's, it's not.
+PATIENT: Oh yeah.  But you're the one who tells me how I'm doing okay.
+DOCTOR: I’m going to be a dialysis doctor and I'm telling you right now.
+PATIENT: Yeah.
+DOCTOR: Although I'd appreciate the business you know.
+PATIENT: Yeah I know.
+DOCTOR: I'm saying the [REDACTED].
+PATIENT: Yeah I know.
+DOCTOR: As a joke.
+PATIENT: I, I.
+DOCTOR: [REDACTED] not that type of business.
+PATIENT: Normally people yeah.
+DOCTOR: [REDACTED] okay.
+PATIENT: I've known people on dialysis and I don't want to be that.  Okay but I'm going to try to live till 70, [REDACTED].
+DOCTOR: You could do better than that.
+PATIENT: I [REDACTED] financially okay.
+DOCTOR: Alright.
+PATIENT: But yeah okay.  If I make it to 70 I'll be happy okay.
+DOCTOR: [REDACTED].
+PATIENT: Alright okay, uh, uh but everything else [REDACTED] okay.
+DOCTOR: Yeah.
+PATIENT: I've got very few aches and pains you know.
+DOCTOR: You're doing fine.  You just need to change [REDACTED].
+PATIENT: Oh.  Okay, uh I take a lot of supplements like glucosamine chondroitin.
+DOCTOR: That's fine.
+PATIENT: Okay uh, the fish oil [REDACTED].
+DOCTOR: Fish oil.
+PATIENT: A low dosage cause [REDACTED].
+DOCTOR: Okay.
+PATIENT: Uh okay I take the B vitamin, vitamin C.
+DOCTOR: How much B vitamin do you take?
+PATIENT: Uh.
+DOCTOR: Cause don't take more than you should.
+PATIENT: Well.
+DOCTOR: A little’s okay.
+PATIENT: Uh okay, well.
+DOCTOR: Just bring it in next time.
+PATIENT: Uh okay, alright.  Uh let me see I take vitamin A and B.
+DOCTOR: That's fine.  Just bring that in cause don't take more than you should.
+PATIENT: Okay I'm fine.  Okay, uh I think that's about all I'm taking.
+DOCTOR: Okay.
+PATIENT: Alright.  [REDACTED].
+DOCTOR: Okay.
+PATIENT: Alright, okay, let me see I can't think there was anything else I was gonna ask you about.
+DOCTOR: Don't worry about it.  You can always.
+PATIENT: I know, I'll come back next Friday you know so if I forget anything I'll ask.
+DOCTOR: Yeah I'll be around; I'll be here at the VA just in case.  I'll come down and say hi okay.
+PATIENT: Alright, good enough.
+DOCTOR: Take care.
+PATIENT: Alright bye.
+PATIENT: 47:12.
+TIME IS 6:05
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1235340
+TRANSACTION # 578-10-2-316-0103

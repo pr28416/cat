@@ -1,0 +1,446 @@
+DOCTOR: PATIENT?
+PATIENT: How you doing?
+DOCTOR: Good.  How are you?
+PATIENT: Okay.
+DOCTOR: How you doing?
+PATIENT: Okay, been a little bit.  Sit over here?
+DOCTOR: Go ahead have a seat right there.  NAME it is the first time I've seen you or I haven't seen you in a while.
+PATIENT: First time I've seen you.
+DOCTOR: Alright, alright.  We're uh, who do you normally see?
+PATIENT: Uh DOCTOR.
+DOCTOR: Okay well that's good.  Well how can we help you today?
+PATIENT: Well.
+DOCTOR: Since you're coming in for a visit, is there any problem or is it just for a follow-up?
+PATIENT: Follow-up and then uh I got some, well I spoke to DOCTOR.
+DOCTOR: Okay.
+PATIENT: I told him I was experiencing some wheezing.
+DOCTOR: Okay.
+PATIENT: So he had, you know, he did the tests.
+DOCTOR: Okay.
+PATIENT: He sent me to have a test done.
+DOCTOR: So that's the pulmonary function tests?
+PATIENT: Yes.
+DOCTOR: Yes.
+PATIENT: And the results coming back.
+DOCTOR: Oh.
+PATIENT: He said he wanted to listen first cause he's been following me, prescribing different things and he wanted to give me the right stuff.
+DOCTOR: Alright.
+PATIENT: But he wanted to listen to my lungs first.
+DOCTOR: Let me check his last note alright.
+PATIENT: Hey uh do you guys actually um, do you write prescriptions or do you have to follow the VA process?
+DOCTOR: Well we write prescriptions through the um.
+PATIENT: Do that through the computer right?
+DOCTOR: Yes sir.
+PATIENT: But you can't write, hand write?
+DOCTOR: No huh uh, why do you ask?
+PATIENT: They get expensive, the co-payments that's why.
+DOCTOR: Through the VA?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Cause the medicines I can get a lot cheaper so that's why I was asking you that you know.
+DOCTOR: Well let me, I'll have to ask.
+PATIENT: You have to ask DOCTOR?
+DOCTOR: Yeah or DOCTOR.
+PATIENT: Okay.  I wrote down the prescriptions that I want, written down on a list.
+DOCTOR: So to get through here is expensive for you?
+PATIENT: Yeah the co-payments.
+DOCTOR: Let me see exactly what you're taking first of all.
+PATIENT: I can tell you which ones I'm talking about that work right here.  I been taking that [REDACTED].
+DOCTOR: [REDACTED].  For the most part your lungs are pretty good.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Because there may have been a little spot, what we call a mild obstructive defect okay.
+PATIENT: Okay.
+DOCTOR: Um so obstructive defect, are you a smoker or were you ever a smoker?  Okay, there's no history of asthma or every had a history of asthma?  Do you have a history of reflux or GERD what we call like a burning in your the chest after you eat like at night, stuff like that?
+PATIENT: Yeah so I have to stay away from certain foods.
+DOCTOR: Okay you do.
+PATIENT: Yeah.
+DOCTOR: You're taking medication for that?  No okay.
+PATIENT: No.
+DOCTOR: Um.
+PATIENT: It's just like you know sometimes uh it's kind of like [REDACTED] or uh wheezing when I lay down.
+DOCTOR: Okay.  When was the last time you saw DOCTOR?
+PATIENT: Uh about a month ago, the last time I was here.
+DOCTOR: Cause I just, I see you were here last year in May you saw DOCTOR.
+PATIENT: Uh it was I saw DOCTOR and let's see DOCTOR in July.
+DOCTOR: In July.
+PATIENT: Yeah.
+DOCTOR: July what?
+PATIENT: I guess sometime around this time.
+DOCTOR: Okay.
+PATIENT: Mid July.
+DOCTOR: I have the nurse; I don't see the note from DOCTOR.  I see the PFT Report and that was in July, the function tests.
+PATIENT: Okay.  Maybe he didn't add anything.
+DOCTOR: Okay.
+PATIENT: Cause uh there wasn't really nothing for them to do.
+DOCTOR: Okay.  Okay I see.
+PATIENT: You see it?
+DOCTOR: Yep.
+PATIENT: Okay.
+DOCTOR: Okay I see it.  Okay so you have a couple issues.  It looks like the diabetes is also a major issue correct?  Okay.  Let me just [REDACTED].
+PATIENT: So far it's been pretty good.
+DOCTOR: Okay.
+PATIENT: I been testing myself.
+DOCTOR: Now what are you on for your diabetes?
+PATIENT: Um I [REDACTED], glypid, glyper, G I don't know how to pronounce it.
+DOCTOR: Glipizide?
+PATIENT: Glipizide and um, oh the metformin yeah.
+DOCTOR: You're on metformin.  Good and I was reading from DOCTOR said you were having some trouble with the metformin?
+PATIENT: Yeah I was.
+DOCTOR: But.
+PATIENT: But it went away.  I was experiencing headaches with it.
+DOCTOR: Okay.
+PATIENT: But as it got into my system I wasn't experiencing any more headaches and I been testing myself and uh been pretty good.
+DOCTOR: Okay.
+PATIENT: Like when I get up in the morning I test myself and sometimes it's like 95, 115.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Good.
+PATIENT: And I you know I been testing myself like two hours after I eat.
+DOCTOR: Okay.
+PATIENT: It's like 140.
+DOCTOR: Really?
+PATIENT: Yeah.
+DOCTOR: That's not bad.
+PATIENT: Yeah I know so.  It's been [REDACTED] .  He had told me to take uh, he told me to take a half a pill, half of it, so I took half.
+DOCTOR: So you're taking half of.
+PATIENT: No I take a whole one now.
+DOCTOR: So you take okay.
+PATIENT: I take a whole one.  Well that glipizide I was wondering is that necessary to take along with that metformin?
+DOCTOR: It should be and I think the reason they did that was because your sugar wasn't very well controlled.
+PATIENT: Yeah.
+DOCTOR: Uh and that's why so last time.
+PATIENT: But he no this I was taking the glipizide and he said because my sugar was uncontrolled he added the metformin.
+DOCTOR: Yeah.  So you're taking metformin, you're taking glipizide, you're taking 20 twice a day right?  20 mg?
+PATIENT: Well actually I'm taking only 10.
+DOCTOR: Okay 10 okay.
+PATIENT: I'm taking 10.
+DOCTOR: Okay.
+PATIENT: Along with the metformin.
+DOCTOR: Okay and uh metformin what 500 twice a day okay.
+PATIENT: Right, right.
+DOCTOR: And then and you're taking that every day?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Every, every day without fail and your blood sugars when you wake up in the morning are around?
+PATIENT: They tend to.
+DOCTOR: What number?
+PATIENT: Fluctuate maybe 95, 115 or so I guess.
+DOCTOR: So that's very good.  Is that better than it has been in the past?  A lot better cause it.
+PATIENT: Cause when I was waking it was like 150.
+DOCTOR: Okay, okay.  Now you said two hours after you eat it's how much?
+PATIENT: It's um, it's about 140.
+DOCTOR: 140 okay.
+PATIENT: Yeah.
+DOCTOR: Um that's fine uh any problems with low, low blood sugar?
+PATIENT: The lowest I ever went was, I tested myself one time and it was like uh 85.
+DOCTOR: Okay.
+PATIENT: That's not, that's not that low is it?
+DOCTOR: 85 is not that low.
+PATIENT: But when I get below 70.
+DOCTOR: Then you start feeling it?
+PATIENT: Well I haven't got below 70 yet.
+DOCTOR: Okay, alright well that's good.  So then you're not going too low.  Um when was your last eye appointment?
+PATIENT: I have one coming up.
+DOCTOR: You do okay.
+PATIENT: Yeah it's September 23rd.
+DOCTOR: How about your foot, any foot appointments?
+PATIENT: I have to make one but I been taking care of my feet.
+DOCTOR: You haven't?
+PATIENT: I have.
+DOCTOR: Okay good, that's good.  And you do any exercise?
+PATIENT: Yes.
+DOCTOR: And your dieting?
+PATIENT: Yeah I uh eat no white food at all.
+DOCTOR: Okay.
+PATIENT: No white you know only whole wheat or whole grain and I exercise too.
+DOCTOR: Alright.  Now your last cholesterol was in May as well.  Your good cholesterol was 124 or sorry your bad cholesterol was 124; your good cholesterol was 40.  Now DOCTOR I think changed your cholesterol medication at that time too right?
+PATIENT: Uh yeah he did.  He changed it.  Yes.
+DOCTOR: Now there are a couple, there are a couple of notes here okay.  First of all the [REDACTED] problems, okay.  Now DOCTOR had increased your glipizide from 10 to 20.  Did that ever happen?  The glipizide to twice a day to 10 mg?
+PATIENT: Yeah that's before the uh metformin.
+DOCTOR: Okay.  But then you start the metformin and then you just kept on the 10 is that correct?
+PATIENT: Uh I started doing 20.  I mean I was going 20 and then I got on the metformin okay and then I found out that I went back down to 10 of the glipizide and did the metformin and my sugar got better.
+DOCTOR: Okay.  Alright, alright so what we need to do at this point so and you've been taking your cholesterol medication regularly correct?
+PATIENT: Right.
+DOCTOR: Okay um and it looks like your cholesterol medication was actually changed at one point.
+PATIENT: Well they started what simvastatin, yes simvastatin.
+DOCTOR: Yeah so when was that changed?
+PATIENT: Oh that was changed when I first, let's see when was it changed; let me think back, it was changed about three or four months ago.
+DOCTOR: Okay.  Well if it was changed three or four months ago.
+PATIENT: It should be in my chart somewhere.
+DOCTOR: Well we need to repeat it okay.  Now this says on 06/10 so it says, this note said you're on simvastatin 20 mg okay.  It says they wanted to increase but they were going to re-discuss it on your visit to the uh pharmacist.
+PATIENT: Yeah we were supposed to do some more tests on it.
+DOCTOR: Okay.
+PATIENT: I believe before we increased it to see how my, see how my cholesterol is.
+DOCTOR: Okay.
+PATIENT: Since I been on the uh the simvastatin.
+DOCTOR: You haven't been taking that regularly, were you having trouble not taking that regularly?
+PATIENT: I took I uh actually take half of it.
+DOCTOR: Okay.  Okay but you're doing that every day?
+PATIENT: Yeah I have it every day.
+DOCTOR: And but before your cholesterol was last checked in May.  Were you taking it kind of sporadically then like every once in a while or were you taking it consistently?
+PATIENT: I take my medicine consistently.
+DOCTOR: Okay it's all good.  Well I mean maybe something we do need to increase is.
+PATIENT: What?
+DOCTOR: The simvastatin.
+PATIENT: Why?
+DOCTOR: Well because your cholesterol wasn't at goal, so a lot of people with diabetes.  Diabetes have certain goals okay and they're with regard to sugar control okay because we know that blood sugar can affect vessel disease, especially small vessel disease and then we also aim to control a lot of other stuff like blood pressure, cholesterol, smoking okay.
+PATIENT: Uh-huh.
+DOCTOR: Cause you know that can affect heart disease and it turns out diabetics die most from heart disease, vascular disease so anything we can do to limit that is good.  Now all these studies of people that live over the years tend to show that we're
+being good doctors if we meet these goals and we decrease the risks of these events happening if we meet these goals.  So that's kind of why we have you on it is because we know that if we get your cholesterol to a certain goal, being a diabetic, that will help you live longer.
+PATIENT: Okay.
+DOCTOR: So that's why we, that's why we kind of encourage that, we kind of push you to do that stuff.  Um and that's why DOCTOR wanted to increase your simvastatin alright from 20 to 40 cause he wanted to see your bad cholesterol, the LDL, should be around 100.
+PATIENT: But should we uh do a test to make sure?
+DOCTOR: Well it depends, the last time it was checked was in May right?
+PATIENT: I believe so, I can't remember.
+DOCTOR: Yeah.
+PATIENT: To be honest with you.  Can you see it there?
+DOCTOR: Yeah.  So the last time we checked your cholesterol was in May.
+PATIENT: Right well that's when I did the blood tests right.
+DOCTOR: Yeah.
+PATIENT: Okay yeah.
+DOCTOR: And it was okay but it wasn't quite, it was 124, it should be around 100.
+PATIENT: Okay.
+DOCTOR: Okay and that's kind of the same for your A1c wasn't at goal either and that's why we added your metformin so okay.  So.
+PATIENT: So that A1c is a actual test, a test over a period of time right?
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: Yes.  Um yeah and it checks to make sure how well your sugar's controlled.  It should be checked every three months.
+PATIENT: Okay so it’s time.
+DOCTOR: Yeah.  So how about this?
+PATIENT: Okay.
+DOCTOR: Cause why don't we check your cholesterol.
+PATIENT: Uh-huh.
+DOCTOR: Okay, alright.  If your cholesterol is still elevated let's go increase your medication.
+PATIENT: Well okay.
+DOCTOR: Alright.
+PATIENT: Because I think it's what it is, 25 mg.
+DOCTOR: You're at 20 mg.
+PATIENT: And I'm doing 10.
+DOCTOR: You are doing, at least by this; you're doing 20 mg so you get a 40 mg tablet.
+PATIENT: Oh yeah.
+DOCTOR: And you're cutting them in half.
+PATIENT: Okay.
+DOCTOR: Okay.  So by this you're taking 20 mg so we would increase to the 40 mg alright.
+PATIENT: That's a whole pill.
+DOCTOR: Yeah.
+PATIENT: But you're gonna do the test right correct?
+DOCTOR: Yeah.  If that's what it takes to get you to increase yeah I'll do that.
+PATIENT: Yeah because I want to make sure.
+DOCTOR: Alright.  Have you been eating today, you been fasting?
+PATIENT: Uh, I had one of those bars, one of those Nature Valley Bars.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: That’s okay.  Deep breaths, again, deep breath.  Your pulse is a little bit fast today.  Is it always a little quick?
+PATIENT: Well I'd had been in the gym for about an hour.
+DOCTOR: Oh you were in the gym?
+PATIENT: Yeah.
+DOCTOR: You were working out okay.
+PATIENT: Yeah.
+DOCTOR: I was gonna say.
+PATIENT: [REDACTED] yeah.
+DOCTOR: Maybe that’s why.
+PATIENT: My blood pressure was kind of high I said I had just got done at the gym.
+DOCTOR: Okay, alright.
+PATIENT: I'd been at the gym about maybe.
+DOCTOR: Before you came up here?  Yeah.  And you're gonna set up an eye appointment and a foot appointment?
+PATIENT: Oh yes.
+DOCTOR: Okay so I think that's what we're gonna do alright.  We'll repeat your cholesterol but you need to be fasting so you have to come back and do it okay.
+PATIENT: Okay.  Have to come back?
+DOCTOR: Yeah you can do it, I don't know do you come to the gym here or?
+PATIENT: No I go to Bally’s.
+DOCTOR: Okay close by?
+PATIENT: Huh?
+DOCTOR: Is it close by?
+PATIENT: Close by my home.
+DOCTOR: Okay.  How often to get up here?
+PATIENT: Not often at all.
+DOCTOR: Okay.  We'll repeat your cholesterol.  The next time you can come back and I'll put it in for like in the next week.
+PATIENT: Uh-huh.
+DOCTOR: For you to come back in okay.
+PATIENT: Okay.
+DOCTOR: Any time between now and next week should be good.  Uh I'll put it in for tomorrow morning and you can just get it in the morning.
+PATIENT: Well what's you gonna do about this wheeze?
+DOCTOR: Well right now your lungs sound pretty clear okay.
+PATIENT: Cause I think it's in here cause I have to uh sometimes I have to use that albuterol.
+DOCTOR: You use the albuterol inhaler?  You really have to avoid certain foods that gives you um.
+PATIENT: Well like uh, like if I eat something like pasta with tomato sauce.
+DOCTOR: Yeah.
+PATIENT: Late at night.
+DOCTOR: Yes.
+PATIENT: Then I get it, I can't help it.
+DOCTOR: Right.
+PATIENT: Or really spicy.
+DOCTOR: Do you have coffee?
+PATIENT: Yeah sometimes in the morning.
+DOCTOR: Okay does that set you off?
+PATIENT: Yeah.
+DOCTOR: Um sometimes people that have, it’s usually due to reflux or an inflammation in the esophagus from like the stomach acid.
+PATIENT: Uh-huh.
+DOCTOR: What we can do is you take the albuterol; you get wheezing mostly at night right?
+PATIENT: Yeah when I lay down.
+DOCTOR: Yeah.
+PATIENT: Uh I have shortness of breath.  Now when I get on the treadmill [REDACTED] fine [REDACTED] uh you know I have like shortness of breath.
+DOCTOR: You do have shortness of breath?
+PATIENT: Yeah.
+DOCTOR: Okay.  Any swelling now?
+PATIENT: Any swelling?
+DOCTOR: Yeah in your legs or anything like that?
+PATIENT: No. Uh uh.
+DOCTOR: Um how about when you walk regularly?  No?
+PATIENT: No.
+DOCTOR: Chest pain?
+PATIENT: No.
+DOCTOR: Alright um.
+PATIENT: You think  you can give me something for this wheezing though?
+DOCTOR: What's that?
+PATIENT: Can you give me something for this wheezing?
+DOCTOR: Depending on what's causing the wheezing.  You know if you're telling me when you're on the treadmill and you’re short of breath do you mean you're not able to exercise as much as you can or?  How many flights of stairs can you go up before you get short of breath?  Or is that a problem for you or not a problem at all?
+PATIENT: It depends.
+DOCTOR: Do you wheeze when you get on the treadmill?  No.  Do you get short of breath still?
+PATIENT: The only time I wheeze is when I'm laying down.
+DOCTOR: Okay.  And what's this with the treadmill thing?
+PATIENT: Well when I get off the treadmill sometimes I got to like kind of catch my breath but I don't be wheezing.  Like my wife says sometimes when I be talking to her she'd say I hear you wheezing.
+DOCTOR: Okay.  It may be that sometimes if it's worse at night, you know this wheezing it could be just the reflux that's maybe causing this uh your.
+PATIENT: The wheezing?
+DOCTOR: Yeah I mean it could be.  So maybe suppress some of the stomach acid a little bit, that might help it too and we could try it.
+PATIENT: Put this on hold again.
+DOCTOR: Well I can give you something for it.  I can give you something for it, what do you think?
+PATIENT: You say you didn't see any problems with my lungs or anything?
+DOCTOR: Your PFT showed you maybe have a mild obstructive defect okay.  Now the albuterol should help that.  Does your albuterol help the wheezing that you have at night?  Have you tried it at night the albuterol?
+PATIENT: Yeah sometimes I can try it.
+DOCTOR: Sometimes, does it help?
+PATIENT: Uh yeah it helps.  But you know I spoke to DOCTOR and he said that the albuterol is not doing any good and that's what he told me.
+DOCTOR: Okay.
+PATIENT: Um you’re trying to tell me there's no problems with the lungs.
+DOCTOR: Yeah well right now it doesn't look like there is okay.  What I'm saying is that sometimes if your stomach acid at night, you lay back and that irritates your lungs cause it can.  It can cause a little constriction and can cause that wheezing.  Your lungs sound clear on exam right now, so there's no problem.
+PATIENT: Okay.
+DOCTOR: So what if we try and just suppress the stomach acid alright.  You just take the pills, take twice a day, we'll check it, we'll try it for a month, four to eight weeks, see if that helps at all alright.
+PATIENT: Okay.
+DOCTOR: Especially at night and then if it does we have our answer.
+PATIENT: Okay.
+DOCTOR: Alright.  I'll be right back.
+PATIENT: Can you uh, give me something to enhance my sexual performance?
+DOCTOR: (Laughter) You just add it on right at the end don't you?
+PATIENT: (Laughter).
+DOCTOR: [REDACTED] I'm just kidding.  Um yeah we can talk about that too I mean.  I think getting your blood sugars under control that [REDACTED] is fine.  Can we talk about that when you come in in a month?
+PATIENT: I was hoping that you'd give me some today.
+DOCTOR: Alright well I'll see what I can do.
+PATIENT: (Laughter).
+DOCTOR: Next time, don’t wait until the end of the appointment.
+PATIENT: Well I want to get the important stuff out first.
+DOCTOR: Alright, alright, alright.
+(DOCTOR OUT:  35:00  DOCTOR IN:  41:10)
+DOCTOR: Alright.  So you're able to actually get an erection?
+PATIENT: Uh yes, a little.
+DOCTOR: What's the problem?  Is it I mean.
+PATIENT: I want it better.
+DOCTOR: Okay.  So what do you mean better?  You mean you want harder?
+PATIENT: Yes.
+DOCTOR: You want it to last longer?
+PATIENT: Yeah I want it to last longer and I want it better.
+DOCTOR: Okay.  Now are you able to ejaculate?
+PATIENT: Yes.
+DOCTOR: Okay.  Is it, do you ejaculate too quick?
+PATIENT: Sometimes.
+DOCTOR: That's a different story okay.  But you are able to achieve an erection?
+PATIENT: Yeah but it's not hard enough.
+DOCTOR: Okay.
+PATIENT: My wife want it harder.
+DOCTOR: Okay.
+PATIENT: Or she’s gonna leave me.
+DOCTOR: How's the, how's stuff with your wife, is it alright?
+PATIENT: What?
+DOCTOR: Here's what I'm saying okay is it, yes Viagra could help you.
+PATIENT: But that's kind of dangerous isn't it?  What about Cialis?
+DOCTOR: Oh Cialis, Viagra kind of work in the same way okay.  Now both are dangerous if you're on medications that can lower your blood that like a nitrite is what it’s called that lowers your blood pressure if you have heart disease right.
+PATIENT: Yeah.
+DOCTOR: And I don't think that you have, you don't have any indication of heart disease right now.  You're not getting chest pains when you run; you're not on any medications like the nitrates okay.  Those are contraindications.  There are a couple of things that are worrisome right that they can cause you know this you know your erections not being so great okay.  So one is vascular disease, so someone who has uncontrolled diabetes.  We always worry about the vessels down there being a affected, alright.  So that's one thing that's the reason you need to control your diabetes right.  The other thing we worry about is just psychological stuff.  Like sex is psychological as everything else is.
+PATIENT: Yeah it is.
+DOCTOR: Yeah and if you're not as attracted or you've been married a long time, things maybe aren't going as well.
+PATIENT: (Laughter) That could be a reason huh?
+DOCTOR: Well it could be, I mean you tell me.  I mean do you think is this kind of a tough time right now in the relationship or?
+PATIENT: Uh uh.
+DOCTOR: Okay.
+PATIENT: No.
+DOCTOR: You think there's a psychological component to it?
+PATIENT: It's part of the psychological I mean that's part of the physical as well.
+DOCTOR: Okay, alright.
+PATIENT: So what you're saying that I shouldn't take this stuff?
+DOCTOR: What I'm saying is if you want to, I don't know if I can give it to you without, I mean you need to take a couple of tests first.  The VA wants to get like a urine test, get a blood test right, check into your prostate and make sure that's okay, alright.
+PATIENT: Oh okay.
+DOCTOR: If all that's okay we could probably give it a try, alright.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: I need to have my prostate checked anyway.
+DOCTOR: Okay then we'll do it then.  I'm going to put, why don't we do labs that's today okay.
+PATIENT: Oh today cause I don't know if I have the time.
+DOCTOR: Well when you come back to get your cholesterol checked alright.
+PATIENT: How long this gonna be a month from now?
+DOCTOR: I can put the cholesterol, when do you want to come back to get your um.
+PATIENT: Oh do these tests?
+DOCTOR: Yeah.
+PATIENT: I can come back tomorrow.
+DOCTOR: Okay so come back in the morning.
+PATIENT: Oh okay.
+DOCTOR: Can you do that?
+PATIENT: Yeah.
+DOCTOR: Alright then we'll put it in for tomorrow morning at 8 o'clock let's say.
+PATIENT: Um put down 9 o'clock.
+DOCTOR: 9 o'clock is fine alright.
+PATIENT: Uh you know that's gonna be good too because you can do all those other tests as well can't you?
+DOCTOR: Yep that's what I was, that's what we'll do.  So we'll check your A1c, we'll check your cholesterol okay.
+PATIENT: Okay that's fine.
+DOCTOR: And we're gonna check your prostate and we just need a urine tests okay.
+PATIENT: Okay.
+DOCTOR: And then when you come back, do you want to come back and see me in a couple of months?
+PATIENT: Uh.
+DOCTOR: You want to come see me in a month?
+PATIENT: Well I want to come see you so I can get those pills.
+DOCTOR: Alright, so I got to see you in a month then.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Do you work nights?
+DOCTOR: No I work Monday afternoon.
+PATIENT: Let's see, a month from now, a month I'll [REDACTED].
+DOCTOR: Alright.
+PATIENT: Yeah that's fine.
+DOCTOR: Oh they might actually let me give you the Levitra.
+PATIENT: What's.
+DOCTOR: Yep, they'll let me give it to you okay.  So I'll give you, let's get the PSA checked so, get all the labs checked tomorrow like we talked about.
+PATIENT: Right.
+DOCTOR: And then you can actually go pick up this.  It's only for twice a month okay.  So I can give you two pills and I can give you a refill.  I'll give you two refills.
+PATIENT: So it's twice a month.
+DOCTOR: You take it before sexual activity but we can only give you two pills okay with refills.
+PATIENT: Oh you have to keep coming back.
+DOCTOR: Yes.  Right.
+PATIENT: Can you, do you have to take the whole pill or could you uh.
+DOCTOR: Take the whole pill.
+PATIENT: Oh.  So what does that do, what that do uh enhance your uh?
+DOCTOR: It allows blood to flow more freely okay.
+PATIENT: Do you get a better erection?
+DOCTOR: You got it.  Alright.  Okay uh I guess that's it.
+PATIENT: Oh give me uh, I need uh atenolol.  I guess you can't write a prescription, I just got to take the medicine here.
+DOCTOR: Right exactly.  What do you need a prescription for?
+PATIENT: Atenolol, atenolol.
+DOCTOR: I don't see you on atenolol.  You're on the metformin, the nifedipine, the glipizide, the aspirin, simvastatin, hydrochlorothiazide.  I don't see they have you on atenolol, oh here we go okay.  That ones expired.  How long you been taking it?
+PATIENT: Uh I been taking long, long, for a long time.  Do I have to take it?
+DOCTOR: Yes you should take it.
+PATIENT: What is that for exactly?
+DOCTOR: It's for your blood pressure.
+PATIENT: Okay.
+DOCTOR: Okay.  Now I'm just trying to see here.  Okay, alright.  I'm going to refill your atenolol.
+PATIENT: Okay.  So I do the tests tomorrow, I have the tests.
+DOCTOR: Yep.
+PATIENT: And then I see you a month from now.
+DOCTOR: You got it.
+PATIENT: Then.
+DOCTOR: Same bat time.
+PATIENT: Okay.
+DOCTOR: Alright.  We'll see [REDACTED] alright.
+PATIENT: Okay, yeah.
+PATIENT: 48:08.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275424
+TRANSACTION # 578-10-2-316-0103

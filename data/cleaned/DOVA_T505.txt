@@ -1,0 +1,188 @@
+DOCTOR: PATIENT?  Hi how are you?
+PATIENT: Back here?
+DOCTOR: [REDACTED].
+PATIENT: Around the back.  [REDACTED].
+DOCTOR: [REDACTED].  Alright how you been?
+PATIENT: I've been better.
+DOCTOR: Okay.  Any problems or complaints since the last time I saw you?
+PATIENT: Uh no.
+DOCTOR: Okay.
+PATIENT: Yeah I been okay.
+DOCTOR: And you haven't been sick or anything?
+PATIENT: No I ain't been sick.
+DOCTOR: Okay, excellent, that's what we like to hear.
+PATIENT: Uh.
+DOCTOR: Um.
+PATIENT: I had a talk you know like I been in the bed at night and I don't know whether it's too dry in the house or but this cough, [REDACTED] and it's just like a smoker's cough and I ain't been smoking for four years.
+DOCTOR: Okay so that's good um.  How long has this cough been going on?
+PATIENT: For two [REDACTED] nights.
+DOCTOR: Just a couple nights.
+PATIENT: Yeah.
+DOCTOR: Okay.  Do you have any like, do you sense any dripping in the back of your throat or anything, are you coughing anything up with it?
+PATIENT: Yeah my nose runs, my nose runs.
+DOCTOR: And that just started in the last couple days too?
+PATIENT: Well that's been going on for the last week.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright is it only at night when you're coughing?  During the day are you coughing at all or not really?
+PATIENT: No not really.  I just come into the cough and can't stop and it's been and when I wake up and then I be on my run, you know and I'll cough.
+DOCTOR: Nothing like that.  So it's just at night when you're laying back?
+PATIENT: Yeah.
+DOCTOR: Any burning in the belly, in the belly at all or anything like that?
+PATIENT: No.
+DOCTOR: No.  No nausea or vomiting or anything?
+PATIENT: No.
+DOCTOR: No bad taste in the mouth at all?
+PATIENT: Uh uh.
+DOCTOR: Okay no shortness of breath?
+PATIENT: No.
+DOCTOR: So, it’s just a cough.  Alright well I mean, you said you started having this kind of dripping, do you feel like you have some of your sinuses are a little blocked up too?
+PATIENT: Yeah you know like my nose right after I get out of the shower my nose is running.
+DOCTOR: Okay and that's just been going on in the last week?
+PATIENT: Huh?
+DOCTOR: Just for about a week?
+PATIENT: Yeah.
+DOCTOR: Okay.  Nothing else, no fevers, chills, no chest pain or anything like that?
+PATIENT: No.
+DOCTOR: Okay.  I mean it sounds like, I mean you may have a little bit of an allergy almost.
+PATIENT: Oh yeah.
+DOCTOR: It sounds like; do you have a history of allergies at all?
+PATIENT: Well then right here lately, you know like I was itching you know just like uh, you know like I'm scratching and then it fired up and uh it came back and I was itching again.
+DOCTOR: Okay.  How long has this been there?
+PATIENT: Huh?
+DOCTOR: How long has this been there?
+PATIENT: Been there about a month or two.
+DOCTOR: You got any on the other side of you?
+PATIENT: No.  You know just like uh when I was in the south, you know like [REDACTED].
+DOCTOR: [REDACTED] in the crooks of the elbow, in the groin?
+PATIENT: In the groin, not in the groin.
+DOCTOR: But you're getting scratchy down there?
+PATIENT: Yeah right.
+DOCTOR: And nowhere else, nothing on your feet or your hands or anything like that?
+PATIENT: No.
+DOCTOR: How do these start?  What do they look like when they start?
+PATIENT: It looks like that but I must have did that with my scratching you know like it was, it was all smooth until I just got through scratching you know just to relieve the pain and then I went to sleep and you know like I used my [REDACTED] again and so I could get to sleep.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Can I see this leg too?  And nothing at night, you don't feel like you're getting bit by anything at all?
+PATIENT: No.
+DOCTOR: Okay.  Have you changed sheets?  Did you change the kind of detergent you use?  Uh okay, you haven't got any new clothes or anything?
+PATIENT: No.
+DOCTOR: And no new medications, nothing else like that?
+PATIENT: Yeah I use my medications.
+DOCTOR: No new medications though, nothing new right?
+PATIENT: Uh not that's new.
+DOCTOR: Any pets?
+PATIENT: No.
+DOCTOR: Okay.  How often do you wash your sheets?
+PATIENT: Once a week.
+DOCTOR: Okay and you never noticed anything, no little bugs or anything like that?  Nothing like bed bugs or anything that you notice?  Uh okay.
+PATIENT: Oh I never noticed, you know like uh I be looking for them but they I ain't seen none.
+DOCTOR: You haven't seen anything okay.  And it's weird that it'll be just in one spot too.  But that's where you scratch it.  Did that start after you were scratching, there was nothing there that started to itch and then you were scratching?
+PATIENT: Yeah there wasn't nothing here, it was like this.
+DOCTOR: Okay and then it started to itch.
+PATIENT: Yeah.
+DOCTOR: And then you started scratching and then that came on.
+PATIENT: Yeah that came but I was bleeding.
+DOCTOR: So there might have been from scratching then from that?
+PATIENT: Yeah, it was bleeding you know.  It don't itch right now.  But see [REDACTED] there one time I didn't get any relief and the doctor gave me some allergy pills and then I I went and it was okay.  And then it came back again a real [REDACTED].
+DOCTOR: When were you were seen for this?
+PATIENT: Huh?
+DOCTOR: When were you seen for this?
+PATIENT: About a couple of months ago.  Two or three months, I can't remember.  Cause then it don't itch now.
+DOCTOR: Okay here we go.  Did the medication help then?
+PATIENT: Yes it did.
+DOCTOR: Cause we're gonna give you probably something to help with your allergies anyway for the nose and it sounds like what they call allergic rhinitis where you just get a runny nose and it drips back and then one of the most common causes of cough, especially at night when you're on your back and it just kind of drips back and irritates the throat.
+PATIENT: Oh yeah.
+DOCTOR: So I think that's why you're having a cough.
+PATIENT: Oh okay.
+DOCTOR: So I think we'll probably give you some of this now it'll be, I'll give you enough for a month and then a couple refills, we'll see how you're doing.
+PATIENT: Okay.
+DOCTOR: With that uh okay.  But doing good otherwise though?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I think I'm doing good.
+DOCTOR: No more dizziness?
+PATIENT: No.
+DOCTOR: Okay good, ‘cuz that’s why I was going to call [REDACTED] cause they saw you for that last time right.
+PATIENT: Yeah right.
+DOCTOR: Has that gone away?
+PATIENT: Right that's going away.
+DOCTOR: Okay good, good.
+PATIENT: Yeah, that’s gone away.
+DOCTOR: Alright we're going to have you get up here.  You need refills on your medications?
+PATIENT: Uh no I think that I got them all so it's good.
+DOCTOR: Alright and then um, so you're not due for a colonoscopy till a couple years from now.
+PATIENT: Yeah a couple years.
+DOCTOR: You had one in 07 and you were to come back in five years.
+PATIENT: Yeah.
+DOCTOR: Uh you got the flu shot this year already?
+PATIENT: Yeah I got a flu shot the other day.
+DOCTOR: Okay, good, good, good.
+PATIENT: They put a [REDACTED] on my [REDACTED].
+DOCTOR: Oh that's what they did?
+PATIENT: Yeah.
+DOCTOR: Alright deep breath okay.  Breathe normally here.  And hold your breath okay and breathe now hold your breath and breathe good.  Breathe in alright.  Can you look up to the ceiling for me please.  Yeah the parts of your ear and parts of your nose there, you got a little bit of swelling and edema in there.
+PATIENT: Uh-huh.
+DOCTOR: Which is probably related to some kind of allergy.
+PATIENT: Okay.
+DOCTOR: So, take a look in your ears too okay, here.  Alright can you open your mouth for me?  Say ah.
+PATIENT: Ah.
+DOCTOR: Okay.  You mind if you take your hat off for me please.  Look straight forward, look at the wall again.  Okay.  Looks pretty good.  Go ahead and lay back, check your belly too.  And no pain in the belly you said?
+PATIENT: Uh uh.
+DOCTOR: Bowel movements have been normal?  And urinaging okay?
+PATIENT: Yeah.
+DOCTOR: Okay.  Alright, I'll give you a little bit of help, can you sit up. We’re done. Alright your heart sounds good, lungs are good.  You got a little bit, like I said you've got a little swelling in your nose right there, it could be consistent with just having allergies so I'm going to give you something like, a pill, it's called loratadine.  You had it before.
+PATIENT: Yeah.
+DOCTOR: It's an antihistamine.  It's called an antihistamine pill, loratadine.
+PATIENT: Loratadine.  Do I take it by mouth?
+DOCTOR: Yep just once a day [REDACTED] by mouth, it should help with the allergies and the drip and everything too.
+PATIENT: Oh okay.
+DOCTOR: Just, you have a seat here um blood pressure looks great.  We checked your cholesterol a while ago in February so we don’t need to check it again.
+PATIENT: Oh yeah.
+DOCTOR: We'll check it again the next time we see you but I don't need to check it today.
+PATIENT: Oh okay.
+DOCTOR: Your prostate was checked so no problems urinating at all?
+PATIENT: No.
+DOCTOR: No hesitancy, frequency or anything like that?
+PATIENT: No.
+DOCTOR: Okay alright and no diabetes for you.
+PATIENT: I don't have no diabetes, not since the last time.
+DOCTOR: Alright let me run this by DOCTOR and we'll get you moving on out of her right.
+PATIENT: Okay.
+DOCTOR: Do you have any questions at all?
+PATIENT: Uh no I don't have none [REDACTED] just what [REDACTED] took care of that.
+DOCTOR: Alright, I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  26:42  DOCTOR IN:  28:08)
+DOCTOR: Alright.  We just saw you two days ago.
+PATIENT: Oh yeah.
+DOCTOR:
+DOCTOR: you’re supposed to cancel your blood today.
+PATIENT: Oh yeah?
+DOCTOR: Uh-huh.  That's alright.  We'll give you the loratadine and you'll be good to go so.
+PATIENT: Oh okay.
+DOCTOR: Okay.  No shortness of breath or anything?
+PATIENT: No none.
+DOCTOR: You been using the inhaler?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah I been walking good.
+DOCTOR: You can stop by or do you want to get it mailed to you?
+PATIENT: The loratadine?
+DOCTOR: Yeah.
+PATIENT: Okay yeah can I have it mailed to me?
+DOCTOR: Not a problem, not a problem at all.
+PATIENT: Yeah, yeah.
+DOCTOR: Take it for a month, then if you want to stop you could try stopping and see how you do without it or you can even just try it for just a couple weeks and then you can stop taking it and if you don't need it, you don't need it then.
+PATIENT: Oh okay, alright.
+DOCTOR: All right my friend.
+PATIENT: Alright doc.
+DOCTOR: That's it.  We'll see you in a little while.
+PATIENT: Okay thank you.  I'll see you.
+DOCTOR: Yep.
+PATIENT: 29:30
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286089
+TRANSACTION # 578-10-2-316-0103

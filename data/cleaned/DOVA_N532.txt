@@ -1,0 +1,235 @@
+DOCTOR: Yeah come back.  How you doing?
+PATIENT: How do you do?
+DOCTOR: Pretty well today sir.  We're a little farther down.
+PATIENT: Oh.
+DOCTOR: How you doing today?
+PATIENT: What?
+DOCTOR: Right here to the right, right here.
+PATIENT: Right here, oh yeah that's the old room.  Will you hang my jacket?
+DOCTOR: Um behind the door yes.  How have you been?
+PATIENT: Fine.
+DOCTOR: Last time I saw you in August.  Anything bothering you since then?
+PATIENT: No.
+DOCTOR: Good.  You taking that cholesterol medicine?
+PATIENT: Yes.
+DOCTOR: Good.  Any problems with it?  Any problems with it?
+PATIENT: And I'm also taking one per day.
+DOCTOR: A multivitamin.
+PATIENT: A multivitamin and one of the clonidine.
+DOCTOR: Perfect.
+PATIENT: So.
+DOCTOR: What kinds of foods are you eating?
+PATIENT: Well I'm trying to have mixture of vegetables, meat.
+DOCTOR: Okay good.  You're eating well.
+PATIENT: [REDACTED]  I don't eat past six o’clock - uh occasionally.
+DOCTOR: That's okay.
+PATIENT: But I only buy like.
+DOCTOR: Yeah you don't want to start; you don't have a lot of it at home and things like that.
+PATIENT: I don’t have any of it at home.
+DOCTOR: Have you lost a lot of weight?
+PATIENT: I don't know.  They just weighed me today.
+DOCTOR: Yeah.  They said you're 60 pounds lighter.
+PATIENT: How can I be 60 pounds lighter?
+DOCTOR: That's what I'm asking you.  Do you think you lost that much weight?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Someone must have made a mistake.
+DOCTOR: Maybe it's a mistake.  But you don't know whether you lost 60 pounds.
+PATIENT: I don't think I lost 60 pounds.
+DOCTOR: I'm going to [REDACTED], yeah, yeah.
+PATIENT: I look like.
+DOCTOR: You look the same.
+PATIENT: What?
+DOCTOR: You look the same.
+PATIENT: Yeah.
+DOCTOR: You look good.  Um good.  Have you gotten the flu shot this year?
+PATIENT: Yes.
+DOCTOR: Perfect.  When did you get it?
+PATIENT: Uh last Sunday in uh [REDACTED].
+DOCTOR: Perfect, great.  Well I'm glad you're feeling better.  Your blood pressure looks great today.
+PATIENT: Yeah.  But I can't be 60 pounds lighter.
+DOCTOR: No it's a mistake.
+PATIENT: Yeah.
+DOCTOR: It has to be a mistake.
+PATIENT: You think I look thinner?
+DOCTOR: No, maybe a little thinner but not that much.
+PATIENT: Oh you do think I do look [REDACTED] a few pounds.
+DOCTOR: I don't think, I think maybe you lost a few pounds but not 60.
+PATIENT: No.
+DOCTOR: Not six zero.
+PATIENT: So when she weighed me.
+DOCTOR: I think it was incorrect.
+PATIENT: Which was incorrect, do I have to go back and get weighed or?
+DOCTOR: No, no, it's okay.  We'll get a new weight from here next time to make sure.
+PATIENT: Uh-huh.
+DOCTOR: Otherwise you seem to be doing pretty well.
+PATIENT: I think it was 120 pounds, that's why [REDACTED].
+DOCTOR: Yeah 220, 220.
+PATIENT: I mean 220.
+DOCTOR: 220, yeah, yeah.
+PATIENT: 220.
+DOCTOR: Yeah, yeah.
+PATIENT: What was it last time?
+DOCTOR: 280.
+PATIENT: No I pretty much weighed the last time.  I've been over 2, 2, I think it was 2 [REDACTED].
+DOCTOR: Yeah I think the last one was wrong.  The last time it was 237, now it's 229.
+PATIENT: Oh.
+DOCTOR: Yeah, 237 and 229, maybe you lost eight pounds.
+PATIENT: That's probably right.
+DOCTOR: Yeah.  That’s a good thing.
+PATIENT: And you said it wasn't up last time and.
+DOCTOR: Yeah.
+PATIENT: So where do you get that 280?
+DOCTOR: I think it was incorrectly put in here.
+PATIENT: Oh.  So that's what the VA is [REDACTED].
+DOCTOR: No, no.
+PATIENT: For the last time.
+DOCTOR: Last time yeah.
+PATIENT: Oh.
+DOCTOR: You walking okay?  No chest pain, shortness of breath?
+PATIENT: No.
+DOCTOR: Good.  No swelling in your legs?
+PATIENT: So how is my weight compared to two times ago?
+DOCTOR: Let's see.  You're five pounds, at that time it was 226 and you're 229, about the same.
+PATIENT: 226.
+DOCTOR: Yeah.
+PATIENT: Yeah probably had more clothes on.
+DOCTOR: That's also true with the winter.
+PATIENT: It was really hot the other day.
+DOCTOR: No it's nice yeah.
+PATIENT: I mean two uh two times ago.
+DOCTOR: Yeah.
+PATIENT: Now not the last time but that would be the same huh.
+DOCTOR: Oh okay.
+PATIENT: So I think less clothes on.
+DOCTOR: That's probably true.
+PATIENT: Yeah.
+DOCTOR: Alright, so I'm glad you're feeling better.  Let me take a listen to you.  We'll probably gonna recheck a cholesterol panel.
+PATIENT: What?
+DOCTOR: We're gonna recheck a cholesterol panel now that we started you on this new medicine.
+PATIENT: Yeah.
+DOCTOR: Last time we checked was back in March.
+PATIENT: Yeah.
+DOCTOR: Did you eat breakfast today and lunch?
+PATIENT: Yeah.
+DOCTOR: Okay.  So I want you to come back here sometime when you haven't eaten anything.
+PATIENT: Hmm.
+DOCTOR: Okay.
+PATIENT: Yeah.  How many hours do you think?
+DOCTOR: Just like six to eight hours is okay.
+PATIENT: I can come more than that.
+DOCTOR: Yes in the morning.
+PATIENT: When the.
+DOCTOR: 8:00 am is when the building opens.
+PATIENT: Alright, opens at 8:00 am.
+DOCTOR: Correct yeah.
+PATIENT: Oh that's something I can get used to.
+DOCTOR: You can ask them on the way out.
+PATIENT: Oh.
+DOCTOR: But I think it's 8:00 am.
+PATIENT: Oh I'll look at the door.
+DOCTOR: Yeah.
+PATIENT: So I can get it anytime?
+DOCTOR: Yeah.  Have a seat up here.  So you seem to be doing quite well.
+PATIENT: So.
+DOCTOR: Yeah you can sit up, yeah that's perfect.
+PATIENT: So when's the deadline on taking that test?
+DOCTOR: Before next time I see you.
+PATIENT: Alright so in other words it's pretty open-ended.
+DOCTOR: It is pretty open-ended.
+PATIENT: So no rush.
+DOCTOR: Correct.  No emergency yes.
+PATIENT: Hmm.
+DOCTOR: Take some deep breaths.
+PATIENT: So when I feel like taking it.
+DOCTOR: Exactly.
+PATIENT: I don't feel like it tomorrow.
+DOCTOR: That's okay.  A couple more.
+PATIENT: Yeah.  Well it could be closer to the next appointment.
+DOCTOR: It really doesn't matter.
+PATIENT: [REDACTED].
+DOCTOR: Do it, yeah.  As long as you're taking your medicine I don't mind.
+PATIENT: Right.  As long as it's before the next appointment.
+DOCTOR: Correct, yeah.
+PATIENT: Do you think it'd be best to have it as close to the next appointment as possible?
+DOCTOR: I will get it whenever you get it done.
+PATIENT: Right.
+DOCTOR: If you get it done sooner, I'll take a look at it.  You want to be in the record before the next visit, I'll look at it then.
+PATIENT: Yes.
+DOCTOR: You see what I'm saying?
+PATIENT: Yes.
+DOCTOR: So either way I'll take a look at it.
+PATIENT: And so it doesn't make any difference really.
+DOCTOR: Right.
+PATIENT: As long as it's before the next appointment.
+DOCTOR: Correct.
+PATIENT: Yeah.
+DOCTOR: So you seem to be doing well.
+PATIENT: [REDACTED].
+DOCTOR: You seem to be doing well.  I'm going to visit with my attending and I'll be back okay.
+PATIENT: What?
+DOCTOR: Let me go talk with the attending outside and I'll be back.
+PATIENT: Alright.
+DOCTOR: You can have a seat wherever you would like.
+PATIENT: Hmm.
+(DOCTOR OUT:  31:41  DOCTOR IN:  36:50)
+DOCTOR: Alright sir.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: You know your weight has been stable.
+PATIENT: Yes.
+DOCTOR: You're still overweight.
+PATIENT: Yeah.
+DOCTOR: So I want you to go to this program we have called TeleMove.
+PATIENT: [REDACTED].
+DOCTOR: Do you have a phone at home?
+PATIENT: Yeah.
+DOCTOR: So what you can do is you can call this number here.
+PATIENT: Yeah.
+DOCTOR: And this is a program that we offer through the VA and it helps individuals to lose weight and to stay on track.
+PATIENT: [REDACTED].
+DOCTOR: Helping people with diet and exercise.
+PATIENT: Yeah.
+DOCTOR: And it's something that kind of, you know keep talking to you about this and keeping an eye on it.  Are you interested in this?  I can give this to you.
+PATIENT: Uh-huh, yeah.
+DOCTOR: Okay.
+PATIENT: Okay.  So I'm overweight.
+DOCTOR: Yeah.
+PATIENT: I'm not losing weight but I'm not gaining it.
+DOCTOR: Correct and I think that it'll help your cholesterol and help with the other medicine if we'll try to see that you get a couple pounds off.
+PATIENT: Right.
+DOCTOR: And the wintertime is really a hard time for people to lose weight just because you're indoors a lot, all of the holidays, things like that.
+PATIENT: Right, good.  Maybe I shouldn't eat as much hmm.
+DOCTOR: Well I think it's not what you eat, it's just to watch the portion size.
+PATIENT: Right.
+DOCTOR: So.
+PATIENT: And I don't want to be on those exercise machines.
+DOCTOR: Well are you definitely, that’s why this is a really good resource cause they give you a lot of different options.
+PATIENT: Hmm.
+DOCTOR: And so they'll go through with you all of the things that you can do.
+PATIENT: Right.
+DOCTOR: So if you say oh no I don't want to exercise, she'll talk with you and help you out with that.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: I will see you back in a couple of months.  We get a cholesterol drawn before you come in okay.
+PATIENT: Right.
+DOCTOR: So no rush on that.
+PATIENT: Right. Cholesterol.  So you already ordered it so.
+DOCTOR: I'm putting it in right now.
+PATIENT: Right.
+DOCTOR: Alright sir, take care.
+PATIENT: Thank you.  The main thing is my cholesterol huh?
+DOCTOR: Yes sir.
+PATIENT: Alright.
+DOCTOR: Take care.
+PATIENT: And I think those pills are working.
+DOCTOR: That's good.
+PATIENT: Oh I only have one more refill don't I.
+DOCTOR: I'll make sure [REDACTED] mailed to you.
+PATIENT: Alright.
+DOCTOR: Yeah.
+PATIENT: 38:55
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300277
+TRANSACTION # 578-10-2-316-0103

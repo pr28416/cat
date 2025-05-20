@@ -1,0 +1,266 @@
+DOCTOR: PATIENT?
+PATIENT: Yes sir.
+DOCTOR: How are you today?  I'm DOCTOR.
+PATIENT: Hi.  How you doing?
+DOCTOR: Good how you doing?
+PATIENT: Not bad.
+DOCTOR: Go right in here.
+PATIENT: Okay.  Uh I'm stepping on my [REDACTED].
+DOCTOR: How have you been?
+PATIENT: Oh not too bad.  [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Pardon?
+PATIENT: [REDACTED] my medicine.
+DOCTOR: What's that?
+PATIENT: Um, itemized something I should be taking all of these [REDACTED].
+DOCTOR: Okay.
+PATIENT: I haven't taken it for a long [REDACTED], they just keep adding to it and all it is 141 and I take five or six of these different ones.
+DOCTOR: For your blood pressure?
+PATIENT: Blood pressure pills.
+DOCTOR: Yeah it's pretty high today too.
+PATIENT: Well yeah I didn't take my noon and 4:00 ones because I left to come here.  It takes me a while to get here and I about missed my appointment for my leg.  So that’s explainable.
+DOCTOR: Sure.
+PATIENT: [REDACTED].  Usually I take it but I got some other things I want to talk to you about.
+DOCTOR: Yeah um so as in terms of your blood pressure medication who do you?
+PATIENT: I saw DOCTOR, DOCTOR.
+DOCTOR: DOCTOR?
+PATIENT: DOCTOR, no not really.  DOCTOR, DOCTOR, two of the doctors and then there's DOCTOR.
+DOCTOR: Alright sir.  Okay so what's wrong with your leg here?
+PATIENT: Well I just had [REDACTED].
+DOCTOR: Okay.
+PATIENT: But I uh, my knee I was walking.
+DOCTOR: Uh-huh.
+PATIENT: In the, in the what’s it place, in the terminal.
+DOCTOR: Uh-huh.
+PATIENT: And I was walking and my foot went down in the floor boards right here.
+DOCTOR: Okay.
+PATIENT: And my foot went this way and it stuck here and then my foot went this way and then I fell on my knee real bad.
+DOCTOR: Okay you fell on it.
+PATIENT: Yeah I fell on it and so now, when I take [REDACTED] off [REDACTED] ankle over here.
+DOCTOR: Uh-huh.
+PATIENT: But this one was way over [REDACTED].
+DOCTOR: Okay.
+PATIENT: It was like off you know.
+DOCTOR: Yeah.
+PATIENT: And the nurse gave me a bandage.
+DOCTOR: Do you want to take your shoes off and take your pants off completely so that way I can take a look at your knee?
+PATIENT: Yeah see how it bends here?  But the knee, it actually goes up see.  It goes, when I bent it it went this way but when I walk on it, if I take the bandage off, if I take the bandage off.
+DOCTOR: Uh-huh.
+PATIENT: I got it too tight so it can go up my legs.  But when I walk on it, my foot goes out like this.
+DOCTOR: Uh-huh.
+PATIENT: And it's normal now and I used to be walking this way but see it goes, it goes like this.
+DOCTOR: Yeah I see that.
+PATIENT: Yeah and this one's stops.  It's also stops when I'm pushing on it, it stops and this one goes straight over.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: [REDACTED].  Were you in the hospital recently?
+PATIENT: Yeah I was in the hospital, not recently, but for something else anyway I have a hard time telling them I'm not really mentally disoriented.
+DOCTOR: Uh-huh.
+PATIENT: That's cause I got banged in the head in the Navy.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED]  used to it you know and I fell in civilian life [REDACTED] but I was in and I asked them for a walker or something to walk with this about four months ago.
+DOCTOR: Uh-huh.
+PATIENT: Four or five months ago and the nurse said no I don't need one but then again I need something and [REDACTED] as potent as the right pain medicine you know.
+DOCTOR: Right.  Okay.
+PATIENT: This pain is something else.  [REDACTED] but this stuff here makes me drowsy, kind of makes me dopey [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED] it weird [REDACTED] problem.
+DOCTOR: Yeah.
+PATIENT: I just have too much [REDACTED] you know.  Psychiatrist [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah so does it hurt anywhere?
+PATIENT: Yeah it, does hurt.
+DOCTOR: When I push.
+PATIENT: Well generally right here.
+DOCTOR: Right here.
+PATIENT: Right here.
+DOCTOR: It hurts.
+PATIENT: It hurts.
+DOCTOR: Not anywhere else?
+PATIENT: Well I think the pressure here goes down and it does hurt around here and back here it hurts and then I see that the leg, doctor, tightens up you know.
+DOCTOR: Okay.  Can you lay straight back for me?  Okay can you bring your knee up?  Lift your foot up.
+PATIENT: I feel it in this one.
+DOCTOR: Does that hurt?
+PATIENT: Just a little.
+DOCTOR: Does that hurt?
+PATIENT: No [REDACTED].
+DOCTOR: Lift up.
+PATIENT: That one's [REDACTED].
+DOCTOR: Yeah.
+PATIENT: That one doesn't.
+DOCTOR: Can you bend your knee for me?  Does that hurt at all?
+PATIENT: In the back.
+DOCTOR: The back huh.
+PATIENT: [REDACTED] bend it the first time.
+DOCTOR: It doesn't really hurt when I move?
+PATIENT: No [REDACTED].
+DOCTOR: But just when I push right?
+PATIENT: When you push.
+DOCTOR: I'll tell you what, let me, you can sit up.  Let me go grab my boss and he can come take a look at it too okay.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Yeah and it seems like I don't know if it blows up in the wrapper or what.
+DOCTOR: Yeah it probably is cause I know you had swelling down there before right, when you were in the hospital.
+PATIENT: Yeah I had swelling there.  I had swelling before.  They gave me uh, they gave me, not swelling medicine.  They gave me uh something, I wrote it down here.
+DOCTOR: Okay.  Let me just go talk to my boss I'll be right back okay.
+(DOCTOR OUT:  42:33  DOCTOR IN:  48:43)
+DOCTOR: PATIENT?  I'm DOCTOR nice to meet you.  I've talked with DOCTOR and he said your knee had been bothering you for the past couple of weeks.
+PATIENT: I fell and now I fell real hard on it and I [REDACTED] floors at the place that I live.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] underneath.
+DOCTOR: Okay.
+PATIENT: And I went that way and that way or one of the ways. I think it was that way and that way and then I fell on it and my knee hurts, now it's just over an inch and a half and this was in January [REDACTED].
+DOCTOR: Now what prompted the fall, did you trip?
+PATIENT: No I didn't trip, the floor was messed up underneath.
+DOCTOR: So what happened, did it shift or?
+PATIENT: No the floors weren't marked hazardous or nothing, the floors were rotted out.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I just noticed if I’m sitting here [REDACTED] this way.
+DOCTOR: Uh-huh.  I'm going to straighten your knee out towards me and bring it back in.
+(DOCTORS DISCUSS BETWEEN THEMSELVES)
+DOCTOR: Are you taking any pain medications at home?
+PATIENT: Uh yeah I'm taking [REDACTED].
+DOCTOR: Meloxicam.
+DOCTOR: Does that help?
+PATIENT: No [REDACTED] I used to take.
+DOCTOR: Diclofenac?
+PATIENT: Something I used [REDACTED].
+DOCTOR: Want to straighten out?
+PATIENT: This one started hurting [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: From here, all the way around to here.  [REDACTED].
+DOCTOR: [REDACTED].
+DOCTOR: Maybe he does have a little bit of [REDACTED]. History is not great for it, but it can happen with injuries; maybe that's what's causing the discomfort here.
+PATIENT: When I started to walk normal, I used to walk straight, now I can walk naturally and it crackles.  Now my foot goes like this.
+DOCTOR: Uh-huh.
+PATIENT: It will go off [REDACTED].  My leg like that.  But this one is the same when I walk and then [REDACTED] like that.
+DOCTOR: We're going to start him on etodolac 400 b.i.d. and we'll see if will help with the stiffness and um I want to get an x-ray of it.
+DOCTOR: Okay.
+DOCTOR: To make sure there's not a bone chip or something like that and maybe get a knee brace to help [REDACTED] more support [REDACTED] sometimes a bad sprain. Physical therapy can help, okay. A couple things will help you with, including we'll get an x-ray of the knee today and make sure there isn’t anything broken in there or something else.
+PATIENT: Yeah [REDACTED].  I went to [REDACTED].
+DOCTOR: Did they get an x-ray already?
+PATIENT: They did an x-ray a really long time ago and [REDACTED] nothing's wrong with it.
+DOCTOR: You already had x-rays [REDACTED].
+PATIENT: Then I went back the other day and they said I had to see the doctor first.  We'll make a quick appointment for you.  [REDACTED].
+DOCTOR: That x-ray was that at another hospital?
+PATIENT: No here.
+DOCTOR: Really we don't have anything here.  Are you sure you're not thinking of maybe last year.  Did you hurt yourself?
+PATIENT: It was last year, of course.
+DOCTOR: Alright but then you had hurt yourself since then right?
+PATIENT: No, no it just started [REDACTED] it just started [REDACTED] about two weeks ago.
+DOCTOR: Sure.
+PATIENT: Two or three weeks ago.
+DOCTOR: Yeah we'll repeat the x-rays just to be sure.
+PATIENT: Oh sure.  [REDACTED]
+DOCTOR: Yeah we're gonna discontinue the meloxicam.
+PATIENT: Okay.
+DOCTOR: I'll do it as we're talking here and then we'll start what's called etodolac so let me [REDACTED].  Would you like us to mail it to you or do you want to pick it up tonight?
+PATIENT: No I can pick it up [REDACTED].  Then I'll need a note probably to discontinue the uh.
+DOCTOR: I'm doing that now.
+PATIENT: Yeah I'll need a note [REDACTED].
+DOCTOR: Okay I discontinued the meloxicam and we're going to give you etodolac and the pharmacy will know all about this okay.
+PATIENT: Okay.  So it's etodolac?
+DOCTOR: Eto.
+PATIENT: Eto.
+DOCTOR: Dolac.
+PATIENT: Dolac.
+DOCTOR: Etodolac.  And the other thing that we were talking about was the uh, the x-ray of your knee.
+PATIENT: Right.  So you tell me if you see something or not.
+DOCTOR: Right.
+PATIENT: If there's something or you see something.
+DOCTOR: Yeah.  And the other thing I'm going to ask you to do, just because your blood pressure's so high, I'm going to ask you to come back in a couple of weeks, not for a visit just come up here and let the nurses check your blood pressure and then you can go home.
+PATIENT: Okay, so that's okay cause you know like today I was at home.
+DOCTOR: Yeah, yeah.
+PATIENT: And I came here [REDACTED].
+DOCTOR: Right, no no I think you should take your medications.
+PATIENT: Yeah I do take my medicines but I didn't take it this morning.
+DOCTOR: Right yeah.
+PATIENT: [REDACTED].  I [REDACTED] I don't like that stuff.  It seem every time I take new stuff I get bloating.
+DOCTOR: The which one?
+PATIENT: HDL or CTA.
+DOCTOR: Oh the HCTZ?
+PATIENT: Yeah and HDL [REDACTED].
+DOCTOR: Oh the hydralazine okay.
+PATIENT: I don't like that stuff, I told the doctor before but they added one [REDACTED] stuff and I just don't like that you know.  [REDACTED]It works the opposite.
+DOCTOR: Yeah, yeah, it can.  You know.
+PATIENT: And [REDACTED] water, if I just do it naturally, [REDACTED].
+DOCTOR: Yeah I don't know, I don't know everything about you as well as DOCTOR does.
+PATIENT: Right.
+DOCTOR: So I'll let her deal with it.  You know to be honest I don't think it's a bad idea to rethink the blood pressure medications.  But I think you should go with her okay.
+PATIENT: Okay I'll [REDACTED].
+DOCTOR: So we'll focus on the knee pain.  We'll get the medicines are going to be downstairs waiting on you and downstairs, you know where to get the x-rays?
+PATIENT: Yeah.
+DOCTOR: On the first floor.  We'll get the x-rays then and I'll make sure all this information gets to DOCTOR.
+PATIENT: Okay and I'll [REDACTED] may get a call.
+DOCTOR: A bandage yeah or a brace.  Do you think that would help?
+PATIENT: [REDACTED] elastic or something.
+DOCTOR: Okay.
+PATIENT: [REDACTED] I tried this bandage and it's too tight see.
+DOCTOR: Yeah, yeah.
+PATIENT: But the [REDACTED].
+DOCTOR: Do you know where to pick up the brace?
+PATIENT: No, I could have someone tell me at the X-Ray.
+DOCTOR: Yeah they can and do you know where Building 1 is?
+PATIENT: Building 1?
+DOCTOR: Yeah it's in Building 1 and it's called Prosthetics.
+PATIENT: Prosthetics okay.  And it would be nice if [REDACTED] getting medicines cause I'm taking one, two, three, four, five and on the pills side [REDACTED] getting three medicines.  [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].  They gave me [REDACTED].  Oh yeah and I come back here [REDACTED] psychologist.  I'm not complaining [REDACTED].
+DOCTOR: Oh yeah.
+PATIENT: [REDACTED].
+DOCTOR: Um let's see, so you have an appointment with DOCTOR on April 3rd, that's coming up in a couple more weeks.  So I'll make sure that she gets, I'll make sure that I tell her what we did today and then make sure that she knows that you need your medications looked at.
+PATIENT: Yeah that'd be nice.
+DOCTOR: Okay, alright.
+PATIENT: [REDACTED] you know I have more medicines, three medicines from her.
+DOCTOR: Sure.
+PATIENT: [REDACTED].
+DOCTOR: Yeah, yeah, so you can get dressed.
+PATIENT: [REDACTED].
+DOCTOR: So the medication will be down at the Pharmacy, you know where that's at?
+PATIENT: Uh-huh.
+DOCTOR: Okay and you know where to get the x-ray here of your knee.
+PATIENT: Right.
+DOCTOR: And then after you do those two things then they probably will have your knee brace ready by then.
+PATIENT: That’d be nice.
+DOCTOR: So you can just walk on over to Building 1 and go to Prosthetics.
+PATIENT: Well I need to stop [REDACTED].
+DOCTOR: Do you think you'll be okay until you get your knee brace or do you think you need it?
+PATIENT: No any time I get my leg to walk the pain [REDACTED].
+DOCTOR: Okay, okay.  Yeah you gotta be able to walk right.
+PATIENT: Yeah I need to walk and if I don't tighten it up, the bandage is a little tight when I get it up, then I'd rather walk that way and I won't be walking straight. [REDACTED].  Oh one more.  [REDACTED].
+DOCTOR: [REDACTED]
+PATIENT: [REDACTED].  I go home and [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] You gotta do what you gotta do right.  You gotta look out for yourself.
+PATIENT: I'd even go through that smoking cessation you know [REDACTED].
+DOCTOR: Would you like to?
+PATIENT: Yeah I put in for it a consult at least.
+DOCTOR: Oh it's already been done?
+PATIENT: For smoking cessation and one other one I think they put in for.  I have a consult on it.  Oh and uh.
+DOCTOR: Uh-huh.
+PATIENT: They did something.  [REDACTED].
+DOCTOR: Okay yeah, Smoking Cessation Class, yeah that'll be good.
+PATIENT: Yeah.
+DOCTOR: A lot of people do well with that.
+PATIENT: I remember [REDACTED] smoking downstairs one day and just happened to have one.
+DOCTOR: Oh really.
+PATIENT: Yeah and my.
+DOCTOR: Take a look at that.
+PATIENT: Just look [REDACTED].  Hurt real bad.  [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED] on this side. I get pain in the calf.  [REDACTED] pain in that toe and I don’t know what it was from. \  Someone said I had an ingrown toenail you know.
+DOCTOR: Yeah, those are painful too.
+PATIENT: Yeah.  Okay doctor.
+DOCTOR: If you don't mind just take this folder up the hallway there.
+PATIENT: Okay doc, I'll take that.  Okay thank you.  Then I go to uh X-Ray and then [REDACTED].
+DOCTOR: [REDACTED].
+Time is 4:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255117
+TRANSACTION # 578-10-2-316-0103

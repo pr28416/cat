@@ -1,0 +1,103 @@
+DOCTOR: How may I help you?
+PATIENT: Hi there, umm, so I've had this runny nose for the past five days and it doesn't seem to be going away so I thought I should get some help.
+DOCTOR: OK, and ah, with the runny nose, could you describe the discharge?
+PATIENT: Yeah, it's, it's pretty clear.
+DOCTOR: OK, and have you had any nasal obstruction or feeling as though like one of your nostrils is plugged when you're breathing in?
+PATIENT: Uh yeah, I have that feeling.
+DOCTOR: OK, have you had any pain on your face?
+PATIENT: Pain? Ah no, nothing like that.
+DOCTOR: OK, how about a change to your sense of smell? Like loss of smell?
+PATIENT: No, I haven't had that.
+DOCTOR: OK. Have you had any discharge from your eyes or eye redness or any eye pain?
+PATIENT: No.
+DOCTOR: Alright, have you had a sore throat?
+PATIENT: Uhm, no sore throat.
+DOCTOR: Have you had a cough?
+PATIENT: No.
+DOCTOR: OK. Have you had any headaches?
+PATIENT: Ah, just a slight headache.
+DOCTOR: OK, I mean, have you experienced headaches like this in the past?
+PATIENT: Yeah, usually when I get sick, I get get a headache.
+DOCTOR: OK. OK, can you describe where you feel the headache the most and is it pulsating or kind of always there?
+PATIENT: It's kind of always there and it's just on the sides of my head.
+DOCTOR: OK, have you tried anything for it?
+PATIENT: Just some Tylenol, which seems to have helped.
+DOCTOR: OK. Uhm, and umm, yeah, have you had a cough?
+PATIENT: Ah no cough like now, uhm, I I did have a slight cough last week.
+DOCTOR: OK, and it went away?
+PATIENT: Mhmm.
+DOCTOR: Was it dry or did you were bringing up any sputum or phlegm?
+PATIENT: No, it's pretty dry.
+DOCTOR: OK. Uhm, and do you have a sore throat?
+PATIENT: No.
+DOCTOR: OK, and have you had any wheezing or shortness of breath?
+PATIENT: No.
+DOCTOR: OK, and have you had any chest pain?
+PATIENT: No.
+DOCTOR: How about any we, sorry, fainting or dizziness?
+PATIENT: No, nothing like that.
+DOCTOR: OK, have you had any heart palpitations or feeling like your heart's racing?
+PATIENT: No.
+DOCTOR: OK, uhm, and have you had any abdominal pain?
+PATIENT: Uhm, I have had some, like diarrhea so I think part like my stomach hurt a little bit during that time, but I don't have that anymore.
+DOCTOR: OK, when did you have diarrhea?
+PATIENT: Last week as well.
+DOCTOR: OK. Uh, was there any blood in the stool?
+PATIENT: No.
+DOCTOR: OK, have you had any changes to your urinary habits? Like any pain or frequency?
+PATIENT: No.
+DOCTOR: Alright, and have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: How about any fevers or chills?
+PATIENT: Uh, no.
+DOCTOR: Have you had any night sweats?
+PATIENT: Uh, no, nothing like that.
+DOCTOR: I see, OK. And have you had any weight loss recently?
+PATIENT: No.
+DOCTOR: Alright, have you had any rashes or skin rashes?
+PATIENT: No.
+DOCTOR: And how about any muscle aches or or body pains?
+PATIENT: Oh, no.
+DOCTOR: Alright and how has your energy been? Have you had fatigue?
+PATIENT: Uhm, a little bit.
+DOCTOR: OK, little fatigue and and how has your appetite been?
+PATIENT: Appetite's been OK, I'm still eating.
+DOCTOR: Alright. And, uhm have you been diagnosed with any medical conditions before?
+PATIENT: Uh, no, I've been pretty healthy.
+DOCTOR: OK, great and so do you take any medications regularly, either over the counter or prescribed?
+PATIENT: No.
+DOCTOR: OK, and do you have any allergies?
+PATIENT: No, I don't.
+DOCTOR: OK, and any recent hospitalizations in the past or any prior surgeries?
+PATIENT: Uh, no. Actually, I had my appendix taken out when I was younger, but that was a long time ago.
+DOCTOR: OK, I see. And are you living, ah, can you tell me about where you're living now and who you're living with?
+PATIENT: I'm I'm living by myself. I'm a student. I live in an apartment.
+DOCTOR: OK, and are you going to classes in person right now?
+PATIENT: No, they're all online.
+DOCTOR: OK. And have, have you been around anybody who's been sick?
+PATIENT: No, not that I can think of.
+DOCTOR: OK, and have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: OK. And you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: And do you smoke cannabis or use any cannabis products?
+PATIENT: Occasionally, I will.
+DOCTOR: OK, how often?
+PATIENT: Uhm I will maybe smoke once a week.
+DOCTOR: OK, uh, and use any recreational drugs like cocaine or opioids?
+PATIENT: Oh gosh, no.
+DOCTOR: And do you drink alcohol?
+PATIENT: Uh yeah, occasionally.
+DOCTOR: OK, how many drinks would you say you have per week?
+PATIENT: Uhm, I'll have like a bottle of wine a week.
+DOCTOR: OK, and are there any heart or lung conditions that run in the family?
+PATIENT: No.
+DOCTOR: OK. How about any cancers?
+PATIENT: I think like colon cancer runs in the family.
+DOCTOR: OK, umm and alright so that was everything that I think I wanted to ask about on that on the history today. I was wondering if there was anything else that you wanted to mention that I maybe forgot to ask about?
+PATIENT: No, nothing else I I I was just wondering what I could do to feel better or make this go away.
+DOCTOR: Yeah, certainly. So, I, so it's sounds like you have the common cold or a viral illness, which it could be caused by something like adenovirus or there are others as well. However, the symptoms do overlap with COVID. As you can be like nonspecific symptoms, such as having kind of just like a runny nose like you do here, and so we will do a COVID swab and we'll await those results, but in the meantime it's mostly supportive care, so it means just trying to stay hydrated, stay rested. And just monitor your symptoms because if things do get worse, it'll be important to, uh, go to the emergency room.
+PATIENT: OK.
+DOCTOR: Alright, so we'll get the swab now and get that testing started.
+PATIENT: OK, that sounds great, thank you.
+DOCTOR: Alright, thank you.

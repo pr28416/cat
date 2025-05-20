@@ -1,0 +1,168 @@
+DOCTOR: PATIENT?  My name is DOCTOR, um I work with DOCTOR.  Um how you doing?
+PATIENT: Not bad, how about you?
+DOCTOR: Uh good.  It says the last time you were here you saw DOCTOR.
+PATIENT: Right.
+DOCTOR: He was one of the other residents and I understand you had the colonoscopy.
+PATIENT: Yeah.
+DOCTOR: And uh everything looked okay.  You had a polyp that wasn’t cancerous.
+PATIENT: That wasn't one of my better moments in life.
+DOCTOR: Well, it's uh yes [REDACTED].
+PATIENT: Uh.
+DOCTOR: But uh the next thing that you just need to have another one in ten years or so.  If you have more polyps than usually they want to repeat the colonoscopies a little more frequently so and then you had any more chest pains?
+PATIENT: Actually, I told them before I didn't really have chest pain.
+DOCTOR: Just numbness?
+PATIENT: Yeah my arm was going numb.
+DOCTOR: Okay.
+PATIENT: Cause you asked me if [REDACTED] arm.
+DOCTOR: Okay.
+PATIENT: And that's when I first decided it's time to go see a doctor.
+DOCTOR: And you didn't see anybody before that for a long time?
+PATIENT: I had one that said I was borderline high blood pressure and I saw him a couple of times only and then [REDACTED].
+DOCTOR: Okay.  Alright and let me see what the, uh did you have a rectal exam the last time, do you know?  Because one of the things that uh we need to do to evaluate your prostate and you can do it a couple of ways by either measuring uh the level of your prostate-specific antigen, it's something they find in your blood and then also a digital exam where we examine your rectum.
+PATIENT: I don't think I did.
+DOCTOR: Yeah.
+PATIENT: No, no.
+DOCTOR: Is that something you want to consider it now?
+PATIENT: Uh right now no.
+DOCTOR: No.  Yeah uh at your next visit then we'll talk about it again.
+PATIENT: Okay.
+DOCTOR: And now you can think about it.
+PATIENT: I don't really go home and [REDACTED].
+DOCTOR: Okay.  It's something I don't think we have to do today.
+PATIENT: Yeah.
+DOCTOR: But we could do it next time too.
+PATIENT: Fine.
+DOCTOR: If you feel more comfortable with that and uh other than that, you know all your labs, everything looked okay too but this was actually from before.  Okay and then do you check your blood pressure at home?
+PATIENT: No.
+DOCTOR: Uh do you check it whenever you go anywhere else?
+PATIENT: No.
+DOCTOR: Okay cause today actually you know it was 133/80 and then on repeat it was 149/98, you know sometimes its a little bit higher when you come to the doctor's office so for right now we can actually just continue with, you know just continue with are you taking the amlodipine?
+PATIENT: Yeah on that dose though I've only got another couple weeks left.
+DOCTOR: Okay.
+PATIENT: So I'm gonna need.
+DOCTOR: Yeah I can refill those for you.
+PATIENT: Yeah both of them [REDACTED] whatever they were.  Big words, I didn't want to try to pronounce [REDACTED].
+DOCTOR: Oh.  And do you want to get them in the mail or do you want to get them here?
+PATIENT: Mail is fine.  Probably easier.
+DOCTOR: Uh [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: That’s fine, I got plenty to last [REDACTED].
+DOCTOR: Oh good so you actually have enough for, [REDACTED].
+PATIENT: Yeah they're both getting low.
+DOCTOR: And those are the only two medicines that you take?
+PATIENT: Right.
+DOCTOR: Well let me ask you a few questions.  And then when you come back here uh let's see, March, April, May, June, July, August, so in about six months we'll check your cholesterol then too.
+PATIENT: Okay.
+DOCTOR: Okay.  But the last time it looked okay.  Any other things I can help you with today?
+PATIENT: [REDACTED] no.  The only reason I was glad to come now was because I was getting low on the pills.
+DOCTOR: Okay.  You didn't have any changes in your vision?  Other than I saw that you had a visual studies test done showing that you [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Out of the corner of your eye.
+PATIENT: That's what they told me.
+DOCTOR: But you didn't notice that.
+PATIENT: [REDACTED] been bothering me because I dull the pain so if I hit anything I can just go over it.
+DOCTOR: Okay.
+PATIENT: But now no problem.
+DOCTOR: Okay good.  And you’re driving okay?
+PATIENT: Uh actually I'm not driving right now.
+DOCTOR: Is there a reason? Is it because of that?
+PATIENT: No.
+DOCTOR: No.  Okay.  Oh.
+PATIENT: Because of that.
+DOCTOR: Are you still drinking?
+PATIENT: I still drink yes.
+DOCTOR: How much?
+PATIENT: Just a couple [REDACTED] a day.
+DOCTOR: Okay.  But were driving under the...
+PATIENT: That's what they told me.
+DOCTOR: Oh.
+PATIENT: But I wasn't [REDACTED].
+DOCTOR: Oh okay and do you feel like you've got a problem with it?
+PATIENT: No.
+DOCTOR: No, [REDACTED].
+PATIENT: No problem at all you know, no.
+DOCTOR: No.
+PATIENT: No.
+DOCTOR: And any, are you smoking?
+PATIENT: I puff on a cigar once in a while.
+DOCTOR: Okay.  So any drugs?
+PATIENT: No.
+DOCTOR: No so and well if you don't feel that the alcohol is a problem right now?
+PATIENT: No it's not.
+DOCTOR: Okay good.
+PATIENT: In fact I was thinking of starting to drink more.
+DOCTOR: Oh.
+PATIENT: No I'm just [REDACTED].
+DOCTOR: Right uh any problems when you urinate, any pain?
+PATIENT: No.
+DOCTOR: No blood in your stool?
+PATIENT: No.
+DOCTOR: Let me have you sit up here and see you a minute.
+PATIENT: Okay.  Yeah they put a, [REDACTED] my appointment was in February and I put it off because I didn't want to have to stand in the bus stop in the middle of winter.
+DOCTOR: Oh well [REDACTED].
+PATIENT: Yeah so this works out.  I hate the buses since high school.
+DOCTOR: Deep breath and will you lie down?  Would you lift up your shirt?  Any pain anywhere?
+PATIENT: No.
+DOCTOR: Any swelling in your legs?
+PATIENT: Uh no not really.
+DOCTOR: No, good, alright.  So I'm going to have you sit back up.  I need to go talk to DOCTOR I already put in refills of your medications.
+PATIENT: Okay [REDACTED].
+DOCTOR: Okay.  I want to just look at your immunizations.  Do you know if you're up-to-date on those?
+PATIENT: Uh just before I came in here I just had the H1N1.
+DOCTOR: Oh good.
+PATIENT: And uh in the fall I had the regular.
+DOCTOR: Uh how about your tetanus?
+PATIENT: That I can't remember.
+DOCTOR: You don't know when you did it.  Has it been about 10 years?
+PATIENT: I can't remember so I'd probably say.
+DOCTOR: Do you want to get that today?
+PATIENT: Why not.
+DOCTOR: Okay.
+PATIENT: I haven't [REDACTED] pin cushion.
+DOCTOR: Alright um take a seat okay.
+PATIENT: Okay.
+(DOCTOR OUT:  38:38  DOCTOR IN:  43:12)
+DOCTOR: Alright. Everything looks good.  I think that uh one thing that we could do about your blood pressure right now is have you cut down on the amount of salt.
+PATIENT: Sure.
+DOCTOR: Do you eat a lot of salt?
+PATIENT: No.  I never put it on anything.
+DOCTOR: Do you eat a lot of.
+PATIENT: But I do eat some beef jerky and stuff like that.
+DOCTOR: Okay so a lot of processed foods, in fact about 80% of what we take in in terms of salts comes in from processed foods so it's not really what you add during your meals but if you could just try cutting back on.  Do you eat a lot of you know frozen foods?
+PATIENT: Yep.
+DOCTOR: So try cutting back on those things and that'll actually help and that'll bring your blood pressure down a little bit too and then we'll see where it is next time I see you.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And today I'll send up the nurse to give you a tetanus shot, I don't know if she's still around so just give me a second while I find her okay.
+PATIENT: Okay.
+DOCTOR: And if not then you can just have that done the next time you come in.
+PATIENT: Okay.
+DOCTOR: Alright.  Alright so I don't see her so why don't we just plan on doing that next time.
+PATIENT: Fine.
+DOCTOR: Okay.
+PATIENT: Yep.
+DOCTOR: And you'll need to take this with you and they'll set up an appointment for you.
+PATIENT: Okay and okay I was gonna ask about when you want to see me next.
+DOCTOR: About six months.
+PATIENT: Six months alright.
+DOCTOR: Yeah.  Does that sound like?
+PATIENT: [REDACTED] so.
+DOCTOR: Well it'll be in the [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Alright.
+PATIENT: Okay.
+DOCTOR: And then make sure that when you come back you get your labs drawn before.  You'll just stop at the, it's kind of diagonal to here, to get your blood drawn.
+PATIENT: Oh okay yeah I know where it's at.
+DOCTOR: Yeah and then uh.
+PATIENT: Been there many times.
+DOCTOR: And we'll think about the rectal exam alright.
+PATIENT: You'll maybe think about it, I don't know if I.
+DOCTOR: Okay, alright.
+PATIENT: Alright thanks.
+PATIENT: 45:50
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255195
+TRANSACTION # 578-10-2-316-0103

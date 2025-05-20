@@ -1,0 +1,607 @@
+DOCTOR: PATIENT?
+PATIENT: Huh?
+DOCTOR: Come on back.
+PATIENT: Good enough.  Good morning.
+DOCTOR: Good morning, how are you doing?
+PATIENT: Hmm I'm okay I think.
+DOCTOR: I see you [REDACTED], looking at your diabetes stuff, you can just sit in this chair.
+PATIENT: Okay well.
+DOCTOR: [REDACTED].  Most of it um, [REDACTED].
+PATIENT: Oh yeah, yeah, yeah, we've had all the classes.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: We've had most of the classes.
+DOCTOR: All those you wanted anyway?
+PATIENT: No I'll take any class you want me to go to; I'll sit there and try to learn something.
+DOCTOR: Okay.
+PATIENT: But.
+DOCTOR: But.
+PATIENT: You're killing me with the food.  You're not letting me eat enough.  I know that's really not a problem.  Oh three things I need to tell you.
+DOCTOR: Uh-huh.
+PATIENT: I got about ten pills left.  I got about eight strips left.
+DOCTOR: Okay.
+PATIENT: And uh the high blood pressure that the pharmacist gave me I have not received it yet.
+DOCTOR: Oh okay.
+PATIENT: So I probably need to stop at the Pharmacy before I leave here.
+DOCTOR: I don't know why you haven't gotten that yet.
+PATIENT: Yeah.
+DOCTOR: Let's see.
+PATIENT: And I figured it's easier to tell you that I need strips before I run out than waiting until I get to the last one and say, doctor.
+DOCTOR: That way I can mail them to you and you don't have to wait in line.
+PATIENT: Ah the lines not a bit deal, I'm already here.
+DOCTOR: Most people hate the lines.
+PATIENT: That.
+DOCTOR: [REDACTED] so much.
+PATIENT: Yeah.  Look the line here takes less than 30 minutes.
+DOCTOR: Really?
+PATIENT: Yeah.
+DOCTOR: I really [REDACTED].
+PATIENT: If you go to the county it takes two days.
+DOCTOR: Oh when you keep comparing it to the county.
+PATIENT: Hey this is a step up, trust me.
+DOCTOR: You saw the county recently?
+PATIENT: No, no.
+DOCTOR: No, you just know for uh.
+PATIENT: I know for a fact of how it goes.
+DOCTOR: Yeah.  That is how it goes.
+PATIENT: Cause you cannot find a doctor, over at the county waiting on somebody.
+DOCTOR: I [REDACTED].
+PATIENT: Wow.
+DOCTOR: So I am very familiar with how the county [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Actually, so familiar that I.
+PATIENT: Left.
+DOCTOR: Over at Loyola you can have rotations over there, but I wrote [REDACTED] to tell people how to get people into the clinics over there.
+PATIENT: Yeah you know what, like I said, even when I was in a position to pay for my own medical, I would never go to County cause like I say it would take me, while you were waiting on one of these great doctors, you could wait right there and die.
+DOCTOR: Well actually I think the doctors though at Cook County are actually pretty good.
+PATIENT: They probably are but if it takes them two days to get to see you, it doesn't help.
+DOCTOR: [REDACTED].
+PATIENT: Yeah and if you're not bleeding profusely you get ignored over there.
+DOCTOR: Yeah this is a um.
+PATIENT: I realize they have a lot of people to deal with but if you're not gushing blood I seen you know you could sit there 2-3 days waiting on somebody to see you.
+DOCTOR: Okay so let's see.  Did you see DOCTOR, finally.
+PATIENT: Uh-huh and she gave me some high blood, she told me about some high blood pressure medicine.  I haven't gotten it yet.
+DOCTOR: Okay so you're on Glargine 8 units.
+PATIENT: Huh?
+DOCTOR: Insulin.
+PATIENT: No I'm on, what is that, [REDACTED].
+DOCTOR: 12 units.
+PATIENT: 12 units of glycotrol or what is it?
+DOCTOR: I call it Glargine; I think another name for it is Lantus.
+PATIENT: That's the one Lantus.
+DOCTOR: Uh-huh.
+PATIENT: I can't even take a medicine without knowing what it is.
+DOCTOR: And you're on [REDACTED].  Did you want refills on the Lantus?
+PATIENT: Uh I just got a bottle uh.
+SECOND PERSON D233
+I think it was on the [REDACTED].
+PATIENT: 18th I think.
+DOCTOR: You're on glipizide 10 twice a day?
+PATIENT: Once a day.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: Should be twice a day probably but.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: It was twice a day originally.
+DOCTOR: Okay, got it down to .
+SECOND PERSON D233
+[REDACTED] he takes one in the morning and nothing at night.
+DOCTOR: Okay.
+SECOND PERSON D233
+He [REDACTED] at night cause he went down pretty low.
+DOCTOR: So he does the [REDACTED] at night.
+PATIENT: Yes.
+DOCTOR: And then let's see and she said she wanted you on the Lisinopril.
+PATIENT: Yes cause they said something about my liver, taking care of my liver.
+DOCTOR: Really the [REDACTED].
+PATIENT: Yeah well I mean I'd like the liver to hang out you know, it's been here this long, keep it around a while.
+DOCTOR: You definitely need that.  It does have some positive [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: And the lisinopril also protects the kidneys.
+PATIENT: Kidneys not liver.
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: But it's not [REDACTED] it’s  very weird drug.
+PATIENT: It would be easier if we just smoked a little pot.
+DOCTOR: I don't think that that really works.  How much are you smoking?
+PATIENT: I smoke about a half pack a day.
+DOCTOR: Okay.
+PATIENT: Oh I come down quite a bit.
+DOCTOR: And how much, yeah you used to smoke a lot more.  Um how long have you been smoking 1/2 pack a day?
+PATIENT: Since I started coming here.  I'm serious.  I was smoking about a pack and a half a day.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Um do they have you on any nicotine cessation therapy?
+PATIENT: No.
+DOCTOR: Do you want to try it or try to wean yourself off?
+PATIENT: I'll take whatever you tell me to take.
+DOCTOR: Well I want you to stop smoking.
+PATIENT: Okay.  Uh give me the stuff.
+SECOND PERSON D233
+What about the Chantix?  Have you, is that better than the nicotine?
+DOCTOR: [REDACTED] together also.
+SECOND PERSON D233
+Yeah.
+DOCTOR: Then if they also, a lot of times people just seem to do much better.
+PATIENT: Uh-huh.
+DOCTOR: Um Chantix works well.  We've seen [REDACTED].
+SECOND PERSON D233
+Uh-huh.
+PATIENT: Yeah well TV lies a lot.
+SECOND PERSON D233
+Depends on them.
+DOCTOR: So a lot of people, so not a lot, some people have had the side effects.
+PATIENT: Uh-huh.
+DOCTOR: But I also know people who say it makes stopping smoking so easy for them.
+SECOND PERSON D233
+Yeah I heard that too.
+DOCTOR: Tolerable that and the health benefits of not smoking I think are pretty close to make that acceptable.
+PATIENT: Well I don't intend to commit suicide so we don't have to worry about.
+DOCTOR: [REDACTED] you know.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: Homicide maybe.
+DOCTOR: [REDACTED] every day.
+PATIENT: Homicide maybe.  Suicide not a chance.
+DOCTOR: [REDACTED].
+PATIENT: Ohh I resent that, I'm real safe until somebody pushes my buttons.
+SECOND PERSON D233
+Ahh.
+DOCTOR: Do you want uh; do you have a stopping date in mind?
+PATIENT: A what?
+DOCTOR: A stop date?
+PATIENT: Yesterday.
+DOCTOR: Yesterday.
+PATIENT: Look when I came here, you said I need to quit smoking cause I had this and that and I said okay alright.  Immediately I cut them back.  I was hoping to be through by the time I got back here to see you again.
+DOCTOR: Uh-huh.
+PATIENT: But we haven't got there yet.
+DOCTOR: Usually to start Chantix, you need a stop date and then you stop and you can take the nicotine replacement okay.
+PATIENT: Uh-huh.
+DOCTOR: Um now do you think you could take patches or gum?
+PATIENT: Probably patches cause I don't chew gum.
+DOCTOR: Okay.  Well gum is good to give people something to do with their mouth.
+PATIENT: Ah I'd rather eat.
+DOCTOR: Well.
+SECOND PERSON D233
+Patches will do.
+PATIENT: Patches would probably work better yes.
+DOCTOR: And then um, let's see.  No chest pain, no fevers, no shortness of breath?
+SECOND PERSON D233
+Shortness of breath yes.
+PATIENT: A little bit yes, a little bit.
+SECOND PERSON D233
+And he wheezes.
+DOCTOR: That's another reason why you should stop.
+PATIENT: That's probably why I'm wheezing.
+DOCTOR: Uh-huh.  [REDACTED].  You just had a recent stress test, so there's really not much to do for the shortness of breath.
+PATIENT: Well I'm, quit smoking that would be a great deal of help I'm sure.
+DOCTOR: You had pulmonary function tests too didn't you, where you breathe into that machine and?
+PATIENT: Yes, yes, yes, yes, yes, yes.
+DOCTOR: So um.  How far can you walk without having to stop?
+PATIENT: I walked three blocks yesterday and I damn near died.
+DOCTOR: But you can do it?
+PATIENT: Yeah I did it but uh like I said it wasn't easy.  And the other night I was walking to get a pack of cigarettes.  I came back home, I had to sit down and hold my head down and catch my breath.  My knees were hurting.
+DOCTOR: Uh your lungs aren't even that terrible and they're blaming a lot of what's going on the fact that you have um, that you smoke.  Cause a lot of your signs are consistent with a smoker.
+PATIENT: I been working on it.
+DOCTOR: One thing at a time right?  All of a sudden you got a ton of health issues.
+PATIENT: Yeah, that I didn't even know was there.  Well when I started smoking cigarettes they were a quarter a pack.  Now they almost $10 a pack.
+DOCTOR: Isn’t that crazy?
+PATIENT: Yep.
+DOCTOR: That's good.  I don't know [REDACTED] at all.
+PATIENT: Yep you don't smoke.
+DOCTOR: Nope.
+PATIENT: Uh-huh.
+DOCTOR: They did an [REDACTED] right?
+PATIENT: Yes.
+DOCTOR: And you got an eye.
+PATIENT: Uh-huh, yes, well I got to do that over cause they didn't like the results.
+DOCTOR: How come?
+SECOND PERSON D233
+[REDACTED] whatever the results were, they didn't believe it was that poor so they had to redo it a certain day.
+DOCTOR: Oh [REDACTED] artifact.
+SECOND PERSON D233
+What is that, an artifact?
+DOCTOR: Okay I just have to [REDACTED] something that blocks the view of the [REDACTED].
+PATIENT: Okay.  Cause I would really hate to give up driving at night.
+DOCTOR: It's still contrasting so [REDACTED].  Okay so when are you going to redo that?
+PATIENT: Sometime uh.
+SECOND PERSON D233
+[REDACTED] about 30 days.
+PATIENT: Right.
+DOCTOR: And you just saw Ophtho on the 21st.
+PATIENT: Right.
+DOCTOR: [REDACTED].
+PATIENT: Yes.  So sometime next month, now I'm in the middle of next month.
+DOCTOR: And you got your flu shot.
+PATIENT: Yes.
+DOCTOR: You had it here.  [REDACTED] harassing you.
+PATIENT: Harassed? You haven't been harassing at all.  You've been very polite about it.
+DOCTOR: How about a pneumonia shot?
+PATIENT: Nobody said anything about that.
+DOCTOR: Yeah you should get a pneumonia vaccine.
+PATIENT: Okay.  Is it going to make me sick?
+DOCTOR: There's no live virus in it.
+PATIENT: Oh okay.
+DOCTOR: You'll get a local reaction and then [REDACTED] and anytime you get a vaccine you'll just kind of feel a little.
+PATIENT: Lethargic yeah, yeah.
+DOCTOR: And [REDACTED] for a day or so.
+PATIENT: I can live with that.
+DOCTOR: So that's about it.
+PATIENT: Okay.
+DOCTOR: Um let's see so should get that and let's see colonoscopy.
+PATIENT: That doesn't sound like fun.
+DOCTOR: No but you're overdo for one.
+PATIENT: Okay.
+DOCTOR: Can you get one?
+PATIENT: Set it up.  See how agreeable I am.
+DOCTOR: You are.  You're like; I just really need to get my health in order right.
+PATIENT: Yeah cause I mean I would like to be around a few more years.
+DOCTOR: I think that's an excellent idea.
+PATIENT: You know, uh let's see I got an Ear, Nose and Throat one day next week, no that's on the 4th I think.  Then I got a Psych evaluation on the 9th.  I got something else on the 15th.
+SECOND PERSON D233
+On the 15th.
+DOCTOR: Okay and did you get the echo done too?
+PATIENT: Yes, did I?
+SECOND PERSON D233
+Yes.
+DOCTOR: Let me see that.  Uh you need to drop me a note if you want to go in earlier.  [REDACTED].
+SECOND PERSON D233
+Um he did do that [REDACTED].
+DOCTOR: Yeah I remember it being reported to me.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: You mean somebody didn't do their homework?  Go get em.
+DOCTOR: Oh no, nothing happens that easily here.
+PATIENT: This has got to be one of the smoothest operations I've seen in a while.  I mean short of being on base where the doctor only takes 10 seconds to get to you, this is a pretty good operation you all got here.
+DOCTOR: I'm glad you think that.  Cause a lot of people hate the VA [REDACTED].
+PATIENT: Believe me it took me ten years to get in here, cause I thought you was all crazy over here.
+DOCTOR: [REDACTED].
+PATIENT: I haven't [REDACTED].  The staff here and what I've had to deal with was easy.
+DOCTOR: Good.
+PATIENT: People are good people.  You know they talk to you if you've got some kind sense.
+DOCTOR: Good.  Alright so you need med refills and I know you need to get the colonoscopy.  You need to do, I don't see any echo results here, I don't know why.  But your EF is normal.  Your [REDACTED] contractions is normal.
+PATIENT: What is that?
+DOCTOR: It's how long your heart pumps blood out.
+PATIENT: Oh okay.
+DOCTOR: On the stress test.  I don't see any concern about that.  Um.
+PATIENT: But they said I had a heart attack.
+DOCTOR: It looks like you probably did have one in the past yeah.  It's what they call a fixed defect.
+PATIENT: Well I didn't feel it.
+SECOND PERSON D233
+When you wrote it down, he used another word and [REDACTED] clarify it more [REDACTED] for benefits  [REDACTED] saying that [REDACTED].
+DOCTOR: Well and they don't know when that happens.  They said the findings likely represent a small fixed defect.  So if he did have one it was a very small one and I can't tell you when that happened.
+SECOND PERSON D233
+Hmm.
+PATIENT: Could you tell me why it happened?  Yeah.
+DOCTOR: You’re diabetic.
+PATIENT: That's true.
+SECOND PERSON D233
+[REDACTED] wasn't a diabetic that long ago.  They said even in the military he was not a diabetic.
+PATIENT: Diabetic and I had a physical in 2004 and I wasn't diabetic.
+DOCTOR: Right but you'd probably been diabetic for a while.
+PATIENT: Okay.
+DOCTOR: Even for a couple of years and you're a man over the age of 45.
+PATIENT: There's no up side to getting old is there.
+DOCTOR: Not really.  Besides eventually getting to retire.
+PATIENT: Retirement would drive me crazy.  Sitting around doing nothing would definitely.
+DOCTOR: You know it could have just happened.  It's very, very small.
+SECOND PERSON D233
+So small doesn't mean that it's not important.
+DOCTOR: Right.
+SECOND PERSON D233
+I just wanted it out there so they would know that's a possibility of [REDACTED].
+DOCTOR: Right.
+SECOND PERSON D233
+Something is, something's making [REDACTED] go up.
+DOCTOR: Right.  Well you know to be honest they say that um, they say it's likely to represent a fixed defect, it just depends on the artifacts.  It's something that's there but doesn't mean anything.  So even on the reading they're not even 100% on that.  Cause it's pretty small and it's not reversible which means.
+PATIENT: It's going to be there.
+DOCTOR: The damage that is done is done, there's nothing to be done for that small area of the heart.  It’s already scarred over.
+PATIENT: Uh-huh.
+DOCTOR: And so right now [REDACTED].
+PATIENT: Try to avoid another one.
+DOCTOR: Is to reduce your risk factors for any further heart disease.
+SECOND PERSON D233
+Okay.
+DOCTOR: [REDACTED] lowering the blood pressure, controlling the diabetes cause who knows how long his blood pressure has been a little high and with the diabetes and getting older and you know you carry all your weight right in the middle.
+PATIENT: Right here.
+DOCTOR: So you have what we could call um metabolic syndrome because your waist circumference is quite large, you have high blood pressure, diabetes, all of those things put you at increased risk for heart disease.
+PATIENT: Okay.  So how do I lose the stomach, cause that's the only place I really need to lose any weight.  Need to lose any weight.  My pants are starting to falling off of me.  So I mean all my weight is right here.
+DOCTOR: Yeah.
+PATIENT: So I could lose, 10 of those, 20 of those.
+DOCTOR: I really think [REDACTED].  It just happens to be your body build.
+PATIENT: Okay.
+DOCTOR: But your, that's where you carry your weight.
+PATIENT: Okay.
+DOCTOR: You have skinny limbs?
+PATIENT: No I have thick [REDACTED] legs.
+DOCTOR: Let me see the back of your legs.  Your legs look skinny.
+PATIENT: What, look right here. I think I have big legs.
+DOCTOR: So let's see um.  So your last hemoglobin was 13.
+PATIENT: Yes.  She told me about that, we want to get it down to 7.
+DOCTOR: Yeah.
+PATIENT: Well below 7.
+DOCTOR: And your PSA was 1.71.
+PATIENT: What's that?
+DOCTOR: That's the prostate-specific antigen.  It's a screening test for um.
+SECOND PERSON D233
+What was it, 1. what you say?
+DOCTOR: 1.71.
+SECOND PERSON D233
+Okay.
+DOCTOR: Now the last time it was 04, usually after 4 then we would send someone to go get a biopsy.
+SECOND PERSON D233
+Really.
+DOCTOR: All this means is if the PSA does become higher um I would probably repeat it and see what the trend is before we.
+PATIENT: Yeah let's do that.  A biopsy sound like cutting and stuff.
+DOCTOR: It does.
+PATIENT: Yeah and that doesn't sound like fun.
+DOCTOR: And you know that's part of the controversy of doing the PSA.  We have a lot of false positives.  We send a lot of men for biopsies that come back negative and the other thing is we find a lot of cancer that won’t ever materialize to anything.
+PATIENT: Okay.
+DOCTOR: Cause prostate cancer often times can be very, it's because there's [REDACTED] and does nothing.
+PATIENT: What is the prostate, what does it do?
+DOCTOR: It secretes um a lot of stuff, like the hormones and whatnot for men.  It sits right around your urethra and the ureters as they come in from the bladder to your penis.
+PATIENT: Okay.
+DOCTOR: And so that's why when it gets enlarged [REDACTED] all of your symptoms are urinary.
+PATIENT: Okay.
+DOCTOR: You have increased [REDACTED]
+PATIENT: Well I got that already.
+DOCTOR: Hard time starting and stopping.
+PATIENT: I don't have that.
+DOCTOR: Um decreased flow, so the stream is slow.
+PATIENT: No I don't have that.  I just go a lot.  But then I drink a lot too.
+DOCTOR: Yeah if those things happen um you know they do have medication for that too.
+PATIENT: Okay.
+SECOND PERSON D233
+If his PSA was 1.71.
+DOCTOR: .71
+SECOND PERSON D233
+1.71.
+DOCTOR: Uh-huh.
+SECOND PERSON D233
+That was not a real concern sign because it should be 0-4.
+DOCTOR: That's the normal range.  I don't know what his PSA has been.
+PATIENT: Before.
+DOCTOR: Before.
+SECOND PERSON D233
+Oh.
+DOCTOR: I can't really do anything unless it was like 16 or [REDACTED].
+SECOND PERSON D233
+Hmm.
+DOCTOR: I can't really do anything with a one-time number of 1.71.  And it isn’t the best test in the world but that's not recommended for everybody.  Being African-Americans is probably the reason why we follow it closely because of the increased rate and aggressiveness in [REDACTED] gender.
+PATIENT: Hmm.
+DOCTOR: So it's something that I do want to watch but like I said it's just one number.  You could have been 1.7 for the last ten years and that may have been definitely nothing.
+PATIENT: Okay.
+DOCTOR: You know.  It if goes up to four.
+PATIENT: But we don't worry about it.
+DOCTOR: Then you’d see a urologist.
+PATIENT: Okay.  Well I'm leaving you in charge so far.  So far you been good, so I'm leaving you in charge.
+DOCTOR: So your creatinine is great um.  The only thing that I would say that you need to.
+PATIENT: Stop smoking and get my blood pressure under control.
+DOCTOR: Well, I mean your cholesterol is beautiful.  I mean, I don't know that's probably been the best cholesterol I've seen for diabetics ever.  So uh without medications, I mean really fantastic.  So you want to do, things that work in your favor but as I said it's all a balancing act.
+PATIENT: [REDACTED] and everything else.
+DOCTOR: You know I know you're concerned about the heart test but really all the test was saying is that there's something you could [REDACTED].  There is something that you can, it's reversible so if you needed surgery that this [REDACTED].
+PATIENT: I don't like either one of those words.
+DOCTOR: But since it's not reversible we really not a whole lot we can do.
+PATIENT: Okay.
+DOCTOR: [REDACTED] if you're symptoms arise, if you're breathing has increased shortness of breath from your baseline.
+PATIENT: Uh-huh.
+DOCTOR: Um [REDACTED], chest pain is just really, in a diabetic if you live, you really need to prevent symptoms of heart disease.  If you have nausea, really bad indigestion, those are things that probably you shouldn't ignore because diabetics don't present the same way that the typical heart disease.  The things like chest and left arm pain.
+PATIENT: So like I get a little twinge up here you know and you know.
+DOCTOR: Right.
+PATIENT: But they never last more than you know 15, 20 minutes.
+SECOND PERSON D233
+Sometimes the numbness.
+PATIENT: The numbness.
+DOCTOR: Yeah but the numbness can be just the neuropathy because of the diabetes too.
+PATIENT: Uh-huh.
+DOCTOR: And I don't know how long you've had it, how long you've had it, it's been really bad.  With having your blood sugar going into 400s [REDACTED].
+PATIENT: Well I been down to 200, pretty much.
+DOCTOR: What have they been reading at home?
+SECOND PERSON D233
+[REDACTED].  I'd say averaging out at 195 and I could have missed something.
+DOCTOR: [REDACTED] blood sugars.
+PATIENT: No this we got when we saw the Pharmacy.  But it's running about 200 average.
+DOCTOR: Still a lot higher than we want them.
+PATIENT: No but they're a lot better than they were when I first came in here.
+SECOND PERSON D233
+Not good enough.
+PATIENT: I understand that's not good enough.  Give me credit for being improved.
+SECOND PERSON D233
+Yeah you improved okay.
+DOCTOR: And you're on 12 units of Glargine in the morning.  [REDACTED] right.
+PATIENT: Yes.
+DOCTOR: Are you on [REDACTED].
+PATIENT: Uh-huh.
+SECOND PERSON D233
+He just started being on the Lantus.
+PATIENT: When I came from the Pharmacy.
+SECOND PERSON D233
+Uh-huh.
+DOCTOR: [REDACTED].
+PATIENT: Yeah cause it was 10, then it was dropped to 8 and now it's pumped to 12.
+SECOND PERSON D233
+You were on 8.
+DOCTOR: Consistently?
+PATIENT: I'm doing the best I can.
+DOCTOR: Uh-huh.  Alright, let's take a quick listen to you and um.  [REDACTED].
+SECOND PERSON D233
+[REDACTED].
+DOCTOR: The podiatrist.
+SECOND PERSON D233
+[REDACTED].
+DOCTOR: Unless she wants you to be referred to Surgery, I would.
+PATIENT: No.
+DOCTOR: Other than conservative management which.
+SECOND PERSON D233
+Conservative management what is that?
+DOCTOR: With um nonsteroidals like over-the-counter ibuprofen.
+PATIENT: Ibuprofen does nothing but give me a headache.
+DOCTOR: Okay.  What about Aleve?
+PATIENT: I got some of those.
+DOCTOR: The anti-inflammatories are the best um.  You said you were out of the syringes or the strips?
+PATIENT: Strips.  I got half a box of syringes.  The strips are almost gone.  I got like 7, 8 maybe 10.
+DOCTOR: And then um you know I mean avoiding unnecessary trauma so.  Good to go upstairs, maybe not so good for you to go down.
+PATIENT: Hmm.
+DOCTOR: Going upstairs at least gives you the benefit of the cardiac work.
+PATIENT: Yeah if you go up you got to get down.
+DOCTOR: Yeah but you can take the elevator down.
+PATIENT: Uh we don't have an elevator in the house.
+DOCTOR: Oh well I mean when you're at places like this. Really, I mean
+PATIENT: But if I went three blocks yesterday to get a pack of cigarettes.
+DOCTOR: Uh-huh.
+PATIENT: It's really not worth it.
+DOCTOR: No.
+PATIENT: The stress, you know, to go three blocks to get a pack cigarettes.
+DOCTOR: Give me a deep breath in and out.
+PATIENT: Yeah.
+DOCTOR: Okay.  Which knee?
+PATIENT: Both of them.
+DOCTOR: Both of them.
+PATIENT: They crack sometimes when I.
+DOCTOR: Yeah it's called crepitus.  Go on and kick out.
+SECOND PERSON D233
+It's called what?
+DOCTOR: Crepitus.
+SECOND PERSON D233
+Crepitus.
+DOCTOR: Just a sign of uh.
+PATIENT: Old age.
+DOCTOR: Of osteoarthritis.
+PATIENT: You got all kinds of nice things to say don't you.
+DOCTOR: It's um; it's just one of those things that happens.
+PATIENT: Yeah you getting old.
+DOCTOR: You were in the military; you probably did a lot of physical activity.
+PATIENT: Oh yeah.
+DOCTOR: And your knees are one of your weightbearing joints and so it's one of the first to go.
+PATIENT: To go, like a load bearing wall in an apartment.
+DOCTOR: [REDACTED] and a lot of times when you do have knee issues you end up with hip issues because the way you walk.
+PATIENT: You're just a fun person today aren't you.
+DOCTOR: Oh.  So really taking anti-inflammatory medications like Aleve is a good thing to do.  We'll be watching your kidney function anyway because of the other medications that we have you on.
+PATIENT: Okay.
+DOCTOR: So the things I'm going to need to do for you today is renew your meds, colonoscopy.
+PATIENT: We're going to a colonoscopy today.
+DOCTOR: Not today.
+PATIENT: Oh okay.
+DOCTOR: I'll put in a referral but you need to get labs, so what I'll probably have you do is get all those labs in about a month after you start taking the lisinopril.
+PATIENT: Okay.
+DOCTOR: To make sure the lisinopril isn't doing anything to your kidneys.
+PATIENT: Okay.
+DOCTOR: Some people it does bump, does cause the kidney function to drop a bit.
+PATIENT: Okay.
+DOCTOR: Um but the benefits of the lisinopril in a diabetic outweigh that by a lot.
+PATIENT: Okay.
+DOCTOR: Um and then.
+PATIENT: So I'll go down there and get that stuff.
+DOCTOR: Well yeah, you should get that medication.  You already got your pneumonia vaccination.
+PATIENT: No.
+DOCTOR: You did.
+PATIENT: I had a flu shot.
+DOCTOR: No but it's in the chart, they recorded it.  You got it on the 20th of August.
+PATIENT: Oh I did.
+DOCTOR: You did.
+PATIENT: Okay.
+DOCTOR: They snuck it in there without you even knowing.
+PATIENT: Okay.  They snuck up on me.
+DOCTOR: I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED]
+(DOCTOR OUT:  52:57  DOCTOR IN:  65:04)
+DOCTOR: Um and I spoke to DOCTOR and she preferred to defer the colonoscopy for right now until we get everything else.
+PATIE D233
+I need to get the labs done.
+DOCTOR: Well just get everything else kind of under control too.
+PATIENT: Okay.
+DOCTOR: Um and then she wanted me to [REDACTED].  Lisinopril I just wonder if we need it.  Did they have you discontinue it?
+PATIENT: I never had it.
+DOCTOR: Yeah, that's why I won’t renew it.  I'm going to discontinue it.
+PATIENT: So that's for the blood pressure.
+DOCTOR: Well, yeah and I want to, I want to just reorder it so you can pick it up today.
+PATIENT: Okay.
+SECOND PERSON D233
+[REDACTED].
+PATIENT: Ah well, one thing nice about computer you can always override them.
+DOCTOR: Sometimes.
+PATIENT: No all the time.  There's a way to override it, trust me.  It might not like it but it can be overridden.
+DOCTOR: And then I need to, let's see.  I need to put in a non-formulary request for the Chantix and we were also discussing the patch with the Chantix and you need, um I'm as familiar.  [REDACTED] the Wellbutrin for depression.
+PATIENT: I ain't got depression.  I'm not depressed.
+DOCTOR: Well it's something [REDACTED] for the next few days.
+PATIENT: Okay.
+DOCTOR: [REDACTED] So my attending decided  [REDACTED]@.
+PATIENT: Okay that'll work.  Don't give me too many things to do at one time, I get confused.
+DOCTOR: Yeah I can, let me see something.  No it won't let me do Chantix.  You know the VA has a lot of things that are kind of [REDACTED].  It won't let me do Chantix unless you've tried the nicotine patch.
+PATIENT: Okay.  We'll do it the hard way.
+DOCTOR: Do you want to try the patches?
+SECOND PERSON D233
+Are you talking about the Nicorette?  That's the best you got, cause I don't, that's the best you have?  That you we can get into.
+DOCTOR: Yeah.
+PATIENT: Whatever.  I trust you still.
+DOCTOR: So.  That you need to get started right away.
+PATIENT: Okay.
+DOCTOR: The patches.  But you need to stop smoking.
+SECOND PERSON D233
+You know what I'm saying, you can't, you don't. How do you graduatlly?
+PATIENT: Chantix lets you go, no.
+DOCTOR: The Chantix does but.
+PATIENT: But the Nicorette doesn't.
+DOCTOR: I think what it is a lot of medications that are newer or more expensive since there are [REDACTED] last one.
+PATIENT: Okay when am I going to see you again?
+DOCTOR: In two months.
+PATIENT: Okay so that'll be around Christmas.
+DOCTOR: Yeah.
+PATIENT: Okay [REDACTED] we'll keep working at it.
+DOCTOR: Um I'll probably order all the labs then so don't worry about labs today.
+PATIENT: Okay.
+DOCTOR: Um, yeah I’m sorry, I would, so what I'd say to you is that um I would try to get down to maybe like six cigarettes or so a day.
+PATIENT: Well I'm down, like I say about half a pack.
+DOCTOR: Get down to five or six cigarettes a day.  When you cut down to that, pick a stop day, stop and start using the patches.
+PATIENT: Okay.
+SECOND PERSON D233
+So don't use the patches until.
+DOCTOR: Your stop date.
+SECOND PERSON D233
+His stop date.
+PATIENT: Okay.
+DOCTOR: Okay.  Alright.  Um so you need.
+PATIENT: Strips.
+DOCTOR: Strips, your glipizide.
+PATIENT: Yes.
+DOCTOR: [REDACTED].
+PATIENT: The blood pressure stuff.
+DOCTOR: For the blood pressure right.  And you should increase your um Glargine to 14.
+PATIENT: 14 okay, okay.
+DOCTOR: But do it slowly.  So 14 at night and we'll watch it there.
+PATIENT: Okay.
+DOCTOR: If you start going real low.  If you start going [REDACTED].
+PATIENT: If something goes crazy I'll call you.
+DOCTOR: [REDACTED].  Just go ahead and cut it back down to 10 and call.
+PATIENT: Okay.
+DOCTOR: Cut it back down to 12 and call.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: So push it up to 14 starting today?
+DOCTOR: Yes tonight.
+PATIENT: Okay.
+DOCTOR: And then if you [REDACTED] gets real low, go ahead and kick it down to 12 at night.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: It's always nice to see you.  You're such a joy to be around.
+DOCTOR: I think that you're doing really well.
+PATIENT: I appreciate that, cause like I say I'd like to stick around for you know.
+DOCTOR: Yeah.
+PATIENT: Probably, a couple few more years.
+DOCTOR: I think you've made a lot of strides in the last two months of really getting stuff together.
+PATIENT: Yeah like I say after 60 years you wanted to change my diet you know.  Cause I been eating like I eat you know.
+SECOND PERSON 281
+You need to [REDACTED].
+PATIENT: Yes sir.  You know get you a good bottle of Tabasco sauce and what I take this to the Pharmacy, what is it?
+DOCTOR: Um no that's just to check-out out front.
+PATIENT: Okay.
+DOCTOR: Okay, see you.
+PATIENT: Okay.
+PATIENT: 71:53.
+Time is:  9:33
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1238136
+TRANSACTION # 578-10-2-316-0103

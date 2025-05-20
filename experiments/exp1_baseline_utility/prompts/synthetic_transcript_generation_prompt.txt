@@ -1,0 +1,34 @@
+You are tasked with generating a synthetic patient-doctor dialogue transcript that demonstrates {{QualityLevel}} quality health communication. The transcript should be designed to achieve a target total score of {{TTS}} when evaluated using the following rubric:
+
+{{RubricV5Text}}
+
+Guidelines for {{QualityLevel}} quality transcript:
+{% if QualityLevel == "low" %}
+- Include communication barriers and misunderstandings
+- Show limited patient engagement
+- Demonstrate poor information exchange
+- Include some inappropriate responses
+- Show minimal empathy or rapport building
+{% elif QualityLevel == "medium" %}
+- Show some effective communication
+- Include both strengths and areas for improvement
+- Demonstrate moderate patient engagement
+- Show some appropriate responses with occasional issues
+- Include basic rapport building
+{% else %}
+- Demonstrate excellent communication skills
+- Show strong patient engagement
+- Include clear and effective information exchange
+- Show appropriate and empathetic responses
+- Demonstrate strong rapport building
+{% endif %}
+
+Important:
+1. Generate ONLY the transcript - do not include any explanations, notes, or the rubric text in your response
+2. Start the transcript with "Transcript:" and end with "End of Transcript"
+3. Format the dialogue with "DOCTOR:" and "PATIENT:" prefixes
+4. Make the conversation natural and realistic
+5. Ensure the communication quality matches the target score of {{TTS}}
+6. Do not explicitly mention the rubric or target score in the generated text
+
+Transcript: 

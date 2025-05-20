@@ -1,0 +1,258 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: How you doing today?
+PATIENT: Alright.  [REDACTED].
+DOCTOR: [REDACTED].  Okay [REDACTED].
+PATIENT: Good man, good.
+DOCTOR: Doing okay?
+PATIENT: I guess so far.
+DOCTOR: Good.
+PATIENT: My let, long about two weeks ago.
+DOCTOR: Yeah?
+PATIENT: My leg just started swelling up on me you know.
+DOCTOR: Yeah.
+PATIENT: You know, when I bend, you know it was hurting me around my waste.
+DOCTOR: Yeah, yeah, yeah.
+PATIENT: You know, I mean, my leg feels so tight you know.
+DOCTOR: Hm hmm.  You wearing compression stockings at all?
+PATIENT: Uh uh.
+DOCTOR: We should get you a prescription for those.
+PATIENT: It was, it be so tight, you know, it feel like you know, when I uh, you when, you know I pull my feet, does [REDACTED] like I can feel it, you know, feel the edge of my toes.
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: The same way.  Both of them.
+DOCTOR: The same way?  Both of them?
+PATIENT: Yeah.
+DOCTOR: We should get you a prescription for stockings that help bring all of the fluid back up to the body.
+PATIENT: Hm hmm.
+DOCTOR: So you don’t get swelling in your leg like that.
+PATIENT: But it, you know, most of the time when I get [REDACTED], I [REDACTED] ain’t wearing no socks at all or anything.
+DOCTOR: Yeah.
+PATIENT: I stayed off, you know.  Then it just hurting, you know. Just real tight.
+DOCTOR: Yeah.  Do you put them up at the end of the day?
+PATIENT: Yeah.
+DOCTOR: Okay, so [REDACTED].
+PATIENT: Hm hmm.
+DOCTOR: Okay.
+PATIENT: But it still be tight.  You just [REDACTED] about three weeks then I tried [REDACTED] to come in you know.
+DOCTOR: Yeah.
+PATIENT: I waited, they gave this appointment for today.
+DOCTOR: Yeah, yeah, yeah.  How high up does the swelling go?  Is it up to here?
+PATIENT: Yeah.  It come all the way up to here.  All this be up here.  [REDACTED] just swollen.
+DOCTOR: Okay.  Is this something new or you have had this before and it just went away?
+PATIENT: Hm, this, still the same, this left leg still the same way.  You know I, you know I can walk downstairs good but walking up the steps, man, I mean ooh.
+DOCTOR: Right.  So it has been like this for a long time?
+PATIENT: Yeah.
+DOCTOR: Okay.  We got to get you some compression stockings to help the fluid to get back up here.
+PATIENT: Because it just [REDACTED].
+DOCTOR: It is uncomfortable.
+PATIENT: Yup, I can’t even walk up the stairs, you know, you know I have to open my legs up just to get up the stairs. I can go down the stairs real good.
+DOCTOR: Yeah, yeah.  So there has been no recent change in that huh?
+PATIENT: No.
+DOCTOR: Are you still smoking?
+PATIENT: Uh, yeah, I have to go to that class.
+DOCTOR: You got to cut that stuff out man.
+PATIENT: Yeah.  Yup, you right.
+DOCTOR: You know it’s going to kill you.
+PATIENT: You right.
+DOCTOR: How is that cholesterol doing?
+PATIENT: I have to take some more pills, I have to get some more of those pills.  [REDACTED].
+DOCTOR: Yeah, last time we measured it, it was pretty high.
+PATIENT: Hmm.
+DOCTOR: Were you taking it a year ago?
+PATIENT: No, not no year ago.
+DOCTOR: Okay.  40 mg. How much are you on?  I saw you had a colonoscopy recently.
+PATIENT: [REDACTED].
+DOCTOR: You had it done this last year.
+PATIENT: Right.
+DOCTOR: Did you ever go for that genetic testing a year ago?
+PATIENT: [REDACTED].
+DOCTOR: Yeah, you have a strong family history of colon cancer.
+PATIENT: Right.  Right.
+DOCTOR: Did you ever go to USC for genetic testing at all?
+PATIENT: Ah no.
+DOCTOR: Is that something you would like to do?
+PATIENT: Yeah, I do it.
+DOCTOR: See if you’re predisposed.
+PATIENT: Yeah, I’d go.
+DOCTOR: Okay.  Let’s see what I can do, [REDACTED] set up for you.
+PATIENT: Okay.  [REDACTED].  Whatever you say.  I go.
+DOCTOR: [REDACTED].
+PATIENT: Whatever you say I’ll do it.
+DOCTOR: Alright.  You had a flu shot today?
+PATIENT: Yes.
+DOCTOR: Good.  How about the other shots?
+PATIENT: Hmm, that is the only shot I had.
+DOCTOR: Okay.  Just seeing when you had your last one.  You need one more today.
+PATIENT: Okay.
+DOCTOR: I will order it right now you can stop and pick it up on the way out.  Okay?
+PATIENT: Okay.
+DOCTOR: Everything with the medicines going good?
+PATIENT: Yes. I take it.
+DOCTOR: Fantastic.  Good.  Let me see if I can order you some compression stockings too.  [REDACTED].  Do you know where our Prosthetics Department is by any chance?
+PATIENT: Uh, nope.
+DOCTOR: Okay, I am going to find out for you.
+PATIENT: Yeah, one more thing about, you know when I use, when I use the toilet?
+DOCTOR: Uh huh.
+PATIENT: I have to strain, you know.
+DOCTOR: Okay.
+PATIENT: I have to strain you know to use it.
+DOCTOR: Okay.  You just bought yourself a rectal.  A rectal exam.
+PATIENT: (Laughter).  Do you know I, I been having to strain real bad, you know, [REDACTED].
+DOCTOR: Yeah, yeah.  And uh, do you notice if you are going more in the middle of the night?
+PATIENT: Hmm, nope, just strain [REDACTED].
+DOCTOR: You have to push it out?
+PATIENT: Yeah.
+DOCTOR: Okay.  Does it hurt at all when you push it out?
+PATIENT: Sometimes.
+DOCTOR: Sometimes, okay.  And your stream has gotten weaker?
+PATIENT: Ah, yeah.
+DOCTOR: At the beginning and then in the middle it kinda gets a little stronger?
+PATIENT: Yeah.  Something like that.
+DOCTOR: Okay.  Do you feel like you [REDACTED]?  Like do you still have some in there that you can’t get rid of?
+PATIENT: Yeah, right.
+DOCTOR: Yeah.  Okay.  Okay.  We should get you on a trial of Flomax.
+PATIENT: Flomax?
+DOCTOR: Chances are your prostrate’ s pretty big.
+PATIENT: Okay.
+DOCTOR: Flomax [REDACTED].  There are two medicines they use in prostate whenever the prostate is a little big.  It’s something we use with guys. The prostate is kind of sort of a bitch of an organ in terms of you know, as we get older it gets bigger and it causes more problems.
+PATIENT: Yeah.  I see [REDACTED], you know, you know they been doing [REDACTED].  Just started doing it.
+DOCTOR: Yeah, I know.  It is, fortunately, we have some really, really good medications to treat symptoms of BPH.  That is probably what you got.  Um, going to have to do a rectal though and I know it’s not the more pleasant in the world, [REDACTED].
+PATIENT: Okay.
+DOCTOR: Make sure you don’t have any sort of masses or anything back there, you know, that could be possible cancer.  I am not saying you have cancer.  Most likely you have just some enlargement of the prostate which is stuff that guys get as they get older.
+PATIENT: Oh, okay.
+DOCTOR: So it most likely what it is.  Um, any back pain at all, that you have had?
+PATIENT: [REDACTED] goes around my waist.
+DOCTOR: But that is nothing new right?
+PATIENT: No.
+DOCTOR: Okay.  Okay.  Sounds good.  Um, your blood pressure is doing great today.
+PATIENT: Yes.
+DOCTOR: I am really happy with where it is at.  Um, as far as [REDACTED].
+PATIENT: I take that every morning.
+DOCTOR: Good, good, good.  You are taking lisinopril 10 and amlodipine 10.
+PATIENT: [REDACTED] take less [REDACTED].
+DOCTOR: [REDACTED].  You know what, it is going to be a little tricky because I want to give you a little bit of a water pill.  To help get get off that extra fluid, it’s going to help your legs but I want to make sure you are peeing okay otherwise it’s going to be really un comfortable.  You know, so maybe we will wait and see if the peeing symptoms clear up for a little bit and then once you go to the bathroom regularly with an average stream, you can start the water pill.
+PATIENT: Oh okay.
+DOCTOR: Okay.  It will help you, actually you might be able to back off one of the meds and substitute the amlodipine. We’ll work in that.
+PATIENT: Oh okay.
+DOCTOR: We’ll work on that.  I will talk to my boss and we will come up with a medication regimen that will be better for your legs.
+PATIENT: Okay.
+DOCTOR: Okay.  Because amlodipine may actually make your legs swell up or not.  So may need to take that off and cover you with something for a little bit.  We will talk about it.
+PATIENT: Oh okay.
+DOCTOR: Alright.  Let me take a listen to you and then we will have to do the rectal.  At least a guy doing it and not a girl huh?
+PATIENT: Yeah.
+DOCTOR: Take a couple of big deep breaths for me buddy.  Alright.  Fantastic.  You have a good set of pipes on you man.
+PATIENT: [REDACTED].  You said I need to get off them cigarettes.
+DOCTOR: Yeah.  Yeah.  How much are you smoking now?
+PATIENT: Hm I say maybe a pack and a half a day, I cut down though but I need to cut [REDACTED].
+DOCTOR: A pack and a half a day?
+PATIENT: Yeah.  [REDACTED].
+DOCTOR: You’re going to give yourself some bad lung disease.
+PATIENT: Yup, you right. [REDACTED] stop. I’ll get in one of those classes.
+DOCTOR: [REDACTED].  You’re scheduled to come in or?
+PATIENT: Nope.
+DOCTOR: Not yet huh?
+PATIENT: Not yet.
+DOCTOR: How much were you smoking before that you cut down from?
+PATIENT: A couple of packs.
+DOCTOR: [REDACTED].  That’s progress.  [REDACTED] in your favor.  At Christmas time cut down to a pack a day.
+PATIENT: Okay.
+DOCTOR: It’s not that much.
+PATIENT: No.  That’s, I may cut down a little bit more.
+DOCTOR: You can do it.  [REDACTED], hey I’ll take more.  You are spending a lot of money on those things.
+PATIENT: Yes.
+DOCTOR: How much you spend, how much is a pack for you?
+PATIENT: Say five fifty.
+DOCTOR: Five fifty?
+PATIENT: Sometimes 5 dollars a pack.
+DOCTOR: Let’s say 5.50 and you go through about a pack and a half every day, three times, [REDACTED], let’s say about ten and a half packs a week right?
+PATIENT: Hm hmm.  [REDACTED]. Get them for five dollars a pack of cigarettes [REDACTED] you know they seven dollars.  So I can get them for about five dollars a pack.
+DOCTOR: You know how much you are spending on cigarettes a year?
+PATIENT: What?  How much?
+DOCTOR: [REDACTED].
+PATIENT: Whew!  Three thousand?
+DOCTOR: That’s too much.  Three thousand dollars.
+PATIENT: That’s too much money.  That is another car.
+DOCTOR: That’s a nice vacation that is what that is.
+PATIENT: Yup.
+DOCTOR: That’s a good cruise on the Caribbean.
+PATIENT: Yup.
+DOCTOR: And some.  That’s VIP access, that’s [REDACTED], thousand dollars.  How much do you make a year?
+PATIENT: I’d say about what, 50 something.
+DOCTOR: You got about a little less than 10% of your salary going towards cigarettes.
+PATIENT: Cigarettes.
+DOCTOR: I know.  Time to cut that shit out man.
+PATIENT: Yup, hm hmm.
+DOCTOR: Alright at least we’re on the same page.
+PATIENT: [REDACTED].
+DOCTOR: Alright buddy.  So, you know it’s pretty uncomfortable okay.  I need you to drop your pants.  I am going to put [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: I know, I know buddy.  I know.  I just got to make sure it’s nothing you know, it’s smooth.  You don’t have any nodules.  Hey, [REDACTED] okay?
+PATIENT: Okay.
+DOCTOR: Believe me I don’t like doing that either.  Like I said, luckily it is a guy doing it, it’s not a female. A little bit more. Have you ever had this done?
+PATIENT: Nope.
+DOCTOR: No?  Even I have had it done.  I had to go in the hospital one time because I was having problems urinating and they had to do it for me. I tell you, it’s not pleasant.  It’s got to be done.
+PATIENT: [REDACTED].
+DOCTOR: Yeah, drop your pants.  Okay, and, feel a little a little bit of pressure.  Now you are going to feel a little bit of pressure, [REDACTED].  Okay.  [REDACTED].  A little pressure.  Okay.  From side to side.  That hurt at all?
+PATIENT: Uh uh.
+DOCTOR: Just uncomfortable right?
+PATIENT: Yeah.
+DOCTOR: Okay.  Okay.  Here you go buddy.  That’s it.  It’s over.  Here are some towels you can wipe yourself down.  Completely smooth and [REDACTED].  No nodules.  [REDACTED] nothing to suggest cancer.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] trial of Flomax.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  Alright and uh, I might check your cholesterol today too.  Alright.   I will be right back buddy.
+PATIENT: Okay.
+DOCTOR: 49:35  DOCTOR IN:  64:40
+DOCTOR: Alright, guy. I talked it over with the boss.  We are going to make a few changes to your meds today.
+PATIENT: Okay.
+DOCTOR: I was telling you before that the Amlodipine can make the swelling in your legs worse.  So we’re going to cut that out.  No more Amolodipine.  We are going to start you on a water pill and a pill for your prostate.
+PATIENT: Okay.
+DOCTOR: Okay so we are, I know we’re taking away one and we are adding two but I think we are going to really help the swelling in your legs.
+PATIENT: Oh okay.
+DOCTOR: I think it’s really going to help it.  [REDACTED].  And then we are also going to get you stockings to push the fluid back in.
+PATIENT: What kind of stockings are these?
+DOCTOR: They are called compression stockings.  Basically they are really tight fitting socks and the come up to right about here.  And they are tight fitting and they squeeze all of the fluid back into the veins.  Because what happens in your veins, veins normally take up blood from down here and they bring it back to the heart.  And veins have little valves in them so the blood moves up a little bit, the valve closes and it doesn’t come back down.  Your valves kinda stay open like that so the blood constantly comes back down.
+PATIENT: Alright.
+DOCTOR: The pressure of the arteries taking the blood to the feet, and the veins trying to back up, that pressure is goes up down here and the extra fluid is pushed down into the leg.
+PATIENT: Oh.
+DOCTOR: Yeah.  If you keep putting pressure on this way, your heart is putting pressure this way, but the veins aren’t doing their job because they are faulty and so the pressure goes up and fluid leaks out.
+PATIENT: Okay.
+DOCTOR: Okay?  The trick is, let’s try to squeeze that fluid back into the veins, basically what we are creating is an artificial valve in your legs, with the compression stockings.  Sound good?
+PATIENT: Yes, sounds good.
+DOCTOR: Alright.  Alright, so let me um, we are doing to discontinue the amlodipine today.  Okay.  And let me get you that water pill too.  Alright and you can go to uh, actually go [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: You got [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] water pill, too. [REDACTED] checklist [REDACTED] forget what needs to be done [REDACTED]. Here we are, one... two...   Prosthetics Department, stockings, three, pharmacy to pick up meds.  I added terazosin, and chlorthalidone.  Stop amlodipine.  Stop at the nurses’ station and get your vaccination.  Then go up to Prosthetics real quick and pick up your stockings so you have them before the weekend.  And then come down to the Pharmacy.
+PATIENT: Oh okay.  Appreciate it doc.  Nice meeting you.
+DOCTOR: Nice meeting you man.
+PATIENT: [REDACTED].
+DOCTOR: Yeah, we got a lot of stuff done today.
+PATIENT: Okay.  Did you get that [REDACTED]?  You know, for that test, you know you said I had to go to the I forget the name of that.  You know for that exam or something.  You know for, I forgot what you did.
+DOCTOR: The prostate?
+PATIENT: Yeah, yeah, something you know, where they can take some kind of exam over there.
+DOCTOR: Oh for the genetic testing.
+PATIENT: Yeah.
+DOCTOR: Let me look into it.  Okay.  I don’t know exactly how to do it, I asked about it [REDACTED].
+PATIENT: Okay.
+DOCTOR: I will write myself a note so I remember.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Hm hmm.  That’s good.  Okay stop at the nurses’ station.
+DOCTOR: Yeah, get it all done before five because you know this place shuts down at five.
+PATIENT: Oh okay.
+DOCTOR: [REDACTED].
+PATIENT: Okay thanks a lot doctor.
+DOCTOR: And we will see each other somewhere in about three months just to see how you are doing okay.
+PATIENT: Okay.  I get there on time.
+DOCTOR: Yeah.
+PATIENT: Okay, thanks a lot doc.
+DOCTOR: [REDACTED].
+PATIENT: Okay, take care.
+DOCTOR: Alright buddy.
+PATIENT: Alright.
+PATIENT: 72:10.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300289
+TRANSACTION # 578-10-2-316-0103

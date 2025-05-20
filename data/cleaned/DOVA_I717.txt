@@ -1,0 +1,227 @@
+DOCTOR: PATIENT?
+PATIENT: How you doing?
+DOCTOR: How you doing, my name is DOCTOR.  Have we met before?
+PATIENT: I believe so.
+DOCTOR: We have, I didn't have a chance to look through all the chart before I called you so um, you're on here for some reason for this week and for next week.
+PATIENT: Huh?
+DOCTOR: You have an appointment with me this week and next week.
+PATIENT: I do.
+DOCTOR: For some reason, I don't know.  You might want to cancel the next week one since it's in the computer.  Uh.
+PATIENT: That was for my cholesterol.
+DOCTOR: Maybe it was in the computer.  You saw DOCTOR last time.
+PATIENT: Uh-huh.
+DOCTOR: But that was more like your three so um I'll just kind of talk to you about [REDACTED].  How are you doing today?
+PATIENT: Okay.
+DOCTOR: Any concerns, problems, grievances?
+PATIENT: No I don't have any today.
+DOCTOR: Huh?
+PATIENT: None today.
+DOCTOR: Okay and you also saw DOCTOR.
+PATIENT: The appointment next week might be for cholesterol.
+DOCTOR: Maybe this was with me and I don't know if I can see you twice in a row.
+PATIENT: Oh okay.
+DOCTOR: But you might just see the pharmacist or something but.
+PATIENT: Yeah I think that's who it is.
+DOCTOR: Yeah but for some reason it was made with me so when you leave here, just check with the front desk so you don't have an appointment for the doctor but with somebody else.  Uh.
+PATIENT: Cause the last time I was here I saw the pharmacist.
+DOCTOR: Yeah.  I'll take a look.  Your blood pressure's good.  So it looks like you have high blood pressure which is good and you are currently on.
+PATIENT: No.
+DOCTOR: [REDACTED] Blood pressure right?
+PATIENT: The um, the um pravastatin you gave me.
+DOCTOR: Yes.
+PATIENT: The last time, they're five times bigger than the ones I usually take.
+DOCTOR: Really?
+PATIENT: Yeah.
+DOCTOR: Like phsically bigger?
+PATIENT: Right.
+DOCTOR: Are they hard for you to swallow?
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: The ones I had before were smaller round pink ones.
+DOCTOR: And the problem, I think that you're on pravastatin, I don't know let me see um.
+PATIENT: She [REDACTED] the last time I was here.
+DOCTOR: Did they tell you why they switched you from [REDACTED]?
+PATIENT: They wanted a higher dosage.
+DOCTOR: Yeah that's okay.  The pravastatin is stronger than simvastatin.
+PATIENT: Uh-huh.
+DOCTOR: So it sounds like you – and I’ve never met you before -  that you have trouble getting good control on the normal medicine, they put on you a bigger, a different medicine.
+PATIENT: Uh-huh.
+DOCTOR: And so it's a different manufacturer that made your medicine.
+PATIENT: Uh-huh.
+DOCTOR: They're going to be potentially bigger or smaller or a different shape or something like that.
+PATIENT: Uh-huh.
+DOCTOR: Is there a way to break it in half and take it half at a time?
+PATIENT: I guess I can.
+DOCTOR: And just try to do that and you look like you're already on a full dose of it right?
+PATIENT: Uh-huh.
+DOCTOR: You had a set of labs in January, I don't know if you remember because that was a few months ago.
+PATIENT: Yeah.
+DOCTOR: Uh for your cholesterol and I was just kind of wondering, were you fasting that day?  Do you remember?
+PATIENT: I think so.
+DOCTOR: You think you were, cause it was still kind of high.  Your uh LDL which is your bad cholesterol, was 166.
+PATIENT: Yeah she said it was going down some from the last time.
+DOCTOR: It did go down some, that's correct, it did go down.
+PATIENT: That's why I started taking the cholesterol test.
+DOCTOR: Now you actually take them now?
+PATIENT: Yeah.
+DOCTOR: Um in January were you taking them?
+PATIENT: Yes.
+DOCTOR: Every day, not skipping any evenings always.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Well it's still kind of high um.
+PATIENT: But now I tell you with these white ones.
+DOCTOR: Uh-huh.
+PATIENT: I haven't been taking them.  I've been taking my olds ones.
+DOCTOR: I see okay.  So you.
+PATIENT: Since I got those but I just got those like two weeks ago.
+DOCTOR: Okay so.
+PATIENT: So I was finishing up my small pink ones.
+DOCTOR: I see, so when you took your last cholesterol test in January which ones were you taking?
+PATIENT: The small ones.
+DOCTOR: The small ones.
+PATIENT: Yeah.
+DOCTOR: Every time you were taking, you weren’t skipping doses?
+PATIENT: Right.
+DOCTOR: You weren't taking the new ones?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: They just came about two weeks ago.
+DOCTOR: So you just got the new ones.
+PATIENT: Yeah.
+DOCTOR: And have you been taking them?
+PATIENT: No.
+DOCTOR: Cause they're too big.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: I been taking the smaller ones.
+DOCTOR: Alright, okay.  So let's try to do this, try to take the big ones and break them in half and take them half at a time and then once you're on those for about two months we'll recheck the cholesterol and see if you do better on those.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: So that and then blood pressures are good.  Do you take an aspirin a day?
+PATIENT: Yes.
+DOCTOR: And then, alright.  Any more problem with stomach problems?
+PATIENT: No.
+DOCTOR: Do you have heartburn?
+PATIENT: No since I take them every day.
+DOCTOR: Okay.  Um smoking?
+PATIENT: Yes.
+DOCTOR: Uh any decreasing of how much you're smoking yet?
+PATIENT: Yes.
+DOCTOR: How much?
+PATIENT: Um a pack will last me probably almost two weeks.
+DOCTOR: Okay.  That's not bad at all.  Are you using the gum at all?
+PATIENT: No.
+DOCTOR: No.  Uh let's see and you had a colonoscopy last June which is fine.  Uh.
+PATIENT: I'm planning on quitting smoking by the time I come back.
+DOCTOR: Good, great.  Very good uh.  Alright, let's see.
+PATIENT: I went to draw blood today but they said I wasn't in the computer so.
+DOCTOR: Oh yeah, [REDACTED]
+PATIENT: Yeah.
+DOCTOR: And plus, I wouldn’t want to check until you’ve been on this new cholesterol medicine for a while.
+PATIENT: Okay.
+DOCTOR: Let's see.  Do you have any problem with breathing?  No shortness of breath from the smoking?  [REDACTED]  No weight loss, no blood in the urine or stool, nothing like that?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED]. Sounds like we’re just following the cholesterol.
+PATIENT: Yeah.  Uh-huh.
+DOCTOR: Not a diabetic right?
+PATIENT: No.
+DOCTOR: Okay can you have a seat up here for me and I'll take a listen to you?  Take some deep breaths.  One more, one more, one more.  Breathe normally.  No chest pain, no weight loss, nothing like that?
+PATIENT: No.
+DOCTOR: Okay, look forward.  So all we're going to [REDACTED] is medication refills or anything like that?
+PATIENT: No, no.
+DOCTOR: You don't need refills today for anything?
+PATIENT: I just got some uh when I was here the last time a couple [REDACTED].
+DOCTOR: Alright, very good uh.  You have two refills, two refills and [REDACTED].  Um other than that it should be good.  Okay and [REDACTED].  You had you flu shot this year?
+PATIENT: I had both of them.
+DOCTOR: Good, you had a tetanus shot.  You had pneumonia [REDACTED] okay.  Alright let me talk to DOCTOR and I think that we'll be.  Uh what we'll have you do is actually, I’ll order the cholesterol test and once you’re on these pills for six to eight weeks [REDACTED] we can still have you come back and check to see the numbers are good, okay.
+PATIENT: Okay.
+DOCTOR: Alright.  Yeah and your good cholesterol is actually pretty darn good and you're bad cholesterol, your triglyceride cholesterol were all [REDACTED] you just have a very isolated cholesterol to try to treat.
+PATIENT: Okay.
+DOCTOR: I'll be back within a couple of minutes.
+(DOCTOR OUT:  17:02  DOCTOR IN:  30:27)
+DOCTOR: Alright sir.  I had nice long conversation about your cholesterol pills and we got a little confused but we got him straightened out.  So you are taking now the simvastatin, the old little pill.
+PATIENT: Old pink pill.
+DOCTOR: Whatever, old pink pill.
+PATIENT: Yeah.
+DOCTOR: And how much of it, what's the dose of that one?
+PATIENT: Um I think 20.
+DOCTOR: 20, only 20?
+PATIENT: I think, I'm not sure.
+DOCTOR: Okay.
+PATIENT: But I'm taking a whole one.
+DOCTOR: A whole one.  Okay, so here's the thing.  There's the cholesterol pill that you're taking, there's like a whole bunch of different ones.  They're all almost the same.
+PATIENT: Hmm.
+DOCTOR: Some are a little stronger, some are a little weaker, so we just have [REDACTED] to try to figure this out.
+PATIENT: Uh-huh.
+DOCTOR: This new big one that you got sent is actually not as strong as the old little pink one.
+PATIENT: Well that's 80.
+DOCTOR: The dose itself actually they don't correlate with numbers.
+PATIENT: Okay.
+DOCTOR: How strong the actual medicine but they are similar but the dosing wasn't quite match up.
+PATIENT: Uh-huh.
+DOCTOR: So did you have diarrhea with the little pink pill?
+PATIENT: Yeah.
+DOCTOR: How much diarrhea, how bad was it?
+PATIENT: Um just once, after I take it and a little while after I have to go to the washroom.
+DOCTOR: Like one time.
+PATIENT: Yeah.
+DOCTOR: Okay so that's not real diarrhea.
+PATIENT: No it was, I think it was cause you know I, how [REDACTED] it.
+DOCTOR: Yeah okay.  Are you willing to try it again I mean you've been taking it now.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Without trouble.
+PATIENT: Right.
+DOCTOR: Okay.  So what we're gonna do is that little pink pill also has a dose of 80.
+PATIENT: Uh-huh.
+DOCTOR: Which sounds like you weren’t on.  So we'll try to do that.  We'll put you on a full dose of the old pink pill okay.
+PATIENT: Uh-huh.
+DOCTOR: And have you take that because it's stronger and it's smaller.
+PATIENT: Uh-huh, right.
+DOCTOR: So it sounds like you’d rather take it.
+PATIENT: Alright.
+DOCTOR: So we'll stop the pravastatin, the big horse pills.
+PATIENT: Uh-huh.
+DOCTOR: Uh and then I'm gonna give you the full dose of the other one okay.
+PATIENT: Okay.
+DOCTOR: And we'll see how your cholesterol does on that.
+PATIENT: Okay.
+DOCTOR: Now and if you are on that pill full dose and you're taking it and you take it for at least a year.
+PATIENT: Uh-huh.
+DOCTOR: And we still can't get your cholesterol under control; we actually do have another one that's stronger okay.
+PATIENT: Uh-huh.
+DOCTOR: So we'll talk about that if the other one [REDACTED] okay.
+PATIENT: Okay.
+DOCTOR: Okay.  Alright, does that make sense?
+PATIENT: Uh-huh.
+DOCTOR: So I put in the new same as the old pink pill.
+PATIENT: Can you mail it?
+DOCTOR: I'll put it in to mail, yeah, mail okay.
+PATIENT: Uh-huh.
+DOCTOR: Does that make sense?
+PATIENT: Yeah.
+DOCTOR: Alright now we'll see you in about two months.
+PATIENT: Uh-huh.
+DOCTOR: And before you come in could you get the cholesterol done so we can have that to talk about.
+PATIENT: Okay, but you got to put it in right?
+DOCTOR: Yeah, yeah I'm gonna put it in right now.
+PATIENT: Cause the last one when I went to the Lab they said there was.
+DOCTOR: They said, no I'll put it in right now for two months from now okay.
+PATIENT: Uh-huh.
+DOCTOR: And we'll have you see DOCTOR in May, May 14th I put it in and I'll put in a lipid profile for a week before then okay.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Okay.
+PATIENT: Uh-huh.
+DOCTOR: Any questions?
+PATIENT: No.
+DOCTOR: Alright you can drop this off at the front desk.
+PATIENT: Okay.  You have a good day.
+DOCTOR: You too, take care.
+PATIENT: Good bye.
+PATIENT: 34:00
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255196
+TRANSACTION # 578-10-2-316-0103

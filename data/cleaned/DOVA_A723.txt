@@ -1,0 +1,421 @@
+DOCTOR: PATIENT.
+PATIENT: Hey doc, you ready for me now?
+DOCTOR: [REDACTED].
+PATIENT: I'm still here.  What's up doc?
+DOCTOR: Right.
+PATIENT: Sound like Bugs Bunny hey.
+DOCTOR: Someone in the line yeah.
+PATIENT: So I've got this for you.  Should be in the computer, I'm not positive.
+DOCTOR: [REDACTED].
+PATIENT: Yeah they said I had an infection.
+DOCTOR: Drops [REDACTED].
+PATIENT: I may get either one.  The ones that I got, they were supposed to give me eye drops but I never got them.  Then they sent me something foam to put on to clean my eyes.
+DOCTOR: Artificial tears they're right here.
+PATIENT: Could they deliver them?  Probably not.
+DOCTOR: In January they delivered them.
+PATIENT: I didn't get them.
+DOCTOR: They mailed them.
+PATIENT: Huh.  I got the, what do you call that stuff, that spray to clean my eyes.
+DOCTOR: And then the artificial tears did you get those?
+PATIENT: No I didn't get the tears but I got the.
+DOCTOR: And what's your address?  Is it.
+PATIENT: ADDRESS.
+DOCTOR: Oh [REDACTED] okay.
+PATIENT: Oh no [REDACTED].  It's ADDRESS in Brookfield.
+DOCTOR: ADDRESS yeah I don't know man.
+PATIENT: Why would anybody want to?
+DOCTOR: Alright now when did you go to the ER, on the 13th of June?
+PATIENT: Uh-huh.
+DOCTOR: Oh I see it.
+PATIENT: They said I had an infection.
+DOCTOR: Periorbital cellulitis with sty [REDACTED] with one contrast [REDACTED] something [REDACTED].
+PATIENT: Right.  Warm water.
+DOCTOR: So he gave you dicloxacillin, an antibiotic.
+PATIENT: Right.
+DOCTOR: And used it for seven days?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  And did you see the eye doctor at all?
+PATIENT: No.
+DOCTOR: I think you should see the eye doctor.
+PATIENT: They're gonna give me an appointment, who knows when.
+DOCTOR: Yeah but you need to see them though.  Did [REDACTED].
+PATIENT: I thought they did.
+DOCTOR: Oh eyeglasses, so you've seen the eye doctors?
+PATIENT: That was last year or.
+DOCTOR: Yeah, so you're a patient of them.  If I was you I'd go down there because once you're a patient you have to call and make an appointment.
+PATIENT: Yeah.
+DOCTOR: So go down there, make an appointment, tell them my eyes have been bothering me.
+PATIENT: Uh-huh.
+DOCTOR: And then they should give you a sooner than later appointment.
+PATIENT: Yeah cause they told me to wait until December or January, something like that.
+DOCTOR: Okay.  Have you ever gotten shingles before?
+PATIENT: No.
+DOCTOR: Have you ever gotten the shingles vaccination?
+PATIENT: Not that I know of.
+DOCTOR: Have you refused it?
+PATIENT: No, what it is?  What does it do?
+DOCTOR: Well it's like chicken pox that old people get.
+PATIENT: Yeah.
+DOCTOR: And usually.
+PATIENT: If they gave it to me I don't know.  They give me all kinds of shots.
+DOCTOR: No it doesn't look like they gave it to you.
+PATIENT: Yeah.
+DOCTOR: Immunizations, nope.  So if you had chicken pox when you were a kid you can get chicken pox but it comes back like painful.
+PATIENT: Okay.
+DOCTOR: You know like you get a rash, you can get it anywhere in your body.
+PATIENT: I don't even know if I had chicken pox.
+DOCTOR: Oh you don't?
+PATIENT: I know I had all my shots when I was growing up.
+DOCTOR: Yeah but no one got chicken pox shots until my generation.
+PATIENT: And then oh I might have when I went to the service though.
+DOCTOR: No they.
+PATIENT: They wouldn't give that [REDACTED].
+DOCTOR: They don't give it to you in the service yeah.
+PATIENT: You’re on your own? Get a rash on your ass – it’s too bad.
+DOCTOR: Um.
+PATIENT: Well another thing is I got this letter from.
+DOCTOR: So do you want the eye drops?
+PATIENT: I got the stuff to clean my eyes.
+DOCTOR: Okay.
+PATIENT: But not.
+DOCTOR: So you're talking about the antibiotic eye drops?
+PATIENT: No I don't know.  But they were supposed to send me eye drops, I never got them.
+DOCTOR: But didn't they, so you ordered, he ordered antibiotic eye drops.
+PATIENT: No.
+DOCTOR: And you never got them.
+PATIENT: He gave me antibiotic pills.
+DOCTOR: For seven days?
+PATIENT: Right.
+DOCTOR: But he didn't give you the eye drops at all.
+PATIENT: I never got the eye drops.
+DOCTOR: Let me see.  Did he even order it?  Take seven days, oh he never ordered the eye drops actually.
+PATIENT: Okay that might explain it.
+DOCTOR: He just gave you oral antibiotics.  Did he say he wanted you to get the eye drops that were antibiotics?
+PATIENT: He said he was gonna do that and then to put the warm compresses on my eyes and all that.
+DOCTOR: Has that been helping?
+PATIENT: Hmm yeah I guess.  But still my eyes are still burning and stuff.
+DOCTOR: But do you get the artificial tears at your house?
+PATIENT: Yeah usually they deliver everything to the house.
+DOCTOR: So you got the artificial tears?
+PATIENT: No.  I got just the clean, to clean my eyes.
+DOCTOR: Which ones, yeah let's go over your meds cause I think we're getting confused.  Are you taking this one?
+PATIENT: Yeah that's my, whatever it's for.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: What is it for?
+PATIENT: I don't know.
+DOCTOR: So you're taking that?
+PATIENT: Yeah.
+DOCTOR: Okay are you taking these?
+PATIENT: No.  Cause I didn't get them, that's the tears.
+DOCTOR: Okay so you don't use anything okay this is your aspirin.
+PATIENT: Uh-huh.
+DOCTOR: And your Plavix.
+PATIENT: Right.
+DOCTOR: Fish oil.  Insulin.
+PATIENT: Uh-huh.
+DOCTOR: Insulin.
+PATIENT: Uh-huh.
+DOCTOR: Lisinopril for blood pressure.
+PATIENT: Right.
+DOCTOR: For blood pressure.  OCuSOFT lid scrub, that's the one you got.
+PATIENT: That's the one I got right now, the new one.
+DOCTOR: Alright.
+PATIENT: But that, the lisinopril.  I stopped taking one of them.
+DOCTOR: Why?
+PATIENT: Cause they told me to.
+DOCTOR: Who told you that?
+PATIENT: You guys did.
+DOCTOR: Let me see.
+PATIENT: Should be on there.
+DOCTOR: Let me see.
+PATIENT: Cause they wanted to know why was I taking two, two blood pressure pills or something like that.
+DOCTOR: Well no people can take two, three, four.
+PATIENT: They told me no I shouldn't be taking them so they took them off.  I don't know if it was lisinopril or listopril or something like that.
+DOCTOR: Let's see.  Pressure is not well controlled, so blood pressure was high.  Had to stop hydrochlorothiazide due to elevated creatinine.  So we stopped your hydrochlorothiazide.
+PATIENT: Uh-huh.
+DOCTOR: So we didn't stop the lisinopril but we stopped the hydrochlorothiazide.  Let me see if anybody else stopped it.  The Dietary didn't do anything.
+PATIENT: It would be the diabetic doctors.
+DOCTOR: Diabetes, previous Lantus, normotensive, on the ACE inhibitors which is lisinopril.  He didn't say to stop it.
+PATIENT: Well somebody told me cause I know, cause I didn't even get it in the mail.  I know one of them I didn't get it no more.
+DOCTOR: Yeah hydrochlorothiazide.
+PATIENT: That's the only one okay.
+DOCTOR: That's the one I stopped.  Let's see what the ER doctor did.
+PATIENT: So what's the other name of it then, the hydro whatever.
+DOCTOR: Hydrochlorothiazide, HCTZ.
+PATIENT: What's that?
+DOCTOR: Hydrochlorothiazide.  It's not on there cause I took it off.
+PATIENT: But it's on here, oh no it's not.
+DOCTOR: Yeah.
+PATIENT: And then that's the one I don't take.  I know you guys took one off for me and I say okay.
+DOCTOR: It wasn't the lisinopril then.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Uh maybe they call it listopril?
+DOCTOR: No, no, no, lisinopril.
+PATIENT: Okay.
+DOCTOR: Okay.  I knew no one else would have told you that.
+PATIENT: Yeah I got the lid scrub.  One check, no more refills.
+DOCTOR: Are you drinking water?
+PATIENT: A lot of water.  Peeing every five minutes man.  Why is my water down?
+DOCTOR: No your creatinine is still high.
+PATIENT: What's that?
+DOCTOR: That's for your kidneys.  And we already took and you weren't taking the hydrochlorothiazide anymore?
+PATIENT: No.
+DOCTOR: Cause you don't have any [REDACTED] huh?
+PATIENT: Nope.
+DOCTOR: Can we ask your wife or your girlfriend?
+PATIENT: Yeah.  She’s got it on there what I take on one of those pages.  Oh that's in March when they did the, put the drill bit and cleaned me out.  That's not in there; it's supposed to be in there.
+DOCTOR: But does she know which medicines you take other than [REDACTED].
+PATIENT: She should know.  She's the one that saves me all the time.
+DOCTOR: Here we go.
+PATIENT: So all of this is in there right?
+DOCTOR: Huh?
+PATIENT: All this is in there?
+DOCTOR: Yeah.  But it's one thing to give you the medication and it’s one thing if you still had it at home and you've been taking it.  So you don't know which ones you're taking?
+PATIENT: Not really.  I just take them cause there's a ton in the morning and a ton in the evening.
+DOCTOR: Well your sugar is getting better.
+PATIENT: Yeah just that when it drops, my reaction is eat a candy or something.
+DOCTOR: Yeah.
+PATIENT: Instead of, but then when I overeat it goes up, if it's regular food it doesn't matter.  The sugar's gonna go up.
+DOCTOR: Pull up [REDACTED].
+PATIENT: Well what do I do then?
+DOCTOR: Endocrine.
+PATIENT: [REDACTED] the diabetes doctor but they give me a pharmacist though.
+DOCTOR: Yeah, yeah.  Let's see, did you do the Hemoccult, the poop?
+PATIENT: Yeah.  I did two of them.
+DOCTOR: Okay let's see.  Okay it was, they said they couldn't do it.  This was in December.  They said it wasn't a good sample.
+PATIENT: Right so they told me to send another one.
+DOCTOR: Did you send another one?
+PATIENT: Yeah cause they gave me a paper to come out here and get it.  Somebody gave me the card with that.  He said it wouldn't work so I had to do it again.
+DOCTOR: There's all these labs I wanted you to get and you didn't get them.
+PATIENT: What's that?
+DOCTOR: Back in May. Why didn’t they draw any of these today? Anyway let's see, creatinine, phosphorus, there's no stool order.  Alright I'll have to do another one.  Since you don't want to get the colonoscopy right?
+PATIENT: Do this?
+DOCTOR: Yeah I'll put it in.
+PATIENT: Another one?
+DOCTOR: Yeah it wasn't in there.
+PATIENT: Hmm.
+DOCTOR: Look I'm putting it in in the lab right.
+PATIENT: Okay.  What else tests didn’t I do?
+DOCTOR: So you drink all the time, you said?
+PATIENT: Yeah.
+DOCTOR: So do you drink alcohol?
+PATIENT: No.  Coffee.
+DOCTOR: You need blood pressure right.  Did they get another one?  It was 117/66.
+PATIENT: Uh-huh this morning oh yeah.
+DOCTOR: Why didn't they put it in?
+PATIENT: Hmm.
+DOCTOR: But this was the second time they took it, it was 117?
+PATIENT: The first time was 147.
+DOCTOR: Uh-huh.
+PATIENT: They said the second one was real good, whatever.
+DOCTOR: Now I'll order the, the eye drops are already ordered so it's not like I could do anything.  I would call the Pharmacy and make sure they give you another one.
+PATIENT: Uh-huh.
+DOCTOR: And just let them know that you never got the one before that.
+PATIENT: Yeah, it's weird that I didn't.  I got the, like I said I got the eye scrub but never got the drops cause they were supposed to come at the same time.
+DOCTOR: Okay.  Call them you can renew it.
+PATIENT: Yeah.
+DOCTOR: It's there.  All you have to do is just call and have them send it to you okay.
+PATIENT: Sounds like a plan.
+DOCTOR: Alright so what are you gonna do?  You're gonna see the eye doctor right?
+PATIENT: Yeah I guess I'll go down there and make an appointment.
+DOCTOR: Go and make an appointment, call to get your eye drops cause it’s in there.  All you have to do is just call it.  So eye doctor, eye drops, do the stool cards and whenever you're able to come back you can just turn it in cause the lab is in there and what else? Anything else going on?
+PATIENT: Yeah how come I get headaches now?  My arm hurts and my neck hurts.  Just right here.
+DOCTOR: When does it happen?
+PATIENT: Every day, even now.
+DOCTOR: Point to where your neck hurts.
+PATIENT: Right in here.
+DOCTOR: Does it hurt when you press on it?
+PATIENT: No it's just like a steady pain.
+DOCTOR: Do you sleep on your back or on your side or face down?
+PATIENT: On my side.
+DOCTOR: On your side.  Alright.  Have you tried sleeping with your face up?
+PATIENT: Hmm not really.  I haven't done that in years.  [REDACTED] as a matter of fact.
+DOCTOR: Okay.  So it's every day your neck hurts, alright.  Did you do anything heavy recently?
+PATIENT: Uh-huh yeah.
+DOCTOR: Where's your hand hurt?
+PATIENT: In my arm.
+DOCTOR: Did you hurt yourself?
+PATIENT: No, no.
+DOCTOR: Point to where it hurts.
+PATIENT: All the way to here.  Right there yeah.
+DOCTOR: Did you hurt yourself?  Right there.  Alright squeeze my hand, squeeze, alright.  Now go like this like you're gonna lift up some weight.  Does it hurt?
+PATIENT: Uh-huh.
+DOCTOR: It hurts?
+PATIENT: But I could still do it, yes that hurt.  But they sent me to therapy for this but it still.  It was okay and now it's starting to hurt again.
+DOCTOR: Is it the same pain?
+PATIENT: Yeah back here and over here.
+DOCTOR: It was the same pain before?
+PATIENT: Yeah.
+DOCTOR: It was the same pain.
+PATIENT: And then my leg hurt down here.
+DOCTOR: Let's see, Occupational Therapy.
+PATIENT: And it worked, she did it once and I don't know what was wrong but she got it straightened out quick.  I think her name was NAME the therapist.
+DOCTOR: Yeah NAME.
+PATIENT: Uh-huh.
+DOCTOR: Have you continued doing the therapy at home?
+PATIENT: Yeah.  Well I do until it starts hurting then I stop.
+DOCTOR: I think you need to start.
+PATIENT: Same thing with walking.  I try to walk.
+DOCTOR: This was just in June.
+PATIENT: Right I try to walk and everything starts hurting again.  I'm hoping my legs.
+DOCTOR: Are you doing, did you do the stretching today?
+PATIENT: No.
+DOCTOR: Did you do it in the last week?
+PATIENT: Yeah.  I went, well I was gonna go Sunday but I couldn't because our basement was flooded in my house.
+DOCTOR: Yeah.
+PATIENT: Where I live so I had to go upstairs and we had a plumber.
+DOCTOR: Were you doing stuff, moving around?
+PATIENT: No.  They don't let me do anything.
+DOCTOR: Okay.
+PATIENT: Cause they got a treadmill so I get on that treadmill and I walk on the treadmill.
+DOCTOR: And you started getting pain in your arm?
+PATIENT: Mostly my legs.  My neck I don't know why it just started out of the blue it started hurting.  It's been like that for a couple weeks now.
+DOCTOR: Have you taken a Tylenol or anything?
+PATIENT: No cause I take the aspirin in the morning with my pills.
+DOCTOR: Yeah but the aspirin is more for your diabetes.
+PATIENT: Right.
+DOCTOR: And then you should take a Tylenol.
+PATIENT: Take a regular Tylenol?
+DOCTOR: Yeah like 600 or 650, whatever the dose is.
+PATIENT: Uh-huh.
+DOCTOR: I think they sell them 325, just take two of those.
+PATIENT: Yeah.
+DOCTOR: And then see how you do when you're walking but I think you need to start stretching every day just like the physical therapist and if it doesn't help then you can call and let the nurse know that you want therapy or call the therapist.  Can you set up an appointment with the therapist?
+PATIENT: I guess I could yeah.
+DOCTOR: Yeah.
+PATIENT: I got her thing at home.
+DOCTOR: Yeah.  You could call her and ask her if she says that I have to order it again then call the nurse and let them know.
+PATIENT: Well actually you didn't order it, it was the doctor DOCTOR.
+DOCTOR: Oh the endocrinologist.
+PATIENT: Right she's the one that ordered it.
+DOCTOR: And then you felt better?
+PATIENT: Yeah right away.  She was massaging and doing all kinds of crazy stuff and then right away it started working.
+DOCTOR: But you've got to stretch every day then.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  I think you've got to do everything they told you to do in therapy every day though.
+PATIENT: Uh-huh.
+DOCTOR: Okay and if it doesn't work then we might have to enroll you again for physical therapy. Alright so you're gonna stretch right?
+PATIENT: Well yeah.
+DOCTOR: And then try to take some Tylenol.
+PATIENT: Right.
+DOCTOR: And then if it doesn't work then you have to see therapy again.
+PATIENT: Because I mean I'm walking even though it's killing me.  Like in my arm and my legs too, this leg.  And I walk cause they said you have to walk.  I says okay but shit I go a little bit then everything starts hurting.  And it's all on this side all the time the right side.
+DOCTOR: Oh because you have peripheral vascular disease too.
+PATIENT: Right.  What is that?  I got all kinds of good stuff.
+DOCTOR: Did you get the CT run-off at all or no?
+PATIENT: What's that?
+DOCTOR: Because it looks like DOCTOR wanted you to have a run-off.
+PATIENT: A run-off?
+DOCTOR: Yeah basically a CT scan to look at your arteries.  They didn't do it right?
+PATIENT: No.  They said because of the kidneys I wasn't drinking enough water or whatever.
+DOCTOR: Yeah.
+PATIENT: But I think I did it at Rush.
+DOCTOR: They did the run-off?
+PATIENT: Because they.
+DOCTOR: Back in January of when did you go to Rush?
+PATIENT: In March or whenever it was.
+DOCTOR: March 26th.
+PATIENT: Because they did a procedure on me.
+DOCTOR: Yeah.  They did the run-off because.
+PATIENT: And then they.
+DOCTOR: When did you go to Rush?
+PATIENT: What it's not in there and this is all the paper shit I got to fill out for.
+DOCTOR: No they did, they didn't put in another stent right?
+PATIENT: No they just.
+DOCTOR: They said you had mild, you didn't have like significant?
+PATIENT: No they said, no in January or December they want me to go back and they want to check all my neck veins and everything.
+DOCTOR: Well I could check them here.  What’s cheaper for you, there or here?
+PATIENT: I'd go with Medicare.
+DOCTOR: Okay and they'll take care of the rest?
+PATIENT: Yeah, Medicaid or whatever.
+DOCTOR: Yes.
+PATIENT: I could go to either one.  I can go here but they didn't want to do it last time so when I went to Rush and I told them that it was bothering me they just did it on this side first time and then when they put the stents they did it in my leg.
+DOCTOR: Yeah.
+PATIENT: On this side.
+DOCTOR: Uh-huh.
+PATIENT: Then when they put it on this side they what do you call that, whatever they do.
+DOCTOR: You had a catheterization.
+PATIENT: Right they did that again and they go it looks okay but we got to wait and see cause we're not sure.  I tell them whatever but this leg keeps hurting right along with my arm and everything.
+DOCTOR: Yeah.
+PATIENT: And then the stupid neck pain and my headaches and I've never had headaches, only when I had hangovers but I don't drink no more.
+DOCTOR: Yeah.  Well I can order the carotid Dopplers.  It might take a few days or maybe a week.  It's up to you if you want me to go ahead and order it.
+PATIENT: Yeah I can come over here.
+DOCTOR: What's closer to your house?
+PATIENT: Here.
+DOCTOR: Here.
+PATIENT: I live right down on Burlington, right off of Ogden.  Yeah I mean I could do that.  He said, he mentioned something that I might have to get another stent in my leg or something but I told him whatever you are the doctors I don't know.  I already got three.  And besides DOCTOR the guy who wrote to you, he's retired.
+DOCTOR: Hmm.
+PATIENT: So my cardiologist, so I don't know.  And the one that did the surgery on me is there so that's a procedure it's not a surgery.  He's still there but.
+DOCTOR: Yeah [REDACTED].  Let me listen to your neck.  And they've never done surgery right?
+PATIENT: No.
+DOCTOR: On your neck.
+PATIENT: No just on the back.  They did my back surgery but that was like a million years.  They did surgery on L5.
+DOCTOR: Okay so then hopefully they set up the appointment on, I would let the clerk know.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Would you be interested in, so you need to call about the drops.  And you wanted Dermatology?
+PATIENT: Yeah they said they were gonna put me there for these stupid skin tags I got.  I got them all over the place, the neck and everything.
+DOCTOR: Yeah I don't know if they'll take them off actually.
+PATIENT: They said they would laser them or something.  I don't care I mean unless they got that tree oil stuff or whatever it's called.
+DOCTOR: No, they usually just to cut them off [REDACTED].
+PATIENT: Oh really?
+DOCTOR: Yeah they just cut.
+PATIENT: Whatever.  If they do it then, let's do the important things first.
+DOCTOR: Okay you don't have to do that cause I'm ordering a lot already.
+PATIENT: Yeah.
+DOCTOR: So the carotid Dopplers um, vascular studies.
+PATIENT: The skin tags I've had them, I don't know I just started getting that.
+DOCTOR: Alright.  I'll have you come back in like three months.
+PATIENT: Okay.
+DOCTOR: Okay.  And then alright.  Do you want the, you don't know if you had chicken pox as a kid?
+PATIENT: Yeah I don't know.
+DOCTOR: Do you know if your brothers had it?
+PATIENT: [REDACTED].  I don't know.
+DOCTOR: Remember when you were a kid.
+PATIENT: No not that I know of.
+DOCTOR: Hmm.  Okay, I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: 147:40  DOCTOR IN:  159:01
+DOCTOR: Alright.  I want to order some labs for you in three months.
+PATIENT: Uh-huh.
+DOCTOR: That way I get the labs that I want because I had all these labs ordered on May.
+PATIENT: And they didn't do them.
+DOCTOR: Well they didn't do them because it was so long ago May, June, July, August, that's why.
+PATIENT: Oh.
+DOCTOR: So.
+PATIENT: Well we could do like I did today, come early.
+DOCTOR: Yeah.  So what I'll do is I'll just order them for like in the future.
+PATIENT: Uh-huh.
+DOCTOR: Alright next time you're here, alright.  That way I'll get the.  How about you come back in three months okay?
+PATIENT: Okie dokie.
+DOCTOR: Alright.  You know what else I'm gonna order.
+PATIENT: Hmm.
+DOCTOR: I'm gonna order a neck x-ray for you.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  So the x-ray you can get at any time, just show up to the x-ray area alright.  I don't know if you have time today.  You could come back tomorrow, you could come back next week but the order is in there okay.  So a neck x-ray.
+PATIENT: That's downstairs by the Blood Bank right?
+DOCTOR: Yeah, yeah.  So it depends on how much time you have okay.
+PATIENT: Well I'll just see what they're doing down there.
+DOCTOR: And I'll call you if your cholesterol is high.
+PATIENT: Yeah.
+DOCTOR: Alright.
+PATIENT: Yeah they didn't do that one yet, right, that didn't come in.
+DOCTOR: So, they're gonna do them we'll see what.  I'd call them right now to see if they could do it.  If they don't do it then we're gonna have to get it when you come back.
+PATIENT: Yeah.
+DOCTOR: Alright, alright.
+PATIENT: Okay doc.
+DOCTOR: Alright.  So who you gonna go talk to in a little while?
+PATIENT: The eye doctor.
+DOCTOR: Yes.  And who you gonna call about your medications?  Pharmacy.
+PATIENT: Pharmacy.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: Alright and then just.
+PATIENT: And I'm gonna see if they're not busy at X-ray.
+DOCTOR: Yep.  Alright there you go.
+PATIENT: Alright so we'll see you, bye.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  38295
+TRANSACTION # 578-10-2-316-0103

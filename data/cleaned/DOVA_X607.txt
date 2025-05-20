@@ -1,0 +1,155 @@
+DOCTOR: PATIENT?  Come on in.  How you doing sir?
+PATIENT: Okay.
+DOCTOR: What brings you in today?
+PATIENT: Just my regular appointment.
+DOCTOR: Just a regular appointment?
+PATIENT: Yeah, yeah.
+DOCTOR: Good.  How's everything going at home?
+PATIENT: Fine.
+DOCTOR: I saw you went and saw the dermatologist.  They removed that little thing [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Yeah um I was, um so they said just to make sure there was nothing abnormal.
+PATIENT: Right.
+DOCTOR: About it, no cancer or anything.
+PATIENT: Okay.
+DOCTOR: Kind of what they were thinking, so um but um how's everything else going?
+PATIENT: Everything is going fine.
+DOCTOR: Any chest pain, shortness of breath?
+PATIENT: A little bit, sometimes I get tired.
+DOCTOR: When do you get tired?
+PATIENT: Like on the weekends.  I slept two days. I seem to be tired.
+DOCTOR: Okay.  So no [REDACTED]?
+PATIENT: Yeah maybe so cause I do take a bus ride.
+DOCTOR: Okay.
+PATIENT: But I slept on the bus too but other than that I'm okay.
+DOCTOR: Okay.
+PATIENT: I'm still able to be walking [REDACTED].
+DOCTOR: Okay.  Your pacemaker hasn't gone off at all?
+PATIENT: No.  Uh yeah but it didn't go off but it shocked me or something.  I got a ticket and I went through a red light and the camera's went off and the thing did something.
+DOCTOR: Okay.
+PATIENT: I don't know if it's just the.
+DOCTOR: Have you gone back to see them recently, the cardiologist?
+PATIENT: I have an appointment I think in about a month or so.
+DOCTOR: Okay.
+PATIENT: And they were going to [REDACTED] it.
+DOCTOR: Okay.  Huh, I've never heard of that.
+PATIENT: Well the two lights went off at the same time, I don't know if it was [REDACTED] or what, the thing did [REDACTED].
+DOCTOR: Did you feel?
+PATIENT: I felt a little stick, like a stick.
+DOCTOR: Okay.
+PATIENT: It started feeling like I was having a heart attack, but it might have just been the light cycling.
+DOCTOR: Okay.
+PATIENT: But other than that, I continued on [REDACTED].
+DOCTOR: Um let's see your blood pressure is good today.  Are you taking all your blood pressure medicines regularly?
+PATIENT: I haven't taken it yet.
+DOCTOR: You haven't?
+PATIENT: No.
+DOCTOR: Okay.  Your blood pressure was fine uh right now.  You're not on a lot of blood pressure medicines, just the one.
+PATIENT: [REDACTED].
+DOCTOR: That's fine um let's see.  And we checked your cholesterol back in January and it was okay.  Um when do you see the urology doctors next?  For the prostate?
+PATIENT: I don't know.  I don't know.
+DOCTOR: And you saw in October.  They just want to see you every uh.
+PATIENT: Every six months I think.
+DOCTOR: Every year.
+PATIENT: Every year, oh that’s great, that's fine.
+DOCTOR: So that's good so you're fine for a while.
+PATIENT: That’s fine.
+DOCTOR: Um let's see.  So we checked, the last time you mentioned that your calcium was high when you had um, you had um gone to a community fair and they test your calcium in your urine or something.  Do you remember talking about that?  They checked um.
+PATIENT: Yeah they did and they said it was a little high.
+DOCTOR: And it was a little high um here but not too high, um just barely over um.  So they said it's just a tad high um in the blood.
+PATIENT: Uh-huh.
+DOCTOR: And they checked um a few other things um and it looks like you have what's called hyperparathyroidism.  So you have the thyroid gland here, in your neck, and inside, kind of behind it, it's just there's these four small, they are like this big, they’re real soft.
+PATIENT: Hmm.
+DOCTOR: Um there are four little glands behind the thyroid called the parathyroid um and that is something that, that's the gland that regulates the calcium in our bodies.
+PATIENT: Okay.
+DOCTOR: Okay and sometimes for whatever reason um this will, it just is overactive okay.  Um we can send you to the endocrine doctors to have them talk to you more to see if you can do something about it.  Do you want to do that?
+PATIENT: Is it that severe?  I mean.
+DOCTOR: Uh it's not real high.
+PATIENT: Is it something I have to look at?
+DOCTOR: It's not real high but it might be worth talking to them about it to see if they think.  You know they may just say follow it, there's nothing we could do right now.
+PATIENT: Okay.
+DOCTOR: But.
+PATIENT: [REDACTED].
+DOCTOR: Why don't you have a seat up here?  Other than that I think everything else is pretty good here.  Um, you're not due for anything else right now.
+PATIENT: No you know I got a little soreness in there.
+DOCTOR: Okay and that's where.
+PATIENT: When they put this pacemaker in.
+DOCTOR: Okay.
+PATIENT: I don't know if it's from the pacemaker.
+DOCTOR: It might be.
+PATIENT: Or where it's lying or what.
+DOCTOR: It may be the way that.
+PATIENT: If it's kind of laying on my back.
+DOCTOR: You know it may be the way you're lying now and you know if you're kind of.
+PATIENT: Yeah cause I'm still concerned about the pacemaker.
+DOCTOR: Right in that area?
+PATIENT: Yeah oh yeah.
+DOCTOR: Have a seat.  No chest pain then?
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: No.
+DOCTOR: Let me just take a listen.  Deep breath good.  No belly pain?
+PATIENT: No.
+DOCTOR: Okay.  Do your feet swell up at all?
+PATIENT: Never.
+DOCTOR: Never.
+PATIENT: I never notice it.
+DOCTOR: Great, alright.  Well um let me talk to DOCTOR real quick and I'll be right back.
+PATIENT: Okay.
+DOCTOR: Alright?
+PATIENT: Alright thank you.
+(DOCTOR OUT:  28:00 DOCTOR IN:  34:50)
+DOCTOR: Alright.  Let me make an appointment to the endocrinology doctors.
+PATIENT: Uh-huh.
+DOCTOR: They'll schedule it for you out at the front desk okay.
+PATIENT: Okay.
+DOCTOR: You can sit back over there while I put that in if you want.
+PATIENT: Okay, thank you.
+DOCTOR: Um.  Um.
+PATIENT: I'll pick up the medicine too, also.
+DOCTOR: I'll make sure they're all renewed.
+PATIENT: Okay thank you.
+DOCTOR: [REDACTED].
+PATIENT: Thank you.
+DOCTOR: Um and then they want you, before you come to the Endocrine Clinic, they want to have a few more blood tests done.
+PATIENT: Before I go where?
+DOCTOR: To the Endocrine Clinic so.
+PATIENT: Okay.
+DOCTOR: So stop at the Lab today and I'm going to put in your meds first.
+PATIENT: Oh go.
+DOCTOR: Alright so all your medicines are renewed.
+PATIENT: Uh-huh.  Yeah they gave me a salve for my dry skin.  I have real dry feet.
+DOCTOR: Uh-huh.
+PATIENT: And they gave me a salve and it's, I've used it all up.  I don't know if it's still in the computer or not.
+DOCTOR: I can look.
+PATIENT: Can you find that please?
+DOCTOR: Yeah.
+PATIENT: I really need that.
+DOCTOR: Let's see here.  I don't see it in here.  How long ago did they give that to you?
+PATIENT: It's been quite a while ago.  It's been, oh I've had it about two years.
+DOCTOR: Oh here we go.  I put this in.
+PATIENT: Okay thanks.
+DOCTOR: Alright.  Do you want those mailed out to you or do you want to pick it up today?
+PATIENT: Uh probably I can pick it up today.
+DOCTOR: Okay.  Alright, so stop by the Lab, two of the tests are a urine test and one of the tests is a blood test.
+PATIENT: Uh-huh.
+DOCTOR: So go get that done, stop by and pick up your medicines.
+PATIENT: Okay.
+DOCTOR: And then give this to the front desk.
+PATIENT: Okay.
+DOCTOR: And tell them you need an appointment in the Endocrine Clinic okay.
+PATIENT: Okay.  Thank you.
+DOCTOR: And they can schedule that up for you.
+PATIENT: Okay.
+DOCTOR: You're all set.
+PATIENT: Thank you.  Stop first.
+DOCTOR: Yeah and I'll put in here for you to come back in oh probably six months.
+PATIENT: Okay.
+DOCTOR: I think you're doing pretty good.
+PATIENT: Alright, thank you.
+DOCTOR: Okay.
+PATIENT: 39:00
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275407
+TRANSACTION # 578-10-2-316-0103

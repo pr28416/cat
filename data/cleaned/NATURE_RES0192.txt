@@ -1,0 +1,120 @@
+DOCTOR: How may I help you?
+PATIENT: Hi, I'm I'm coming in because um I've had a lot of shortness of breath and I I've had this cough that won't seem to go away.
+DOCTOR: I see alright, so when does the shortness of breath happen it? Do you have it at rest or is it on exertion?
+PATIENT: Mostly on exertion.
+DOCTOR: OK, how far are you able to walk before you get shorter breath? Or how many flights of stairs are you able to do?
+PATIENT: Uh maybe like 2 flights of stairs?
+DOCTOR: OK. And when did you notice that the change?
+PATIENT: So I've had this shortness of breath like at first it was pretty mild. It started about, four months ago, but over the past month or so, it's been it's been worse.
+DOCTOR: OK, so a bit so it's been going on for a bit of time now.
+PATIENT: Yeah,
+DOCTOR: OK um. Do you, are you able to lie down flat without experiencing shorter breath?
+PATIENT: Yeah, I think so. I think that's fine.
+DOCTOR: OK, um so so it sounds like no orthop is what they call it, and have you had any episodes where you wake up in the middle of the night and you're short of breath and you need to sit up an end to catch it?
+PATIENT: Uh no.
+DOCTOR: OK, and have you had any leg swelling?
+PATIENT: No.
+DOCTOR: OK. Any, you mentioned that you've had a cough as well. How long have you experienced a cough for?
+PATIENT: Uh, the cough also around the same time it started off pretty mild, but now I like I have it all the time.
+DOCTOR: OK, are you coughing up any sputum or any phlegm?
+PATIENT: Uh no it's it's pretty dry.
+DOCTOR: Are you coughing up any blood?
+PATIENT: No.
+DOCTOR: OK. And have you had any um wheezing?
+PATIENT: No wheezing.
+DOCTOR: OK. How how about any chest pain?
+PATIENT: Uh no chest pain, I guess with the coughing 'cause I'm coughing so much it hurts but not chest pain in the sense like it's in the area of my heart or anything like that.
+DOCTOR: OK, so does that. Like how would you describe it? Is it like sharp, achy, uh dull or pressure like?
+PATIENT: Um it's a. It's kind of like a tugging feeling.
+DOCTOR: OK, um it does it go away after you're done coughing,
+PATIENT: Yeah.
+DOCTOR: I see OK. And have you experienced any um any headaches?
+PATIENT: No, no headaches.
+DOCTOR: OK, how about any um? Like eye redness or eye discharge?
+PATIENT: No.
+DOCTOR: any ear pain or your discharge?
+PATIENT: No.
+DOCTOR: How about any changes to vision or hearing?
+PATIENT: No.
+DOCTOR: OK. Have you had a runny nose or sore throat?
+PATIENT: No.
+DOCTOR: OK, how about um any changes to or have you had any loss of smell or any loss of taste?
+PATIENT: No.
+DOCTOR: OK. And have you had a loss of appetite?
+PATIENT: No.
+DOCTOR: OK, and have you had any unexpected weight loss over the last several months?
+PATIENT: Um I have had some weight loss actually. About 15 pounds over the past six months.
+DOCTOR: OK, and have you been trying to lose weight?
+PATIENT: No.
+DOCTOR: OK. Um have you had any fevers?
+PATIENT: No.
+DOCTOR: Have you had any chills?
+PATIENT: No.
+DOCTOR: Have you had any night sweats?
+PATIENT: No.
+DOCTOR: OK. Um and have you had any heart palpitations or feeling like your heart's racing?
+PATIENT: No.
+DOCTOR: Have you had any fainting or lightheadedness or dizziness?
+PATIENT: Um no.
+DOCTOR: OK. Um have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any nausea or vomiting?
+PATIENT: Uh no.
+DOCTOR: have you had any diarrhea or constipation.
+PATIENT: No.
+DOCTOR: And, have you had any skin rashes?
+PATIENT: No.
+DOCTOR: Have you had any muscle aches or joint pains?
+PATIENT: No.
+DOCTOR: And have you had any ah confusion or memory loss?
+PATIENT: Uh No.
+DOCTOR: OK, OK, and how is your energy been uh recently have you had any fatigue or malaise?
+PATIENT: Um no.
+DOCTOR: OK, alright so it sounds like this this dry cough and then and shortness of breath it is mostly what you been um experiencing and have you been diagnosed with any medical conditions?
+PATIENT: Ah I have uhm a COPD.
+DOCTOR: OK, um and do you use uh any medications or any inhalers?
+PATIENT: Um know it's very mild. I it’s yeah, so I haven't really. I was just recently diagnosed so uhm I haven't been started on any medications just yet.
+DOCTOR: OK, did you, do I I pulmonary function tests where you're breathing into a tube,
+PATIENT: yeah
+DOCTOR: Alright. Yeah, and uhm do you have any allergies?
+PATIENT: No.
+DOCTOR: Um and have you had any hospitalizations or any previous surgeries?
+PATIENT: No.
+DOCTOR: OK and could you tell me a little bit about your living situation? Like where you're living and who you're living with?
+PATIENT: I live in a house with my husband.
+DOCTOR: OK, and has your husband been sick or anybody you've been around been sick?
+PATIENT: No.
+DOCTOR: OK. And are you currently working?
+PATIENT: Yeah, so I. I'm working in construction. Um I used to work in shipyards before, but recently I've I've been doing some construction, nothing heavy, ah just working on some old buildings. I’ll ust take the odd job or something that comes up. It's not full time.
+DOCTOR: OK. And any concerns for like exposures while you're at work in terms like breathing in any dusts or any fumes.
+PATIENT: Um were given a um personal protective equipment um for those concerns, but when I was younger I used to work a in shipyards and constructions and like old buildings and stuff, and I know there was some concern for not being ah properly equipped with the right equipment for protection and safety at that point so. Uh yeah, it's possible. I've been exposed to some things.
+DOCTOR: I see is there a chance that there could have been asbestos at any of those places that you worked?
+PATIENT: Yeah, asbestos or mold. Yeah, you name it. Probably everything.
+DOCTOR: Yeah, I see this was like 10 years ago 20 years ago or or longer?
+PATIENT: Yeah, and so it would have been. Yeah, about like 30 years ago or yeah 30, 40 years ago and. I worked in those places for 30 to 40 years, so. Around that time.
+DOCTOR: OK, and do you smoke cigarettes?
+PATIENT: Um I quit recently since I found out that I might have COPD.
+DOCTOR: Oh congratulations, it's not easy to quit.
+PATIENT: Thank you.
+DOCTOR: Uh and do you drink alcohol?
+PATIENT: Uh once in a while? I’ll have a glass of wine once a week.
+DOCTOR: OK, and do you use recreational drugs?
+PATIENT: Um no I don't.
+DOCTOR: OK. Um and uh are there any heart or lung conditions that run in the family?
+PATIENT: Uh no.
+DOCTOR: OK, are there any cancers that are in the family? Like anybody who's had lung cancer?
+PATIENT: Um. No, not that I can think of.
+DOCTOR: OK. And um have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: OK, and are you currently sexually  active?
+PATIENT: I am.
+DOCTOR: OK um and can you tell me about your partner or partners? Is it's at your husband or um anyone else?
+PATIENT: Just my husband yeah.
+DOCTOR: OK and any concerns for ah sexually transmitted infection?
+PATIENT: No.
+DOCTOR: OK. And I think that was everything that I wanted to ask on history today. Um was there anything else that you wanted to add that I maybe forgot about?
+PATIENT: Um no that was it, but how like what can I take to make these symptoms go away?
+DOCTOR: Well yeah, so at this time It will be important to get some lung imaging and and possibly, some other investigations as well because of your exposure uh to inhalants and fumes, and possibly asbestos. So I’m concerned there could be possibly an asbestos related lung illness that that you have. Um and so it will be important to investigate for, yeah possibly a asbestos related lung cancer,
+PATIENT: OK?
+DOCTOR: Yeah.
+PATIENT: OK, thank you.

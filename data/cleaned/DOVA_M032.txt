@@ -1,0 +1,381 @@
+DOCTOR: PATIENT?
+PATIENT: Pardon?
+DOCTOR: How you doing today?
+PATIENT: Pretty good and yourself?
+DOCTOR: I'm good.  I'm DOCTOR, I work with DOCTOR.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: Um so yeah.
+PATIENT: [REDACTED].
+DOCTOR: Um, I was talking to DOCTOR, who I know you saw last time.
+PATIENT: Yeah.
+DOCTOR: Um so how you doing today?
+PATIENT: Still have back pain.
+DOCTOR: Okay.
+PATIENT: And the headaches.
+DOCTOR: When do you see [REDACTED] again?
+PATIENT: Uh I just saw them Monday.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: And they said that they were still waiting for the report?
+PATIENT: I don't know.
+DOCTOR: Is that right?  Cause I think they're the ones that have to make the decision if they want to treat your headache so what they want to do.
+PATIENT: Okay.
+DOCTOR: Okay um it looks like from your tests though that the EEG that they did where they stuck all those electrodes on your head.
+PATIENT: Right.
+DOCTOR: It looked normal.  So the findings were normal and symmetrical patterns were seen.  No evidence was seen in the sleep and waking methods or any focal or diffuse abnormalities so that's good.  At least they don't see anything wrong.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: But she said something about a concussion, a mild concussion or something.
+DOCTOR: Are they gonna do?  Well on the EEG Report it doesn't show any of that.  Um I don't know what she said.  If she said anything about a concussion because she didn't write anything about it and then are they gonna do like a MRI or anything like that?  Oh they did the MRI.
+PATIENT: Well they did most of all the testing.
+DOCTOR: Okay.
+PATIENT: I don't know about any more testings.
+DOCTOR: Okay.
+PATIENT: The only thing that she said that it would be in a report was a mild concussion.
+DOCTOR: Okay.
+PATIENT: I [REDACTED].
+DOCTOR: I think we need to have you see the neurologist again though.
+PATIENT: Uh when?
+DOCTOR: To see if they want to do anything about it.  Um.
+PATIENT: Just saw them Monday.
+DOCTOR: They basically said awaiting results of the ABER for post concussive symptoms.
+PATIENT: Okay.
+DOCTOR: And loss of balance.  Seen by ENT surgery who have suggested surgery treatment of migraine equivalent if the ABER  result is also normal.  And the ABER results are normal so that's, they probably recommend treating the migraine then.
+PATIENT: Okay.
+DOCTOR: Okay.  Um, regarding your back pain [REDACTED] of the entire back.  Um, when was that done? October. Okay.  What are you taking for pain?
+PATIENT: Well I'm taking the tramadol.
+DOCTOR: Okay.
+PATIENT: And the neurologist asked me to cut back on the, cut back on the um Tylenol because they can damage my liver.
+DOCTOR: Can hurt your liver.
+PATIENT: Yeah they can damage my liver.
+DOCTOR: Okay.
+PATIENT: And uh they want me to take the Tylenol just rather than four times a day, take it one time a day.
+DOCTOR: Okay.
+PATIENT: Just to cut back you know, but what I'm saying after I cut back.
+DOCTOR: Uh-huh.
+PATIENT: Then what am I gonna use for the pain?
+DOCTOR: Hmm.
+PATIENT: I know that they increased the dosage of tramadol to 50%.
+DOCTOR: Uh-huh.
+PATIENT: I don't know, I know they increased one of them to 50%.
+DOCTOR: So how often are you taking the Tylenol right now?
+PATIENT: I was taking it four times a day.
+DOCTOR: Is that one tablet or two tablets four times a day?
+PATIENT: Two tablets four times a day.
+DOCTOR: And now what are you taking?
+PATIENT: Now I'm taking two tablets once a day.
+DOCTOR: Okay.
+PATIENT: Because they said I've been taking the Tylenol for a long period of time.
+DOCTOR: Uh-huh.
+PATIENT: Which has been over a year.  Almost a year and six months.
+DOCTOR: Okay and the tramadol how much or how often are you taking it?
+PATIENT: The tramadol twice a day.
+DOCTOR: Okay.  So you can take the tramadol up to four times a day.
+PATIENT: Increase it?
+DOCTOR: Yeah you can take it up to four times a day.  That's how it's order at least.  Do you have your bottles?
+PATIENT: No I don't have it.
+DOCTOR: Yeah if you read the medication bottle it says it on there too.
+PATIENT: Okay.
+DOCTOR: Um the Tylenol, I don't know why they would tell you to take less.  You've had liver function tests done.
+PATIENT: Yes.
+DOCTOR: And that was in February.
+PATIENT: Yes.
+DOCTOR: And they actually don't look bad so you can actually take more Tylenol than just two tablets once a day.
+PATIENT: What are you suggesting we take?
+DOCTOR: Um the maximum dose is taking two tablets four times a day.
+PATIENT: So that's eight tablets a day.
+DOCTOR: Right.
+PATIENT: That's what I was taking.
+DOCTOR: That was, yeah that's the maximum you can take per day.
+PATIENT: Go back to taking them?
+DOCTOR: Well how's your pain doing?
+PATIENT: Well I'm still with the pain.
+DOCTOR: Is it mostly back pain?
+PATIENT: No both, headaches and back pain.
+DOCTOR: Okay.
+PATIENT: So what I'm asking you is.
+DOCTOR: Is what you should do.
+PATIENT: Because the neurologist said cut back now you're telling me to keep taking them.
+DOCTOR: Well I don't know.  The neurologist really didn't write too much in her note here um, why she would actually say that.
+PATIENT: Because she said because of my liver.
+DOCTOR: Yeah.  If you take it in high doses or more than the recommended amount yeah.
+PATIENT: But I'm just taking what's recommended.
+DOCTOR: I understand.
+PATIENT: On the bottle you know.  Why would she say cut back on it and you said take more?
+DOCTOR: I think take what's recommended on the bottle.
+PATIENT: Okay.
+DOCTOR: Your liver isn't bad, right?  Are you a drinker?
+PATIENT: I don't drink.
+DOCTOR: No, oh well, okay.  Um let's see.  So then how have your sugars been doing?
+PATIENT: I assume it was normal, I'm not sure.
+DOCTOR: Do you check it every day?
+PATIENT: Yes I checked it uh once every day.
+DOCTOR: Your sugars.
+PATIENT: I check it in the morning and don't check it that evening, check it the following evening after the meal, two hours after meals that's what he told me now.
+DOCTOR: Okay.  Do you have the numbers?  You have a lot of sugars in the 90s. Do you eat a lot of sugary food at night?
+PATIENT: Um not, I'm trying to stick with it.  Sometimes I fall off you know.  I try to keep up with it.
+DOCTOR: Actually they're not too bad.  You've got [REDACTED] here now.
+PATIENT: Guess that's when I fall off the wagon as they say.
+DOCTOR: Why did you check your blood sugar at 2:08 in the morning, is the timing on these right?
+PATIENT: I don't know.
+DOCTOR: When was the last time you checked your blood sugar?
+PATIENT: I checked it.
+DOCTOR: The 135 and what time is that from?
+PATIENT: That uh in the morning, that was last night the last one.
+DOCTOR: This 130 happened last night?
+PATIENT: Yeah.
+DOCTOR: You're gonna have to, take it to the pharmacist today, have him change the time.
+PATIENT: Okay.
+DOCTOR: Because it says 1:12 p.m. so this looks like its yesterday after lunch.
+PATIENT: Just take it to the Pharmacy and tell them to change the.
+DOCTOR: Yeah, they need to change the settings.
+PATIENT: I'm not up at 1:47 in the morning.
+DOCTOR: That's what I, well yeah, this is at 1:12 p.m. and then this is at 2:08 a.m. which doesn't make too much sense.
+PATIENT: No, no.  I'm not up that time of the morning.
+DOCTOR: Uh-huh.
+PATIENT: Is the time incorrect, can you set it?
+DOCTOR: I don't know how to set it.  That's why I said take it to the pharmacist, it's the first door on the right and they can actually do it for you.
+PATIENT: Is it all the way down?
+DOCTOR: No on this hallway.
+PATIENT: Uh-huh.
+DOCTOR: The first door on the right, with the blond lady, short blond hair.  She's with DOCTOR [REDACTED].
+PATIENT: Where about over here?
+DOCTOR: Yeah.
+PATIENT: Straight across?
+DOCTOR: In this hallway.  It's the first, when you're coming towards this way it's the first door on the right.
+PATIENT: Alright.
+DOCTOR: So when you're leaving here, it's the last door on the left.
+PATIENT: Okay so it's just like where the uh blood test area?
+DOCTOR: I'll take you there, don't worry about it.
+PATIENT: Because the only pharmacist I know of is the one all the way at the end down there.
+DOCTOR: Hmm.  Are you taking amitriptyline at bedtime?
+PATIENT: Yes.
+DOCTOR: Is that helping at all?
+PATIENT: Uh, cause I don't, because I'm not, at least I'm getting some sleep.
+DOCTOR: Uh-huh.
+PATIENT: You know.  It [REDACTED] tend to be up most of the night.
+DOCTOR: Are you still taking meclizine?
+PATIENT: Yes I am.
+DOCTOR: You are taking it three times a day?
+PATIENT: Taking all my meds, even some of the stomach.
+DOCTOR: Are you still smoking?
+PATIENT: No I'm trying to cut back.
+DOCTOR: And when was the last time you had a cigarette?
+PATIENT: Uh day before yesterday.
+DOCTOR: How often are you smoking?
+PATIENT: I'm trying to smoke as less as possible.
+DOCTOR: I know but like how often, like four cigarettes a week or?
+PATIENT: Uh something like two maybe three.
+DOCTOR: Okay.
+PATIENT: I cut way back on the smoking.
+DOCTOR: Uh-huh.
+PATIENT: I used to smoke a pack every other day.
+DOCTOR: Okay, so you’ve been making progress, then.
+PATIENT: This gum has helped it sometimes but sometimes you just get the craving.
+DOCTOR: Uh-huh.
+PATIENT: Nothing like that cigarette [REDACTED].  So it's alright because I [REDACTED] somebody from the Surgery Clinic that was supposed to be for March 4.
+DOCTOR: What happened?
+PATIENT: They called my house.
+DOCTOR: Uh-huh.
+PATIENT: And they just wanted to know that, they called back again and scheduled me for surgery.
+DOCTOR: For your hand?
+PATIENT: This Friday.  Yes it is.
+DOCTOR: Okay.
+PATIENT: This Friday.
+DOCTOR: Okay.
+PATIENT: And everything is normal for that.
+DOCTOR: Okay, your sugar could be under slightly better control but you should be okay yeah.
+PATIENT: Okay.  I thought [REDACTED] that day, that I was doing great.
+DOCTOR: Yeah, it's just that we need to recheck some labs today to see how you're doing.  And uh you ate today I take it?
+PATIENT: I ate this morning.
+DOCTOR: Has it been eight hours since you ate?
+PATIENT: No.
+DOCTOR: No okay.
+PATIENT: It was about 10 this morning.
+DOCTOR: We need to retest your total cholesterol again. Sit up here.  How's your dizziness?
+PATIENT: Well I haven't fallen lately.
+DOCTOR: You haven't.
+PATIENT: That's a good thing.
+DOCTOR: Okay.
+PATIENT: Wasn't like when it first started.
+DOCTOR: Uh-huh.
+PATIENT: Which was, I had to hold on to something; at least now my head is not spinning.
+DOCTOR: Okay.
+PATIENT: Because it was before.  It was like my head was like spinning when I get up.
+DOCTOR: Uh-huh.
+PATIENT: Spinning when I go to sleep to lay down so at least that's not spinning.  So evidently the meclizine is doing some good.
+DOCTOR: Yeah.  Deep breath.  Just breathe normally.  Swelling in your legs?
+PATIENT: Pardon?
+DOCTOR: Swelling in the legs?
+PATIENT: I don't know.
+DOCTOR: It's kind of thin there.  Did you put some lotion on there?
+PATIENT: Yeah but I'm peeling now.  You see the [REDACTED] on my sock?
+DOCTOR: Uh-huh.
+PATIENT: It's like I shed down on here.
+DOCTOR: You shed a lot?
+PATIENT: In the winter.
+DOCTOR: [REDACTED] or down here.
+PATIENT: Coming into spring.
+DOCTOR: Okay.  Didn't feel too good with that.
+PATIENT: Yep.
+DOCTOR: You feel a little dizzy.
+PATIENT: Yeah you’re moving too fast.
+DOCTOR: Have a seat down there.  Let me go grab DOCTOR and see if we can try to figure out what we're gonna do for your pain.  Alright, I'll be back.
+PATIENT: Okay.
+DOCTOR: Okay one sec.
+(DOCTOR OUT:  61:19  DOCTOR IN:  68:29)
+DOCTOR: Okay um for the Tylenol, [REDACTED] okay, I’m going to write on the front here that you need to follow-up with neurology [REDACTED].
+PATIENT: Okay.
+DOCTOR: Um and we need to check some labs.  [REDACTED].
+PATIENT: Huh?
+DOCTOR: The hemoglobin A1c which is a marker to see how your sugars have been doing, so we need to get that, the cholesterol and um [REDACTED] level.
+PATIENT: Okay.
+DOCTOR: Um and then one more thing, the metformin that you're taking for diabetes, we're gonna bump it up a little bit.  Um you're on 500 mg twice a day, we're gonna go up to 850 [REDACTED] a day.  And the metformin shouldn’t cause any low blood sugars, but your sugars are still high and we need to get them lower.  Do you usually get your meds by mail or do you want to pick them up?
+PATIENT: No I'll pick it up.
+DOCTOR: Okay.
+PATIENT: I'd rather pick it up than for it to be sent out because then it goes to the post office and it sits there and so then I have to go.
+DOCTOR: [REDACTED].
+PATIENT: See them coming last week, it was the only week I had a small week.  I had no visits last week.  That's only the weekend [REDACTED].
+DOCTOR: Okay.
+PATIENT: I been pretty regularly.  I don't think I missed any appointments.  I try to keep them all.  I have to go back to my Wellness but since I've been a diabetic I haven't went there, maybe that’s why my [REDACTED] went back up.  I had about five [REDACTED] and I haven't been [REDACTED].
+DOCTOR: Okay.
+PATIENT: So I have to go back to the Wellness Center, plus that helps my back also.
+DOCTOR: Okay.  Since you ate today I don't want you to get the blood draw done today.  Is there a way you could come back come back fasting in the morning.
+PATIENT: Well I have to be out here in the morning.
+DOCTOR: For labs.
+PATIENT: I have an appointment.
+DOCTOR: Oh.
+PATIENT: Tomorrow morning and I got an appointment with the nurses.
+DOCTOR: Oh well that's okay.  Well then maybe tonight after midnight you don't eat anything.
+PATIENT: Okay.
+DOCTOR: Then tomorrow first thing you come and get your labs done.
+PATIENT: Okay and then you want me to, you want to check [REDACTED].
+DOCTOR: Yeah I'll put that in right now.
+PATIENT: Okay.  You gonna sign me out.
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: You get transportation.
+PATIENT: [REDACTED] my transportation because [REDACTED].  The only thing you got to do is sign me out, that's it.  But they will give me a schedule at the desk.
+DOCTOR: Uh-huh.
+PATIENT: Then I go to Pharmacy and pick up my meds.  And don't take the other one.
+DOCTOR: Okay.
+PATIENT: Don't take the other, I'm taking two now.
+DOCTOR: Well, the metformin we just switched it, we just switched the dose.
+PATIENT: Okay now the metformin is the first one you gave me.
+DOCTOR: Right.
+PATIENT: Okay now what about the second one?
+DOCTOR: Keep taking that.
+PATIENT: In the morning.
+DOCTOR: Yeah.  Keep taking that.
+PATIENT: And take the metformin still twice a day.
+DOCTOR: Yeah but at the higher dose.
+PATIENT: Okay you giving me a higher dose.
+DOCTOR: Right.
+PATIENT: But it won't make my sugar go real low.
+DOCTOR: No the metformin doesn't bring your sugar down.
+PATIENT: Okay.  Okay, but the one I take in the morning makes it drop like that.  Okay.  Still take it?
+DOCTOR: Don't take it.
+PATIENT: Don't take the metformin that I have at home, you're increasing the dosage.
+DOCTOR: Right.
+PATIENT: So when the ones at home, throw them away.
+DOCTOR: Yes.
+PATIENT: Disregard, okay, cool.
+DOCTOR: You're [REDACTED].
+PATIENT: Okay.  No, I’m just trying to make sure.
+DOCTOR: Yeah I'll be here no.
+PATIENT: Because [REDACTED] losing me, I had never taking no meds and here it is I'm taking all these meds.
+DOCTOR: I know.  Give this to the clerk, oh hold on, give this to the clerk [REDACTED].
+PATIENT: Are you still going to take me to do this?
+DOCTOR: Yes, come on with me.
+PATIENT: Okay.  Oh man.  What [REDACTED].
+DOCTOR: Well the metformin will help regulate your blood sugar too [REDACTED], insulin and all kinds of other things but insulin makes your blood sugars, [REDACTED] but the metformin works in a different way.
+PATIENT: Okay.
+DOCTOR: Yeah, it does eventually get your blood sugars down but [REDACTED].
+PATIENT: So you gonna order me blood work to do up here.
+DOCTOR: I already put in the order.
+PATIENT: Okay.
+DOCTOR: Just come tomorrow morning and get it done, make sure you're fasting first thing in the morning.
+PATIENT: Okay.
+DOCTOR: So you should be set [REDACTED].
+PATIENT: Okay.
+DOCTOR: I think the clock figure, it was [REDACTED] today like at lunch time [REDACTED].  What was your sugar the last time you checked it last night?
+PATIENT: Uh, yesterday morning.
+DOCTOR: So it's like an hour ahead yeah.
+PATIENT: Cause yesterday I woke up late.
+DOCTOR: And your lunch sugar was at [REDACTED] or something and that was at 2 a.m., we know that's not right.
+PATIENT: [REDACTED].
+SECOND PERSON M032
+They time was like just an hour ahead actually.  It was reading like 3:54 instead of 2:54; let's just turn it back off and on to see.
+DOCTOR: Well did you check your sugar at 1 a.m. in the morning?
+PATIENT: Not in the morning.
+SECOND PERSON M032
+So yesterday was more like 12, at noon.
+DOCTOR: [REDACTED].
+PATIENT: In the day.
+DOCTOR: Yeah right.
+SECOND PERSON M032
+Have you been checking in the a.m., it says 2 a.m.?
+PATIENT: No.  I'm asleep.
+DOCTOR: What?
+PATIENT: [REDACTED].
+SECOND PERSON M032
+That's interesting.
+DOCTOR: [REDACTED].
+SECOND PERSON M032
+And it's right, I mean it's 10 o'clock right now and I don't know if maybe it wasn't working correctly but I guess if you want to just check and see on how it goes from now on.  But it is correct now.
+PATIENT: Okay.
+SECOND PERSON M032
+And maybe the averages are going to tell you more than those will.
+DOCTOR: [REDACTED]
+SECOND PERSON M032
+I know the 30 day it was [REDACTED]
+DOCTOR: Yeah [REDACTED] okay.
+SECOND PERSON M032
+Great.  Hope that's all set now.
+PATIENT: Okay.  But I haven't been nowhere at that time of day.
+DOCTOR: [REDACTED] time [REDACTED].
+PATIENT: Cause I been [REDACTED].
+DOCTOR: Uh what's that?
+PATIENT: [REDACTED] I don't think it works.
+SECOND PERSON M032
+It'll go back and will just give you an average over the past 30 days so if you haven't been checking for 30 days it would give you as many.
+PATIENT: Right.
+SECOND PERSON M032
+Even if you had checked it for 15 it will just give that average.
+PATIENT: Okay.
+SECOND PERSON M032
+And it was, ahead yeah, an hour.
+DOCTOR: Oh okay you lose an hour.
+SECOND PERSON M032
+You lose an hour yeah.  So on Sunday, just because the time is going to go ahead an hour, we'll need to change your time again but yeah, just so you know.  Cause it's um.
+PATIENT: So when I come here next week.
+SECOND PERSON M032
+Yeah we can change it for you, uh-huh.
+PATIENT: Just come in here.
+SECOND PERSON M032
+Yeah you can just come find me, no problem.
+PATIENT: Okay.
+SECOND PERSON M032
+Sure.
+PATIENT: I don't need an appointment for that.
+SECOND PERSON M032
+No you just pop in here, I'll take care of it.
+PATIENT: Okay.
+SECOND PERSON M032
+No worries, definitely we can do.
+PATIENT: And you're here five days a week.
+SECOND PERSON M032
+I'm here yeah, come find me.
+THIRD PERSON M032
+Let's just set up the appointment.
+PATIENT: Okay.
+SECOND PERSON M032
+Come find me.
+PATIENT: Okay, thank you.
+SECOND PERSON M032
+Okay.
+PATIENT: 77:12
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286121
+TRANSACTION # 578-10-2-316-0103

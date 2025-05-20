@@ -1,0 +1,385 @@
+DOCTOR: PATIENT.
+PATIENT: How you doing?
+DOCTOR: Good and yourself?
+PATIENT: Very good.
+DOCTOR: They drew blood from you?
+PATIENT: Yeah.
+DOCTOR: Okay.  Get this on, how have things been going?
+PATIENT: Okay.  But I say I got a problem.
+DOCTOR: Yeah.
+PATIENT: I'd uh like to know what the heck I'm supposed to take it.
+DOCTOR: Oh.
+PATIENT: I got 100 different bottles of medicine.
+DOCTOR: Hmm.
+PATIENT: And I got a decent idea but I was hoping.
+DOCTOR: Okay let's go through these all right now because yeah.
+PATIENT: If you could show me, four or five.
+DOCTOR: You shouldn't be on that many medicines actually.
+PATIENT: Right.
+DOCTOR: One, two, three, four, five.
+PATIENT: I should be getting four.
+DOCTOR: Six, seven, eight, nine medicines including aspirin is what you should take every day I think.
+PATIENT: I thought it was just five.
+DOCTOR: Alright.
+PATIENT: That's why I'm great cause see.
+DOCTOR: Yeah.
+PATIENT: I brought me a separate bag.
+DOCTOR: Okay.
+PATIENT: Of all kinds of pills.
+DOCTOR: Yeah.
+PATIENT: For my blood pressure.
+DOCTOR: I bet you some of these are probably repeated so hopefully, are you looking at the bottle every day, you're not taking.
+PATIENT: Yep.
+DOCTOR: You're taking one of everything in there or how are you taking it?
+PATIENT: Uh we got what's up here; I've got one of those weekly medicine bottles.
+DOCTOR: Oh okay.
+PATIENT: And I sit at the table and I make me a week's worth of medicines.
+DOCTOR: But how do you know which ones to do.
+PATIENT: That's what I'm gonna find out now hopefully.
+DOCTOR: But I mean how have you been doing it?  Like out of all these bottles, you know at the beginning of the week how do you figure out which of these you need?
+PATIENT: I look on there.
+DOCTOR: Oh you have a sheet oh.
+PATIENT: That's my sheet there; no you can look at it.
+DOCTOR: No, no, oh this is your sheet that you gave me.
+PATIENT: I looked on there.
+DOCTOR: Oh yeah, yeah.
+PATIENT: In fact I want you to check.
+DOCTOR: [REDACTED] last time.
+PATIENT: Right.
+DOCTOR: Yeah, yeah, yeah.
+PATIENT: I look over there, find out and checking, and drop one of them in.
+DOCTOR: Oh okay yeah.
+PATIENT: But I'm saying, if I don't need the rest of that stuff.
+DOCTOR: No I get it.
+PATIENT: The, you won't have it.
+DOCTOR: Oh yeah, I mean it's not in your computer anymore.  Some of these probably are old ones, you should just remove them.
+PATIENT: Right.
+DOCTOR: If they don't match that list.
+PATIENT: That's what I'm saying.
+DOCTOR: Yeah.
+PATIENT: Anything that I don't need I want to put it in that little grey box over there.
+DOCTOR: Yeah.  And you did all these changes here that we talked about?  You know like I got things right here.
+PATIENT: I started taking a half now and this [REDACTED]
+DOCTOR: Yeah you did all those changes right, okay.  And you stopped taking the potassium all together?
+PATIENT: Right.
+DOCTOR: Okay and then the metformin, your diabetes one you cut in half.
+PATIENT: Right.
+DOCTOR: And then the other one.
+PATIENT: Well you done sent me the 500s already.
+DOCTOR: Right, right.
+PATIENT: So I ain't got to cut them in half.
+DOCTOR: But before you got them I had you cut them in half.
+PATIENT: I was cutting them in half right.
+DOCTOR: Okay and then the water pill once you got this combination one you stopped this one as far as you know or?
+PATIENT: Okay what's the water pill?
+DOCTOR: That's hydrochlorothiazide.  So this was your old one.  But I said when the new medicine comes stop this one and we'll change it to this one, so that should be one of the things that when you got this one when you read the bottle, should throw out this old one.
+PATIENT: Okay.
+DOCTOR: So I don't know, I mean here's the new list so it will be easier  but uh, you know you can  keep this okay, let's just look at that and we'll check mark if it’s here.  So that's there.
+PATIENT: Okay this is high blood pressure?
+DOCTOR: Uh cholesterol.
+PATIENT: Okay I take that too cause I take.
+DOCTOR: Yeah I'll put them all here and then we'll know exactly what you're taking.
+PATIENT: A half a tablet of that a day.
+DOCTOR: Exactly.  This is, yep this is that new one I sent you, take one half tablet by mouth every day yep.  That’s that.  Metoprolol this you take one half twice a day, Linsinopril, see maybe these are as many as you're supposed to take.  There's those and I think these are all your regular ones actually.  Terazosin, I mean these creams I'm not really counting, I don't really know if you take those anymore still.  The creams, what's this?  Oh this.
+PATIENT: Okay I got one tablet left in one of those bottles.
+DOCTOR: So this is a repeat.  This and this are repeats.
+PATIENT: Okay.  So everything in that thing I supposed to be taking.
+DOCTOR: Yeah, use before November @@, [REDACTED]@, August okay, so you want to take one pill by mouth every day 40 mg, you want to combine these two?
+PATIENT: Well see my wife tell me I shouldn’t mix the lot together I should empty one before I start on the other one.
+DOCTOR: You can yeah well you can do that.  They both have good expiration dates, you know neither one of them expired.
+PATIENT: Okay.  Well doc.
+DOCTOR: So not me, I don't want to confuse yourself here so.
+PATIENT: We can pour them together.  Yeah I can get rid of one of them bottles.
+DOCTOR: Yeah I mean as long as you read it carefully, if they're both not expired and they both say 40 mg and they're the same doses.  They may look different but then maybe if it's different manufacturers or what it may be.
+PATIENT: Right.
+DOCTOR: So, these actually they look the exact same.
+PATIENT: Right.
+DOCTOR: I know they're 40 mg tablets so you can combine these two if you want.
+PATIENT: Okay, very good.  Thank you sir.
+DOCTOR: Otherwise yeah these are all your medicines.  So you've actually been doing it right.  Hang on.  These are all your medicines.  Put all these in whatever bag you want to put them in.
+PATIENT: Why don't we put this in there?
+DOCTOR: This is trash.
+PATIENT: Okay.
+DOCTOR: That's good.
+PATIENT: Okay this is it.
+DOCTOR: So those are all, everything you take okay.
+PATIENT: Okay.
+DOCTOR: Alright, so really there's just one.
+PATIENT: You gonna give me that list?
+DOCTOR: Yes I'll give you this yes.
+PATIENT: And you checked on everything that I need to take.
+DOCTOR: Yeah.
+PATIENT: Thank you, you checked it.
+DOCTOR: This one, I don't think you're taking anymore, it's magnesium but I'm not still sure you need it anymore.
+PATIENT: No I don't take the magnesium.
+DOCTOR: Everything with a check mark.  The only two that aren't are some creams that I don't really know if you need it anymore or not.
+PATIENT: Right, I don't do that.
+DOCTOR: Okay so there's one, two, three, four, five, six, seven, eight cause the magnesium we're getting rid of.
+PATIENT: I need to take eight in a day.
+DOCTOR: Eight medicines.
+PATIENT: Shit.
+DOCTOR: Per day okay, so you should be taking eight tablets.  That matches that now.
+PATIENT: Man.
+DOCTOR: Now we're set.
+PATIENT: Got through this refill.
+DOCTOR: Oh yeah no problem no, thank you for bringing them all in.  It makes it a lot easier.  Um alright, how you been doing?
+PATIENT: Very well.
+DOCTOR: Very good.
+PATIENT: Yes sir.
+DOCTOR: Okay.  How the sugars been?
+PATIENT: With the metformin it's keeping it, you know, I would say every now and then I might cheat and get me a piece of cake or something it might run up to 120 or something but.
+DOCTOR: Okay.
+PATIENT: Then boom, you know the next day its back where it's supposed to be.
+DOCTOR: Okay cause we actually, you know we cut down; we didn't want to be that aggressive even because your sugars were almost too well controlled.  So what they're normally like 120s or something or?
+PATIENT: Right, they're normally in the 120s.
+DOCTOR: Okay and you never have any low ones I think you were telling me before.
+PATIENT: Right.
+DOCTOR: Where you feel like real shaky and jittery and you got to, okay.
+PATIENT: No.
+DOCTOR: Okay and let's see, gee I think there were variant, it was like 5.3% uh let's see, you're taking aspirin and have you seen the eye doctors yet?
+PATIENT: Uh.
+DOCTOR: Oh no at the end of this month, the 30th you have an appointment.
+PATIENT: Yeah.
+DOCTOR: Right, alright and you saw Podiatry already.
+PATIENT: Yeah.
+DOCTOR: And.
+PATIENT: Now who do I go to uh check in cause I've been having a little sleep problem.  I managed about two weeks in the Tripler Medical Mental Hospital.
+DOCTOR: You did.
+PATIENT: Yeah.
+DOCTOR: When was that?
+PATIENT: Okay when that was now 63 or 64.
+DOCTOR: You mean like for PTSD type stuff?
+PATIENT: Right.
+DOCTOR: Okay and you're having, you don't see anyone for that now?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: But I need to.
+DOCTOR: But you need to, so you've been waking up in the middle of the night and stuff?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Sweating and stuff yeah.
+DOCTOR: And has this been going on for a while?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: I've got since; you know at first it wasn't bothering me that much.
+DOCTOR: Uh-huh.
+PATIENT: It got to the point where my emotion aren’t stable.
+DOCTOR: Okay.
+PATIENT: You know I'll be crying for no apparent reason and you know.
+DOCTOR: Yeah alright um, alright.  So we can uh and do you have like nightmares and stuff?
+PATIENT: Right.
+DOCTOR: What branch were you in?
+PATIENT: Army.
+DOCTOR: Army and did you see combat or?
+PATIENT: Yeah.
+DOCTOR: Yes okay.  Um okay.  Do you feel like things are getting worse now recently?
+PATIENT: Yes.
+DOCTOR: Yeah okay.
+PATIENT: Here lately.
+DOCTOR: Alright um.
+PATIENT: It's been bad.  I signed up, I did some [REDACTED] probably a year ago but it just doubled since I did that.
+DOCTOR: Okay, do you want to, you know I know they have different options here.  They have either kind of behavioral therapy, kind of like one to one or something.  I think there may be even someone down here that we can try to set you up with and she can tell you who the best person to go is.
+PATIENT: Okay.
+DOCTOR: Or like a group session.  There's also group PTSD. I don’t know if you have a preference.
+PATIENT: I would rather start out with the one on one.
+DOCTOR: Okay alright.
+PATIENT: And with him or her direct me.
+DOCTOR: Okay, alright.  We can see.
+PATIENT: Maybe direct.
+DOCTOR: We can see if she's down there even, I think its NAME I think is kind of who deals with that and she can direct you to the right people and everything.
+PATIENT: There we go.
+DOCTOR: So we'll do that.
+PATIENT: Very good.
+DOCTOR: Remind me before we leave uh let's see here blood pressure today looked good.  No lightheadedness or dizziness or anything like that?
+PATIENT: Hmm no.
+DOCTOR: Okay, alright.
+PATIENT: But here's what I'm saying, I been losing my balance and all kind of stuff lately.
+DOCTOR: Oh you have.
+PATIENT: Yes.
+DOCTOR: Hmm.
+PATIENT: And then I've got a semi-dizziness going on you know.
+DOCTOR: Uh-huh.
+PATIENT: It's not so dizzy that I feel like I need somebody to hold me up or something but like I'm sitting down right now.
+DOCTOR: Uh-huh.
+PATIENT: And my head is spinning a little you know it's not, I don't feel stable anymore.
+DOCTOR: Okay.  You don't okay um.  How long has that been going on?
+PATIENT: Oh shit, two, three months.
+DOCTOR: Two, three months okay.
+PATIENT: But like I say it to me seem like it’s getting worse.
+DOCTOR: Hmm.  Okay.  Let's see, maybe I mean I'm wondering if your blood pressures are a little too low too cause you had one here that was 96/54.
+PATIENT: Right that's kind of low.
+DOCTOR: Uh that's kind of low.  Especially if you're saying you feel a little lightheaded and dizzy at times um okay.  So maybe we can cut down on some of, you're on four different blood pressure medicines, maybe we could get rid of one you know and just kind of see how your blood pressure does.  Let me see how it's yeah the problem is it was high back in September but otherwise it's looking pretty good okay.  And you've been eating well and everything like that?
+PATIENT: Yeah.
+DOCTOR: No vomiting or anything like that?
+PATIENT: No.
+DOCTOR: Okay.  You haven't fell or anything?
+PATIENT: I'm sorry?
+DOCTOR: You haven't fell or anything recently?
+PATIENT: No.
+DOCTOR: And this lightheadedness you said you've been having, is that mainly like if you go from sitting to standing or something all of a sudden?
+PATIENT: Yeah right.
+DOCTOR: Once you're up and about are you okay or?
+PATIENT: Right well I you know I'm in bad shape now I don't really stand long, I make sure.
+DOCTOR: Okay.
+PATIENT: That I don't have to stand long.
+DOCTOR: Okay.  Um alright, let's see.  Alright um.
+PATIENT: And doc if so.
+DOCTOR: Uh-huh.
+PATIENT: If you can, I would like an appointment to go see that one on one.
+DOCTOR: Yeah.
+PATIENT: It's because I had [REDACTED] come out with me today cause I wasn't feeling that well.
+DOCTOR: Okay.
+PATIENT: And I don't want to keep him.
+DOCTOR: Oh.
+PATIENT: Longer than.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Have you gone to that MOVE thing?  I saw that you had the.
+PATIENT: No.
+DOCTOR: Okay but you saw the other guy.
+PATIENT: And is there anything [REDACTED] feel like I'm just energy depleted.
+DOCTOR: Hmm I mean yeah see I'm not sure if it's just a combination of maybe your low blood pressure but it generally it's pretty good.  Today it's the first time it's kind of low um let's see.  I mean we could try to maybe go down on your blood pressure med a little bit, maybe that's causing you to be too low.
+PATIENT: And maybe just see.
+DOCTOR: You said your wife, I know, checks it at home.  Do you remember what those numbers are?
+PATIENT: She just checked it last night too you know.
+DOCTOR: Okay.
+PATIENT: Cause really when she check it I really don't pay no attention unless she say ooh NAME this is too low or it's too high you know.
+DOCTOR: Okay.
+PATIENT: And she tell me it’s okay.
+DOCTOR: Okay.  And you have that sleep appointment coming up right?
+PATIENT: Right.
+DOCTOR: Uh in March, yeah it's in March for your appointment okay and you are still using that mask and everything?  That's the other thing that's gonna be important sometimes you know.
+PATIENT: Yes sir.
+DOCTOR: Okay, see that can be a big reason if you're tired and stuff if you're not using that properly.
+PATIENT: Okay.
+DOCTOR: That's one of those things if you're not using it, you're not breathing well in the middle of the night then you get real tired during the day.  Even if you sleep eight hours it's not gonna be eight good hours of sleep.
+PATIENT: Okay.
+DOCTOR: Um so if you're using it you know how much are you using it per night, the whole night?
+PATIENT: No.
+DOCTOR: Uh-huh.
+PATIENT: I may, my DOCTOR.
+DOCTOR: Uh-huh.
+PATIENT: She's telling me do it at least two hours.  I might do three or four hours, that's the most.
+DOCTOR: Okay.  Alright um.
+PATIENT: But see I'm getting up all night peeing and I can't break, I say I can't I haven't broke the habit of not drinking no liquids after 8 o'clock yet.
+DOCTOR: Okay you're still drinking them.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: And don’t I know, being at 68 years that you put that water in there you know it got to come out.
+DOCTOR: Right, exactly and now and you know you're on the water pill and everything um so let's see.  Okay and let's see, you're not a smoker or anything?
+PATIENT: No.  I got enough problem with it I don't need those.  I don't need to add to it.
+DOCTOR: Okay and I want to see if your labs came back today.  Uh your potassium looks a lot better that's good.
+PATIENT: That's from today and they done got it back already?
+DOCTOR: Uh-huh.  Yep.  Your creatinine is kind of high okay.
+PATIENT: My wife told me that [REDACTED] I just started Wednesday on the new system.
+DOCTOR: What system?
+PATIENT: The half a tablet a day that you know.
+DOCTOR: Uh-huh.
+PATIENT: I guess it does Monday, to Thursday, Friday, Saturday, Sunday and Monday, today is the sixth time I did it.
+DOCTOR: Okay.  Alright.  Let me go talk with DOCTOR and let him know how you're doing uh maybe try to cut down on some of your blood pressure meds and see if that helps and I'll find out who you can talk to over there and just give you the information since you don't want to go today right?
+PATIENT: Right.
+DOCTOR: Okay, alright uh that sound fair?
+PATIENT: Is she gonna have to make me an appointment or how we gonna work that?
+DOCTOR: I'll ask her yeah.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: That'll be good.
+DOCTOR: Okay.
+PATIENT: Yes sir, I'm okay with that.
+DOCTOR: Okay now you're okay on all your medicines you think right?
+PATIENT: Yes sir yeah.
+DOCTOR: Give me a second here.
+(DOCTOR OUT:  38:26  DOCTOR IN:  45:31)
+DOCTOR: Alright, did you get the flu shot?
+PATIENT: Yeah.
+DOCTOR: Oh you did okay.  Alright so one other thing, do you said you're eating and drinking well, how many glasses of water do you think you have a day?  A lot or just kind of?
+PATIENT: A lot.
+DOCTOR: A lot okay um cause it looks like you know your kidney level went up a little bit um but so did another level it could maybe because of the water pill that we gave you may be a little bit dry so you know try taking in a little bit more fluid you know, maybe that's what's causing the low blood pressure.
+PATIENT: Right.  Okay.
+DOCTOR: You know so just.
+PATIENT: To tell you the truth about it.
+DOCTOR: Yeah.
+PATIENT: It's not so much I been drinking a lot of water.
+DOCTOR: Oh okay.
+PATIENT: I been drinking a lot of apple cider.
+DOCTOR: Okay.
+PATIENT: And when I drink the apple cider I don't drink as much water.
+DOCTOR: Oh okay.  So you know cause your kidney function went up a little bit, nothing abnormal outside of where you've been before.  It's been that way before uh your blood pressure is down a little bit so maybe you're just a little bit dehydrated or something and that's why your kidneys are going up, that's why the blood pressure is a little bit low and on top you're taking a water pill so maybe we can try you know staying better hydrated.
+PATIENT: And I'll just stay off the apple cider and drink more water.
+DOCTOR: Do you drink a lot of caffeine and stuff that'd be the other thing to just cut that out.  That dehydrates you.
+PATIENT: I don't drink no coffee.
+DOCTOR: You're not a coffee drinker.
+PATIENT: Well you now once in a while, I ain't gonna say I don't drink no coffee.
+DOCTOR: Okay, alright.
+PATIENT: A couple cups a month or something.
+DOCTOR: Okay alright but not a lot of Coke or anything like that either?
+PATIENT: Uh uh.
+DOCTOR: Okay, alright um so maybe that's what we'll try to do is just kind of try staying a little bit hydrated.
+PATIENT: Okay.
+DOCTOR: And see if that kind of improves things.
+PATIENT: Very good.
+DOCTOR: Um the other thing is well actually you know because your kidneys did go up a little bit.
+PATIENT: Yeah.
+DOCTOR: Metformin is one of those things that is broken down by the kidneys.
+PATIENT: Yeah.
+DOCTOR: The question is how much do you need the metformin still or not um so what we'd like to do actually is maybe stop your metformin completely.
+PATIENT: Okay.
+DOCTOR: Give you a trial off of it because your numbers have looked so good before and have you come back in three months, kind of similar to what you did now with labs.
+PATIENT: Very good, very good.
+DOCTOR: Get the labs drawn; we'll see what the hemoglobin A1c is.
+PATIENT: No problem.
+DOCTOR: And if it looks good then you might not need anything for your diabetes.  If it looks a little bit worse but not terrible we can put you on a different pill that's just usually like once a day and it doesn't affect the kidneys as much.
+PATIENT: Very good.
+DOCTOR: So this may be a good time to give you a trial to see if you need the medicine at all.  If you don't.
+PATIENT: Very good.
+DOCTOR: You know then no reason to.
+PATIENT: I'm glad to do that.
+DOCTOR: Um obviously one other thing is to continue checking your sugars and if they start getting real sky high or higher than they normally run call us back and then maybe we'll start you on this pill then sooner than that.
+PATIENT: But what you're saying is when I leave here today.
+DOCTOR: Yeah.
+PATIENT: I don't worry about the half a pill that I supposed to be taking.
+DOCTOR: Right, yeah don't take it but still check your sugars.
+PATIENT: Right.
+DOCTOR: Okay and if your sugar is now 120 and if it starts getting into 190, 200.
+PATIENT: Right.
+DOCTOR: That's really high.
+PATIENT: Yeah then go back on my metformin.
+DOCTOR: No, no, then call us and we'll probably send you a different pill.
+PATIENT: You got that, do I have your number?
+DOCTOR: Yeah I mean you just have to call the Red Clinic here, uh do you want to write it down on that paper yeah, NUMBER okay.
+PATIENT: Okay.
+DOCTOR: And that way, I think we could try to get you off the metformin period uh it's just a weaker medicine if you need it.
+PATIENT: Very good.
+DOCTOR: But if your sugars start getting high call us back and maybe we'll mail you a different medicine, not the metformin.
+PATIENT: Okay doc, thanks a lot.
+DOCTOR: Uh so I'll stop that on your list and then let me see uh and then you're gonna get the labs drawn before your next appointment.
+PATIENT: Right.
+DOCTOR: Like you did this time.
+PATIENT: Just like I did this morning.
+DOCTOR: So they'll send you a letter, you know with the exact date and time just come in you know an hour or two before that and get your lab done.
+PATIENT: Right.
+DOCTOR: So it'll be in the computer.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Let me see if that lady is down there um before you walk all the way down there let me see if she's there.  Alright, we'll see if we can just get the number from up there she wasn't at her door.
+PATIENT: Okay.
+DOCTOR: So maybe give you her number and then maybe you can give her a call.
+PATIENT: Okay.
+DOCTOR: And set something up.
+PATIENT: Okay.  So they will send me my return appointment for you?
+DOCTOR: Yeah.  They'll send it usually in the mail a month before your appointment so here's the number.
+PATIENT: Very good.
+DOCTOR: So the main point is they'll send you a letter around February.
+PATIENT: Okay very good.
+DOCTOR: Okay.
+PATIENT: You want me to wait a while right?
+DOCTOR: Um I'll get it for you right here.
+PATIENT: Okay.
+DOCTOR: I'll find it.  Yeah basically I rewrote everything else on here.  [REDACTED] all together.
+PATIENT: [REDACTED].
+DOCTOR: Right.
+PATIENT: Very cool.  Give this to that lady.  She gonna need some papers from me.
+PATIENT: 53:23
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300305
+TRANSACTION # 578-10-2-316-0103

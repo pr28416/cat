@@ -1,0 +1,273 @@
+DOCTOR: PATIENT?
+PATIENT: You're harder to get an appointment than the pope.
+DOCTOR: What's that?
+PATIENT: You're harder to get an appointment than the pope.
+DOCTOR: Oh really.  [REDACTED].  How are you doing?
+PATIENT: Uh not too good.
+DOCTOR: What's going on?  I don't like to see [REDACTED].
+PATIENT: Let me get my list out.
+DOCTOR: Okay, headaches [REDACTED].
+PATIENT: I have an appointment Monday to have this wisdom tooth pulled out and I'm thinking the earache and the headache is from the wisdom tooth.
+DOCTOR: Is it a throbbing ache that you have in the tooth?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: They gave me ibuprofen but all that does it make me urinate a lot.
+DOCTOR: Ibuprofen’s not good for this.
+PATIENT: Oh she said I have to see my primary physician.
+DOCTOR: Oh good.  Nobody wants to take responsibility.
+PATIENT: Yeah.
+DOCTOR: Alright um so [REDACTED] let's see what it is today.
+PATIENT: I used to see an oral surgeon.
+DOCTOR: Well you have um.
+PATIENT: Hmm.
+DOCTOR: Retinopathy.
+PATIENT: Yeah.
+DOCTOR: I'll get you scheduled.
+PATIENT: Oh good.
+DOCTOR: [REDACTED].
+PATIENT: Messed up my left eye and I still can't see straight.
+DOCTOR: [REDACTED], it didn't say in the note.
+PATIENT: I don't have cataracts.
+DOCTOR: That's why there's nothing in there.
+PATIENT: No.
+DOCTOR: No.  Neuro.
+PATIENT: I seen her.
+DOCTOR: You saw Neuro.
+PATIENT: I don't have to see her for eight months.
+DOCTOR: Okay and amitriptyline, what are you taking amitriptyline for?
+PATIENT: I don't know.
+DOCTOR: Was it um, was it for depression or was it for um pain?
+PATIENT: No I don't, well whatever it is.
+DOCTOR: You stopped it?
+PATIENT: Yeah cause I was forgetting a lot.
+DOCTOR: Alright.  Do you feel better after you stopped this?
+PATIENT: Yeah.
+DOCTOR: Let's see what's in their last note.  And [REDACTED] you stopped as well?
+PATIENT: Yes.
+DOCTOR: That's fine because it's been at least a year.
+PATIENT: Good, thank you, thank you.
+DOCTOR: I mean sometimes we have to do two years, private doctors try to push it for like forever for some people.
+PATIENT: Oh.
+DOCTOR: But um, it's been at least a year now.
+PATIENT: Cause my wife put an initial on my stomach with just her finger.  She was joking and says it'll be here tomorrow.  I woke up the next day, there it was so that's when I stopped taking it.
+DOCTOR: Oh.  And the [REDACTED] you were taking for nerapothy.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] And the numbness is where?
+PATIENT: Oh numbness, that was the amitriptyline.
+DOCTOR: Oh.  Weight loss?
+PATIENT: Yeah I do.
+DOCTOR: How much have you lost?
+PATIENT: I'm down to, naked 150 pounds.
+DOCTOR: You’ve lost 30 pounds since April.  Do you have, did you notice any blood in your stools?
+PATIENT: No.
+DOCTOR: Um blood stools, are you coughing more than usual?
+PATIENT: Uh no I don't cough.
+DOCTOR: So you don't cough.
+PATIENT: Hmm.
+DOCTOR: No blood anywhere?
+PATIENT: No everything is okay yeah.
+DOCTOR: And you're still smoking?
+PATIENT: Yeah.
+DOCTOR: Okay um, with the weight loss.  Let's do this, let's do a basic set of labs.
+PATIENT: Yeah.
+DOCTOR: We'll do the uh chest x-ray.
+PATIENT: For that spot on my uh lung?
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Chest x-ray um.
+PATIENT: Vampires.
+DOCTOR: And let's see, have you had a colonoscopy?
+PATIENT: No, no, no, no.  I'm not going to go steady with nobody.
+DOCTOR: But your weight loss, I mean it's really important to figure out why you're losing it and it's like one of the easiest things that we can do.
+PATIENT: Let's check the other ones first.
+DOCTOR: They might not be as telling as the colonoscopy.
+PATIENT: What?
+DOCTOR: They might not be as telling as colonoscopy.
+PATIENT: Well.
+DOCTOR: You had imaging at the end of May.  Let's see.  Maybe if they CT of the chest. [REDACTED] not just x-rays but you know, get multiple slices.
+PATIENT: Okay, not today though right?
+DOCTOR: No.
+PATIENT: Okay.
+DOCTOR: So how's the kidney function.
+PATIENT: Kidney.
+DOCTOR: [REDACTED].  Need some pills for that?
+PATIENT: [REDACTED].  He's been like that for a long time, trying to wake him up.
+DOCTOR: Okay gotcha.  [REDACTED].
+PATIENT: They don’t work.
+DOCTOR: Which one the.
+PATIENT: The Ambien.
+DOCTOR: Ambien doesn't work?
+PATIENT: No cause I used to take one a night that puts me to sleep for maybe about two hours.  Then I take another one, maybe another two hours.  I only get about maybe five hours sleep now.
+DOCTOR: So the Chantix did not work for you?
+PATIENT: No it didn't even slow me down.
+DOCTOR: Okay.  Hang on.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: These are the medications.  You can probably get it on the computer.  So you don't need this.
+DOCTOR: You want to pick them up here?
+PATIENT: Yeah.
+DOCTOR: Today.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Uh plus I've been under a lot of stress because of my mother.  I'm trying to get her into a home and she's giving me a hard time.  Maybe that's why my hair is falling out, I don't know.
+DOCTOR: [REDACTED].  We'll do this without contrast?
+PATIENT: Okay.
+DOCTOR: For the kidneys.
+PATIENT: Okay yeah.
+DOCTOR: Alright and see what they can see from it.
+PATIENT: Okay and then I have to get something next month and they're going to see how bad the neuropathy is on my feet.  Stick needles in me.
+DOCTOR: Neurology is going to do that?
+PATIENT: Yeah I already got an appointment and everything for that.
+DOCTOR: When do you want the [REDACTED] I can't put the dates of but [REDACTED].
+PATIENT: Well when do I have the appointment with the, when are they going to do my feet?
+DOCTOR: Oh that, I'd have to get out of the whole thing here I think.
+PATIENT: Oh then don't worry about it.
+DOCTOR: Let's do the labs, they probably won't be able to.
+PATIENT: This week.
+DOCTOR: This week, how about this week.
+PATIENT: Yeah okay.
+DOCTOR: [REDACTED] no we can't wait that long.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: Open.
+PATIENT: Ah.
+DOCTOR: [REDACTED].
+PATIENT: No [REDACTED] this.
+DOCTOR: Alright.
+PATIENT: Okay, I got to be there by, when it is going to be?
+DOCTOR: December 27th.
+PATIENT: Yeah.
+DOCTOR: December 27th, about a week.
+PATIENT: Yeah.
+DOCTOR: Okay I'll [REDACTED] tomorrow.
+PATIENT: Yeah I got to get my tooth pulled [REDACTED] okay.  [REDACTED].
+DOCTOR: Take a deep breath.  Okay.  Um do you have any trouble swallowing?
+PATIENT: No.
+DOCTOR: No.  Okay just breathe normal.  Does it hurt there?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: Is that from that tooth too?
+DOCTOR: It's like uh, [REDACTED] little bit.  It could be if the tooth is infected.
+PATIENT: Okay.
+DOCTOR: But why don't we, since we're doing the CT anyway include your neck okay.
+PATIENT: Okay.
+DOCTOR: And make sure that, if it's just a reactive lymph node you know once the tooth is pulled out its going to go away.
+PATIENT: Okay.  That’s what I thought.  And when they pull this Monday can you give me something to put me into la la land before I get here?
+DOCTOR: Um they'll give you something over there you know.
+PATIENT: Are you sure?
+DOCTOR: [REDACTED] so I don't know how extensive they're going to do if like it's going to be something extensive they're going to give you something that day.
+PATIENT: Oh.
+DOCTOR: But um.
+PATIENT: Give me what?  Cause that ibuprofen ain't doing the job for the pain.
+DOCTOR: Do you have an envelope for this today no?
+PATIENT: No.
+DOCTOR: Okay, you'll just pick them up [REDACTED].
+PATIENT: Yes there's the address on here and everything.  Thank you.
+DOCTOR: I have homework from everybody that's coming in.  Okay I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  106:20  DOCTOR IN:  117:40)
+DOCTOR: So we'll do the chest and neck without contrast.
+PATIENT: Okay.
+DOCTOR: See what it is there.  If it's something that we need to have a contrast we'll you know, we'll repeat it with the contrast cause we don't want to do the contrast if it's not needed.
+PATIENT: Okay.
+DOCTOR: Uh and we'll get some labs today.
+PATIENT: [REDACTED] okay.
+DOCTOR: And um.
+PATIENT: Chest x-ray?
+DOCTOR: No we'll do the CT.
+PATIENT: Oh okay that's good.
+DOCTOR: So we'll get the CT.
+PATIENT: Okay, okay fine.
+DOCTOR: And we'll see what shows up.
+PATIENT: Okay.
+DOCTOR: Now um if anything on that, you know we can find anything on that that would explain your weight loss, but if we can't find any reason for weight loss there, you know what's coming; you know what I'm going to ask.
+PATIENT: Oh, yeah, yeah, okay okay.
+DOCTOR: Okay.
+PATIENT: Let me think about that okay.
+DOCTOR: Okay.  Alright so and you don't take any medicine for diabetes?
+PATIENT: No, no.  I'm at 6.6 and I went to that class [REDACTED].
+DOCTOR: And because of your low um, you're potassium runs on the lower side um check.
+PATIENT: I [REDACTED].
+DOCTOR: No I'm just going to take a couple of the labs and um.
+PATIENT: Okay.
+DOCTOR: I'll call you.  So we're going to do a bunch of labs.
+PATIENT: Okay.
+DOCTOR: Lab work on you.
+PATIENT: Okay.
+DOCTOR: And this system is weird.  It doesn't let me order CT without contrast.
+PATIENT: Okay.
+DOCTOR: So um make sure they don't give you contrast.  I put in a comment not to give you the contrast.
+PATIENT: Okay.
+DOCTOR: If they have any questions, they can reach me.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay when do I go for the CT?
+DOCTOR: Well they'll give you an appointment.
+PATIENT: A letter.
+DOCTOR: Probably, so I put it for a Wednesday, requested a Wednesday.
+PATIENT: Okay.
+DOCTOR: So they will probably call you [REDACTED].
+PATIENT: Okay.
+DOCTOR: You will get sildenafil.
+PATIENT: Oh okay.
+DOCTOR: So if they only give you two pills, I always tell people to break them.
+PATIENT: Okay.
+DOCTOR: You know, [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] and um I think we're going to give you temazepam to try um for sleep.
+PATIENT: Okay.  And can I get anything for the headaches and toothache?
+DOCTOR: Well um.  Okay uh for - I'll give you a 16-day supply of these.
+PATIENT: Okay.
+DOCTOR: Of Vicodin, okay.
+PATIENT: Okay.
+DOCTOR: Uh I really, don't take ibuprofen; I don't want you to take ibuprofen.
+PATIENT: Stop it.
+DOCTOR: Yeah because it's not the right thing for your teeth.
+PATIENT: Alright 600 mg too.
+DOCTOR: Yeah you [REDACTED].
+PATIENT: Okay fine with me.
+DOCTOR: So um let's give you, twice a day and we'll see how you do after [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] if you need more, tell them that they should be able to prescribe you Vicodin.
+PATIENT: Okay.
+DOCTOR: Sort of like a postop thing.
+PATIENT: Okay.
+DOCTOR: And um hopefully you won't need anything [REDACTED].
+PATIENT: Okay.
+DOCTOR: Alright.  [REDACTED].
+PATIENT: Kind of full.
+DOCTOR: So now um Pharmacy, Lab.
+PATIENT: Yeah.
+DOCTOR: Whatever you want to do and you can actually stop by Radiology and ask them about the CT scan when they can schedule you.  They won't do it right now but you can go and ask them.
+PATIENT: No you already did it huh?
+DOCTOR: No I put the order but you still can see.
+PATIENT: Where do I go for that?
+DOCTOR: Uh it's downstairs where the Lab is, the Radiology Department.  So ask them if they can schedule you for that.
+PATIENT: What do you call that place?
+DOCTOR: Radiology.
+PATIENT: Ah Radiology huh.  Okay, see if I can get an appointment with them right.
+DOCTOR: Uh-huh.
+PATIENT: For Wednesday right?
+DOCTOR: Yeah whatever, I put it for a Wednesday but they [REDACTED] early do that.
+PATIENT: And no.
+DOCTOR: No contrast.  No IV contrast.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: I'm done?
+DOCTOR: You're done.
+PATIENT: Alright.
+DOCTOR: And um let's see I'm going to put six months follow-up but I'm going to call you with all this stuff anyway so you can come in earlier if you need to.
+PATIENT: Okay, alright.
+DOCTOR: Alright.
+PATIENT: You ready?
+DOCTOR: Give it to the uh folks up front at check out.
+PATIENT: Alright, I got to get rid of this [REDACTED].
+DOCTOR: Alright.
+PATIENT: See you in six months.
+PATIENT: 124:0
+Time is 2:55
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238131
+TRANSACTION # 578-10-2-316-0103

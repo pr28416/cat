@@ -1,0 +1,113 @@
+DOCTOR: May I just begin with asking you what brought you in here today?
+PATIENT: Sure, um, I've been experiencing some issues breathing, um and just a lot of coughing over the past year or so.
+DOCTOR: OK. And is your cough, has it been a wet cough or a dry cough?
+PATIENT: Uh, but it's been a wet cough.
+DOCTOR: OK. You mentioned it started over a year?
+PATIENT: Well, about, about 8 months.
+DOCTOR: 8 months. And has it been getting worse at all?
+PATIENT: Yeah, I think it's been getting worse.
+DOCTOR: OK. And so it's been a wet cough. Do you release any kind of like phlegm or sputum?
+PATIENT: Um, yeah, it's usually clear, but sometimes it can look yellow or green.
+DOCTOR: OK, and how, how much would you say you produce every day?
+PATIENT: Um, like um, in total per day?
+DOCTOR: Or just maybe every time you cough.
+PATIENT: Every time I cough maybe like the size of my thumbprint.
+DOCTOR: OK, and have you notice at all coughing up any blood?
+PATIENT: No.
+DOCTOR: Is the blood ever mixed into the phlegm?
+PATIENT: No.
+DOCTOR: OK. And uh, has it been constant coughing? Or does it come and go over the last eight months?
+PATIENT: Um, it comes and goes, but there, there it's always like I have a tickle in my throat or something.
+DOCTOR: OK, and when it first started, had anything changed in your life? Uh, had you move to a new place or started smoking or anything like that?
+PATIENT: No.
+DOCTOR: No. OK. Is there anything you do that makes the coughing or shortness of breath worse?
+PATIENT: Um, I guess walking.
+DOCTOR: Walking? Is there anything that makes it better at all?
+PATIENT: Just resting.
+DOCTOR: Just resting, OK. How much can you walk or run until you feel the coughing or shortness of breath?
+PATIENT: About like 200 meters.
+DOCTOR: OK. And has this ever happened to you before the eight months?
+PATIENT: No. Actually, I get wheezy because I have asthma, but it doesn't, it's not as bad as this.
+DOCTOR: OK. And, um how often are you coughing, are you coughing throughout the day? Or is it more so during the day and then or more at night?
+PATIENT: Uh, it's just kind of always there, um throughout the day.
+DOCTOR: OK. And do you have any other symptoms besides the difficulty breathing and the cough? Do you have a sore throat, runny nose, dizziness, anything like that?
+PATIENT: No.
+DOCTOR: OK, so just the difficulty breathing and the cough?
+PATIENT: Yeah.
+DOCTOR: Do you get any chest pain at all?
+PATIENT: No chest pain.
+DOCTOR: Great, have you traveled anywhere outside of the country recently?
+PATIENT: Uh, no, no.
+DOCTOR: Any headaches, nausea or vomiting?
+PATIENT: No.
+DOCTOR: Any fever, chills or night sweats?
+PATIENT: No.
+DOCTOR: Do you feel increasingly fatigued throughout the day?
+PATIENT: Yeah, I guess coughing a lot makes me tired.
+DOCTOR: OK, do you ever feel that your heart is racing or you have any kind of chest pain?
+PATIENT: No.
+DOCTOR: Have you noticed any issues urinating?
+PATIENT: No.
+DOCTOR: Any changes in your bowel movements, any constipation or diarrhea?
+PATIENT: No.
+DOCTOR: Any issues with your sleep or appetite?
+PATIENT: Uh, no.
+DOCTOR: Any significant changes in your weight?
+PATIENT: No.
+DOCTOR: Have you had any recent infections that you know of?
+PATIENT: Not that I know of.
+DOCTOR: Any antibiotics that you've had to use for any infections?
+PATIENT: No.
+DOCTOR: Um, do you think you have had any exposure to tuberculosis in the past?
+PATIENT: No.
+DOCTOR: And do you have exposure to fumes or dust or animals or pets in your work or home environment?
+PATIENT: I have a bird.
+DOCTOR: A bird? And when did you get the bird?
+PATIENT: Like five years ago.
+DOCTOR: OK, but no issues before the eight months?
+PATIENT: No.
+DOCTOR: OK. In terms of your overall health, do you have any past medical conditions? You mentioned asthma, but anything else like diabetes, high blood pressure?
+PATIENT: I have type 2 diabetes and high blood pressure.
+DOCTOR: OK. And or do you take any medications for those conditions?
+PATIENT: No, it's just being controlled by diet.
+DOCTOR: OK, any medications for any other reasons?
+PATIENT: I take some vitamin D tablets.
+DOCTOR: OK, any allergies, environmental or to medications?
+PATIENT: No.
+DOCTOR: OK, have you ever been hospitalized?
+PATIENT: No.
+DOCTOR: Any ill contacts near you at home or work?
+PATIENT: No.
+DOCTOR: Any previous surgeries?
+PATIENT: No previous surgeries.
+DOCTOR: OK, do you have any family history of asthma or any other lung condition or any cancers?
+PATIENT: No lung conditions or cancers.
+DOCTOR: OK. And currently, do you work?
+PATIENT: I do.
+DOCTOR: And where do you work?
+PATIENT: I work as an accountant.
+DOCTOR: OK. And do you currently live in an apartment or a house?
+PATIENT: In an apartment.
+DOCTOR: OK. And do you live by yourself or do you live with anyone else?
+PATIENT: Just by myself.
+DOCTOR: OK. Any new changes to your house uhm, any new carpets or anything like that? Or have you moved into a new new place recently?
+PATIENT: No.
+DOCTOR: OK, do you use any recreational drugs like marijuana?
+PATIENT: No, I smoked when I was younger, but not anymore.
+DOCTOR: OK, and do you smoke cigarettes?
+PATIENT: I do.
+DOCTOR: OK, and how much would you say you smoke on an average day?
+PATIENT: Uhm, about half a pack a day.
+DOCTOR: OK, and how long have you been smoking for?
+PATIENT: Since I was 18.
+DOCTOR: OK. And you drink alcohol?
+PATIENT: Uhm, sometimes.
+DOCTOR: And how often would you say on an average week, how many drinks of alcohol would you say you have?
+PATIENT: Uhm, maybe 2 glasses of wine a week.
+DOCTOR: OK. And in terms of your diet and exercise, would you say you get 3 meals a day? Well balance, well balanced diet?
+PATIENT: Um, yeah, I'd say so.
+DOCTOR: OK, and lastly, in terms of exercise, would you say you're fairly active throughout the week?
+PATIENT: Uhm, yep.
+DOCTOR: And what kind of things do you do for activity?
+PATIENT: Um, I take walks when I can. Um, before this whole shortness of breath thing, I used to ride my bike.
+DOCTOR: OK.

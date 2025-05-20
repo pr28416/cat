@@ -1,0 +1,87 @@
+DOCTOR: What brings you in?
+PATIENT: I just came in because of I just got into like this uh, incident while I was playing rugby. I kind of got tackled and then fell onto my right shoulder. Um, and after I got up, I haven't, I've just been, this just happened a couple hours ago actually and uh, I've just been in intense pain in my right shoulder and I can't seem to move it at all.
+DOCTOR: Okay, um, and sorry, when was this exactly?
+PATIENT: Uh, probably 2 hours ago.
+DOCTOR: 2 hours ago, okay. Um, and is this pain persistent or is it like on and off?
+PATIENT: It's, it's constant. It hasn't gone away at all.
+DOCTOR: Okay. 1 to 10, 10 being the worst. How bad is this pain?
+PATIENT: I don't know, like probably like 8 or, 8 or 9.
+DOCTOR: 8 or 9, okay. Um, and is it a sharp kind of pain or is it dull and aching?
+PATIENT: It's, it's sharp. Like if I try to move it at all, it's like a sharp pain.
+DOCTOR: Okay, um, and have you ever had anything like this in the past?
+PATIENT: Uh, no, never.
+DOCTOR: Never, okay. And are you able to move your arm at all or you can't move it?
+PATIENT: I could move my fingers and hand and elbow, but um, elbow a little bit, but like uh, yeah, I can't move my shoulder whatsoever.
+DOCTOR: Okay, um, and do you, are you experiencing any tingling or numbness?
+PATIENT: Um, no, I don't think so.
+DOCTOR: No, okay. Uh, how about any muscle weakness?
+PATIENT: Um, in that area, I don't know if it's weakness or pain, but I just can't move it up and I, I, I do feel some like numbness just above my shoulder. No tingling though.
+DOCTOR: Okay, any pain elsewhere in your body?
+PATIENT: No.
+DOCTOR: No, okay. Any headaches?
+PATIENT: Um, no.
+DOCTOR: Confusion or memory loss?
+PATIENT: Uh, no.
+DOCTOR: Uh, weight loss?
+PATIENT: Uh, no.
+DOCTOR: Fevers or chills?
+PATIENT: No.
+DOCTOR: Rashes?
+PATIENT: Um, no.
+DOCTOR: Uh, changes in your vision, hearing, smell or taste?
+PATIENT: Uh, no.
+DOCTOR: Um, coughing, shortness of breath or wheezing?
+PATIENT: Um, no.
+DOCTOR: Chest pain or heart palpitations?
+PATIENT: No.
+DOCTOR: Changes in your bowel movements?
+PATIENT: No.
+DOCTOR: Changes in voiding?
+PATIENT: No.
+DOCTOR: Um, okay. And then with regards to this pain, does anything make it better or worse?
+PATIENT: Um, um not anything that I've tried that's made it better. Worse is probably just if I try to move it at all.
+DOCTOR: Okay, and the pains in your shoulder, does it radiate down or up elsewhere?
+PATIENT: Uh, mostly towards my shoulder, um, kind of down towards my upper arm as well.
+DOCTOR: Okay, I see. Um, alright, and um, are you otherwise healthy? Do you have any other medical conditions?
+PATIENT: No. Yeah, otherwise I'm healthy. I've never been to the doctor much.
+DOCTOR: Okay, alright. Um, and are you on any medications?
+PATIENT: No.
+DOCTOR: No, okay. And um, are you up-to-date with your immunizations?
+PATIENT: Yes.
+DOCTOR: Okay, and do you have any allergies?
+PATIENT: Uh, no.
+DOCTOR: Any family history of musculoskeletal diseases?
+PATIENT: No, not that I know of.
+DOCTOR: Okay. Uh, and any family history of autoimmune conditions?
+PATIENT: Um, no.
+DOCTOR: Okay. Um, do you smoke at all?
+P; No.
+DOCTOR: No. Um, do you consume marijuana?
+PATIENT: Uh, no.
+DOCTOR: Uh, do you drink alcohol?
+PATIENT: Uh no, just, just with friends sometimes on the weekends, but not really.
+DOCTOR: Okay. Um, and then, where do you live right now and who do you live with?
+PATIENT: Uh, I live just outside of town with my parents in a house.
+DOCTOR: Okay. And um, have you traveled anywhere recently?
+PATIENT: Um, no, I've been at home.
+DOCTOR: Okay, any sick contacts?
+PATIENT: No.
+DOCTOR: No, okay. So now we're just going to move on to um, the physical exam part of this. So can you take a look at both your shoulders and let me know if you see any redness or swelling?
+PATIENT: Um, I don't think I see any redness or swelling, but um, my right shoulder and my arm just seems a little bit lower than my left one.
+DOCTOR: Okay, okay, any um, warmth on, on that shoulder?
+PATIENT: Uh, no, not that I can feel.
+DOCTOR: Okay, any atrophy, deformities, or skin changes?
+PATIENT: Um, deformity, I, I do feel like kind of uh, like my shoulder's dropped and like there's just kind of this uh, little, like divots, where like the shoulder should be.
+DOCTOR: Okay, okay. And can you palpate that area for me? Just um, the bones in that area, so like right where your arm would connect to your shoulder and then kind of on your shoulder blade. Does that hurt when you press down?
+PATIENT: Yeah, it hurts a lot.
+DOCTOR: Okay, so some tenderness and pain in the acromion process and scapula. Um, and if you press down on your biceps, triceps, does that hurt?
+PATIENT: Not as much, no.
+DOCTOR: No, okay. And then can I get you to um, can you lift your shoulder up at all? Like to where, to the point where your fingers are touch, like reaching the ceiling?
+PATIENT: No, I, I can't. I can't move it at all.
+DOCTOR: Alright, so um, it sounds like you have a shoulder dislocation. Um, so we are going to do an x-ray of your shoulder joint first to make sure that it's, it's just a dislocation and there aren't any broken bones or fractures. And then um, we can resolve this by doing something called a closed reduction, um, to try to put the joint back in its place.
+PATIENT: Okay.
+DOCTOR: Um, and if that closed reduction doesn't work, then uh, you may need surgery for like a, um, a weak shoulder joint, or if like ligaments um, aren't like, strong enough and it's it continues to happen.
+PATIENT: Okay.
+DOCTOR: Um, otherwise, we can keep it immobilized for a few days to a few weeks, um, depending on how bad the dislocation is. Um, and then once that's removed, you can do some rehab as well to restore some range of motion. Does that sound like a good plan? Do you have any questions or concerns in the meantime?
+PATIENT: Uh, no, I think that's, uh, that's great.
+DOCTOR: Okay.

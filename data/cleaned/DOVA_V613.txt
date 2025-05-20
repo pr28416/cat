@@ -1,0 +1,498 @@
+DOCTOR: Hi.
+PATIENT: How you doing?
+DOCTOR: I'm good.  I'm DOCTOR, nice to meet you.
+PATIENT: Same here.  Where's doctor uh?
+DOCTOR: DOCTOR?
+PATIENT: Yeah.
+DOCTOR: He's not here today.
+PATIENT: Oh.
+DOCTOR: I'm going to be your doctor for today okay.  [REDACTED].  Hi.
+PATIENT: [REDACTED].
+DOCTOR: The third open door on your left.
+PATIENT: Thank you.
+DOCTOR: Right through here.
+PATIENT: Hmm thank you.  [REDACTED].
+DOCTOR: How you doing today?
+SECOND PERSON V613
+I'm doing fine.
+DOCTOR: Good.  They saw you a couple of months ago.
+PATIENT: That's right.
+DOCTOR: DOCTOR.  And then she sent you to the eye doctor and the foot doctor.
+PATIENT: Yeah.
+DOCTOR: Fine.  How um, how have your sugars been?
+PATIENT: She can tell you everything.
+THIRD PERSON V613
+No I've been testing his blood pressures.  He has not been testing his sugars.  So I got a record of his blood pressure.
+DOCTOR: Oh perfect.
+THIRD PERSON V613
+Uh-huh.
+PATIENT: That's my doctor at home.
+DOCTOR: Oh good.
+THIRD PERSON V613
+And this medicine they [REDACTED].  I believe DOCTOR took him off of it.
+DOCTOR: Yeah. Let’s see.
+PATIENT: Okay.
+DOCTOR: His blood pressure looks good.  I know they're a little higher today.
+THIRD PERSON V613
+Uh-huh, thank you.
+DOCTOR: What we could do.
+THIRD PERSON V613
+Okay.
+DOCTOR: We could all be so lucky to have a doctor at home.
+PATIENT: She's not the doctor.  She make sure what time I'm gonna take my medicine or I got a sweet wife.
+DOCTOR: It looks like he didn’t take you off it.
+PATIENT: See so I called.
+DOCTOR: Uh-huh.
+PATIENT: To get it.
+DOCTOR: Yeah refilled and then they didn't want to yeah.
+PATIENT: They said we don't have that number and that was it.
+DOCTOR: Okay.  We'll refill, I'm gonna refill that for you.  Okay it looks like he had it on the record like it's supposed to be on there.
+THIRD PERSON V613
+Okay.  Thank you.
+PATIENT: They can send it out right?
+DOCTOR: Okay.  They do, so you didn't take this this morning right?
+THIRD PERSON V613
+No.
+PATIENT: No.
+DOCTOR: Okay and yesterday neither?
+THIRD PERSON V613
+We haven't had it for two weeks or more.
+PATIENT: Past two weeks.
+DOCTOR: Two weeks.
+THIRD PERSON V613
+Uh-huh.
+PATIENT: Right.
+THIRD PERSON V613
+He’s been doing good, though.
+DOCTOR: Okay.  We may just add on the.
+PATIENT: Yeah cause I called about this.
+DOCTOR: Uh-huh.
+PATIENT: And they said we don't have it on record.
+DOCTOR: Okay.  And I know your sugars were good back in December too they were saying.  They had checked kind of a three month period.
+THIRD PERSON V613
+Okay right.
+DOCTOR: That looked good.  I think we may check another one today to see how your sugars have been.  It's a blood test that they check to see how your sugars have been averaging over the last three months.
+THIRD PERSON V613
+Okay.
+DOCTOR: So we'll do that today too.
+THIRD PERSON V613
+Now they said for PATIENT to take just the insulin at home, that is the 35 units he takes at night.  He doesn't do good when he has to take that at night.
+DOCTOR: In the morning.
+THIRD PERSON V613
+Right.  What I had did when he first started on it.
+DOCTOR: Uh-huh.
+THIRD PERSON V613
+I was giving it to him in the morning.
+DOCTOR: Okay, that's okay.
+THIRD PERDON V613
+Okay.
+DOCTOR: That's okay cause that should be the last thing I believe, quite some time Aspart in the morning.  That's fine.
+THIRD PERSON V613
+Okay.
+DOCTOR: In the morning is fine as long.
+THIRD PERSON V613
+Thank you.
+DOCTOR: Since his sugars looked okay um back in September so I'm okay with keeping that level of insulin.
+THIRD PERSON V613
+Okay thank you.
+DOCTOR: Uh-huh so we'll keep that as well.  And I know you saw the eye doctor and the foot doctor so that's good and how's your knee?
+PATIENT: Don’t talk to me about these damn feet.  What it is, they stiffen up.
+DOCTOR: Okay.
+PATIENT: And it's hard to get, see you have to push up.  Now that was just a little easy but they’re stiff.
+DOCTOR: They’re really stiff, okay.
+PATIENT: And they said that they're not gonna put new ones in there.
+DOCTOR: What they, they said yeah.
+PATIENT: They did somehing they get, it’s  harder to get up.
+DOCTOR: It gets hard to get up okay.  I think one of the things that they were recommending was to set you up with the physical therapist to see if we can get you know some sort of stretches or something to kind of help you [REDACTED] the muscles around there to see if maybe it would make it a little easier.
+PATIENT: I gotta do something with it.
+DOCTOR: So I'd like to send you back to see if you need to see the physical therapist okay to see you know what they can do to help you out there.
+PATIENT: Uh-huh.
+DOCTOR: And get you a little bit yeah okay.
+THIRD PERSON V613
+Because he has a very hard time getting up at home too.
+DOCTOR: Sure, I saw that.
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: It took you a while to get up out of the chair.
+THIRD PERSON V613
+Okay.
+PATIENT: It takes me longer than that.
+DOCTOR: Okay.
+PATIENT: Cause that chair hits me right in the [REDACTED].
+DOCTOR: Sure okay.  And then let me check to make sure you have.  Any other medications that needs to be refilled?
+THIRD PERSON V613
+No, no.
+PATIENT: No.
+THIRD PERSON V613
+Uh uh.
+DOCTOR: Okay and um and your blood tests back in September looked pretty good and we only check them out once every few months anyway.  The only one is the one for the diabetes to see how your sugars have been and if we need to adjust anything.
+PATIENT: I feel fine.  I'm not gonna take beat around the bush cause some guys say they feel fine and they don’t then.
+DOCTOR: Uh-huh.
+PATIENT: But I try to take care of myself.
+DOCTOR: Good.
+PATIENT: And my wife looks out after me too.
+THIRD PERSON V613
+Yeah I do.
+DOCTOR: Good.  [REDACTED] and I know they sent you for the, let me check and see how your, how the blood flow was in your legs too.
+THIRD PERSON V613
+That's correct.
+DOCTOR: Your right leg looks good.  You just have a little bit of; you know how they say in the heart arteries you can have some plaque build up?
+THIRD PERSON V613
+Right.
+DOCTOR: Well on the left side you did have a little bit.
+THIRD PERSON V613
+Okay.
+DOCTOR: Um so, one other things [REDACTED] I'm gonna check it.  You're already on the aspirin which is what we would recommend doing for that anyway.
+THIRD PERSON V613
+That's good to know.
+DOCTOR: So.
+PATIENT: But when its, she's the one who knows all of my medicines.
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: Yeah I know, DOCTOR called.
+THIRD PERSON V613
+Uh-huh.  Yeah for management.
+PATIENT: [REDACTED].
+DOCTOR: That I should make sure.
+THIRD PERSON V613
+That's right.  Yeah we're having problems because PATIENT can't get up on time sometimes we’re having accidents.
+DOCTOR: Oh okay.
+THIRD PERSON V613
+Okay we have this thing that helps him get up.
+DOCTOR: Uh-huh.
+THIRD PERSON V613
+[REDACTED] off the bed [REDACTED] North Carolina.
+DOCTOR: Okay.
+THIRD PERSON V613
+Like a seat.  They fit on the seat.
+DOCTOR: Sure.
+THIRD PERSON V613
+Push the button, it came up.
+DOCTOR: Okay.
+THIRD PERSON V613
+I'm hoping we get PATIENT a new chair [REDACTED].
+DOCTOR: Oh it's a chair.
+THIRD PERSON V613
+Yeah.  I want a chair that's leather.
+DOCTOR: Yeah.
+THIRD PERSON V613
+And that thing, it would tear your furniture.
+DOCTOR: Sure, sure.  Let me find out.
+THIRD PERSON V613
+Okay.
+DOCTOR: Cause I'm not sure about that um let me take a listen first, okay?
+PATIENT: Okay.
+THIRD PERSON V613
+Uh-huh.  See he has a cold.  Want me to help you up honey?  [REDACTED].
+DOCTOR: You know what; let me lay you back first.
+THIRD PERSON V613
+(Laughter)
+PATIENT: Okay.
+THIRD PERSON V613
+That's so nice, they go that low.
+DOCTOR: A little lower, what do you think?
+THIRD PERSON V613
+That's a [REDACTED].
+DOCTOR: Okay.
+PATIENT: It doesn't bother me.
+DOCTOR: It's up to you so.  Alright let's take a listen okay.
+THIRD PERSON V613
+He has a cold.
+DOCTOR: That's okay.
+THIRD PERSON V613
+Okay.
+DOCTOR: Any fevers or anything like that at home?
+PATIENT: No not that I know of no fevers.
+DOCTOR: Okay.  Okay.  Nice deep breaths.  Deep breath again and again.  Any pain back here at all?
+PATIENT: No pain.  Well down here in my.
+THIRD PERSON V613
+Low back.
+PATIENT: Down here in my back it sometimes hurts [REDACTED].  But that's about it.
+DOCTOR: Okay.  Just breathe normally.  Any belly pain, trouble eating?
+PATIENT: I don't have a problem.
+DOCTOR: Any changes or anything like that?
+THIRD PERSON V613
+He loves to eat.
+PATIENT: You can see how she loves to eat too (laughter).
+DOCTOR: Oh.  Alright let me just check your feet real quick.  Any swelling in your feet?
+PATIENT: Not that I know of.
+DOCTOR: Alright, I'll be right back.  We kind of need to figure out this lift kind of situation.
+THIRD PERSON V613
+Okay thank you.
+DOCTOR: [REDACTED] okay.
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: Alright and you can have this back.
+THIRD PERSON V613
+Okay thank you.
+(DOCTOR OUT:  45:52  DOCTOR IN:  49:18)
+DOCTOR: Okay so the deal with the chair is that they want to see you first, the physical therapists.
+THIRD PERSON V613
+Okay.
+DOCTOR: They want to do their evaluation but we may be able to get you that were placed and see if you can go up and have you talk with them first but if not then they um, they will get you the appointment as soon as possible and get you evaluated for that.
+THIRD PERSON V613
+Okay thank you.
+DOCTOR: Okay.  Alright.  Give me one second let me just put in some of the orders here and then I can see if I can, if I can order it I'll do it but it sounds like from what I  heard from the other doctors they have to do the formal evaluation.
+THIRD PERSON V613
+Okay.
+DOCTOR: Before they issue that.
+THIRD PERSON V613
+You know I have Humana health insurance and the man wanted to sign PATIENT up just in case something happens, something happens when we can't get over here at night.  Will he lose his VA if he signed up for that?
+DOCTOR: That I don't know.
+THIRD PERSON V613
+Okay.
+DOCTOR: That either we'll have to; you'll have to check with the Finance Office or something.
+THIRD PERSON V613
+Okay.
+DOCTOR: That's something that I don't know.
+THIRD PERSON V613
+Oh okay.
+DOCTOR: I actually don't know the answer to that unfortunately.
+THIRD PERSON V613
+Thank you.
+DOCTOR: So.
+THIRD PERSON V613
+If nothing I'll just call, call someone who calls me back, it's better to know.  Cause I want to find medicine [REDACTED].
+DOCTOR: So you want to pick it up here or do you want it mailed to you?
+THIRD PERSON V613
+Uh you can mail it.
+PATIENT: Mail it.
+DOCTOR: Mail it okay.
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: Change this other one.
+THIRD PERSON V613
+So far they mail out everything his insulin and everything.
+DOCTOR: Sure.  Okay I just wanted to make sure.
+THIRD PERSON V613
+Okay cause he'll need the [REDACTED].
+DOCTOR: Okay.  So we don't uh do the renewals on most of these medicines, some of them in the chart are coming up.
+THIRD PERSON V613
+Okay.
+DOCTOR: So that you know just when you need to call it in they will have it.
+THIRD PERSON V613
+Oh okay, thank you.
+DOCTOR: Any questions about anything else?
+PATIENT: Something with my back, that's what I told you about my back with you know a while back.  That's.
+THIRD PERSON V613
+[REDACTED] arthritis in your lower back.  But I think, I hear that arthritis can be cured.
+DOCTOR: It depends on what type of kind of arthritis.
+THIRD PERSON V613
+Okay.
+DOCTOR: Sometimes it’s surgical.
+THIRD PERSON V613
+Oh okay.
+DOCTOR: But in the meantime since we're gonna send you to Physical Therapy for your knee anyway we'll have them see what they can do about your back and kind of strengthen the back muscles – the joints.
+THIRD PERSON V613
+Okay.
+DOCTOR: Cause usually we start there first and sometimes that'll help you know so.
+THIRD PERSON V613
+Okay.  And when do the grownups start to get the whooping cough?
+DOCTOR: When your cough doesn't go away for a few months.
+THIRD PERSON V613
+Oh okay.
+DOCTOR: Yeah, yeah.
+THIRD PERSON V613
+A few months.
+DOCTOR: That's the sort of thing that, because everybody gets the shot as a kid.
+THIRD PERSON V613
+Right.
+DOCTOR: Um but you know sometimes they recommend getting another one.
+THIRD PERSON V613
+Oh okay.
+DOCTOR: At some point.  Um if your cold doesn't get better in a couple of weeks come on back and we'll take an x-ray and see what's going on.
+PATIENT: See my back is.
+DOCTOR: Yeah I'm sorry.
+PATIENT: See my back.
+DOCTOR: If your cough.
+PATIENT: It's just a cold.
+DOCTOR: If your cold.
+PATIENT: Oh.
+DOCTOR: Runny nose and all that doesn't get better in a couple of weeks, come on back okay.  They'll see you.  There's always the Walk-In Clinic too that you can’t do is.
+THIRD PERSON V613
+Okay.
+DOCTOR: Okay.  Alright give me one second.  And then we should probably make sure of the phone number NUMBER?
+THIRD PERSON V613
+That's correct.
+PATIENT: That's it.
+DOCTOR: We'll give you a call if we need to adjust your insulin if when the find the A1c, the three months average comes back [REDACTED].
+THIRD PERSON V613
+Okay.
+DOCTOR: Okay.
+THIRD PERSON V613
+They have to take your blood just before we go home yeah.
+PATIENT: Yeah.
+THIRD PERSON V613
+Uh-huh.
+PATIENT: My wife watches me, she watches me very closely.
+DOCTOR: Good.
+THIRD PERSON V613
+Yeah.
+DOCTOR: You’re lucky.
+THIRD PERSON V613
+That's right.
+PATIENT: I'm lucky to have a good wife like I have.  She's a jewel.
+DOCTOR: Good. I put in an equipment request.
+THIRD PERSON V613
+Hmm.
+DOCTOR: And one other thing the 25 to 35 um and she can try to pick up something like that uh today.  Um if they say no then what we'll do is we'll wait for the evaluation. There’s going to be two parts, the therapist's evaluation to kind of see what they can do about your knee and the back.
+THIRD PERSON V613
+Okay.
+DOCTOR: And then um the, the uh, the other evaluation to see what kind of equipment that I can order you before.
+THIRD PERSON V613
+Okay. Thank you.
+DOCTOR: [REDACTED].
+THIRD PERSON V613
+Thank you.  Will you be PATIENT's doctor all the time?
+DOCTOR: Uh from now because it sounds like DOCTOR is only doing the pain Clinic.
+THIRD PERSON V613
+Okay.
+DOCTOR: So unless your pain gets terrible. At least I hope it doesn’t.
+THIRD PERSON V613
+Me too.
+PATIENT: She was asking me some questions and I'm like, I'll let you talk to my wife.  She knows more.
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: Okay let me see here.  Um and they have like canes and walkers or grab bars.  Can you describe that again to me, a chair, a lift?
+THIRD PERSON V613
+Um it's just like a little seat thing, you put it in the chair and you push a button and it helps you to get up.
+DOCTOR: Okay.
+PATIENT: Oh I forgot all about that thing.
+THIRD PERSON V613
+Uh-huh.  But our furniture's leather so it's confused cause the furniture goes.  When you sit the furniture goes down.
+DOCTOR: Okay.
+THIRD PERSON V613
+But when you put something on it, it doesn't function right.
+DOCTOR: Okay.  Okay.  Alright.  Okay.
+PATIENT: DOCTOR, is she gonna leave here or what?
+DOCTOR: He's still working here she just does a specialized kind of a Pain Clinic now [REDACTED] for patients who have a lot of pain and works differently than [REDACTED].
+THIRD PERSON V613
+Uh-huh.
+DOCTOR: That they feel, that kind of thing. So he does a lot of kind of pain management medicine, therapies and those kind of things.
+THIRD PERSON V613
+That’s good.
+PATIENT: Oh.
+DOCTOR: So do you have all the bathroom equipment at home to kind of help you as well?  We could try to see what they have upstairs too and maybe they can help you.
+THIRD PERSON V613
+Um do you need something for your bathroom?
+PATIENT: [REDACTED].
+THIRD PERSON V613
+I know.
+PATIENT: And sometimes I can't hardly move it.
+THIRD PERSON V613
+[REDACTED].
+PATIENT: No.
+THIRD PERSON V613
+Uh uh.
+DOCTOR: Okay.
+THIRD PERSON V613
+Thanks for asking.
+DOCTOR: Okay and they also have a lot of kinds of things to help you walk with a cane or crutches too so.
+THIRD PERSON V613
+He has a cane.
+PATIENT: I have a cane.
+DOCTOR: Okay.  Okay.  Let us know though if you need anything.
+THIRD PERSON V613
+Okay thank you.  And I got walker and that sort of thing if I need it.
+DOCTOR: Trade off.
+THIRD PERSON V613
+Uh-huh.  Yeah I had bunion repair and he went to the Pharmacy and it looked like, I guess they thought they were for him cause they gave him the heaviest walker they had.
+DOCTOR: Oh really.  Well we have those here as well.
+THIRD PERSON V613
+Okay.
+DOCTOR: Um.
+PATIENT: The thing here I have to take hers sometime.
+THIRD PERSON V613
+Yeah I think we'll have some blood work done.
+DOCTOR: Okay.
+THIRD PERSON V613
+At least we'll be gone before the snow comes.
+PATIENT: Oh yeah.
+THIRD PERSON V613
+Uh-huh.
+PATIENT: It's not supposed to come till this evening.
+THIRD PERSON V613
+No they said earlier, it's gonna come earlier.  They don't know when it comes you know.
+DOCTOR: Yeah they said maybe at noon.
+THIRD PERSON V613
+Uh-huh.  I like the snow.
+PATIENT: She's happy.  That's why we have to come back here because she likes the snow.
+THIRD PERSON V613
+Uh-huh.  But that cold weather kills the germs, we need that.
+PATIENT: Now we had to come back here, we had been moved to North Carolina.
+DOCTOR: Oh okay.
+PATIENT: And the doctors down there weren't doing too good at all.
+DOCTOR: Oh okay.
+PATIENT: And a lot of people, they would complain.
+DOCTOR: Sorry to hear that.  Hopefully you know, let us know if no one helps you, if I'm not here, if one of the doctors.
+THIRD PERSON V613
+Okay.
+DOCTOR: You can always ask us um they come reach us and call the clinic if you need anything or.
+PATIENT: I been coming to the VA uh since 56.
+DOCTOR: Oh my goodness.
+THIRD PERSON V613
+Uh-huh.
+PATIENT: You wasn't even born yet.
+DOCTOR: I was not.  Okay so you I’m going to give you this form and we'll see you back in about three months okay.
+THIRD PERSON V613
+Okay.
+DOCTOR: Unless something else comes up.  I'll give [REDACTED] to call.
+THIRD PERSON V613
+Thank you.  Are you ready for the new year?
+DOCTOR: Uh getting there.  And then um the Rehab doctors will just send a letter for the appointment.
+THIRD PERSON V613
+Okay.
+PATIENT: Yeah I know.
+DOCTOR: I have no control over that but you can try, they have the equipment.  You can pick up, see what kind of equipment they have available at least for now but then afterward if they don't have the specific thing that you want then we'll try. It will be up to the Rehab doctors to get you that.
+THIRD PERSON V613
+Okay.  Thank you.
+DOCTOR: Okay and then uh the Lab so you get the blood work.
+PATIENT: Okay.
+THIRD PERSON V613
+[REDACTED] to the Lab?
+DOCTOR: Yep.
+THIRD PERSON V613
+Okay.
+PATIENT: And where's the Lab?
+DOCTOR: Down the hall.
+PATIENT: Down the hall okay.
+DOCTOR: Okay.
+THIRD PERSON V613
+You kind of [REDACTED].  Okay.
+DOCTOR: And here's the medicine list of all the things that we currently have ordered for him and I just refilled it all.
+PATIENT: And you refilled it all?
+DOCTOR: You have most of it.
+THIRD PERSON V613
+Um he doesn’t need the stool softeners anymore, [REDACTED] diarrhea.
+DOCTOR: Oh okay.
+THIRD PERSON V613
+Okay.  Uh-huh.
+DOCTOR: Um that one.
+THIRD PERSON V613
+Somebody might need that medicine.
+DOCTOR: Okay.  And this list is for you though.
+THIRD PERSON V613
+Okay.
+DOCTOR: Cause this is a printout of what we have right here.
+THIRD PERSON V613
+Okay thank you.
+DOCTOR: Okay.
+THIRD PERSON V613
+Thank you so much.
+PATIENT: Yeah.
+THIRD PERSON V613
+I'm ready PATIENT.
+DOCTOR: Have a blessed new holiday and a good new year.
+PATIENT: You do the same [REDACTED].
+THIRD PERSON V613
+Okay.
+DOCTOR: Oh [REDACTED].
+THIRD PERSON V613
+Thank you.
+PATIENT: Thank you.
+PATIENT: 61:07
+9:45.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255164
+TRANSACTION # 578-10-2-316-0103

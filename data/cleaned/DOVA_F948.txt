@@ -1,0 +1,429 @@
+DOCTOR: Hi.
+PATIENT: Yes ma'am.
+DOCTOR: [REDACTED]
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Nope I've got it.
+DOCTOR: Hello.
+PATIENT: Hi.
+DOCTOR: This is NURSE.
+PATIENT: Hi NURSE.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: I hope you don't mind.
+PATIENT: I'm okay, no problem.
+DOCTOR: No problem.  I haven't seen you in a while.
+PATIENT: Well.
+DOCTOR: You keep canceling your appointments with me.
+PATIENT: Uh no one, no my scooter.
+DOCTOR: What's the deal?
+PATIENT: My scooter lift is broke.
+DOCTOR: Oh no.  Are you trying to get that fixed?
+PATIENT: Yeah they told [REDACTED].  It has been three weeks now.  I guess he's trying to get as many people on the contract before we get it fixed.
+DOCTOR: You know that's really um, tough to get these things fixed.
+PATIENT: Yeah but the scooter gets me around and the lift is here with me.
+DOCTOR: Yeah, your INR is low today, you been taking your Coumadin?
+PATIENT: No.  I have an endoscope scheduled for Monday.
+DOCTOR: Yeah.
+PATIENT: And so um, NURSE the Coumadin nurse instructed me not to take my dosage the third and the fourth and report to him today, you know to get the level done.
+DOCTOR: Oh, okay, gotcha, oh gotcha, gotcha, yeah.  You're gonna get an endoscope?  Who got you and endoscope, yeah I didn't get you an endoscope.
+PATIENT: The liver doctors at Jesse Brown.
+DOCTOR: Oh, okay.  So you are up for an, wait are you getting an endoscopy or colonoscopy?  Above or below?
+PATIENT: Above.
+DOCTOR: Above okay.
+PATIENT: So.
+DOCTOR: And um, let me see.
+PATIENT: It's uh Monday the 9th at 7:30, 8:30 something like that.
+DOCTOR: I hope it's not, I hope so cause it's not on here, let me see.
+PATIENT: Well, I got the paperwork.
+DOCTOR: Oh yeah, okay, well if they've got you set up I believe em, you know cause they know that.
+PATIENT: Here is the appointment form, for [REDACTED].
+DOCTOR: The liver doctor at Jesse Brown, what did they say?  They said the . . .
+PATIENT: They said my liver is funcitoning
+DOCTOR: Oh, they wanted to check to see if you had any of those blood vessels.
+PATIENT: Yeah, right, which I do, but they want, this is the second one.
+DOCTOR: Okay, gotcha.  We'll look at that, oh this is over; this is over at Jesse Brown though huh.
+PATIENT: Right.
+DOCTOR: Not here.
+PATIENT: No, no.
+DOCTOR: Okay, gotcha, now it's clear.
+PATIENT: Right.
+DOCTOR: It is not going to show if it is at Jesse Brown on my computer.
+PATIENT: Oh, okay.  Well, you can't access those files.
+DOCTOR: Yeah I can't.
+PATIENT: You just said.
+DOCTOR: It just doesn’t show here, I have to look at a special place.
+PATIENT: Okay, okay.  I see, okay.
+DOCTOR: Okay so they're looking for the vessels?
+PATIENT: Right I guess.
+DOCTOR: Making sure they're okay.  You've never had bleeding right?
+PATIENT: No.
+DOCTOR: Of the vessels?
+PATIENT: No what they did it before.
+DOCTOR: Yeah, okay.
+PATIENT: Uh and they found out that I did have some varices in the, in the stomach.
+DOCTOR: Are you taking your water pill?
+PATIENT: Uh I am taking it occasionally, I'm taking it.
+DOCTOR: You know might get into trouble when you don't take em right?
+PATIENT: I know, I know.
+DOCTOR: I know the liver doctor gets on ya, right?
+PATIENT: Yes I do, I just you know.
+DOCTOR: So you ran out, so I'm gonna renew okay.
+PATIENT: Okay, you'll need to get through.
+DOCTOR: You need that Lactulose.
+PATIENT: Yeah right, right.
+DOCTOR: Okay right.  So you have uh hepatitis cirrhosis and then he has varices and then he has occasional encephalopathy and the fluid is from the spleen, that makes more sense.
+PATIENT: Okay so.
+DOCTOR: I'm gonna renew these meds okay?
+PATIENT: Okay.
+DOCTOR: Cause you need them.
+PATIENT: Can I pick em up this evening?
+DOCTOR: Yeah, let's do that.
+PATIENT: Okay.  I have a form from uh, uh Human, The Illinois Department of Human Services.
+DOCTOR: Yeah, what is it for?
+PATIENT: It's for they want to provide me service, home care service.
+DOCTOR: Okay,I think I’m okay with that.  Help you out with your medicines.
+PATIENT: Yeah and you know.
+DOCTOR: And your weight.
+PATIENT: You know, work around the house like you know dishes and groceries and stuff.
+DOCTOR: Oh, is it the Department of Aging?
+PATIENT: No, Rehabilitative Service.
+DOCTOR: Rehab.  I can fill this out for you
+PATIENT: Okay.
+DOCTOR: Okay.  Um, you live by yourself right?
+PATIENT: Yes, it's just me.
+DOCTOR: Okay, well let's see last time you haven't seen me in so long, we should be seeing you every three months to be honest.
+PATIENT:
+DOCTOR: .
+DOCTOR: I know, I know it's hard.
+PATIENT: I supposed to have my eyes checked too but they haven't been times, you know they haven't even contacted me about that.
+DOCTOR: So we can put that in for you.
+PATIENT: Okay.
+DOCTOR: An eye appointment.  Are you service-connected?
+PATIENT: I'm 100% yes.
+DOCTOR: 100%.  So I could order anything for you that.
+PATIENT: Right, right.  I see that you've already you [REDACTED] picked out my appointments [REDACTED].
+DOCTOR: Let's see.  [REDACTED] to me, oh Lord, [REDACTED].
+PATIENT: I know it is, you know I knew [REDACTED] my eyes is nothing, my nerves [REDACTED].
+DOCTOR: Yeah it's because you're not taking your water pills.  You're full of fluid.
+PATIENT: Okay.
+DOCTOR: For you your fluid dependent okay.
+PATIENT: Oh.
+DOCTOR: The more fluid you have on you, the higher your blood pressure is.
+PATIENT: Right.
+DOCTOR: Okay, you need to be on the water pill.
+PATIENT: Well but where the fluid, I urinate the fluid out?
+DOCTOR: Oh yeah.
+PATIENT: Well I'm doing that anyway.
+DOCTOR: I know, that's because you have a lot on you.
+PATIENT: Yeah okay.
+DOCTOR: You gotta watch what you eat right?
+PATIENT: Right.
+DOCTOR: What you drinking.
+PATIENT: Okay.
+DOCTOR: If you're drinking too much, you've taken in too much salt, you're gonna retain all that fluid.
+PATIENT: Okay.
+DOCTOR: You have a tendency because your liver doesn't, isn't 100% you know.
+PATIENT: Uh-huh.
+DOCTOR: So you retain fluids, you have low protein probably, low albumin as they call it, low protein.  So you keep all that fluid in you.
+PATIENT: Okay.
+DOCTOR: So the water pill, you gotta be on it.
+PATIENT: I know doctor, I keep.
+DOCTOR: And I know you don't want to take it.
+PATIENT: I keep saying, the same thing@.  But I've been so busy trying to like just get through the day, I tend of forget about it, just focus on the now with what I have to get done.  If I have to get a letter out, pay a bill or whatever.  The first of the month I go prepare things, go to the bank get the money, go to Cashay, get the money orders and then get around to pay the people.  Uh, so I'm just so focused doing that, if it's not an emergency I usually have a tendency not to put that high on the priority list.
+DOCTOR: Let me see, okay here's your liver doctor.  I want to see what your liver doctor says.
+PATIENT: He said he didn’t want to put me back on interferon.
+DOCTOR: He said he wanted to?
+PATIENT: He didn't and I was upset about that, somebody will kill me, I don't believe it.
+DOCTOR: You're not a candidate um.
+PATIENT: For a liver transplant.
+DOCTOR: For a transplant because of the depression um.
+PATIENT: So that you mean for the…
+DOCTOR: No, no, no, not that um, cause you are not, you're intolerant to the interferon.
+PATIENT: Right, right.
+DOCTOR: So only on water pills and some Lactulose, he wanted to check your liver function twice a year.  He wanted to do an ultrasound.  He wants to do the endoscopy.
+PATIENT: Okay, they did the ultrasound.
+DOCTOR: Yeah and then he said um, for us to follow your Coumadin, which we did.
+PATIENT: Okay.
+DOCTOR: Um okay and then okay.  [REDACTED].  Alright, let's see from my standpoint, what have I got to do for you.  So any ulcers on your leg, are all those healed up?
+PATIENT: No, they’re not.  It's just you know they Jesse Brown gave me the whatcha call it, the pressure and every once in a while like a blister get on em, fill the water.
+DOCTOR: They're supposed to drain, remember the first time I met ya.
+PATIENT: Yeah, I know.
+DOCTOR: That was bad ulcers.
+PATIENT: I know but they was, they gave, they gave me that, they gave me that pressurized thingy, I don't do it religiously.  The doctor told me, he said if you do that, it'll restore your leg, all we got almost 100%.
+DOCTOR: All this is the fluid.
+PATIENT: Right.
+DOCTOR: All of this is water.  I remember when I first met you, I remember.  Okay, um, can you get up on the table for me?  Is it . . .
+PATIENT: Yes.  Do you want me to take my jacket off?
+DOCTOR: Yeah that would be great.
+PATIENT: Okay.
+DOCTOR: [REDACTED]....right here for you
+PATIENT: I think I'm gonna back up here, so if I was like over there, somebody'd come in and knock me off.
+DOCTOR: No one’s coming in.
+PATIENT: I don't know, you don't know me and my luck.  Somebody will come in.
+DOCTOR: [REDACTED] uh, I'll hang your jacket up for you.
+PATIENT: Oh.  That you can put it over there.  [REDACTED].
+DOCTOR: There we go.
+PATIENT: See this.
+DOCTOR: Did they weigh you [REDACTED]?
+PATIENT: Yeah, I’m still 76, 67 I haven’t gained that much weight those scales, [REDACTED] cause I haven't lost much weight
+DOCTOR: How many times a day do you take your Coumadin?
+PATIENT: When I take it, I take it uh four times a week.  I take it, I take it every day.
+DOCTOR: Uh-huh.
+PATIENT: What I take on Wednesday and Fridays, no, Wednesday and Saturdays I take it like 10 mg.
+DOCTOR: Uh-huh.
+PATIENT: And on those other days I take 2.7 or 7.4.
+DOCTOR: Okay, okay.  What time during the day do you take it?
+PATIENT: I take it in the evening time like 10 o'clock, same time.
+DOCTOR: So 10 o'clock.
+PATIENT: Yeah.
+DOCTOR: Oh wow, look at all this.  How many times a day are you supposed to take your water pill?
+PATIENT: I'm supposed to take like every day.
+DOCTOR: Every day?
+PATIENT: Yeah uh, well I can tell you something I don't take that much and when she ordered it I”m gonna start taking it..
+DOCTOR: If you take two times each day, once in the morning when you wake up, that way you'll remember I need to take one pill when I wake up in the morning and then I need to take one pill when I go to sleep at night.
+PATIENT: Right, yeah.  I'm not [REDACTED], blowin up, that's why I needed the endoscope
+DOCTOR: Umm.
+PATIENT: they say it’s the fluid.
+DOCTOR: Umm.
+PATIENT: [REDACTED]...gas or air or whatever…
+DOCTOR: Umm.
+PATIENT: [REDACTED] thought I got pneumonia [REDACTED] or maybe just gas or something.
+DOCTOR: How long have your stomach been so bloated ?
+PATIENT: Well he first started doing it in the last year.
+DOCTOR: In the last year?
+PATIENT: Yeah.
+DOCTOR: Are there times when you wake up [REDACTED] or has it gotten bigger or sometimes it's smaller.
+PATIENT: [REDACTED] growing yeah.  But now I can't even bend over.  It used to be, something like varicose, [REDACTED] so I assuming it is bigger.
+DOCTOR: Uh-huh.
+PATIENT: and my pants size is bigger.
+DOCTOR: The ultrasound is of your liver, is that right?
+PATIENT: They did the whole liver area.
+DOCTOR: The whole side.
+PATIENT: And the whole shoulder too, [REDACTED].
+DOCTOR: Well we’ll definitly look at it  There's a lot here, I need some time to look.  Alright.
+PATIENT: [REDACTED].
+DOCTOR: I'm on your side.  Open up your mouth.  [REDACTED].  Alright just look at me straight on.  Open your eyes, close your mouth (laughter).  Um, what side was your stroke on?
+PATIENT: The only one, this must be swelling side, [REDACTED].
+DOCTOR: Maybe it's because of the hat.  (laughter).  You had a hat on today.
+PATIENT: I still don't [REDACTED].
+DOCTOR: Stick your tongue out.  Hmm.  Which side are you weak on?  Grab my fingers, both sides, I [REDACTED].  This side, grab me as hard as you can on both sides.
+PATIENT: Alright, I can't.
+DOCTOR: I know, yes you can.  Okay good.  You have some function here.
+PATIENT: Yeah [REDACTED].  I can squeeze.
+DOCTOR: Lift it up against me.
+PATIENT: That's this far.
+DOCTOR: Here, I'm gonna do the same thing, I'm gonna put one finger here and one finger there and can you squeeze, okay, great and then push up there and um push up there, great.  I'm going to call that 2 to 3 [REDACTED].
+PATIENT: Yeah.
+DOCTOR: 2-3, cause he's able to have any movement[REDACTED] but it feels like it's all coming from the shoulder.
+PATIENT: Yeah because I got [REDACTED].
+DOCTOR: Put that on this side. Not bad.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: That's why I [REDACTED].
+DOCTOR: I would say that's 3-4.  Will you come this way?  Deep breath.  Deep breath.  Deep breath.  [REDACTED].  You want to lie back for me?  [REDACTED].  Can you bring chin away from me?  Now turn your chin towards me.  [REDACTED].  So [REDACTED].  Yes and so this [REDACTED].  Turn it again, so the really bad [REDACTED].  (DOCTOR speaking to other person in room, not PATIENT)  [REDACTED] like you [REDACTED] too much fluid all the way up to your heart, not good.  (DOCTOR speaking to other person in room, not PATIENT).  (Phone ringing 59:38, DOCTOR speaking on phone ends call 59:54, keeps speaking with other person in room)  Do you have hemorrhoids?
+PATIENT: No.
+DOCTOR: No.  (DOCTOR keeps speaking to other person in room)  Just talking.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED]. Thirsty?
+PATIENT: Yeah, well he sat down when I started talking.
+DOCTOR: (DOCTOR speaking to other person in room 60:48 until 61:49)  Other person asks a question [REDACTED].Are you constipated a lot?
+PATIENT: No, no.
+DOCTOR: [REDACTED]. Deep breath, out. Deep breath. (DOCTOR talks to other person in room)
+PATIENT: Just the hospital.
+DOCTOR: Okay.  Alright sir, thanks for letting us examine ya.
+PATIENT: No that's fine right here, I just trying to get up and walk over there.
+DOCTOR: Have you gotten your flu shot?
+PATIENT: Yeah, yeah, she gave it to me a few months ago.  She don't have the H1N1.
+DOCTOR: No, no.  [REDACTED] right now.
+PATIENT: When was that?
+DOCTOR: There's uh, so I don't know, so I don't know if you’ve heard but there is actually [REDACTED].  So right now the people that they're vaccinating are the pregnant women, okay.
+PATIENT: I thought pregnant women weren't supposed to take it?
+DOCTOR: No, they, they are because they've had a lot of problems with pregnant women with medical problems dying from it.
+PATIENT: And when people 62, I'm 60 years old.
+DOCTOR: Uh yeah so, with certain medical problems yes um and then they're distributing it to um young children as well.
+PATIENT: Yeah okay.
+DOCTOR: But um, once they get em here they'll give em to you okay?
+PATIENT: Okay so I don't qualify.
+DOCTOR: No you don't qualify yet, not yet.
+PATIENT: Okay.
+DOCTOR: [REDACTED]
+PATIENT: Alright.
+DOCTOR: Careful.
+PATIENT: So now doctor how can I get that form?
+DOCTOR: I'm doing it right now.
+PATIENT: Oh okay.
+DOCTOR: I mean so, you're [REDACTED].  You need to get on the Coumadin Clinic.
+PATIENT: This is my motor.
+DOCTOR: So we're gonna get an appointment lined up for you.  Oh gotcha, gotcha, gotcha, gotcha.
+PATIENT: That's my motor.
+DOCTOR: Your blood pressure is too high.
+PATIENT: Well you say you want me to use the water pills.
+DOCTOR: Are you gonna take em?
+PATIENT: Yeah I'm gonna take em.
+DOCTOR: Promise?
+PATIENT: You know I need to go see, and as I was thinking about it here, so I'll be motivated what she do with me and after a while I just kind of get lax on it.
+DOCTOR: Well let me know uh, so next time you get your INR drawn.
+PATIENT: Right.
+DOCTOR: Can you get some cholesterol labs drawn?
+PATIENT: Well yeah I can you know iff the order is in.
+DOCTOR: The nurse comes to your house to get it or do you get it here?
+PATIENT: No, no, I come here and get my INR uh like two or three times, what twice, about once a month at least I get my INR done and they're getting ready to change me from like.
+DOCTOR: When are they checking it again?
+PATIENT: They did it today.
+DOCTOR: Oh.
+PATIENT: So whenever I go there they're gonna probably like tell me, give me the Lovenox so I can take the endoscope Monday and then when that's over they're gonna probably tell me to schedule me about, I don't know, maybe two weeks after that.  NURSE is the Coumadin Nurse for the local.
+DOCTOR: So can you tell NURSE that I ordered some blood work and to check it.
+PATIENT: And schedule that appointment at the same time.
+DOCTOR: Yeah.
+PATIENT: Okay, alright.  [REDACTED].
+DOCTOR: Get is all drawn together yeah.
+PATIENT: Okay yeah because I see him right after I leave you.
+DOCTOR: Okay.  Yeah tell NURSE.
+PATIENT: Alright.
+DOCTOR: (DOCTOR speaking to other person in room - And check his cholesterol.)  You're not on that cholesterol medicine anymore huh?
+PATIENT: Well it probably ran out.  The prescription probably ran out, tell NURSE.
+DOCTOR: Do you need to get back on it?  You need to get back on it.
+PATIENT: It's Colestipol right, yeah.  I know NURSE you know.  If my cholesterol is still high, I know ...
+DOCTOR: Last time you weren't taking it [REDACTED].
+PATIENT: Yeah, that always seems to be the issue.
+DOCTOR: I know.  We're gonna get you on it.  Let's see, Colestipol, Colestipol.
+PATIENT: Only medicine I take is the Coumadin.
+DOCTOR: I know.  (Other person asks patient question)  Do you think that like that you came to see, you came more often to see the doctor that you like, want to see.
+PATIENT: Yeah, yeah.  See I have a memory problem and a lot of things naturally I don't want to remember.  You know, like I I [REDACTED] forget, like I got a lift, I can't move my left side, I don't use my left side, I don't even think about it.
+DOCTOR: Hmm.
+PATIENT: Now you know I put my hat at one side at my wife's funeral and then I went around where my hat at, it didn't dawn on me that it was on my left, of course I don't even think, there's a lot of things I be overlooked.  But if I keep it down front yeah I will do a better job with it.
+DOCTOR: So you identified the problem.
+PATIENT: Yeah I know.
+DOCTOR: Right.
+PATIENT: I know I'm just I haven't identified the solution yet.
+DOCTOR: Write it on your frig.
+PATIENT: What's the solution?
+DOCTOR: Write a big note on your refrigerator.
+PATIENT: Do what?
+DOCTOR: And glue it onto your refrigerator and say take your water pill.
+PATIENT: Take my meds okay.
+DOCTOR: I'm gonna take my Coumadin in the evening and then see my doctor.
+PATIENT: It probably what I do, [REDACTED]. Put is on my forehead.
+DOCTOR: Write it on your frig.
+PATIENT: I'm gonna write it doc, I know I need to do something, you're right I do.
+DOCTOR: Now let's get you some physical therapy, occupational therapy, get you some water pills.  Yeah I reordered your cholesterol pill.  Are you still on the spironolactone?
+PATIENT: Well that's the water pill right?
+DOCTOR: You have two, you have Lasix and you have spironolactone.
+PATIENT: Uh I got like a little yellow pill and had the white pill, that's all I know.  I know.
+DOCTOR: (OTHER PERSON and DOCTOR talking).  Okay, we're gonna, you haven't, you're out of your spironolactone too.
+PATIENT: I roger that.  [REDACTED] when I ask for them to update it for me, is the Colestipol, I only know that's probably expired also.
+DOCTOR: So we're gonna put you, there's two water pills you're on.
+PATIENT: Okay.  You know how that happened, I think Jesse Brown gave me some water pills too.
+DOCTOR: Okay, well pick em up today okay?
+PATIENT: Okay.
+DOCTOR: You gotta get back on them for your blood pressure to get better and lose some more fluid and all that stuff okay.
+PATIENT: Okay.
+DOCTOR: And blood work was the next time that you see...
+PATIENT: NURSE.
+DOCTOR: NURSE.
+PATIENT: Okay.
+DOCTOR: (OTHER PERSON)  So when you go to the Pharmacy and you pick up your pills, they print out a nice thing for you, when to take them, so I want you to take a big piece of paper and tape it right on your refrigerator.
+PATIENT: I will, I'm do it, I mean I'm gonna do it.  Like the [REDACTED] I need to take them on a regular, you know I just don't drink up and when I take that I five minutes laterI’m rushing up get up out of this chair to go to the bathroom, so.  I know I feel better when I take it too.
+DOCTOR: Yeah you gotta make some time for yourself you know.  You're paying everyone else, you gotta pay yourself.
+PATIENT: I know, I know man; you right doctor, I just, I don't know I just.  I'm not that motivated today.
+DOCTOR: (OTHER PERSON)  Yeah there's good days and bad days right?
+PATIENT: Yeah, some days are worse than other those.
+DOCTOR: (OTHER PERSON)  You have good days, you have bad days but.
+PATIENT: I mean, I'm just tired.  Feels like my liver, I'm very lazy and I live like I moved from Maywood to Forest Park and I got a bigger apartment but the problem is I almost a block from the elevator and I'm on the third floor so that just kill me just trying to get to walk to get going.
+DOCTOR: Alright I got it, I got it all well.
+PATIENT: Okay.  You know she put your name on it cause you been my, are you gonna still be my physician or are you.
+DOCTOR: If you, if you, continue to come to me me, sure.
+PATIENT: Well I know there somewhere.
+DOCTOR: I'm here for another eight months.
+PATIENT: Okay cause they told me one time that I was gonna have another primary.
+DOCTOR: Eight months.
+PATIENT: Oh eight.
+DOCTOR: If you don't come back in eight months then it won't be me.
+PATIENT: Oh, okay.  Well I don't know, well whatever, nice knowing you doctor, you.
+DOCTOR: We'll be back okay?  (OTHER PERSON)  We'll be back.
+PATIENT: Alright.  Okay, so is it a pick-up on my meds at the Pharmacy?
+DOCTOR: Uh-huh.  We'll be down, we’ll be back in one second.
+PATIENT: Oh okay.  I was getting ready to follow you out...
+(DOCTOR OUT: 71:00)  (DOCTOR IN:  83:24)
+DOCTOR: Hey we're gonna get a bone scan okay?  We're looking at some of the blood work.  We'll get you a bone scan.  Make sure all your bones are strong.
+PATIENT: Okay, when you want me to do that?
+DOCTOR: You can schedule it up front okay, say the doctor ordered a bone scan.
+PATIENT: Oh okay.
+DOCTOR: I want to see you again in three months.
+PATIENT: Okay doc.
+DOCTOR: Have you ever been checked for HIV?
+PATIENT: Uh yeah right before my stroke, so back in 96, 96 maybe 96, cause I had the stroke in 97, February, so I know it wasn't that year.
+DOCTOR: Okay.
+PATIENT: So it was like the previous year.
+DOCTOR: [REDACTED] alright so, we're gonna restart the cholesterol medicine.
+PATIENT: Okay.
+DOCTOR: Alright sir.
+PATIENT: Yeah, I have one more question doctor.
+DOCTOR: Yeah.
+PATIENT: I'm with this program, CWT Program here.
+DOCTOR: Uh-huh.
+PATIENT: And they are considering me working.
+DOCTOR: Hmm, okay.
+PATIENT: Is that, am I physically able to work?
+DOCTOR: If you're getting Home Health, I don't know if that's a good idea, you know what I mean?
+PATIENT: Right.
+DOCTOR: If I fill out all these papers saying that you need.
+PATIENT: Okay, okay.
+DOCTOR: Uh disabled.
+PATIENT: Okay ma'am, no problem.  I really want that.
+DOCTOR: I'd get help when you need to.  Are you low on money?
+PATIENT: No, no, it's just that I'm tired of just being in the house.
+DOCTOR: Oh, okay.
+PATIENT: All the time, was just for a while.
+DOCTOR: Oh volunteering?
+PATIENT: Well, well.
+DOCTOR: What type of work are we talking about?
+PATIENT: It's just scanning documents into a computer.
+DOCTOR: Why don't you just go volunteer?
+PATIENT: Well cause they're planning to do more volunteering than I do there and when I get no salary.
+DOCTOR: Yeah, that’s true.  The VA [REDACTED] takes good care of you [REDACTED].
+PATIENT: Right, well I get a special compensation cause I got two, I got two 100s really for the stroke and for the PTSD but it's just that I just want to do something with my life.  I'm not doing nothing just sitting and looking at the TV all day.
+DOCTOR: Do you think uh, do you think volunteering would be more fruitful for you cause, cause volunteerism is a little bit more like you know you're donating your time.
+PATIENT: I know but, but from what I understand the job description, I'm not, I would probably be doing less than if I volunteered.
+DOCTOR: And they need a note from me?
+PATIENT: No, no I was just asking your professional opinion.
+DOCTOR: Well the thing is if you, you know if you feel that physically you're able to do it, I encourage you, you know, to be more active in your life and happy if you want to do it.
+PATIENT: Right, well uh.
+DOCTOR: But, like I don't want you to go and then be limited to be there, you know kind of fall backwards.
+PATIENT: Well they, first my psychiatrist referred me to the program.
+DOCTOR: Oh good, okay.
+PATIENT: And and so.
+DOCTOR: Yeah.
+PATIENT: Then he signed off on it.
+DOCTOR: But again you know, if you're having a hard time taking care of yourself around the house, I, I wonder how um, well you'll do this job, you know what I mean?
+PATIENT: Yeah, right.
+DOCTOR: You could try it.
+PATIENT: Well we'll see, all, all the state could do is actually like, if somebody come out there, they don't do no vital signs or anything.
+DOCTOR: Okay.
+PATIENT: Or anything medical, they just want us come there and.
+DOCTOR: Help you around the house.
+PATIENT: Yes, I mean like go to the store for me.
+DOCTOR: Why don't you try it out and if you seem to struggle with it, you know, you know yourself.
+PATIENT: Right, okay.  Right, yeah okay, I think I could do it.
+DOCTOR: But to be honest with you, I'd rather you concentrate on your medicines.
+PATIENT: Okay, you're right.
+DOCTOR: Okay.
+PATIENT: Alright doc.
+DOCTOR: Let me put in the bone scan.  You can go ahead and, do you need help getting out?
+PATIENT: No I'm okay.
+DOCTOR: Okay.  I'm gonna put in the bone scan and then.
+PATIENT: So I just tell them at the check-out?
+DOCTOR: Yes, yep, exactly.
+PATIENT: Do want to give this form, this paperwork you gave me?
+DOCTOR: That's in the folder book.
+PATIENT: And then I can go pick up my meds sometime today?
+DOCTOR: Yep, that's right.  Thanks for remembering.
+PATIENT: Okay doc, okay then I'll see you in three months.
+DOCTOR: Okay, I'll see ya.
+PATIENT: Alright, thanks a lot.
+(DOCTOR OUT: 87:33)
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235220
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,236 @@
+DOCTOR: PATIENT.
+PATIENT: Over here.
+DOCTOR: Oh yeah.
+PATIENT: That's me.
+DOCTOR: Alright nice to see you.
+PATIENT: Good to see you too.
+DOCTOR: Right in here.
+PATIENT: Okay.
+DOCTOR: Alright sir.  What brings you in here today?  Just a regular follow-up?
+PATIENT: Just a regular call plus I need, I need to two appointments, two new appointments.  I need an appointment to my hearing, to get my ears checked on the 4th floor at the hearing station and plus I need a dermatologist appointment.
+DOCTOR: Okay.  What's your dermatologist appointment for?
+PATIENT: I got an itch that's going on a month and a half and I can't seem to get rid of it, it just gets worse.
+DOCTOR: Okay where have you noticed it?
+PATIENT: Oh it's on the heel on both sides, sometimes all around the wrist, on the shoulder, on this arm here and this shoulder now.
+DOCTOR: Okay what have you tried for it?
+PATIENT: And right down here.
+DOCTOR: What have you tried for it?
+PATIENT: Huh?
+DOCTOR: What have you tried for it?
+PATIENT: I got all kinds of stuff.
+DOCTOR: Creams and stuff.
+PATIENT: It's stuff.  They gave me, I got a liquid that I put on it and it helps and I also bought some other itch.  I think I need an allergy, a good allergy pill or something inside.
+DOCTOR: Okay.  Um.
+PATIENT: It comes on me worse when I eat, after I eat.
+DOCTOR: After you eat.
+PATIENT: It seem to attack other than that sometime I don't even notice I have an itch.
+DOCTOR: Alright do you have uh, do you notice any rashes or anything?
+PATIENT: Not that I know of.
+DOCTOR: Does [REDACTED] really itch or not?
+PATIENT: It may be nerves cause sometimes I've been scratching on it a bit.
+DOCTOR: So a couple uh a few months ago you came in with some swelling in your legs, how has that been doing?
+PATIENT: It's doing pretty good.  I also had to come in because of the itching.  Twice I was given a different itch medicine to stop the itch.  It all helped, but there's nothing permanent.
+DOCTOR: Okay.
+PATIENT: What are suggesting or think it is?
+DOCTOR: Uh that's a good question um.  Back to your last… sometimes.
+PATIENT: And see I went to see a dermatologist.
+DOCTOR: Yeah.
+PATIENT: I figured from what I explained to him, he was getting an idea as to what is happening.
+DOCTOR: Yeah they have a little more experience with that.  We'll talk with DOCTOR and see if he has any information, if he has any ideas.  Um.
+PATIENT: Would I be able to talk to DOCTOR before I leave here?
+DOCTOR: Yeah I'll talk to him.
+PATIENT: Oh good.
+DOCTOR: At least um and then I'll tell him what's been going on so.
+PATIENT: I have trouble sleeping.  I have to almost put the stuff all over my body in order to be able to get to sleep.
+DOCTOR: And uh have you tried anything other than creams?  Did they ever give you a pill for the itching?  Or has it always been creams.
+PATIENT: Say what?
+DOCTOR: Have they ever given you a pill for the itching or has it always been creams?
+PATIENT: No nothing to go inside, just something for the outside, an ointment and liquid type of stuff.
+DOCTOR: Okay.
+PATIENT: And an itch cream called male something and I got two bottles of that and then I got an ointment, its hydro something that supposed to keep you from.
+DOCTOR: Hydrocortisone?
+PATIENT: Yes.
+DOCTOR: Did that help some?
+PATIENT: I don't know I haven't used much of it yet.
+DOCTOR: Oh okay.  When did you get that?
+PATIENT: I got that a week and a half ago I think when I was here.
+DOCTOR: Okay.  That was the uh.
+PATIENT: I picked it up and the doctor who prescribed it said it might help it.
+DOCTOR: The oncologist?  DOCTOR?
+PATIENT: I can't say for sure.
+DOCTOR: Okay.  Um but you haven't used the cortisone cream much, the hydroxy cortisone?
+PATIENT: Do I have any?
+DOCTOR: Yeah the one they just started you on.
+PATIENT: I orded it when I was here before but I found out I got enough now for about three weeks.
+DOCTOR: Okay.  Did they give it to you, have you been using it?
+PATIENT: Uh I use it every day, I take one pill.
+DOCTOR: What about the cream?
+PATIENT: Oh the cream?
+DOCTOR: Yeah.
+PATIENT: I haven't used the cream.
+DOCTOR: Okay.
+PATIENT: I use that but the stuff seems to be doing pretty good when I put it on me.
+DOCTOR: Okay.  Well maybe what we'll do is give that cream a shot cause that cream usually stops itching.
+PATIENT: Oh yeah?
+DOCTOR: Yeah.  Um so I think that they were on the right track cause that's a good idea.
+PATIENT: Is there anything that I take inside that might help?
+DOCTOR: I'm not sure there is for the type of [REDACTED].
+PATIENT: I have a Benadryl or something like that that uh.
+DOCTOR: Right.  The problem is that the Benadryl can also have other affects and can make you tired and kind of goofy and so we're.
+PATIENT: I'm tired about this.
+DOCTOR: Right.  We don't want to make that any worse.  Um and some of the reason you're tired is cause you haven't been sleeping too well.  I think the cream is a good way to go though for starters.  Um first off it feels pretty good if you're itching and it does decrease the itch a fair amount.
+PATIENT: Well I'm trying to locate exactly what it is and get rid of it.
+DOCTOR: Right.  So that's.
+PATIENT: I'm checking my food.  I drank a whole lot of tea, all kinds of tea.  I quit all of it, all of a sudden, cause my daughter told me that's bad on my liver.  I said well it could be.  I said I don't have to have it.  I'm trying to check my sugar and my salt and trying to get an idea as to what's creating this.
+DOCTOR: Yeah so it looks like it's not your liver um cause the last time I checked your liver that looked fine.  Sometimes that can cause some itching.  Um and you're not on it, sometimes some pain medications cause itching but it doesn't look like you're on any of those either.  So um not totally sure what it is but I think and we don't see any rashes.  If we saw rashes then Dermatology might be even, they have a lot more information for us.  Since it's just kind of a.
+PATIENT: Well my skin now is a you know a funny color in the last month.
+DOCTOR: Uh-huh.
+PATIENT: It's giving signs and something like a puzzle or something.
+DOCTOR: Yeah so we'll talk to DOCTOR.  I think we should give the cream that they prescribed you, the hydrocortisone cream.  I think we should give that a shot and if that doesn't do it then we can maybe get you a dermatology appointment.  But I'll talk to DOCTOR and see how he feels.  Um any problems with your heart?  Any chest pain, trouble breathing?
+PATIENT: No I haven't.  I [REDACTED] she never mentioned a concern with my heart too.
+DOCTOR: Okay.
+PATIENT: In 08 I took an operation where they run a wire up from your legs.
+DOCTOR: Yeah.
+PATIENT: To your heart and it sort of stopped an intermittent condition.
+DOCTOR: Okay.
+PATIENT: I didn't never get the full results of that and DOCTOR is still giving me a heart pill that relaxes my heart to a certain extent.
+DOCTOR: Right.  So.
+PATIENT: I got the operation, one of them wasn't necessary I guess.
+DOCTOR: So what I'll do, let me see if I can bring up the report here.
+PATIENT: I'd like to get more information on it.  Is it in my files?
+DOCTOR: So it should be.  Let's see if it's in here.  I'll look a little bit further.  Back in June of 2008.  There we go.
+PATIENT: Do you think a dermatologist would be able to give a better idea as to what's happening?
+DOCTOR: Well I'm not sure that they would without a rash.
+PATIENT: I don't know whether I got a rash or not.
+DOCTOR: Okay we can take a look.
+PATIENT: Fine with me.
+DOCTOR: Alright.
+PATIENT: Start right here where it itch and on the side and I been scratching and I might have a little rash right now.
+DOCTOR: Yeah it looks a little bit irritated.  That might be some from your scratching.
+PATIENT: Yeah it's just on the outside.
+DOCTOR: Same sort of thing.
+PATIENT: And down here some on my stomach and right in my back, right across halfway on the back.
+DOCTOR: Take a look at the back here.
+PATIENT: Huh?
+DOCTOR: So I don't see anything that looks like it's.  Yeah sometimes, I'm sure it's itching.  I'm sure that's not the.
+PATIENT: Well that's the reason I figure I've gotten the hydrocortisone as well as this other male something which is a liquid.
+DOCTOR: Uh-huh.
+PATIENT: I've tried all of them.  They are helpful but I want to get rid of it.  It keep getting a little worse, a little worse and I need a better.  Somebody that know more about it or give me a good ideas as to what's going on.
+DOCTOR: Well I'll talk to DOCTOR and see if we can get this in line.
+PATIENT: Did you see any rash?
+DOCTOR: I didn't.
+PATIENT: I try to scratch as less as possible.  Now that it don't bother me too much during the day.  In your opinion do you think a dermatologist would help?
+DOCTOR: Well that's the question that we need to answer um.  They are really good with the skin and that's what they deal with day in and day out so they're good with skin conditions.
+PATIENT: Yeah.
+DOCTOR: Um and without a rash then it's kind of a toss-up and they might have enough information or they might say why did you send him here he doesn't have a rash.  That's kind of what the question we need to answer.  So if we think that they're gonna provide us some useful information then we could send you over there um.  Let's take a look at your legs quick.  Since you had swelling in the past.  I'll talk to DOCTOR and see what he thinks.  I know he's seen you in the past before.  Uh the swelling has been better than it had been?
+PATIENT: No it's not too bad, it's tender there.
+DOCTOR: Tender there yeah.  Um do you wear compression stockings at all?
+PATIENT: Off and on.
+DOCTOR: Okay.
+PATIENT: I put them on and sometime I have to get them off in a hurry as my legs start cramping.
+DOCTOR: Okay.
+PATIENT: I feel more comfortable without them.  I sleep with a pillow under my feet trying to make the blood pressure better.  Then I get cramps at night and sometimes if I don't drink enough water I have to get up and get out of bed and get the circulation going.
+DOCTOR: Yeah.
+PATIENT: Then you got to course over the Northwestern Hospital for the cramps in the leg and I'm thinking on joining them over there for a while to see if they can find out what's creating the cramps.  I get on my knees, I only stand on my knees ten minutes and then up in my thigh it looks like the blood starts clouding up and everything is getting hard.
+DOCTOR: Uh-huh.  Are you still taking aspirin?
+PATIENT: I took an aspirin today.  I take one in the day and sometime I take one at night but.
+DOCTOR: Okay.
+PATIENT: I take one a day anyway.
+DOCTOR: Alright and do you get that from us or do you get that from somewhere else?
+PATIENT: I get them somewhere else.
+DOCTOR: Okay that's fine.  Um let's see.  Uh any problems urinating?
+PATIENT: I didn't hear that.
+DOCTOR: Any problems urinating?
+PATIENT: No.  I take a good pill for that.
+DOCTOR: Okay.
+PATIENT: It's called tamsulosin and that's very good.
+DOCTOR: Alright that's fine.
+PATIENT: It keeps me regulated.
+DOCTOR: Have you gotten a pneumonia shot in the past?  The pneumonia shot?
+PATIENT: Say what?
+DOCTOR: Have you got a pneumonia vaccination in the past?
+PATIENT: Oh yes.  That's been about six years ago.
+DOCTOR: Okay.  That's in [REDACTED]@ and that's been nine years.  Alright, I'll go talk to the boss okay.
+PATIENT: Okay.
+DOCTOR: And I'll be back.
+(DOCTOR OUT:  35:40  DOCTOR IN:  41:27)
+DOCTOR: Alright so I'll put in a couple of consults and he does think it's not gonna hurt to get you to see Dermatology so we're gonna put that in.  And you haven't ever seen them before is that correct?  You haven't ever seen them?
+PATIENT: Huh?
+DOCTOR: You haven't ever seen Dermatology?
+PATIENT: No.  Can we tell them it's necessary for the doctor to come up with something that we use on the outside?
+DOCTOR: Yeah hopefully we'll see what they say um and how long has the itching been going on again?
+PATIENT: About a month and a half.  I used to take use some pills they called Benadryl that I used to take for allergies or something.
+DOCTOR: Yeah they still do that but like we talked about it can sometimes cause you to be, so it makes you tired and a little bit loopy and once people get above about 65, which you're a little bit above that, we try not to give it cause it sometimes can make you too tired and makes you confused so we want to avoid that.  Looks like you're really with it here.
+PATIENT: And if it solves the purpose I have [REDACTED] of it.
+DOCTOR: Uh it's kind of a risk and benefit.  I think we'll see if there's anything else we can do cause we'd rather have you a little bit itchy and alert than confused and not.
+PATIENT: Uh what did DOCTOR say?
+DOCTOR: He said we'll get you to see Dermatology and see if they give us anything, any information.
+PATIENT: Yeah that's something would ease my mind.
+DOCTOR: We'll have them schedule that out front.
+PATIENT: Did he say anything about that heart examination I got?
+DOCTOR: Yeah, so we actually looked at it and it looked like it was um, there's some atherosclerosis which is like the vessels being a little bit um, a little bit narrowed but there's nothing, like no like lesion there that's causing your problem.  There's no blockages.
+PATIENT: Or did that correct the intermittent heartbeat?
+DOCTOR: So that probably didn't correct it um.  Or did you have a procedure where they went in and like burned some of the heart tissue?
+PATIENT: I don't know, you know he went up in there with a wire sort with something on the end, it was supposed to do its job but it was I'd have to read the full report again.
+DOCTOR: And you just had that once is that right?
+PATIENT: Yes, [REDACTED].
+DOCTOR: Okay so yeah what they did is they checked um, they checked the uh vessels of the heart to make sure that wasn't causing the problem and that wasn't it and so they just put you on the medications, one of the medications you're on is to control the heart rate and so that was the plan.
+PATIENT: So he said that [REDACTED] wasn't in uh.
+DOCTOR: So your heart rate's fine now which is what we really look at.  That's kind of how we follow it.  Okay.  So you've seen the ear doctors about your hearing aid right?
+PATIENT: Yes I've seen, they tuned up my hearing aid.
+DOCTOR: Okay.
+PATIENT: And told me that I'd have to get a confirmation or something to get my ears checked [REDACTED] so that the hearing aids are the correct ones for my hearing.
+DOCTOR: Okay so you're gonna go back to the Audiology Department?
+PATIENT: Yes.
+DOCTOR: Okay.  We can set that up.  So what we'll do is, you can take this paper out front, they'll schedule the appointment for the hearing aid in a couple weeks, Dermatology hopefully within two weeks.  I'm not sure how long it takes to get in there.  It might be a little bit longer than that.
+PATIENT: Alright.
+DOCTOR: And then uh you'll come back here in about four months.  So it looks like, do you need any refills on your medications?
+PATIENT: I don't know do I?
+DOCTOR: Let's see.
+PATIENT: Take a quick look, please.  He got a DOCTOR got very good hopes I'd be alive four months from now.
+DOCTOR: Yep.  He does.  And you get your medications in the mail?
+PATIENT: I'll pick it up.
+DOCTOR: Oh you pick it up.
+PATIENT: They send some in the mail; it's something they [REDACTED].
+DOCTOR: Okay.  Alright it looks like you've got, looks like you've got enough medications so you should be set.
+PATIENT: I have any refills on all of them?
+DOCTOR: Yep you've got refills on everything.
+PATIENT: Good, that's fine.  I hope I don't have to itch before I see Derm.
+DOCTOR: Yeah you should be able to see them before it itch gets bad.
+PATIENT: Wonder if the dermatologist possibly could tell me, if he has any ideas of what's going on I think, he should have.
+DOCTOR: Hopefully yeah, hopefully.  See if they have any reminder for me before you go.  Sometimes they have some questions that they want us to ask you every once in a while.
+PATIENT: You're not giving me any type of medicine or anything I think.
+DOCTOR: Nothing new.
+PATIENT: Nothing new.
+DOCTOR: Uh do you use tobacco?  Do you still smoke?  Have you ever smoked?
+PATIENT: Yes.  Like a chimney.
+DOCTOR: When did you quit?
+PATIENT: Oh I quit about 24 years ago.
+DOCTOR: Oh wow alright.  So about 1985, something like that.
+PATIENT: Uh longer than that uh I quit smoking let's see after I was in my program for 7 years, I'm an alcoholic.
+DOCTOR: Okay.
+PATIENT: So I quit drinking in '75 and it was seven years from '75 when I quit smoking.
+DOCTOR: Uh '84.
+PATIENT: Alright.  So it's been quite some time.
+DOCTOR: Okay.  And um have you ever done something called an Advanced Directive?
+PATIENT: Say that again.
+DOCTOR: Have you ever done an Advanced Directive?  It basically is uh, you fill out a form that says what you'd want done in certain scenarios so.
+PATIENT: You mean when you die?
+DOCTOR: Well or before.  If something would happen where your health gets a little bit, gets worse.
+PATIENT: I want them to do the best you can to keep me going.
+DOCTOR: Okay.  Let's see.
+PATIENT: I haven't lost faith in this world, even though it's cruel at times.
+DOCTOR: Alright.  Alright sir that should do you.
+PATIENT: Okay.
+DOCTOR: Let us know if there's anything we can do for you in the meantime and they'll schedule those appointments out front.
+PATIENT: All I do is take this out front?
+DOCTOR: Yep, just show them at the front desk.
+PATIENT: Okay thank you doctor.
+DOCTOR: Alright sir, take care.
+PATIENT: Leave the door open?
+DOCTOR: Leave it open.
+PATIENT: 51:45.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1286137
+TRANSACTION # 578-10-2-316-0103

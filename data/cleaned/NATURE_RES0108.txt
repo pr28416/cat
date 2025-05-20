@@ -1,0 +1,103 @@
+DOCTOR: What brings you in?
+PATIENT: Hi. Uh, I've just had this cough for the past week and I was worried I might have Covid so I just wanted to um I just wanted to be checked.
+DOCTOR: Sure, so you mentioned you, it started a week ago.
+PATIENT: Yeah.
+DOCTOR: Has it been persistent or does it come and go?
+PATIENT: Um it's just been there.
+DOCTOR: Been there. OK.
+PATIENT: Yeah, I just get this itchy sort of uh like scratchy sensation in my throat. And then I just cough and um that makes it better.
+DOCTOR: OK. OK, uhm what, how would you describe your cough like is it barky? Is it harsh? Is it muffled?
+PATIENT: Uhm no, I don't I don't think it's barky or harsh.
+DOCTOR: OK, and does anything make it better or worse like you know, like the cold air, laying down, at particular time of day?
+PATIENT: Not really, I haven't uh, nothing's really helped. Um I also tried a cough syrup, um it didn't, it helped for a couple hours, but then it was back again. The cough was back again.
+DOCTOR: OK, and have you ever experienced anything like this in the past?
+PATIENT: Uh well, I I said yeah when I get a cold.
+DOCTOR: Mhmm, OK.
+PATIENT: Once a year maybe.
+DOCTOR: Once a year? OK. Um do you experience any shortness of breath with this cough?
+PATIENT: No.
+DOCTOR: No, OK. Is it a dry cough or do you bring up any phlegm?
+PATIENT: No, it's a dry cough.
+DOCTOR: OK, uh any blood that you've seen?
+PATIENT: No, no.
+DOCTOR: No, OK. And do you feel wheezy?
+PATIENT: No.
+DOCTOR: No, chest pain?
+PATIENT: No.
+DOCTOR: No, um feeling like your heart's racing?
+PATIENT: No.
+DOCTOR: Any swelling in your limbs?
+PATIENT: Uh no.
+DOCTOR: No, any fainting spells?
+PATIENT: Uhm, no.
+DOCTOR: No, OK. Do you ever feel like your nose is stuffy or runny?
+PATIENT: No.
+DOCTOR: No, any changes in your vision or hearing?
+PATIENT: Uh no.
+DOCTOR: A sore throat?
+PATIENT: No.
+DOCTOR: Um loss of smell or taste?
+PATIENT: No.
+DOCTOR: Any weight loss?
+PATIENT: Uh no.
+DOCTOR: Fevers?
+PATIENT: I checked no, no, I don't have a fever.
+DOCTOR: No, any rashes?
+PATIENT: No.
+DOCTOR: Issues uh, any changes in your bowel movements?
+PATIENT: Um uh no, I've just been constipated from time to time, but that's nothing, that's not new.
+DOCTOR: OK, constipation. And I'm sorry when did your constipation start?
+PATIENT: Oh it's a problem for years. I don't eat enough fibre.
+DOCTOR: Oh, OK. Any changes in your urine?
+PATIENT: No.
+DOCTOR: OK, any nausea or vomiting?
+PATIENT: Uh, no.
+DOCTOR: No, OK. Any joint pain?
+PATIENT: No.
+DOCTOR: No, numbness or tingling?
+PATIENT: No.
+DOCTOR: Headaches?
+PATIENT: No.
+DOCTOR: No, OK. Are you otherwise healthy? Do you have any longstanding medical conditions?
+PATIENT: I have diabetes.
+DOCTOR: OK, how long have you had diabetes?
+PATIENT: It's about, it's been uh seven years now.
+DOCTOR: OK, any hospitalizations or surgeries in the past?
+PATIENT: No.
+DOCTOR: OK and um how about medications? Are you on any?
+PATIENT: Uh yeah, I've been taking uh metformin for the past uh, for the past five years, when, five or six years.
+DOCTOR: OK.
+PATIENT: Um and uh my family Doc started me on uh ramipril about two weeks ago, he told me that uh now that I'm 50, I need to I need to be on this pill as well, so now I have to take 2 pills instead of one.
+DOCTOR: OK.
+PATIENT: Yeah because I think it's it's good for my heart or something.
+DOCTOR: Yeah, for sure. So you started that two weeks ago, OK. Are you up to date with all your immunizations?
+PATIENT: Uh yeah, I think so.
+DOCTOR: OK, any allergies?
+PATIENT: Uhm penicillin, I just get uh I get a rash. I got a rash when I was a child, I haven't had it since then.
+DOCTOR: OK, OK. Any family history of lung or heart conditions?
+PATIENT: Uh no, nothing like that.
+DOCTOR: No, OK. Do you smoke?
+PATIENT: Uh, no.
+DOCTOR: No, how about, uh, marijuana or other recreational drugs?
+PATIENT: No.
+DOCTOR: No, OK, um alcohol?
+PATIENT: Uh yeah, I drink on the weekends.
+DOCTOR: OK, what do you drink and how much do you drink?
+PATIENT: I'll have maybe two or three uh bottles of beer.
+DOCTOR: OK sure, and um have you been in contact with any sick people recently?
+PATIENT: No, no, I've just been staying at home.I'm just scared of covid, but I'm I'm still worried I might have somehow gotten it.
+DOCTOR: Yeah, for sure. Uhm, any travel recently?
+PATIENT: No.
+DOCTOR: No, OK. And where do you live right now?
+PATIENT: I live in a house with my wife and my two kids.
+DOCTOR: OK, uh are they healthy?
+PATIENT: Yeah, they're all healthy.
+DOCTOR: OK. Any old carpet, dust, mold, or asbestos in your home?
+PATIENT: Um not that I'm aware of.
+DOCTOR: No, OK. OK, well it seems like um those are all the questions that I had for you today. Did you have any questions of your own?
+PATIENT: Uh no, I just want to get tested for Covid.
+DOCTOR: Yeah, so we will definitely do a Covid swab on you because you have a cough, um and those results should come back to you in about 24 to 48 hours, and so you'll know more then. But because your symptoms do overlap with that of Covid, we still recommend isolating for 14 days. But the other thing I want to mention is that you don't have any other symptoms of infection besides your cough, and it seems like the cough started a week ago and you started this new medication ramipril two weeks ago, and so ramipril is a type of ACE inhibitor and one of its side effects is that in some people it can cause coughing. So, I am going to review your medications and if your family Doc also agrees, we may try uh another um blood pressure medication for you instead of ramipril.
+PATIENT: Sure.
+DOCTOR: Um so we'll try and change that medication and see if your coughing stops. How does that sound?
+PATIENT: Sounds great.
+DOCTOR: OK, great, thank you.

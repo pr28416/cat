@@ -1,0 +1,79 @@
+DOCTOR: I understand that you've been having some diarrhea. Can you tell me a little bit about that?
+PATIENT: Yeah, sure I had, I've been having diarrhea for the past three to four days, and it's been pretty bad. I couldn't go, uh I couldn't go to my classes, had to skip because it was just it was just embarrassing.
+DOCTOR: OK, I'm sorry to hear that. Uh, have you ever experienced something like this before?
+PATIENT: Um, have I experienced something like this before? Uhm no, I don't think so.
+DOCTOR: OK. And over the three or four days, have your stools all been loose? Or have you had some solid ones in between?
+PATIENT: I think they've mostly been loose. I think they've all been loose actually, if I think about it.
+DOCTOR: OK, and how many times a day have you been having episodes of diarrhea?
+PATIENT: Oh my god, I have I've lost count. I'm going every every hour.
+DOCTOR: OK, every hour. OK, and then you notice any changes in the color of your stool?
+PATIENT: No, it's brown.
+DOCTOR: OK. Any blood in your stool that you've noticed?
+PATIENT: Um not really. I don't think so. I don't look that much to be honest.
+DOCTOR: OK, um have you noticed any any pain associated with it?
+PATIENT: Well, I didn't start off with pain, but I I I do have a bit of a cramp now since yesterday. It's just it hurts. Yeah, it hurts sometimes, it comes and goes.
+DOCTOR: OK, and do you feel that when it, do you feel that you still have control over like releasing it to like does it come on and you don't even notice that it has happened or you still are able to kind of have a warning before you get to the toilet?
+PATIENT: Uh no I do get a warning, but it's just I I do need to get to the toilet really fast, yeah.
+DOCTOR: OK, and before this happened, have you noticed, have you, is there anything that you've done differently that you've been eating differently, or any other changes that have happened in your life recently?
+PATIENT: Um, I I did go to um, I did go to a new restaurant 5 days ago.
+DOCTOR: OK, what did you have there?
+PATIENT: Um  I I just got some rice with chicken Manchurian, it was a nice little Chinese restaurant, and yeah.
+DOCTOR: Did anyone else have the same thing that you did that you were with?
+PATIENT: Um, no not really, I went with my friend and I haven't really, haven't talked to her about this. I never really thought that these were related, that this was related to that.
+DOCTOR: And then it's, you know, absolutely, potentially not like, maybe not. It could possibly be so not to not to worry you about that. We just like to get an idea of kind of the whole picture of what you're coming in with. So in terms of the last three to four days, have you experienced any nausea or vomiting?
+PATIENT: Yeah yeah, I have actually, but it's not been as bad as the diarrhea. I didn't even yeah, I didn't, I wasn't even thinking about that. Yeah, I I did vomit, I think twice yesterday.
+DOCTOR: OK, have you noticed any blood in the vomit?
+PATIENT: No, it's just watery.
+DOCTOR: And are you nauseated all the time, or is it kind of on and off?
+PATIENT: It's on and off.
+DOCTOR: OK, have you taken any any over the counter medicine or anything to help?
+PATIENT: Uh, not really. I was just trying to drink a lot of water, 'cause I I know that I can get dehydrated so just drinking lots of water.
+DOCTOR: OK, well that's good to hear. Have you have you been eating normally or have you not been eating as much as you regularly do?
+PATIENT: I have been eating less specially since yesterday when I had my these abdominal cramps started. I just don't feel like eating.
+DOCTOR: OK. Is there anything that has been making it worse?
+PATIENT: Making what worse?
+DOCTOR: Just in general, like is there anything that you're finding makes your nausea or your diarrhea come on?
+PATIENT: Not really, I don't think so.
+DOCTOR: Do you notice any changes to your urine or any discomfort when going to the bathroom?
+PATIENT: No.
+DOCTOR: Have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: OK, and have you noticed any fever or chills in the last few days?
+PATIENT: Um, I've just been feeling really tired and and, I don't know, maybe I haven't checked my checked my temperature.
+DOCTOR: OK. Have you noticed any rashes or changes in your skin?
+PATIENT: No.
+DOCTOR: OK. Have you noticed any major changes to your weight, I know that you might not weigh yourself everyday, but anything that jumps out to you?
+PATIENT: I actually haven't weighed myself in the past five days, so I don't, I don't know.
+DOCTOR: OK. OK, I'm I'm just gonna jump to you and your general history. Do you have any history of problems with your digestive system?
+PATIENT: No.
+DOCTOR: OK. Do you have any chronic conditions that you see a family doctor for regularly?
+PATIENT: I have asthma.
+DOCTOR: OK. Do you take any medication?
+PATIENT: Yeah, I've got some puffers that my family doc gave me.
+DOCTOR: OK. Nothing else?
+PATIENT: No, that's it.
+DOCTOR: Do you have any allergies?
+PATIENT: Um, no I don't.
+DOCTOR: Have you (unclear speech due to connection issues)?
+PATIENT: I'm sorry, can you say that again?
+DOCTOR: Have you ever been hospitalized in the past?
+PATIENT: Um? I had my wisdom teeth removed. But no, I like I wasn't hospitalized, no.
+DOCTOR: Have you been in contact with anyone recently that's been sick?
+PATIENT: Nope, I don't think so.
+DOCTOR: OK. What is your living situation right now? You said you're a student?
+PATIENT: I am.
+DOCTOR: OK, and do you live, do you live on your own, with family, with roommates?
+PATIENT: I live with two roommates.
+DOCTOR: Do you drink alcohol?
+PATIENT: Um, sometimes.
+DOCTOR: OK, how how many drinks per week would you say?
+PATIENT: I might have like a glass or two on the weekends.
+DOCTOR: OK, do you smoke?
+PATIENT: No.
+DOCTOR: OK, do you use any other substances?
+PATIENT: No.
+DOCTOR: OK, and what would you eat on a regular day typically, what would your typical diet be?
+PATIENT: Oh gosh, um well, I like to have oatmeal for breakfast. I usually make something quick for lunch, maybe like a salad, and then I might have my, I'll probably just like eat out at night, maybe get like a burger or fries or something.
+DOCTOR: OK. Well, and I just wanted to jump over to ask you about your family history. Does anyone in your family have any history of digestive problems, or um abdominal problems, abdominal surgery?
+PATIENT: My brother had appendicitis when he was young. Um, my mom has had a hysterectomy if that counts. Yeah, nothing else.
+DOCTOR: OK. OK, thank you for sharing that with me. So I think that's everything that I wanted to ask you for today.

@@ -1,0 +1,221 @@
+DOCTOR: PATIENT?
+PATIENT: How you doing?
+DOCTOR: Alright thank you.  [REDACTED].
+PATIENT: Uh DOCTOR.  I don't care.
+DOCTOR: So what's going on?  What brings you in today?
+PATIENT: Okay uh, I was here I think the 6th and the reason I came in, well let me backtrack.  In September I had bladder surgery for removal of the bladder because of uh cancer, tumor, and then I noticed this was starting to get swelled up.
+DOCTOR: Okay.
+PATIENT: Just the left, this one here okay.
+DOCTOR: Alright.
+PATIENT: Now um after surgery when I was in Recovery it swelled up.  They had that machine on there to do the pumping.
+DOCTOR: Yeah.
+PATIENT: And then I don't know why it's swelling up.
+DOCTOR: So you had surgery when did you say?
+PATIENT: September 6th.
+DOCTOR: It swelled up then, following surgery.
+PATIENT: Right.
+DOCTOR: Was it both sides or just the left?
+PATIENT: Just the left.
+DOCTOR: Did it slowly go away then after surgery or has it been there since then?
+PATIENT: No, it went away um.  I had a month's supply of injections I was giving to myself for clots.
+DOCTOR: Okay.  Have you ever had a clot, blood clot before?
+PATIENT: No not that I'm aware of.
+DOCTOR: So when did you first notice that it was starting to swell again?
+PATIENT: Um probably maybe a month ago.
+DOCTOR: Okay.  Has it gotten worse or is it just about the same from when you noticed it?
+PATIENT: No it was worse but then it went down.
+DOCTOR: So it went down a little bit.
+PATIENT: But it's still swollen.
+DOCTOR: Swollen still.
+PATIENT: Oh wait a minute, survey, I don't know if NAME gave it to me.
+DOCTOR: Oh for the thing.
+PATIENT: Oh it must.
+DOCTOR: Yeah I think so.
+PATIENT: Can I leave it right here?
+DOCTOR: Yeah that's okay.
+PATIENT: (Laughter)
+DOCTOR: So it got more swollen, let's see and now it's went down.  Alright.  Any pain associated with it?  Any redness?
+PATIENT: Just the way it is now.
+DOCTOR: Prior to this all starting back in September, had you ever had uh swelling like that before, in this leg at all?
+PATIENT: No, nothing.
+DOCTOR: You don't have any history of this before.  Any other medical issues, high blood pressure.  You don't have any problem with heart disease or heart attack or heart failure?
+PATIENT: Uh they discovered I have a fib.
+DOCTOR: A fib.  Are you on Coumadin?
+PATIENT: No.
+DOCTOR: No.  Let's see your medications, you have an albuterol inhaler.
+PATIENT: Which I really do not use that often at all.
+DOCTOR: Okay.  They have you on Digoxin is that for the a fib I assume?
+PATIENT: Yeah it's for the heart.
+DOCTOR: Okay.
+PATIENT: Once a day. Taking that.
+DOCTOR: You're on the metoprolol?
+PATIENT: Right twice a day.
+DOCTOR: Sildenafil?
+PATIENT: Yeah the reason um they uh prescribed that is because before I had the uh surgery to remove the bladder at the same time they removed the prostate because it was high PSA.
+DOCTOR: I see.
+PATIENT: So while they were there they might as well take it and prior to that surgery um my wife and I enjoyed a very good sexual active life in the 44 years we've been married.
+DOCTOR: Sure.
+PATIENT: Now after the surgery I cannot get an erection uh.  They told me that they would do all they could with the nerve-sparing.
+DOCTOR: Hmm.
+PATIENT: Okay so what they uh started out doing is um giving me the uh sildenafil which is I guess Viagra.
+DOCTOR: Viagra.
+PATIENT: And uh that is not working.
+DOCTOR: Hmm.
+PATIENT: They got me a pump.
+DOCTOR: Uh-huh.
+PATIENT: And I've been using that but I stopped using that because I can, it'll get hard but as soon as I take the pump away, even with the rings on the penis.
+DOCTOR: Hmm.
+PATIENT: It just.
+DOCTOR: Goes away.
+PATIENT: Goes away and then uh what else.  I'll be coming back here on the 25th I believe where they will either give me an injection in the penis with some medicine or put it right down the urethra.
+DOCTOR: Yeah, yeah.
+PATIENT: Okay and we'll see if that works so.
+DOCTOR: Yeah.
+PATIENT: I'm fucked.  Excuse me.
+DOCTOR: Yeah that's a difficult thing and unfortunately that's one of the concerns with taking out the prostate and you see sometimes there'll be erectile dysfunction afterwards.
+PATIENT: And like I said you know prior to the surgery you know I didn't have any problems at all.  You know I didn't have any ED at all but then they warned me.  They also said that it might take up until a year for it to come back where I'll be able to get an erection again but if none of this therapy, so-called therapy doesn't work, will it come back naturally? I don't know.
+DOCTOR: Yeah.
+PATIENT: Nobody knows.
+DOCTOR: Um how about, have you been having shortness of breath at all or problems breathing since you've had the swelling?
+PATIENT: No not really.
+DOCTOR: No chest pain at all?
+PATIENT: No and you know I, I'm a smoker and unfortunately I still smoke uh.  They asked me if I needed help quitting and they said you know if I quit you know I'll do it on my own.
+DOCTOR: Okay.
+PATIENT: But I drastically cut down you know from what I was smoking before the surgery.
+DOCTOR: Sure.  Yeah I mean if you would like to quit smoking, if you need any help at that time whenever you decide you're are ready.
+PATIENT: Yeah they all say these things here.
+DOCTOR: Um it looks like that was normal.  The echocardiogram, just looking at some of your stuff that was normal.  Your heart function was relatively normal back in August.  I don't know if you remember them doing that.
+PATIENT: Uh-huh.
+DOCTOR: So yeah, let me have a look at you here.  Have a seat over here.  Take a moment to wash my hands.  I'm going to listen to your heart and lungs here.
+PATIENT: Want the jacket off?
+DOCTOR: No I'll just slide down here no problem.  Take some deep breaths for me.  [REDACTED], a little bright light in the eyes.  So never any swelling in this one at all?
+PATIENT: No.
+DOCTOR: No pain there, you don't have anything there.  How much would you say it was at one point?  Quite a bit worse from what it is now?
+PATIENT: You know just maybe 10 or 15% more than it is now.
+DOCTOR: Yeah.
+PATIENT: And in the back it's swollen.
+DOCTOR: How about the thigh at all, do you notice it in the thigh at all?
+PATIENT: No.
+DOCTOR: It stops at the knee?
+PATIENT: Yeah.
+DOCTOR: No pain on pushing here.  No pain when I'm doing the anything there at all?
+PATIENT: No.
+DOCTOR: Okay.  I'm going to have you lay back down.  Let's see your pouch over here.
+PATIENT: Right here.
+DOCTOR: You haven't had any issues with that; it's been draining fine and everything?
+PATIENT: Yes.
+DOCTOR: Okay.  No pain in the belly here.
+PATIENT: No.
+DOCTOR: When I'm pushing around anywhere.
+PATIENT: No.
+DOCTOR: Or anything like that.  Alright. Let me sit you back up here.
+PATIENT: Can I uh put my socks back on?
+DOCTOR: Yeah, yeah that's fine.
+PATIENT: And after I was here I saw the last time, the NURSE.
+DOCTOR: Yeah.
+PATIENT: And she said that DOCTOR would probably call.  Well he never called but she called saying that he wanted me to come in here.
+DOCTOR: Today yeah.
+PATIENT: Sooner than the 25th.
+DOCTOR: Yeah to see me yeah.
+PATIENT: Because of the possibility of maybe a clot.
+DOCTOR: Blood clot.
+PATIENT: Yeah.
+DOCTOR: That's what we're probably concerned about.  So, yeah sometimes blood clots can cause swelling in the leg.  I think we should, I'm going to talk to my attending but I think we should probably check.  I'm not really convinced about there being a blood clot in there because usually when you have a blood clot in there patients have a lot of pain associated with it in the calf or they'll even have some redness and swelling um which you told me you have not had an issue with.
+PATIENT: Right.
+DOCTOR: But you are at an increased risk of blood clots just because you have had surgery here in the past and the tests they do is pretty easy, it's just some jelly on the leg and they do a Doppler ultrasound, similar to an ultrasound.
+PATIENT: Yeah that's what she had mentioned.
+DOCTOR: Like on a pregnant woman.
+PATIENT: Now I might mention this, now I've never been diagnosed but when the weather is cold.
+DOCTOR: Uh-huh.
+PATIENT: My fingers on both hands, not at the same time, might turn white and uh I think it's something called Raynaud.
+DOCTOR: Raynaud's phenomenon yeah.
+PATIENT: But then after a while, you know they warm up and it goes away but it happens quite often.
+DOCTOR: Okay.  Yeah that's another one of those things that's common.
+PATIENT: Hmm.
+DOCTOR: And unless it causes you a lot of disability and pain there are medications you can take for it but they don't work that well.
+PATIENT: No.
+DOCTOR: Usually our thing is, wear gloves when you're gonna be outside.
+PATIENT: I don't want to take any more medication.  I'm taking enough now.
+DOCTOR: Yeah.
+PATIENT: And I just don't like to take any pills whatsoever but what are you gonna do as you get older.
+DOCTOR: Yeah, that's just part of the process.  Um let me go chat with the other doc, with the attending doctor and talk about if there's anything else you know we'll want to do or think about and then I'll come back on in and let you know okay.
+PATIENT: Okay.
+DOCTOR: Be back with you shortly.
+(DOCTOR OUT:  61:27  DOCTOR IN:  69:44)
+(Knock on door)
+PATIENT: Hello.
+DOCTOR: Alright, sorry for the delay.
+PATIENT:
+DOCTOR: do you spell your name?
+DOCTOR: DOCTOR.
+PATIENT: And your first name?
+DOCTOR: DOCTOR.
+PATIENT: Yeah okay, thank you.
+DOCTOR: So I called the Vascular Lab and actually I'll send you up to the fifth floor to have them do that test right now.
+PATIENT: Oh okay.
+DOCTOR: Just to make sure that that's not what's going on cause that's requires treatment if it is.
+PATIENT: What could it be if isn't a clot?
+DOCTOR: If it's not a clot I'm not exactly sure what is causing it um and if it bothers you, we can try like some TED hose type things which is just compression, type of compression stocking.
+PATIENT: Oh.
+DOCTOR: Um but otherwise we can, I was going to just have you follow back up with DOCTOR cause you're scheduled to see him on the 28th of this month here so in a few weeks.
+PATIENT: Uh-huh.
+DOCTOR: Um and the other thing you can do is sometimes people just have some difficulties with maintaining their fluid balance and they lose fluid and usually it's bilateral which is kind of like.
+PATIENT: Well I drink a lot of liquids.
+DOCTOR: Uh-huh.
+PATIENT: All day long.  Not only fruit juices but water, coffee, tea, diet soda.
+DOCTOR: Yeah.
+PATIENT: I'm constantly emptying the bag.
+DOCTOR: The bag.  You could cut down, try cutting.  How much are you drinking in a full day?  Would you say how many you know how much would you say 8 ounce?
+PATIENT: Uh I might have like a beer before dinner but not every day.
+DOCTOR: Okay.
+PATIENT: Or like uh the other night we had lamb chops and I had a glass this much of wine.
+DOCTOR: Okay.
+PATIENT: Dark or red wine.  What would drinking have to do with the swelling?
+DOCTOR: So this fluid is what, [REDACTED] sometimes.
+PATIENT: So that's fluid?
+DOCTOR: Yeah I mean that's fluid, that's what is swollen that's actually fluid, you know.
+PATIENT: Really.
+DOCTOR: That went out of your blood vessels and into the tissue which is why I think.  I mean initially you had this in the hospital and a lot of times when you're in the hospital having surgery you get a lot of fluid.  Do you remember, they probably gave you IV fluids and you know things and that's very common in patients you know who get, are in the hospital and have uh get a lot of intravenous fluids that sometimes they'll get swelling particularly in the legs.
+PATIENT: From the IVs?
+DOCTOR: Just from, more fluid, so your body, you only have so much space inside the blood vessels to put fluid and if you're, you know you should get rid of fluid or urinating or you get rid of through sweating and stuff like that but generally it's urinating out and sometimes if you're getting too much fluid, you get more fluid than actually the kidneys can keep up with cause all fluid has to be filtered out through the kidneys and it kind of builds up and it has to go somewhere um because you know fluid is something that's not compressible and only so much can fit in the blood vessels and when the blood vessels get too full it kind of leaks out and will go into the tissues.
+PATIENT: Hmm.
+DOCTOR: And then that's where you end up getting the swelling and the edema and the legs are a real common site for that to happen.  It's just a little concerning cause you never have problems with the right leg it's only ever in the left leg.
+PATIENT: Just the left one yeah.
+DOCTOR: We'll see what this shows and if you, are you interested in trying some TED hose type thing, stockings, would you wear that?
+PATIENT: Well my wife can get them at her work, she works at Walmart.
+DOCTOR: Okay.  You can try that and then come back and is it is still really bothering the only other thing we can do just to see if it is a big fluid imbalance we can give you a diuretic which will just remove a little bit.
+PATIENT: Is that like a water pill?
+DOCTOR: Yeah um a water pill.
+PATIENT: Uh no, no like I said nothing hurts.
+DOCTOR: Yeah but I mean it's also a matter of what becomes a bother.  If it bothers you if this was you know.  We worry about things that can cause concern, big problems.
+PATIENT: Well am I drinking too much during the day based on what I told you, like I said.
+DOCTOR: Well I mean it's not like you're drinking a tone, you're getting some but you don't seem to be drinking a ton of fluids throughout the day.  But if you want to cut back a few days and see if that effects the swelling, I mean see if that makes any difference.
+PATIENT: Yeah I can try that; I can experiment with that sure.
+DOCTOR: I mean sort of drink some fluid, obviously throughout the day but first things first, make sure that there's not a blood clot in here.
+PATIENT: Right.
+DOCTOR: Causing all this um so I'll sign that and I will forward my notes to DOCTOR and if there is a blood clot I'll of course get the results you know will be back later today but call me and we'll start you on a blood thinner, something like what you were on before like the Lovenox, the shots.
+PATIENT: It was something else.  What'd you call it?
+DOCTOR: Lovenox or enoxaparin, was that what you were on?  Was it a blood thinner shot?
+PATIENT: You know, all I know is just like I put it in and it just, when I pushed the needle went in and came right out.
+DOCTOR: Hmm.  Maybe we're [REDACTED].
+PATIENT: I can't think of the name.  But I had a 30 day supply of it and they told me to use it all.
+DOCTOR: [REDACTED].  Alright.
+PATIENT: Okay so where do I go now?
+DOCTOR: Fifth floor, just go to the check-in desk on the fifth floor.
+PATIENT: Okay.  That's all I have to do?
+DOCTOR: Yep.
+PATIENT: Okie doke.
+DOCTOR: And they'll do the test real quick to be sure.  If it's positive they'll give me a call.
+PATIENT: Yeah let me know uh how late are you gonna be here today?
+DOCTOR: They'll, if it's positive they'll have you stay there and give me a call.
+PATIENT: Oh I see okay.
+DOCTOR: Just check out here.  He's already scheduled to follow up with DOCTOR but if he needs anything he can also be with me.
+PATIENT: Okay thanks doctor.
+DOCTOR: Nice meeting you, take care.
+PATIENT: Take care.
+PATIENT: 76:59
+Time is 11:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249453
+TRANSACTION # 578-10-2-316-0103

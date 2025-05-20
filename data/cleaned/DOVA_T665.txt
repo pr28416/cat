@@ -1,0 +1,255 @@
+PATIENT: DOCTOR.
+DOCTOR: Come in.
+PATIENT: I'm okay, how you doing?
+DOCTOR: How you doing?
+PATIENT: [REDACTED].
+DOCTOR: So we haven't seen you since September huh?
+PATIENT: Was it September, okay.
+DOCTOR: Uh-huh.  Back then you were having some, you were getting shortness of breath when you were walking so we had you.
+PATIENT: Oh yeah and that was when uh they took me off those water pills.
+DOCTOR: Oh right.
+PATIENT: Yeah and that seemed to do it.
+DOCTOR: Really.
+PATIENT: You know, it looks like they was making me feel tired.
+DOCTOR: Okay.
+PATIENT: Yeah so I feel better now but uh.
+DOCTOR: You feel better now?
+PATIENT: Yes.
+DOCTOR: So you think it was going off that water pill that did it?
+PATIENT: I think why.  At first I thought it was the [REDACTED] but it was doing it, it make me feel tired you know.
+DOCTOR: Okay.
+PATIENT: But uh the water pills, he cut me, he took me off the water pills.
+DOCTOR: Okay.
+PATIENT: I was taking a half of them.
+DOCTOR: Right, right and we just stopped it all together.
+PATIENT: Right.
+DOCTOR: Right.
+PATIENT: And then too I had a little [REDACTED] here that, uh I was a little tired and [REDACTED] a little stronger.  Okay is there any medicine that I may cancel, uh [REDACTED].
+DOCTOR: You want to get rid of some medicines?
+PATIENT: Yeah I wants to know if there are any that I am taking that I shouldn't have, shouldn't take.
+DOCTOR: You shouldn't have any more.
+PATIENT: Uh-huh.
+DOCTOR: Well what are you taking right now?  Cause I have a list here but.
+PATIENT: I take uh about six different medicines now, including the aspirin.  I take uh omeprazole and uh, not water pills.
+DOCTOR: Lisinopril?
+PATIENT: Yeah for the cholesterol.
+DOCTOR: The simvastatin.  You need that one.
+PATIENT: Yeah I need that one and uh.
+DOCTOR: The lisinopril you need too.
+PATIENT: The what?
+DOCTOR: The lisinopril for your blood pressure.
+PATIENT: Oh right yeah.
+DOCTOR: Um I was actually thinking we might want to increase that today because your blood pressures have been high.
+PATIENT: Yeah and there too, I got a notation of my blood pressures.
+DOCTOR: Oh good what have you got here.
+PATIENT: Uh [REDACTED].
+DOCTOR: Yeah so it's just, it's running a little on the high side.  Not bad but you know 140s, 150s, I'm seeing a lot of those.  So I think we could go up on the lisinopril cause I think you need to uh.
+PATIENT: Okay and uh you know I don't feel no pain or nothing but for the last about couple two or three weeks it feels like a little blood around my [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Uh-huh I told the lady about it that was taking my blood pressure a while ago.
+DOCTOR: Uh-huh.
+PATIENT: And she said tell the doctor.
+DOCTOR: Yeah, definitely.  But it feels like, does it feel like it's going fast or?
+PATIENT: Uh it feels like, just like when I take a belch it uh, then it feels better you know.  There's no pain just a lot of [REDACTED] right here.
+DOCTOR: Okay.  Can you feel it beating?  Does it feel like it beats faster or does it skip beats or?
+PATIENT: It now that seems like a little thing and then sometimes it will skip a lot of beats though.
+DOCTOR: It feels like you skip a beat okay.  [REDACTED]Let me just feel your pulse [REDACTED]  When does it usually happen?
+PATIENT: Oh it just, it mostly uh when I do a little extra work uh moving around you know.
+DOCTOR: When you're moving around.
+PATIENT: I feel it.
+DOCTOR: Do you exercise?
+PATIENT: No, no.
+DOCTOR: Do you go up stairs much?
+PATIENT: Uh-huh I got stairs.
+DOCTOR: Do you get it more when you go up the stairs?  [REDACTED]?
+PATIENT: Just when I get a little tired, doing a little extra work or something.
+DOCTOR: Doing a little extra work okay.
+PATIENT: There's no pain just it feels like it's just a flutter.
+DOCTOR: Fluttering.
+PATIENT: Uh-huh.
+DOCTOR: Right.
+PATIENT: And when I think that like I belch or something like that uh and then it feels like it goes away.
+DOCTOR: Better when you belch okay.  It feels regular now but you don't feel it right now right?
+PATIENT: No.
+DOCTOR: You're not feeling it right now the flutters?
+PATIENT: No, no.  Off and on.
+DOCTOR: Off and on.  How many times do you get it?  The fluttering?
+PATIENT: Oh practically uh every day.
+DOCTOR: About every day.
+PATIENT: Yeah off and on.  And sometimes I was wondering if wasn't gas around my heart, or something.
+DOCTOR: Well I mean it's getting better with belching it sounds like it could be gas but the fluttering and feeling like it might skip a beat.
+PATIENT: Hmm.
+DOCTOR: That's probably more your heart and it's not uncommon actually to have skipped beats.
+PATIENT: Uh-huh.
+DOCTOR: I get them sometimes too.  I can feel it.  Um if you get it, it's a normal thing.  It's not a big deal.
+PATIENT: Uh-huh.
+DOCTOR: Um but when it happens more often or you start to feel short of breath.
+PATIENT: Uh-huh.
+DOCTOR: Or pain or you start to have symptoms because of it then we start to worry.
+PATIENT: Hmm.
+DOCTOR: Um so I don't know.
+PATIENT: There's no pain.
+DOCTOR: No pain at all.
+PATIENT: No pain.  Cause I have a certain alert [REDACTED] you know before I went in the service the doctor told me I had to go to a doctor once and he said uh the Army would never take you.  Oh I said why and he says because you have a weakness of the heart and then he said well if you happen to live right he says because at your age you would outgrow it.
+DOCTOR: Oh okay.
+PATIENT: So like when I went into the service I took my physical to go into the service and in the service the doctor looked at what the other doctor had told me a few years ago and he said no, he said your heart is alright now.
+DOCTOR: Yeah.  We've looked at your heart a few times and it looks okay.
+PATIENT: Yeah.
+DOCTOR: Actually it looks okay.
+PATIENT: He said if you had a weakened heart we would not take you in here.  I think I have all of the questions that I had to ask you right here oh yeah.  And you think I should increase what'd you say the, what is that uh cholesterol.
+DOCTOR: No the lisinopril it's the blood pressure medicine.
+PATIENT: Oh for the blood pressure.
+DOCTOR: And it helps you with depression too.
+PATIENT: Yeah.
+DOCTOR: It helps your heart.  It's a good medicine.
+PATIENT: Hmm.
+DOCTOR: Alright so what else shall I do here for you so I think we can increase that.  Do you need refills on anything else?
+PATIENT: Oh, oh I think I actually I need refills on practically all of them but see I have some medicine but I think they all is low.  They need to be updated.
+DOCTOR: Okay.  Are you still smoking?
+PATIENT: No, no, I don't smoke and don't drink no more cause they told me not to drink and don't smoke.
+DOCTOR: When did you quit smoking?
+PATIENT: Oh 2001, that's when I was told.
+DOCTOR: Oh great.
+PATIENT: And then I told them I didn’t quit drinking then they asked because I was a heavy drinking and I said I wasn't gonna throw it away but I said when I finish I would stop.
+DOCTOR: Okay.
+PATIENT: Then I ended up stopping for maybe a couple years and then I started back for about six months and then I stopped again and that's it.
+DOCTOR: Okay so you've stopped for good now.
+PATIENT: I have.
+DOCTOR: That's good.
+PATIENT: Hung it up for good.
+DOCTOR: Well that's great.  Okay.  And you never and you've had high blood pressure for now long?
+PATIENT: Oh I don't know but it was during the time I was drinking they said that my blood pressure was high but I think it was because I was a heavy drinker.
+DOCTOR: Yeah.
+PATIENT: And uh that had something to do with it but now it, at first it would be kind of be normal like you know.
+DOCTOR: Uh-huh.
+PATIENT: But then all of a sudden it started going back up again.
+DOCTOR: Okay.  So yeah.
+PATIENT: And I know she checked it over here just a while ago and it seemed to be high.  I guess because I told her I had been drinking some coffee this morning and then she took it again and it was, it was much better.
+DOCTOR: It was better yeah.  Still a little high.
+PATIENT: Yeah.
+DOCTOR: We can get it better but it's not bad.  It's actually not bad.  Have you thought about whether you want to do a colonoscopy for the colon cancer screening?
+PATIENT: Uh.
+DOCTOR: We talked about it last time.
+PATIENT: Yeah for the colon uh now I don't have no problem uh you know, no pain around my rectum and I don't have no bleeding and nothing like that.
+DOCTOR: Yeah.
+PATIENT: So uh I'd just rather hold off on that for a while.
+DOCTOR: You don't want to do it okay.
+PATIENT: And what you call the other prostate I had that and it came out good.
+DOCTOR: Yeah, yeah it looks okay alright.
+PATIENT: So I had that.
+DOCTOR: Have you had your flu shots?
+PATIENT: No.  I had one shot she gave me but they didn't have the swine flu, you know what you call it, the swine.
+DOCTOR: H1N1?
+PATIENT: Yeah they didn't have that in at the time.
+DOCTOR: You want to get that today?
+PATIENT: Yeah I can take that shot.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: I had to get it.  It's actually a little bit more mild than the other two shots.
+PATIENT: Yeah.
+DOCTOR: Depending on where you have it.
+PATIENT: I know that they was talking about it they had to send it back in and it wasn't right or something like that.
+DOCTOR: Oh yeah right.
+PATIENT: But I guess they got all that straightened out.
+DOCTOR: I think they got it straightened out.  They got it straightened out.  So you were taking medicine for your stomach for your acid reflux before called omeprazole.
+PATIENT: Yes.
+DOCTOR: Or Prilosec or Prevacid kind of thing.
+PATIENT: Yeah that's what I was concerned about.  Now what was that really for?
+DOCTOR: You were having reflux, the acid reflux symptoms.  I think that was why you were on it.  Do you tend to have it?
+PATIENT: It was a capsule.
+DOCTOR: Yeah.
+PATIENT: No uh I think I was taking it because I was a heavy, used to be a heavy drinker and it what is it for, for gas or what?
+DOCTOR: It suppresses the acid in the stomach so there's less acid in the stomach which means you get less symptoms of reflux coming up that would cause you know like burning you know belching, getting up at night, mainly burning pain at night and after meals.
+PATIENT: Now I.
+DOCTOR: Are you having any problems with that?
+PATIENT: The only problem I have mostly is like a try to clear my throat like that.
+DOCTOR: Okay.
+PATIENT: And.
+DOCTOR: But at night do you get burning sensation or a taste in the back of your mouth?
+PATIENT: No.
+DOCTOR: Okay so you probably don't need it anymore.
+PATIENT: Yeah that's the only thing.  I thought it was for; for like to clear my throat like at sometime I had the and uh do that.
+DOCTOR: Hmm.
+PATIENT: But otherwise if it was for acid or something coming up I mean.
+DOCTOR: You don't need that okay.
+PATIENT: But I still have some, [REDACTED].  You know I taste them.
+DOCTOR: But you can take it you want to if you feel that.
+PATIENT: Uh it'd be up to it's just really up to me.
+DOCTOR: Yeah you can choose.
+PATIENT: Oh okay.
+DOCTOR: I mean if you start to get that burning, acid reflux.
+PATIENT: Uh-huh.
+DOCTOR: Feeling like after you eat a meal you just.
+PATIENT: The gas.
+DOCTOR: Gas.  Pain you can take then.
+PATIENT: [REDACTED] I was wondering if that was caused my heart you know.
+DOCTOR: Well the fluttering probably not but you know like if it's skipping a beat.
+PATIENT: Yeah and it just goes like something like fluttering when I'm.
+DOCTOR: Yeah [REDACTED] yeah that's fine.  Sounds very regular.  Deep breath and again.  I'm going to go talk to DOCTOR and I'll be right back okay.
+PATIENT: Okay.  Okay.
+(DOCTOR OUT:  62:25  DOCTOR IN:  78:10)
+DOCTOR: [REDACTED] sorry to keep you waiting.
+PATIENT: Okay.
+DOCTOR: Um okay so we're just gonna do one thing today, that’s it.  We're gonna have you go up to the third floor of the Damon Building.
+PATIENT: Uh-huh.
+DOCTOR: And get an EKG of your heart.
+PATIENT: Uh-huh.
+DOCTOR: Today and um when you get it come back down to the clinic and one of us will take a look at it.
+PATIENT: Okay.  Come back here.
+DOCTOR: Yeah you'll go up, they'll put some stickers on your chest, they'll take an EKG.
+PATIENT: Yeah.
+DOCTOR: Uh make sure that the rhythm is okay um.
+PATIENT: Uh again I was wondering about me, when I was taking the medicine.
+DOCTOR: Uh-huh.
+PATIENT: The one time I was, I was taking uh the [REDACTED] you got too many pills at one time.  I mean you know right together.
+DOCTOR: Oh.
+PATIENT: But I started spacing them off now.  I take two uh in the morning and you know and then I wait.  I take them about an hour apart yeah.
+DOCTOR: Okay.  Did that help?
+PATIENT: Yeah that seemed to be, helping, because when I was taking too many at one time it look like that when I started getting it.
+DOCTOR: Oh okay, alright.  Well if that's helping.  You feel like, has it gotten better recently, the fluttering?
+PATIENT: Uh-huh.
+DOCTOR: It has.
+PATIENT: Oh yeah.
+DOCTOR: Good okay.  Well why don't you go ahead and have this because.
+PATIENT: Yeah I can still go over.
+DOCTOR: It's a really quick thing.
+PATIENT: Right, right.
+DOCTOR: Um and then come back down here.
+PATIENT: Right.
+DOCTOR: And to this hallway and we'll take a look at it.
+PATIENT: And you said to get the flu shot or something.
+DOCTOR: Oh yeah H1N1 yeah you can get that.
+PATIENT: Uh when I come back?
+DOCTOR: Yeah.  So.
+PATIENT: You updated all the medications right?
+DOCTOR: Yeah.
+PATIENT: Uh-huh.
+DOCTOR: The reason I want you to take the lisinopril.
+PATIENT: The what?
+DOCTOR: The lisinopril that you take.
+PATIENT: Uh-huh.
+DOCTOR: I want you to take, instead of taking a half tab.
+PATIENT: Uh-huh.
+DOCTOR: Take one whole tablet.
+PATIENT: Uh-huh.
+DOCTOR: Daily.
+PATIENT: Okay.
+DOCTOR: Instead of taking uh 10 mg a day you'll take 20 mg a day.
+PATIENT: Okay.
+DOCTOR: Okay uh and I'll change it in the computer so when they send it to you in the mail you'll get more.
+PATIENT: Okay then.
+DOCTOR: [REDACTED].
+PATIENT: Okay.  So [REDACTED].
+DOCTOR: The third floor of the Damon Building.
+PATIENT: Oh over there.
+DOCTOR: Yeah it's called the Heart Station.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Alright we'll see you a little bit later.
+PATIENT: Okay man.
+PATIENT: 80:47
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255166
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,167 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+SECOND PERSON V410
+I didn't think [REDACTED].  Well sometimes he's got more than one name.
+DOCTOR: You can have a seat right here.  How you doing today?
+PATIENT: Okay.
+DOCTOR: Tell me what brings you in?
+PATIENT: Pardon me?
+DOCTOR: Tell me what brings you in today.
+PATIENT: What brought me in?  I'm scheduled.
+DOCTOR: Anything specific that's bringing you in today?
+PATIENT: No.
+DOCTOR: No, [REDACTED] since last time.  Um okay so let's see.  Last time I saw you I wanted to get your three month average of your sugars checked.  Um and did you forget to go to the Lab, do you know what happened?
+PATIENT: You didn't tell me to go to the Lab.
+DOCTOR: Okay uh well today we'll have you go to the Lab okay.
+PATIENT: Now?
+DOCTOR: Right after we're done.
+PATIENT: Yeah.
+DOCTOR: Um and you've been checking your sugars at home?
+PATIENT: Yeah I have.  Uh I have a problem in the evening and I don't know why.
+DOCTOR: What kind, what's wrong?
+PATIENT: It shoots up in the evening.
+DOCTOR: It shoots up in the evening but okay, last time I thought you were only checking, you were only taking your insulin if your sugar was high, is that right?
+PATIENT: No I take it twice a day.
+DOCTOR: You take it twice a day?
+PATIENT: Yeah.
+DOCTOR: Do you remember telling me that last time?  You check your sugar, the blood glucose twice a day but do you take um, last time you were only taking your insulin if your sugar was high or you take your insulin twice a day no matter what?
+PATIENT: No matter what.  I might have said uh I take it uh you know you supposed to take it and then eat, I flipped, if it's less than 140 something, I eat before I take it, otherwise it'll drop down too low.
+DOCTOR: Oh, okay I must have misunderstood you then.
+PATIENT: Yeah I uh.
+DOCTOR: So you are taking the NPH right?  The insulin NPH?
+PATIENT: Yeah.
+DOCTOR: And you take how many units in the morning?
+PATIENT: Uh 15 uh the milky stuff and the clear 10 and at night its 22.
+DOCTOR: Hmm.
+PATIENT: The milky stuff and 10 of the clear.
+DOCTOR: Okay.
+PATIENT: But uh, didn’t you tell me, I set it up, unless it's 140 something if I take the insulin I can feel my sugar dropping but uh it wouldn't work that fast.
+DOCTOR: Uh-huh.  Um your sugars look pretty good.
+PATIENT: Did you see those 200s in the evening?
+DOCTOR: I see a 107, I see 200s, a couple of them but not all the time.
+PATIENT: No.
+DOCTOR: It seemed that the lowest you ever had was 70s.
+PATIENT: No 65, I had a 65 in the morning.  If it, even November and December.  That's one thing, a couple things, well I been trying to lose some weight so I try eating some small amount at night but then I wake up in the night and I you know I see a different color, my sugar be low because uh I see the color around lights.
+DOCTOR: Gotcha.  I think we need to change around your dosing like maybe you take more in the morning and less at night.  Cause your night will affect your morning sugar and your morning insulin will affect your night sugar.  See what I'm saying?
+PATIENT: Yeah.
+DOCTOR: When it's 60 do you feel bad?
+PATIENT: In the morning no.
+DOCTOR: Any fevers or chills?
+PATIENT: No.
+DOCTOR: Um any change in weight?
+PATIENT: That's what bugs me.  I can't, I'm not losing any.
+DOCTOR: Are you exercising?
+PATIENT: Oh yeah.
+DOCTOR: Do you want to, have you heard of the MOVE Program?
+PATIENT: What's that?
+DOCTOR: It's a program that'll help you lose weight.
+PATIENT: Oh do you mean here?
+DOCTOR: Uh-huh.
+PATIENT: I don't see how.  I don't see how.
+DOCTOR: It's uh yeah it deals with talking about your diet and exercises and things like that.
+PATIENT: Yeah, the problem see I don't do the cooking.
+DOCTOR: Who cooks?
+PATIENT: My wife.
+DOCTOR: So she has to get the education.
+PATIENT: Yeah but she cook what she wants to.
+DOCTOR: Does she have diabetes?
+PATIENT: Yeah.  She had it about five or six years before I got it.
+DOCTOR: Okay and she's not cooking.
+PATIENT: Nope.
+DOCTOR: Do you think you could help her cook and you guys could make different foods?
+PATIENT: Help her cook?
+DOCTOR: Uh-huh.
+PATIENT: No, no, that's not my bag, cooking, but she, hers go down too at night.  She gets up just about every night.
+DOCTOR: Uh-huh.
+PATIENT: Cause her sugar being [REDACTED].
+DOCTOR: So it seems like both of you, who does she see?  Who's her doctor?
+PATIENT: Uh I think its DOCTOR from the Mercy Hospital [REDACTED].
+DOCTOR: Hmm.
+PATIENT: Well her regular doctor retired so this is a new one.
+DOCTOR: Okay, so what can we do to get her to cook differently?
+PATIENT: (Laughs) I don't know, whether I talk with her again.  And uh the other problem about, you know vegetables and fruits and all that stuff.
+DOCTOR: Uh-huh.
+PATIENT: Uh, uh, back, way back when, when I was younger I messed my teeth up now I can't eat no fruit and stuff.  They say all of them gonna go out.
+DOCTOR: Okay.
+PATIENT: So I can't uh.
+DOCTOR: Well it's not what you're, it's not necessarily what you're eating it's how much you're eating.  I mean obviously what you're eating matters to you but even if you're not eating fruits and vegetables you shouldn't be eating fatty foods and that seems like the problem right?
+PATIENT: Oh.
+DOCTOR: At home.
+PATIENT: Might be too much I don't know.  But uh, but the doctor when he put me on that inhalant.
+DOCTOR: Uh-huh.
+PATIENT: Inhalant in this can cause you to gain weight right?  That's what I was told.
+DOCTOR: No the insulin can cause you to gain weight but nothing you are, the prednisone that can cause you to gain weight.
+PATIENT: Well one of them got steroid in it.
+DOCTOR: Yeah but it's not steroid that goes to your whole body, it's just localized to get to your lungs.  That was just in a pill that that's you know.
+PATIENT: So that shouldn't cause anything.
+DOCTOR: Uh uh. Real quick, any chest pain or trouble breathing?
+PATIENT: No.
+DOCTOR: Any cough?
+PATIENT: Yeah I got a dry cough.
+DOCTOR: Yeah you had that last time.  Nausea, vomiting, blood in your stool, black stools?
+PATIENT: None.
+DOCTOR: Okay.  Um we definitely need to work on your sugars.  I want to see what your three month average is so we will send you to the Lab; I want to do the lab right after this okay.
+PATIENT: Yes.
+DOCTOR: Um and then is your phone number NUMBER?
+PATIENT: Yeah.
+DOCTOR: I'm gonna call you and we can work on your, once we get that average, I can work on what we're gonna do with your insulin okay.
+PATIENT: Yeah.
+DOCTOR: Why don't you have a seat up here, take your coat off, I'm gonna take a listen to your heart.
+PATIENT: What they gonna check today?  I been eating all day.
+DOCTOR: It's your three-month average of your sugar so it's not gonna matter what you ate today; it's an average of everything for the past three months.
+PATIENT: Take this off, shirt off too?
+DOCTOR: No that's okay.  Take a deep breath.  Are you smoking still?
+PATIENT: No I quit September 9th.
+DOCTOR: Great.
+PATIENT: [REDACTED].
+DOCTOR: Open your mouth, okay you can close.  Can you put your arm straight up?  Don't let me push down.  And you said you quit September the 9th?
+PATIENT: Not this September, over a year ago.
+DOCTOR: Oh great, great, great.  Okay.  You can come up and have a seat here and I see that you saw the podiatrist and the eye doctor since I saw you last right?
+PATIENT: Yeah.
+DOCTOR: Okay, it looks like you're up to date on everything.
+PATIENT: You mean on my medicine and I can make an order before I come back.
+DOCTOR: What's that?
+PATIENT: I can order something before I come back here, before my next appointment?
+DOCTOR: Like your medications?
+PATIENT: Yeah.
+DOCTOR: Yeah, yeah, yeah.
+PATIENT: What that eye doctor told me,it was false.
+DOCTOR: What was false?
+PATIENT: She didn't put it in the system.
+DOCTOR: Yeah I gave you six refills on everything.
+PATIENT: Oh okay.
+DOCTOR: Uh a year of refills you have on a lot of these things.
+PATIENT: Okay then.
+DOCTOR: So all of my medicines that I give you will have refills and then the ones that aren't I'm changing right now.  Do you want to pick them up here or send them to your house?
+PATIENT: What?  Wonder whether I need them, I'm okay right now.
+DOCTOR: Okay.  Okay I'll visit with DOCTOR and I'll be back okay.  I'll run this by him.
+(DOCTOR OUT:  47:58  DOCTOR IN:  53:20)
+DOCTOR: Okay sir, so we talked about everything and it looks like right now like I said we're gonna leave what you're doing with your insulin um and then we're gonna check your three month average okay.  If the three-month average looks good, you're not having lows that I'm worried about.  You said the lowest it's ever been is 65 right?
+PATIENT: Yeah.
+DOCTOR: So that's okay.  If you're having a lot of lows and you start feeling symptoms like the shaking and feeling like you're gonna pass out then I'm worried okay.  So you're doing fine.  You've got to work on the diet.  I know it's hard because you said your wife is the one that cooks but you really want to talk to her about it too cause it'll help both of you in the long run okay.
+PATIENT: Okay.
+DOCTOR: Um so I'll see you back, I won't see you back for another six months.  Everything is renewed so I'm gonna check your kidney function too since it's been about a year since it was checked so um the order's in so I'll have you go back to the Lab okay and I'll call you if we need to change anything.
+PATIENT: Okay.  Now what's your name?
+DOCTOR: Huh?
+PATIENT: Your name.
+DOCTOR: Oh DOCTOR is my last name.
+PATIENT: DOCTOR.
+DOCTOR: One minute and I'll help you out okay.
+PATIENT: Yeah.
+DOCTOR: Alright and you had your flu shot and everything right?  You got it the last time you were here.
+PATIENT: Everything.
+DOCTOR: Everything so you're good.
+PATIENT: I had the flu shot, I don't know about what you consider everything.
+DOCTOR: You had the pneumonia shot when it was due you can have it every year if you want but you probably already have had it.
+PATIENT: Oh okay.
+DOCTOR: Okay.  Take care.
+PATIENT: Thank you.
+DOCTOR: Bye.
+PATIENT: Bye.
+PATIENT: 54:54.
+Time is 3:34 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300304
+TRANSACTION # 578-10-2-316-0103

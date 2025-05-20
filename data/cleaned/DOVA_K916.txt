@@ -1,0 +1,346 @@
+DOCTOR: PATIENT.
+PATIENT: Hi doc.  Doc this is my wife NAME.
+DOCTOR: Hi.
+SECOND PERSON K916
+Hi doctor.
+DOCTOR: Nice to meet you.
+SECOND PERSON K916
+Nice to meet you too.
+DOCTOR: How you doing?
+PATIENT: I'm weak.
+DOCTOR: Okay.
+SECOND PERSON K916
+Not too good.
+PATIENT: Yeah.
+DOCTOR: What's been going on?
+SECOND PERSON K916
+He's up in the morning at 8:00 a.m.
+DOCTOR: Right.  You were hospitalized right?
+SECOND PERSON K916
+Yeah, let's see.  He was released about a month ago now.
+PATIENT: Yeah a month ago.
+SECOND PERSON K916
+He was very weak.  He couldn't walk very far or do anything.
+DOCTOR: You're getting short of breath or what's happening?
+PATIENT: Yeah pretty much.
+SECOND PERSON K916
+And he lost his voice but.
+PATIENT: You know hoarse.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] a few days.
+SECOND PERSON K916
+What about the weakness?  He isn't doing anything.
+DOCTOR: He's got a dry cough?
+PATIENT: Yeah I got a cough.
+DOCTOR: Uh-huh.
+SECOND PERSON K916
+[REDACTED] not a good thing yeah.
+PATIENT: Antibiotics.
+DOCTOR: So you were on the medicine for about 3-4 days.  You finished [REDACTED] September 10th but then you [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: And you got the extra seven days. Did that help? The medicine so did that help?  While you were on it?
+PATIENT: Yeah I did take that and it obviously makes it better.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Okay.  You haven't had any extra chest x-ray done since then right?
+PATIENT: No.  No.
+DOCTOR: The only one you had was.
+PATIENT: The one time.  No, no, no, one time.
+SECOND PERSON K916
+[REDACTED].
+DOCTOR: Right.  I wonder how it came out.
+PATIENT: [REDACTED] yeah.
+SECOND PERSON K916
+Let's do that, maybe get a chest x-ray.  [REDACTED].
+PATIENT: Yeah /222.
+DOCTOR: You need an MRI.
+SECOND PERSON K916
+And then the next day he came back to see the pharmacist.
+DOCTOR: Yeah.
+SECOND PERSON K916
+The Pharmacy.
+DOCTOR: That's when he saw them.
+SECOND PERSON K916
+That's when I said, you know he also needs a chest x-ray at this same time yesterday and that's when the doctor put him on seven more days of the antibiotics.  [REDACTED] stuff.
+DOCTOR: Okay.  So you're not on anything, you're all done.  You got the MRI because you're having dizziness and nausea at that time.
+SECOND PERSON K916
+No that was a test that [REDACTED] wanted him to have.
+DOCTOR: Okay.
+SECOND PERSON K916
+That was then um, that was the appointment the MRI [REDACTED].
+DOCTOR: Why did they want that done?  The MRI.
+SECOND PERSON K916
+Maybe because of the tremors?
+PATIENT: I don't know if that was because [REDACTED] one of the losing my voice. I don't know.
+DOCTOR: They said it was normal.  I mean did they called you about that?  That the MRI was normal.
+PATIENT: No.
+SECOND PERSON K916
+No.
+PATIENT: Uh uh.  Good to hear that.
+SECOND PERSON K916
+Yeah.
+DOCTOR: Yeah.  So your last chest x-ray in 2011 it showed you almost had, your pneumonia was pretty much almost gone and then you had done [REDACTED].  You're not having any fevers or chills right?
+PATIENT: Oh no.
+DOCTOR: Some weakness?
+PATIENT: Yeah weakness.
+DOCTOR: Okay.
+PATIENT: Yeah.
+SECOND PERSON K916
+And he still has a bad cough.
+DOCTOR: Yeah.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+SECOND PERSON K916
+He's been in bed pretty much this whole month.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  No fevers, chills or anything?
+PATIENT: Mostly weakness.
+SECOND PERSON K916
+Mostly tired and weak.
+DOCTOR: When you do seven days did you get worse after that [REDACTED]?
+PATIENT: Yeah [REDACTED].
+DOCTOR: [REDACTED] days at home okay.  Um let's see okay.  You're [REDACTED]
+PATIENT: Oh yeah.  [REDACTED].
+DOCTOR: Okay.  [REDACTED].
+SECOND PERSON K916
+What kind of, was there some kind of blood test he did today?
+DOCTOR: They call it like lipids, lipids, for the cholesterol [REDACTED].  Do you still take an aspirin every day?
+PATIENT: Yes.
+DOCTOR: You taking your blood pressures?
+PATIENT: Yeah.
+DOCTOR: And the same, you're still on metoprolol?
+PATIENT: Hmm.
+DOCTOR: Oh there you are, you're still on it at .25.
+PATIENT: Oh.
+SECOND PERSON K916
+And then the pharmacist cut [REDACTED].
+PATIENT: Yeah she cut [REDACTED].
+DOCTOR: Yeah [REDACTED].
+PATIENT: I didn't want to do it too fast with the blood count because it's really dropping but uh.
+SECOND PERSON K916
+Well [REDACTED] hospital from the pneumonia [REDACTED].
+DOCTOR: When you were in the hospital.
+PATIENT: Uh-huh.
+SECOND PERSON K916
+He doesn't remember that.  He doesn't remember the four day stay.  That was kind of scary.
+DOCTOR: Are you having any of those low blood sugars still?
+PATIENT: Uh just a minute.  I brought the book here so, [REDACTED] see what it is, I take them twice a day every morning.  Sometimes after lunch and after dinner.
+DOCTOR: You take them after lunch okay.
+PATIENT: After lunch and after dinner.
+DOCTOR: [REDACTED] after dinner?
+PATIENT: Yeah.
+SECOND PERSON K916
+[REDACTED].
+DOCTOR: There a little better now.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.  That's after cutting them in half [REDACTED].
+DOCTOR: Yeah.  Okay and you're still on the.
+PATIENT: Metformin.
+DOCTOR: Metformin.  Are you taking your blood pressures at home?
+SECOND PERSON K916
+Yes.
+DOCTOR: What do they run?
+PATIENT: They're getting better now.  They're getting almost in the normal range.
+SECOND PERSON K916
+Yeah like 120s, 130s.
+PATIENT: Yeah 130s, 140s maybe [REDACTED].
+DOCTOR: Okay.  Okay.  You're normal today that's good.
+PATIENT: Yeah.
+DOCTOR: Um and you still take your [REDACTED].  Are you still on the Primidone?
+PATIENT: Uh-huh.
+DOCTOR: Let's see, [REDACTED] today.  [REDACTED] the issue [REDACTED].
+PATIENT: Did they do the cholesterol test today?
+DOCTOR: Oh yeah that was the cholesterol that you had done.
+SECOND PERSON K916
+It was pretty good?
+DOCTOR: Yeah I think DOCTOR probably put it in so you could have it done because [REDACTED] medications in.  She checked your medications with the pravastatin right?
+PATIENT: Yeah.
+DOCTOR: Are you at 40 or 80?
+SECOND PERSON K916
+Should be 40, because he cuts it in half.
+DOCTOR: Yeah.  He decreased it to 40.  So I think your cholesterol has been [REDACTED].
+PATIENT: What's it at?
+DOCTOR: Your cholesterol so far it's at 150.
+SECOND PERSON K916
+Oh nice.  Better than mine.
+DOCTOR: You've been on 40 for a while right?
+PATIENT: Uh-huh.
+DOCTOR: Cholesterol medicines.
+PATIENT: Last [REDACTED] 80.  [REDACTED].
+SECOND PERSON K916
+What's the one you cut in half?
+DOCTOR: Oh yes I increased it in July.
+PATIENT: Oh you increased it okay.
+DOCTOR: Yeah.  Okay.
+PATIENT: [REDACTED].
+DOCTOR: You're at 40 yeah.
+PATIENT: That's a [REDACTED].
+DOCTOR: So I think your lipids look okay on this.
+PATIENT: Yeah.
+DOCTOR: When was your last A1c?  That was this year and you were well controlled.
+PATIENT: Uh-huh.
+DOCTOR: And then you had your [REDACTED] done in August and then you were [REDACTED].  Let me take a listen.  Do you feel like you're just tired?
+SECOND PERSON K916
+Yes.
+PATIENT: And I'm weak.
+DOCTOR: And you're weak.
+PATIENT: Yeah I'm real tired.
+SECOND PERSON K916
+He's really tired.
+DOCTOR: You don't have energy.
+PATIENT: No energy.  No voice.
+DOCTOR: And this was all after the pneumonia?
+PATIENT: Yeah.
+SECOND PERSON K916
+Yeah it really took a toll on him.  Before the pneumonia [REDACTED].
+DOCTOR: Your lungs sound pretty clear.  You're not bringing up any phlegm [REDACTED].
+PATIENT: No.
+DOCTOR: Just a dry [REDACTED].  Let me see what I get here. Swelling. Feel around your neck.
+SECOND PERSON K916
+He's lost a lot of weight, I bet it's 10 pounds.
+DOCTOR: Since he was in the hospital [REDACTED].
+SECOND PERSON K916
+Uh-huh.
+DOCTOR: Okay.
+SECOND PERSON K916
+[REDACTED].
+DOCTOR: [REDACTED] its not hurting now, you're not having any [REDACTED].  Tonsils don't hurt.
+PATIENT: No.
+DOCTOR: Up here or up here, okay.  Well you sound pretty clear.  I don't know if you're just kind of [REDACTED] with it.
+PATIENT: Hmm.
+DOCTOR: But [REDACTED].
+PATIENT: How much?
+DOCTOR: 10 pounds.
+PATIENT: Yeah.
+DOCTOR: Yeah.  The antibiotics caused a bad tasted in your mouth [REDACTED].
+PATIENT: I didn't want to eat anything.
+DOCTOR: When you were on that antibiotic?
+PATIENT: Yeah.
+DOCTOR: Oh yeah I could.  It can mess with your taste a little bit.
+PATIENT: Yeah.
+DOCTOR: Antibiotics have a lot of those side effects but its helping.
+PATIENT: Yeah.
+DOCTOR: Okay.
+SECOND PERSON K916
+But it take this long of a time?
+DOCTOR: For it to come back?
+SECOND PERSON K916
+To come back from the pneumonia.
+PATIENT: It's only been a few days now hasn't it?
+DOCTOR: Yeah maybe.  I mean if he just, you just finished the uh.
+PATIENT: [REDACTED].  Yeah was it that long now?
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: I'll talk to my attending.  We'll see.  It looks like you know your lungs sound pretty clear.
+PATIENT: Uh-huh.
+DOCTOR: You don't have much of a cough; it can take weeks to recover.  You were only in the hospital for three days you know recovering from it, four days yeah.
+PATIENT: Four days yeah.
+DOCTOR: Okay, alright.  I'll be right back.
+PATIENT: Um.
+DOCTOR: Do you have a question?
+PATIENT: Yeah I do.
+DOCTOR: Yeah.
+PATIENT: And now I forgot it.
+DOCTOR: About a medication or something?
+PATIENT: It was really a critical question now, go ahead I'll, it really wasn't critical I'll think of it when you come back.
+DOCTOR: I'll be back okay.
+PATIENT: Yeah.
+SECOND PERSON K916
+Thank you.
+DOCTOR: 71:55   DOCTOR IN:  80:51
+DOCTOR: Alright.  You remember your question?
+PATIENT: Yep.
+DOCTOR: Okay.
+PATIENT: How long should I wait for a flu shot?
+DOCTOR: Oh okay, [REDACTED] no you can.
+PATIENT: Yeah because of the um.
+DOCTOR: Because you had the pneumonia.  You should go get it because this isn't going to cause you any negations.
+SECOND PERSON K916
+If [REDACTED] is low its okay?
+DOCTOR: Yeah.  I mean he’s just getting over like you know every day you're down.  Like I tell some of my patients like every day that you were in the hospital that will take about 4-5 days per one of those days for you to get better and you're kind of prolonged to.
+PATIENT: Yeah.
+DOCTOR: I don't think you were just over it the four days that you're in the hospital.
+PATIENT: Yeah.
+DOCTOR: So it's probably, so it's gonna maybe take another few weeks or a month you know to kind of get back to.
+PATIENT: Yeah.
+DOCTOR: Where you want.  I think you can still get the flu shot I mean if you want to wait that's also fine.
+PATIENT: Yeah okay.
+DOCTOR: If you're feeling, like in a couple of weeks if you're feeling a little bit better.
+PATIENT: Okay.
+DOCTOR: It's not a problem.  You can always drop by and get it.  Alright.
+PATIENT: Yeah no problem.
+DOCTOR: And then any, do you need medications or anything?
+PATIENT: Yeah just whatever I got to get updated so.
+DOCTOR: Okay.  Um.
+SECOND PERSON K916
+What was the one when you called it in you couldn’t get any refills.
+DOCTOR: Which ones?
+SECOND PERSON K916
+Do you remember them?
+DOCTOR: The prior ones?
+SECOND PERSON K916
+Remember that first one [REDACTED].
+PATIENT: One of them it said no more refills.
+SECOND PERSON K916
+I couldn't remember which one it was [REDACTED].
+PATIENT: One of my regulars had no more refills so.
+DOCTOR: Okay.  A lot of yours are just, they're okay.
+PATIENT: Yeah.
+DOCTOR: I've got refills done.
+PATIENT: Metaxa something.
+DOCTOR: Metformin?
+PATIENT: No a tax something like that.
+DOCTOR: [REDACTED].
+PATIENT: Uh something like that I don't know.
+DOCTOR: Okay.
+PATIENT: We didn't look at them it just said 0 refills left.
+DOCTOR: Moxifloxacin?
+PATIENT: No, that's not it.
+DOCTOR: I don't see anything else with an M on your except the metformin.
+PATIENT: No that's not it.
+DOCTOR: I'll renew them.
+PATIENT: Yeah.
+DOCTOR: You already got the labs done; I don't think we need to repeat any of them okay.
+PATIENT: Yep, great.
+DOCTOR: So I think you're okay to go.
+PATIENT: Alright.
+DOCTOR: Okay.  I already got all of your medications.  Now if you get a fever or start getting worse or anything.
+SECOND PERSON K916
+Uh-huh.
+PATIENT: I'll call.
+DOCTOR: Call us back yeah.
+PATIENT: Yeah.
+DOCTOR: If you're getting a little bit worse.
+PATIENT: Okay.
+DOCTOR: It'll be fine yeah.
+PATIENT:
+DOCTOR: you.
+DOCTOR: Nice seeing you again.
+PATIENT: Thank you very much.
+DOCTOR: Feel better okay.
+PATIENT: Appreciate it.
+SECOND PERSON K916
+I was so frustrated.  I'm just glad you got to see him.
+DOCTOR: Yeah that's okay.
+PATIENT: Sure, yeah.
+DOCTOR: It's okay to be in bed okay.
+SECOND PERSON K916
+Thank you.
+PATIENT: Thank you.
+DOCTOR: You're welcome, nice meeting you too.
+PATIENT: Appreciate it.
+SECOND PERSON K916
+You too take care.
+PATIENT: Books.
+SECOND PERSON K916
+Oh the books.
+DOCTOR: Don't forget your books.
+PATIENT: No I can't forget the books.
+DOCTOR: Thank you.
+PATIENT: Take care.
+Time is 2:05.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38298
+TRANSACTION # 578-10-2-316-0103

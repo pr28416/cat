@@ -1,0 +1,86 @@
+DOCTOR: How may I help you?
+PATIENT: Hey, I've just been feeling kind of ill over the past two days and uh, I thought I'd just come in to see what's going on. So I've had um, um, I was feeling very achy and I had a cough and then I think yesterday night I developed a fever.
+DOCTOR: OK, and so um, last night you developed a fever. What, uh, did you check your temperature?
+PATIENT: Um, I didn't, but I'm pretty sure I have a fever and like I can feel it.
+DOCTOR: OK. Have you had any chills or night sweats?
+PATIENT: I had chills last night.
+DOCTOR: OK. Uh, so you mentioned you've had a cough as well, and when did that start?
+PATIENT: Two days ago.
+DOCTOR: And is the cough been, um producing any phlegm or sputum?
+PATIENT: No, it's kind of dry cough nothing
+DOCTOR: alright. How about any any blood?
+PATIENT: No.
+DOCTOR: OK. And you've had muscle aches. Has this been like a whole body type of feeling, or is it any particular muscles that hurt?
+PATIENT: It's all over.
+DOCTOR: OK, have you had any headaches?
+PATIENT: No.
+DOCTOR: Alright. And have you had a cough before or is this a new cough?
+PATIENT: It's a new cough.
+DOCTOR: Have you had any wheezing with the cough?
+PATIENT: A little bit.
+DOCTOR: Yeah, so you've had wheezing as well. Are you able to to hear it?
+PATIENT: Yeah, it's just like I can kind of like tell, when I'm breathing like it just, yeah. It sounds different. I don't know what a wheeze sounds like, but it just sounds different.
+DOCTOR: OK, um, and have you had any chest pain?
+PATIENT: Uh, uh, sorry, can you say that again?
+DOCTOR: Sorry um, did you have any chest pain?
+PATIENT: Uh, no.
+DOCTOR: OK. Um, have you had any, uh, um, symptoms such as red eyes or or itchy eyes or runny nose?
+PATIENT: No.
+DOCTOR: OK, have you had a sore throat?
+PATIENT: No.
+DOCTOR: Any nausea or vomiting.
+PATIENT: No.
+DOCTOR: OK, how about a loss of taste or loss of smell?
+PATIENT: Uh yeah, I kind of just foods have just been tasting little bland, since yesterday.
+DOCTOR: OK, so yeah, I lost of taste today. Have you had a runny nose at all?
+PATIENT: No
+DOCTOR: OK. Any abdominal pain or diarrhea?
+PATIENT: No.
+DOCTOR: Any urinary problems like uh pain or frequency.
+PATIENT: Uhm? I uh, I I've had that for a while like it's just I think my prostate's kind of large so it's it's hard for me to, like I pee very frequently.
+DOCTOR: OK. And OK. Have you noticed any skin changes or rashes?
+PATIENT: No.
+DOCTOR: Uh. And how is your energy been?
+PATIENT: I've been feeling a little tired.
+DOCTOR: Alright, so you've had this dry cough that started two days ago. Been feeling feverish, have had some muscle aches, been tired and also a loss of taste. Have you been experiencing any other symptoms?
+PATIENT: No, that's I think that covers it all.
+DOCTOR: OK. Oh sorry, I asked about chest pain, but have you had any like dizziness or feeling like you're going to faint or even like your heart's racing really fast?
+PATIENT: No.
+DOCTOR: OK, have you been diagnosed with any medical conditions in the past?
+PATIENT: Um, just a large prostate. It's not cancer or anything, it's just kind of large.
+DOCTOR: OK so I have you heard of BPH before?
+PATIENT: Yeah, I think that's what the doctor said.
+DOCTOR: OK, and do you take any medications for that or for any other reason?
+PATIENT: Yeah, I do. I do take a I think a medication for that. Uhm? It's called tamsulosin.
+DOCTOR: OK yeah call me what is like Flomax or or tamsulosin, but there are there are others for sure.
+PATIENT: Yeah I think I think it's called Flomax.
+DOCTOR: OK yeah it's the brand name for it but lots of yeah lots of different namings can be hard for the medication sometimes. And have you had any surgeries or hospitalizations?
+PATIENT: Nope.
+DOCTOR: Do you have any allergies?
+PATIENT: Nope.
+DOCTOR: OK um, and can you tell me a little bit about where you're living and who you're living with?
+PATIENT: I just live with wife in an apartment.
+DOCTOR: OK. And has she had any symptoms or been sick at all?
+PATIENT: Oh no, she's feeling good.
+DOCTOR: Have you had any sick contacts?
+PATIENT: I don't, no I haven't. I don't think so. I mean potentially. I was. I was actually out with my friends, but no one was sick.
+DOCTOR: OK. Have you traveled anywhere?
+PATIENT: Nope.
+DOCTOR: OK. And do you smoke cigarettes?
+PATIENT: I used to, I quit. I quit 10 years ago. I used to smoke about two or three cigarettes a day for 20 years.
+DOCTOR: OK, well congratulations on quitting, that's great.
+PATIENT: Thanks.
+DOCTOR: Do you smoke cannabis or use cannabis products?
+PATIENT: Nope.
+DOCTOR: Do you use any recreational drugs?
+PATIENT: No.
+DOCTOR: And do you drink alcohol?
+PATIENT: Yeah, maybe sometimes once or twice a month, maybe a glass or two at a time.
+DOCTOR: OK, uh. And anybody in the family have any heart or lung conditions.
+PATIENT: Uhm? Yeah, I think it's called Hypertrophic cardiomyopathy where people kind of die early. People get like people in my family got heart attacks very early on in their 30s. My brother died and when he was 15.
+DOCTOR: Oh wow, sorry to hear that and uh, has that been looked into for yourself?
+PATIENT: Oh yeah, I see a cardiologist. I get regular checkups done.
+DOCTOR: OK. And. OK, and uh, so that was everything that I wanted to ask about on history today. Did you have any anything else that you wanted to mention or anything you were concerned about?
+PATIENT: No.
+DOCTOR: OK, um so with your your symptoms today, they do overlap potentially with covid, and So what we'll need to do or will well, it'll be important to do a swab to test for covid. It could be something else like the common cold. Like another type of viral illness, but because of the pandemic it will be important to self isolate, including from your wife, for the next 14 days and we'll get back to you with the results as soon as we can.
+PATIENT: Sure, thank you.

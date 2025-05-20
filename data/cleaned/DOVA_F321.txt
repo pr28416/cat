@@ -1,0 +1,425 @@
+DOCTOR: PATIENT?
+PATIENT: Hmm.
+DOCTOR: How you doing?
+PATIENT: Good to see you.
+DOCTOR: You too, how are you?
+PATIENT: I'm fine and yourself?
+DOCTOR: I'm alright.  Alright, so how have things been since I saw you last?
+PATIENT: Oh, sucky.
+DOCTOR: What's wrong?
+PATIENT: Can't seem to get my blood down.
+DOCTOR: Alright so how high have you been?
+PATIENT: It's been uh, I think well I'm averaging lately about 244.
+DOCTOR: Okay.  You're taking metformin??
+PATIENT: Twice a day.
+DOCTOR: 1000 mg twice a day.
+PATIENT: Yep.
+DOCTOR: Okay.  And you're checking once a day now?
+PATIENT: Uh yeah.  I'm going usually about uh once a day when I'm up in the 240+ range.
+DOCTOR: Okay.
+PATIENT: And every other day when I'm closer to 2.
+DOCTOR: Okay.  Now this seems uh you know, we don't have a hemoglobin A1c on you in a while.
+PATIENT: Okay.
+DOCTOR: But um this seems higher than it was before.
+PATIENT: Yeah but I got a lot of stress going on.
+DOCTOR: A lot of stress.
+PATIENT: A lot of stress.
+DOCTOR: Okay.  Um are you eating differently?
+PATIENT: Everything I can.
+DOCTOR: You're eating a lot?
+PATIENT: Well I'm eating small amounts throughout the day.
+DOCTOR: Okay, like what kind of foods are we talking about here?
+PATIENT: Uh what kind of foods.  Uh oatmeal in the morning.
+DOCTOR: Uh-huh.
+PATIENT: Um no milk or sugar.  Um then a sandwich in the afternoon and then probably a larger meal around 4 o'clock and then a snack of some sort in the evening about 8 o'clock.
+DOCTOR: Okay.  Are these things that have a lot of sugar in them, like cookies?
+PATIENT: Of course.
+DOCTOR: Okay and this is eating out of stress or what's going on?
+PATIENT: Nervous eating I think.
+DOCTOR: Nerves okay.
+PATIENT: See I work out of my home so I have access to the refrigerator downstairs.
+DOCTOR: Okay.
+PATIENT: That's a problem.  It was better when I was exercising, I mean when I was walking which I haven't been doing and I probably in all fairness will not do it as long as it's winter.
+DOCTOR: Do you have any way to exercise in your home or do you belong to the gym?
+PATIENT: No.
+DOCTOR: Cause you've also gained some weight since the last time you were here.
+PATIENT: Yeah I think I've gained a couple pounds.
+DOCTOR: Yeah.
+PATIENT: And I feel it.
+DOCTOR: Alright so we've got to get you on a different trajectory here.  Right now we're going in the wrong direction.
+PATIENT: I am on a downhill slope.
+DOCTOR: Yeah.
+PATIENT: And I feel it.
+DOCTOR: So the stress, what are you doing to deal with the stress other than eating?
+PATIENT: Oh not a thing.
+DOCTOR: Okay.
+PATIENT: You know, I sleep about six hours a night and uh then I just get up and start doing what I got to do.
+DOCTOR: Uh-huh, okay.  So walking, exercising does that help you feel better?
+PATIENT: Evidently it does.
+DOCTOR: Yeah.  Yeah.
+PATIENT: But.
+DOCTOR: But you're not doing that.
+PATIENT: I'm not doing that.
+DOCTOR: Okay.  Alright cause that you know, that's one of the best ways, everything is going to be interrelated for you.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: Uh-huh.
+DOCTOR: If you can exercise well first of all you'll just feel better, your blood sugars will be better.
+PATIENT: Uh-huh.
+DOCTOR: You'll feel better overall and it helps a lot of people deal with stress to exercise like that.
+PATIENT: Okay.
+DOCTOR: Sorry, I have post-nasal drip.  Every time I start talking I start coughing alright but in the meantime, I mean we'll check your hemoglobin A1c again today and see what your average blood sugars have been for the last three months.
+PATIENT: Okay.
+DOCTOR: Um and um but we should make some changes to your medications to manage your blood sugars in the meantime okay.
+PATIENT: Alright.
+DOCTOR: And what can you do to change your eating?  Would you like to see the nutritionist?
+PATIENT: I've seen the nutritionist.
+DOCTOR: So you know what's in your food.
+PATIENT: I do yeah.
+DOCTOR: You look at nutrition labels?
+PATIENT: Uh no I don't you know. Um I'm the type of person who will make a bowl of spaghetti and eats the leftovers the next day, whatever is left in the frig.
+DOCTOR: Okay.
+PATIENT: I'll eat while I'm working.
+DOCTOR: Uh-huh.
+PATIENT: So.
+DOCTOR: Can we change that?
+PATIENT: Change that?  We can do anything.
+DOCTOR: Right.  I mean what I would do is try to I mean you can do something like keeping a log of what you're eating.
+PATIENT: On my intake?
+DOCTOR: Yeah just to make yourself a little more cognizant of what you're eating.
+PATIENT: Okay.
+DOCTOR: And if you're holding yourself accountable in that way some people find it's easier to say well maybe I don't really need these cookies considering I've already eaten some spaghetti and some you know had some juice and whatever else.
+PATIENT: Uh-huh.
+DOCTOR: Um today so you know and then you'll see the correlation between days where eating more sugar with your blood sugars getting worse.
+PATIENT: Alright.
+DOCTOR: So that's, that's maybe one idea we can use to, to eat a little bit less hopefully um.
+PATIENT: And exercise more.
+DOCTOR: Yes
+PATIENT: See these are things I know I'm supposed to be doing.
+DOCTOR: Yeah I know, maybe reminding you of all of these things.  I'm going to get this page, give me one moment.
+PATIENT: Alright, alright.
+DOCTOR: (Doctor answers page)  Um otherwise any problems like fevers, chills, nausea, vomiting, diarrhea, constipation?
+PATIENT: Hmm, um I've had an upset stomach for a while.
+DOCTOR: How long? Like months? Years?
+PATIENT: Ah a couple weeks.
+DOCTOR: Weeks okay.
+PATIENT: Couple.
+DOCTOR: Uh and what do you mean by upset stomach?
+PATIENT: Oh just a little uh, maybe it's more like a nervous stomach you know.
+DOCTOR: Okay like what do you feel or what happens?  Is it um feeling like heartburn, indigestion?
+PATIENT: Well yeah.
+DOCTOR: Yeah.
+PATIENT: More like a heartburn, an acid reflux or something yeah.
+DOCTOR: Is it worse at night when you lay down?
+PATIENT: No, no.
+DOCTOR: What times do you?
+PATIENT: Usually about midday.
+DOCTOR: Okay.  Okay and have you tried anything for that?
+PATIENT: Um I may have a sandwich and a glass of milk.
+DOCTOR: Okay.  So are you eating to try and uh.
+PATIENT: Sometimes yeah.
+DOCTOR: Alleviate some of the discomfort in your stomach okay.  Alright.  Well we kind of, I think it sounds like maybe you've got some acid reflux.  It can go on with stress, that's another thing that can go along with stress.  So we kind of have two options for treating that or to see if they help you.
+PATIENT: Uh-huh.
+DOCTOR: And the first one would be to take something as needed like Tums or something like that.
+PATIENT: Right.
+DOCTOR: Have you tried that at all?
+PATIENT: Well sometimes that helps.
+DOCTOR: Uh-huh.
+PATIENT: And I haven't, it hasn't gotten to the point where I need Tums.
+DOCTOR: Okay, but you eat instead.
+PATIENT: Yeah, I would rather have a sandwich than a Tums.
+DOCTOR: Alright maybe what we could do instead is try um something that you take every day.
+PATIENT: Okay.
+DOCTOR: It takes a few weeks to build up in your system and then um and it'll work on suppressing the amount of acid in your stomach, decreasing the amount of irritation you have in your stomach and your esophagus.
+PATIENT: Uh-huh.
+DOCTOR: And then hopefully things will get, you know it'll prevent that feeling from coming on at all.
+PATIENT: Actually coming here motivates me.
+DOCTOR: Uh-huh.
+PATIENT: Not so much seeing you, although I enjoy seeing you.  It's because I see the other veterans and their condition and I don't want to get to that point.
+DOCTOR: Uh-huh.
+PATIENT: Okay, so that's kind of a motivating factor.
+DOCTOR: Yep and it's, that's just fine.
+PATIENT: Uh-huh.
+DOCTOR: That's you know.
+PATIENT: So.
+DOCTOR: I want this, the goal in this clinic is to help you take care of yourself and prevent you from developing a lot of complications.
+PATIENT: Right.
+DOCTOR: That happens to a lot of these vets okay.  Alright now this, do you ever get pain in your stomach.
+PATIENT: No.
+DOCTOR: Or is it like a nausea feeling that you get or?
+PATIENT: It's more of a heartburn.
+DOCTOR: Heartburn okay.  Cause if you ever develop pain in your stomach.
+PATIENT: Uh-huh.
+DOCTOR: That's relieved by eating.
+PATIENT: Uh-huh.
+DOCTOR: That's something we should talk about cause that can be a sign of an ulcer.
+PATIENT: Okay.
+DOCTOR: Alright and uh if you have an ulcer we should have you see a gastroenterologist and get that addressed okay.  Now last time you were here or back in February.
+PATIENT: Uh-huh.
+DOCTOR: We checked your cholesterol levels and they were kind of borderline.  For someone with diabetes they were you know we have a really strict idea of what we want your cholesterol level to be.  Yours were like at the borderline and we didn't feel like we needed to start a medication for them.
+PATIENT: Okay.
+DOCTOR: Then because um you were doing a good job as far as your diet and exercise.  Now I would anticipate that these are going to be worse if we were to check them again today.
+PATIENT: Yeah what was my cholesterol?
+DOCTOR: Last time you were here your total cholesterol was 142.  The most important number that we look at is your bad cholesterol, your LDL which was 82.
+PATIENT: Oh.
+DOCTOR: Now for your average person that would be a great number but for a diabetic we want them to be under 70.  We want to see 70 or less.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: So would think that my LDL would be higher than 82.
+DOCTOR: Uh-huh.  Based on what you're telling me about your diet and not exercising both of them really help it.
+PATIENT: Right.
+DOCTOR: So I think we should check it again.
+PATIENT: Alright.
+DOCTOR: If they are significantly higher I think we should start a medication to treat your cholesterol and bring it down.
+PATIENT: Okay.
+DOCTOR: Um once we get a handle on everything else.
+PATIENT: Fine.
+DOCTOR: Okay now have you eaten yet today?
+PATIENT: I have.
+DOCTOR: Okay.
+PATIENT: I had a bowl of oatmeal.
+DOCTOR: Would it be possible for you to come back another time on an empty stomach and get blood drawn?
+PATIENT: Uh well I can always come back.
+DOCTOR: Uh-huh.  Okay cause we have to do these labs the first thing in the morning, have you fast for 12 hours.
+PATIENT: Uh-huh.
+DOCTOR: And then get the blood drawn.
+PATIENT: Okay.
+DOCTOR: Um and what else.  I think that's pretty much all you're due for.  Your blood pressure looks great today.  Um you saw the ophthalmologist, they didn't see any problems.
+PATIENT: I see him again today.
+DOCTOR: Okay good, good um.  No signs of kidney problems related to the diabetes.
+PATIENT: No.
+DOCTOR: And you've been seeing the podiatrist.
+PATIENT: Now remember I had the kidney stone removed in January.
+DOCTOR: Are you still seeing a urologist?
+PATIENT: Um no but I am on a medication um and I brought the bottle but I forgot to bring it up.
+DOCTOR: Oh okay.
+PATIENT: Yeah.
+DOCTOR: Um cause right now all I have as far as the medications that you're taking is the metformin and then we're ordering your test strips through here.
+PATIENT: Right.
+DOCTOR: And you're on something for your prostate?
+PATIENT: Uh with the doctor that I was seeing yeah.
+DOCTOR: Okay so you're not seeing him anymore?
+PATIENT: No I'm not scheduled till later in the year.
+DOCTOR: Oh okay.  Is it like something to shrink your prostate cause yours was enlarged?
+PATIENT: Yes he thought it was larger than normal.
+DOCTOR: Okay.
+PATIENT: And I just told him I just had a large prostate.
+DOCTOR: But you did, okay.  Um is it like Flomax or?
+PATIENT: No.
+DOCTOR: Um uh, I forget the brand names um like finasteride.
+PATIENT: No, starts with an O I think.
+DOCTOR: Starts with an O?  Hmm.
+PATIENT: Well.
+DOCTOR: Your PSA, I know we talked about this before.
+PATIENT: Right.
+DOCTOR: Your PSA was high when we took it here.
+PATIENT: Uh-huh.
+DOCTOR: And you said it's been high in the past.
+PATIENT: Yes.
+DOCTOR: Have you ever had a biopsy of your prostate?
+PATIENT: I have, I did not like it.
+DOCTOR: Yeah.  Alright so can we get, I really like to get reports from your urologist of whatever they found.
+PATIENT: Okay.
+DOCTOR: Or whatever evidence they have that this is you know that there's no prostate cancer cause that's what the elevated PSA is suggestive of.
+PATIENT: Right.
+DOCTOR: [REDACTED].
+PATIENT: They don't think I ever had [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: So that I don't have to uh have problems down the road.
+DOCTOR: Right um so that, if they could just send us whatever like biopsy results they have or anything, just so we can have it on our record and we can stop asking you about it.
+PATIENT: Okay.
+DOCTOR: Um I can give you our fax number here and they can go ahead and fax it to me.  That way you don't have to [REDACTED].
+PATIENT: Well actually the only person I explain this to is you so.
+DOCTOR: Alright then it'll make me feel better.
+PATIENT: Alright.
+DOCTOR: Um okay so our fax number here is [REDACTED]-[REDACTED]-[REDACTED]@.  So why don't you have a seat up here.
+PATIENT: Okay.
+DOCTOR: Take a deep breath for me.  Okay open your mouth ah.  No chest pain ever or shortness of breath?
+PATIENT: Oh the shortness of breath?
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: When does that happen?
+PATIENT: Oh I think if I bend over too long.
+DOCTOR: Okay.  Um does it happen like when you're walking?
+PATIENT: No.
+DOCTOR: Climbing a flight of stairs?
+PATIENT: No.
+DOCTOR: Lying down?
+PATIENT: No.
+DOCTOR: Just when you bend over?
+PATIENT: Yeah.
+DOCTOR: Okay just when you stand back up?
+PATIENT: It may just be like my diaphragm it's possible.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Alright take a deep breath in and out.  Any pain in your belly here?
+PATIENT: No.
+DOCTOR: When I push?
+PATIENT: No.
+DOCTOR: Okay.  You get any swelling in your legs ever?
+PATIENT: No um oh yeah sometimes I have socks that are tight around the.
+DOCTOR: Uh-huh.
+PATIENT: Top and they leave a mark and it goes away.
+DOCTOR: It looks like you might have a little bit of swelling in your legs.
+PATIENT: Well you know, as I told you previously and you probably don't recall it is I do have traces of gout.
+DOCTOR: Uh-huh.
+PATIENT: Sometimes it comes and goes or I really don't know what gout is but when it becomes inflamed I can tell a couple days before it starts.
+DOCTOR: And where do you get that?  What joints?
+PATIENT: Uh either the knee.
+DOCTOR: Uh-huh.
+PATIENT: Or the ankle.
+DOCTOR: Okay.  So you've never been given any medications for.
+PATIENT: No.
+DOCTOR: To prevent it from happening.  Do you get medication when you have a flare?
+PATIENT: Uh no.  I'll take uh Tylenol.
+DOCTOR: Okay and how long does it take for it to go way usually?
+PATIENT: When I feel an onset?
+DOCTOR: Uh-huh.
+PATIENT: Uh I start taking Tylenol two tablets three times a day.
+DOCTOR: Uh-huh.
+PATIENT: And it'll prevent it from getting becoming a problem.
+DOCTOR: Okay.
+PATIENT: And it'll be around for three days and then it'll stop.
+DOCTOR: Okay.  Do they get real red and inflamed?
+PATIENT: No I can just feel it.  I can feel it's tender sometimes.
+DOCTOR: Okay you can come back and have a seat.  Alright so we have.
+PATIENT: But I believe that's my diet also.
+DOCTOR: Okay, eating a lot of red meat and things like that?
+PATIENT: Cause I think it's.
+DOCTOR: Does red meat trigger it or alcohol?
+PATIENT: It's probably more of alcohol.
+DOCTOR: Uh-huh.
+PATIENT: Because I really do not drink a lot but when I do because it's hot and you know or there's some sort of event, it'll come down the road a few days later.
+DOCTOR: You're not a smoker are you?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Not any longer.
+DOCTOR: How long ago did you quit?
+PATIENT: Uh about 28 years ago, thirty years, 25, somewhere around there.  You know some people just know the date and time.  I just noticed I wasn't smoking so.
+DOCTOR: Okay.  Alright I'm going to step out for one minute I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  47:43  DOCTOR IN:  61:54)
+DOCTOR: Enjoying the view?
+PATIENT: [REDACTED] window.
+DOCTOR: Alright so what we're going to do.  I think we can wait on getting your uh cholesterol checked for the time being.
+PATIENT: Okay.
+DOCTOR: Um but I would like to check your hemoglobin A1c and your kidney function and stuff today.  So if you can stay and get some labs today we'll take care of that.
+PATIENT: Alright.
+DOCTOR: Um and we can add another medication for your diabetes to try and get that under control.
+PATIENT: Okay.
+DOCTOR: Um you know in dealing with whatever this stress is that you have in your life is going to be key.  It's going to be key in controlling your blood sugar.
+PATIENT: Exactly.
+DOCTOR: Your weight and everything.  Is there anything that you can do about that?  I mean you said you're working from home.
+PATIENT: Uh-huh.
+DOCTOR: Um and is it just trying to get the work done or is it dealing with colleagues or?
+PATIENT: No I have um; I deal in the foreclosure market.
+DOCTOR: Uh-huh.
+PATIENT: Um you know doing short sales and helping businesses and homeowners uh keep their businesses going.
+DOCTOR: Yeah.
+PATIENT: So um it's a financial stress.
+DOCTOR: Yeah.
+PATIENT: You know we're not always successful.
+DOCTOR: Right.
+PATIENT: So.
+DOCTOR: Okay.  Um.
+PATIENT: It's just the nature of the job.
+DOCTOR: Yeah.  Is there a lot of anxiety that you're feeling related to it?
+PATIENT: No I think it's more a frustration.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright.  Alright, do you think talking with someone would help you deal with it?
+PATIENT: No because uh I've been doing this for a long time.  I pretty much uh understand that you know there's a lot items out of my control.
+DOCTOR: Uh-huh.
+PATIENT: So.
+DOCTOR: Alright.  But it's still affecting your.
+PATIENT: Well it affects me because its, you know I'm still dealing with people and you know what's going on in their lives.
+DOCTOR: Right, right, right.
+PATIENT: So.
+DOCTOR: Hmm.
+PATIENT: I was listening to the radio coming in and uh they said that the poverty levels in the suburbs have gone up.
+DOCTOR: Uh-huh.
+PATIENT: And um you know Naperville, the poverty has gone up in the suburbs 70%, in Charles 120%, Romeoville where I live is 500%.
+DOCTOR: Wow.
+PATIENT: So there's a lot of it going on and you know I'm trying to help people keep their houses.
+DOCTOR: [REDACTED].
+PATIENT: Or move on to the next.
+DOCTOR: Uh-huh.
+PATIENT: Situation.
+DOCTOR: Uh-huh.  As cleanly as possible.
+PATIENT: That's just you know the price of business.
+DOCTOR: Yeah.
+PATIENT: If I didn't care I wouldn't have the stress.
+DOCTOR: Yes.  Yeah but I don't want this to have such a large negative impact on your health.
+PATIENT: Well I just think it's, I just think as the economy gets worse, which it will continue to do, there's just going to be more of it.
+DOCTOR: Uh-huh.
+PATIENT: Fortunately I can only do so much.
+DOCTOR: Right.
+PATIENT: So.
+DOCTOR: Alright well I don't want this to keep you.
+PATIENT: No.  I'll just go home and drink.
+DOCTOR: That's really true but this can be just as bad like when we talk about you, you see some of the veterans here who.
+PATIENT: Right.
+DOCTOR: Yeah and so it's, we don't want what's happening now affect you much further down the road.
+PATIENT: Right.
+DOCTOR: Alright cause.
+PATIENT: But if you give you an assignment, which you have, of monitoring my intake.
+DOCTOR: Uh-huh.
+PATIENT: Uh I'll do that.
+DOCTOR: Okay, alright and we'll see how it goes and we're going to start this new medication.  Do you want to pick it up at the Pharmacy or have them mailed to you?
+PATIENT: Oh just have it mailed to me.
+DOCTOR: Okay.  So.
+PATIENT: What is it?
+DOCTOR: Um glipizide is the name of it.  It's another oral medication that is going to work in a slightly different way.
+PATIENT: Is it in replace of or in addition to?
+DOCTOR: No in addition to.
+PATIENT: Okay are there any side effects?
+DOCTOR: Well the one thing that can.
+PATIENT: Will it make me sexy or something?
+DOCTOR: It can make your blood sugar drop low.  Unlike metformin, it's very rare with metformin to have a low blood sugar because it works in a different way but this medication is going to increase your own secretion of insulin and so sometimes the side effect can be low blood sugars.  We're starting you on a dose that probably won't have that affect given what your blood sugars are.
+PATIENT: Okay.
+DOCTOR: But I would like to um you know, I'd like you to keep checking just like you are.
+PATIENT: Uh-huh.
+DOCTOR: And every once in a while.  Are these mostly fasting blood sugars in the morning that you're checking or are they during the day?
+PATIENT: Usually in the morning.
+DOCTOR: Yeah so let's try checking maybe one day a week check a blood sugar before dinnertime.
+PATIENT: Okay.
+DOCTOR: And see where things are there, at that time of day, so we know what your fluctuation is okay.  And today we'll do, we'll just check a couple labs.  Um and give us a call, maybe in a month and if you can give us a call and just tell us how your blood sugars are doing.
+PATIENT: Alright.  Who do I call?
+DOCTOR: I have a number here.  Um you can call, I'll have you call the nursing like hot line and then they'll send the message along to me.  So the phone number is [REDACTED]-[REDACTED]-[REDACTED]@.  Oh and the last thing I wanted to do, just for your stomach in the meantime.
+PATIENT: Uh-huh.
+DOCTOR: Is give you that medication we were talking about, it's called omeprazole and I'll have you take it for a month.
+PATIENT: Alright.
+DOCTOR: And then you can stop.
+PATIENT: Alright.
+DOCTOR: It will work to decrease the acid secretion in your stomach.  Hopefully you won't be eating to try and you know.
+PATIENT: Help me give it up.
+DOCTOR: Yeah I mean what you're trying to do is neutralize that acid.
+PATIENT: Uh-huh.
+DOCTOR: And create a barrier to protect your stomach.  That's why, especially milk, things like that are counteracting the acid so, so do it for a month and see if that helps.
+PATIENT: Okay.  That's not something I would have to stay on?
+DOCTOR: No.  Hopefully after a month it gives your stomach some time to heal.
+PATIENT: Alright.
+DOCTOR: And then most people are able to stop.  If it does persist then that's a sign that something a little bit more worrisome is going on and we'll have you checked out by the gastroenterologist okay.
+PATIENT: Alright.
+DOCTOR: Alright so.  I want you to come back and see me in three months.  We'll get the hemoglobin A1c.
+PATIENT: Alright.
+DOCTOR: And check the electrolytes today.  Um and have you give us a call in about a month and let me know how your blood sugars are doing.
+PATIENT: Alright.
+DOCTOR: And if you're getting low blood sugars give a call too.
+PATIENT: And where do I go again for the?
+DOCTOR: We'll see if they can get you in out here.
+PATIENT: Alright.
+DOCTOR: You know it looks like she's not here, so we'll have you go down to the Lab to have your labs drawn.
+PATIENT: Alright
+DOCTOR: Alright so I'll give you this and you can turn that in at the front and you'll head down to the first floor for blood work.
+PATIENT: Alright.
+DOCTOR: Okay.  I won't shake your hand.
+PATIENT: Alright.
+DOCTOR: I'll give you a call if there are any problems with the labs.
+PATIENT: Okay.  Thank you.
+PATIENT: 69:57
+Time is 10:15
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238133
+TRANSACTION # 578-10-2-316-0103

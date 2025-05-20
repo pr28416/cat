@@ -1,0 +1,300 @@
+DOCTOR: PATIENT?  How are things going?
+PATIENT: [REDACTED].
+DOCTOR: Alright, this way.  [REDACTED].
+PATIENT: Hey DOCTOR.
+DOCTOR: How are you doing PATIENT?
+PATIENT: I'm good.
+DOCTOR: Okay right here sir. Go ahead and have a seat right over there PATIENT.  What can I do for you today?
+PATIENT: I don't know, you tell me.  You got me coming in here.
+DOCTOR: Alright, it's regular check-up huh.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Okay, the last time you were seen.  Okay were you recently admitted to the hospital?
+PATIENT: [REDACTED] earlier this summer [REDACTED]. August of this year.
+DOCTOR: [REDACTED] you had some bleeding huh?
+PATIENT: Yes.  Yep I had bleeding.
+DOCTOR: [REDACTED] take an aspirin.
+PATIENT: Yeah.
+DOCTOR: How strong, a baby aspirin?
+PATIENT: [REDACTED] baby aspirin.
+DOCTOR: Good.  Okay.  Alright.  So they transfused you quite a bit of blood?
+PATIENT: Uh-huh.
+DOCTOR: Four units of blood huh.  Understood.
+PATIENT: I been losing weight ever since.
+DOCTOR: Got it.  Been losing weight since huh.
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: This something need to be address cause I'm [REDACTED] even with the [REDACTED] pill.
+DOCTOR: Got it.  You’re curious about the water pills [REDACTED].
+PATIENT: Now [REDACTED] hospital [REDACTED].  (Patient answers his cell phone)
+DOCTOR: Alright, all squared away?
+PATIENT: Yes.
+DOCTOR: Okay so uh couple of things we need to talk about.  So it sounds like you've been having a couple different episodes of bleeding in the last year from your stomach.  Uh your, um you were previously on anticoagulation with Coumadin, is that right?
+PATIENT: Right.
+DOCTOR: And you're done with that now and just on aspirin.
+PATIENT: Yeah they just knocked the Coumadin off for a while.
+DOCTOR: Very good.  Uh and you have seen Cardiology recently right?  That was just last week.
+PATIENT: Right.
+DOCTOR: Very good.  So it sounds like we're gonna do, okay.  Okay so we're gonna do a little bit of a fluid restriction and then they want to see you again it looks like in October.  Uh okay.  As far as your afib flutter, okay you had an ICD placed uh very good and okay your rhythm and rate controlled.  Did they ever do what they call cardioversion for you?  Meaning uh give you a medication to put your heart back in a normal rhythm or give you a shock to your heart to put it back into normal rhythm?
+PATIENT: For what?
+DOCTOR: For the a fib?  Did they ever, does that sound familiar at all?  No?
+PATIENT: No.
+DOCTOR: Oh yeah you would know if they did that.  It's something for rate control.  Kind of brings me to the.
+PATIENT: What?
+DOCTOR: Next question.  Uh that you had previously been on a medication called carvedilol or Coreg.
+PATIENT: I still on carvedilol.
+DOCTOR: You're still on that okay.  Did that prescription run out for you?
+PATIENT: I could use some more.
+DOCTOR: It's expired okay.  Very good so we'll order that.  When's the last time you took any of that?
+PATIENT: I got a little bit at home still.
+DOCTOR: Oh you still got it, very good.  Cause your heart rate is at a good place right now, okay very good.  Um.  Understood okay.  So we're going from there.  As far as the okay, so we have, let me just bring you up in here.  You have another medication that has expired so I need to, there we go.  Active and recently expired, there we go.  So you're taking Bumex, that's your water pill right?  Um three times daily and then one tablet twice daily okay.  And they've got you on carvedilol okay.  How much carvedilol are you taking?  Are you taking a half tablet twice a day?
+PATIENT: Right.
+DOCTOR: Good man okay.  Very good.  Oh you're also taking Lasix as well as the Bumex or just the Bumex so for water pills?
+PATIENT: Just the Bumex.
+DOCTOR: Okay.  But you were having some swelling in your legs, is that right?
+PATIENT: Uh-huh.
+DOCTOR: How's that doing?
+PATIENT: Goes and comes.
+DOCTOR: Okay got it.  Very good.  Um when the swelling comes on do you tend to increase your Bumex pills?
+PATIENT: Uh-huh.
+DOCTOR: You just take more pills okay, very good.  You'll take it three times daily as opposed to twice daily is that right?
+PATIENT: Right.
+DOCTOR: Very good.  Okay excellent.  Um so we can talk about with you, as far as your COPD or your emphysema goes uh you take a Combivent inhaler?
+PATIENT: Uh-huh.
+DOCTOR: Four times daily.
+PATIENT: Uh-huh as needed.
+DOCTOR: Oh as needed okay very good.  Do you take anything called Advair?
+PATIENT: No.
+DOCTOR: Okay.  I understand.  How's your COPD doing in general?  Your breathing?
+PATIENT: It's uh about the same.  It varies from day to day.
+DOCTOR: It varies from day to day okay.  How far can you walk before you get real short of breath?
+PATIENT: That's according, that's the same way, varies from day to day.
+DOCTOR: Oh yeah.  Um today for example, when you got up from your chair and walked into this room did you feel short of breath?
+PATIENT: Uh-huh.
+DOCTOR: You looked like you did all right.
+PATIENT: No.
+DOCTOR: Okay.  [REDACTED] aspirin [REDACTED].  Okay how many flights of stairs could you take today if you needed to?
+PATIENT: I have to.
+DOCTOR: Oh really.
+PATIENT: I got 56 steps to walk up.
+DOCTOR: You do, okay.  How do you with 56 steps?
+PATIENT: Yesterday I come in, I come in I had some when I went on the stairs uh today I don't know.
+DOCTOR: Okay.
+PATIENT: Other days I stop sometimes twice, sometimes I stop three times walking to the third floor.
+DOCTOR: Okay.  Alright so sometimes you get tired going up to the third floor, other times you do okay is that right?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Uh-huh, yeah [REDACTED].
+DOCTOR: Okay.  You have a chronic cough?
+PATIENT: No.
+DOCTOR: How often are you using that Combivent inhaler?
+PATIENT: Hmm I use it when I run into that shortness of breath.
+DOCTOR: Oh I see.  So that's the main symptom of your COPD okay.
+PATIENT: Yes.
+DOCTOR: Okay.  So how often is that?
+PATIENT: Um sometimes once a day, sometimes twice.
+DOCTOR: Okay so like a couple of times a day tops.
+PATIENT: Yes.
+DOCTOR: Okay.  When was the last time do you've seen the liver doctors for the hepatitis C?
+PATIENT: It's been a while.
+DOCTOR: Been a little while huh.
+PATIENT: Uh-huh.
+DOCTOR: There are a few kind of screening things that we need to do, because folks that have hepatitis C there's a tendency to develop liver cancer alright.  Uh so we want to make sure that that's not the case so probably I'd like to send you for some imaging today.  Now it doesn't have to be today but we can at least set it up for that.
+PATIENT: Set it up today.
+DOCTOR: Alright very good.  Uh let's see here okay.  Um how are you doing as far as smoking cigarettes goes?
+PATIENT: A pack lasts me about a week.
+DOCTOR: About a pack a week.  Any thoughts of quitting all together?
+PATIENT: Yeah.
+DOCTOR: Oh okay.  Do you have a specific date in mind when you're gonna quit?
+PATIENT: [REDACTED].
+DOCTOR: Yeah [REDACTED] target day, okay.  Um any thoughts about trying to quit with using the patch and gum or anything like that?
+PATIENT: No.
+DOCTOR: No okay.  Alright, so here's what I want from you to go, between now and the next time I see you, um if you could circle a, pick a date, circle it on the calendar and just that's all I want.
+PATIENT: Yeah.
+DOCTOR: Next time you come in just have a date circled on the calendar when you're gonna quit alright.
+PATIENT: Uh-huh.
+DOCTOR: And just kind of batting the idea a little bit.
+PATIENT: It'll be after the holidays.
+DOCTOR: Okay, that's fine.  Um after the holidays um you can follow up with me.  Then I also want you to think about how you're gonna quit too.  Have you tried quitting cold turkey in the past?
+PATIENT: Uh-huh I do everything cold turkey.
+DOCTOR: You do okay.  Yeah okay, so here's what I want you to think about there are lots of good things out there to help you quit.  There's a patch, gum, other medications we can try so I just want you to think about the day when you're gonna quit this.
+PATIENT: Yeah, I'll do it.
+DOCTOR: Okay very good and it's just I just want you to be thinking about it is all alright.
+PATIENT: Uh-huh.
+DOCTOR: And that's one of the harder things to do is to decide to quit.  Okay.
+PATIENT: Alright, I done it before.
+DOCTOR: Okay.  We'll try it again.  Alright so then um, as far as alcohol goes um when was the last time you had a drink?
+PATIENT: This morning.
+DOCTOR: This morning okay.  What kind of liquor do you drink?
+PATIENT: Cognac.
+DOCTOR: Cognac okay.  Um how long does it take you, do you drink a fifth, pint, half pints?
+PATIENT: [REDACTED] sip [REDACTED].
+DOCTOR: Uh when you go out and buy cognac uh how much of it do you buy?
+PATIENT: I buy a fifth.
+DOCTOR: You buy a fifth.  How long does it take you to get through a fifth?
+PATIENT: Well some weeks I don't even drink.
+DOCTOR: Okay.
+PATIENT: So uh.
+DOCTOR: When you're drinking though, when you're drinking a lot, how quick can you get through a fifth?
+PATIENT: If I'm drinking a lot.
+DOCTOR: Yeah.
+PATIENT: I can drink a fifth in a day.
+DOCTOR: Okay.  Okay.  So less than a fifth a day.  Got it.  Alright so um you know one of the reasons that you might have had that bleeding from your stomach.
+PATIENT: Yeah I know they told me.
+DOCTOR: Very good so you know that could definitely be causing some of the bleeding okay.
+PATIENT: Yeah.
+DOCTOR: Then also, I mean you already have hepatitis you know, liver and alcohol goes straight to the liver you actually can worsen and flare-up the hepatitis and we're so concerned about your liver because we don't want you to progress to what we call cirrhosis okay.
+PATIENT: No I understand.
+DOCTOR: You know about it alright.  Okay um have you had that, did they do a colonoscopy for you when you were in the hospital?
+PATIENT: Yeah.
+DOCTOR: They did okay that's what I was thinking.  Okay.  Uh did you have a flu shot this year?
+PATIENT: Yes I had one last week.
+DOCTOR: Good.
+PATIENT: [REDACTED].
+DOCTOR: You ever had the pneumonia vaccine?
+PATIENT: Think so.
+DOCTOR: Okay.  Let me double check that to make sure you got it.  Alright endoscopy, I’m sure they did that.  Colonoscopy.  Okay.  Okay.
+PATIENT: Okay um.
+DOCTOR: [REDACTED].
+PATIENT: Like when I was here with uh Cardiology.
+DOCTOR: Yes sir.
+PATIENT: She put in a prescription for some, what's that, damn can't pronounce the name of this, it's for the stomach… the ompra, [REDACTED], anyways.
+DOCTOR: Good, no keep telling me uh.
+PATIENT: What it's, you know it's to coat my stomach.
+DOCTOR: Yeah.
+PATIENT: Uh I was supposed to pick it up.
+DOCTOR: Okay.
+PATIENT: You know something came up and I left without it.
+DOCTOR: Okay.
+PATIENT: And they never mailed it.
+DOCTOR: Oh they never mailed it.  Do you want to have it, cause you could just contact the Pharmacy and they'll be able to mail it for you.  Is that what happened and they said no?
+PATIENT: I haven't contacted the Pharmacy.
+DOCTOR: Yeah.  Okay, let's look up your labs here.  We probably get a blood count on you today as well alright.
+PATIENT: What?  Taking blood count?
+DOCTOR: Yep to make sure everything's alright.  Have you been having any black or bloody bowel movements at all?
+PATIENT: No just green.
+DOCTOR: Just green.  Alright.
+PATIENT: Yeah.  And I need some more of those too.
+DOCTOR: You need some more what?
+PATIENT: Uh just the iron pills.
+DOCTOR: Oh okay, yeah absolutely.  I'll set you up for that.  Do you want it all mailed to you?
+PATIENT: Yes please.
+DOCTOR: Uh very good sir.  Let's see.  Alright, let's get an A1c, we'll see how your lipids are doing okay.  Your last lipids in January of this year actually look pretty good.
+PATIENT: What's those?
+DOCTOR: That's your cholesterol.
+PATIENT: Oh.
+DOCTOR: It looks real good.  At least we got that going for us.  I want you to try to follow up with the Liver Clinic as well alright.  Let me see when the last time you got uh, ultrasounds good okay so that's the time you had one.  [REDACTED].  Okay good enough.  (Knock on the door)  Alright sir I'm gonna go talk to DOCTOR.  Alright I just want to listen to your heart and lungs and we'll be all squared away alright.
+PATIENT: Okay.
+DOCTOR: Alright.  Deep breath in and out.  Good.  Lungs sounding pretty good today.  Is that painful at all down there?
+PATIENT: Yeah it's tender down there.
+DOCTOR: Go ahead and lay back for me.  Can you kind of point it out to me where it's tender at?
+PATIENT: Well, around here.
+DOCTOR: How long has that been going on for?
+PATIENT: Couple of days.
+DOCTOR: Painful when you urinate?
+PATIENT: No.
+DOCTOR: Tingling at all, burning when you urinate?
+PATIENT: No.  Your hands cold.
+DOCTOR: I’m sorry.
+PATIENT: Uh yeah I had, it was like uh, I had to take a bowel movement this morning with lots of straining.
+DOCTOR: So you had to strain to have a bowel movement?
+PATIENT: No it wasn't for the bowel movement but when I was having the bowel movement it was like a pain in between my genitals and my anus.
+DOCTOR: Really.
+PATIENT: Yeah.
+DOCTOR: Some pain down there?
+PATIENT: Not exactly really like a pain.
+DOCTOR: Okay.
+PATIENT: Yeah I guess it was like a pain.
+DOCTOR: Some discomfort down there?
+PATIENT: Yeah.
+DOCTOR: Oh okay.  Got it, let me see here.  I'm gonna warm my alright.
+PATIENT: And see I was talking about this doggone uh, some kind of hernia cause I have my naval is sticking out and it's always been an innie.
+DOCTOR: Yeah okay.
+PATIENT: There it is.
+DOCTOR: Oh I see, and so you're normally an innie huh?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And it's a little tender there.
+DOCTOR: Right in there huh.
+PATIENT: Yeah.
+DOCTOR: You want that taken care of?
+PATIENT: Taken care of?
+DOCTOR: Yeah uh you can correct it with surgery.
+PATIENT: Yeah but that's not what they said.  They didn't want to do any surgery.
+DOCTOR: Tell you what, you're having some pain down there uh you want me to take a look?  Kind of you said in between your genitals and your anus is that right?
+PATIENT: Yeah.
+DOCTOR: Okay, alright.  If you want I mean and this is something new just this morning is that right?
+PATIENT: Uh couple of days.
+DOCTOR: Couple of days okay and just when you have bowel movements or do you feel it right now?
+PATIENT: No I don't feel it now.
+DOCTOR: You don't feel it now.
+PATIENT: I have felt it doing nothing.
+DOCTOR: What's that?
+PATIENT: I felt, you know felt it when I'm doing nothing.
+DOCTOR: You do okay.
+PATIENT: But uh.
+DOCTOR: What type of pain is it exactly?
+PATIENT: Just a dull pain.
+DOCTOR: So kind of vague, dull pain down there huh.
+PATIENT: Yes.
+DOCTOR: Alright.  What makes it worse?
+PATIENT: Like a little straining.
+DOCTOR: Straining makes it worse.
+PATIENT: Yeah.
+DOCTOR: Got it.
+PATIENT: Like when I doing the bowel movement and.
+DOCTOR: Okay.
+PATIENT: [REDACTED] when I pee.
+DOCTOR: Okay.  Any pain with sex at all?
+PATIENT: No.
+DOCTOR: No [REDACTED].
+PATIENT: I ain’t' had sex.
+DOCTOR: Okay so you haven't had sex in a little while.
+PATIENT: Not in a little while, but not lately.
+DOCTOR: Not lately okay got it.  Uh no painful urination.  Not urinating any more frequently?
+PATIENT: Only when I do the Bumex.
+DOCTOR: Okay.  Blood in your urine?
+PATIENT: Nope.
+DOCTOR: Nope okay.  Alright sir, I tell you what um do you mind dropping your drawers real quick so I can take a look see?
+PATIENT: Oh if you all say so.
+DOCTOR: Alright.  Any bulges or anything down there?  It doesn't hurt you anywhere?  Good.
+PATIENT: No.
+DOCTOR: Okay.  Can you kind of point it out to me where you're having this pain at?
+PATIENT: Okay, this area down through.
+DOCTOR: Underneath there yeah okay.  Painful in there when I push?
+PATIENT: No.
+DOCTOR: Good.  Is painful in that area at all?
+PATIENT: Uh uh, not right now.
+DOCTOR: How about this area?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Making sure you’re not having any hernia.  Painful in there?
+PATIENT: Uh uh.
+DOCTOR: Can you cough?  Okay.  Give me a cough.  Okay.  [REDACTED].  Pain at all in your testicles?
+PATIENT: No.
+DOCTOR: Okay.  I'll just go real gently, pain all about there?
+PATIENT: No.
+DOCTOR: Nothing?
+PATIENT: Uh uh.
+DOCTOR: Nothing out of the ordinary.  Okay so nothing going on right now in there huh?
+PATIENT: Uh uh.
+DOCTOR: Good.  Okay you can go ahead and pull it back up.  When you have a bowel movement is it well-formed?
+PATIENT: Uh-huh.
+DOCTOR: Good.  Huh, no problems with fevers, chills or anything like that?  No good.  Alright sir.  Uh let me go visit with DOCTOR and I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  41:03  DOCTOR IN:  45:28)
+DOCTOR: Alright.
+DOCTOR: PATIENT.  We want to make sure there's no infection in your colon okay.  So we want to do a CT scan okay.  We will do it without the dye.  I want you to go get it done and come back and you can [REDACTED].  Are you allergic to any medications?
+PATIENT: Not that I know of.  Wait a minute; you said you wanted me to go get a what?
+DOCTOR: CT scan.  The CT scan of your abdomen to make sure there's no infections.
+DOCTOR: A CAT scan.
+PATIENT: I know what it is.
+DOCTOR: Make it stat so we can read it.
+PATIENT: Yes.  Cause I got something to do today.
+DOCTOR: Okay, very good.  So um lower quadrant bowel CT okay.  Yeah man, you know I understand you got stuff to do.  I apologize for holding you up but I mean this is something that can kind of blossom into something more serious if we don't catch it earlier and I mean, if you do have, we can knock it out with antibiotics too so uh.  Alright and then also I'd like to set you up for a liver ultrasound as well.  That doesn't have to be today though.  Okay.  And we also want you to go follow up with the liver doctor as well okay and again that's just scheduled and we don't need that to happen today or anything uh okay.  Also we want you to get a pneumonia shot as well today okay.  That doesn't have to be right now, it can be after you come back from the CAT scan okay.  Okay and a Liver Clinic follow-up.  Okay, alright sir, so let me give you this guy.  You can check out with the clerks.  Um I'm gonna make you a list okay.  So check out and then go to Radiology to get the CAT scan and then come back to the Blue Clinic, come back and ask for DOCTOR or if you can't find her you can find myself as well okay.  Uh and then pneumonia shot.
+PATIENT: Where do I do the pneumonia shot at?
+DOCTOR: This is you know NAME, who does your vital signs; she can give you that shot alright.  There's everything right there.  Good, good.  Okay.  Alright, there you go sir.  Um you know I'm sorry to hang you up but I'm just trying to look out for you guys, alright.
+PATIENT: [REDACTED].
+PATIENT: 51:12
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300282
+TRANSACTION # 578-10-2-316-0103

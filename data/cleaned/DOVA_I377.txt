@@ -1,0 +1,379 @@
+DOCTOR: Hey PATIENT how are you today?
+PATIENT: How you doing doc?
+DOCTOR: How you doing?
+PATIENT: Fine thanks.
+DOCTOR: Good.  I'm good.
+PATIENT: How you doing?
+DOCTOR: I'm doing okay.
+PATIENT: Good.
+DOCTOR: Not as cold out as I was worrying it would be so I'm happy.
+PATIENT: Oh yeah.
+DOCTOR: Come on in here.
+PATIENT: Oh shoot.
+DOCTOR: So, last time I saw you back in September you were feeling pretty good.
+PATIENT: Yeah, yeah nothing much changed.
+DOCTOR: Nothing much has changed.  Still feeling pretty good?
+PATIENT: Yeah.  I still have that same problem though with my uh.
+DOCTOR: With your back?
+PATIENT: Uh knee.
+DOCTOR: Or your knee I mean.
+PATIENT: That um, spasm type thing.
+DOCTOR: Yeah.
+PATIENT: In my uh and I had the MRI.
+DOCTOR: Alright let me look it up.
+PATIENT: So um they made me an appointment with the doctor and everything to the CT or whatever you needed.
+DOCTOR: Let's see what it shows.  MRI done in September.
+PATIENT: Uh-huh.
+DOCTOR: DOCTOR, no.
+PATIENT: How do you pronounce it?
+DOCTOR:
+DOCTOR: don't know.  Alright.  So it's showing some osteopenia which is like uh some bone loss and you had surgery on your back so didn't you?
+PATIENT: Yeah, yeah over to the [REDACTED].
+DOCTOR: Right.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: But that was uh a kind of a [REDACTED] here.
+DOCTOR: Right.  When I saw you in November you had a spine MRI, you didn't know.  Yeah the last thing you were going to have is the MRI of your C spine, your neck.
+PATIENT: Yes.
+DOCTOR: Did you get other imaging done too?
+PATIENT: I don't know I went through the machine, whatever happens.
+DOCTOR: Yeah it looks like they just did your neck.
+PATIENT: Because uh the uh especially at night, when I go to bed.
+DOCTOR: Yeah.
+PATIENT: Cause it's [REDACTED] leg.
+DOCTOR: Uh-huh is it bothers the knee?
+PATIENT: Yeah no it's spasming.
+DOCTOR: Spasming.
+PATIENT: Uh you know.
+DOCTOR: I don't see anything where we talked about your knee last time.  Huh.  The MRI scheduled for your knee in October, I'm not seeing it in here.
+PATIENT: I went through the MRI, I went [REDACTED].
+DOCTOR: Yeah I know I believe you.  They're showing an MRI of your cervical spine in November but I'm not seeing an MRI of your knee but I know you've had it done.
+PATIENT: No, it's not for the knee.  They [REDACTED] that.
+DOCTOR: That might be making your spasms.
+PATIENT: Right.
+DOCTOR: DOCTOR.
+PATIENT: Right.
+DOCTOR: Yeah but I ordered one hmm.  You still using your cane?
+PATIENT: Beg your pardon?
+DOCTOR: You were using a cane the last time I saw you.  So are you using your cane?
+PATIENT: No, not really, usually I don't use it.
+DOCTOR: Okay and you haven't seen anyone since you saw me last in September right?
+PATIENT: No except for DOCTOR, for the MRI.
+DOCTOR: For the MRI you're right.  Alright so you missed your appointment in October and never came back huh.  So you missed your MRI back in October and then they rescheduled it.  That's yeah, that's what happened.
+PATIENT: Right okay.
+DOCTOR: Okay.  Alright now we got that taken care of.  So you've been having spasms with your knee and it's not getting any better.
+PATIENT: No.
+DOCTOR: Has it gotten any worse?
+PATIENT: No, no.
+DOCTOR: Okay are you having any numbness or tingling?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: The only thing happened; the only thing that really happened is that I have to position myself a certain way in bed, especially when I relax okay.
+DOCTOR: Right.
+PATIENT: And then if I don't what happens is that it seems like, it seem like there's a press.
+DOCTOR: Okay.
+PATIENT: That comes not just in one space.
+DOCTOR: Right.
+PATIENT: And then when I lay it goes up.
+DOCTOR: Alright, right cause that's what we were talking about last time.
+PATIENT: Right.
+DOCTOR: But you aren't having any falls or anything right?
+PATIENT: No uh uh no.
+DOCTOR: Okay.
+PATIENT: And it happens in both legs.
+DOCTOR: Okay.  The last time I saw you did it just happened in the one?  Or does it move at all cause last time it was just your right knee.
+PATIENT: No it's both the knees.
+DOCTOR: It's in both yeah.
+PATIENT: It's just that the right knee was worse.
+DOCTOR: Okay than the left.
+PATIENT: Yeah.
+DOCTOR: Okay and your blood pressure's in really good control so that's good and you had your colonoscopy and we’re just going through everything to make sure we’re covered and you're still following with the urologist.
+PATIENT: Yes.
+DOCTOR: Okay.  Uh have you had your flu shot this year?
+PATIENT: Yes.
+DOCTOR: Did you get your H1N1 shot too?
+PATIENT: I'm not going to take that.
+DOCTOR: Not gonna take that huh.
+PATIENT: No.
+DOCTOR: Okay.  I've heard some mixed reviews about it.  A lot of my patients want to take it and some people absolutely not.
+PATIENT: I'm not gonna get it.
+DOCTOR: Okay and then you need another colonoscopy but you wanted to wait until next year.
+PATIENT: Yes.
+DOCTOR: Okay so we can schedule you for that next year, cause it's almost [REDACTED]@.
+PATIENT: Right.
+DOCTOR: Um let's see if your lipids.
+PATIENT: I want you to look at something here.
+DOCTOR: Sure.
+PATIENT: My neck, lift that up.  My wife keeps telling me that behind my neck here.
+DOCTOR: Uh-huh.
+PATIENT: Right here, there's a knot, I feel that there's a knot right there.
+DOCTOR: Well there's one right here.
+PATIENT: Now I'm not talking about the uh mole.
+DOCTOR: The thing on your, right cause that's been there for a while.
+PATIENT: Yeah.
+DOCTOR: Alright take your jacket off cause you’re taller than I am and I can’t see that high.  Sit over here.
+PATIENT: Okay.
+DOCTOR: You haven't been having any chest pain, trouble breathing, nausea, vomiting, blood in your stool?
+PATIENT: No.
+DOCTOR: I'm gonna look at you.  Where’s she seeing one?
+PATIENT: [REDACTED] I think I'm [REDACTED] right.
+DOCTOR: Let me see.  Oh it's right there.
+PATIENT: I guess that's where it's at.  I can't see behind me.
+DOCTOR: No that's actually your skull.  Cause you've got such thin, cause you're bald up here essentially.
+PATIENT: Uh-huh.
+DOCTOR: You don't have enough hair so it's the same on both sides.
+PATIENT: Uh-huh.
+DOCTOR: You've got it symmetrical when we start getting concerned is when you like let's say you had a bump over here but you didn't over here.
+PATIENT: Uh-huh.
+DOCTOR: Then I may be concerned but they're both exactly the same size.  They're the same as far as depth.  They're not tender right?
+PATIENT: No.
+DOCTOR: And you know they're not nodules they're just like the outline of your skull.
+PATIENT: Oh okay.
+DOCTOR: Okay.  She you can tell her that  you asked a doctor and it's not anything to be concerned about okay.
+PATIENT: Okay.
+DOCTOR: Let me examine you real quick while you’re up here.
+PATIENT: I can do that.
+DOCTOR: Okay look straight ahead for me.  Open your mouth, stick out your tongue and say ah.
+PATIENT: Ah.
+DOCTOR: No pain there, right?
+PATIENT: Uh-huh.
+DOCTOR: Take a big deep breath in and out through your mouth.  One more, last one.  Did we ever have you go see Orthopedic Surgery or anything for your knee for the spasms that you’re having, or physical therapy or anything like that?  No.  Cause that might be the next best step that because you're having trouble.  You haven't lost your balance or fallen or anything so right?  You just kind of like when you're laying in bed you've got to lay in a certain position and it feels like it jerks back.
+PATIENT: It does jerk back.
+DOCTOR: Yeah.
+PATIENT: It spasms.
+DOCTOR: It spasms.
+PATIENT: It's like the same thing that I had here in my neck.
+DOCTOR: With your neck.
+PATIENT: And when I had that my whole shoulder [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And that's the way it is right here um.
+DOCTOR: Does it hurt when I'm pushing right here?
+PATIENT: No, no, no.
+DOCTOR: It doesn't hurt at all.
+PATIENT: No.
+DOCTOR: It spasms.
+PATIENT: That's all.
+DOCTOR: Any leg swelling?
+PATIENT: No.
+DOCTOR: Does it happen like at a certain of day or it kind of can happen at any time?
+PATIENT: If one goes up, nothing I'm doing.
+DOCTOR: It doesn't wake you up at night does it?
+PATIENT: Yeah.
+DOCTOR: It does.
+PATIENT: Yes.
+DOCTOR: Sometimes you wake up having leg spasms.
+PATIENT: Oh man, it just, I've had it come up my legs going back to my back.
+DOCTOR: Uh-huh.
+PATIENT: And my wife sometime has to get up.
+DOCTOR: [REDACTED] and help you out?
+PATIENT: And pull my legs.
+DOCTOR: Okay.
+PATIENT: Pull my legs apart you know.
+DOCTOR: Yeah.
+PATIENT: And the only thing that helps me.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: That helps with the spasms?
+PATIENT: Yeah it releases, releases it.
+DOCTOR: Okay, okay.  So lay down for me.  Cause it doesn't sound like you're really having pain, it sounds more like you're just having spasms.
+PATIENT: That's what it is.
+DOCTOR: Alright.  I'm gonna lift your leg up, you tell me if it hurts anywhere.
+PATIENT: No.
+DOCTOR: No.
+PATIENT: Uh uh.
+DOCTOR: No.  Now can you bend your knee for me?
+PATIENT: Uh-huh.
+DOCTOR: Put your foot down.  I'm just gonna push a little bit.  You tell me if you feel any pain.
+PATIENT: Just pressure.
+DOCTOR: Just pressure.  Go ahead and sit back up.  You need some help?
+PATIENT: Why?
+DOCTOR: I need some help, there we go.  Let me see what else we mentioned.  And you said you haven't ever had trauma to that knee or anything like that?
+PATIENT: Uh uh.
+DOCTOR: Alright, well let me go talk to DOCTOR, see what she thinks um and we'll go from there.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Um and the last time I saw you, you had a UTI, a urinary tract infection.
+PATIENT: Right.
+DOCTOR: Do you uh.
+PATIENT: That's cleared.
+DOCTOR: That's cleared up.  You haven't had another one since then right?
+PATIENT: Right.
+DOCTOR: And you're still, so last time we talked about your prostate cancer screening and you said you don't want to get screened anymore because?
+PATIENT: No.
+DOCTOR: If you found it you didn't want to do anything about it right?
+PATIENT: No I didn't say that.
+DOCTOR: You didn't say that okay.  That was one of the notes from before I saw you so um; do you want to get screened?
+PATIENT: I don't need to get screened for the prostate.
+DOCTOR: Okay.  Um I just wanted to make sure.  Cause some of my patients also say well I'm not gonna do anything about it so I don't want to be screened and I say okay, it's up to you.  Um I had one other question oh, your blood pressure.  You don't have a blood pressure cuff at home do you or do you have one?
+PATIENT: I have, you know what I dropped it.
+DOCTOR: You dropped it.  Do you need a new one?
+PATIENT: Will it cost me?
+DOCTOR: I do not know.  That I do not know.  I can put in the order and you can find out cause they can give it to you at Prosthetics and you can ask them if it's gonna cost anything.
+PATIENT: Cause I dropped it and uh.
+DOCTOR: Well the other thing you can do if you dropped it you can bring it back in, they might be able to exchange it for another one.
+PATIENT: Okay.
+DOCTOR: If you still have it unless you threw it away.
+PATIENT: I haven't been using it too much now.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Well your blood pressure's good today so that's good.  The other thing is there's free blood pressure cuffs and things like Walgreens and Meyers and things like that so you could potentially go there and get it done but if you have one at home I'd like you to you know, especially if you get lightheaded, dizzy or anything like that I want you to check your blood pressure and make sure it's not too low okay.  And you're still taking your amlodipine?
+PATIENT: Yes uh-huh.
+DOCTOR: And that's the only medication we have you on.  And the aspirin?
+PATIENT: Uh I don't take the aspirins every day.
+DOCTOR: Okay.  Okay.  Yeah actually it was in the Urology Note, the urologist you saw said that you mentioned to them that you, if they, if it was elevated, you probably wouldn't want further intervention.
+PATIENT: [REDACTED] list.
+DOCTOR: Perfect.  I will move that off my note.
+PATIENT: Yeah.
+DOCTOR: Um when was the last time you saw Urology?  Do remember?
+PATIENT: In the computer.
+DOCTOR: (Laughter) Uh it looks like it was September of this year.
+PATIENT: September yeah.
+DOCTOR: Yeah right before you saw me.
+PATIENT: Right.  I wanted to say that but I wasn't sure.
+DOCTOR: Okay.  Alright.  Give me a minute and I'll go talk to DOCTOR and you need refills today?
+PATIENT: I only take that one blood pressure medication from you and that's not.
+DOCTOR: And the aspirin.
+PATIENT: To and that I go through CVS.
+DOCTOR: Do you get the aspirin?
+PATIENT: No just uh, I got it all.
+DOCTOR: Okay.
+PATIENT: And it only costs me $7 a prescription.
+DOCTOR: Really.
+PATIENT: And it costs the same thing here.
+DOCTOR: Alright.
+PATIENT: There's uh, I would like to have though a prescription for ibuprofen but what they gave me for [REDACTED].
+DOCTOR: Motrin?
+PATIENT: I think it was the biggest milligrams.
+DOCTOR: The biggest milligrams of ibuprofen?
+PATIENT: Yeah.
+DOCTOR: Well the maximum dose of ibuprofen.
+PATIENT: Yeah what is the maximum dose?
+DOCTOR: We wouldn't recommend.  I don't recommend.
+PATIENT: What do you recommend?  What do you all have?
+DOCTOR: So well, though you're, what do you want to do.  You want the ibuprofen for your knee but you said your knee is not getting any pain it's just the.
+PATIENT: What’s your max and minimum?
+DOCTOR: The max and the minimum?
+PATIENT: Yes.
+DOCTOR: Well it depends on your kidney function.  I'm going to have to look into your labs and things.  It could relieve and you want it for your knee?
+PATIENT: Yes.
+DOCTOR: Are you having pain anywhere else?
+PATIENT: Sometimes in the back.
+DOCTOR: Sometimes in your back.
+PATIENT: Right now I got pain in my back when I lay down there at night.
+DOCTOR: Okay cause ibuprofen you can buy over-the-counter.
+PATIENT: Yes but I want to get the full milligrams [REDACTED].
+DOCTOR: Right, right.
+PATIENT: I'm doing that.
+DOCTOR: So because I just have a hard time with you taking too much of it either.
+PATIENT: I don't take too much of it either.
+DOCTOR: Okay, okay.  I can give you a prescription for ibuprofen.
+PATIENT: But what milligram?
+DOCTOR: Well I'll give you; I'll give you a prescription for a lower dose and then you can increase it and I'll put on there what the maximum dose is.
+PATIENT: What's the maximum dose you're gonna give me?
+DOCTOR: Let me look and see what the maximum dose of ibuprofen would be through the VA okay.  8, eight pills or 800?
+PATIENT: 800.
+DOCTOR: 800, I don't know.
+PATIENT: I take them.
+DOCTOR: You take them.  Is that how much you've been taking, that's 800 a day?
+PATIENT: No.
+DOCTOR: 800 sometimes or?
+PATIENT: [REDACTED]
+DOCTOR: Oh.
+PATIENT: I take [REDACTED].
+DOCTOR: One once a week for your back and for your knee?  Well I guess I could do that for you.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Give me a minute I'll visit with DOCTOR.
+(DOCTOR OUT:  84:41  DOCTOR IN 89:00)
+DOCTOR: Hey PATIENT.
+PATIENT: How you doing DOCTOR?
+DOCTOR: How are you?
+PATIENT: Doing good thank you.
+DOCTOR: Alright so um uh how's your breathing?
+PATIENT: Better.
+DOCTOR: You don't use any inhalers anymore?  You don't smoke anymore either?
+PATIENT: I ain't smoked in 25 years.
+DOCTOR: Alright.  So.
+PATIENT: [REDACTED].
+DOCTOR: In terms of the okay so I don't know what happened to the order we made for the knee.  You got the MRI of your neck but not the knee so we'll make that order again, have you make an appointment and see the orthopedic doctors.
+PATIENT: Hmm.
+DOCTOR: Alright.
+PATIENT: When that’s going to be?
+DOCTOR: Well you can go up today and make an appointment for the MRI.
+PATIENT: Okay.
+DOCTOR: But you should see the orthopedic doctors after the MRI is done.
+PATIENT: Uh-huh, alright.
+DOCTOR: And then we'll just.
+PATIENT: What do I do right now?
+DOCTOR: That's what we'll tell you.
+PATIENT: Okay.
+DOCTOR: Alright sir.  So here's what we're gonna do right now.
+PATIENT: Okay.
+DOCTOR: I want you to do three things for me.
+PATIENT: Okay.
+DOCTOR: I want you to go up front when you leave here, schedule an appointment with Orthopedics.  I want you to schedule it, well actually you know what, before you do that, I take it back I'll refill your meds.  So what I want you to do, the first thing I want you to go across the hall to the MRI um place where they schedule the MRIs, schedule your MRI because the order, that's why I was getting confused cause the MRI I put in is not in there anymore because it got cancelled and never got rescheduled.
+PATIENT: Okay.
+DOCTOR: So I want you to get an MRI of your knees so you need [REDACTED] for both knees okay.  After you get that date of that MRI I want you to come back up here to the front and ask them up front to schedule you for an appointment with the orthopedic surgeons for an appointment after your MRI.  Does that make sense?
+PATIENT: Okay.
+DOCTOR: And then also I want you to follow up with the urologist because you haven't been there in a while and from their last note it seems like there's some confusion about what they wanted and what you want to do so I want you to go talk to them about what exactly the plan should be that fits best with what you want and with what they want okay.  And yeah I'll write it all down for you so you know what to do in what order.  Um also you have, you wanted the ibuprofen.  There's another medication I want you to try as well called salsalate.
+PATIENT: I'm not a medication man.
+DOCTOR: I know you're not, I know you're not.  I want you to try this instead of the ibuprofen.  I'll give you a prescriptions for both but I want you to try the salsalate first cause I think it might work a little bit better.
+PATIENT: [REDACTED]?
+DOCTOR: Salsalate okay and if that doesn't work then you try the ibuprofen.  I'll give you prescriptions for both okay.
+PATIENT: Same price?
+DOCTOR: It's VA meds I have no idea.  Ask the Pharmacy when you get over there.  If it's a problem you come back here and ask me okay.  Um let me write down the order of things that you need to do.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Go do the MRI, schedule these appointments and then I will see you.  When do you want to see me again?
+PATIENT: Hmm, well let's find out what dates.
+DOCTOR: I want to see you after all these are done.
+PATIENT: That's what I say just wait until we see the dates.
+DOCTOR: So I'm gonna give you, I'm gonna give you 30 tablets of ibuprofen.
+PATIENT: Okay.
+DOCTOR: Without many refills but I don't want you taking too many of them.
+PATIENT: Okay.
+DOCTOR: And then the salsalate I gave you.
+PATIENT: Now what is this?
+DOCTOR: It's a pain medication as well and make sure you take it with food or with milk or something cause it can cause [REDACTED].
+PATIENT: But I can't take it too.
+DOCTOR: Don't take both of them at the same time.
+PATIENT: Okay.
+DOCTOR: Okay um but see if that, see if that helps as well okay.
+PATIENT: Alright.
+DOCTOR: Just for pain.  I mean if you're having pain occasionally, like I said I don't like giving you that many medications, either.  I don't want you to be taking pain meds cause they all have side effects.  They can cause ulcers and things like that and I don't want that so.  What I'd like for you to do is only take them if you absolutely need them and these aren't working you come back and hopefully we'll get some more information with the MRI and then we'll go from there.  Okay.
+PATIENT: Okay.
+DOCTOR: And then I will, I won't reschedule you for the next few months cause I think you [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: This is December so like March?
+PATIENT: Okay.
+DOCTOR: Then we can see you in March [REDACTED].
+PATIENT: Okay.
+DOCTOR: And if something really abnormal comes up with this MRI, if something really abnormal comes with the MRI I'll give you a call so I want to give you the phone number, let me put this in first.  Alright give me one second I just want to schedule this before you go because it's not in the computer.
+PATIENT: I'm not in a hurry, just take your time.
+DOCTOR: Alright.  And we'll put in the consult cause you've never seen the orthopedic surgeons before have you?
+PATIENT: No.
+DOCTOR: Okay I'll put in that consult and they'll schedule it for you.  Okay so the consult is in for your appointment with the orthopedic surgeon. You’ve already seen neurology so they should be able to schedule that for you and MRI appointment, the order is in so they should be able to schedule that as well.
+PATIENT: So get the MRI.
+DOCTOR: Uh-huh.  Schedule it, here's what you're gonna do.  Schedule MRI and then schedule your appointment okay.  I want to get your phone number real quick.
+PATIENT: Okay.
+DOCTOR: Just in case I need to call you, okay is it PHONE NUMBER?
+PATIENT: That's it.
+DOCTOR: Lovely.
+PATIENT: Okay.
+DOCTOR: Alright well I will see you back in three months.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright.  It was good to see you.
+PATIENT: Thank you very much.
+DOCTOR: Happy holidays.
+PATIENT: You too.
+DOCTOR: Good to see you.
+PATIENT: Yeah you take care.
+DOCTOR: I'm gonna try.  Alright we'll see you later.
+PATIENT: [REDACTED].
+PATIENT: 96:21
+11:20.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255159
+TRANSACTION # 578-10-2-316-0103

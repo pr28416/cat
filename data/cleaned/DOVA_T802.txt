@@ -1,0 +1,357 @@
+DOCTOR: PATIENT?  I'm DOCTOR, nice to meet you.
+PATIENT: Hi DOCTOR, nice to meet you.
+DOCTOR: You’ve seen a couple of my other colleagues over the last couple of months.
+PATIENT: Oh.
+DOCTOR: So [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay have a seat.
+PATIENT: Alright thank you.
+DOCTOR: How are you doing?
+PATIENT: Okay.
+DOCTOR: Is this room too cold for you? A little.
+PATIENT: No it's alright.
+DOCTOR: If it’s getting cool, let me know.
+PATIENT: Okay, alright.  Oh it's really cool outside now.
+DOCTOR: Yeah exactly.  So um what can I do for you today?
+PATIENT: Okay uh a couple things.  I had a VA pamphlet that I was reading over about ear wax.
+DOCTOR: Okay.
+PATIENT: I wanted to have that checked cause I have noticeable hearing loss in my right ear and it runs in the family so that might be hereditary.  But also I have the tinnitus in my left ear that comes and goes.
+DOCTOR: Uh-huh.
+PATIENT: So I use hearing protection at my job but I still, you know I get, sometimes it's really bad and it lasts for several days.
+DOCTOR: Okay.
+PATIENT: Right now it's real slight, I can barely tell.
+DOCTOR: Anything else going on?  Just routine stuff?
+PATIENT: Yeah routine and still I don't know if it mentions the sleep test I had in there but I still seem to be up and down.
+DOCTOR: Oh that's right.
+PATIENT: A while back yeah.
+DOCTOR: Well, um I think we need to do a titration study this time cause you did it once before and they said to sleep on your side, do you remember?
+PATIENT: Right.
+DOCTOR: Did you try that?
+PATIENT: Yeah well that's what I mostly do uh, especially with the acid reflux but occasionally I'll roll over on my back in the middle of the night and I'll wake up gasping and uh.  I've also noticed at times I have chalky taste in my mouth and my jaw hurts and my dentist says I'm grinding away my enamel hurting my teeth a lot.
+DOCTOR: Oh and that happens with people with sleep apnea actually.
+PATIENT: Oh okay.
+DOCTOR: We can get that checked out.
+PATIENT: Yeah.
+DOCTOR: Um let me see what your blood tests showed today also.  I can order that again for you.
+PATIENT: Okay.
+DOCTOR: Now the blood pressure looks okay I mean it's not terrible.
+PATIENT: Yeah I haven't had that.  Every once in a while I'll get a shortness of breath thing going on but I think that's sometimes the acid reflux.
+DOCTOR: It could be and it could be that its sleep apnea issues also.
+PATIENT: Okay.
+DOCTOR: Um what do you mean you get this shortness of breath thing?
+PATIENT: Oh every once in a while I just uh.  I mean I work out fairly regularly.
+DOCTOR: Yeah. Come in. (Doctor speaks with someone who came to the door)  I'll be right back.
+PATIENT: Yeah sure, no problem.
+(DOCTOR OUT:  35:30  DOCTOR IN:  36:14)
+Knock on door.
+PATIENT: Yep.
+DOCTOR: Okay, alright.  Okay so you work out and then you occasionally get short of breath when you're done?
+PATIENT: Yeah well not from my workouts, it's weird.  It comes and goes.  I may be doing a job or maybe just around the house or something.
+DOCTOR: So you're usually doing an activity when it happens.
+PATIENT: Well yeah right.  I've never had anything hit me like when I'm working out.  I mean there's days when I'm so exhausted I just skip my workout.
+DOCTOR: Okay.
+PATIENT: Which is uh, it's kind of a cardio and some light weights type of a workout.
+DOCTOR: Well we can um, have you ever had an echocardiogram?  An ultrasound of the heart?
+PATIENT: Um no.
+DOCTOR: That's something we can look at.  ‘Cuz sometimes people with sleep apnea have very high blood pressure on one side of the heart.
+PATIENT: Oh.
+DOCTOR: So, very high blood pressure on one side of the heart meaning the side that goes into the lungs because you can get what's called pulmonary hypertension so you can have normal blood pressures systemically like when we do the cuff.
+PATIENT: Okay.
+DOCTOR: But when it runs through your lungs there's high pressure and when that's the case you can get problems uh even sudden cardiac death.
+PATIENT: Oh yikes.
+DOCTOR: So we can, I don't think that's what's happening.
+PATIENT: Okay.
+DOCTOR: Probably not but I just want to be safe and check that since you do have some sleep apnea um.  It looks like there is an element of sleep apnea I think but maybe it isn’t necessarily just positional so.
+PATIENT: Okay.
+DOCTOR: We'll order the echo I think and then we'll order another sleep study it's what they previously recommended.
+PATIENT: Okay.
+DOCTOR: So that they can titrate you, meaning they can see what level of the mask works for you.
+PATIENT: Okay great.
+DOCTOR: And I know that was a terrible study for you last time cause I noted that the notes said it was worse than your usual sleep.
+PATIENT: It was really cold in the room for one thing and uh I took two sleeping pill, over-the-counter.
+DOCTOR: Yeah.
+PATIENT: So 50 mg Toradol and I just couldn't get drowsy till late.
+DOCTOR: Yeah.
+PATIENT: You know and then one time I guess I fell asleep on my back and they screamed over the thing to wake up and roll on my side.
+DOCTOR: Oh my goodness.
+PATIENT: And like if something was going on and I go from like my sofa to my bed and with the sofa it forces me to lay on one side.
+DOCTOR: Uh-huh.
+PATIENT: But then you know I get up cause my shoulder's sore and.
+DOCTOR: Well then maybe having the CPAP mask is the way to go.
+PATIENT: Okay.
+DOCTOR: So we'll check that out again.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah that'd great because being tired you know, the memory and you know the concentration problem.
+DOCTOR: Exactly.
+PATIENT: Yeah.
+DOCTOR: Now are you having any um more outbreaks of the rash now and then?
+PATIENT: Uh I had one; I just got over one about a week ago.  That's because my prescription ran out.  I phoned in for a renewal and it said well they have to check so and so.  So I figured they would check it and would automatically send me and then nothing came and I like called uh and reordered and now I've been on it for a couple days.
+DOCTOR: We're gonna get you assigned to me I think so.
+PATIENT: Okay.
+DOCTOR: That you have a regular doctor instead of you know this person and that person so that way um you won't get things lost like that again.
+PATIENT: Okay great.  That'd be great.
+DOCTOR: And then I'll just follow up with all your sleep studies and all your imaging exams and everything um and your cholesterol and all that okay.
+PATIENT: Okay.
+DOCTOR: Um and I'll be around for about one more year.
+PATIENT: Alright.
+DOCTOR: And we're gonna have to look for.
+PATIENT: Oh brother.
+DOCTOR: Yeah.
+PATIENT: Oh you're like the fourth.
+DOCTOR: I know.
+PATIENT: Why do I have all those doctors so far so I think.
+DOCTOR: Well good I might be here then.
+PATIENT: Yeah.
+DOCTOR: No smoking, no alcohol?
+PATIENT: Never smoked.  Rarely drink; my drinking is very rare because of the reflux too.  It's like drinking acid for me.
+DOCTOR: How about blood in the stool, nothing like that?  Oh and you had a colonoscopy which was perfect.
+PATIENT: Which was perfect yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.  The only blood in the stool, I mean not in the stool, just the hemorrhoids you know, the only blood I see there but yeah, no black stool or any of that.
+DOCTOR: Yeah good.  Okay so let's examine you here.  This cold is kind of grossing me out.  So what are the Awnings Unlimited?
+PATIENT: That's my company business.
+DOCTOR: Okay.
+PATIENT: It's my dad and I.
+DOCTOR: Uh-huh.
+PATIENT: Another guy and I and mom of course does the books and we uh manufacture and install custom made aluminum awnings.
+DOCTOR: Really, very nice.
+PATIENT: Patio covers.
+DOCTOR: You manufacture it?
+PATIENT: Yeah, we measure and manufacture everything ourselves.
+DOCTOR: That's excellent.  How long?
+PATIENT: Well when I started after I left the service 25 years ago it was a good business but now with the economy.
+DOCTOR: Right.
+PATIENT: So there's more stress because things.
+DOCTOR: I understand.
+PATIENT: Yeah, so far this year it's not looking too bad.
+DOCTOR: Very good.
+PATIENT: You need the shirt up or?
+DOCTOR: Oh no, no.
+PATIENT: Okay cool.
+DOCTOR: Deep breath.  Sounds good.  Go ahead and sit back.
+PATIENT: Okay.
+DOCTOR: No stomach pain with your acid reflux ever?
+PATIENT: Uh occasionally, I had a little bit today drinking a Sprite.
+DOCTOR: You did.
+PATIENT: Yeah I got a little.
+DOCTOR: I'll have you lean back.  How often does that bother you?
+PATIENT: Um.
+DOCTOR: Your reflux symptoms.  The pains are here usually or no?
+PATIENT: It, sometimes I'll have them down in the, down in here.
+DOCTOR: Oh.
+PATIENT: That I can feel it.
+DOCTOR: Coming up?
+PATIENT: Yeah especially if I bend over which I try to avoid.
+DOCTOR: Okay.
+PATIENT: I notice I have to eat a lot less than I used to.
+DOCTOR: Have you ever been scoped from the top before?
+PATIENT: Yeah before I started coming to the VA.
+DOCTOR: You have.
+PATIENT: Yeah back when we had health insurance at work I had.
+DOCTOR: That may be another thing we can consider.
+PATIENT: Okay.
+DOCTOR: I know I'm trying a lot of tests.
+PATIENT: That's uh, it was at Good Samaritan Hospital, DOCTOR there and he went with a scope and that's when I found out that I had a hiatal hernia.
+DOCTOR: Okay.
+PATIENT: Yeah the flap doesn't close.
+DOCTOR: What year was that do you remember?
+PATIENT: Oh man, that's got to be, let's see before 9/11 I'm thinking cause I.
+DOCTOR: Wow that's quite some time.
+PATIENT: It's been some time.  I'm thinking, you know I'll find out for sure.  I can look up my records.  Maybe it wasn't that long ago.  My memory's terrible for that sort of thing um but it was about a year before I started coming to the VA so, which I think I started around 9/11, I mean 01 or 02.
+DOCTOR: And that's happening several times a day or several times a week the symptoms?
+PATIENT: I'd say more several times a week.  Yeah I don't get it every day.
+DOCTOR: And you're taking the omeprazole 40 once daily?
+PATIENT: I'm taking it once in the morning and once in the evening.
+DOCTOR: Oh twice a day.
+PATIENT: Twice a day whatever the standard capsule I think it was yeah.  And occasionally when its bad at night, I try not to eat late but sometimes I do and then I use a chewable like an over-the-counter like a Pepto Bismol chewable sort of a.
+DOCTOR: I think it might be time to get the scope done okay.
+PATIENT: Alright.
+DOCTOR: Um but we can, so there's like three tests that I kind of want to do for you.
+PATIENT: Okay.
+DOCTOR: I'll make sure things are okay.  In addition to your routine blood work and stuff.
+PATIENT: Okay.
+DOCTOR: Um now you need to get your cholesterol checked again and diabetes screened um.  Well that was back in September, I don't think we need to do that.
+PATIENT: Right away.  Yeah they were doing it, yeah when I first started on the cholesterol drug cause I was getting it every six months or less at this point now.
+DOCTOR: Yeah maybe we should check again.
+PATIENT: Okay.
+DOCTOR: Next spring sometime.
+PATIENT: Alright.
+DOCTOR: So then you have to be fasting though.
+PATIENT: That's okay; I've done that every time.
+DOCTOR: Do you live far away though?  Where's Crest Hill?
+PATIENT: It's uh, its right by Joliet.  Well from here it's about 35 miles.
+DOCTOR: [REDACTED] ideally I'd like you to come back to get these done fasting.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: I can do it.  The nice thing about being a family business is it's really flexible about that.  Which is why I come to Hines cause our business is in Brookfield.
+DOCTOR: Oh, okay.
+PATIENT: So I'm not going to Joliet Clinic.
+DOCTOR: Oh okay, well okay.
+PATIENT: Cause it's always easier for me here.
+DOCTOR: Okay.
+PATIENT: Um.
+DOCTOR: I wondered about that.
+PATIENT: Yeah and they ask that every time.
+DOCTOR: So they thought there's something in Joliet.
+PATIENT: Yeah.
+DOCTOR: Well why don't we um, we maybe can try and coordinate it with when you have one of these other tests so that you're not coming here too frequently.
+PATIENT: Okay.
+DOCTOR: But the orders will be in the computer and then.
+PATIENT: Okay sure that'd be fine yeah.  The fasting like I said is not a problem, I've done that you know every time.
+DOCTOR: And then once I get those lab tests back then I can maybe order you the gastroenterologists here to take a look from up top.
+PATIENT: Okay.
+DOCTOR: To see what's going on okay.
+PATIENT: Okay.
+DOCTOR: Okay.  I'll be right back okay.
+PATIENT: Sure.
+DOCTOR: Any questions?
+PATIENT: Uh no, so far it sounds good other than you could take a look in my ears just.
+DOCTOR: Absolutely that's why you came in here.  Why don't you have a seat?
+PATIENT: Okay.
+DOCTOR: Take [REDACTED].  It's not unusual.
+PATIENT: To record.  Yeah basically I hadn't read that, I just assumed it was hereditary and aging but I want to run that by you.
+DOCTOR: But you're too young for that [REDACTED].
+PATIENT: Alright cause I know my dad, before he passed away, he had two hearing aids and he came here all the time.
+DOCTOR: It looks very clear on the left side.
+PATIENT: Okay.
+DOCTOR: So here's what I'm gonna do actually, probably have you see, yeah there's zero wax in there.
+PATIENT: Oh okay great.
+DOCTOR: We'll have that cleaned.
+PATIENT: Then I know what it is.  I know, I know.
+DOCTOR: Well, do you want to evaluate it further though by one of the doctors here or?
+PATIENT: Well what do you?
+DOCTOR: The ENT doctors or audiologists here, they do the hearing aids.
+PATIENT: Oh okay, well I don't think I'm bad enough where I need a hearing aid yet, you know where I mean kind of a prescription one.  I just have if it's a noisy environment, like in a restaurant I can't hear somebody too well if they talk to my right ear.
+DOCTOR: Especially a high voice then.
+PATIENT: Yeah.
+DOCTOR: If it's usually high voices then you have a high pitch?
+PATIENT: No I don't hear the low.
+DOCTOR: You don’t hear low voices okay.
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.
+PATIENT: Or the soft, like I have a favorite restaurant and I have a favorite waitress and she's really quiet and she always come to my right side and I've always got to you know turn my head.
+DOCTOR: Well maybe um, well it's an option if you'd like to be evaluated by the audiologist or your doctors.
+PATIENT: Yeah I don't know.
+DOCTOR: Think about it, give us a call, call in.
+PATIENT: Okay.
+DOCTOR: And if you want the referral then we can do it for you okay.
+PATIENT: Okay yeah let's try it that way.  As long as I know it's not a buildup.
+DOCTOR: No there is nothing in there.
+PATIENT: Cause I know those Q-Tips.
+DOCTOR: Don't use Q-Tips, they cause infections and can impact all the wax in there.
+PATIENT: That's what I was worried about.
+DOCTOR: I'll be right back then.
+PATIENT: Okay sure.
+(DOCTOR OUT:  48:28  DOCTOR IN:  59:44)
+DOCTOR: Okay, so I was talking to the other doctors here.
+PATIENT: Sure.
+DOCTOR: And he thinks that we should just have you see the ear doctors just the same.
+PATIENT: Okay.
+DOCTOR: You can make an appointment like for two months down the road though cause they're usually real full anyway.
+PATIENT: Sure.
+DOCTOR: That way we just have it in already.
+PATIENT: Okay.
+DOCTOR: But we probably should get the scope again.
+PATIENT: Alright.
+DOCTOR: And the sleep test again and then instead of an echo, you know the ultrasound.
+PATIENT: Yeah.
+DOCTOR: Do a stress test to look at things.
+PATIENT: Okay.  That's where I got to run on the machine or something?
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Well you exert yourself.
+PATIENT: Okay.
+DOCTOR: More at work or it depends.  For some people they can exert themselves more at work.
+PATIENT: Probably at work because it's more constant.  I don't go to the gym, I work out at home.
+DOCTOR: Oh okay.
+PATIENT: Uh I have a mat and free weights and uh, I basically follow Fit TV, I don't know if you've ever heard of Total Body Scope where they go on, it's a program that's on.  It's a 30 minute.
+DOCTOR: I think I've heard of it.
+PATIENT: Yeah well I do that.
+DOCTOR: Okay.
+PATIENT: Pretty much every day and then work is physical.  I'm on my feet most of the day or up and down ladders.
+DOCTOR: Uh-huh.
+PATIENT: Lifting, drilling brick or whatever so uh yeah.
+DOCTOR: So it's pretty physical then.
+PATIENT: It's pretty physical yeah right.  That's probably what keeps me from being fat.
+DOCTOR: That's good.
+PATIENT: Yeah.
+DOCTOR: We'll keep it that way.
+PATIENT: Yeah cause I don't always eat right at work.  I know I don't eat enough fiber.  I take Fiber Choice tablets to kind of make up for it but you know.
+DOCTOR: So here's what we're gonna do um, so in order to get the scope ordered, the EGD to take a look at the heartburn issues, you have to get labs done for that.
+PATIENT: Okay.
+DOCTOR: But if you're gonna get labs done for that, you might as well.
+PATIENT: Cholesterol and everything else.
+DOCTOR: Exactly.  So let's set it up that you come back maybe sometime next week.
+PATIENT: Sounds fine.
+DOCTOR: Okay.
+PATIENT: Any time.
+DOCTOR: Yeah and you literally can come back any time as long as you've had nothing to eat after midnight.
+PATIENT: Okay.
+DOCTOR: Or prior.
+PATIENT: So it's like 14 hours, something like that.
+DOCTOR: Exactly right.
+PATIENT: Okay.
+DOCTOR: That's what it is.
+PATIENT: Okay, I'm usually at like 16 hours by the time I get in there.
+DOCTOR: Oh that's plenty, plenty.
+PATIENT: Yeah okay.  Then I go get a nice greasy cheeseburger, fries, no.
+DOCTOR: Well.
+PATIENT: Actually I eat like that a lot, I try to avoid it but, you know how it is.  You're on the job and you're running, can't always stop for something healthy.  Talk about stress too, when you hear about how they cut all us category 7 and 8 veterans out of the health care system.
+DOCTOR: Oh really.
+PATIENT: Yeah that's what.
+DOCTOR: Oh my goodness.
+PATIENT: The Tea Partier's have been talking about cutting funding and I just go man, that'll be it for my statin drugs and everything else.
+DOCTOR: Oh my goodness.
+PATIENT: Yeah.  That's more than I can afford on my own.  But the veteran groups are fighting it so we'll see.
+(Knock on the door.  Doctor speaks to person at the door.)
+DOCTOR: Okay, I want to make sure I have everything ordered.
+PATIENT: Okay.  And my meds are all renewed for another year now too, cool.
+DOCTOR: PHONE NUMBER?
+PATIENT: PHONE NUMBER.
+DOCTOR: PHONE NUMBER.
+PATIENT: Yeah, that's my home phone.  You should have my cell in there as well.
+DOCTOR: Would you rather have the cell phone here?
+PATIENT: Um yeah you know.
+DOCTOR: Cause which ever you want.
+PATIENT: PHONE NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: PHONE NUMBER.
+DOCTOR: Okay.  PHONE NUMBER.
+PATIENT: Correct.
+DOCTOR: Okay.
+PATIENT: Yeah cause I might get rid of my home line so, the cell is probably better.  I've always got that with me.
+DOCTOR: Okay, you're all set.  So fasting labs in one week, Audiology or ENT that's the ear stuff, about eight weeks, stress test as soon as you can.
+PATIENT: Okay.
+DOCTOR: CPAP titration, the sleep test as soon as you can.
+PATIENT: Okay.
+DOCTOR: And then we'll get the EGD, a scope after all the labs have been done.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: There you go.
+PATIENT: Sure.
+DOCTOR: It was nice to meet you.
+PATIENT: Nice to meet you DOCTOR.
+DOCTOR: Oh I enrolled you in my clinic also.
+PATIENT: Oh alright.
+DOCTOR: If that's okay with you.
+PATIENT: Sure.  Yeah that'd be great.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Take care.
+PATIENT: You too, thank you.
+DOCTOR: Here you go, you can check out.
+PATIENT: Okay.
+DOCTOR: Just go right up front.
+PATIENT: Okay have a good weekend doc.
+DOCTOR: You too thanks.
+PATIENT: Thank you.
+PATIENT: 67:57
+Time is 3:31.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249457
+TRANSACTION # 578-10-2-316-0103

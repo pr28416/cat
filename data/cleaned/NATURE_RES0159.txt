@@ -1,0 +1,73 @@
+DOCTOR: What brings you in today?
+PATIENT: Hi uh so I just came in today uh I've kind of put it off for a bit, but I've been having this cough uh for the last five to six months and it seems to be getting worse and over the last month I've also been becoming more short of breath, so I just wanted to come and check if I need to do anything.
+DOCTOR: Yeah, that that it's it's really good that you decided to come in. Um how bad is your shortness of breath?
+PATIENT: Um, so usually like I I would be able to walk a few blocks, um no problem, but now I have to take a break and catch my breath and even going up and down stairs has been tough.
+DOCTOR: Um Do you feel that uh do you feel that your, uh, difficulty with breathing is worse when you're exerting yourself?
+PATIENT: Um, yeah, it's definitely worse, but I also just like normally even when I'm resting, I feel like I have to um take in like much deeper breaths.
+DOCTOR: Do you ever wake up in the middle of the night gasping for air?
+PATIENT: Uh no, nothing like that.
+DOCTOR: Do you feel like you have to raise your head or have multiple pillows to sleep at night so you don't feel short of breath?
+PATIENT: No, nothing like that.
+DOCTOR: OK. Uhm and this cough that you've had for the past five or six months, did you say it's getting worse?
+PATIENT: Um yeah it it's, both the shortness of breath and the cough are getting worse and also just I've been having some even some discomfort and pain when taking those deep breaths now too. So, and that's been happening for probably the last couple weeks.
+DOCTOR: I see. Um is it a dry cough that you have or or do you bring up any gunk or any mucus?
+PATIENT: Um it's mainly just a like a like a dry cough.
+DOCTOR: Have you ever coughed up any blood or anything like that?
+PATIENT: No, I haven't, I don't think I've seen any blood.
+DOCTOR: OK, uhm do you have any other symptoms? Do you have any fevers or chills?
+PATIENT: Um not fevers, but I I have been getting night sweats um for the last couple weeks to maybe even a month or once or twice a week, I just wake up completely drenched.
+DOCTOR: And have you had any unintentional weight loss?
+PATIENT: Yeah, now that you mention it, I probably lost 15 pounds in the last two months.
+DOCTOR: OK. Uhm, have you had any muscle aches or joint pains all over your body? Do you feel achy?
+PATIENT: Yeah, but I've probably felt like that for the last five years, um so I have uh osteoarthritis.
+DOCTOR: OK.
+PATIENT: So I don't think that's anything new.
+DOCTOR: Um have you had any changes in your bowel movements or any urinary symptoms?
+PATIENT: No.
+DOCTOR: Any abdominal pain?
+PATIENT: No, not that I've noticed.
+DOCTOR: OK. Any headaches?
+PATIENT: Um no, nothing like that.
+DOCTOR: Uhm, OK. Uh have you had any falls in the past or in the past couple of months or years?
+PATIENT: No, no, I've been lucky.
+DOCTOR: Good. Any confusion?
+PATIENT: Nope.
+DOCTOR: Uh any time when you've lost consciousness?
+PATIENT: Not that I know of, no.
+DOCTOR: OK. Um and any medical conditions that you've been diagnosed with?
+PATIENT: Um, so I have osteoarthritis. And then I also have um this condition with my prostate, uh BPH. And um I also take medications for my blood pressure.
+DOCTOR: Um what medications do you take?
+PATIENT: Um I take um this medication called uh Lisinopril.
+DOCTOR: Anything else?
+PATIENT: Um I do take uh just pain medications like Advil.
+DOCTOR: Um OK. Do you take anything to protect your stomach when you're taking the Advil, any other medications?
+PATIENT: Yeah, I was given um this other medication for, for, to take with my Advil like, but it's only when I'm taking Advil like every day. Um and, um I haven't really been taking that, um I probably took, the last time I took it was probably a month ago.
+DOCTOR: OK, OK. That's good. Um are you taking anything for your uh BPH?
+PATIENT: Oh yeah, sorry. So I'm taking uh this medication called Tamsulosin.
+DOCTOR: OK, alright, any allergies, to medications or otherwise?
+PATIENT: Uh mot that I know of, no.
+DOCTOR: OK, any um I guess social history, who do you currently live with?
+PATIENT: Uh I live alone right now in my apartment I, um but I have pretty good support from my kids, they just live a few blocks away and come visit me.
+DOCTOR: That's good. That's really good. And uh do you, are you able to um take care of yourself or do you need help with things like um finances and groceries and cleaning?
+PATIENT: No, I'm I'm fairly independent in those matters.
+DOCTOR: OK, do you require any assistance uh with walking any cane or walker or wheelchair, anything like that?
+PATIENT: No, not yet.
+DOCTOR: OK good good. Do you smoke at all or did you ever smoke in the past?
+PATIENT: Yeah, I've been smoking for my whole life.
+DOCTOR: How long and how much and for how many years?
+PATIENT: Um probably for almost, I guess 50 years or maybe even more, maybe like 55 years and uh I've been smoking, at one point I even smoked up to like two two packs a day, but now, like for the last, at least 20, 30 years, it's been like one pack a day.
+DOCTOR: OK. Have you ever been diagnosed with any lung conditions?
+PATIENT: Uh no.
+DOCTOR: OK, have you um had any marijuana or any recreational drugs?
+PATIENT: Uh no, nothing like that.
+DOCTOR: Alcohol?
+PATIENT: Nope.
+DOCTOR: OK, uhm, alright, um you mentioned that the cough started 5 to six months ago. Have you had a cough before that?
+PATIENT: Um, it's here and there, like maybe just when I wake up sometimes, but this is kind of uh more frequent and, I I do feel just kind of this discomfort in my chest when I take these deep breaths as well. Um yeah so, I I don't really know what's going on.
+DOCTOR: Um do you go to your family doctor for your uh health checkups?
+PATIENT: I haven't been for a while, for the last few months, but yeah, I generally do go to my family doctor.
+DOCTOR: You do, OK. Um have you been, uh, sometimes for people who have been smoking for a long time, they do uh these scans of the lungs, uhm, have you been getting those?
+PATIENT: No, I don't remember the last time I had one.
+DOCTOR: OK Alright. Um OK, those are all the questions I had for you. Uhm, we'll we'll do a physical exam and uh do your vitals um and see if you uh, do some labs, and then go from there.
+PATIENT: OK, sounds good.
+DOCTOR: You're welcome.

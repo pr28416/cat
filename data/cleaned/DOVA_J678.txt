@@ -1,0 +1,247 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.  How you doing?
+DOCTOR: [REDACTED] getting warm?
+PATIENT: Yeah.
+DOCTOR: Your COPD is getting worse?
+PATIENT: Terrible.
+DOCTOR: Okay, what medicines are you using every day?
+PATIENT: I usually uh albuterol.
+DOCTOR: Uh-huh.
+PATIENT: And that.
+DOCTOR: Okay.
+PATIENT: You take the Combivent.
+DOCTOR: I'll give you those refills okay.  That's it?
+PATIENT: That's all.  [REDACTED].
+DOCTOR: Okay.  [REDACTED].
+PATIENT: I don't have any more.
+DOCTOR: Okay, alright.  Uh you haven't been here [REDACTED] since January.
+PATIENT: Yeah.
+DOCTOR: And you ran out [REDACTED].
+PATIENT: And [REDACTED] out.
+DOCTOR: Okay.  Okay.  There's supposed to be a couple other things you're supposed to be on okay.
+PATIENT: Yeah.
+DOCTOR: You're supposed to be on mometasone.
+PATIENT: Those I run out of.
+DOCTOR: Okay and you're on the mometasone and you're also supposed to be on Singulair both of those need to be taken twice a day every day no matter what.
+PATIENT: Okay.
+DOCTOR: Using that will make you feel a lot better.
+PATIENT: Well give me those two things uh-huh.  I have to have some.  Yeah what my biggest problem is, is night.
+DOCTOR: Uh-huh.
+PATIENT: Because see I use that CPAP.
+DOCTOR: Uh-huh.
+PATIENT: And [REDACTED].
+DOCTOR: You sound awful.
+PATIENT: What?
+DOCTOR: You sound awful right now.
+PATIENT: And I am [REDACTED].
+DOCTOR: You want to go to the ER?
+PATIENT: No, no, I'm not feeling that bad.
+DOCTOR: Are you sure?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: But uh it's uh, and I had one [REDACTED] you know I had the CPAP and see, that happens with that at night.
+DOCTOR: Uh-huh, uh-huh.  I think okay, so this one are you taking it uh every single day four times a day or just when.
+PATIENT: When I need it.
+DOCTOR: You should start taking this every single day at least twice a day.
+PATIENT: Uh-huh.
+DOCTOR: That's two puffs in the morning and two puffs at night.
+PATIENT: Uh-huh.
+DOCTOR: Every day.
+PATIENT: That's all.
+DOCTOR: Every day yeah.  And then the other ones I'm going to give you they're also going to be the same thing.
+PATIENT: Uh-huh.
+DOCTOR: You are going to get three inhalers that you have to take every single day, two puffs in the morning and two at night.
+PATIENT: Well what about this?
+DOCTOR: As needed.
+PATIENT: [REDACTED].
+DOCTOR: This is as needed.
+PATIENT: Oh.
+DOCTOR: If you take all the medicines that you’re supposed to take and if you still feel short of breath then you can take this one too.
+PATIENT: Okay.
+DOCTOR: This one you take all the time cause this medicine is in here.
+PATIENT: Yeah.
+DOCTOR: So you’re already getting it twice a day.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  And you're going to pick it all up right, right now?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: And you know a couple of [REDACTED] is out, you know, no more refills.
+DOCTOR: Right.  Well I'm going to put in the refills for you.
+PATIENT: And like I say it'll be like it's [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: It's uh, it's difficult to breathe and I have to use it, you know it helps.
+DOCTOR: Okay.
+PATIENT: Every night.
+DOCTOR: Well we have to um, we have to look and make sure you don't have [REDACTED].  Now when's the last time you took your meds?
+PATIENT: My medicine, this morning.
+DOCTOR: Um, this morning, okay you didn't run out of everything?  You just ran out of some [REDACTED].
+PATIENT: Well um uh gout.
+DOCTOR: Okay.
+PATIENT: I was out.
+DOCTOR: Okay.
+PATIENT: Of the gout.
+DOCTOR: Right.
+PATIENT: But the rest of it I had some, I took it this morning.
+DOCTOR: Okay.  Okay.  Let me, right now I'm gonna refill the um the ones that you get [REDACTED] that's out and then this other one [REDACTED] that's out and then I'm gonna get some breathing tests okay cause we haven't done that in many years.
+PATIENT: Uh-huh.
+DOCTOR: I just want to see what's going on with your lungs okay.  What's your phone number?
+PATIENT: Uh NUMBER.
+DOCTOR: Any fevers or chills at all?
+PATIENT: No I had, it seemed to me a couple nights ago, I had so much trouble because I was sick, you know I had you know sweats.
+DOCTOR: Uh-huh.
+PATIENT: Not every night.
+DOCTOR: Okay are you having any uh swelling in your legs at all?
+PATIENT: No cause that's, you know they don't, they ain’t too stable for some reason.
+DOCTOR: [REDACTED].  Do you have any problems like when you wake up in the middle of the night and you have to stick your head out the window to breathe or [REDACTED].
+PATIENT: No I hadn't get that but I have to get.
+DOCTOR: You have to sit up?
+PATIENT: Sit up.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: When are you using the inhalers?
+PATIENT: Sometime at night I use that thing three or four times you know because when I wake up seems like [REDACTED] clogged up.
+DOCTOR: Okay and with the diabetes you're on the [REDACTED].
+PATIENT: Pills.
+DOCTOR: Pills, [REDACTED].
+PATIENT: Now that.
+DOCTOR: Glipizide [REDACTED].
+PATIENT: Yeah I had uh, like this morning when I, I hadn't taken anything you now all the time but, but that's the way it was this morning.
+DOCTOR: 167.
+PATIENT: And before breakfast and after.
+DOCTOR: [REDACTED].  You have 50 before breakfast and [REDACTED] at lunch.
+PATIENT: Yeah [REDACTED].
+DOCTOR: Okay.  You've had a couple of lows I see.  They don't look too bad, [REDACTED].
+PATIENT: And I take 1 1/2.
+DOCTOR: You take one and a half of those pills.
+PATIENT: In the morning.
+DOCTOR: In the morning.
+PATIENT: And half at noon.
+DOCTOR: Okay.  And you take [REDACTED].  It looks like all the high ones are.
+PATIENT: The high ones is after noon.
+DOCTOR: In the afternoons.  But then there's some low ones too.
+PATIENT: Yes I get some low ones cause half of them.
+DOCTOR: In between February 23 and February 28th.
+PATIENT: Yeah I been taking some.
+DOCTOR: [REDACTED] okay.
+PATIENT: From what I was [REDACTED].
+DOCTOR: Since May [REDACTED] 135 in the morning, 218 after lunch, 148 after dinner and 148's not bad after dinner, 159 before breakfast, that one's kind of high and then 270, that's a little high.  So today you are kind of high so.  When you're taking the 10 glipizide every night, the same dose of glipizide every day?
+PATIENT: Uh-huh, I take.
+DOCTOR: You take that pill.
+PATIENT: The one and a half and the half.
+DOCTOR: Okay.  Your hemoglobin A1c was 7.1, so that's not too bad but this it's [REDACTED] check it again.
+PATIENT: I can't remember why I don't have no appetite in the afternoons.
+DOCTOR: Let's see.  Can you get labs today?
+PATIENT: Yeah.
+DOCTOR: Can you get your blood lab tests?
+PATIENT: Yeah.
+DOCTOR: Okay good.  Are you taking, do you have lisinopril and atenolol at home?
+PATIENT: What?
+DOCTOR: Lisinopril and atenolol?  Some other blood pressure medicines you're supposed to be on, do you have those at home?
+PATIENT: Yes I have all, I have all the medicines.
+DOCTOR: Okay these are the ones you're running out of.
+PATIENT: Yeah.
+DOCTOR: But you have all the meds.
+PATIENT: But I have the other ones yeah.
+DOCTOR: Okay and you also take hydrochlorothiazide?  The water pill?
+PATIENT: Yeah, yeah.
+DOCTOR: And then you also take amlodipine.  You take like five pills for blood pressure is that correct?
+PATIENT: Yeah, yeah, I'm taking that right.  I got all the rest of them, but those are the ones that.
+DOCTOR: Okay.  And I'll refill them all.  No do you feel, you can have them delivered by mail or you can pick them all up at the Lab.
+PATIENT: I need to pick them up today.
+DOCTOR: Okay.  So you took all five of your blood pressure pills this morning is that right?
+PATIENT: No.
+DOCTOR: Oh.
+PATIENT: I took, they tell me to take some in the morning and I take some in the evening.
+DOCTOR: Oh okay.
+PATIENT: I think I.
+DOCTOR: But the ones you're supposed to take in the morning you took all those?
+PATIENT: Yeah the ones I take at morning I take but now I got some they just say take once a day and I divide them up and put you know.
+DOCTOR: Take some in the morning and some in the evening.
+PATIENT: Some in the evening.  I take some in the evening that um know night and some say morning.
+DOCTOR: Yeah.
+PATIENT: And I take those, you know like they say but the other ones I just kind of divide them up and just take once a day.
+DOCTOR: Okay.
+PATIENT: And I got some you know that say take twice a day.
+DOCTOR: Uh-huh.
+PATIENT: Along with the aspirin.
+DOCTOR: Okay.  Do you know your dose of allopurinol?
+PATIENT: Huh?
+DOCTOR: Do you know your dose of your gout medicine?  Is it 50 or 100 mg do you know?
+PATIENT: I don't know but you’ll figure that out.  I know I haven't no problem ever since I been taking it.  But you know you had me down for March 20th.
+DOCTOR: Okay.
+PATIENT: But then they said it wasn't on the schedule and [REDACTED] today.
+DOCTOR: Well I don't know.
+PATIENT: The last time I was here you had March the 20th on it.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: But they didn't send [REDACTED] an appointment until now?
+PATIENT: No.
+DOCTOR: I wonder why they [REDACTED].  I don't have a lot of control over the scheduling.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].  Alright let me listen to your lungs okay.
+PATIENT: Do you want me?
+DOCTOR: Uh yeah, could you take just the top shirt off?  [REDACTED].  Just put your back facing me. There we go.  Deep breath, again, again, again okay.  That was pretty fast.  Then you can sit the regular way.  [REDACTED] heart.  Look over there for, look that way and [REDACTED].
+PATIENT: It's tingling.
+DOCTOR: What?
+PATIENT: It's tingling.  Like it went to sleep.
+DOCTOR: Oh hmm.  Only this one and not on the other one?
+PATIENT: Just this one.
+DOCTOR: Just this one, the whole arm?
+PATIENT: [REDACTED].
+DOCTOR: From there down.
+PATIENT: Yeah.
+DOCTOR: Like it's asleep?
+PATIENT: Yeah.
+DOCTOR: Hmm.  How long has that been going on?
+PATIENT: It's been like a week.
+DOCTOR: A week.  Do you sleep on it funny or something?
+PATIENT: Well that could be the problem, I sleep on this side.
+DOCTOR: Oh okay.  Well try sleeping on the other side and maybe it'll go away.
+PATIENT: [REDACTED].
+DOCTOR: If it doesn't go away next time I see you we'll do an x-ray of your neck and that can make sure that everything looks okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] normal here right?
+PATIENT: Uh-huh.
+DOCTOR: Alright you can keep this, I already ordered all your medicines okay.
+PATIENT: Okay.
+DOCTOR: You can get dressed and I'll talk to DOCTOR and I'll be right back.  [REDACTED].  Be right back.  You're gonna get your blood tests today okay?
+PATIENT: Okay yes.
+DOCTOR: And then have you seen the eye doctor?
+PATIENT: Yes.
+DOCTOR: When did you see the eye doctor?
+PATIENT: Well you know because I got these new glasses.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Uh March, I think it was in March.
+DOCTOR: March or February.  You know you went in November for the eye doctors; you get to go back this November.
+PATIENT: [REDACTED].
+DOCTOR: Are you smoking?
+PATIENT: Smoking?
+DOCTOR: Do you smoke?
+PATIENT: No.
+DOCTOR: Okay.  Did you used to?
+PATIENT: Yes.
+DOCTOR: Do you remember when you quit?  What year?
+PATIENT: 98.
+DOCTOR: 98 okay.  Let me talk to DOCTOR and I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  32:15  DOCTOR IN:  34:17
+DOCTOR: So.  You're gonna get all your medicines and especially those inhalers.  Use them right away cause you sound really stuffy.
+PATIENT: Yeah I will uh-huh.
+DOCTOR: Um I want you to come back in about two months okay.
+PATIENT: Right.
+DOCTOR: After you get your breathing tests and all that stuff and we'll see you know and make sure you're on the right medicines.
+PATIENT: Okay.
+DOCTOR: You need to get some PFTs done which is the breathing tests um in about, you'll get them in about four weeks and then you're gonna get all your blood labs done today.
+PATIENT: Uh-huh.
+DOCTOR: So when you come back we'll talk about that [REDACTED].  Okay I think that's it.
+PATIENT: Thank you.
+DOCTOR: [REDACTED] know up front and they'll schedule the appointment.
+PATIENT: Oh okay thank you.  The blood's already in on that right?
+DOCTOR: What's that?
+PATIENT: For the blood.
+DOCTOR: Oh um yeah, over in the Lab.
+PATIENT: 35:23.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275394
+TRANSACTION # 578-10-2-316-0103

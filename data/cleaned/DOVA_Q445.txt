@@ -1,0 +1,293 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: Hello.  I'm DOCTOR, I'm glad to meet you.
+PATIENT: Glad to meet you.
+DOCTOR: Just have a seat here.
+PATIENT: Okay.
+DOCTOR: [REDACTED] a little bit more, sounds like they [REDACTED] today.
+PATIENT: If I could feel it.
+DOCTOR: Yeah I know.
+PATIENT: I can feel it on the right hand.
+DOCTOR: Right there where your leg is, [REDACTED].
+PATIENT: Yes.
+DOCTOR: [REDACTED].
+PATIENT: Okay.  Is there a hangar, a coat rack uh?  Is this [REDACTED] here.
+DOCTOR: Alright so you last saw me in April.  Um at that time you were decreasing salt from your diet and you were having some problems with your sleep uh how are you doing now?
+PATIENT: Okay the sleep is good.  I found out, I found out what the problem was.
+DOCTOR: What was the problem?
+PATIENT: I inadvertently would fall asleep on the sofa while watching TV and if I should fall asleep for 20-30 minutes, that would interfere with my sleep cycle.
+DOCTOR: Yeah.
+PATIENT: And I wasn't able to sleep fully you see.
+DOCTOR: Sure.
+PATIENT: So I guarded against, I purposely guarded against falling asleep for uh you know a week or so and because there was no interruption in the sleep cycle I slept straight through.
+DOCTOR: Okay.
+PATIENT: Perhaps maybe 6, 8 hours, no problem yes.  Now in regards to the elevated blood pressure.
+DOCTOR: Uh-huh.
+PATIENT: I've been concerned about it being increased in the last several visits so when I was here in April, I went, I was scheduled to see the nutritionist, which I did.  We had a long talk about diet and such and she gave me a three page document with the do's and don'ts on it.  Foods to eat, foods to avoid etc.
+DOCTOR: Uh-huh.  Good.
+PATIENT: Now I've been following that list, not religiously.
+DOCTOR: Okay.
+PATIENT: But I've been, I'm doing the best I can in following that list.
+DOCTOR: That's very good.
+PATIENT: As long as I do all my own cooking, I limit my carry outs because it's on kind of the no no’s in them.
+DOCTOR: Sure.
+PATIENT: And I eat fruits, vegetables; drink water all the time, fiber, the works you see.  I come here this morning and the blood pressure's elevated again.  Last time she said, the nurse said the blood pressure was 128 over something or other and today the second reading, first reading was 159 and the second reading was 155.
+DOCTOR: Right.
+PATIENT: I just don't know what else to do.
+DOCTOR: Well it might not be anything that you do; it might just be that you need another medicine to help you out okay.  And you know most patients do require more than one after age 60, 65 so that wouldn't be uncalled for.  You're taking lisinopril 40 right now and you don't miss any doses or anything right?
+PATIENT: Right I take it once a day, in the morning.
+DOCTOR: Yeah, yeah.  Would you be opposed to starting a new medication to help with your blood pressure and have you come and see us and check your blood pressure and see how that's working.
+PATIENT: A new one?
+DOCTOR: Yeah so it'd be one more pill a day but I do think that you're probably gonna need that.
+PATIENT: Uh uh yeah.  Also one item I heard in the news, uh about a month ago and I haven't had a chance to sit down and research it.  It said something about, it was just a blurb on the news and I know for the full story you have to either read the newspaper, go online, etc., but anyway it said it was a result of a study that said that sodium intake didn't necessarily contribute to high blood pressure.
+DOCTOR: Right.
+PATIENT: Now I was waiting for some follow-up, you know some news follow-up that says we know that heart disease has passed cancer as the number one killer in this country.
+DOCTOR: Right.
+PATIENT: So you would think that there would have been some kind of follow-up with an important finding like that you see.  But nothing, nothing.  They would put all kind of other nonsense repeatedly on the news.  You'd think something like that would have prominence, wouldn't you think?
+DOCTOR: You would think yeah.
+PATIENT: But no it doesn't.  So I was gonna go to Web MD, see what they did on it, I was gonna try to do a Google search to see what they did on it but every time I think about doing that I get a sidetrack on doing something else and I haven't gotten to it and this has been about a month ago.
+DOCTOR: Hmm.
+PATIENT: Have you heard anything?
+DOCTOR: Well I was always taught that you know sodium in patients that already have established hypertension which is known to be idiopathic so they don't know what the etiology is for causing that okay.
+PATIENT: Uh-huh.
+DOCTOR: If you have that diagnosis, decreasing your salt intake will help your blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: If you don't have hypertension, increasing your salt intake doesn't cause hypertension, if that makes sense to you.
+PATIENT: Uh-huh.
+DOCTOR: But in your specific case you have a known diagnosis of high blood pressure, so by decreasing salt it should help your blood pressure.
+PATIENT: Yes.
+DOCTOR: Or at least not worsen it.
+PATIENT: Yes.
+DOCTOR: We know that way if you have hypertension and you do eat a lot of salt it will worsen it.
+PATIENT: Uh-huh.
+DOCTOR: Okay but now you're saying you're decreasing the salt and it's not necessarily getting better uh studies don't show that it's necessarily gonna get better, they just show it's not gonna get worse.
+PATIENT: I get it.
+DOCTOR: If that makes sense.
+PATIENT: Yes.
+DOCTOR: But we don't want it to get worse.
+PATIENT: Yes.
+DOCTOR: Now if it's significantly a little bit elevated what that tells me is that your body might need another medication to help control the blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: That one medication is not doing that.
+PATIENT: Yeah.
+DOCTOR: Okay cause that medication is at its max.
+PATIENT: Because what happened was, as I mentioned, in April the pressure was elevated.
+DOCTOR: Uh-huh.
+PATIENT: When I came back several days later in June.
+DOCTOR: Yeah.
+PATIENT: It was like 128 over some number which was what you wanted to see, you see.
+DOCTOR: Yeah.
+PATIENT: Now what over the last six months it has gone up again.  Let me ask you this, um since my pressure is so unstable as it is, what about monitoring at home?
+DOCTOR: You could.  We could get you a monitor um but how much vision do you have after the macular degeneration.
+PATIENT: Uh none.
+DOCTOR: [REDACTED] so it might be, do you have someone at home with you?
+PATIENT: No.
+DOCTOR: Someone to check it for you.
+PATIENT: No.  So it's not audible?
+DOCTOR: No.
+PATIENT: Then it wouldn't help that.
+DOCTOR: Yeah so we would just need you to come in to the clinic to get a blood pressure check.  Um let me ask you a few more questions.  So in the past you didn't want a colonoscopy um or screening for prostate cancer.
+PATIENT: Yeah.
+DOCTOR: Okay is that the same?
+PATIENT: That's the same and I'll tell you what.
+DOCTOR: What about vaccinations?  Are you?
+PATIENT: Vaccinations for what?
+DOCTOR: For tetanus, diphtheria, the flu shot, pneumonia.
+PATIENT: No, not those.  Although, although the pneumonia yes.  DOCTOR, two years ago.
+DOCTOR: So you've already had that one actually.
+PATIENT: Yeah she said for all her patients 55 years or older she recommend a pneumonia shot.
+DOCTOR: Right.
+PATIENT: And with that I got it.
+DOCTOR: Good.
+PATIENT: That's the only inoculation I got.
+DOCTOR: Okay, that's fine.  So I'll just document that.
+PATIENT: Yeah.  Now this colonoscopy, uh I don't do that screening.
+DOCTOR: Uh-huh.
+PATIENT: And I don't do the PSA as well because if something was found to be abnormal.
+DOCTOR: You don't want it; yeah we documented that that you wouldn't want any further.
+PATIENT: Yeah, uh if something's there see I don't want to know if it's abnormal cause the reason I don't want to know is I wouldn't do it, go for the treatment.
+DOCTOR: I have more questions for you.  Do you smoke or did you smoke in the past?
+PATIENT: Uh I smoked in the past but oh it's been years since I've stopped.
+DOCTOR: Okay.  So the main thing we need um to I guess get under better control is your blood pressure. Have you been urinating okay?
+PATIENT: Oh yes.
+DOCTOR: Do you have a lot of allergies to things?  No?
+PATIENT: Uh no because I uh I take this uh, this allergy medication every day.
+DOCTOR: Okay.
+PATIENT: Uh what is it 25 mg Benadryl.
+DOCTOR: Loratadine, you take 10 mg of Loratadine.
+PATIENT: Well actually see I stopped taking that.
+DOCTOR: Oh you did.
+PATIENT: Yeah and I just uh.
+DOCTOR: Took Benadryl?
+PATIENT: I just take Benadryl.
+DOCTOR: Okay.
+PATIENT: Once a day.
+DOCTOR: Okay and that controls it?
+PATIENT: Yes.
+DOCTOR: Do you need refills on anything?
+PATIENT: Uh the I'm sure the statin uh it's the what is it simvastatin.
+DOCTOR: Yeah.
+PATIENT: And also the pressure medication lisinopril now you said you might want to add.
+DOCTOR: Uh-huh.
+PATIENT: Another.
+DOCTOR: Yeah we'll talk to DOCTOR about it.
+PATIENT: Yes.
+DOCTOR: Okay let me go get her. I’ll listen to your heart and lungs really quickly.
+PATIENT: Okay.
+DOCTOR: Deep breath.  Again.  Do you have swelling in your legs at all?
+PATIENT: Uh no.
+DOCTOR: Okay that's good.  Let me go talk to DOCTOR and I'll be right back.
+PATIENT: Okay and we're gonna ask about a blood test?
+DOCTOR: Yeah.
+PATIENT: The lab work that measures the cholesterol.
+DOCTOR: Yeah you haven't eaten today right?
+PATIENT: No I didn't.  Purposely, every December we do the blood.
+DOCTOR: Okay yeah, so we'll get it today then.
+PATIENT: Yeah and I purposefully don't eat [REDACTED].
+DOCTOR: You know the rules.
+PATIENT: Yeah.
+DOCTOR: Good.
+(DOCTOR OUT:  30:50  DOCTOR IN:  33:28)
+DOCTOR: Hey PATIENT.
+PATIENT: DOCTOR.
+DOCTOR: How are you?
+PATIENT: I feel good thank you.
+DOCTOR: You look good.  So you are all settled in your new place?
+PATIENT: Beg your pardon?
+DOCTOR: You are settled in that new apartment you were trying to move into last time we saw you?
+PATIENT: Uh yes I'm settled.
+DOCTOR: Okay.
+PATIENT: Uh yes uh so now I'm trying to stay healthy.
+DOCTOR: Okay.
+PATIENT: But it's hard.  It's hard.  You know this blood pressure business; I don't know what to do.  You know when I was here before you increased the lisinopril from 20 to 40.
+DOCTOR: Oh.
+PATIENT: Now and as a result of doing that I came back 30 days later, you checked the pressure and it was 128.
+DOCTOR: Okay.
+PATIENT: Just what you wanted to see.
+DOCTOR: Are you checking it at home?
+DOCTOR: [REDACTED].
+PATIENT: There's no way I could check it at home because.
+DOCTOR: I wonder if they have like anything [REDACTED].
+PATIENT: Yeah that's what I would need, something that would talk.
+DOCTOR: But I don't know that we have it but I can put in the request and see what they have.
+PATIENT: Yes okay.  But see when I was here uh in April I was so concerned about the salty things.
+DOCTOR: You are watching your diet right?
+PATIENT: Absolutely.  When I was here in April I talked to the dietician.
+DOCTOR: Okay alright.  So in that case, two ways we can do, we um, A we can go ahead and start you on a new medication today; B we can have you come back with another visit with the nurse, to see if it's still elevated then we can start at that point so since we didn't have any readings in between but that's what we can do.  Which one do you prefer?
+PATIENT: Well with no change in medications starting today I'm sure it's gonna be the same results.
+DOCTOR: That's right.  So you would go ahead and start the new medication right now then?
+PATIENT: Would it be a new one or an addition to?
+DOCTOR: That's correct because you are already on the maximum dose on the one that you are taking.
+PATIENT: I see.  Yeah, yeah okay.  Oh the new one yes.
+DOCTOR: Okay.
+PATIENT: You know I'm just.
+DOCTOR: Were you ever on a water pill before?
+PATIENT: Uh yes, zestoretic is that a drug?
+DOCTOR: Hydrochlorothiazide.
+PATIENT: Is that the chemical for zestoretic?
+DOCTOR: Dyazide, no I don't know about that.
+PATIENT: Uh I'm not sure of the chemical but before I came, before I was coming to the VA, the zestoretic I believe had a water component to it.
+DOCTOR: Alright so we'll go ahead and do that, half a dose only, very small dose.
+PATIENT: Tell me which one?
+DOCTOR: Water pill.
+PATIENT: The water pill.
+DOCTOR: Yeah and then we'll have your blood pressure checked in one month with the pharmacist uh and at that time we'll see.
+PATIENT: No you said, now this will be what would be a combination of the anti-hypertensive plus a water pill combined?
+DOCTOR: No you're not on combination only on one tablet of medication.  The lisinopril is by itself.
+PATIENT: Yeah.
+DOCTOR: So this is in addition to those meds okay.
+PATIENT: Oh so continue with the.
+DOCTOR: The lisinopril and you take an additional medicine because one medicine is not controlling your blood pressure.
+PATIENT: Is that that water pill?
+DOCTOR: That's correct hydrochlorothiazide.
+PATIENT: I see, I see.  Okay one item, I've been reading about this chemical probiotics.
+DOCTOR: No you don't need it.
+PATIENT: Don't need it.
+DOCTOR: Oh probiotics are when you're on long term antibiotics or you're in the hospital, you're on big time antibiotics, no you don't need them.
+PATIENT: I see yeah.
+DOCTOR: Alright.
+PATIENT: Okay thank you.
+DOCTOR: You want to pick this up at the window?
+PATIENT: Oh, oh, oh, oh, the lab work.
+DOCTOR: Yeah I already ordered it; you can just go get it now.
+PATIENT: Oh, oh, okay now you said here about the medicine, I'll pick it up.
+DOCTOR: Or we could send it in the mail.
+PATIENT: I'd rather pick it up.
+DOCTOR: Yeah okay let me put it in, that's a lower one.
+PATIENT: Okay.
+DOCTOR: Alright you can pick it up at the window okay.
+PATIENT: Okay.
+DOCTOR: And then you can go to the Lab, I already ordered that for you, okay.
+PATIENT: Okay um.
+DOCTOR: You're all set.
+PATIENT: Um.
+DOCTOR: We'll have you check in with the Pharmacy in one month okay.
+PATIENT: Okay can I ask you something?  Take a look at this; I'm feeling here and here. Is that a rash.
+DOCTOR: Nope there's no rash.
+PATIENT: Because it was here, here on my.
+DOCTOR: I think it's just dry on this one side.
+PATIENT: Dry.
+DOCTOR: You can just maybe moisturize it.
+PATIENT: I see.
+DOCTOR: Uh-huh.
+PATIENT: I should.
+DOCTOR: Let me you walk out here and then um you'll need to get some [REDACTED] for it to help you get into the Lab or.
+PATIENT: I guess the uh people from uh, what is the department that it is uh, it's the Escort.
+DOCTOR: Okay let's go get one.
+PATIENT: Okay so again uh this is the water pill.
+DOCTOR: You take the water pill once a day okay and um you pick it up at the window and then I refilled your lisinopril. Here you go, here’s your jacket.
+PATIENT: Okay now, now the name of that again that water?
+DOCTOR: It's called hydrochlorothiazide.
+PATIENT: Yeah.
+DOCTOR: It's a diuretic so it will make you go to the bathroom more okay.
+PATIENT: Yes.
+DOCTOR: So we can cut it, that would be for your blood pressure okay.
+PATIENT: I see.
+DOCTOR: And we think that this one will help so we have you on a smaller dose of it, we might need to increase it but that's how we do it, we start at a smaller dose and then we increase it okay.
+PATIENT: I see, I see.
+DOCTOR: Okay I'll take you out to the window so you want to grab my arm?
+PATIENT: Uh yes.  Okay.  Yeah I need to come in for the lab work but [REDACTED]?
+DOCTOR: So.
+PATIENT: Because I wanted the results and you'll let me know [REDACTED].
+DOCTOR: Okay [REDACTED] ask DOCTOR but you'll be back [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Um so if [REDACTED] then I'll just call you back and [REDACTED].  But you can always give her a call um if you needed the results and also they can send you a letter to let you know [REDACTED].
+PATIENT: I get it.
+DOCTOR: Okay.
+PATIENT: Can I get it in a letter?
+DOCTOR: No problem, I will do that for you.
+PATIENT: See the letter; does it give all the details?
+DOCTOR: It will tell you if they're normal, abnormal or [REDACTED] and if you want an actual copy of it [REDACTED] if that makes sense.
+PATIENT: When you say, what are you gonna measure and give it to me in the letter.
+DOCTOR: It tells you kind of like your blood counts are normal or your blood count was abnormal and your hemoglobin was low like that.  That's what the letter does, it's like a quick.
+PATIENT: Okay now what about.
+DOCTOR: It can identify what has happened.
+PATIENT: Now the cholesterol levels.
+DOCTOR: We write that in for you, no problem.
+PATIENT: [REDACTED].
+DOCTOR: I'm gonna get you; there's a line to wait in.
+PATIENT: Uh yes uh.
+DOCTOR: [REDACTED].
+PATIENT: So what do I do uh, how do I [REDACTED]?  Do I do it now?
+DOCTOR: Yeah they do it [REDACTED].  Okay.
+PATIENT: Okay.  But I can't wait [REDACTED].
+DOCTOR: You can always call and get it [REDACTED].
+PATIENT: Yes.
+DOCTOR: [REDACTED].
+PATIENT: So what do they order on the labs?
+DOCTOR: I'm ordering everything, your blood counts, cholesterol, [REDACTED] everything.
+PATIENT: Okay.
+DOCTOR: You'll get your labs drawn okay.
+PATIENT: Yes.
+DOCTOR: You'll have to wait in line so just tell them, ask the clerk you can give her this.
+PATIENT: Yes.
+DOCTOR: That you need a parking ticket and you'll probably need an escort [REDACTED].
+PATIENT: Yes, yes and you'll put in a request so [REDACTED].
+DOCTOR: Yes I will.  Okay.
+PATIENT: Okay thank you.
+DOCTOR: [REDACTED].
+PATIENT: 41:41.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300298
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,107 @@
+DOCTOR: PATIENT?
+PATIENT: Yea, you ready?  I am ready.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] standing here I was hoping I was next.
+DOCTOR: Yea, yeah, no it [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Oh yeah.  [REDACTED].
+PATIENT: [REDACTED] what do you [REDACTED]?
+DOCTOR: [REDACTED].  Yea I know, I mean, I appreciate it.  [REDACTED] show up on time [REDACTED] hour and a half [REDACTED] last few weeks and [REDACTED].
+PATIENT: Really.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] last half hour block [REDACTED].  Umm how are things going?
+PATIENT: Good, good.
+DOCTOR: Yea?
+PATIENT: Um, is this just a follow-up?
+DOCTOR: Follow-up, yeah.  Um, when did I last see you? Back in September.  [REDACTED] usually back every six months.
+PATIENT: Okay.
+DOCTOR: That’s why I [REDACTED].  It hasn’t been that long.
+PATIENT: Wow.
+DOCTOR: And one [REDACTED], it’s only been four months.  They scheduled you a little early.  I don’t know why.
+PATIENT: [REDACTED].
+DOCTOR: I told them a six month follow-up or a year follow-up.
+PATIENT: Yea.
+DOCTOR: [REDACTED].
+PATIENT: Yea because nothing, nothing
+DOCTOR: I even put in a year.  I said for you to come back to see me September [REDACTED]@.  So ah, maybe this will be nice and quick then.
+PATIENT: Oh, yeah, yeah, it will be.
+DOCTOR: And [REDACTED] you see the dermatologist and [REDACTED].
+PATIENT: Everything is good.
+DOCTOR: [REDACTED].  Okay.
+PATIENT: [REDACTED] put it on for a few weeks and then I got to go back up there and see them in a couple more weeks.  [REDACTED].  But everything really seems good.
+DOCTOR: Everything is good?  Okay.  Um, so [REDACTED] Iron Man.
+PATIENT: [REDACTED].  Yea.  No, no, no.  I did [REDACTED].
+DOCTOR: Yea.
+PATIENT: It always seems like a long run.
+DOCTOR: Right, yeah.  It always has been.  Either that or you must be running all the time.  I don’t know.
+PATIENT: No, I really don’t.  Because in the wintertime I have to be at work at a certain time, it’s really tough.
+DOCTOR: Yea.
+PATIENT: It’s um, [REDACTED].  Picked up some orthotics.
+DOCTOR: Okay.  Yea, I saw that.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Have you had anymore issues with this Achilles or anything?
+PATIENT: Nope, no.  [REDACTED] had it since [REDACTED].
+DOCTOR: Okay.
+PATIENT: Everything looks good [REDACTED].
+DOCTOR: Um, okay.  [REDACTED] everything looks fine.  Ah, let’s see [REDACTED].  Did they, ah, freeze off some of these things?
+PATIENT: Not yet.  I think it will be the next time, after the cream, they’re going to see how it looks and then [REDACTED].  It looks a lot better than it did.
+DOCTOR: Okay.  I know that your blood pressure, [REDACTED] borderline.  It looks a lot better today compared to the last time.  It was like 130 last time and 125 today.  Looks good.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  Um, kind of right where you want to be.  And, then I don’t think there was anything else.  Um, you had a tetanus shot last time I think right?
+PATIENT: Yup.
+DOCTOR: And, [REDACTED].
+PATIENT: How do I get a copy of that saying that I?
+DOCTOR: That you got the vaccine?
+PATIENT: Yea.  [REDACTED] in a couple of weeks and they tell me [REDACTED].  Supposedly  it’s in a tetanus shot so
+DOCTOR: Oh, tetanus, diphtheria, pertussis [REDACTED].  [REDACTED].
+PATIENT: Is that in [REDACTED].
+DOCTOR: Yea, you should have gotten this.  Um, yeah, TDAP.  You already got this.
+PATIENT: Okay.
+DOCTOR: Um, you also [REDACTED].  You got it September 22 [REDACTED].
+PATIENT: Okay.
+DOCTOR: So [REDACTED].  Who is [REDACTED], they, the doctors are complaining?
+PATIENT: Yea, they just [REDACTED].  Plus my civilian doctor would like a copy of it.
+DOCTOR: Oh, okay.
+PATIENT: Just to make an up-to-date record.
+DOCTOR: Yeah.  Okay.  [REDACTED].
+PATIENT: Yeah, that’s fine.
+DOCTOR: [REDACTED].  Um, alright colonoscopy we have already talked about you doing in a couple of years again.  Um, checked your prostate before I remember right?
+PATIENT: Um hmm.
+DOCTOR: [REDACTED].  Alright.  Um.
+PATIENT: Anything special to do when you turn 55 [REDACTED]?
+DOCTOR: Not anything for 55.
+PATIENT: Okay, good.
+DOCTOR: Just [REDACTED].  You were never a smoker right?
+PATIENT: No.
+DOCTOR: So 50 and 65 if you were a smoker [REDACTED].
+PATIENT: Oh.
+DOCTOR: For you it is just going to be getting your prostate checked, [REDACTED] colonoscopy, every five to ten years based on what they find.
+PATIENT: Okay.
+DOCTOR: Okay, clean bill of health. We checked you for diabetes [REDACTED].
+PATIENT: Good.  I try.
+DOCTOR: Yeah.  [REDACTED].  Alright?  Sorry you had to come in again.
+PATIENT: No, no, no, that is fine.  I mean, [REDACTED].  Doing what they tell me, make the appointment.
+DOCTOR: Yeah, yeah.
+PATIENT: Okay.
+DOCTOR: I am going to see you back you know summer, early fall.
+PATIENT: Okay.
+DOCTOR: [REDACTED] if anything comes up you can you can [REDACTED].
+PATIENT: Yea, unless I have issues.
+DOCTOR: Yea.
+PATIENT: [REDACTED] but I should be good.  [REDACTED].  Um where did that print [REDACTED]?
+DOCTOR: Yeah, [REDACTED].  [REDACTED] a lot of necessary information [REDACTED].
+PATIENT: No, no, no, that’s fine.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED] your appointment list.  I am sure you already know but [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yea.  [REDACTED].
+PATIENT: Good, glad it was short.  Time to get caught up?
+DOCTOR: Yea.  Okay. Thanks.
+PATIENT: Thanks.
+PATIENT: 46:30
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300310
+TRANSACTION # 578-10-2-316-0103

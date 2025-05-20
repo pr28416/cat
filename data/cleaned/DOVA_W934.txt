@@ -1,0 +1,282 @@
+DOCTOR: PATIENT?
+PATIENT: Hi.
+DOCTOR: [REDACTED] before, but good to see you again.
+PATIENT: Good to see you.
+DOCTOR: How you doing?
+PATIENT: Oh pretty good I think, I guess.
+DOCTOR: [REDACTED] yeah [REDACTED].  How's your energy level?
+PATIENT: Well I guess its, it might be pretty good most of the time.
+DOCTOR: Yeah.  Are you feeling.
+PATIENT: Except being out of breath [REDACTED] just.
+DOCTOR: Oh, yeah you have the emphysema right?
+PATIENT: Yeah.
+DOCTOR: Okay are you taking all of your inhalers?
+PATIENT: Yeah.
+DOCTOR: Yeah so you taking the salmeterol, the mometasone?
+PATIENT: Yeah uh another one uh DOCTOR gave me another one to put over your nose.
+DOCTOR: Okay, the whole mask.
+PATIENT: Yeah.
+DOCTOR: Okay good.  You have to put it in a machine or you hook it up to.
+PATIENT: Yeah, yeah.
+DOCTOR: Alright.  Do you have any cough?
+PATIENT: Uh not really.  I have some you know every now and then I have some [REDACTED].  But you got to cough sometime.  Yes.
+DOCTOR: Sometimes? What's that like?
+PATIENT: Um I been coughing most of it up.  [REDACTED].
+DOCTOR: Okay.  Any fevers?
+PATIENT: Huh?
+DOCTOR: Any fevers?
+PATIENT: No.
+DOCTOR: Well let me through your chart for one minute and see what's been going on since the last time we met okay.
+PATIENT: Okay.
+DOCTOR: And let me just see.  Today for your labs, you said you got them today?
+PATIENT: No I didn't do no lab today.
+DOCTOR: Oh yesterday, sorry.
+PATIENT: Yeah.
+DOCTOR: Yesterday.  They look pretty good.  [REDACTED] fantastic cause your blood counts and all that are low because of [REDACTED].
+PATIENT: Yeah.
+DOCTOR: The [REDACTED] and besides that you know everything else looks better too.  There is no infection.
+PATIENT: Yeah my nose, if I hold my head down it bleeds, it bleeds a lot.
+DOCTOR: You want to use like the nasal spray for like to keep your membranes moistened then.
+PATIENT: Yeah I use that doesn’t stopped the bleeding.
+DOCTOR: You have blood in your nose?
+PATIENT: No.
+DOCTOR: You use it twice a day every day?  No.  Do you pick your nose or anything like that?
+PATIENT: Huh?
+DOCTOR: Do you pick your nose or anything like that?
+PATIENT: Uh uh.
+DOCTOR: [REDACTED].
+PATIENT: Yeah [REDACTED] blow it, [REDACTED] and when I bleed, I bleed so I bleed.
+DOCTOR: Yeah.
+PATIENT: And uh then it quits.
+DOCTOR: Yeah you don’t have the spray that I’m talking about on your list, it's like something you put in your nose [REDACTED].
+PATIENT: Yeah I got two things to put in my nose.
+DOCTOR: You have two things to put in your nose.  Okay [REDACTED] not in your mouth.
+PATIENT: Not in my mouth.
+DOCTOR: In your nose.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] just a nasal spray.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].  Did they tell you the results of the heart test you had in October?
+PATIENT: The heart test?
+DOCTOR: Yeah.
+PATIENT: Uh yeah I think, I think DOCTOR told me I think about a week ago.
+DOCTOR: Oh I see yeah he did.
+PATIENT: Is there anything they can do to stop my nose from bleeding so much?
+DOCTOR: Um you could try some Vaseline but.
+PATIENT: I put some of that in there.
+DOCTOR: You put some in there.
+PATIENT: Well uh not lately but I have put it in there.
+DOCTOR: Yeah.  You're heart looks pretty good except for the, your [REDACTED].  I'm just seeing if they [REDACTED] other inhaler.  When they gave you the lung tests did they make you breathe into the machine or did they just [REDACTED] make you walk around?
+PATIENT: Yeah well I had to walk [REDACTED].  They just [REDACTED] that.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].  See I had to go to the, they gave me [REDACTED] I think it was 5 mg [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: But did have to go to the bathroom twice.
+DOCTOR: When you did.
+PATIENT: I been there two hours.
+DOCTOR: I understand.  When did you start taking this?
+PATIENT: Huh?
+DOCTOR: When did you start taking the [REDACTED]?
+PATIENT: Oh it was, oh I'd say it might have been a year.
+DOCTOR: Oh a year and it's still not really helping you at all.
+PATIENT: I'm still uh.
+DOCTOR: [REDACTED].  Do you have the dosage [REDACTED]?
+PATIENT: Uh yeah I'm taking one.
+DOCTOR: Yeah that's the max dose.  Um are you drinking a lot of water before you go to bed or?
+PATIENT: Um no not really.
+DOCTOR: Not really.
+PATIENT: No.
+DOCTOR: Do you have an appointment with the urology doctor at any time, let me see [REDACTED].  Cause there's another medication we could add to it, so you take the prostate medicine and then we would add another prostate medicine.  The only thing with doing that is that your blood pressure is kind of low, so [REDACTED] whole lot [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Your waking up every two hours?
+PATIENT: Uh well yeah I about got used to it but yeah you know, I have to get up.
+DOCTOR: Have you tried just having a urinal at the bedside?
+PATIENT: Yeah I got one of them there.
+DOCTOR: Yeah.
+PATIENT: I still got to get up.
+DOCTOR: [REDACTED].
+PATIENT: When I uh, and I still have to get up.
+DOCTOR: Still have to get up.
+PATIENT: And sometimes you know it really.
+DOCTOR: Yeah.
+PATIENT: It don't come out like it should.
+DOCTOR: Right.  Well I may, I know you got your blood work checked yesterday, would you mind getting just one more blood test today?  I want to check your prostate level.
+PATIENT: [REDACTED].
+DOCTOR: Cause the last time it was checked was two years ago but I want to see if it got a lot higher um.  Especially if you're having any troubles I think maybe I'm going to talk to DOCTOR but maybe we could start the other medicine and if your blood pressure goes really low or like if you get dizzy or something, you just don't take it.
+PATIENT: Yeah.
+DOCTOR: Okay.  I'm going to talk to him about that.
+PATIENT: Yeah is [REDACTED].
+DOCTOR: It'd be for having, for the trouble with peeing.
+PATIENT: But it's don’t hurt or nothing.
+DOCTOR: No like it's hard to push it out you're saying.
+PATIENT: No it's not hard it's just uh, [REDACTED] you don't have a good stream.
+DOCTOR: Uh-huh, yeah it's for that like it helps the urine get out easier.
+PATIENT: Yeah.
+DOCTOR: Yeah so I'll talk to him about it and we'll see what he says.
+PATIENT: Okay.
+DOCTOR: Are you having a lot of swelling in your legs too?
+PATIENT: Hmm, yeah [REDACTED].
+DOCTOR: Yeah, it’s a little bit swollen, but not too bad though.
+PATIENT: No but.
+DOCTOR: Okay.  Let me uh [REDACTED] do you live by yourself?
+PATIENT: No [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yes.
+DOCTOR: Who do you live with your kids or your wife or?
+PATIENT: Yeah.
+DOCTOR: Can I take a look [REDACTED].  Deep breath good.  I'm going to check your back, okay.
+PATIENT: Okay.
+DOCTOR: Deep breath.  [REDACTED].  [REDACTED] are you short of breath right now?
+PATIENT: No.
+DOCTOR: No okay.  Do you feel.
+PATIENT: [REDACTED] lungs when I'm sitting down like this.
+DOCTOR: Uh-huh.
+PATIENT: I could be driving and I’ll get out of breath [REDACTED] or anything like that [REDACTED].
+DOCTOR: Okay.
+PATIENT: Is the reason why I get up and go [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].  Sometime uh [REDACTED] and I lost a lot of blood, I don't know whether it's cause the nose bleeds a lot.
+DOCTOR: Right.
+PATIENT: And I don't know if that has anything to do with this thing or not.
+DOCTOR: Well and your blood count being low will definitely make you more tired and short of breath.
+PATIENT: Yeah.
+DOCTOR: Yeah.  Uh let me see how low your blood count was 8.6 and before it was 8.8 so it [REDACTED] about the same.  Um you know what we could do about the nosebleeds so you are already using the nasal spray right?
+PATIENT: Yeah I started it again something like [REDACTED] and it bleeds a whole lot.
+DOCTOR: Do you take your medicine before sleep?
+PATIENT: Yeah.
+DOCTOR: Yeah.  I'm gonna order you, just cause I don't see it in the computer anymore, I think it's something you were taking that's not in the computer I want you to try [REDACTED] probably the same thing you were taking and if it is, that’s fine. It's kind of like an oil except it's more like water and you put it in your nose and it kind of protects it from bleeding.  The same thing you're taking but it's not in the computer so I'm not sure.  That's what you're taking?
+PATIENT: Yeah it's not on there, not on that?
+DOCTOR: No it's not on here.  So that's why I'm not sure what uh what exactly they gave you.  This one is probably what you're talking about but this is like a cream type of thing.  Yeah so the one I want to give you is like a, oh here it is.
+PATIENT: So I got two of them I'm not crazy.
+DOCTOR: Yeah, you're right, you're actually right, it's in here, you're right.
+PATIENT: Hmm.
+DOCTOR: So never mind.  [REDACTED] okay.  You're using it four times a day; they want you to use it four times a day?
+PATIENT: No I usually use when I'm driving the car and sometimes I use it then when I got a bleed, right after a bleed.
+DOCTOR: Yeah.
+PATIENT: See I got a sleeping [REDACTED] that I'll put on, [REDACTED].
+DOCTOR: Are you using [REDACTED].
+PATIENT: Sometimes my nose will start bleeding when I'm asleep and um, it's lucky that when it starts coming down.
+DOCTOR: [REDACTED].
+PATIENT: It wakes me up.
+DOCTOR: [REDACTED].  Yeah so you need the Coumadin cause we don't want you to get a stroke so, it's kind of a cost benefit type of thing.  If we stop the Coumadin the nosebleeds would stop but then you could have a stroke or something.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED].
+PATIENT: And the first time I have a slight headache and then I'm just tired you know.
+DOCTOR: Uh-huh.
+PATIENT: I don't know whether that has anything to do with it or not.
+DOCTOR: It's probably everybody over the age of like 10 starts getting headaches, it’s probably one of those. Are you still using your CPAP?
+PATIENT: Huh?
+DOCTOR: CPAP machine?  Are you still using it at night?  Oh they just did it yesterday, your sleep study.
+PATIENT: Yeah I had that.
+DOCTOR: Did they tell you that you needed a machine?
+PATIENT: That I need what?
+DOCTOR: Like a CPAP machine, like the machine when you sleep?
+PATIENT: Uh oh,yeah, they told me uh yeah that's what I got.
+DOCTOR: You got one of those?
+PATIENT: Yeah.
+DOCTOR: Okay good and you’re still using it?
+PATIENT: Yeah I had the thing that go up in your nose.
+DOCTOR: Uh-huh.
+PATIENT: But uh for the last week I went up there and they gave me uh the one you know it don't go in your nose, it goes over your nose.
+DOCTOR: Right, right.
+PATIENT: So I got that one.
+DOCTOR: You've been using that?
+PATIENT: Yeah but I haven’t used it three or four, two or three days.
+DOCTOR: Uh-huh.
+PATIENT: Because of the nosebleeds.
+DOCTOR: Oh yeah.  So let me talk to my boss to see if he might have any ideas okay.  See if we can do anything about it.
+PATIENT: Alright.
+DOCTOR: Alright, I'll be right back.
+(DOCTOR OUT:  126:10  DOCTOR IN:  133:31)
+DOCTOR: Alright so, for the nosebleeds, he didn't have any ideas either.  The only thing we could think of is that maybe, have you ever been to a nose doctor, like an ENT doctor where they take a camera and look in your nose and see?
+PATIENT: No, no more than the doctors here looked at me.
+DOCTOR: Alright so we'll uh, so, keep doing what you’re doing with the sprays and all that and in the meantime we want to get you to see the ENT doctor, the Ear, Nose and Throat doctors and they can just see if there's anything - cause they're the experts of the nose and they can just take a really good look inside and see if there's anything that's bleeding or some other changes, okay.
+PATIENT: Okay.
+DOCTOR: And then I'm going to put that here for you know in one week or in one to two weeks.
+PATIENT: Okay.
+DOCTOR: They'll schedule it for you right out front there and I'll put it in the computer too.  And then for the um, you know the urinary symptoms you're having, we can actually go up on the tamsulosin that you're taking the 5 mg pills.
+PATIENT: What.
+DOCTOR: You could go up to 10 so you'd take two pills instead of just one and I'll change it in the computer um it's this medicine right here.
+PATIENT: Okay.
+DOCTOR: The tamsulosin.
+PATIENT: Alright.
+DOCTOR: Instead of taking 5 mg take the 10 mg.
+PATIENT: Okay take two.
+DOCTOR: Take two.
+PATIENT: Okay.
+DOCTOR: Yeah.  [REDACTED] it’s the prostate medicine okay.
+PATIENT: Right.
+DOCTOR: Do you get your medicines mailed to you or do you pick them up here?
+PATIENT: Uh I get it mailed to me.
+DOCTOR: Mailed to you.
+PATIENT: Some of it I pick up at the Pharmacy.  If I need to pick it up, I pick it up but if not they mail it.
+DOCTOR: Okay.  So, it’s up to you. If you have some of these left over you can just take two pills and I'll get them mailed to you and then you'll take the 10 mg.
+PATIENT: Oh okay.
+DOCTOR: Or if you want to just pick it up you can.
+PATIENT: Okay.  Do which one you want.
+DOCTOR: Well which do you want?
+PATIENT: A you can have them mail it.
+DOCTOR: Okay.  So in the meantime take two of them tonight.
+PATIENT: You [REDACTED].  Is it a week to two weeks?
+DOCTOR: Hopefully you'll get the ENT appointment the nose doctor appointment.
+PATIENT: Hmm.
+DOCTOR: Then you can come see me in three months.  But [REDACTED] if you want to see me earlier like one month?
+PATIENT: Yeah one month that way uh.
+DOCTOR: Yeah you could do that, we could do one month and then see the nose doctors and we'll go over your next [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: They're going to be giving me the phone number for that right?
+DOCTOR: Yeah, they should.  When you go out front ask them, give them this piece of paper.
+PATIENT: Okay.
+DOCTOR: And then uh just make sure tell them I need to see the nose doctor for nosebleeds. I’ll put it on here.
+PATIENT: Say can I get, can I get a urine test?
+DOCTOR: Yeah let me get a urine test.
+PATIENT: You know what I, you know what I got put the, you know burning in my prostate [REDACTED].  And uh after so long of a day, you know if it's in there, I don't know if that's how long, could they like [REDACTED] pull it out.
+DOCTOR: Power on the wall?
+PATIENT: So [REDACTED] you.
+DOCTOR: Yeah.
+PATIENT: Uh [REDACTED] this Friday and when I try to take it, I take 80 of [REDACTED] a day.
+DOCTOR: That could do it.
+PATIENT: Yeah I just wanted to know what, you know if there's anything else that [REDACTED].
+DOCTOR: We could do a urine test yeah.
+PATIENT: If it don't rise or nothing, I ain't, you know I ain't you don't have to.  I was just telling you you know.
+DOCTOR: Yeah we can get it looked at and make sure there's not any infection or anything like that.  I don't think there's [REDACTED].
+PATIENT: Alright.
+DOCTOR: Do you mind stopping by the Lab today?
+PATIENT: Okay.
+DOCTOR: And then we'll get your blood drawn too.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright.  I think that's it.  Let me just put this in the computer so you get that ear nose and throat doctor's appointment [REDACTED].
+PATIENT: Yeah [REDACTED] in the morning [REDACTED] four at night.
+DOCTOR: That can cause, you know cause it's like extra stuff in your urine that kind of calcifies and [REDACTED].  You know [REDACTED].
+PATIENT: Well I mean you always know what it is and know it's no harm, you don't have to fool with that.
+DOCTOR: Okay.
+PATIENT: As long as you know what it's going to be.  You know but I wanted you to know.
+DOCTOR: No it's alright.
+PATIENT: What was happening.  So I'll just get the blood drawn.
+DOCTOR: Yeah and another appointment.  Alright, it’s in the computer now, [REDACTED] right.  So then one other thing, [REDACTED].  Okay.
+PATIENT: Alright.
+DOCTOR: I'm getting this [REDACTED] alright so you're all set then okay.
+PATIENT: Okay.
+DOCTOR: You're [REDACTED] today and we're gonna see you in a month and then they'll get you scheduled with the [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: All I got to do is [REDACTED] soon right.
+DOCTOR: Yeah just do that and get your blood test[REDACTED] and you'll be good okay.
+PATIENT: Okay.
+DOCTOR: It was nice seeing you again.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: And thank you.
+DOCTOR: Oh no, it’s my pleasure.  Do you need any help?
+PATIENT: No I'll make it.
+DOCTOR: Alright then.
+PATIENT: 141.10
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255192
+TRANSACTION # 578-10-2-316-0103

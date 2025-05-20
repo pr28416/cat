@@ -1,0 +1,107 @@
+DOCTOR: PATIENT?
+PATIENT: How are you?
+DOCTOR: Pretty good, how are you?
+PATIENT: Could be better.
+DOCTOR: Could be better.  So what's new?
+PATIENT: Well, what's new [REDACTED] I has is my right [REDACTED].
+DOCTOR: Hmm.
+PATIENT: Other than that.
+DOCTOR: [REDACTED].
+PATIENT: Eyesight right now is about 20%.
+DOCTOR: What's that?
+PATIENT: Eyesight.
+DOCTOR: Oh yeah what'd the eye doctor say?
+PATIENT: I ain't been up there.
+DOCTOR: You need to make another appointment.
+PATIENT: Yeah.
+DOCTOR: Have you been taking that insulin that we wanted you to take?  No.
+PATIENT: I know.
+DOCTOR: Yeah, so you don't take that insulin?  You're on the insulin?  Your diabetes is way out of control you know that.
+PATIENT: [REDACTED]
+DOCTOR: Yeah so we started insulin last time.
+PATIENT: Well I ain't into the shots.
+DOCTOR: Alright.  Well e can try another medicine then.  It's not going to bring you down as much as you need to but it might help okay.
+PATIENT: Alright.
+DOCTOR: How's your weight [REDACTED] going?
+PATIENT: I lost weight.
+DOCTOR: Yeah.  Trying to?
+PATIENT: I eat.
+DOCTOR: Yeah.  You have a good appetite and everything?
+PATIENT: Yeah.
+DOCTOR: You're eating.  Any problems with your bowels or anything there?
+PATIENT: Yeah.
+DOCTOR: What?
+PATIENT: Come out hard, peeing some.
+DOCTOR: You're urinating alright?
+PATIENT: Yeah.
+DOCTOR: Yeah.  Have your any problems with a lot of, any coughing more than usual?  Is your breathing less than usual?
+PATIENT: Regular.
+DOCTOR: Just regular.
+PATIENT: Pain seems not in a flare no more.
+DOCTOR: Huh?
+PATIENT: I'm not in a flare anymore.
+DOCTOR: Okay that's good.
+PATIENT: So.  Something's going right somewhere.
+DOCTOR: Alright.  Did you ever go to the throat doctors to take a look at that?
+PATIENT: Uh, that's who I had an appointment with and I missed.  That was about three months ago.
+DOCTOR: You want to get that checked out?
+PATIENT: I give up.  They not gonna, they wanted to operate.
+DOCTOR: Yeah.
+PATIENT: That's [REDACTED].
+DOCTOR: What did they say was wrong?
+PATIENT: I don't know.
+DOCTOR: How much you smoking still?
+PATIENT: Too much.  I haven't quit.
+DOCTOR: Yeah alright.  So do you think you're getting enough food?  You have a good appetite, you eat enough?
+PATIENT: I eat.
+DOCTOR: Yeah.  Do get full, you don't feel like you get full easily and everything?
+PATIENT: No because I'm not a overeater.
+DOCTOR: Yeah.  Okay.  [REDACTED] what to do with it.
+PATIENT: What [REDACTED]?
+DOCTOR: Are taking the omeprazole?
+PATIENT: What's that?
+DOCTOR: For the stomach.
+PATIENT: I am.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: So you're still taking them [REDACTED].  And how about the lisinopril?  It's a blood pressure medicine.  We started it last time.
+PATIENT: I get two blue pills, a vitamin, [REDACTED] a green pill and that metformin, that's it.
+DOCTOR: I don't know what the pills look like; I only know the names.  So [REDACTED].
+PATIENT: I got.
+DOCTOR: You haven't refilled any of your medicines since this summer.
+PATIENT: They done gave me extra medication.
+DOCTOR: Okay.
+PATIENT: And I got maybe about [REDACTED] months.
+DOCTOR: Let's take a look.  Can you sit up here?  I need you to lay down so could you put this down please.  Huh?
+PATIENT: That's [REDACTED]
+DOCTOR: Where?
+PATIENT: Right in here.
+DOCTOR: Right here.
+PATIENT: Yeah.
+DOCTOR: Can you sit up for me?  Deep breaths.  Follow this.  Good.  Okay [REDACTED].  You can sit back here for me.  I'll be back in a minute okay.
+(DOCTOR OUT:  40:43  DOCTOR IN:  46:21)
+DOCTOR: [REDACTED].  Can you pick up the medicines today?
+PATIENT: They can just, they can mail it.
+DOCTOR: Okay and is your address ADDRESS?
+PATIENT: [REDACTED].
+DOCTOR: That's a PO box?
+PATIENT: Yeah.
+DOCTOR: Can we get some blood drawn from you today?
+PATIENT: Uh yeah.
+DOCTOR: [REDACTED] again?
+PATIENT: Yeah [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: That's fine.  And can you go get a tetanus shot today from us?
+PATIENT: Yeah.
+DOCTOR: Okay.  (Doctor working on computer 49:53 - 57:23)  Sir. (No conversation from 57:24 - 59:04)  Alright sir.  I want you to take this up front, they'll make your appointments and then go and get your chest x-ray and your blood draw.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Bye.
+DOCTOR: Take care.
+PATIENT: Alright.
+PATIENT: 59:27
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255186
+TRANSACTION # 578-10-2-316-0103

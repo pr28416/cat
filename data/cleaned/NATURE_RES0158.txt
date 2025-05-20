@@ -1,0 +1,72 @@
+DOCTOR: What brings you here today?
+PATIENT: I've had uh a new cough that started um this week, it's been going on the last like three or four days and um I've had a headache and um but yesterday I just noticed that I haven't been able to to smell, so I wanted to come in this morning.
+DOCTOR: OK, yeah, so it's been going on for the last uh four days. Is it kind of like a dry cough or a wet cough?
+PATIENT: It's dry.
+DOCTOR: It's dry, OK. Are you at all bringing up any kind of sputum or blood at all?
+PATIENT: No, I haven't been.
+DOCTOR: OK and um have you been experiencing any kind of uh fevers or chills?
+PATIENT: Yeah, I feel, uh, I have felt feverish. Uh and I think that yeah, that's kind of started uh like within the last day.
+DOCTOR: OK, and did you um get a temperature at all?
+PATIENT: No, I've just been really feeling, yeah feverish and feeling really hot.
+DOCTOR: OK and um besides the um cough, are you having any other symptoms like muscle aches or headaches?
+PATIENT: Uh yeah, I've been having a headache like I dont know, on and off for this past three or four days as well, and I have had muscle aches, my whole body kind of aches.
+DOCTOR: OK, um and when did this start?
+PATIENT: That's been over the past um like 3 days or so, yeah, I woke up and I've just been feeling uh yeah achy and just not feeling good.
+DOCTOR: OK. Yeah, so it all just kind of started in the last four days. Uh are you having any kind of fainting or dizziness episodes at all?
+PATIENT: Uh no, I haven't had anything like that.
+DOCTOR: OK and any uh, are your symptoms getting worse at all?
+PATIENT: No, they, well I, initially they did but um they've kind of stayed the same.
+DOCTOR: OK, and have you had any loss of sense of taste or smell?
+PATIENT: Yeah I had, I have, I've had a loss of um smell and taste now that you mention it, yeah.
+DOCTOR: And when did that happen?
+PATIENT: Um within the last uh two days.
+DOCTOR: OK, and are you having any runny nose, congestion, sore throat, any of those symptoms?
+PATIENT: Uh no, not really. Nothing like that.
+DOCTOR: OK, have you traveled at all recently?
+PATIENT: No, I I haven't traveled um, haven't traveled anywhere. But I I've just been going to work and and being at at home.
+DOCTOR: OK and um, where do you go for work?
+PATIENT: Um I'm a nurse actually at the at a um a walk in clinic.
+DOCTOR: OK, and have you uh at all been exposed to anyone who's been sick? Uh anyone who has tested positive for Covid?
+PATIENT: Uh no, nobody that I'm aware of that's that's tested positive, but there has been people uh recently um that within the past week, that we've seen come in with with cough and um things like like that so.
+DOCTOR: OK. Um are you having any nausea or vomiting?
+PATIENT: Um no, I haven't had anything like that.
+DOCTOR: OK, any um night sweats?
+PATIENT: No.
+DOCTOR: Any chest pain or shortness of breath?
+PATIENT: No.
+DOCTOR: OK, any changes in your bowel movements, any diarrhea, constipation?
+PATIENT: No.
+DOCTOR: Any um changes in your urination?
+PATIENT: No, nothing like that.
+DOCTOR: Um no burning sensation or pain at all?
+PATIENT: No, nothing like that.
+DOCTOR: OK, any changes in your sleep or appetite recently?
+PATIENT: Uh yeah, just these past couple of days, I haven't really felt like eating much. Um my sleep has been OK, but I think that's just because I haven't been feeling well so just haven't really wanted to eat.
+DOCTOR: OK, any weight changes recently?
+PATIENT: No I, I wish.
+DOCTOR: OK. And have you been diagnosed with any medical conditions in the past at all?
+PATIENT: No, I've been. I've been, I've been healthy.
+DOCTOR: OK. And do you take any medications on a regular basis?
+PATIENT: Um just the uh the multi vitamin and then a like a greens supplement.
+DOCTOR: A green green supplement?
+PATIENT: Yeah, it's just sort of like a like a green um powder. It's supposed to replace uh I don't know one of your servings of vegetables for the day.
+DOCTOR: OK, um and have you been hospitalized or had any surgeries in the past?
+PATIENT: I I had like a scope on my knee when I was um like a teenager, I injured it playing soccer, but that's it.
+DOCTOR: OK, any family history of any heart or lung conditions?
+PATIENT: Um my my grandfather had had lung cancer, um but he smoked his whole life
+DOCTOR: OK. Um and currently, so you work as a nurse, uh what's your living situation like? Do you live with anyone, do you live in house or apartment?
+PATIENT: Yeah, so I live in a house with my wife um we we have a a young um a daughter.
+DOCTOR: OK, has anyone in the house had similar symptoms or been feeling sick lately?
+PATIENT: No, it's just been me. Yeah my wife and daughter have been both uh staying home. I've been the one, only one really kind of leaving the house for well going to work and then uh getting most of the groceries and that that sort of thing, since I'm already out.
+DOCTOR: OK. OK, and currently do you smoke at all?
+PATIENT: Uh no cigarettes, um well I uh smoke weed every once in awhile.
+DOCTOR: OK, and how often would you say you smoke weed?
+PATIENT: Uh probably like, uh probably once a week. Just yeah, just on the weekend, maybe once.
+DOCTOR: OK, and uh, do you drink alcohol?
+PATIENT: Um I had some like a couple of beers on the weekend, like one or two.
+DOCTOR: OK, um OK, so those are all the questions I had for you today. Do you have any questions or concerns?
+PATIENT: Um just a bit concerned possibly about uh Covid.
+DOCTOR: OK, yeah, so that's definitely uh with you working in the in the hospital clinical setting, um there is definitely a possibility, and a lot of the symptoms that you're having overlap with Covid symptoms. Uh, so we will definitely get a Covid swab test done for you today. It usually comes back in the next 24 to 48 hours and until then uh I would recommend that you isolate either in a room separately, wear a mask around your family members, um isolate to the best of your abilities, not go outside, see if someone else can get groceries for you guys uh as well. And then um depending on the test, public health will contact you with further instructions.
+PATIENT: OK, yeah, that sounds good. Thank you.
+DOCTOR: You're welcome. Take care.
+PATIENT: Take care.

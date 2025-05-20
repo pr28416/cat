@@ -1,0 +1,83 @@
+DOCTOR: I hear that you have been having some coughing so I'm just going to chat with you for a bit get an idea of how things are going well, have a listen to your lungs in your heart and then I will go grab the doctor that's working today and we'll talk about it and then we'll come back and let you know what the next steps are going to be. That does that sound good to you?
+PATIENT: Yeah, that sounds great. Thank you.
+DOCTOR: Can you tell me about what brought you in today?
+PATIENT: Yeah, I've had this cough for the past four or five days and it doesn't seem to be going away or getting better, so I thought I should get it checked out.
+DOCTOR: OK, are you here with your mom today?
+PATIENT: I am.
+DOCTOR: Hi mum. Um OK. You got a cough you said I'm sorry, you said for five days?
+PATIENT: For, yeah, four to five days ish, yeah?
+DOCTOR: OK. And, uh, has it you said it was a dry cough? Is that right?
+PATIENT: Yeah, that's right.
+DOCTOR: OK, so at no point were you bringing up on gunk with your cough?
+PATIENT: Yeah. No, no, nothing like that.
+DOCTOR: OK. Since it started, do you think it's gotten worse or has it kind of stayed the same? Gotten any better?
+PATIENT: It's kind of stayed the same.
+DOCTOR: OK. OK, uhm. Along with the cough have have you been having any other new symptoms?
+PATIENT: Uh no.
+DOCTOR: OK, have you had a sore throat?
+PATIENT: No.
+DOCTOR: Do you feel like you can taste and smell things normally?
+PATIENT: Yeah, I think so.
+DOCTOR: OK. OK, have you been having a runny nose?
+PATIENT: Oh yes, I have had that for the past couple of days as well.
+DOCTOR: And is it a runny nose with kind of clear stuff? Is it watery or is it thick? Does it have a color to it a yucky the color?
+PATIENT: It's pretty clear.
+DOCTOR: OK, OK. Uhm. And uh have you had any fevers? Your mom might be able to answer that one better.
+PATIENT: Yeah, um. He has had uh like he's had fevers in the past, but I I didn't really check this time. He didn't seem hot. He didn't have any chills.
+DOCTOR: OK, well that's good. Uhm. OK, have you had any back or muscle pain?
+PATIENT: No.
+DOCTOR: OK. Have you had any chest pain?
+PATIENT: Uh no, no chest pain.
+DOCTOR: OK. Any, any nausea or vomiting?
+PATIENT: Uh no, no nausea or vomiting.
+DOCTOR: Have you ever had any pain in your belly?
+PATIENT: No, nope that no pain in my belly.
+DOCTOR: Any headaches?
+PATIENT: No, no headaches.
+DOCTOR: OK, have you been around anyone that's been sick?
+PATIENT: No, not that not that I can remember.
+DOCTOR: OK. Uhm, have you traveled anywhere recently?
+PATIENT: Uh nope.
+DOCTOR: Are you going to school right now or staying home?
+PATIENT: I’m going to school and they're doing these half days.
+DOCTOR: OK. OK uhm, and has anyone in your school been sick?
+PATIENT: Ah, Nope, not recently.
+DOCTOR: At least not that we know of. OK.
+PATIENT: No.
+DOCTOR: OK, have you ever had anything like this before?
+PATIENT: No. I've been pretty healthy otherwise. I've never had like I've never had like a dry cough like this. I've had runny nose in the past, but they never lasted this long.
+DOCTOR: OK, have you ever been in the hospital?
+PATIENT: No.
+DOCTOR: OK. Did you see your family doctor for anything? Any health problems?
+PATIENT: No, no.
+DOCTOR: Do you take any medicines?
+PATIENT: No.
+DOCTOR: OK. This may be a tricky one to answer, so Mom can definitely help us. Do you have any family history of respiratory problems?
+PATIENT: Um uh his grandparents had um asthma, but he's been worked up for that and he doesn't get short of breath or wheezing or anything like that with even with physical activity. So yeah, so he doesn't have that.
+DOCTOR: And what else?
+PATIENT: Pardon me.
+DOCTOR: I said just some some asthma in the family.
+PATIENT: Yeah.
+DOCTOR: OK. And so you live, you live with your mom. Do you live with anyone else in your family?
+PATIENT: I have a four year old sister.
+DOCTOR: OK, do you live with your dad too?
+PATIENT: Yes.
+DOCTOR: Do you guys have any pets?
+PATIENT: Um no, no pets.
+DOCTOR: And does anyone smoke in the home?
+PATIENT: Nope, no.
+DOCTOR: OK, and what do you like to do for fun?
+PATIENT: Um I like playing with my friends, I like playing video games.
+DOCTOR: Oh cool. So what's your favorite game?
+PATIENT: I am playing Rollercoaster Tycoon.
+DOCTOR: Oh cool, that sounds like fun. OK well, hopefully we can get you back to feeling healthy so you can continue to play lots of roller coaster Tycoon. So I’m going to go get the doctor that I'm working with. I'm, uh, I'm wondering, you know, he might want to do a chest X Ray and get a better look at what's going on there. Have you ever had an X Ray before?
+PATIENT: I don't think so, no.
+DOCTOR: Do you know what an X Ray is?
+PATIENT: A little bit, yeah.
+DOCTOR: Yeah it's like taking picture of your body on the inside. It's pretty cool so it gives us an idea of what's going on in the inside. Also, this really this part is kind of not so much fun, but I think we should probably do a covid swab because we're doing that with anyone that comes in with these symptoms lately and that's not a lot of fun. We gotta stick something up your nose, but I think that you're really brave and I think that you'll be just fine with it, OK?
+PATIENT: OK.
+DOCTOR: So we're going to arrange for these things and then I will come back with the doctor that I'm working with and we'll kind of talk about where to go from here.
+PATIENT: OK, that sounds good.
+DOCTOR: Thank you guys for chatting with me.
+PATIENT: Yeah, thank you.
+DOCTOR: Thanks.

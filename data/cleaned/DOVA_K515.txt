@@ -1,0 +1,608 @@
+DOCTOR: PATIENT?
+PATIENT: Good morning.
+DOCTOR: DOCTOR.
+PATIENT: Hello DOCTOR, nice to meet you.
+DOCTOR: [REDACTED].
+PATIENT: Okay no more DOCTOR?
+DOCTOR: Oh um, he's just not here today.  He'll be back next week.
+PATIENT: Okay.
+DOCTOR: Um so I'm taking his place.
+PATIENT: Pardon me?
+DOCTOR: Oh he scheduled you so you'll see him on your next visit.
+PATIENT: Okay thank you.
+DOCTOR: Um.
+PATIENT: And we're being recorded okay.
+DOCTOR: Oh okay.  Do you record all your visits?
+PATIENT: No it's just that some program is going on I guess DOCTOR agreed to it so since he's not here.
+DOCTOR: Oh okay.  Um I know what you're referring to.
+PATIENT: Okay.
+DOCTOR: So now I'm part of it as well.
+PATIENT: Okay good.  So we're okay with that?
+DOCTOR: Yeah sure.
+PATIENT: Good.
+DOCTOR: Okay.  How are things going since you're last visit?
+PATIENT: Not good, not good, not good because you know as you can see I came in for a knee problem.
+DOCTOR: Uh-huh.
+PATIENT: Uh I had uh whatcha call that ultrasound back here because there was a cyst back here.
+DOCTOR: Right.
+PATIENT: Okay and then so the knee is still giving me a lot of problems.
+DOCTOR: Okay.
+PATIENT: They took x-rays of it but see I never heard and then like they said they were gonna contact me and let me know what the x-ray was okay but they never did and my knee still hurts.
+DOCTOR: Okay.
+PATIENT: It hurts like a son-of-a-gun.  I don't know if it's cracked bone or if it's displaced or what you know.
+DOCTOR: Sure.
+PATIENT: But see they didn't call and let me know and that wasn't fair.
+DOCTOR: Okay.  So the test you're referring to originally you had on March 15th?
+PATIENT: I don't know what day it was.
+DOCTOR: Okay.  Uh was that when you came in to Urgent Care?
+PATIENT: Okay then I came back again.
+DOCTOR: Right.
+PATIENT: They took x-rays of it this time.  You don’t have nothing in there for me?
+DOCTOR: No I do yeah.
+PATIENT: Okay.  Well they [REDACTED].
+DOCTOR: Was that the time you came in in the middle of February.
+PATIENT: It was the cyst.
+DOCTOR: It was the cyst and then you came in because you still had pain.
+PATIENT: Right.
+DOCTOR: On March 15th.
+PATIENT: Now do I have any broken bones?
+DOCTOR: Uh let's look.
+PATIENT: See I don't know nothing you know.
+DOCTOR: I apologize that they didn't call.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: See I don't know, like I said all I know is that my knee hurts, it still hurts.
+DOCTOR: Okay.
+PATIENT: I don't have a brace, no cane or nothing you know, they just send me out there.
+DOCTOR: Point to where the pain is.
+PATIENT: When I walk, the whole area.
+DOCTOR: The whole area, so there's not one area in particular?
+PATIENT: No, no, especially when I'm walking.
+DOCTOR: Okay.
+PATIENT: And I don't have a brace.  Well really I can't afford a brace.
+DOCTOR: We can give you one.
+PATIENT: Thank you.
+DOCTOR: So it looks like they saw some preventative things that were consistent with old age.  Your bones getting older.
+PATIENT: Okay.
+DOCTOR: And then they saw that um small calcified area which could be the same area as where the cyst is.  I don't know if the cyst is in there.
+PATIENT: That's in the back of the knee there right?
+DOCTOR: It's in the back of the knee.
+PATIENT: Okay.
+DOCTOR: Um which is where the same place that it's showing on the x-ray.
+PATIENT: Okay.
+DOCTOR: So it is on the ultrasound.
+PATIENT: But no broken bones?
+DOCTOR: No broken bones.
+PATIENT: Okay.  Just old age setting in right?
+DOCTOR: Yeah and then this little cyst that you have.
+PATIENT: It's still there?
+DOCTOR: Uh well at least on the 15th it was still there.
+PATIENT: Because they say it had busted and the fluid was running down my leg and that's what by touching the tissue that's what brought the pain on.
+DOCTOR: Um.
+PATIENT: So that's what they told me what the ultrasound said okay.
+DOCTOR: Okay.
+PATIENT: You know I mean I want the truth, that's all I want you know.
+DOCTOR: Sure.  I understand completely.  Um, let me look at your ultrasound.  Okay so after your appointment, after you had the ultrasound.
+PATIENT: Okay.
+DOCTOR: They told you there was a cyst there or they told you that it burst?
+PATIENT: It bursted.
+DOCTOR: Okay um.
+PATIENT: And the fluid running down.
+DOCTOR: Okay.  Did you feel it?
+PATIENT: That's what started.  No.
+DOCTOR: Oh.
+PATIENT: I felt the pain.
+DOCTOR: Okay.
+PATIENT: Okay and now it's like I feel the pain when I'm walking but I also feel my bones, you know what I mean like man.
+DOCTOR: Right.
+PATIENT: It doesn't feel good doc.
+DOCTOR: Okay.  Well so on the ultrasound um it shows that there's a cyst there.
+PATIENT: Okay.
+DOCTOR: I don't see that it, so if it could have popped between now and then but when you had the ultrasound done on the 19th there was a cyst there.
+PATIENT: There was a cyst there.
+DOCTOR: Yes.
+PATIENT: And it bursted because they said that if the cyst was there they could go on in and draw the fluid out.
+DOCTOR: Sometimes.  It depends on how big it is and if it's not very big.
+PATIENT: Uh-huh.
+DOCTOR: Then you know sometimes the risk of the procedure doesn't weigh out the benefit.
+PATIENT: Okay we're cool.
+DOCTOR: But your body will eventually, you know.
+PATIENT: Okay I understand.
+DOCTOR: Take care of it on its own.
+PATIENT: But why, let me understand, why did they tell me it burst and fluid running down, that's why the pain in there because the fluid's pushing tissue?
+DOCTOR: I'm not sure.
+PATIENT: You see?
+DOCTOR: I can't answer that.
+PATIENT: Right, you see and it wasn't necessary to tell a story about that you know and I have to be concerned about my health now you know.  So I'm not trying to put you in the ballgame here, I just want fair answers.
+DOCTOR: Okay.
+PATIENT: That's all you know anyway.
+DOCTOR: You're entitled to fair answers.
+PATIENT: Right.
+DOCTOR: Okay, so you taking anything for the pain?
+PATIENT: I was taking Tylenol and then codeine with Tylenol before I went to bed but I don't have any more.  See I'm not working, I'm unemployed, I can't afford it so usually DOCTOR was providing a prescription for me.
+DOCTOR: So even before you would come in you were taking the Tylenol.
+PATIENT: Right.
+DOCTOR: Not the pain medications.
+PATIENT: No I didn't have any then.  I came in right away when it started pain.
+DOCTOR: And how often are you taking them?
+PATIENT: Don't have anymore.
+DOCTOR: But when you were, when you did have them how often were you taking them?
+PATIENT: Uh well as needed.
+DOCTOR: Okay.
+PATIENT: I guess that's not saying much is it uh I would say.
+DOCTOR: Once a day?
+PATIENT: Once a day, once a day as far as the codeine because of the pain.
+DOCTOR: Okay.
+PATIENT: And when I was walking today I was taking them during the daytime so yes.  The Tylenol with codeine I was taking about I'd say every other, maybe every two days.
+DOCTOR: Okay.
+PATIENT: And I was taking them at night.
+DOCTOR: Did they make you sleepy?
+PATIENT: Yeah buddy.
+DOCTOR: Yeah.
+PATIENT: Some good sleep.
+DOCTOR: Okay how are you doing on your other medications?
+PATIENT: I ran out of my finasteride.
+DOCTOR: Okay.
+PATIENT: I called it in but I still haven't got any yet so and all the rest of them are low.
+DOCTOR: Okay so are they sending you the finasteride then?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: But I don't have any yet.  I didn't take none this morning so.
+DOCTOR: Okay.
+PATIENT: They said I called it in, I just didn't have any so I called again on Monday and they said five to seven days so I [REDACTED] till then.
+DOCTOR: Okay if not we can have you.
+PATIENT: Yes please.
+DOCTOR: You want to pick it up here?
+PATIENT: Yes please.
+DOCTOR: Okay.  It looks like um you're terazosin.
+PATIENT: Terazosin.
+DOCTOR: You still have two more refills on that.
+PATIENT: Okay.
+DOCTOR: And your amlodipine.
+PATIENT: Amlodipine.
+DOCTOR: You have two more refills on that.
+PATIENT: Okay.
+DOCTOR: And those are, they give you a 90 day supply so that's a six month supply.
+PATIENT: Okay, okay.
+DOCTOR: Uh your albuterol/ipratropium inhaler you still have seven refills.
+PATIENT: Right, right.
+DOCTOR: Okay.  Two refills on the lisinopril.
+PATIENT: Okay.
+DOCTOR: Um.  Do you take regular Tylenol?
+PATIENT: Yes.
+DOCTOR: Okay.  You're out of that it looks like.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And I need some, I need my Levitra, I need to keep them coming you know please.
+DOCTOR: Okay.  So I'll renew it.  It looks like you still have three refills.
+PATIENT: Okay.
+DOCTOR: So that they, that's not something you can pick up at the window.
+PATIENT: Right.
+DOCTOR: You have to call.
+PATIENT: Right.  You know doc I got to tell you something else that I have.
+DOCTOR: Okay.
+PATIENT: I have at tingling in my toes.
+DOCTOR: Okay.  How long have you had that for?
+PATIENT: Maybe a couple of months now.
+DOCTOR: Okay.
+PATIENT: And I just realized it.  I feel like that.  It's just right at the tip, right at the tip of these toes here, it's just.  Not numb, now don't get me wrong now but you know just a little tingle.  Not pain, don't get me wrong.  It's not pain, it's not uncomfortable.
+DOCTOR: Okay.
+PATIENT: But I know that's a funny feeling there.  I don't know why is that old age also?
+DOCTOR: No um so is it on both feet?
+PATIENT: No usually the right toes, the right toes.
+DOCTOR: And you didn't injure them at all?
+PATIENT: No.
+DOCTOR: Okay and is it all day?
+PATIENT: Pardon me?
+DOCTOR: Does the tingling last all day?
+PATIENT: All day.
+DOCTOR: There's nothing that you can do that makes it go away?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: If it could kiss it maybe (laughter).
+DOCTOR: And have you looked at your toes to see if there's any?
+PATIENT: Yes.
+DOCTOR: And you don't see anything.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Just a tingle.
+DOCTOR: And do you have any tingling anywhere else?
+PATIENT: No, no.
+DOCTOR: Any sharp shooting pain? [REDACTED] legs?
+PATIENT: No, no, no, no.
+DOCTOR: Anywhere okay.
+PATIENT: No, no.
+DOCTOR: Just there.
+PATIENT: Right.
+DOCTOR: Let's take a look.
+PATIENT: Okay.  In that seat?
+DOCTOR: Yes.
+PATIENT: Like right about here so you know.  I mean just the tip of right in there you know.
+DOCTOR: Here?
+PATIENT: Uh-huh. Don’t hurt me.
+DOCTOR: I won't.  Close your eyes for me.
+PATIENT: Okay.
+DOCTOR: And I want you to tell me if I'm moving your toe up or down.
+PATIENT: Okay.  Up, down.
+DOCTOR: Okay.
+PATIENT: Yeah it was like when you did that, I also [REDACTED] also [REDACTED] like the body of it you know.
+DOCTOR: Okay.  Close your eyes again.
+PATIENT: Okay.
+DOCTOR: Tell me when I'm touching you.
+PATIENT: You are touching me, big toe, little toe, you're touching, touching, touching.
+DOCTOR: Where am I touching?
+PATIENT: Top.
+DOCTOR: Okay.
+PATIENT: Top.
+DOCTOR: Okay.
+PATIENT: Touching the foot part.
+DOCTOR: Is it painful here?
+PATIENT: No, nothing.
+DOCTOR: When I push on, it doesn't hurt?
+PATIENT: No it does not hurt; it's just a tingle about it, just a tingle.
+DOCTOR: Okay and it doesn't ever happen in your left side?
+PATIENT: No.
+DOCTOR: Okay.  And you have plenty of room in your shoes?
+PATIENT: Yes.
+DOCTOR: Okay and all toes.
+PATIENT: [REDACTED], you see it's not like that, it just in these two toes right here.
+DOCTOR: Mostly these two toes.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: And that nail just got like that, pardon that.
+DOCTOR: Pardon?
+PATIENT: This nail you it just, you know just like.
+DOCTOR: Okay.
+PATIENT: That it, thank you.
+DOCTOR: Okay you just had your cholesterol test done so you want me to write down the numbers for you?
+PATIENT: Please.  Like I said my main problem has been just my doggone knee man, so I guess I just have to wear a brace and work on getting young again right?
+DOCTOR: Okay so here are the numbers.
+PATIENT: Okay.
+DOCTOR: The left side are your numbers and the right side are the goals.
+PATIENT: My cholesterol.
+DOCTOR: Correct.
+PATIENT: Okay.  These are good numbers?
+DOCTOR: They are good numbers.
+PATIENT: Thank you.
+DOCTOR: And compared to, do you want me to write down your old ones?
+PATIENT: No.
+DOCTOR: Okay.  Your bad cholesterol compared to the last time it was checked is a little bit better.
+PATIENT: Okay.
+DOCTOR: And okay, are you still smoking cigarettes?
+PATIENT: I never was much of a smoker so I don't know why they have that there.
+DOCTOR: Okay.  Well they have weekly that you smoke.
+PATIENT: Occasionally is more like it okay.
+DOCTOR: And alcohol on weekends?
+PATIENT: Occasionally.
+DOCTOR: Okay um, other drugs occasionally?
+PATIENT: Occasionally.
+DOCTOR: Which drugs?
+PATIENT: Cocaine.
+DOCTOR: What's your method?
+PATIENT: Pardon me?
+DOCTOR: Method?
+PATIENT: Smoke.
+DOCTOR: Okay.  Any interest in cutting back on any of this?
+PATIENT: Well I don't do it that much, if I cut back then it would be all together, that's just how frequent it is okay.
+DOCTOR: Okay.
+PATIENT: It's not like its.
+DOCTOR: Well as your physician.
+PATIENT: I understand.
+DOCTOR: I would prefer that you would not do it.
+PATIENT: But [REDACTED] either.
+DOCTOR: I understand, I appreciate that.
+PATIENT: Okay.
+DOCTOR: If you're going to use your Levitra I would not, I would suggest that you don't use cocaine anytime around that period.
+PATIENT: Right, right, right, right, right, right so.  And then when I do that, that's just like maybe on New Year's, you know 4th of July, something like that.  Just when the Super Bowl you know when the guys.
+DOCTOR: Special occasions.
+PATIENT: Right you know and then it's not like a all night affair.
+DOCTOR: Okay.
+PATIENT: You know.  I love my, I know how important my health is okay.
+DOCTOR: Uh-huh.
+PATIENT: So but then that's just the thing because I'm not gonna lie to you you know.  I'm not a heavy user or anything.
+DOCTOR: Okay.  So everything else looks okay.  Your blood pressure looks good.
+PATIENT: Uh-huh.
+DOCTOR: Your cholesterol looks good.  Um your kidneys got slightly worse but we're still, there's nothing that we would do differently.
+PATIENT: Uh-huh.
+DOCTOR: As far as the management on it.
+PATIENT: Uh-huh.
+DOCTOR: The main thing is to; the medications you take help prevent your kidneys from getting worse.
+PATIENT: Good. Which medicine?
+DOCTOR: The lisinopril?
+PATIENT: Is that right?
+DOCTOR: It's good for your blood pressure and it also helps protect your kidneys.
+PATIENT: Good but that's the thing I drink a lot of water.
+DOCTOR: Okay.
+PATIENT: I do, I mean I do it every day.  I drink a lot of water.  It doesn't, not gonna work against me is it?
+DOCTOR: No.
+PATIENT: Okay good.
+DOCTOR: Okay and then you had a colonoscopy in 2006.
+PATIENT: Yeah.
+DOCTOR: And it was normal so we don't have to repeat it and then you saw the urologist in February and they said just follow up in one year.
+PATIENT: Okay.  Now I got a question to ask you cause see.
+DOCTOR: Uh-huh.
+PATIENT: When I saw the urologist last, he said I got kind of scared there because I had to go back for my what's that reading called, the P.
+DOCTOR: You had the ultrasound and you had the biopsy.
+PATIENT: Yeah but it's a reading that that of the prostate.
+DOCTOR: The PSA?
+PATIENT: PSA okay.
+DOCTOR: Okay.
+PATIENT: And so like they were checking on that you know to see if I had cancer or not cause it was kind of high then I think you know.  But now I ask you this, even though you're not a urologist.
+DOCTOR: Uh-huh.
+PATIENT: I've heard that there's a cure for prostate cancer.
+DOCTOR: There's treatment for it.  You can do surgery, you can do radiation and you can get chemotherapy depending on um how bad it is, where it is.
+PATIENT: Oh okay.
+DOCTOR: On what needs to be done.
+PATIENT: But mine being in the position where like it's being checked on.
+DOCTOR: Uh-huh.
+PATIENT: It shouldn't get that far gone.
+DOCTOR: Correct.
+PATIENT: I mean all I have to do is just kind of let you know what's happening right.
+DOCTOR: Right, so what happens is that in general we um we used to use the PSA test.
+PATIENT: Uh-huh.
+DOCTOR: More so we found over the recent years that it's not a great screening test for prostate cancer.
+PATIENT: Okay.
+DOCTOR: Unlike colon cancer you know where you can go and look with a camera.
+PATIENT: Uh-huh.
+DOCTOR: And you can see and you can take out a polyp right away.
+PATIENT: Uh-huh, uh-huh.
+DOCTOR: Um you know the PSA is just a blood test.
+PATIENT: Right.
+DOCTOR: So um you know there are patients who have a low PSA.
+PATIENT: Uh-huh.
+DOCTOR: With prostate cancer, there’s patients with a high PSA and have prostate cancer so it's not a great test.
+PATIENT: Okay.
+DOCTOR: So that's why, when it's high um you know you kind of have to weigh the risks and benefit of doing a biopsy.
+PATIENT: Okay, okay, okay.
+DOCTOR: Or if you want to go down that route.
+PATIENT: Okay.
+DOCTOR: But sometimes prostate cancer can be very slow growing and so just the fact that we now have this test.
+PATIENT: Uh-huh.
+DOCTOR: And we're checking earlier.
+PATIENT: Uh-huh.
+DOCTOR: Um it doesn't necessarily mean that we're improved.  Changing the duration of your life per say.
+PATIENT: Uh-huh, uh-huh.
+DOCTOR: It just means that we're being more invasive about how we check things and how we do things.
+PATIENT: You see it's like, see my father died of prostate cancer.
+DOCTOR: How old was he?
+PATIENT: 69.
+DOCTOR: Okay.
+PATIENT: Okay and uh the reason being [REDACTED] I was just so very angry with the VA you know and it was a long time before I trusted the VA or even got seen.  He was at Hines.
+DOCTOR: Uh-huh.
+PATIENT: And they knew he had cancer and sent him to the county.
+DOCTOR: Okay.
+PATIENT: And that wasn't fair and I detested the VA for that you know.  Never trusted them again but I mean I'm okay with that now you know because that's years gone back, I need the VA care and all that but if I didn't like the VA I'd go to the county, you know what I mean.
+DOCTOR: Right.
+PATIENT: But because I want to go where I'm comfortable.
+DOCTOR: Okay.
+PATIENT: See.  Excuse me [REDACTED] and I'm comfortable here with [REDACTED] doctor has given me you know but this is just something I will never forget and the trust had to be I mean like I just didn't trust them but I'm okay now.  You know I explained that to the other doctors you know.
+DOCTOR: Okay.
+PATIENT: So they were wrong for doing that to my father so and anyway.
+DOCTOR: So you're being, I mean given that it runs in your family um then you know they're watching you more carefully.
+PATIENT: Okay, okay, right.
+DOCTOR: Typically you know 69 is still um, it's not unreasonable for somebody to have prostate cancer at that age.
+PATIENT: Uh-huh.
+DOCTOR: It's you know cause everybody's living longer now.
+PATIENT: Right.
+DOCTOR: If you live long enough you'll eventually get some form of cancer.
+PATIENT: Right, right.
+DOCTOR: Somewhere.
+PATIENT: Right, right, right, right.
+DOCTOR: Um but in your case the urologist just wants you to check in with them every year, we'll get that test done.
+PATIENT: Okay good, good, good.
+DOCTOR: So I'm sure they told you but your prostate biopsy was negative.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Yes.  Yes.  Okay.
+DOCTOR: Okay so um, let's see [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: How are your allergies?
+PATIENT: I was going to ask you [REDACTED] have a little rash up in here or something.  Some cortisone cream.
+DOCTOR: Uh-huh.  Okay take a deep breath for me and out again.  Sounds good.  Lay down for me.  Does it hurt when I push on your knees?
+PATIENT: Somewhat.
+DOCTOR: Okay what about back here?
+PATIENT: Somewhat I can feel it.
+DOCTOR: Does it feel like pressure?
+PATIENT: Yeah pressure, I can feel the pressure but the pain is on a scale of one or two.
+DOCTOR: We'll look at this.
+PATIENT: And you can see doctor this knee is still swollen.
+DOCTOR: (Pt. shifts position) No that's okay.
+PATIENT: Right in there where.
+DOCTOR: Right here where I'm pushing?
+PATIENT: Right.
+DOCTOR: Yeah, I still feel a cyst there.
+PATIENT: Okay.
+DOCTOR: Usually in here, give me your hand, can you feel behind your leg.
+PATIENT: Uh-huh.
+DOCTOR: That little, it gives a little.
+PATIENT: Oh okay.
+DOCTOR: And when you feel behind your right leg.
+PATIENT: Okay, okay, right, right, right.  So the cyst is there.
+DOCTOR: Uh-huh.
+PATIENT: Okay, okay, okay, alright.
+DOCTOR: Yeah I agree.  There's nothing we would do in terms of draining it.
+PATIENT: Okay.
+DOCTOR: Your body will naturally absorb the fluid.
+PATIENT: Okay.
+DOCTOR: It will go away.
+PATIENT: [REDACTED].
+DOCTOR: How long that takes, everyone's different.
+PATIENT: Oh okay.
+DOCTOR: Yeah so you know you could have it for a while and it could be gone in a few weeks.
+PATIENT: Oh okay.
+DOCTOR: It's hard to say.
+PATIENT: Okay well doc you know what, I see I do exercise a lot.
+DOCTOR: Okay.
+PATIENT: But yeah I do the treadmill.  I don't go fast; you know I don't run, because I can't run no way.  I go at a steady pace and then for about, I do it for 20 minutes.  Okay the first 10 minutes I'm like this okay and then for like the next five minutes, which [REDACTED] I turn it up two notches but then the last five minutes I decrease.
+DOCTOR: Okay, so is it making the pain worse when you do that?
+PATIENT: No.
+DOCTOR: It doesn't bother you at all?
+PATIENT: No, no.
+DOCTOR: Okay.
+PATIENT: No and then when I get off then here come the pain again.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: Um.
+PATIENT: But now they have a little cycle you know.
+DOCTOR: Yeah.
+PATIENT: I do that but slow.
+DOCTOR: Okay.
+PATIENT: You know is that okay?
+DOCTOR: Yeah I mean its all okay.  It could be though that you know all the exercise you're doing with the bending of the knee could be irritating it a little bit so it's making it harder for the, you know for the fluid to reabsorb.  So you might want to lay off of it for a few weeks and see if it doesn't go down.
+PATIENT: So leave the treadmill alone.
+DOCTOR: Um well it's better to do a sitting bike.
+PATIENT: Like I have been.
+DOCTOR: Although the biking is still, you're still gonna be moving your knee.
+PATIENT: Okay so now they have two kinds.  The have the type with the bicycle one like this.
+DOCTOR: Uh-huh.
+PATIENT: And then they have a cycle to go like this.
+DOCTOR: The cycle sitting, laying would be better.
+PATIENT: Okay.  No pain.
+DOCTOR: Um at least until this heals a little bit uh but you're still, it means you're still gonna have the constant motion on.
+PATIENT: On the treadmill.
+DOCTOR: Can you swim at all?
+PATIENT: Can I swim?
+DOCTOR: Yeah.
+PATIENT: I don't have a swimming pool to go to.
+DOCTOR: Yeah okay.
+PATIENT: So stay off the treadmill.
+DOCTOR: So let's try it for a few weeks and see if it doesn't help decrease the fluid in there.
+PATIENT: But pick up the cycling.
+DOCTOR: If you want to do exercise, try doing the cycle where you're sitting down.
+PATIENT: Okay.
+DOCTOR: Okay and or you could try doing other things with your arms or [REDACTED].
+PATIENT: I do.
+DOCTOR: And do that instead.
+PATIENT: I was thinking of what [REDACTED].
+DOCTOR: No weights on the legs though.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Okay.  Okay.
+DOCTOR: Let's give the leg a rest.
+PATIENT: Okay.
+DOCTOR: And see if it doesn't improve.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: You can sit up.
+PATIENT: Okay.
+DOCTOR: Okay, just give me a few minutes I'll be right back.
+PATIENT: Okay.
+DOCTOR: Okay.
+(DOCTOR OUT:  64:40  DOCTOR IN:  77:48)
+DOCTOR: Hello.
+PATIENT: Hello there.
+DOCTOR: How are you today?  I'm DOCTOR.
+PATIENT: Nice to meet you DOCTOR.
+DOCTOR: That's a strong handshake you got there.  I [REDACTED] to introduce myself. So it's the left knee that bothers you?
+PATIENT: The left knee yes.
+DOCTOR: Okay.  Can I look at it?
+PATIENT: Sure excuse me.
+DOCTOR: Where does it hurt, is it just all the way across, around?
+PATIENT: Yes.
+DOCTOR: And they noted the calcifications on the lateral side right?
+DOCTOR: Posterolateral.
+DOCTOR: Can you straighten your leg out for me.  Well at any rate it doesn't look like anything that was serious.  It [REDACTED] ligamentous or calcified loose body so I don't think that's anything to be worried about but it could be causing some discomfort okay.  I don't.
+DOCTOR: I mean it's very small but if you compare it and feel it on the right knee you'll feel that.
+DOCTOR: Yeah.
+DOCTOR: [REDACTED]
+DOCTOR: It almost feels fatty.
+PATIENT: Fatty.  Nobody's ever said it's just fat.
+DOCTOR: No it's probably fluid, but that's what it feels like yeah.  It's not actual fat, it’s fluid in here.
+PATIENT: Okay.
+DOCTOR: You can feel when I'm touching it.
+PATIENT: Yes.
+DOCTOR: But it feels very fatty.  It's fluid.
+PATIENT: But its fluid.
+DOCTOR: That's the way cysts happen I mean yeah.
+PATIENT: Okay.
+DOCTOR: Like no that fluid, would not run down, you know its inside and it would not ever.
+PATIENT: No kidding, why did they tell me that?
+DOCTOR: I don't know, that was kind of a silly thing to say to you.  That's not, I mean I don't know exactly what they said but.
+PATIENT: Okay, okay.
+DOCTOR: But it's [REDACTED].
+PATIENT: No I understand that.
+DOCTOR: But the other thing is do you eat a lot of foods that are high in potassium like green leafy vegetables [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Well the only thing is your potassium is a little too high.
+PATIENT: It going too high?
+DOCTOR: Yeah so maybe we could back down a little bit.
+PATIENT: Okay now what food has potassium in it, I have to watch that right?
+DOCTOR: Yeah.
+PATIENT: Cause I ate about four bananas yesterday.
+DOCTOR: Yeah so not too much.  That's what I'm saying is potassium is good for you but too much of it can affect your heart because that potassium can affect, is part of the cycle the heart rate [REDACTED] uh is affected by potassium, sodium, things all found in food.
+PATIENT: Okay.
+DOCTOR: So that can actually, if it gets too high… actually it.
+PATIENT: So now I have to go look up what foods have high potassium, there you go thank you very much.
+DOCTOR: I might have something here.
+PATIENT: Because I had a test done to see how my potassium was.
+DOCTOR: And I want to recheck it today so that was in February so I'll make sure it's still not going up.
+DOCTOR: [REDACTED].
+PATIENT: And then I won't see you no more for about.  Well I'll tell you what, why don't I take a test about a couple weeks before I come back in again, by that way we can tell.  If you check it now I'll have to come back in four or five months.
+DOCTOR: Oh but it's high now.
+PATIENT: Oh.
+DOCTOR: We'll have to make adjustments to your medications.
+DOCTOR: For some things that's a good idea but if we're worried about what it is today we should probably have it.
+PATIENT: Okay.  Alright.
+DOCTOR: So this is a list of high potassium foods so you should avoid those things.  Just nothing in excess, so just don't go over the top.
+PATIENT: Over the top.
+DOCTOR: [REDACTED]
+PATIENT: Potatoes?  I love potatoes.
+DOCTOR: Well just not too much of.
+PATIENT: Just not all the time.
+DOCTOR: Just watch them.
+PATIENT: Okay.
+DOCTOR: Yeah.  [REDACTED] as soon as you can and I mean if it comes back down you know you can.
+PATIENT: Okay, so.  I’m just being sarcastic, I'm gonna follow your direction.
+DOCTOR: And you, it sounds like you’re eating a lot of these.
+PATIENT: Yes.
+DOCTOR: So if back down a little for long and we'll see how it goes.
+PATIENT: Okay, okay, okay.
+DOCTOR: The foods are perfectly okay.
+PATIENT: Okay.
+DOCTOR: It just so happens that there was too much potassium.
+PATIENT: Okay I can do that.
+DOCTOR: Okay I think DOCTOR's got a good plan for you.
+PATIENT: Thank you.
+DOCTOR: It was nice meeting you.
+PATIENT: Likewise.
+DOCTOR: I'm not shaking your hand again that hurt.
+PATIENT: Not true, don't go there now.
+DOCTOR: Okay so your blood pressure's well controlled on the lisinopril and amlodipine.
+PATIENT: Okay.
+DOCTOR: We're going to recheck your labs today so why don't you go to the Lab first and hopefully then by the time you get everything else done your number will be back and I'll talk to you before you leave today.
+PATIENT: Okay now okay.  Am I gonna pick up anything at the Pharmacy?
+DOCTOR: Yeah you're gonna pick up your Tylenol #3.
+PATIENT: Okay well then I'm gonna do that for, but that's while I'm going to the Lab.
+DOCTOR: Okay.
+PATIENT: See I just go check in.
+DOCTOR: Oh the Pharmacy okay, go to the Lab and then.
+PATIENT: No I go to Pharmacy.
+DOCTOR: Pharmacy.
+PATIENT: Then I go to the Lab.
+DOCTOR: And then go to Prosthetic upstairs to pick up your knee brace.
+PATIENT: I don't know what Prosthetic is [REDACTED].
+DOCTOR: It's either on the fourth or the fifth floor of the Damon Building.
+PATIENT: Could you write that down for me please?  They know I'm coming?
+DOCTOR: Yep I put the order in.  Damon side so you go past the ER, all the way to the end then take the elevators up.
+PATIENT: Up to the.
+DOCTOR: It's fourth or fifth.  There'll be a sign that says Prosthetics.
+PATIENT: Will you write that down please.
+DOCTOR: [REDACTED] alright.  So by the time you do these things then your lab should be back and then come sit in the Waiting Room and tell them that you're back.
+PATIENT: Okay.
+DOCTOR: Okay and then I'll come out, I'll look at your lab and I'll come out and tell you what is our plan.
+PATIENT: So I go to the Pharmacy, I go in the Lab.
+DOCTOR: And then you go to Prosthetics.
+PATIENT: I go to Prosthetics and then I come back down here.
+DOCTOR: Yes.
+PATIENT: I'll be back.
+DOCTOR: Okay.
+PATIENT: Thank you very much.
+DOCTOR: You're welcome.
+PATIENT: You want me to close the door?
+DOCTOR: Just leave it open.
+PATIENT: 83:57.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275395
+TRANSACTION # 578-10-2-316-0103

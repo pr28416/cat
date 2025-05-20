@@ -1,0 +1,96 @@
+DOCTOR: What brings you in?
+PATIENT: I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had this like sore throat as well over the last several days.
+DOCTOR: OK, so did the rhino start first or the nasal obstruction?
+PATIENT: Yeah, they they kind of started it around the same time.
+DOCTOR: OK, and when was that?
+PATIENT: About four days ago.
+DOCTOR: Four days ago. And then when did the sore throat start?
+PATIENT: Uh, yeah, that started about two days ago.
+DOCTOR: Two days ago, OK. And and the, uh discharge is it is it clear? Or are you seeing colors?
+PATIENT: It's pretty clear and watery.
+DOCTOR: So you're not seeing anything yellow, green or bloody?
+PATIENT: No, not nothing like that. I haven't seen any yellow, green or or bloody.
+DOCTOR: OK and then your sore throat. Is it making it hard for you to swallow solids and fluids?
+PATIENT: No pain with swallowing, just can kind of feel it there.
+DOCTOR: Yeah, any coughing?
+PATIENT: Yeah, actually I started to have a bit of a cough. Uh, just this past day it's it's just started.
+DOCTOR: Is it a dry cough or is it a wet cough?
+PATIENT: It's dry.
+DOCTOR: It's dry, OK. So you're not bringing up any sputum or blood?
+PATIENT: No sputum or or blood.
+DOCTOR: OK good. And and then any shortness of breath?
+PATIENT: No.
+DOCTOR: No, any wheezing?
+PATIENT: No.
+DOCTOR: No wheezing, OK. Any chest pain?
+PATIENT: No.
+DOCTOR: No, um, any fainting spells or dizziness?
+PATIENT: No.
+DOCTOR: No, OK. And then any changes in your vision or hearing?
+PATIENT: No.
+DOCTOR: Any changes to your smaller taste?
+PATIENT: No.
+DOCTOR: OK. And any weight loss?
+PATIENT: No, it's been stable.
+DOCTOR: OK, how about fevers?
+PATIENT: No, I don't think I've had a fever.
+DOCTOR: No, OK. Uh, chills or night sweats?
+PATIENT: No.
+DOCTOR: No, OK. Uhm, any rashes?
+PATIENT: No.
+DOCTOR: No, OK. Uhm, and then any changes in your bowel movements?
+PATIENT: No, I haven't had any diarrhea or, or constipation. Nothing like that.
+DOCTOR: OK and nausea or vomiting?
+PATIENT: No.
+DOCTOR: No, OK. And then how about abdominal pain?
+PATIENT: No abdominal pain.
+DOCTOR: OK, any changes in your urine?
+PATIENT: No, no pain with urination.
+DOCTOR: OK, how about uhm gassiness or bloating?
+PATIENT: No, I haven't felt anything like that.
+DOCTOR: OK, headaches?
+PATIENT: Yeah, I have had a bit of a headache. I felt kind of like a a pressure of, well, I felt kind of like a pressure in my face and a headache.
+DOCTOR: OK. Uhm pressure in your face and a headache, OK. And do you normally get these?
+PATIENT: Wait, no, I think I get headaches when I'm sick or I don't don't sleep well. And I mean I, I have been feeling pretty fatigued the last few days and, uh, yeah.
+DOCTOR: Yeah. Is it the worst headache you've ever had?
+PATIENT: No, there, it's pretty mild, it's just kind of annoying 'cause it's still there.
+DOCTOR: Yeah, for sure. Uhm, alright. And then any muscle aches or joint pains?
+PATIENT: No, nothing like that.
+DOCTOR: No, OK, good. And are you otherwise healthy or do you have any longstanding medical conditions?
+PATIENT: I'm healthy, I haven't had any any conditions.
+DOCTOR: OK, that's good. Have you been hospitalized for anything? Have you ever needed surgeries?
+PATIENT: No, I haven't.
+DOCTOR: OK, that's good. And are you on any medications?
+PATIENT: No medications.
+DOCTOR: Alright, that's good, and then I'm are your immunizations up to date?
+PATIENT: They are, yes.
+DOCTOR: OK, any allergies?
+PATIENT: No allergies.
+DOCTOR: OK. Any of your family, history of lung or heart conditions?
+PATIENT: No. No. Everyone in the family is healthy.
+DOCTOR: OK, do you smoke?
+PATIENT: Nope, I don't.
+DOCTOR: How about recreational drugs?
+PATIENT: No. Well, I I use like I'll have a joint every once in awhile, like socially with friends, but uh, that's I mean, maybe a couple of times per month.
+DOCTOR: OK, OK, how about alcohol? Do you drink?
+PATIENT: Yeah, I'll have uhm, like I don't know, a few beers on the weekend maybe so I don't know, maybe like four or five drinks per week.
+DOCTOR: OK. And then have you been in contact with anyone sick recently?
+PATIENT: No, I am. I don't, I don't think so. I live, uh, in a student house, though, with that like four other people.
+DOCTOR: Oh, I see.
+PATIENT: Yeah, just finishing up some school here in town.
+DOCTOR: OK, and had they been sick at all or had similar symptoms?
+PATIENT: I think one of the guys last week had I had a little bit of a cough. And I don't know that yeah, said he wasn't wasn't feeling well.
+DOCTOR: OK, OK, and have you traveled anywhere recently?
+PATIENT: No, been been just at home.
+DOCTOR: OK, Alright, no travel. And where do you live right now?
+PATIENT: So I, I just live in a student house with a.
+DOCTOR: Oh yeah, sorry, you said that.
+PATIENT: Oh, no problem.
+DOCTOR: I guess I'm trying to get at. Uh, are there any old carpets you know reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse?
+PATIENT: It's mostly like hardwood or like kind of ceramic flooring so there aren't many carpets and things like that, so I guess no.
+DOCTOR: No. OK, alright and those were kind of all the questions that I had. Did you have anything to add or anything you wanted to discuss today?
+PATIENT: No, I was just I. wondering what might be going on. It's been a few days.
+DOCTOR: Yeah, for sure uhm so it sounds like you may have a viral infection, and because your symptoms overlap with those of Covid, we will do a Covid swab on you just to rule that out. Uhm, but from the sounds of what your symptoms are, it, it is most likely to be a common cold, in which case you can just manage it with a lot of hydration, nutrition, good sleep. But if your symptoms get worse or they're not going away after a couple of weeks, or you're having neurological deficits like weakness or seizures, you should get help from the ER. Does that sound OK?
+PATIENT: Yeah, for sure I haven't had any any symptoms like that, so so far, so that's good.
+DOCTOR: Yeah for sure. Alright, take care.
+PATIENT: Take care, thank you.

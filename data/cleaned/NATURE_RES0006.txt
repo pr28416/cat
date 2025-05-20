@@ -1,0 +1,104 @@
+DOCTOR: What brings you in to see us?
+PATIENT: So I've just been having this cough that I feel has just been getting worse, and I've also been feeling a bit short of breath for the last few months.
+DOCTOR: OK, could you tell me when the cough started?
+PATIENT: So I would say it started around two months ago.
+DOCTOR: OK, and has the cough been dry or have you been bringing up sputum?
+PATIENT: Uh, it's usually always, uh, produces like the sputum, and it's usually white or yellowish in colour.
+DOCTOR: OK, and how much sputum are you producing each day? Some, sometimes it's useful to think about like teaspoons or tablespoons.
+PATIENT: I would say every time I cough like a teaspoon I probably have like. I don't know. Maybe 5 to 10 teaspoons a day.
+DOCTOR: Uh OK, and is there any particular time of day that the cough is worse?
+PATIENT: Um, not really. It's pretty, pretty much the same. Sometimes it is worse in the morning. Yeah, and sometimes it gets better when I go out for a smoke.
+DOCTOR: OK um. And have you noticed any blood?
+PATIENT: No, um I haven't noticed any blood.
+DOCTOR: OK, and have you had, so you had shortness of breath, when did that start?
+PATIENT: It's around two months ago, around the same time.
+DOCTOR: OK, And. Is this? Do you have shortness of breath at rest or is it when you exert yourself?
+PATIENT: Uh, it's it can happen like at anytime, but worse when I am exerting myself.
+DOCTOR: OK and then have you had a cough before?
+PATIENT: Uh. Not as frequently. I would say not really, it just started in the last two to three months.
+DOCTOR: OK, and have you had shortness of breath like this before?
+PATIENT: Just throughout my life I've had asthma so when I am exercising too much or get exposed to like dust, sometimes get shortness of breath.
+DOCTOR: OK. Has there been anything, um besides exerting yourself, that's made that either the cough or or shortness of breath worse?
+PATIENT: Uh, over the last year like I've had a couple of chest infections. After going to the ER, they gave me some antibiotics. But yeah, when that happens it usually gets worse. The shortness of breath and the cough.
+DOCTOR: OK, and uh, do your symptoms feel like any of those times right now?
+PATIENT: No, I I don't feel like I have a fever and no other symptoms, just the shortness of breath and cough.
+DOCTOR: OK, and have you been doing anything that's made it better?
+PATIENT: I've been taking some Tylenol Cold, hasn't really helped too much. I've tried my inhalers, they sometimes help, but I've never had have this frequent of coughing and shortness of breath before.
+DOCTOR: OK, um, and how has your energy been? Have you been experiencing fatigue?
+PATIENT: Um, when it gets really bad then I can't really step out of the house, but other than that I feel like my energy's still there.
+DOCTOR: OK and you have it, have you had any fevers or chills?
+PATIENT: No.
+DOCTOR: OK, how about at a loss of smell?
+PATIENT: No.
+DOCTOR: Um a loss of taste?
+PATIENT: Nope.
+DOCTOR: OK, and have you had any chest pain?
+PATIENT: No, just sometimes when I'm like coughing a lot it gets a little bit uncomfortable. But other than that, no.
+DOCTOR: OK, um have you had any instances where you felt like your heart was racing?
+PATIENT: No.
+DOCTOR: OK, how about being lightheaded or or like you were going to pass out?
+PATIENT: No.
+DOCTOR: OK, have you had a runny nose or or a sore throat?
+PATIENT: Nope.
+DOCTOR: OK, and how about headaches?
+PATIENT: No headaches.
+DOCTOR: Alright, and have you had any wheezing?
+PATIENT: Um, sometimes I've noticed it, but I had it before. Like with asthma as well, but not not that much.
+DOCTOR: OK, and how about abdominal pain?
+PATIENT: No abdominal pain.
+DOCTOR: Alright, then any urinary problems?
+PATIENT: Nope.
+DOCTOR: Any bowel problems?
+PATIENT: No.
+DOCTOR: Any rashes?
+PATIENT: Nope.
+DOCTOR: OK, and then how about any muscle aches or or joint aches or or body aches?
+PATIENT: No, nothing like that.
+DOCTOR: Alright. And you mentioned asthma, but have you been diagnosed with any other medical conditions?
+PATIENT: No, just asthma.
+DOCTOR: OK, and do you use inhalers? Are there any other medications you're currently using?
+PATIENT: Oh no, just the salbutamol and like the steroid inhaler.
+DOCTOR: OK, yeah, and how often are you using both of those?
+PATIENT: So the steroid one I am using pretty much every day but the salbutamol I found I've been using a lot more recently. I would say probably at least six to 10 times in a week.
+DOCTOR: OK, um that reminded me I I forgot to ask. Have you notice any changes to your voice?
+PATIENT: Um no, not really.
+DOCTOR: OK um. And I was wondering if you had any allergies to medications?
+PATIENT: No, not that I know of.
+DOCTOR: Alright, and have you been in the hospital recently?
+PATIENT: No.
+DOCTOR: Alright, so when was the last time that you had antibiotics?
+PATIENT: I would say like six months ago.
+DOCTOR: OK and any surgeries?
+PATIENT: Nope.
+DOCTOR: OK, and did you get the flu shot this year?
+PATIENT: Yep.
+DOCTOR: OK, great um and I was wondering if you could tell me a little bit about your living situation.
+PATIENT: So I live in London um in a small apartment with my wife.
+DOCTOR: OK, do you have any pets around?
+PATIENT: No, no pets.
+DOCTOR: Alright, and um, any exposures at work too, like dust or any types of like chemicals like that.
+PATIENT: No, not really. My work is pretty much a desk job, so nothing like that.
+DOCTOR: OK, and do you smoke cigarettes?
+PATIENT: Yeah yeah, I smoke a lot of cigarettes just like I would say 30 cigarettes a day.
+DOCTOR: OK, and how long have you smoked for?
+PATIENT: I'd say, probably at least 25 years.
+DOCTOR: OK and sorry, could you remind me of your your age again?
+PATIENT: So I am 60 years old now.
+DOCTOR: OK, so you started smoking um around 35.
+PATIENT: Yeah yeah.
+DOCTOR: OK. Have you tried to quit?
+PATIENT: Yeah, tried to quit. I've even quite a couple times but then just got back onto it. Yeah, not not really ready to quit.
+DOCTOR: OK. That's fair enough. If there's something that you wanted to talk about quitting smoking at another appointment, we can arrange follow up for that.
+PATIENT: Alright
+DOCTOR: Do you drink alcohol?
+PATIENT: Not much, just out say one or two beers on the weekend.
+DOCTOR: Alright, and you use any recreational drugs like cocaine, crystal meth, or IV drugs.
+PATIENT: No, nothing like that.
+DOCTOR: Alright, and has anything similar like this happened in your family before?
+PATIENT: Uh, I think my um sister has a COPD, like she smokes a lot too. But that's that's about, I don't know if that's genetic.
+DOCTOR: Oh OK, um I. So I mean anybody in the family have cancers?
+PATIENT: Um no, not that I know of.
+DOCTOR: Alright um so, that that was all the questions that I wanted to ask on history. Was there any, uh, any other questions that you had?
+PATIENT: No, not really. Just wanted to get to the bottom of this.
+DOCTOR: OK for sure so um we will run some investigations and likely get a chest X Ray because it's been a couple of months that these symptoms have been going on for. But I think it could be related to your smoking and most likely um Bronc, chronic bronchitis, but we can definitely will be looking into this, and then also with possibly some pulmonary function tests as well.
+PATIENT: OK, sounds good.

@@ -1,0 +1,130 @@
+DOCTOR: PATIENT?  How you doing today sir?
+PATIENT: [REDACTED].
+DOCTOR: Yes, we are going to go in right here.  Okay have a seat.
+PATIENT: Just so you know, we being taped.
+DOCTOR: What’s that?
+PATIENT: We are being taped.
+DOCTOR: Okay, I mean you were not supposed to tell me that.
+PATIENT: Oh.
+DOCTOR: That’s alright.  Now you usually see DOCTOR [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Her schedule was full so.
+PATIENT: Okay, well yeah, I [REDACTED].
+DOCTOR: Right.
+PATIENT: [REDACTED] I have the surgery on the 16th.
+DOCTOR: Okay.
+PATIENT: They wanted me to come in.
+DOCTOR: Sure, sure.  I kind of read a little about it.  So, um, were you having any urinary symptoms at all?  Any um pain when you go to the bathroom, when you urinate?
+PATIENT: No.
+DOCTOR: Any increase in urination at all?
+PATIENT: Yea.  At night.
+DOCTOR: At nighttime.  Okay.  How long has that been going on for?
+PATIENT: It has been going on for a while.  I take the little prostrate pills.
+DOCTOR: Okay.  You take water pills as well right?
+PATIENT: You know what? I can’t find my water pill.  I need some water pill.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: You know what else I need? I need an asthma pump real bad.  My pump is out.
+DOCTOR: Oh your inhaler?
+PATIENT: Inhaler, yeah.  But you know, [REDACTED].
+DOCTOR: You have refills on all of this stuff.  All you have to do is call the pharmacy.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.  You can actually stop by the pharmacy and they will give you everything.  [REDACTED].  Okay.  And so the, the increase urinating at night has been going on for a while you said?
+PATIENT: They gave me them prostate pills.
+DOCTOR: Uh huh.
+PATIENT: So I been taking them now.
+DOCTOR: Any accidents at all where you couldn’t make it to the bathroom?
+PATIENT: Yeah.  Yeah.
+DOCTOR: Does that happen all of the time?
+PATIENT: No.  Just last night it happened.  It happened last night.
+DOCTOR: Has it been happening a lot or just once, that one time?
+PATIENT: No, ah, maybe two or three weeks maybe.
+DOCTOR: Okay.  And you said your surgery is on the 16th right?
+PATIENT: Hm hmm.
+DOCTOR: Um, any fevers or chills at home at all?
+PATIENT: Nope.
+DOCTOR: Okay.  Now, so we were discussing, so your urine, it grew a bacteria, was the reason that put up red flag [REDACTED] but your actual, your urinalysis, your urine was good itself.
+PATIENT: Okay.
+DOCTOR: Um we look at, you know we send it for culture which takes a few days and we also look at the results [REDACTED] few numbers.
+PATIENT: So everything is good then?
+DOCTOR: So, yeah, I think um, this bacteria doesn’t really mean you have a urinary tract infection because typically if somebody doesn’t have any symptoms of urinary tract infection like pain when they urinate and things like that, then we’re willing to say that’s just, you know bacteria that kind of either in the urine tract so then it can contaminate the cup even.  It doesn’t necessarily mean that we have to treat with antibiotics.
+PATIENT: Okay [REDACTED].
+DOCTOR: Okay.  So I think, that is just something that, they wanted you to [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: So I think you are doing well with that.  Any other problems at all?
+PATIENT: No.
+DOCTOR: There’s a bunch of stuff you guys talked about.  Did you get a chance to do your pulmonary function test yet?  I know you were probably busy doing the ENT stuff, but.
+PATIENT: The uh
+DOCTOR: The lung test?  Where they put like a thing around, you did it in 2008 at home time. Where they had you breathe in the machine and then it measures like your.
+PATIENT: Oh I did that.
+DOCTOR: You did that already?
+PATIENT: Yea I did that.
+DOCTOR: When was that done?
+PATIENT: Ah, a couple of weeks ago.  [REDACTED] three or four weeks ago.  Where they put you in the little tank thing and put the thing in there?  What you call that [REDACTED]?
+DOCTOR: Yeah.
+PATIENT: Breathing test or something?
+DOCTOR: Yup, exactly.
+PATIENT: She said it was alright.  [REDACTED].  They were supposed to change my inhalers but they didn’t though.
+DOCTOR: Ah, what do you mean change it?
+PATIENT: For the kind I use.
+DOCTOR: Oh, okay.
+PATIENT: This is the one I use.  Other than that, my blood pressure was kinda high today.
+DOCTOR: Yea, I am not sure.  It has been normal before.
+PATIENT: [REDACTED] this is what I been using.
+DOCTOR: Right.  You should continue using this one.
+PATIENT: Continue to use this?
+DOCTOR: Yeah.  And then you are supposed to take another one on top of that.
+PATIENT: Oh.
+DOCTOR: Mometasone.
+PATIENT: Okay that is one that I need then.
+DOCTOR: Yea, so you need to pick that one up.
+PATIENT: Okay.
+DOCTOR: They already ordered it for you.
+PATIENT: Okay, fine.
+DOCTOR: You can pick that up.  They work together.  They are two different ones okay.  So let’s see.
+PATIENT: They just want to make sure everything was cool before I had the surgery.
+DOCTOR: Exactly.
+PATIENT: And that’s cool, I’m glad they did that.
+DOCTOR: Yeah, I already [REDACTED].
+PATIENT: Right.
+DOCTOR: Yeah, we will keep you on the same for your blood pressure.  We will keep you on the same regimen for right now and then we will just continue to watch you and you might need more pills.  You are already on a lot of medications.
+PATIENT: I am on a lot of medications.
+DOCTOR: Yea, so we won’t add any right now, go over [REDACTED] like that but we are going to watch it and then we [REDACTED].
+PATIENT: Okay.
+DOCTOR: Let me, uh, just talk this over with DOCTOR.
+PATIENT: Okay.
+DOCTOR: Have a seat over here. Deep breath.  Any swelling in your legs?
+PATIENT: Oh yeah.
+DOCTOR: Yeah?  Are they always this swollen or?
+PATIENT: Yea they swollen for a while.  My feet.  My legs.
+DOCTOR: Hmm.
+PATIENT: Both of them.  Both of them.
+DOCTOR: Is this worse during the day or is this how you wake up?
+PATIENT: This be like this all day, all night.
+DOCTOR: Hmm.
+PATIENT: You know, I have, I had my knees replaced, right.
+DOCTOR: Oh okay.
+PATIENT: My doctor think that [REDACTED] made one of my legs shorter than the other leg right, and [REDACTED] been like this, she thinks that the titanium in this leg just [REDACTED] kind of move out of place and she said [REDACTED] my legs swollen like that.
+DOCTOR: It could be [REDACTED] knee replacement, the knee can get swollen.
+PATIENT: And so, we debate, I am going to see her on the 9th and we debating on whether they should go back in again and see if they can [REDACTED].
+DOCTOR: You can have a seat over there.  Alright I’ll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  23:40  DOCTOR IN:  26:38)
+DOCTOR: Alright, so you are all set to go.  Pick up your inhaler at the pharmacy.  You can always get a refill too.  Okay because they are all in there for you to use.  Um and then good luck with your surgery.
+PATIENT: Okay.  Thank you.
+DOCTOR: Alright.  So we will see you back here in the end of May.
+PATIENT: In May, yeah [REDACTED].
+DOCTOR: You will get a letter.  You should get a letter in like two weeks.
+PATIENT: Yeah.
+DOCTOR: It looks pretty nice today [REDACTED] back here.
+PATIENT: Yea.
+DOCTOR: Alright.
+PATIENT: So [REDACTED] today.
+DOCTOR: Alright.  [REDACTED].
+PATIENT: I am going to eat.  Eat something.  I ain’t ate since [REDACTED].  I am going to some restaurant to eat.
+DOCTOR: Alright you take care.
+PATIENT: You too.
+PATIENT: 27:43
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300324
+TRANSACTION # 578-10-2-316-0103

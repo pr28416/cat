@@ -1,0 +1,112 @@
+DOCTOR: How may I help you?
+PATIENT: I um. I just haven't been feeling very well over the past couple months. And I have decided I just come in and see what's happening, so I've just I've been feeling short of breath. And I kind of passed out sometimes and I'm really worried about it.
+DOCTOR: OK. Uh, so when the shortness of breath start.
+PATIENT: I say about five or six weeks ago.
+DOCTOR: OK, and and do you get short of breath at rest?
+PATIENT: No.
+DOCTOR: And has it been getting worse or staying the same?
+PATIENT: Uhm? Kind of the same maybe a little bit worse, but I yeah maybe the same. Definitely not getting better.
+DOCTOR: OK, how far are you able to walk or exert yourself before you're short of breath?
+PATIENT: I can walk quite a bit, um, but I, I guess like when I go for my my runs in the morning, I start feeling short of breath. It's maybe like, two blocks or three blocks.
+DOCTOR: OK, and any any symptoms where you get short of breath at night and where you had to get up and and put your feet over the bed?
+PATIENT: No.
+DOCTOR: Are you able to lay flat without being short of breath?
+PATIENT: Uhm, yeah
+DOCTOR: Or does it.. OK. And every had any swelling in your feet or ankles.
+PATIENT: No.
+DOCTOR: OK, and you mentioned that you you passed out as well. Can you tell me a little bit about a little bit about that?
+PATIENT: Yeah, uh, it just happened two or three days ago. And I was just, I was-I wasn't really doing much I was I guess just like going up the stairs. And when I got to the top, I just kind of suddenly collapsed. And then I got back up.
+DOCTOR: Were you really short of breath at the top of the stairs?
+PATIENT: I felt like my heart was like beating kind of fast. And I felt little bit dizzy.
+DOCTOR: OK, see, where you sweaty at the time as well?
+PATIENT: I don't remember, maybe?
+DOCTOR: OK, did you feel like you were going to pass out?
+PATIENT: Yeah.
+DOCTOR: OK, has anything like that happened to you before?
+PATIENT: No. No.
+DOCTOR: OK and did you bite your tongue during this or?
+PATIENT: No.
+DOCTOR: OK, and did you wet yourself at all? Like pee your pants or anything like that?
+PATIENT: No.
+DOCTOR: OK. And how long did it last for?
+PATIENT: Maybe a couple of seconds, it's. Yeah. I don't know, I I can't really tell. I was alone at home at the time. And I'd like I couldn't tell how long it took for me to get back up.
+DOCTOR: OK, you picture that your heart was racing. Did it feel like it was like did you have heart palpitations or is your heart beating really fast?
+PATIENT: Yeah it was.
+DOCTOR: OK. And did you hit your head or or hurt yourself when you fell?
+PATIENT: No, no.
+DOCTOR: OK, and recently, have you been otherwise feeling well or if you had any viral infectious symptoms like red eyes or itchy eyes or runny nose, sore throat?
+PATIENT: No.
+DOCTOR: OK, nothing like that and have you had a cough?
+PATIENT: No.
+DOCTOR: OK. And have you had any wheezing?
+PATIENT: No.
+DOCTOR: And if you had any chest pain.
+PATIENT: No.
+DOCTOR: OK, have you had any instances where you felt as though you were having heart palpitations at any other times? And not just during the time that you had the fainting episode?
+PATIENT: Um, I kind of did when I was. When I was like running outside, but I just thought maybe maybe I was exerting myself too much.
+DOCTOR: I see, alright. And any chest pain?
+PATIENT: No.
+DOCTOR: And. Uh, OK. Have you had any, any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Any abdominal pain?
+PATIENT: No.
+DOCTOR: Any urinary problems?
+PATIENT: No.
+DOCTOR: OK, any muscle aches or body pains?
+PATIENT: No.
+DOCTOR: Any fevers or chills?
+PATIENT: No.
+DOCTOR: Have you had any changes to your weight in the last several months?
+PATIENT: No.
+DOCTOR: Have you had any changes to your appetite?
+PATIENT: No.
+DOCTOR: And have you notice any skin changes like rashes or or anything like that?
+PATIENT: No.
+DOCTOR: OK. And. Uh. In the past, have you been diagnosed with any medical conditions?
+PATIENT: No, I've been very healthy.
+DOCTOR: OK, I do you so do you take any medications, either prescribed or over the counter?
+PATIENT: Uhm, I just take some puffers for asthma, but I haven't had asthma in awhile. I actually thought maybe my asthma was getting worse over the past two three months. I didn't really. I just I didn't think too much of it. But then when I fainted, I was just kind of scared.
+DOCTOR: Yeah, for sure. Umm, certainly would be frightening. OK, and do you use the inhaler everyday?
+PATIENT: No. I used to when I was young. I didn't have asthma for a couple of years for like, I'd say 20 years or so. So then I stopped taking inhalers.
+DOCTOR: OK, so you haven't used them recently.
+PATIENT: No.
+DOCTOR: And any allergies to medications or, uh, environmental?
+PATIENT: No.
+DOCTOR: OK, and if you had any hospitalizations or surgeries?
+PATIENT: No.
+DOCTOR: OK. And have you been pregnant in the past?
+PATIENT: Uhm, I I was yeah. I have a son. About eight years ago. He was born eight years ago.
+DOCTOR: Ok. Was this a vaginal delivery or a C-section?
+PATIENT: Vaginal.
+DOCTOR: And any complications, either during pregnancy or delivery or afterwards?
+PATIENT: Oh no, everything was good, no problems.
+DOCTOR: OK, and could you tell me a little bit about where you're living and and who you're living with?
+PATIENT: Yeah, I'm living with my husband and my son. We live in a house about 30 minutes from here.
+DOCTOR: OK, uh, has anybody been sick in the house?
+PATIENT: No, everyones been well.
+DOCTOR: Alright, have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: OK, any exposures in the house like carpets or rugs or it's like like things like that?
+PATIENT: We do have carpets, but I mean I, I don't think that's a problem. Like we've had it for like years and we've had the same carpets for years and years.
+DOCTOR: OK, I see and are you working currently or or at home?
+PATIENT: Yeah, I'm at home but I work from home. I'm a writer.
+DOCTOR: OK cool, yeah I do you smoke cigarettes?
+PATIENT: No.
+DOCTOR: Do you smoke cannabis or use any cannabis products?
+PATIENT: No.
+DOCTOR: OK, and do you drink alcohol?
+PATIENT: I do, I'll just drink on the weekends.
+DOCTOR: OK, and I like how many drinks would you typically have in a week?
+PATIENT: Uhm, not much. I'd say one or two glasses of wine.
+DOCTOR: OK, do you use any recreational drugs?
+PATIENT: No.
+DOCTOR: OK, And like you said, you're a writer currently. In the past, did you work any jobs where you were exposed to asbestos or like any chemicals or fumes in the air?
+PATIENT: No, no, I haven't.
+DOCTOR: OK, And in the family is there is there anybody who has any heart or lung conditions?
+PATIENT: No.
+DOCTOR: How about any clotting disorders or or cancers?
+PATIENT: Uhm, prostate cancer. My uncle had it.
+DOCTOR: I see, OK. So it sounds like over the last little month, you've been having some more short shortness of breath as well as well this fainting episode more recently. So we will. Was there anything else that you wanted to add?
+PATIENT: Hum, no.
+DOCTOR: Alright, so we will do some pulmonary function testing and get some imaging of your lungs today as well as an ECG and maybe a monitor for your heart as well to just check your heart racing for the next 48 hours. Mentioning that your heart was racing and so to rule out that any abnormal rhythms of your heart, or to check for that. And we will kind of go from there, did you have any questions?
+PATIENT: No.

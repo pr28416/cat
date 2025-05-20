@@ -1,0 +1,470 @@
+DOCTOR: PATIENT.
+PATIENT: Yes sir.  [REDACTED].
+DOCTOR: [REDACTED].  Come on back here now.  How you doing?
+PATIENT: I've seen better days in years past.
+DOCTOR: Alright.
+PATIENT: All because I need to slow down.  Actually it's getting worse.  It's really getting worse.
+DOCTOR: Okay.  I noticed, go ahead and pop in there, I'll get you.
+PATIENT: Thank you.
+DOCTOR: I noticed that they you haven't seen Rheumatology yet, what's going on?
+PATIENT: Um I’m waiting on I think a consult has been put in but I haven't gotten a date yet.
+DOCTOR: Well you've seen them before correct?
+PATIENT: Yes.
+DOCTOR: Yeah, so you should be able to just make an appointment with them.
+PATIENT: Oh really?
+DOCTOR: Yeah.
+PATIENT: Okay.  I didn't know I had to do that.
+DOCTOR: Because, not since you've already seen them before.  You're an established patient in their clinic.
+PATIENT: Oh I didn't know that.
+DOCTOR: Yeah.  So.
+PATIENT: I didn't know that that was supposed to be done.
+DOCTOR: Yeah.  So I will um and I think we actually set it up for you last time.  What I'll do today is, you need to see them for the fibromyalgia.
+PATIENT: Okay.
+DOCTOR: Okay.  Because it's obviously not controlled and I think we talked about the last time you know the limits, you know the limits as to what I can provide you.
+PATIENT: Uh-huh.
+DOCTOR: Right so we need to actually have a, we need to have a plan of action kind of with everybody.
+PATIENT: Okay.
+DOCTOR: Alright including them so.  That's I mean you're telling me that you're actually getting a little bit worse.
+PATIENT: A little bit.
+DOCTOR: A lot worse and you were kind of bad off last time.
+PATIENT: Yeah.
+DOCTOR: So we need to get you all, kind of squared away and we need to get you to see them pretty quick.
+PATIENT: Uh-huh.
+DOCTOR: Okay um how is everything else?
+PATIENT: Well uh my throat's getting worse.  Of course I expect that and um my Achilles heel.
+DOCTOR: Okay.
+PATIENT: Um I'm seeing a doctor at Hines and he said that there is a possibility that they're gonna shoot, have to shoot steroids in it.
+DOCTOR: Okay.
+PATIENT: Well what can they do in the meantime?  It's killing me.
+DOCTOR: Yeah, it's probably Achilles tendinitis, is that what it is?
+PATIENT: I guess.
+DOCTOR: Alright well let's take a look at it.  Uh who's the doctor you saw at Hines?
+PATIENT: I don't even remember his name.
+DOCTOR: Okay.  Um so you don't remember his last name.
+PATIENT: I just know that it keeps swelling up.  They both seem to swelling up and going down, swelling up, going down, swelling up.
+DOCTOR: Okay.
+PATIENT: What do you got it?
+DOCTOR: I'm actually seeing if I can bring up; see what we can bring up.
+PATIENT: The notes.
+DOCTOR: Yes sir.  [REDACTED].
+PATIENT: Oh and could you please give me something for the uh what is it the skin disorder thing?
+DOCTOR: The eczema?
+PATIENT: Yeah.
+DOCTOR: Sure. Okay.  [REDACTED].  When was it that you saw somebody?
+PATIENT: This was the 9th I think it was.
+DOCTOR: Okay, the General Medicine Clinic.
+PATIENT: Yes.
+DOCTOR: Yeah.  So what kind of clinic was it that you went to, was it just a general health clinic or?
+PATIENT: Uh-huh.  That’s what it was, a general outpatient health patient health clinic.
+DOCTOR: Okay.  So where do you see, where do you, you see your primary care is generally here is that correct?
+PATIENT: No it's generally there.
+DOCTOR: Okay, so what brought you here?  I mean you now; you've got a couple different primary care doctors.
+PATIENT: Actually I was here because when I first came back.
+DOCTOR: Okay.
+PATIENT: I was at Hines but then I came here because my mother was really, really ill and I needed someplace to go where I could get back quicker.
+DOCTOR: Uh-huh.
+PATIENT: And it was taking literally the entire day to go all the way out there and then try to get back.
+DOCTOR: A little bit more convenient here.
+PATIENT: Yeah it was convenient then.
+DOCTOR: Okay, alright.  So um I'll take a look, so yeah they did state that you had maybe some Achilles tendinitis that was going on.  There’s a couple different things.  Now they recommended continuing the NSAID, the anti-inflammatories and ice it looks like, correct?
+PATIENT: And it's not working at all.
+DOCTOR: Okay.  Uh so they did mention a steroid injection I guess to you.
+PATIENT: Uh-huh.
+DOCTOR: Uh if that is indeed necessary.
+PATIENT: Rheumatology.
+DOCTOR: Rheumatology can do that, Orthopedics can do it.  Uh do you use any insoles or any inserts in your shoes?
+PATIENT: Yes.
+DOCTOR: Okay.  What kind of insoles or inserts do you use?
+PATIENT: The ones I got from the store.
+DOCTOR: Okay.  Do you have them in?
+PATIENT: Uh I something in there, I think there's something in there.
+DOCTOR: Let's take a look.
+PATIENT: [REDACTED] different insoles it.
+DOCTOR: Yeah just that.  It doesn't look like it's a therapeutic one.
+PATIENT: No I don't have any therapeutic ones.
+DOCTOR: Okay.  Well another thing we can do and I'll ask you to take a seat so I can examine you up here, the one thing you can do is there are heel cups.
+PATIENT: Uh-huh.
+DOCTOR: Called heel cups.
+PATIENT: Well I don't know um.
+DOCTOR: So this is your Achilles heel.
+PATIENT: Uh-huh.
+DOCTOR: Your Achilles tendon.
+PATIENT: I got it, uh-huh.
+DOCTOR: So if you hyperextend your leg like that you can put stress on the Achilles.  If you put a little bit of uh what we call flexion in the foot with a heel cup, put on a little bit of a ramp.
+PATIENT: Incline.
+DOCTOR: Right you decrease the tension on the Achilles heel.
+PATIENT: Okay.
+DOCTOR: Okay so you're using, you're taking a lot of the anti-inflammatories and you are using ice okay but it may be that you just need to offload it on a daily basis.  So what I would do or what I recommend is Walgreen’s has them pretty cheap.  They're just the Mr. Scholl's gel insert.
+PATIENT: I don't have the money for them.
+DOCTOR: Okay.  Well we can see if we have them.
+PATIENT: I don't have any income, waiting on that too.
+DOCTOR: Okay.  Well I'll see if we have some here okay.
+PATIENT: Uh-huh.
+DOCTOR: But it might be something we should check into.
+PATIENT: Okay.
+DOCTOR: Uh but let me take a look at your feet.
+PATIENT: Oh I'm tired of them swelling up.
+DOCTOR: How's your asthma doing?
+PATIENT: Oh, my asthma has its ups and downs.
+DOCTOR: Okay.
+PATIENT: As it gets colder, more downs than ups.
+DOCTOR: Okay.
+PATIENT: I can tell you now we're probably going to have an early winter.
+DOCTOR: Alright.  You can tell that huh.
+PATIENT: Yeah.
+DOCTOR: That's pretty good.
+PATIENT: Uh-huh.
+DOCTOR: Um alright, I don't want to hear that, that's kind of bad news if you ask me.
+PATIENT: Yeah it is.  Oh do you need my socks off too?
+DOCTOR: Yeah please.  Blood pressure is really good.
+PATIENT: Oh yes, swole [REDACTED] oh yes.  Can you tell any difference from the other leg?
+DOCTOR: Yeah let me look.
+PATIENT: There's no difference.
+DOCTOR: Let me have you [REDACTED] for me.
+PATIENT: Usually  you can see [REDACTED] right now.  I'll tell you one thing [REDACTED] the foot are, the feet and the eczema.
+DOCTOR: Hop on up here.
+PATIENT: Oh Lord.  And why is the bottom of my feet be burning so much?
+DOCTOR: Good question.  It could be because of your fibromyalgia.
+PATIENT: Okay.
+DOCTOR: Okay.  Could be.  So is it tender when I press in here?
+PATIENT: Not, this one is not as tender, it's tender but it's not as tender as this one.
+DOCTOR: So when I do that does that bother you at all?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Mostly uh, but this one is worse.
+DOCTOR: How about just when I flex like that, that bother you?
+PATIENT: Well I mean up in here yeah.
+DOCTOR: Okay and then.
+PATIENT: Well you know the [REDACTED].
+DOCTOR: That does hurt.
+PATIENT: Yeah.
+DOCTOR: Okay.  Let’s do this one.  And when I press here does that bother you?
+PATIENT: Hmm.
+DOCTOR: Most people would, so that's a yes huh.
+PATIENT: Ooh.
+DOCTOR: Okay.  Alright.  Can you lift your toe up towards my finger?  All the way up okay, relax it and all the way up and relax, good.  You been doing any exercises with it?
+PATIENT: Hmm.  Ooh.
+DOCTOR: Well this has been there [REDACTED] a while huh?
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Like I say it's like, uh this has been going on for a while but it's getting worse with the fibromyalgia getting worse and almost.
+DOCTOR: Sure I mean it's the kind of deal where.
+PATIENT: It's real, real difficult to walk.
+DOCTOR: Hmm.  Let me take a listen to your heart and lungs.  Where's the eczema that you're talking about?  What's the.
+PATIENT: Uh it's on my legs.  With the oil I got on it you can't really see it cause this is where I been scratching and I been getting the sores and what have you.
+DOCTOR: Okay, do you have any on the other leg?
+PATIENT: Uh well yeah but I mean it's not as prevalent as it is on this one.
+DOCTOR: What are they using?
+PATIENT: [REDACTED].
+DOCTOR: But you say you're putting some lotion on it right?
+PATIENT: Oh yes, baby oil, you know petroleum jelly.
+DOCTOR: Okay.
+PATIENT: But I mean it's like.
+DOCTOR: Do you ever use any Eucerin cream or any of that stuff?
+PATIENT: No I don't even know what that is.
+DOCTOR: Okay.  Eucerin cream is just kind of a heavy duty, what we call emollient or moisturizer.
+PATIENT: Uh-huh.
+DOCTOR: We have some here that we use it's kind of like its called Hydroxy cream.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Uh it's a non-steroid cream but it is a pretty heavy-duty moisturizer that might help you out.
+PATIENT: Okay.
+DOCTOR: Do you have anywhere else?
+PATIENT: Well it's like I'm getting like little patches you know just going up my leg I think.
+DOCTOR: Is anything here like on your elbows or?
+PATIENT: I haven't noticed.
+DOCTOR: Okay.  No patches anywhere else, mostly here on your legs correct?
+PATIENT: Yeah, yeah, well mainly on my legs.
+DOCTOR: Okay.
+PATIENT: My usually, what I been doing is the.
+DOCTOR: Does the cream usually help when you um, the baby oil does it help for a little bit?
+PATIENT: It helps for, yes it does, like long enough for me to get out of the shower.
+DOCTOR: Yes.
+PATIENT: And dry it off you know and then I don't have to keep scratching as much as when I, as soon as I get out the shower.
+DOCTOR: Yes.
+PATIENT: Because the oil and I try to let the oil seep in you know.
+DOCTOR: Okay.
+PATIENT: While I'm taking a shower so that I won't cause I'm tired of scratching all night.
+DOCTOR: Sure.  Let's do this, let's um after you shower okay.
+PATIENT: Uh-huh.
+DOCTOR: So really hot showers might be exacerbating it a little bit.
+PATIENT: Oh okay.
+DOCTOR: Can make it actually itch a little bit more.
+PATIENT: I can't win because a hot shower [REDACTED]
+DOCTOR: I the good thing is.
+PATIENT: [REDACTED].
+DOCTOR: You can't, that's just fine.
+PATIENT: [REDACTED].
+DOCTOR: If you get the fibromyalgia under control, do the hot showers right dry off.
+PATIENT: Uh-huh.
+DOCTOR: Okay and then after you're dry put on the moisturizing cream.
+PATIENT: Okay.
+DOCTOR: Don't do the oil in the shower.
+PATIENT: Okay.
+DOCTOR: Alright and we'll do the hydroxy cream alright.
+PATIENT: Okay.
+DOCTOR: Um so that's for the itching.  We'll see if we have the heel cups for the um Achilles tendon.
+PATIENT: Uh-huh.
+DOCTOR: With the fibromyalgia we'll write down for you to see the Rheumatology Clinic.
+PATIENT: Okay.
+DOCTOR: Probably within the next four weeks.
+PATIENT: And one more thing.
+DOCTOR: Alright.
+PATIENT: If you really can't see all that much, I don't know if you can or can't but the skin peeling off my feet is so bad to the point, I mean if I didn't have oil on it you would see literally a lot of that.
+DOCTOR: [REDACTED].
+PATIENT: But uh it's.
+DOCTOR: Like is it itching in here too?
+PATIENT: It itches on the bottom and on the sides yeah.
+DOCTOR: Okay.
+PATIENT: But um.
+DOCTOR: How about in between your toes?
+PATIENT: Always.
+DOCTOR: In between your toes always?
+PATIENT: Always.
+DOCTOR: Okay.  Do you ever use any, I mean do you ever use any anti-fungals in between your toes?
+PATIENT: When I can buy some yes.
+DOCTOR: Okay.
+PATIENT: But I can't afford any now.
+DOCTOR: I'll get you a topical anti-fungal to rub on your feet.
+PATIENT: Okay.
+DOCTOR: Cause if you're getting a lot of scaling and itching.
+PATIENT: And what I'm saying is.
+DOCTOR: Cause we tend to see that here.
+PATIENT: Yeah it's to the point now if I didn't have oil on it, it's to the point now when I'm pulling the skin off it's starting to bleed.
+DOCTOR: Okay well don't do the oil on your feet.
+PATIENT: Okay.
+DOCTOR: Use this cream I'm gonna give you.
+PATIENT: Okay.
+DOCTOR: Okay and I'd almost recommend if you use it at night okay before you go to bed and in the morning when you wake up.
+PATIENT: Uh-huh.
+DOCTOR: Before you put your shoes on during the day it should help.
+PATIENT: Okay.
+DOCTOR: It's a fluconazole cream.
+PATIENT: Okay.
+DOCTOR: But it's a topical anti-fungal.
+PATIENT: Uh-huh.
+DOCTOR: If at night you don't want it getting on your sheets you can put some socks on.
+PATIENT: I sleep with socks anyway.
+DOCTOR: Great then that will help.
+PATIENT: I don't know I hate walking barefooted.
+DOCTOR: Okay, alright.
+PATIENT: I just can't do it.
+DOCTOR: Okay.
+PATIENT: Is that weird.  I don't like [REDACTED] wood on my feet.
+DOCTOR: That's fine.  I hate going to be with [REDACTED] on my feet [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED] for your feet. [REDACTED].
+PATIENT: Anti-fungal.
+DOCTOR: Right.
+PATIENT: And some kind of cream for the eczema.
+DOCTOR: For the leg.
+PATIENT: [REDACTED].
+DOCTOR: And then for the uh fibro we'll get the follow-up with Rheumatology, with the Rheumatology.
+PATIENT: Okay.
+DOCTOR: In four weeks okay.  Now if they say you go out there and they'll set the appointment up with them alright.
+PATIENT: So the last time I did, they said they couldn't.
+DOCTOR: Why not?
+PATIENT: I don't know.  They said anything that's more than a month in advance I think, a week or a month in advance, they can't set it up.
+DOCTOR: Yeah but Rheumatology, if I say Rheumatology in four weeks they should be able to send you over there.  Cause your last appointment with them was – do you remember when?
+PATIENT: It was cold outside I think wasn't it?  Rheumatology?
+DOCTOR: Yeah let's see.
+PATIENT: I think that was like back in February or March or something like that.
+DOCTOR: There was a Rheumatology Note in October.
+PATIENT: Like I said it was cold.
+DOCTOR: Alright yeah and they wanted to see you back in a couple of months.
+PATIENT: What do you give for [REDACTED] pain in the knee?  That's what gets me and I'm like I'm stuck in this [REDACTED].  I mean don't get me wrong, the Vicodins they're working but uh I think what it is is I told her that even the pharmacist said you might need to be on the Norco Vicodin because it doesn't have as much Tylenol in it because Tylenol does nothing for me, never has.
+DOCTOR: Okay.
+PATIENT: And believe it or not that's the only little relief that I've been getting.  I'm ready for that.
+DOCTOR: Alright cause the Rheumatology appointment you can make okay.
+PATIENT: Yes.
+DOCTOR: Alright.  The note, the clinic with me I'll see you in three months.  Now you have to call and make an appointment alright.
+PATIENT: Okay I have to call in.
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: But they should be able to make the Rheumatology appointment at the front.
+PATIENT: Okay.
+DOCTOR: Okay.  Um let's see.  Uh what were the two other issues that you were talking about?
+PATIENT: Um what the feet?
+DOCTOR: Feet and then there was oh the um Achilles.
+PATIENT: Yeah.
+DOCTOR: So we need the heel cups okay and I think that was it.
+PATIENT: And would you want to look at my throat?  Ever since I got my tonsils out I always have trouble with my throat when the weather changes.
+DOCTOR: Okay.
+PATIENT: I don't know why.
+DOCTOR: Okay.
+PATIENT: But it's [REDACTED].
+DOCTOR: Let me put these orders in real quick.
+PATIENT: And you're only here once a month or once every two months?
+DOCTOR: No I'm here every Monday.
+PATIENT: Oh okay.
+DOCTOR: But you may have tried to make an appointment when I was on vacation a couple weeks ago.
+PATIENT: Oh okay.  I was like ain't he there, he need to be here more often.
+DOCTOR: Did uh um okay.
+PATIENT: So what I'm, I mean I just keep suffering until I see Rheumatology?
+DOCTOR: Oh we're not going to have you suffering.
+PATIENT: Trust me I am, right now my back feel like uh.
+DOCTOR: It's tough.
+PATIENT: It's like somebody in a bull pit and I got to walk over there.
+DOCTOR: Well let's do this I mean let's have you; we can see if we can get you in as soon as possible, hopefully in the next couple weeks.  It may be the Achilles tendinitis is really kind of helping set off the fibromyalgia and maybe getting that controlled actually helps calm things down.
+PATIENT: Okay.  I want to figure that one out.  So even when I'm not walking on it there's pain.
+DOCTOR: Maybe you need to go up to um the Prosthetics.
+PATIENT: Where is that?
+DOCTOR: Um I think it's up on the fourth floor here.
+PATIENT: Taylor or Damon?
+DOCTOR: Taylor Building.
+PATIENT: Okay.  I hope you know I’m not trying to be a difficult patient, I’m just tired of being in pain.
+DOCTOR: I know, you said the same thing last time.
+PATIENT: Yeah.  And the only difference is its gotten worse and I wish people would stop asking me the stupidest question in the world.
+DOCTOR: What's that?
+PATIENT: “Why don't you act like you're in pain?”
+DOCTOR: Well I think you can tell pretty much that you’re in pain.
+PATIENT: I mean how do you act when you're in pain [REDACTED].  Now I don't think that the Achilles Heel has a lot to do with me being in pain most of the time.
+DOCTOR: Could be yeah I mean that's tough to tell I mean you're also a big guy right.
+PATIENT: That's what people keep telling me.  I don't feel big.
+DOCTOR: Yeah I mean you carry, you carry, I mean you're.
+PATIENT: Yeah.
+DOCTOR: You're a heavier guy, you’re a big guy um so the fibromyalgia is putting a little bit of pressure, keeping on your knees.  If you watch some of your weight, maybe see if you could come down a few pounds.
+PATIENT: I have!
+DOCTOR: Alright we'll keep going.  That would take a little bit of pressure off your uh.
+PATIENT: I weigh what 236, they said I'm down [REDACTED] so I ain't doing too bad.
+DOCTOR: Okay good.  So I put in the order for the cream right for the feet.
+PATIENT: Uh-huh.
+DOCTOR: Alright and then the uh topical cream so I put in the order for the heel cups and then we got to see Rheumatology okay.
+PATIENT: Okay.
+DOCTOR: And they'll set this up front.
+PATIENT: And what about my throat?  [REDACTED].
+DOCTOR: What are you doing right now for your throat?
+PATIENT: I'm just gargling with salt water.
+DOCTOR: Okay.  [REDACTED] hope up [REDACTED] Does the salt water [REDACTED] help?
+PATIENT: Uh well it's keeping it from uh.
+DOCTOR: When did you have your, how long ago did you have your tonsils out?
+PATIENT: In Germany 1980 maybe, 83 or 84 one of those.
+DOCTOR: Do you have any drip in your nose?
+PATIENT: Huh?
+DOCTOR: Say ah.
+PATIENT: Ah.
+DOCTOR: And can you yawn for me with your mouth open, yeah that's good.  Alright.  Do you have any dripping from the back of your nose; do you get a stuffy nose?  Do you have seasonal allergies?
+PATIENT: Uh-huh.
+DOCTOR: Okay um when in the summertime.
+PATIENT: I've already [REDACTED] stuff.
+DOCTOR: Okay.
+PATIENT: The what?
+DOCTOR: Do you use anything for it?  Do you use um.
+PATIENT: Nasal sprays yes.
+DOCTOR: You use nasal sprays?
+PATIENT: Uh-huh.
+DOCTOR: Does that help?
+PATIENT: Temporarily.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright.
+PATIENT: But um it’s like I said, I been going through this for years now.
+DOCTOR: Yeah and it's not like, like you had your tonsils out.
+PATIENT: Ever since I got my tonsils out I been going through this.
+DOCTOR: Okay, alright.  So yeah, you probably can't see your tonsils, I don't see any infection.  You may have a little bit of irritation in the back of your throat.
+PATIENT: Uh-huh.
+DOCTOR: Do you use the nasal sprays every day?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: Uh uh.
+DOCTOR: Um what kind of nasal spray is it?
+PATIENT: Uh, [REDACTED] they gave it to me here.
+DOCTOR: Okay.
+PATIENT: Uh it's in a long bottle [REDACTED].  It's got a green safety cap on it to keep you from spraying it.
+DOCTOR: Okay.
+PATIENT: I don't remember the name of it.
+DOCTOR: Yeah.
+PATIENT: My memory ain't quite as good as it used to be.
+DOCTOR: Yeah maybe they got the steroids, yeah postnasal drip.
+PATIENT: Well when I wake up in the morning doc, it's like uh what is the thing that hangs at the back of your throat?
+DOCTOR: Yeah the uvula.
+PATIENT: It's swollen.
+DOCTOR: Okay.
+PATIENT: And I mean it's swollen to the point to where I have to keep swallowing just to get it to come down.  I don't know why that is or what can be done about it.
+DOCTOR: Well we can try some of the nasal spray alright to see if it keeps some of this junk from going down in the back and irritating your throat.  Usually sore throats that are worse in the morning, alright with yours it sounds like it is, it's usually due to drip from the back of the nose from seasonal allergies and stuff.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: But supposedly I don't have any allergies, but they gave me an allergy pills so I got some kind of allergies.
+DOCTOR: Do you get a stuffy nose?
+PATIENT: Yeah.
+DOCTOR: Okay, okay.  Um and you said you do get junk in the back of your nose right?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  So it could be not the seasonal allergies but allergies to dust mites, dander, stuff like that.
+PATIENT: Okay.
+DOCTOR: Which is very common.
+PATIENT: Okay.
+DOCTOR: Alright so maybe using this spray will help clear up your nasal passages and stop the dripping in the back.
+PATIENT: What the one that I already have?
+DOCTOR: That I'll give you right now, steroid nasal spray.
+PATIENT: Okay.  What kind is it; it's not that uh Bausch & Lomb stuff is it?
+DOCTOR: I don't think so.
+PATIENT: Oh well you said a steroid nasal spray so maybe it's something that'll work but that Bausch & Lomb stuff sprays.
+DOCTOR: It's supposed to be [REDACTED].
+PATIENT: Oh Flonase.
+DOCTOR: Yeah there you go.
+PATIENT: Flonase is great.
+DOCTOR: Okay.
+PATIENT: They gave me Flonase.
+DOCTOR: Yeah.
+PATIENT: But they always want to substitute it with that other crap.
+DOCTOR: Oh okay.  Well usually it just kind of depends on what we have on Formulary.
+PATIENT: Yeah I mean well I won't do that Bausch & Lomb cause it burns my nose.  Feel like I'm spraying fire in my nose.
+DOCTOR: Alright I mean I'm not sure.
+PATIENT: I'm hoping its Flonase.  Flonase is great.  Isn't that what they're giving me already?
+DOCTOR: I didn't actually see it listed.
+PATIENT: Oh.
+DOCTOR: So Flonase is fluticasone.
+PATIENT: That works.
+DOCTOR: It doesn't look like that's what we have on the Formulary, let's see.  We can ask for it, yeah we just have to put it down. I'm not sure if it's the Bausch & Lomb.
+PATIENT: Alright, okay.  If it is they can keep it.
+DOCTOR: I can give you a prescription for it and you can see.
+PATIENT: Okay.  A prescription to go where?
+DOCTOR: You can pick it up at the um at the Pharmacy.  I'm gonna be right back okay.
+(DOCTOR OUT:  107:3  DOCTOR IN: 117:05)
+DOCTOR: Alright.
+PATIENT: Yeah doc.  You said I'm not supposed to see you for three months right?
+DOCTOR: Yeah do you want to see me earlier?
+PATIENT: Yeah cause I'm just thinking it's going to be fall by then and I don't want them looking in the [REDACTED].  Oh [REDACTED] I had that problem before.
+DOCTOR: Okay.  So when do you want to see me?
+PATIENT: Um this is August how about like September, October?
+DOCTOR: Okay.
+PATIENT: I got a feeling that I'm gonna get the run around again with this Rheumatology like I did the last time.  You remember I told you.
+DOCTOR: Yeah.
+PATIENT: I went to them and nothing got done, nothing.
+DOCTOR: Okay.
+PATIENT: But you want me to go through them again so that's the only reason I'm doing it.  Purposefully, I don't see the purpose that they serve.
+DOCTOR: Alright.
+PATIENT: So do you want me to do the nasal spray I got on a regular basis or the one that you're giving me?
+DOCTOR: The one I'm giving you.  The one you have right now is bothering you correct?
+PATIENT: Yeah.
+DOCTOR: You don't like it.
+PATIENT: No.
+DOCTOR: It's the mometasone nasal spray I believe.
+PATIENT: Uh-huh.
+DOCTOR: Right we'll give you the one that we've got.
+PATIENT: Okay.
+DOCTOR: Alright and see if it makes you feel a little bit better.
+PATIENT: Alright.
+DOCTOR: Alright.  Um the heel cups.  I talked to DOCTOR about it.  DOCTOR would be hesitate to use them on older patients because sometimes you know you can shorten the Achilles tendon, some of the older people can actually become less short over time.  So only use it alright until the pain goes away alright.
+PATIENT: Uh-huh.
+DOCTOR: And then we can start back up again.
+PATIENT: Okay so.
+DOCTOR: Okay.
+PATIENT: When the pain go away take them out.
+DOCTOR: Yeah, exactly.
+PATIENT: [REDACTED].
+DOCTOR: What we want to do is just decrease the inflammation with the, give the Achilles some time to rest a while.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: No problem.
+DOCTOR: So we're gonna deal with the problem.
+PATIENT: Thank you.  Have a great rest of the summer.
+DOCTOR: Alright you too.
+PATIENT: It's shorter than it's gonna be.
+DOCTOR: Yeah, see ya.
+PATIENT: 119:20
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275422
+TRANSACTION # 578-10-2-316-0103

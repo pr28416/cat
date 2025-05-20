@@ -1,0 +1,338 @@
+DOCTOR: PATIENT.  How have you been doing?
+PATIENT: Well I've been doing pretty good.
+DOCTOR: Okay.
+PATIENT: Up until now.
+DOCTOR: Okay.
+PATIENT: I've uh, the reason I'm here, I can't urinate.  I've uh been, it's been uh kind of a progressive problem for the last month maybe.
+DOCTOR: Uh-huh.
+PATIENT: But these last few days I'm up half the night trying to urinate and I can't.
+DOCTOR: Okay.
+PATIENT: And now, just these last couple days, it's almost a continuous urge to but I go and there's nothing there.
+DOCTOR: Do you think that there is something that is obstructing your?
+PATIENT: It feels like, sure it feels like it.
+DOCTOR: Feels like that okay.  Uh have you found that you actually wet your underpants or or?
+PATIENT: No, no.  Not more than a drop or two.
+DOCTOR: Not more than a drop or two okay.  Do you feel any pain when you try to [REDACTED]?
+PATIENT: Yeah, yeah.
+DOCTOR: Have you noticed any blood coming out of it?
+PATIENT: No.
+DOCTOR: No okay.  Uh, I don't see any record of yours in the computer, is it for the first time that you are here?
+PATIENT: My very first visit here yes.
+DOCTOR: Okay.  Because this is the only time you've seen a physician, only you were calling earlier?
+PATIENT: No I hadn't got a primary care physician.  Whatever problems I had in the past were always Emergency Room situations.
+DOCTOR: Okay.
+PATIENT: And uh it was uh, uh, one was a bleeding ulcer 20 years ago.
+DOCTOR: Uh-huh.
+PATIENT: And then uh a uh hip replacement shortly after that and uh then I had a uh cellulitis infection in my leg uh since then but that's been maybe ten years ago so its.
+DOCTOR: So you mentioned that you were bleeding from the ulcer?
+PATIENT: Uh yeah I was taking medication for arthritis in my hip.
+DOCTOR: Okay.
+PATIENT: And that caused my ulcer.
+DOCTOR: Uh-huh.
+PATIENT: And I started uh.
+DOCTOR: So what you were actually vomiting blood or?
+PATIENT: Passing it.
+DOCTOR: You were passing blood okay.  So what did they do at that time?
+PATIENT: Uh they uh, it actually healed itself but uh.
+DOCTOR: You didn't require any kind of endoscopy or [REDACTED].
+PATIENT: They did, they went in and looked at it.
+DOCTOR: They did an endoscopy?
+PATIENT: They went in and looked at it.
+DOCTOR: Okay.
+PATIENT: But just medication was all, there was no surgery.
+DOCTOR: They did no surgery.  That was in which hospital?
+PATIENT: Pardon me?
+DOCTOR: That was in which hospital?
+PATIENT: LaGrange Community.
+DOCTOR: LaGrange Community okay and then you mentioned that you had a
+hip replacement.
+PATIENT: Loyola.
+DOCTOR: Uh how many years was that?
+PATIENT: That was in uh 2000, no no, it was before that, it was uh in '90.  Yeah it's been 18 years.
+DOCTOR: 1990.
+PATIENT: Yeah uh-huh.
+DOCTOR: Okay and which hip was done?
+PATIENT: Left.
+DOCTOR: The left one, okay.  And it was because you had arthritis there?
+PATIENT: Yeah it was, I saw four different doctors and uh they looked at the x-ray and uh, you got a bad hip, wait as long as you can, let me know when you're ready.
+DOCTOR: Okay and you never injured your hip right?
+PATIENT: Pardon me?
+DOCTOR: You never injured your hip or something.  You never had an accident or something?
+PATIENT: No, no.  The amazing thing.
+DOCTOR: What's an amazing thing?
+PATIENT: The amazing thing of that.
+DOCTOR: (Doctor gets a phone call) Okay sorry for the interruption.
+PATIENT:
+DOCTOR: a surgeon over at Loyola.
+DOCTOR: Uh-huh.
+PATIENT: And uh he did the surgery on a Thursday and I was back at work on Monday and uh I went back to see him for one check-up and uh then he died after that.  Couldn't go back and see him anymore and I hadn't had any check-up at all since then.
+DOCTOR: Okay.
+PATIENT: Been 18 years since then.
+DOCTOR: But does it bother you any?
+PATIENT: Not at all.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] implants okay.
+PATIENT: [REDACTED] hip yeah.
+DOCTOR: If there was copies [REDACTED].
+PATIENT: Pardon me?
+DOCTOR: There is another thing you [REDACTED].
+PATIENT: Oh the cellulitis.
+DOCTOR: Oh cellulitis when was that?
+PATIENT: I don't know exactly but it was.
+DOCTOR: Just take a guess.
+PATIENT: It's maybe ten years.
+DOCTOR: What exactly happened?
+PATIENT: Uh my lower left leg swelled up.
+DOCTOR: Uh-huh.
+PATIENT: To a point of where it was inflamed.
+DOCTOR: [REDACTED].
+PATIENT: Well I got an ulcer.  I've had a leg ulcer that's been there for a long long time.
+DOCTOR: Okay.
+PATIENT: And uh, and uh that was there, actually that was there before the hip replacement so.
+DOCTOR: Okay since then you have had it, okay.
+PATIENT: But this is, it was probably worse, gets better and then it gets worse.  It's not even worth having anything.
+DOCTOR: But the cellulitis [REDACTED] that was much worse than what you [REDACTED].
+PATIENT: Oh the whole leg was swelled and inflamed.
+DOCTOR: How did you get it treated?
+PATIENT: It was antibiotic I think.
+DOCTOR: Was it an IV antibiotic?
+PATIENT: Yeah.
+DOCTOR: IV.
+PATIENT: Uh-huh.
+DOCTOR: So were you in the hospital for that?
+PATIENT: I was in the hospital for that for uh and that was in LaGrange Community for probably I don't four or five days I think.
+DOCTOR: Okay.  Any other problem that you have, any other medical or physical problems, uh I see you are having a hearing aid.
+PATIENT: Yeah a hearing aid.
+DOCTOR: Since when have you had that?
+PATIENT: Yeah I've had those for probably ten years.
+DOCTOR: For 10 years.
+PATIENT: This is the second set now.
+DOCTOR: Okay.
+PATIENT: The first ones quit on me and I had to buy another one.
+DOCTOR: And you think [REDACTED].
+PATIENT: What?
+DOCTOR: Do you think that it is working that fine for you?
+PATIENT: It's uh, the right one isn't working as good as it had.  The left one is really, really good [REDACTED] I think.
+DOCTOR: Apart from the [REDACTED] do you have any other physical, any other medical issues?
+PATIENT: Not, well it's been, like I said the leg ulcer.
+DOCTOR: Uh-huh.
+PATIENT: I had a small hernia.
+DOCTOR: Uh-huh.
+PATIENT: In my belly button.
+DOCTOR: Uh-huh.
+PATIENT: And uh that's, but other than that, that's the only thing I can think of that's uh that's a problem.
+DOCTOR: Uh-huh.  Uh, you never had hypertension, high blood pressure or diabetes, asthma, do you smoke?
+PATIENT: Never did.
+DOCTOR: Okay.  Uh, drink alcohol?
+PATIENT: Uh quit 40 years ago.
+DOCTOR: 4 or 40?
+PATIENT: 40.
+DOCTOR: 40 and before that how much alcohol did you drink?
+PATIENT: Just social.
+DOCTOR: Just socially.  Uh any illicit drug issues [REDACTED] no okay.
+PATIENT: The only think I take now is uh a multivitamin and an aspirin a day.
+DOCTOR: Multivitamin and an aspirin.  Who told you to take aspirin?
+PATIENT: Pardon me?
+DOCTOR: Who told you to take aspirin?
+PATIENT: That was when I was in with that uh, I was in the hospital with that uh uh uh cellulitis.
+DOCTOR: Okay.
+PATIENT: And I've got an irregular heartbeat.
+DOCTOR: Okay.
+PATIENT: It's an irregular heartbeat and they uh, he wanted to put me on Coumadin and I said doc you know I'd really rather not get involved in that.
+DOCTOR: Uh-huh.
+PATIENT: And how about an aspirin a day and he very reluctantly said well maybe just as well.
+DOCTOR: Uh-huh.
+PATIENT: And so uh I've been taking an aspirin a day since then, that's been maybe ten years.
+DOCTOR: Uh-huh.  How much aspirin do you take 81 mg or the 325?
+PATIENT: I take regular aspirin.
+DOCTOR: The 325?
+PATIENT: Yeah 225 year.
+DOCTOR: The 325 okay.  Uh other than that, anything else, no okay.  You didn't call when you are mentioning this for something that has been happening for the last one month?
+PATIENT: I noticed some indication prior to that but it became more, more of a problem just this last month and it became a real problem this week so.
+DOCTOR: When was the time you were absolutely fine with this?  Year, the month?
+PATIENT: When I what?
+DOCTOR: When you were actually [REDACTED] was a problem when was that?
+PATIENT: Uh.
+DOCTOR: Just tell me how long that this was a problem, when was that?
+PATIENT: Uh.
+DOCTOR: Just tell me how you [REDACTED] problem.
+PATIENT: The the urination problem?
+DOCTOR: The urination problem yeah.
+PATIENT: Um three months ago.
+DOCTOR: Three months.
+PATIENT: Yeah three months.
+DOCTOR: Not years then.
+PATIENT: No.
+DOCTOR: Not years and years.
+PATIENT: A year yeah, a year ago I was fine.  Two months ago I was fine and then.
+DOCTOR: Okay.  Uh any back pain?
+PATIENT: When I work too hard.
+DOCTOR: But nothing down, when you are lying down, when you are relaxing?
+PATIENT: No.
+DOCTOR: Okay.  Any chest pain?
+PATIENT: No.
+DOCTOR: Uh shortness of breath?
+PATIENT: I'm getting older.  It seems like I can't do anything anymore.
+DOCTOR: What happens.
+PATIENT: Well any kind of, any time I get in a physical situation where I have to move, move boxes or things.
+DOCTOR: Uh-huh.
+PATIENT: I get tired faster and it takes me longer to recover but.
+DOCTOR: Are you able to walk how much steps can you walk without getting short of breath?
+PATIENT: Uh I walk all day really and uh.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I don't uh; I develop probably sore legs before I run short on breath with just normal walking.
+DOCTOR: Uh-huh.
+PATIENT: I'll go, I like to fly, I like airplanes and I uh go to Oshkosh.
+DOCTOR: Okay.
+PATIENT: I drive to Oshkosh, spend all day there walking around.
+DOCTOR: How far can you walk?  Can you walk a block or two without getting short of breath?
+PATIENT: Oh yeah.
+DOCTOR: You can?
+PATIENT: Sure.
+DOCTOR: Okay.  Uh okay but no chest pain right?
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: No.
+DOCTOR: No.  Any dizziness, any falls?
+PATIENT: When I was passing all that blood I couldn't stay vertical.
+DOCTOR: Okay, but not for the last few years?
+PATIENT: No.
+DOCTOR: Okay.  Do you get up at night sometime [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: No sweating.
+PATIENT: No, no.
+DOCTOR: But how many pillows do you use at night?  How many pillows do you use at night?
+PATIENT: Just one.
+DOCTOR: Just one.
+PATIENT: Just one yeah.
+DOCTOR: Has there been any time in the night when you woke up getting short of breath and then you needed to move around before you can go back to bed again?  Okay.  Okay.  Are you allergic to any medications?
+PATIENT: Not that I know of.
+DOCTOR: Uh any family history of heart disease or diabetes?
+PATIENT: My uh niece is diabetic, insulin-dependent.  Our son is insulin-dependent and uh.
+DOCTOR: Who.
+PATIENT: Huh.
+DOCTOR: Your own son?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: He, yeah he's 35 and he was diagnosed at 21 and my niece is 45 and she was diagnosed at 10.
+DOCTOR: Uh-huh.
+PATIENT: And uh that's the only that I know of.  My dad died of a heart attack just before his 80th birthday and my mom passed on of a cerebral hemorrhage at 54 so.  She didn't live long enough to figure out if she had heart trouble.
+DOCTOR: Uh-huh.  At 54 you mean.
+PATIENT: Yeah.
+DOCTOR: But your father and your mother both were not diabetic right?
+PATIENT: No.
+DOCTOR: And then the medications you take are the multivitamin and the aspirin that's it?  Yeah.  [REDACTED] so I can examine you, can you get comfortable?  Recently have you feel as if you are getting more forgetful?
+PATIENT: Uh not, not as much as my wife is.  My wife is very very forgetful.  She's got really, really bad and uh it almost seems like my memory has been improving since I've been working Sudoku puzzles.
+DOCTOR: Okay.
+PATIENT: So the Sudoku it seems to be helping me um.
+DOCTOR: In your house currently the members are you and your wife?
+PATIENT: Yes sir.
+DOCTOR: Just you and your wife.
+PATIENT: Just the two of us yeah.
+DOCTOR: Okay.  You do some kind of work these days?
+PATIENT: Pardon me?
+DOCTOR: You do some kind of work these days?
+PATIENT: Yeah I drive sick people to rehab actually and uh I do have another question.  This is a medical exam they want me to fill out for that driving job.
+DOCTOR: Okay, for the driving?  What kind wagon you drive?
+PATIENT: What kind of uh?
+DOCTOR: What kind of wagon you drive, is it an ambulance?
+PATIENT: No it's a minivan.
+DOCTOR: It's a minivan okay.
+PATIENT: And I have patients with uh wheelchairs and walkers.
+DOCTOR: Are you in some kind rapid transportation or just?
+PATIENT: No just it's a regular.
+DOCTOR: Just regular transfer.
+PATIENT: Regular transfer, in and out.  Take a load of [REDACTED] to rehab, take them back.
+DOCTOR: Do you have stairs at home?
+PATIENT: Now what?
+DOCTOR: Do you have stairs at home?
+PATIENT: Yes.
+DOCTOR: You do.  You are able to climb those up without a problem?
+PATIENT: 12 up and 12 down.
+DOCTOR: 12 up, 12 down.  No problems with those okay.
+PATIENT: If I get in.
+DOCTOR: Open your mouth, deep breath in and out.  Again, okay, breathe out, in and out okay, good.  I want to lie down over here and put your feet on this.  That's good.  So you have not seen a regular doctor in years and.
+PATIENT: Since that infection in my leg.
+DOCTOR: Uh-huh.
+PATIENT: That's been probably ten years.
+DOCTOR: Take a deep breath and hold it for a second okay breathe, okay once more, okay.  Any problems with bowel movements.
+PATIENT: Well this last week.
+DOCTOR: [REDACTED].
+PATIENT: Up till a week ago I had normal daily bowel movements but this urination problem it's affected that.  I've probably gone to four or five a day instead of the one a day.
+DOCTOR: Any pain when I press here?
+PATIENT: Pardon me?
+DOCTOR: Any pain when I press.
+PATIENT: No, it's just makes me feel I have to urinate worse.
+DOCTOR: Okay.  Can you take this off for a second?  Okay, this is the hernia you were talking about.
+PATIENT: Uh-huh.
+DOCTOR: I'll be taking your socks off okay?
+PATIENT: Pardon me?
+DOCTOR: I'll be taking your socks off.
+PATIENT: Okay.
+DOCTOR: The present state of legs is it bad for you or does it get even better than this?
+PATIENT: Is what?  What was that?
+DOCTOR: This ulcer which you were talking about.
+PATIENT: Yeah.
+DOCTOR: Are these the best these usually get or these get even better?
+PATIENT: This is probably as bad as they ever get.
+DOCTOR: Okay.
+PATIENT: They get much better than this at times yeah.
+DOCTOR: Do you get pain over here sometimes when you walk?
+PATIENT: No not really.
+DOCTOR: And you never get leg strains right?
+PATIENT: No, no.
+DOCTOR: Did you ever have something called varicose veins?
+PATIENT: Yeah I've got varicose veins.
+DOCTOR: Did you get treatment for that?
+PATIENT: No.
+DOCTOR: No.  Okay sit up for me.  [REDACTED].  This definitely does not look good.
+PATIENT: Pardon me?
+DOCTOR: You definitely don't look good.
+PATIENT: Yeah.
+DOCTOR: You don't get fevers right?
+PATIENT: No.
+DOCTOR: No okay.
+PATIENT: This leg has got a plate and six screws in here where a compound fracture, 50 years ago.
+DOCTOR: 50 years ago.
+PATIENT: 50 years ago.
+DOCTOR: Okay.
+PATIENT: Yeah there's a plate and six screws in that one.
+DOCTOR: You were having this kind of ulcers, since when you are having these types of ulcers.  How many years have you had them?
+PATIENT: This one?
+DOCTOR: Yes.
+PATIENT: Um five, six years.
+DOCTOR: Five, six years.
+PATIENT: Yeah.  It started with just a bump on the leg and just never healed up.
+DOCTOR: But this was something that just happened on its own right?
+PATIENT: Yeah.
+DOCTOR: The last thing for me to do, I need to do a rectal exam, to see how large is your prostate okay.  You know what a rectal exam is?
+PATIENT: Yeah.
+DOCTOR: You know what, now that is a [REDACTED] to do.
+PATIENT: Yeah I had a.
+DOCTOR: You've had a rectal exam.
+PATIENT: Yeah once before yeah.
+DOCTOR: Okay.  Okay, I would like to [REDACTED].  It will be very quick, just a minute, you will be done okay.
+PATIENT: Okay.
+DOCTOR: Uh I want you to get you off the pants so I can do the exam.  It will be very quick.  Okay.  (Someone knocked on the door, doctor spoke briefly with them)  Please lean on the [REDACTED] okay.  Do you feel any pain when I checked you?
+PATIENT: No.
+DOCTOR: No pain there?
+PATIENT: No.
+DOCTOR: No okay.  Good.  Thank you very much sir.  You have got a big prostate.
+PATIENT: Big prostate.
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: Okay, [REDACTED] out of the room for a few minutes, we have to check everything with our supervisors and other doctors to kind of plan [REDACTED] right and then [REDACTED] and come up with a plan okay now in the meantime you can have your coat and get dressed.  Hang on for a few minutes okay and then we'll talk about the causes.  I think this is all related with your [REDACTED] right?
+PATIENT: Yeah that's a report that they want for the driving, it's for the Rehab Institute in Chicago.
+DOCTOR: Okay.  That's for the [REDACTED].
+PATIENT: Yeah.  That's a normal report so it doesn't have to be complete, it's.
+DOCTOR: Okay.
+PATIENT: They just want to make sure that there's nothing currently.
+DOCTOR: I'll get you some okay.
+PATIENT: Appreciate it.
+DOCTOR: I'll be back soon.
+(DOCTOR OUT 28:21  DICTATION STOPS HERE)
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235333
+TRANSACTION # 578-10-2-316-0103

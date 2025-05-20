@@ -1,0 +1,189 @@
+DOCTOR: [REDACTED] I think you're supposed to be my 3:30 but if you want to go early.  Okay.  We just kind of have to be a little quicker so in case the 1:30 shows up, so we can get them in okay.
+PATIENT: Okay.
+DOCTOR: Unless you want to wait.
+PATIENT: No that's fine.
+DOCTOR: You'd rather come in?
+PATIENT: Yes ma'am.
+DOCTOR: Okay, come on in.  I'm DOCTOR and I think you already have a doctor.  I think DOCTOR is your doctor right?
+PATIENT: I'm not sure.
+DOCTOR: He saw you in March.
+PATIENT: Yes ma'am.
+DOCTOR: Yeah.  So what brings you in today?
+PATIENT: Uh I had an appointment to see the doctor and I wanted to know when it would be possible to get into a group.
+DOCTOR: What kind of group?
+PATIENT: Uh.
+DOCTOR: Why don’t you come over here, we can talk and I can go through your chart up at the same time.  Okay. What kind of group?
+PATIENT: You know any kind of group where you sit down and start saying things.
+DOCTOR: Like a mental health group or?
+PATIENT: [REDACTED].
+DOCTOR: What's bothering you?
+PATIENT: Oh, uh it's hard for me to sustain reality from fiction.
+DOCTOR: Give me an example.
+PATIENT: I keep seeing monsters and seeing people dying.
+DOCTOR: But it's not real as far as you know?
+PATIENT: I could tell just by [REDACTED].
+DOCTOR: So you feel like you're kind of seeing the future?  When did this start?
+PATIENT: Since 71.
+DOCTOR: So you're kind of seeing into the future.
+PATIENT: Yes ma'am.
+DOCTOR: Okay.  What's your past medical history?  What else do you have wrong?
+PATIENT: My legs.I need an operation on my leg.
+DOCTOR: Do you have heart disease?
+PATIENT: I had three stents put in.
+DOCTOR: When was that?
+PATIENT: Just about two months ago.
+DOCTOR: Okay.  What else?
+PATIENT: They had to operate on my eye too.
+DOCTOR:
+DOCTOR: you've had some heart disease um, he talked about where do you have screws in your, in your leg?
+PATIENT: Right here, right here.
+DOCTOR: So in the right knee, you had a right knee surgery and that's all really.  You don't have too much going on, in terms of chronic medical things.
+PATIENT: And it's hard for me to sleep.
+DOCTOR: Okay.  Do you see a psychiatrist?
+PATIENT: Yes ma'am, I just started coming here.
+DOCTOR: Okay they just saw you on June 30th and you told them, are you taking the sleeping pill they gave you?
+PATIENT: Yes ma'am.
+DOCTOR: Are you taking the olanzapine and sertraline?
+PATIENT: Yes.
+DOCTOR: And is that helping these symptoms?
+PATIENT: No.
+DOCTOR: We might just have to send you back to the Mental Health Center.  You know you have this condition which is atypical psychosis.
+PATIENT: Oh yeah.
+DOCTOR: You know that's what those medications are for.
+PATIENT: I see.
+DOCTOR: But if they're not controlling your symptoms then you probably need those medications to be changed.
+PATIENT: Okay.  I understand.  Could you make them a little stronger so I can rest?
+DOCTOR: I can't, but we're going to send you to them.
+PATIENT: Okay.
+DOCTOR: Hopefully today.  Hold on just a second.  The other question I had, I'm looking at your Mental Health Note from June 30th and they said that they gave you an appointment to come and see me um because you were having a cough and nasal congestion.  Are you still having that?
+PATIENT: Yes ma'am.
+DOCTOR: Well why don't we take care of that problem since you're here.
+PATIENT: Okay.
+DOCTOR: And then I'll call over to Mental Health and see if we can follow up over there today.
+PATIENT: Okay.
+DOCTOR: Okay.  Tell me about the cough.
+PATIENT: Oh, it's hard for me to oh, my throat is sore.
+DOCTOR: How long has that been going on?
+PATIENT: The last month.
+DOCTOR: Okay so you have sore throat.  When does the cough happen the most?  At night or during the day?
+PATIENT: At night.
+DOCTOR: Okay.  Does it keep you up?
+PATIENT: Yes ma'am.
+DOCTOR: Okay.  Um do you ever have like a sour taste in your mouth?
+PATIENT: Yes.
+DOCTOR: Okay.  At nighttime?
+PATIENT: Yes.
+DOCTOR: Okay.  And with the nasal congestion do you feel like stuff is dripping down your throat?
+PATIENT: Yes ma'am.
+DOCTOR: Okay.  Any history of asthma?
+PATIENT: No but I do have hay fever.
+DOCTOR: Okay.  Are you taking that loratadine that they gave you?
+PATIENT: Yes.
+DOCTOR: Does that help?
+PATIENT: Somewhat.
+DOCTOR: Okay.  So the cough’s been happening for about a month.
+PATIENT: Yeah.
+DOCTOR: So [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Has this ever happened before, like years before?
+PATIENT: No.
+DOCTOR: Okay.  Okay any fevers or chills.
+PATIENT: Chills and a fever.
+DOCTOR: Okay.  Any trouble breathing?
+PATIENT: No.
+DOCTOR: Okay.  When you cough are you bringing anything up?
+PATIENT: Yeah.
+DOCTOR: What types of stuff?
+PATIENT: Mucous.
+DOCTOR: What color?
+PATIENT: Sometimes it'll be yellow.
+DOCTOR: Do you have any other complaints today or just the initial complaint?
+PATIENT: I need to sleep, I'm tired.
+DOCTOR: Okay did you try that medicine they gave you?
+PATIENT: I didn't do no good.
+DOCTOR: Let me see if I have the number for Mental Health?  Let me see if this is the number.  Do you think you'd like to go over there and see somebody so they could change your medicines?
+PATIENT: If you send me, I'll go.
+DOCTOR: Let me call them.  I don't know if this is the right number, but we'll try.  I'm looking at your meds now and you know.  Did you try the cough syrup they gave you?
+PATIENT: Yes.
+DOCTOR: Did it help?
+PATIENT: No, no.
+DOCTOR: Any of [REDACTED] here?
+(Doctor made phone call in the room with patient)
+DOCTOR: You’re already on all the treatment.
+PATIENT: Okay.
+DOCTOR: For the cough, you know how you take this omeprazole medicine, do you know that one? (answers the phone) They’ll see you right when we’re done.
+PATIENT: Yeah.
+DOCTOR: So the omeprazole you can take maybe at nighttime instead of in the morning and maybe that'll help your cough.
+PATIENT: Okay.
+DOCTOR: You sound like you're laying down and maybe you're getting acid reflux.
+PATIENT: Uh-huh.
+DOCTOR: So maybe we should change that medicine to twice a day.  You take it in the morning and at night.
+PATIENT: Okay.
+DOCTOR: And hopefully that'll help your cough.
+PATIENT: Okay.
+DOCTOR: So that sounds good?
+PATIENT: Yeah.
+DOCTOR: I'm going to take a listen though and make sure your lungs sound good and then we'll get you on your way and I can have you take that medicine twice a day.
+PATIENT: Okay.
+DOCTOR: Here have a seat over here.  Do you know where the Intake Center is on the first floor of Building 228?
+PATIENT: Uh, I’ll find it. I don’t know where it is, but I’ll find it.
+DOCTOR: Do you know where 228 is, the Mental Health Building?
+PATIENT: [REDACTED] where I just come from?
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: And then you go to where it says Intake.
+PATIENT: Okay.
+DOCTOR: Um you're not having any voices telling you to hurt yourself or anything?
+PATIENT: Yesterday I did.
+DOCTOR: You did?
+PATIENT: Weird sounds and I have been getting [REDACTED].
+DOCTOR: Do you think you need to go to the Emergency Room instead or would you rather try going.  Have you ever had that happen to you before?
+PATIENT: Twice before.
+DOCTOR: What happened then, did you just go to Mental Health?
+PATIENT: Uh-huh yeah.
+DOCTOR: And they helped you with your medicines?
+PATIENT: Yeah.
+DOCTOR: Okay.  So I'm going to take a quick listen okay.  Take a deep breath.  Have you ever used an inhaler?
+PATIENT: Uh yes.
+DOCTOR: Do you want to try one now to help your cough?
+PATIENT: Okay, alright.
+DOCTOR: And do you want me to mail it to you or do you want to pick them up?
+PATIENT: Probably pick them up.
+DOCTOR: Okay.  Now this medicine, you can take two puffs, so two inhales um every six hours as you need it okay.
+PATIENT: Alright.
+DOCTOR: So see if it helps.  Now real quick, let me just look through here.  So what exactly are the voices telling you to do?
+PATIENT: Crying out to me for help.
+DOCTOR: Okay and how are they telling you to hurt yourself?  What do they say?
+PATIENT: I can do better than what I'm doing [REDACTED].
+DOCTOR: They want your help, okay.  You need to feel better than this right?  So I think this is probably the best option to go to the first floor, 228.
+PATIENT: 228.
+DOCTOR: I wrote it on here for you.  Um.  So and you're going to Building 228 first floor Mental Health Intake.
+PATIENT: Okay.
+DOCTOR: Okay so maybe if you get lost you can ask someone, you know Building 228.
+PATIENT: Okay.
+DOCTOR: It's like that way.
+PATIENT: Alright.
+DOCTOR: You go to the first floor and then instead of going out the front you kind of walk to the other building right?
+PATIENT: Yes ma'am.
+DOCTOR: So I'll be right back but here's this that you'll need.  I'll be right back you stay here for a minute.
+PATIENT: Okay.
+DOCTOR: Now I can leave the door open to get you some air okay.
+PATIENT: Please.
+(DOCTOR OUT:  50:12  DOCTOR IN:  56:55
+DOCTOR: Alright come on.  We got someone to walk you over so you won't get lost.
+PATIENT: [REDACTED].
+DOCTOR: I was worried because I'm not exactly sure where the desk is either so, we might as well send someone who knows exactly where you're going.
+PATIENT: Yes ma'am.
+DOCTOR: [REDACTED].  You got a lot of fun stuff here.  So it's nice to meet you.
+PATIENT: Nice to meet.
+DOCTOR: So you take that antacid medicine twice a day okay.
+PATIENT: Yes ma'am.  Okay I have [REDACTED] yes ma'am.  I'll be doing that.
+DOCTOR: Okay.
+PATIENT: Okay thank you.
+DOCTOR: Thank you sir.
+PATIENT: 57:30
+(Someone takes the patient to the Mental Health Building)
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238116
+TRANSACTION # 578-10-2-316-0103

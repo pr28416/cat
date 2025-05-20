@@ -1,0 +1,448 @@
+DOCTOR: PATIENT.
+PATIENT: Hey doc.
+DOCTOR: How you doing?
+PATIENT: [REDACTED].
+DOCTOR: I'm doing fine.
+SECOND PERSON F534
+How you doing?
+PATIENT: Told my wife I [REDACTED].
+DOCTOR: Was it okay?  Yeah she can come in.
+SECOND PERSON F534
+You bet I'm gonna [REDACTED].
+PATIENT: Okay I told my wife [REDACTED].  This is my senorita.
+DOCTOR: How you doing, my name is DOCTOR.  Have a seat buddy.
+PATIENT: I said to my wife, NAME's my secretary.
+DOCTOR: Oh yeah.  My name's DOCTOR, first time we're meeting, nice to meet you.
+PATIENT: Nice to meet you.
+DOCTOR: Um what brings you here today?
+PATIENT: Just a regular check-up I guess.  This is my day coming in here just for my eye and this and that.
+DOCTOR: Okay.
+PATIENT: And uh everything seems to be going pretty good except this cold.  I told her, the lady up front, that I can't get rid of this cold um coughing and then two or three times [REDACTED] medicine for sinus.
+DOCTOR: Uh-huh.
+PATIENT: But they never did send it to me.
+DOCTOR: Uh-huh.
+PATIENT: You know they didn't send it.
+DOCTOR: Okay.
+PATIENT: And they never did send and the cough medicine.
+DOCTOR: Okay.
+PATIENT: So everything, everything else is, everything else is okay.
+DOCTOR: Everything else is okay?
+PATIENT: Yes sir.
+DOCTOR: Nothing else to worry about?
+PATIENT: No.  I get a chest pain once in a while but that's uh like maybe that I cough too hard or something but uh [REDACTED] nothing to be worried about.
+DOCTOR: Okay.  You don't get chest pain when you're walking?
+PATIENT: No.
+DOCTOR: Do you get short of breath when you're walking?
+PATIENT: No but I don't walk too far.
+DOCTOR: Okay.
+PATIENT: Uh [REDACTED] I'm staying on the second floor.
+DOCTOR: Okay.
+PATIENT: But I don't have stairs in my [REDACTED].  I don't do nothing unusual like reaching too high or anything exciting.
+DOCTOR: Okay and why don't you walk too much?
+PATIENT: Oh just like I come out to check on the mail, I like to come down and I go back up and mail is gone, come down and go back up.
+DOCTOR: Okay and do you have any problems when that happens?
+PATIENT: No I just get a little tired sometimes you know.
+DOCTOR: Tired okay.
+PATIENT: Short-winded at the top of the steps but nothing unusual.
+DOCTOR: Okay.  How long has that been going on?
+PATIENT: Oh quite a while you know.
+SECOND PERSON F534
+About three, four months maybe.
+DOCTOR: For three or four months.  Um so this is something new right?
+SECOND PERSON F534
+No.
+PATIENT: I wouldn't say uh.
+SECOND PERSON F534
+No it's not new.
+PATIENT: Not new, it's just that I just want to take my time, no hurry.
+DOCTOR: Okay.  Um let's see.  So it looks like in the Cardiology Note they say you have triple vessel disease, three vessel disease.
+PATIENT: And I had a operation too.
+DOCTOR: You had an operation?
+PATIENT: A triple bypass.
+DOCTOR: Triple bypass.  So when did you have that?
+PATIENT: In May or April.
+SECOND PERSON F534
+April.
+PATIENT: [REDACTED].
+SECOND PERSON F534
+Of 10.
+PATIENT: 010.
+DOCTOR: Okay, April @@, April of [REDACTED]@ right?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um and since that time you actually feeling better?
+PATIENT: Oh yeah, yeah I'm better.
+DOCTOR: Yeah how different?
+PATIENT: Well uh I'd say I don't get the dizzy spells uh [REDACTED].
+SECOND PERSON F534
+Tired, he used to be tired.
+PATIENT: I used to be tired you know.  Like the last drop of blood is gone.
+DOCTOR: Okay.
+PATIENT: And then sometime I used to bend over and uh get a little dizzy.
+DOCTOR: Okay.
+PATIENT: So but I feel a lot better though.  I have more confidence in myself that I'm not going to collapse but I think one or two times I did have a little.
+SECOND PERSON F534
+A fainting spell.
+PATIENT: I had a fainting spell and I was down on the floor before I had the operation and [REDACTED] thing they is picking me up.
+DOCTOR: Okay.  But that was before the operation?
+PATIENT: That's before the operation.
+DOCTOR: Okay and you haven't had any complications like that since?
+PATIENT: No.
+DOCTOR: Good.  Okay, right.  Um tell me more about the cough you've been having.
+PATIENT: At nighttime it's like I cough and one time they give me some medicine.
+DOCTOR: Okay.
+PATIENT: But [REDACTED], you know when I was in the hospital and uh that really helps a lot.
+DOCTOR: Do you remember what medication it was?
+PATIENT: No I don't.
+SECOND PERSON F534
+[REDACTED] hospital.
+PATIENT: That's only while I was in the hospital but they had given something for the [REDACTED].  You know it's like you want to cough, cough up something, little tickle in your throat.
+DOCTOR: Okay.
+PATIENT: And but now most time I just gets a little hacking cough.
+DOCTOR: Okay.
+PATIENT: Sometime I can cough up something, sometime I don't.  They was giving me cough syrup here.  The one I get was better than the one I get at Walgreens.
+DOCTOR: Okay.
+PATIENT: So I have, uh I [REDACTED] about it but they haven't been sending it to me.
+DOCTOR: Okay, I'll check it, we can see and maybe you can pick it up here today.
+PATIENT: I need it yeah.
+DOCTOR: Okay.  Um tell me a little more about that cough.  Do you get it only at night?
+PATIENT: Well mostly at night.
+DOCTOR: Okay.  And um does it wake you up from sleep?
+PATIENT: Uh sometime it does.
+DOCTOR: Um is it ever during the day?
+PATIENT: No, not like I do at night.
+DOCTOR: Okay sore throat, runny nose?
+PATIENT: I have a runny nose, something else.
+DOCTOR: Runny nose.
+PATIENT: I'm ashamed to go out to a restaurant to eat because I be [REDACTED] to get up and going to the bathroom and I be embarassed you know [REDACTED] kind of thing but I check myself and I got stop it before it run down.  [REDACTED] when I had that asthma medicine with me.  What's that medicine I was taking?  Uh sinus.
+SECOND PERSON F534
+Yes sinus medicine.
+PATIENT: Sinus.
+DOCTOR: Okay.
+PATIENT: But the [REDACTED] said they gonna mail it to me but they never did send it.
+DOCTOR: Okay.  Was it called loratadine for your runny nose?
+SECOND PERSON F534
+Loratadine, I think it was.
+PATIENT: Yeah.
+DOCTOR: And then did you have guaifenesin?
+SECOND PERSON F534
+What's that?
+PATIENT: [REDACTED].
+DOCTOR: But I'm thinking your runny nose is probably causing the cough. So we can try the loratadine, see if that helps and then if it's not helping we can give you something else for the cough.  I mean there's a lot of things that can cause a cough.
+SECOND PERSON F534
+He's been taking that but he still has the cough.
+DOCTOR: Oh even with the loratadine?  Okay.
+SECOND PERSON F534
+It didn't stop the runny nose or anything.
+DOCTOR: Okay.  Okay.
+PATIENT: That nose is bad sometime.
+DOCTOR: And fevers or chills?
+PATIENT: No.
+DOCTOR: Okay.  Um the cough was going on for how long now?
+PATIENT: Oh quite a while it seems.  It looks like it'll go from summer to winter.  From summer to winter but sometimes like it [REDACTED] up, well with some of the medicine I get, I get cough syrup and uh that what you call that?  [REDACTED].
+SECOND PERSON F534
+Nose is stuffy.
+DOCTOR: Oh the flonase?
+SECOND PERSON F534
+Yeah that could be it.
+PATIENT: Okay, but no.
+SECOND PERSON F534
+That was for the runny nose.
+DOCTOR: [REDACTED].
+PATIENT: Uh but I been on that one a long time.
+DOCTOR: Okay and did that seem to help?
+PATIENT: That seem to help.
+DOCTOR: Okay, it helped the cough?
+PATIENT: Especially at nighttime, I took it when I lay down.
+DOCTOR: It helped your cough?
+PATIENT: Uh-huh.
+DOCTOR: Good okay.  Maybe we can try that again and see if that helps okay.
+PATIENT: I want to try anything.
+DOCTOR: Alright.  Um what blood pressure medications are one right now?
+PATIENT: Nurse? We didn't bring it today.
+DOCTOR: Alright if I give you names will you know?
+SECOND PERSON F534
+Yeah.
+DOCTOR: Okay, um so you take an aspirin.
+SECOND PERSON F534
+Uh-huh.
+PATIENT: Aspirin.
+DOCTOR: Um you [REDACTED] topical cream.
+SECOND PERSON F534
+Who, oh yes.
+PATIENT: Yeah.
+SECOND PERSON F534
+We got that.
+DOCTOR: Um something for moving his stool?
+PATIENT: Yeah, got that.  Metamucil.
+DOCTOR: Something for your prostate, finasteride.  Uh fish oil for cholesterol.
+SECOND PERSON F534
+Uh-huh.
+PATIENT: Got that.
+DOCTOR: The Lasix, the water pill.
+SECOND PERSON F534
+Yes.
+DOCTOR: You taking the water pill?
+SECOND PERSON F534
+Yes.
+DOCTOR: You taking lisinopril for blood pressure?
+SECOND PERSON F534
+Uh-huh.
+DOCTOR: The loratadine for allergies?
+PATIENT: Yes.  That's the one they didn't send me right? For allergies?
+SECOND PERSON F534
+Uh-huh.
+DOCTOR: And metoprolol for your heart.
+SECOND PERSON 395
+Uh-huh.
+DOCTOR: Okay um niacin for cholesterol.
+SECOND PERSON F534
+Yeah.
+DOCTOR: Okay simvastatin for cholesterol.
+PATIENT: Yeah.
+DOCTOR: Okay are you taking the potassium supplements?
+SECOND PERSON F534
+What's that?
+DOCTOR: Potassium supplements?
+SECOND PERSON F534
+Oh what do we do with that?
+DOCTOR: Oh it's just a supplement.  Because when you are on the Lasix sometimes your potassium can go low.
+SECOND PERSON F534
+I don't think so.
+PATIENT: Yes.
+SECOND PERSON F534
+If it's up there, he's taking it uh-huh.
+DOCTOR: Okay and terazosin for your prostate?
+PATIENT: That's that little pill ain't it?
+SECOND PERSON F534
+Yes, okay.
+DOCTOR: And then if you get chest pain they give you something under the tongue [REDACTED].
+SECOND PERSON F534
+No he don't take that anymore.  Since he had the operation he don't take that.
+DOCTOR: Okay good.  You never had to use it?
+SECOND PERSON F534
+Uh uh.
+DOCTOR: Good.  Do you need any refills on any other medications today?
+SECOND PERSON F534
+Yeah we [REDACTED] all of them.
+DOCTOR: Okay um your prostate level was high I'm looking at.  Has he, are you being followed in the Urinary Clinic?  [REDACTED] you just saw them.
+PATIENT: Uh yesterday it was good [REDACTED].
+DOCTOR: Do you have a history of prostate cancer?
+PATIENT: No they said the prostate cancer in the beginning.
+SECOND PERSON F534
+It was enlarged.
+PATIENT: It's enlarged prostate.
+DOCTOR: It's enlarged and they also said you've had a history of prostate cancer?
+PATIENT: Uh-huh.
+DOCTOR: Back in 1999.
+PATIENT: That’s when they diagnosed it, it was first diagnosed with cancer they said it was enlarged, [REDACTED] if it'd been cancer I'd have been dead by now.
+DOCTOR: Okay.  Well they asked you if you wanted to get treated but you decided you would just wait.
+SECOND PERSON F534
+I think he went on pills for that.
+DOCTOR: Well they gave him pills because it's enlarged and it obstructs the urinary flow but that doesn't cure the cancer okay.
+PATIENT: Uh-huh.
+DOCTOR: But those are two different things.  It might be enlarged because of the cancer but your prostate does get enlarged when you age and so it obstructs the flow of the urine and that's why they give you the medications to help you pee.
+PATIENT: But I think they said it was too far, what's that called a PSI?
+DOCTOR: PSA?  Yeah.
+PATIENT: PSA.
+DOCTOR: I'm looking at it right now.  Looks like back in about, back in 1999 it was at 4 but back in 2005 it went up to 14 and then it stayed up and down since that time, its back up to 14.  So I'd say you know you just saw them September 13th um and uh you're probably gonna go visit them soon again right?  So, that's what talk about.
+PATIENT: Going to GU?
+DOCTOR: GU yeah.  Something to talk about.
+PATIENT: But you know GU um one thing I will say, just kind of, I kind of got a little discouraged one time.  Every time you go there they want to see if they can put that thing on your leg, they called it a catheter.  My urine flow was good.
+DOCTOR: Okay.
+PATIENT: And uh I don't need that thing.
+DOCTOR: Okay.
+PATIENT: And then it uh, it beginning to make the ends on the thing down there and it get so uh swinging in and out.
+DOCTOR: Okay.  Let's see, let me check here, I was just wondering have you had any blood work recently?
+PATIENT: I had some like last [REDACTED].
+DOCTOR: You had some in July.
+PATIENT: Uh-huh and some before then too did we?
+SECOND PERSON F534
+Yes [REDACTED].
+PATIENT: I was here [REDACTED].
+DOCTOR: Did you have any more blood tests done?
+PATIENT: Well I mean I've been constantly having a low blood count but they said my blood count was good for a change.
+DOCTOR: Did they check your blood thinner?
+SECOND PERSON F534
+Blood pressure.
+DOCTOR: Blood pressure.  How about we check your blood count today to see how it is.
+SECOND PERSON F534
+We was here in September.
+DOCTOR: Was that back in July?
+PATIENT: In September.
+SECOND PERSON F534
+No, you just came not too long ago, right?
+PATIENT: Uh-huh.  That's been down.
+SECOND PERSON F534
+[REDACTED].
+DOCTOR: Uh it's been like four months.
+SECOND PERSON F534
+No it ain't that long.
+PATIENT: Oh, seems like about.
+DOCTOR: They might have taken blood but they were probably looking for something else.
+SECOND PERSON F534
+Oh, okay.
+DOCTOR: Okay.  Uh the kidney function looks okay.  I'll talk to DOCTOR and we'll what we can up with a plan, how's that sound?
+PATIENT: That sound good.
+DOCTOR: I don't see the cholesterol.  The last time it was checked, it was back in May and looks good.  Your LDL was 55 which is good and the total cholesterol is 119 is good okay.
+SECOND PERSON F534
+Alright.
+DOCTOR: How about if you sit up here for me?  Your blood pressure looks well controlled.
+PATIENT: You want me to take my jacket off?
+DOCTOR: Sure.  [REDACTED].
+PATIENT: Oh well, they said today it’s been the lowest I had, well even before I had the operation.
+DOCTOR: Any [REDACTED].
+PATIENT: Only if it's low.
+DOCTOR: You know I actually think that's a good range for your blood pressure, 107/60, as long as you're not feeling lightheaded or dizzy, good.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Especially because you've had heart disease before and you know the vessels are narrow in your heart.  You know the higher blood pressure is the more likely that that blood pressure is gonna cause injury to the vessels so we want to decrease that as much as you can.
+SECOND PERSON F534
+It's really gotten low ever since then.
+DOCTOR: Yeah so I mean as long, 100s to 110s, that's fine for the top number.  I'm okay with that alright.
+PATIENT: That sound good.
+DOCTOR: Um regarding the heart, you're seeing the cardiologist too, right?  Did they want to do any further work-up?
+PATIENT: [REDACTED] they want to give me a defibrillator.
+DOCTOR: Oh a defibrillator?
+PATIENT: I call it a carburetor.
+DOCTOR: I see.  But um, yeah so the reason we want to do that is because your heart pumping function is not up to normal.  So usually your heart would pump about 60% of what fills, so your heart's only pumping about 20%-30%.
+PATIENT: Lower huh.
+DOCTOR: So it's not pumping forward as well as it should be.  You know when the heart's weak like that.
+SECOND PERSON F534
+Uh-huh.
+DOCTOR: It's prone to having a lot of arrhythmias, meaning a lot of irregular beats and so those beats can sometimes be fatal, cause ventricular tachycardia and that's why they want to put in a defibrillator.
+SECOND PERSON
+Uh-huh.
+DOCTOR: Cause it's gonna prevent, say your heart goes into on of those irregular rhythms, that defibrillator can shock your heart back into the right rhythm.  That's the reason they wanted to do that.
+PATIENT: Yeah I was on, I would kind of skip the one time because I was in the hospital and this man he had a defibrillator.
+SECOND PERSON F534
+Fibrillator.
+DOCTOR: Go on.
+PATIENT: And uh while they was putting it in, some kind of way they punctured one of the muscles.
+DOCTOR: Okay.
+PATIENT: And um he had had problems ever since so.
+DOCTOR: You know everyone has different complications for the procedure and unfortunately those were his complications but usually the complications are pretty rare and that's why you should see your electrophysiologist, the cardiologist that specializes in electrical rhythms because there are people that actually, I know you're going to see DOCTOR and she's the one that specializes in that rhythm and so she would be the one to put in the procedure, she could probably tell you a little bit more about it.  I think it'd be pretty important but especially if your heart's pumping function is not good, you're more prone to having that defibrillator in.
+PATIENT: You know sometime I would cause different rhythms when it's like I got a double beat or something.
+DOCTOR: Uh-huh.
+PATIENT: I get that sometimes, especially if I get excited or something, you know my nerves.
+DOCTOR: Okay.
+PATIENT: It's just like it'll beat harder then it beats kind of slower.
+DOCTOR: Looks like your pumping function back in 2007 was okay but because you know your heart, the hearts um I think it's the blood vessels to the heart have kind of weakened the heart so it'd be important, even though you have that CABG, the triple bypass, I think it's important to go to the cardiologist and get evaluated for that pacemaker, not pacemaker but defibrillator.
+PATIENT: Carburetor.
+DOCTOR: It does both.  The defibrillator will also act as a pacemaker.
+SECOND PERSON F534
+Is that, it both in the one or both of them, is it two different thing [REDACTED].
+DOCTOR: It's actually just one device but it has, but depending on what type of leads that's put in it, it can do the function of both.  So the defibrillator has the added function of softening the heartbeat too.
+PATIENT: How they got different opinions.  My daughter-in-law had mentioned what she an [REDACTED] or what is it?
+DOCTOR: Anesthesiologist.
+PATIENT: They put you to sleep [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And she says daddy, it's not a bad deal I would go for it because you might be uh, bought us some time.
+DOCTOR: I agree you know.  Like I said you're prone, if your heart's pumping function's not there, you're prone to having an irregular rhythm and so that defibrillator can prevent that from happening.  So if it does go into irregular rhythm, it'll shock your heart back into the regular rhythm.
+SECOND PERSON F534
+[REDACTED]?
+DOCTOR: No it's not gonna change that but it's gonna, it's more of preventative measure for if your heart goes into that irregular rhythm, alright.
+PATIENT: I think uh, I think I'm gonna end up uh; I got a lot of people that are on my side for getting it so.
+DOCTOR: So it looks like what they want to do is put you on the best medication possible um and then based on if they can put you on the best medications and then see how your heart looks again, after they keep you on the better medications and see if your heart recovers, see if the heart pumping function recovers.  So if the heart pumping starts to recover then you might not need to have the defibrillator okay.
+PATIENT: What kind of medicine?
+DOCTOR: So you're on lisinopril and metoprolol which are excellent medications for the heart and since your heart is weak it's better to keep your blood pressure lower cause your heart doesn't have to work so hard against the blood pressure.
+SECOND PERSON F534
+Lisinopril, that's the one he take at night right?
+DOCTOR: Uh do you take it at night?  You can take it in the morning but it's once a day.
+SECOND PERSON F534
+Okay.
+DOCTOR: Okay and the metoprolol is twice a day but I think you might be on the, you're on the long-acting so you also take that once a day.
+PATIENT: Do you think it'd be best to take it in the morning or at night?
+DOCTOR: You know it's up to you.  I think that um, it's honestly up to you.  You could take it in the morning but you could also take it at night but it's just once a day okay.
+PATIENT: [REDACTED].
+SECOND PERSON F534
+Uh I think it's at night.  How do you spell it?
+DOCTOR: Lisinopril?
+SECOND PERSON F534
+[REDACTED].
+DOCTOR: Lisinopril.
+SECOND PERSON F534
+He usually takes it at night.
+DOCTOR: That's okay.  I'm gonna take a listen to your heart okay.  Take a big deep breath in and out for me.  Good.  Have you noticed any extra swelling in your legs?
+PATIENT: Uh sometimes.
+DOCTOR: Sometimes, how's it look now today?
+PATIENT: Oh well I had these socks on yesterday and today and they gave me some other socks to put on.
+DOCTOR: Okay.
+PATIENT: And I wore these socks yesterday now it looks like I'm a little swollen today a little bit.
+DOCTOR: Okay.  For the most part they look okay right.  Is this more swollen then usual?
+PATIENT: Uh this, it do that in the morning time very little.
+DOCTOR: Okay.
+PATIENT: I think those socks might help.
+DOCTOR: Okay you wear the compression stockings?
+PATIENT: I got some uh when I put them on it be like [REDACTED].
+DOCTOR: Okay.  Good um.  Actually, looks good.  [REDACTED] take a look at the veins in your neck.  Okay look straight ahead.  [REDACTED].  Let me push on your belly okay.  Good, good. Uh do you have any other questions for me or any other concerns?
+PATIENT: How about it, nurse?
+DOCTOR: Okay.  So how about we do this, we'll put you back on the loratadine.
+PATIENT: Uh-huh.
+DOCTOR: You can get that today; let's see the last time you got it.  It's been a while.  Cause sometimes the lisinopril, the last time you got it was August 29th so it's been a while since you got it.  Let's see if that helps.
+SECOND PERSON F534
+Is that for the allergies?
+DOCTOR: For the cough, sometimes you can have a cough because of the lisinopril as well but that's a good medicatioin for your heart but I don't want to stop it okay.  So let's see how you do with the loratadine and then if you need something for cough we can give you like the cough medications.
+PATIENT: That sound good.
+DOCTOR: Sound good.  Um and then we'll go from there.
+PATIENT: Okay.
+DOCTOR: And then let's try to do some blood work today just so we can see how everything looks.
+PATIENT: Alright.
+DOCTOR: Especially since we have you on these medications I can check your kidney, and make sure your blood count's okay so that your heart's not working too hard okay and I'll be right back.  I'll go talk to DOCTOR okay.
+PATIENT: Do you want me to put this back on?
+DOCTOR: Sure.
+SECOND PERSON F534
+Do you have a card [REDACTED].
+DOCTOR: Um I can write it down for you.  I don't actually have a card [REDACTED].  Let me ask DOCTOR [REDACTED].
+SECOND PERSON F534
+[REDACTED] have a question you can probably have him call back.
+DOCTOR: [REDACTED] let me see if I can get you a number.
+SECOND PERSON F534
+Okay.
+(DOCTOR OUT:  28:17  DOCTOR IN:  48:00)
+DOCTOR: Hey PATIENT.  Sorry to take so long.  [REDACTED] um looks like you might have like uh pre-diabetes from the last blood work that we had and so I think DOCTOR, who you saw last time, referred you to the Nutrition Clinic so maybe you can control this with proper nutrition instead of going on another medication.  So I think we should probably send you to the Nutrition Clinic so if you want to stop by today and just make an appointment um or just see if they can give you an appointment.
+PATIENT: Uh.
+SECOND PERSON F534
+She called [REDACTED]
+PATIENT: She called me alright; she sent me some diet uh.
+DOCTOR: Perfect.
+PATIENT: Let's see what was the name uh?
+SECOND PERSON F534
+Literature in the mail.
+PATIENT: Yeah NAME.
+DOCTOR: And then um I think your blood pressure [REDACTED] you know you think it might be low but for someone whose heart is not functioning well you can tolerate blood pressures in like the 90s with the top number being in the 90s so I think we should increase the lisinopril um just a little bit more okay and see how you do and then have you follow up in the Cardiology Clinic where they could repeat that study that takes a look and see your heart pumping function okay.
+PATIENT: Uh-huh.
+SECOND PERSON F534
+Uh-huh.
+DOCTOR: Sound good?
+PATIENT: Sound good.
+DOCTOR: Alright and then um the other thing is we're just gonna repeat that blood work today just because your blood count's a little bit low so we just want to make sure that's okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: I know and that could be because of the kidneys, the kidneys in chart of making your blood count's high but of course, sometimes if your heart's weak and it's not pumping to the kidneys as well and sometimes the kidneys are a little bit damaged so they just want to make sure the kidneys are okay.
+PATIENT: So I still give them blood.
+DOCTOR: Just get some blood work today and I'll call you if any of the results are abnormal and then I'll refill that prescription for you.
+PATIENT: Alright.
+DOCTOR: Um for the nasal drip.
+PATIENT: Okay. And cough syrup.
+DOCTOR: And cough syrup too okay.
+PATIENT: Alright.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: I'll take care of all that alright.
+PATIENT: Alright good.  Thanks a lot doc.
+DOCTOR: Okay.
+PATIENT: Thanks doc.
+DOCTOR: Very nice seeing you.
+SECOND PERSON F534
+Alright nice meeting you too.
+DOCTOR: Nice meeting you too.
+PATIENT: I was telling my wife all my doctors seem to get.
+DOCTOR: [REDACTED].
+SECOND PERSON F534
+Yeah [REDACTED].
+PATIENT: 50:46.
+Time is [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300285
+TRANSACTION # 578-10-2-316-0103

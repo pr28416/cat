@@ -1,0 +1,216 @@
+DOCTOR: PATIENT?
+PATIENT: Hi.
+DOCTOR: Did you have a nice Christmas?
+PATIENT: Alright.
+DOCTOR: Yes.  I saw you had, [REDACTED] the ER for the back.
+PATIENT: Okay, the sciatic nerve?
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: So you still haven’t done the MRI I see.
+PATIENT: No?
+DOCTOR: Did they even call you?
+PATIENT: This, I'm supposed to get it done sometime next month.
+DOCTOR: Next month, did they schedule it?
+PATIENT: They scheduled it; I got the letter that says, next month.
+DOCTOR: [REDACTED] okay, at 8 o'clock.
+PATIENT: Right.
+DOCTOR: And then you're gonna see the Rehab doctor on the 7th?
+PATIENT: Right, uh.  These things that they gave me to help me with the sciatic nerve.
+DOCTOR: Uh-huh.
+PATIENT: And they gave me something else and it's not doing anything.
+DOCTOR: But the prednisone can only be given for like a very short time and so they only gave you the one week.  We can't put on that long term cause it can cause diabetes, osteoporosis along with other stuff.  So this is a steroid.  This is the Vicodin, has that been helping?
+PATIENT: A little.  I ran out of these and uh right now I'm taking three Aleve and two Motrin.
+DOCTOR: Okay.  Did these help when you took em?
+PATIENT: Yeah, it wasn't [REDACTED].
+DOCTOR: Okay cause I can refill this.
+PATIENT: Okay well.
+DOCTOR: This one, I won't give you again because this is, this is a medication we give sparingly because of all the side effects.
+PATIENT: Oh.
+DOCTOR: Okay?  This we can, we can I can give you more of until we get you to the Rehab doctor so they can do the exercises that you need.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright and then uh could you change this nitroglycerin?
+DOCTOR: Mometasone and what's this one?  Flunisolide.  Uh let me see if it's available.  Cause what they did is they, they went and changed it on their own when there was a shortage and this is the inhaler.  Let me see if, if this is available okay.
+PATIENT: Okay.
+DOCTOR: How often are you doing the [REDACTED], how often were you doing this one?
+PATIENT: This one I was doing twice a day, once in the morning and once at night.
+DOCTOR: Okay.  Let's see if it’s . . .  So you were doing it as an inhaler right?
+PATIENT: Right.
+DOCTOR: Not a nasal spray, right?
+PATIENT: No it's an inhaler.
+DOCTOR: Yeah, see, it’s not even coming up as an option.  The problem is, they’re not even, it's not even being offered anymore.  This was in place of this.  That's not working for you or not as good?
+PATIENT: Not as good.
+DOCTOR: Okay.  How's the uh, how's the breathing?
+PATIENT: It's good.  I couldn't have that; I took the whatcha call the sleep study.
+DOCTOR: I saw that.
+PATIENT: And I couldn't fall asleep.  I went until 1:00 in the morning.
+DOCTOR: Yeah.
+PATIENT: So I got there at 8:30 and they hook you up and I'm just laying there tossing and turning and I couldn't go to sleep.
+DOCTOR: That's a hell of a time though, especially for a sleep study on Christmas Eve.
+PATIENT: Laughter.
+DOCTOR: Laughter.  I'm surprised anyone was working in this place.  Okay, so the, they'll try to do it again.
+PATIENT: Again yeah.
+DOCTOR: Are you still having troubles with the shortness of breath at night?
+PATIENT: No.
+DOCTOR: No okay.  Um are you noticing that you're getting short of breath regularly or?
+PATIENT: No.
+DOCTOR: No okay.  So with what you're on, I know this is not as good as that was, but with what we have you on, the albuterol and ipratropium separately, you feel that things are okay?
+PATIENT: Right.
+DOCTOR: Okay.  Alright and then I know that you saw the rheumatologist and they put a, they gave you a shot in your shoulder.
+PATIENT: Uh-huh, it’s not working.
+DOCTOR: It didn’t help.
+PATIENT: There's another thing I wanted to talk to you about.
+DOCTOR: Okay.
+PATIENT: Uh, when they do the MRI on my leg, can they don one on my shoulder to see what's with the shoulder or, if I tore it again?
+DOCTOR: Well let me see here.  Patient shoulder, [REDACTED] emergency, [REDACTED].
+PATIENT: Um they won't let me go back to work.
+DOCTOR: Who won't let you go back to work?
+PATIENT: Uh the doctor in the ER.
+DOCTOR: Uh-huh.
+PATIENT: Because of the sciatic nerve.
+DOCTOR: Uh-huh.
+PATIENT: Because of the shoulder, they said I shouldn't go back to work.  Because last time, when I was carrying up a sheet of drywall and then all of a sudden, you know how I told you my leg would give out.
+DOCTOR: Yes.
+PATIENT: My leg would give out.
+DOCTOR: Yeah.
+PATIENT: My leg gave out again.
+DOCTOR: Okay.
+PATIENT: And that's when we talked and found out that it's the nerve.
+DOCTOR: [REDACTED] okay.
+PATIENT: And I’ve known you now for a real long time, my leg would give out, my leg would give out.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] found out why.
+DOCTOR: Well right, cause we were thinking it was the peripheral vascular disease that you had before.
+PATIENT: Right.
+DOCTOR: But finally that checked out, to make sure that wasn't the reason.
+PATIENT: Right.
+DOCTOR: And so that wasn't, so it's probably the nerve.
+PATIENT: Right.
+DOCTOR: So we'll see what the MRI shows.  Um, you know.
+PATIENT: Well you think you can do my shoulder?
+DOCTOR: Yeah I'll order it.
+PATIENT: You know, both of them at one time.
+DOCTOR: It's your right shoulder right?
+PATIENT: Correct.
+DOCTOR: You have no implants or foreign objects?
+PATIENT: No.
+DOCTOR: Shrapnel, none of that stuff?
+PATIENT: No.
+DOCTOR: Okay.  You're not claustrophobic?
+PATIENT: No.
+DOCTOR: Okay, now I have to do it all over again.  But so the shoulder is unchanged?
+PATIENT: Right.
+DOCTOR: When you're taking the Vicodin was that helping at all with the shoulder?
+PATIENT: Yeah, it, you know between the Vicodin and the Aleve.
+DOCTOR: Uh-huh.
+PATIENT: Because I was still taking the Aleve with the uh with the Vicodin.
+DOCTOR: Uh-huh.
+PATIENT: Uh, I was doing alright.
+DOCTOR: Okay.
+PATIENT: Nobody, [REDACTED] try to get everything fixed so I can get off the pills.
+DOCTOR: Right.  No I understand.  And you're going on the 5th, so let me just think if I can just schedule it for then. (DOCTOR working on computer)  Huh, just to make sure you have the blood work.  Well, they're going to require some basic blood work before this MRI so we're gonna need it regardless.
+PATIENT: Okay.
+DOCTOR: So I'm just gonna order it okay.  So alright, so and then so for the shoulder we'll get an MRI.  You're gonna see the Rehab doctors.
+PATIENT: Okay.
+DOCTOR: And um and we'll go for and then I'll renew the um, I will renew the Vicodin.
+PATIENT: Okay and that stuff that you guys gave me for the fungus is working too.
+DOCTOR: Good, good and it doesn't put your liver at risk for failure so I'm glad.  That's improving?
+PATIENT: Yes.  My toes have practically cleared up.
+DOCTOR: Good.
+PATIENT: You know and this one is.
+DOCTOR: Yeah, okay.
+PATIENT: Come along real good too.
+DOCTOR: Good.  Uh let's see.  Now the Vicodin, do you want to pick it up or do you want it to be mailed to you?
+PATIENT: No I'll pick it up.
+DOCTOR: Okay.
+PATIENT: That's it.
+DOCTOR: No problem.  Okay.  So let me see if there's anything else that we need to look at.  So what's going on with your liver?  Are you gonna go back to the Liver Clinic or what?
+PATIENT: Yes.
+DOCTOR: Okay.  When are you planning to do that?
+PATIENT: They, they told me as soon as I get rid of all this fungus to give them a call.
+DOCTOR: Perfect.
+PATIENT: Because of uh the.
+DOCTOR: Right they don't want to deal with active infection okay good.  So we're making headway on the fungus and then once that's under control then you'll go back to see the Liver.
+PATIENT: Right.
+DOCTOR: Okay.  For the sciatica we have ya, pain medicines, so we're gonna get the MRI as well as the neurologists you're gonna see, those are the nerve doctors.
+PATIENT: Okay.
+DOCTOR: And you have an appointment to see them in early February, but by then you'll have the MRI, we'll have the rehab going and see how you do with those.
+PATIENT: Okay.
+DOCTOR: Okay.  The asthma is stable so that's good.  Okay.  Do you need any of your other medicines refilled?
+PATIENT: Uh no I don't think so.
+DOCTOR: Okay.  Now let me just look here to see if there's any other tests done.
+PATIENT: And they said the Albuterol there's only one refill left?
+DOCTOR: Okay, I'll take a look at it, one second.  We should, while we're doing your blood work today I'm gonna check your PSA, that's that prostate test that we do, it's just a blood test.
+PATIENT: Okay.
+DOCTOR: Okay.  And then in terms of your medicines so, you've got 4 on that, 6 on that,  your albuterol looks like [REDACTED] renew those.  Uh you want to pick up, you want go pick up your inhalers while you’re down there or do you want them mailed to you?
+PATIENT: I can pick them up.
+DOCTOR: Okay.  You'll get these too.
+PATIENT: Sign in [REDACTED] by the time the bloodwork is done.
+DOCTOR: Exactly.
+PATIENT: Questions, all these meds that I'm taking seem to make my blood pressure right now, they said it was kind of high.  Do you think it could be this that's affecting my blood pressure?
+DOCTOR: Um no.  I'm gonna repeat your blood pressure though.  Are you in any pain right now?
+PATIENT: Just my leg.
+DOCTOR: How bad is your pain?
+PATIENT: It's, it's up there.
+DOCTOR: Okay.  Pain can cause your blood pressure to go up so on a scale of 1 to 10 how high?
+PATIENT: 6.
+DOCTOR: Okay.
+PATIENT: 6 you know.
+DOCTOR: So I'll repeat your blood pressure but that's not uncommon.  When people are having pain that makes their blood pressure go up so, I'm not going to start you on blood pressure medicine because once we remove the pain your blood pressures will look fine, you see what I'm saying?
+PATIENT: Yeah.
+DOCTOR: So we take a falsely elevated blood pressure cause of pain.  So we want to be able to treat the pain not the blood pressure.
+PATIENT: Alright.
+DOCTOR: The blood pressure will normalize once we get rid of the pain okay.
+PATIENT: Cause you know I've never had, you know.
+DOCTOR: I know.
+PATIENT: I've never had you know blood pressure, you know high blood pressure you know but.
+DOCTOR: Yeah, no, that's the reason why because the pain is, it's because you're having pain.  Not uncommon to have it happen.  Okay.  Why don’t you sit over here for me.
+PATIENT: Uh it hurts to put pressure on the foot.
+DOCTOR: Yeah.
+PATIENT: It's all.
+DOCTOR: All the way down.
+PATIENT: I can feel it in my toes.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Uh, I'll probably give you a [REDACTED].  Plus sometimes the machines out there are not calibrated regularly so that the blood pressure might be a little inaccurate but the main reason is usually pain.  Okay, now I'll hold up your arm, just relax it.   Okay, the number is 144/82.  The top number is still high but again as I said when you're in pain, we expect that.  Let me just type that in the computer.  I just want finishing examining you okay?  Deep breath.
+PATIENT: (Breathes)
+DOCTOR: Okay good.  Just breathe normally.  Okay.  Come and sit down over here.  Remind me, have you had a colonoscopy?
+PATIENT: Yes.
+DOCTOR: How long ago has that been?
+PATIENT: Oh about a year I guess.
+DOCTOR: And it was done here?
+PATIENT: Yes.
+DOCTOR: Okay.  So I think we have a plans for everything.  So, in the meantime, if we can figure out why you're having so much issue with your back, which is also the sciatica.  So continue the Vicodin and we'll do everything else.  Okay, they can do physical therapy with you to hopefully, help alleviate the stress on that nerve and try to get this improved okay.
+PATIENT: I [REDACTED].
+DOCTOR: Okay.  It's not uncommon that can happen.  But usually it happens with guys because they tuck their wallet in their back pocket and they sit like you know, whenever you sit down the pressure compressing on the nerve and then it just causes injury and it causes the pain.  So that's usually, that's usually the number one culprit to be honest with you.
+PATIENT: Your wallet.
+DOCTOR: Your wallet being in the back pocket and then once we like tell people to take your wallet out of your back pocket, then all of a sudden they feel much better.  But I'm not sure, you know yours, since yours was so severe, we need, I think we should see what the MRI shows, if there's anything else, if there's something particular in the back that's still pushing on it or what, what's going on okay?
+PATIENT: Alright.
+DOCTOR: Um alright.  Okay.  Let me go talk to my boss, I'll be right back okay?
+PATIENT: Can you still give me the [REDACTED]?
+DOCTOR: Uh yeah and here I can take them.
+(DOCTOR OUT:  41:37  DOCTOR IN:  47:50)
+DOCTOR: Okay.  So you are all set.  So um, I put in that order for the MRI and I asked if they'd do it the same day that they're doing your back, so hopefully they can accommodate that okay.
+PATIENT: Okay.
+DOCTOR: And then if the MRI of the shoulder shows something that's you know, grossly abnormal then I'll refer you back to the Ortho so they can evaluate you, okay?
+PATIENT: Okay, okay.
+DOCTOR: Um and then you're gonna get the, you're gonna continue in Podiatry and you have a plan for everything.  We just need to get these tests done so that we can see you know, whether it's from the [REDACTED] or not and then we'll, we'll go based on that.  Alright.  Is there anything else that you need?
+PATIENT: Let me know when you want me to come back for the results of the MRI.
+DOCTOR: So the result of the MRI, the MRI is typically read um about a week, within a week, generally after, give it a weeks’ time after it's done.  So what I would do is just call the office here um like the next week so you're getting it done January 5th, so like you would be the 10th or something.
+PATIENT: Okay.
+DOCTOR: And then I will look at it and I can call you with the results.
+PATIENT: Okay.
+DOCTOR: Okay and just call and say you're asking for your MRI results that's all.
+PATIENT: Okay.
+DOCTOR: Okay and that will give me a reminder as well to look.  I'm gonna look but just go ahead and ask for a reminder and I'll give you a call with the results.  Alright, you're all set.
+PATIENT: Okay.  Thank you.
+DOCTOR: Uh-huh.
+PATIENT: Happy New Year.
+DOCTOR: Yeah you too.  Hopefully we'll get to the bottom of this huh.  [REDACTED].  Okay all good to go.  Thank you, have a great holiday sir.
+PATIENT: You too.  Happy New Year.
+DOCTOR: You have a Happy New Year.
+DOCTOR: 50:27
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1233985
+TRANSACTION # 578-10-2-316-0103

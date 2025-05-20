@@ -1,0 +1,96 @@
+DOCTOR: So what brings you in the clinic today?
+PATIENT: Hey, uh I just had this cough that's been like really bothering me.
+DOCTOR: OK, how long have you had that for?
+PATIENT: Uh like in the past few days, it's been really like gross and I've been coughing up this like gunk, but I've had it for, I've honestly had a cough for like three months, it's just like sometimes it's like there, and sometimes it kind of goes away. It feels like it keeps coming back.
+DOCTOR: OK, have you had any chest pain?
+PATIENT: Um no, like it kinda hurts when I cough now but not not like on its own.
+DOCTOR: OK, have you noticed any fevers at home? Or fevers at all in the last couple days?
+PATIENT: Uh I've been feeling like hot at night in the past couple days, uh but like I didn't actually take my temp.
+DOCTOR: OK, have you had any night sweats? You wake up, the sheets are soaked?
+PATIENT: Uh no, not that.
+DOCTOR: Nothing like that, OK, have you noticed any unexplained weight loss over the last little while?
+PATIENT: Um, no.
+DOCTOR: So so you go on the scale, you lost a few pounds, but you haven't been trying to basically.
+PATIENT: No, like I, I don't really weigh myself, but I don't think so.
+DOCTOR: So you haven't been noticing clothes have been fitting loose or anything like that?
+PATIENT: No, no, like I wish but no.
+DOCTOR: Got it, got it. Now let's talk about what you're bringing up with your cough. What colour is it?
+PATIENT: It's really gross. It's kind of like greenish.
+DOCTOR: Greenish, OK, and also any red or any blood with it?
+PATIENT: No.
+DOCTOR: OK. And doesn't smell at all, smell funky?
+PATIENT: I haven't noticed.
+DOCTOR: OK, so you've just been bringing this stuff up for the last couple of days, when specifically? Two days ago, three days ago?
+PATIENT: Like maybe maybe three days.
+DOCTOR: Three days ago, and you said before that you kind of had this dry cough before. Uh when did you first notice that? Three months ago, you said?
+PATIENT: Yeah, I was uh, I I do like um, it like sounds silly but I do like a pole dancing class just for exercise and I was like at my class and I kind of just started to like feel like I was like a little coughy and like I don't think there's anything special, that was just like when I noticed it.
+DOCTOR: OK, anyone at the class sick at that time?
+PATIENT: I don't think so, like it's a really long time ago, I don't really remember.
+DOCTOR: Got it, got it. Anyone sick near you or around you in the last couple of weeks?
+PATIENT: No, no, not that I can think of.
+DOCTOR: OK, and regarding other, any, we already talked about chest pain, uh you've been able to eat food alright?
+PATIENT: Uh yeah, like uh yeah it's like pretty normal.
+DOCTOR: So no nausea, no vomiting?
+PATIENT: Uh no, none of that.
+DOCTOR: You don't have a stiff neck at all, do you?
+PATIENT: No, no I don't.
+DOCTOR: OK, but how about other parts of your body? Any pain? Tenderness anywhere?
+PATIENT: I don't think so, no. Like I'm I'm a little tired now, um like the cough is like maybe for like a month, it's been kind of waking me up a little bit so my my sleep hasn't been great, but I don't think it's like I have like pain. I'm just like tired.
+DOCTOR: OK so the cough does wake you up at night?
+PATIENT: Yeah.
+DOCTOR: Does it wake you up every night?
+PATIENT: Yeah, like pretty well, for like the last, not like all three months, but probably the last month.
+DOCTOR: OK. Alright. I'm just gonna move on, talk a little bit about you and the past. Uh so any issues that you've seen a doctor for before?
+PATIENT: Uh just like eczema.
+DOCTOR: OK, and do you take anything for that?
+PATIENT: Just like moisturizing creams, um like my family doctor back home said like, a couple times when it was really bad she would give me one like to go get at like shoppers, but right now it's not bad so I just have just like a regular cream.
+DOCTOR: Got it, ever been hospitalized before?
+PATIENT: Uh, no.
+DOCTOR: OK, any surgeries?
+PATIENT: No.
+DOCTOR: OK so aside from the eczema, it sounds like you're pretty healthy eh?
+PATIENT: Yeah.
+DOCTOR: OK. Do you have any allergies?
+PATIENT: Uh I think maybe um maybe cats because, I I don't have one, but sometimes I've noticed stuff, but I've never like, it's never really been too big of an issue.
+DOCTOR: OK, so you've never taken any medications or got stung by a bee and had any trouble breathing or even a certain food?
+PATIENT: No.
+DOCTOR: Nothing like that, OK, are you taking any medications right now?
+PATIENT: Uh no.
+DOCTOR: OK, and you just go to Western?
+PATIENT: Mhmm.
+DOCTOR: Do you live uh near campus with anyone?
+PATIENT: Uh I have like a roommate, yeah we, I live in an apartment with a roommate.
+DOCTOR: OK, have they been sick at all in the last little while?
+PATIENT: No.
+DOCTOR: OK, and last little while, have you done any traveling?
+PATIENT: No.
+DOCTOR: So you haven't been outside the country or any exotic locales in the last little while?
+PATIENT: No, like I'm planning to on March break, but I haven't gone anywhere.
+DOCTOR: Got it, got it, so you live in town uh with your roommate and you're currently a full time student?
+PATIENT: Mhmm.
+DOCTOR: OK, and just regards to anything, do you smoke?
+PATIENT: No, like I don't um I don't smoke cigarettes like I sometimes sometimes smoke marijuana, but usually um usually it's like the vape.
+DOCTOR: OK, how often we say you do that a week?
+PATIENT: Oh, like, maybe like once every like 2 weeks or something.
+DOCTOR: Got it, any other substances slash drugs?
+PATIENT: No, like alcohol sometimes, like.
+DOCTOR: OK so no cocaine, no heroin?
+PATIENT: No.
+DOCTOR: And have you ever um injected drugs into your body?
+PATIENT: No.
+DOCTOR: Got it, got it. Just coming back to alcohol, uh how often would you say you drink?
+PATIENT: Maybe like one one night like on the weekend.
+DOCTOR: OK and what do you drink, how much do you drink?
+PATIENT: I don't know, maybe like 5 or 6 beers. I guess it just depends on the night.
+DOCTOR: Got it, got it, and other questions, when was your last menstrual period?
+PATIENT: Maybe like 2 weeks ago?
+DOCTOR: Two weeks ago, OK. Are you sexually active?
+PATIENT: Uh yeah, just with my boyfriend.
+DOCTOR: OK, so do you two use contraception, birth control?
+PATIENT: Yeah, we use uh like condoms.
+DOCTOR: OK, any chance you could be pregnant right now? That was a strange question to ask if you're sexually active, but any unprotected sex in the last two weeks?
+PATIENT: No.
+DOCTOR: Got it, alright, and we're just kind of going over things,so it sounds like you've had this cough or a cough for a little while but it's only become bad in the last three days. You're waking up at night and you're kind of bringing up this foul or not this foul but this kind of greenish sputum, but it's, no blood in it, and otherwise you don't have any constitutional symptoms so I will go review your story with the doctors. Anything else you'd like to bring up with them before I go?
+PATIENT: I don't think so, I just like I like I hope I just can feel better 'cause I've been missing like my exercise stuff 'cause I feel like it's just like coughing and it makes it hard to like do well.
+DOCTOR: Got it, got it. We'll see what we can do. OK, thank you very much.
+PATIENT: OK, thanks.

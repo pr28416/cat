@@ -1,0 +1,237 @@
+DOCTOR: PATIENT.  How are you today sir?
+PATIENT: I'm good.
+DOCTOR: [REDACTED].  Come on back.
+PATIENT: Okay.
+DOCTOR: How you doing?
+PATIENT: I'm good.
+DOCTOR: Good. Alright have a seat.  How you doing sir?
+PATIENT: Oh not so bad I guess.
+DOCTOR: Alright.  Let me bring you up here.  Uh when did I see you last here, August huh?  Over the summertime.
+PATIENT: That was the last visit with you?
+DOCTOR: Yeah.
+PATIENT: Yes it was about that time.
+DOCTOR: Around four or four and a half months maybe.
+PATIENT: Yeah.
+DOCTOR: How have things been going at home?
+PATIENT: Oh pretty well.
+DOCTOR: Yeah.
+PATIENT: I have some problems stemming from my childhood not only from the trauma from my childhood.
+DOCTOR: Uh-huh.
+PATIENT: And the service too.
+DOCTOR: Uh-huh.  Is that what you're seeing Psychology for?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: I'm just [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED] help me.
+DOCTOR: Well let's see, how are your medicines doing?
+PATIENT: Uh they seem to be working alright.  I take uh; I take this saw palmetto, saw palmetto.
+DOCTOR: Yeah.  Uh-huh.
+PATIENT: When I have trouble with my urinating and uh.
+DOCTOR: Uh-huh.
+PATIENT: I have that problem and it seems to help kind of.
+DOCTOR: The saw palmetto okay.
+PATIENT: Yeah.
+DOCTOR: And uh your inhalers you're still taking?
+PATIENT: Yes I, I take them as needed.
+DOCTOR: Well those we want you to be taking all the time.
+PATIENT: Well the ones at home I uh, the I have two of them at home I take uh.
+DOCTOR: Yeah.
+PATIENT: Let's see there's just this uh machine.
+DOCTOR: Uh-huh.
+PATIENT: And then there's the one that uh I forget what it's called right now.
+DOCTOR: Now there's Symbicort.
+PATIENT: Symbicort.
+DOCTOR: That's the one that you take twice a day and there's just one you take once a day.
+PATIENT: Symbicort, the one that I take once a day seems to be more effective than the one I used to take twice a day.
+DOCTOR: Yeah I mean they're all good in combinations with each other though.
+PATIENT: Uh-huh.
+DOCTOR: So even though one may make you feel better right away, it's good in the long term to keep using them like that.
+PATIENT: Uh-huh.
+DOCTOR: They're different types of medicines.
+PATIENT: Yes.
+DOCTOR: But you're taking both of those every day?
+PATIENT: Uh actually I'm only taking one now; I forget the name of it uh, uh right now let's see.  I should have written this down but.
+DOCTOR: Uh-huh.  Yeah um I'd like for you to take all of them though um.  Is there a reason you're not taking the other one?
+PATIENT: Well it just didn't seem to be very effective and uh so I finally gave it up .
+DOCTOR: Okay.  I'd like you to take both though if you can.
+PATIENT: Okay.  Okay.
+DOCTOR: So I think it's the twice a day one you're probably not taking.
+PATIENT: Yeah.
+DOCTOR: You didn't bring your medicines with you you said?
+PATIENT: No I didn't, I should've, I'm sorry.
+DOCTOR: Okay, okay.  Well today do you need any medicines?  Do you need that inhaler we're talking about or any of your inhalers or your?
+PATIENT: Well the pocket inhalers I'm pretty well.
+DOCTOR: Yeah.
+PATIENT: Supplied with them and the ones at home I had the medication for those too.
+DOCTOR: And you have the other inhaler, the one you're not using, you have that one still?
+PATIENT: Yeah, I actually have that yeah.
+DOCTOR: Okay and then the you know the albuterol one, that one probably you [REDACTED] carry.
+PATIENT: I'm really not sure just how much of any of those I have left so I haven't used them for quite a while actually.
+DOCTOR: Okay I'll make sure you have refills of everything.  Do you need anything mailed to you right now?
+PATIENT: Uh.
+DOCTOR: It looks like you ran out of your cholesterol pill and all this stuff you haven't been taking for a while.
+PATIENT: Well the trouble is when they mail the.
+DOCTOR: Yeah.
+PATIENT: Medication if it won't fit in the mailbox I have to drive the ten miles round trip to pick it up at the post office.
+DOCTOR: Oh.  Your cholesterol pill and your prostate pill, looks like you're not taking those anymore is that right or?
+PATIENT: Cholesterol.
+DOCTOR: Cholesterol pill yeah your simvastatin.  You haven't picked those up since June.
+PATIENT: Simvastatin, yeah I take those on a regular basis I think yes.
+DOCTOR: Yeah.  Okay.  Um okay so it looks like you need refills of that then um.  Let's see, otherwise your breathing's been okay?
+PATIENT: Pardon?
+DOCTOR: Your breathing's been okay?
+PATIENT: Yeah breathing has been pretty good yeah.
+DOCTOR: No cough, no chills.
+PATIENT: No, no.
+DOCTOR: Or sweats, nothing like that.  You know you had that lung infection before so I just wanted to see what's going on.
+PATIENT: I cough once in a while but uh.
+DOCTOR: Yeah.
+PATIENT: Not very often.
+DOCTOR: Are you still using that treadmill or anything like that?
+PATIENT: No I've got to get back to that I think.  I need to get some, I need to exercise.
+DOCTOR: Yeah.  And you told you used to use the treadmill but you got bored with it after a couple of minutes.
+PATIENT: Yeah.  I had it rigged up to a TV I could watch but that doesn't work.  I just uh, this what is it, what is it, I was just trying to think of the name of this uh X-finity company.
+DOCTOR: [REDACTED].
+PATIENT: I'm gonna change my, I'd better change my provider for my computer and TV.
+DOCTOR: Okay, alright um alrighty and you still drinking a couple drinks a day?
+PATIENT: I drink red wine, sweet red wine.
+DOCTOR: Uh-huh.
+PATIENT: Buy a gallon of it for about $10.
+DOCTOR: Uh but how many drinks a day do you have?
+PATIENT: Maybe one or two.
+DOCTOR: Okay.
+PATIENT: I don't have a great craving for alcohol.  Sometimes I these days I, some days I don't even take it to drink a drop.
+DOCTOR: Yeah.
+PATIENT: I have lots of alcoholic beverages at home.
+DOCTOR: Uh-huh.  And how are you eating at home?
+PATIENT: I need to improve on that.
+DOCTOR: Yeah.  You used to get that Meals on Wheels right but you didn't feel like you needed it.
+PATIENT: No that's, yeah I didn't think that worked that well.
+DOCTOR: Okay.  Yeah your weight is up a little bit so that's good.  It's up about four pounds since I saw you last.
+PATIENT: Around here, I need to lose that weight, that doesn't really do me any good.  I need to watch my diet.  I need to improve on my diet, eat more of that natural foods and.
+DOCTOR: Okay.
+PATIENT: And not so many processed foods.
+DOCTOR: You're eating a couple meals a day though still?
+PATIENT: Yes uh-huh.
+DOCTOR: Okay.
+PATIENT: At least two or three meals.
+DOCTOR: Okay.  Okay.  Uh and you're still paying all your own bills, getting your own groceries, all that stuff?
+PATIENT: Yes sir.
+DOCTOR: Still driving?
+PATIENT: Yes.
+DOCTOR: Okay, alright um.  How has your urine been?
+PATIENT: Uh if I don't take the, uh when I don't take these saw palmettos sometimes I have trouble urinating.
+DOCTOR: Okay.
+PATIENT: But that seemed to improve.
+DOCTOR: Okay.
+PATIENT: Help me improve but the uh the medications that they.
+DOCTOR: Yeah.
+PATIENT: Prescribed.
+DOCTOR: Yeah.
+PATIENT: That is not effective.
+DOCTOR: Is not working hmm.  Uh we could maybe try a different medicine you know.  I mean it sounds like you have an enlarged prostate that's where your urine issues are coming from.
+PATIENT: Yeah.
+DOCTOR: Um we could try a different medicine if that one didn't work.
+PATIENT: Maybe that would be, that might.
+DOCTOR: And we can mail that to you and see if it'll help, what do you think?
+PATIENT: Yeah, it might be a good idea yes.
+DOCTOR: Yeah okay.  Let's see, but you stopped taking that prostate pill though right?
+PATIENT: Beg pardon?
+DOCTOR: Are you still taking the prostate pill or did you stop taking that?
+PATIENT: Uh yeah I'm still taking the ones that are prescribed, all the medication that's been prescribed I take usually.
+DOCTOR: Okay.  Uh let's see uh I'm just going through your labs here you had last time.  You still see the psychiatrist right?
+PATIENT: I'm seeing a psychologist.
+DOCTOR: Yeah.
+PATIENT: Somewhat near where I live.
+DOCTOR: Okay.
+PATIENT: Psychologist, not a psychiatrist.
+DOCTOR: Yeah.  Alright.
+PATIENT: The psychiatrist is usually for a little more serious problems I guess aren't they?
+DOCTOR: Uh-huh, yeah, more uh with medication and stuff like that.
+PATIENT: Yeah.
+DOCTOR: And you're not smoking anymore right?
+PATIENT: No I quit smoking.
+DOCTOR: Did you get the flu shot?
+PATIENT: Yes I got the flu; I got the flu shot this morning yes.
+DOCTOR: Oh good.  The nurse just gave it to you?  Alright and let me see what else today, yeah so a few of the things, one we'll try a different prostate pill and then I want you to take both of those inhalers.
+PATIENT: Yes okay.
+DOCTOR: Okay one is twice a day and one is once a day and the other one just when you need it that you carry around with you.
+PATIENT: Yeah, yeah, yeah okay sir.
+DOCTOR: I think even though you don't feel like it helps you I think it will in the long term help your lungs.  Um, alright your cholesterol you take them uh [REDACTED] get it checked.
+PATIENT: Sometimes I think quite often you hear it on the TV.
+DOCTOR: Uh-huh.
+PATIENT: If the medication makes them, causes them to think about suicide.
+DOCTOR: Yeah.
+PATIENT: Cause most people, I don't think, think about suicide, they start taking some of this medications they prescribe and then it causes them to think about committing suicide for some reason.
+DOCTOR: Yeah.
+PATIENT: So with medication for psychology and psychiatric problems I don't believe in it very much.
+DOCTOR: Yeah.  Okay.
+PATIENT: Maybe if it's a real serious problem so they might believe that people might think of doing irrational things but maybe uh, maybe some of that medication will just kind of numb them so they won't think about it.
+DOCTOR: Yeah.
+PATIENT: It kind of shocked me the one right if it causes you to think about suicide then they say call us without delay.
+DOCTOR: Right.  Alright so then let me go talk with my attending doctor and I'll be back okay.
+PATIENT: Pardon?
+DOCTOR: Let me talk with the other doctor and I'll be back.
+PATIENT: Yeah, yeah, okay fine.
+DOCTOR: Other questions for me or no?
+PATIENT: Pardon?
+DOCTOR: Do you have any questions for me or no?
+PATIENT: I'm sorry?
+DOCTOR: Any questions for me or no?
+PATIENT: No I guess not right now, that I can think of right now.
+DOCTOR: Oh okay, alright, I'll be right back, stay here.
+PATIENT: Okay, right here is okay.
+DOCTOR: Alright.
+(DOCTOR OUT:  43:30  DOCTOR IN:  50:56)
+DOCTOR: Okay um [REDACTED] stuff here.  I'll renew all your medicines here.  Um simvastatin so just this all of this you can have.  Are you still taking like an aspirin or something?
+PATIENT: Yeah I still take an aspirin every day yes low dose.  I make up these doses ahead of time so I make up my medication doses for about a month ahead of time.
+DOCTOR: Okay.
+PATIENT: So I [REDACTED].
+DOCTOR: Okay.
+PATIENT: The pills when it's time to take it.
+DOCTOR: Good yeah, so the main thing for today is I want you to just restart that other inhaler and then we'll give you the different prostate medicine okay.  Otherwise your blood pressure looks good; all your labs from back in August um look great.  Your blood levels, your iron levels, your kidney, your liver, your cholesterol, so we don't need to repeat any blood on you.
+PATIENT: Okay.
+DOCTOR: It's only been four months and everything looked great um so I renewed all your medicines and then let me.
+PATIENT: I think I have most of the medication I.
+DOCTOR: Yeah I just renewed them as far as if you need refills.
+PATIENT: Okay good.
+DOCTOR: To make sure they're up-to-date um and we'll send you the new prostate, called tamsulosin.  It's the same as the other one, Flomax is the other name for it.  Um sometimes it works better in people and you just take it once a day [REDACTED] at bedtime.
+PATIENT: This uh, these SAM-E pills.
+DOCTOR: Yeah.
+PATIENT: I did take them; I discontinued them I don't think they're doing very much.
+DOCTOR: Yeah.
+PATIENT: Good.
+DOCTOR: Alright.
+PATIENT: They're kind of expensive for one thing.
+DOCTOR: Exactly, [REDACTED] covered.  Alright so you take those two inhalers right?
+PATIENT: Pardon?
+DOCTOR: You're gonna take those two other inhalers now.
+PATIENT: Uh yes, I carry these with me and then the other two, the one is on the machine.
+DOCTOR: Uh-huh.
+PATIENT: I took those once every day.
+DOCTOR: Okay.
+PATIENT: These are just once a day.
+DOCTOR: Okay.
+PATIENT: And then this uh, this other one, I forget this medication but uh I thinks that's for, that's for breathing I think.
+DOCTOR: Yeah.
+PATIENT: Seems to improve my breathing.
+DOCTOR: Okay um alright, very good.  Uh anything else?
+PATIENT: No I think that's about it.
+DOCTOR: Very good.  We'll see you in a couple of months.
+PATIENT: Okay.
+DOCTOR: Things are going good.  Just take that other inhaler and take your prostate medicine okay.
+PATIENT: Okay very good.  There's no medication that I need to pick up today then is there?
+DOCTOR: No I'm just gonna mail, oh unless you want to pick up that prostate one.  It's up to you; otherwise I can just mail it to you.
+PATIENT: Well I guess they could just, well maybe if I could pick that up.
+DOCTOR: You want to pick that one up okay.  Very good, okay, so I changed that you can pick that one right up.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Alrighty, okay thank you.
+DOCTOR: Okay have a good day.
+PATIENT: Yeah.
+PATIENT: 54:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300309
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,107 @@
+DOCTOR: PATIENT?
+PATIENT: Hi.
+DOCTOR: Good to see you.
+PATIENT: Good to see you doctor.
+DOCTOR: Come on in.  Okay.  So how are things?
+PATIENT: Uh pretty good.
+DOCTOR: Uh-huh.
+PATIENT: I think so yeah.
+DOCTOR: Good.  [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Following the holidays [REDACTED] at good thing.
+PATIENT: Oh yeah.
+DOCTOR: Are you feeling better?
+PATIENT: Yeah.
+DOCTOR: Okay, um uh I  have a few things I want to talk about.
+PATIENT: Yeah.
+DOCTOR: Um your blood pressure today is great.
+PATIENT: Yes it is.
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] any more and you’re taking your medications.  So great job with that.
+PATIENT: Whoever gave me that last, I don't know if it was you.
+DOCTOR: I think it was me.
+PATIENT: They gave me the last pill cause I was taking [REDACTED].
+DOCTOR: You're taking two times a day right?
+PATIENT: Right and ever since I got that last one it's been great. [REDACTED] Looks like we finally got you know where it should be.
+DOCTOR: Well that's good to hear.
+PATIENT: Uh-huh.
+DOCTOR: Um and then uh, let's see your cholesterol is also.  You don't have diabetes do you?
+PATIENT: No, not to my knowledge.
+DOCTOR: Not to your knowledge.  So um your pulse is doing well.
+PATIENT: Well good.
+DOCTOR: Yeah we're not going to [REDACTED].  No history of heart attack or stroke or anything like that?
+PATIENT: No.
+DOCTOR: Okay. Um and you don't smoke anymore?
+PATIENT: Uh I got to be honest with you.
+DOCTOR: Okay.  You do smoke.
+PATIENT: I do smoke yes.
+DOCTOR: Alright.  You know the more times people try, the more likely it is that the next time they’ll be able to quit.
+PATIENT: Okay.
+DOCTOR: So um, it's very important to keep on trying to quit okay.
+PATIENT: Oh absolutely.
+DOCTOR: And whenever you want to we can refer you to the Smoking Cessation Clinic.  They can help you [REDACTED].
+PATIENT: Okay.
+DOCTOR: Any other drugs?
+PATIENT: No, oh no.
+DOCTOR: So no cocaine or anything like that?
+PATIENT: No.
+DOCTOR: You told me that right.
+PATIENT: Right.  That would be wrong.
+DOCTOR: Um alright.  Uh so not a lot to do today uh; let's see, since you’re doing better.  [REDACTED] currently on. Let me just go talk to, I need to go talk to DOCTOR.
+PATIENT: Is DOCTOR?
+DOCTOR: She is on vacation.
+PATIENT: [REDACTED].
+DOCTOR: You're the only one I have.
+PATIENT: I'm glad she's taking a vacation.  I think she is the best doctor.  I love her.  Yeah she's.
+DOCTOR: I hear that frequently.
+PATIENT: She's a thorough doctor, I love her.  She does a great job.
+DOCTOR: I hear that so often.
+PATIENT: I'm so glad to have her as my primary physician.
+DOCTOR: Glad to hear that.  So okay I'll to her and I'll be back.
+PATIENT: Alright.
+(DOCTOR OUT:  6:37 DOCTOR IN: 10:18)
+DOCTOR: Okay.  So uh a couple things uh.
+PATIENT: Hmm.
+DOCTOR: So [REDACTED] um you really can't believe some [REDACTED].
+PATIENT: Oh I know.
+DOCTOR: Yeah.  Are you interested in going to our MOVE Program?
+PATIENT: Tell me what that is.
+DOCTOR: You don't know what it is, okay.  So it's like a weight loss program.  Where they help [REDACTED] they'll give you membership to our gym and uh try to get you, give you a chart on losing weight.
+PATIENT: [REDACTED] do that.
+DOCTOR: Okay.  Okay we can actually have you see her today.
+PATIENT: Okay.
+DOCTOR: That’s pretty much it. And uh everything else is doing well.  I saw that tomorrow's your birthday.
+PATIENT: Yes it is.
+DOCTOR: Happy birthday.
+PATIENT: Thank you.
+DOCTOR: And uh regard, we also have like a score that we have to give you today um.
+PATIENT: Score is for?
+DOCTOR: It’s basically how you’re doing.  [REDACTED]
+PATIENT: Oh okay.
+DOCTOR: Would you describe yourself as superior functioning [REDACTED] get out of hand or would you describe yourself as absent or minimal symptoms, mild anxiety, for an exam, [REDACTED] functioning in all areas [REDACTED] interested and involved in a wide range of activities?
+PATIENT: There.
+DOCTOR: There you go.  [REDACTED] expectable reactions [REDACTED].  No more [REDACTED].
+PATIENT: Go back.
+DOCTOR: Sounds good.  What's your pain score look like?
+PATIENT: Uh about a 3.  Yeah. [REDACTED] used to be bad [REDACTED].
+DOCTOR: Yeah it used to be bad huh.
+PATIENT: Yeah.
+DOCTOR: Yeah, yeah I remember that.  Uh okay.  Let me go talk to MOVE Program and get you set up for that okay.
+PATIENT: Okay [REDACTED].
+DOCTOR: Uh-huh.  Why don't you come on with me?
+PATIENT: Okay.
+DOCTOR: Okay.
+(Doctor takes patient to talk with the MOVE Program people)
+DOCTOR: Okay.
+PATIENT: Thank you.
+DOCTOR: Take care.
+PATIENT: Thank you.
+DOCTOR: Okay have a Happy birthday.
+PATIENT: Take care now, thank you.  Appreciate it, take care.
+DOCTOR: and patient talks with MOVE Program.
+It's noon.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255162
+TRANSACTION # 578-10-2-316-0103

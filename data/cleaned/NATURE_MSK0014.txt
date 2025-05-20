@@ -1,0 +1,106 @@
+DOCTOR: How may I help you?
+PATIENT: I just came in here today, I usually don't come to the doctor that much unless I absolutely need it. Five days ago I started having this pain and swelling in my right knee. So and at first I thought it was just like my arthritis acting up but it's been getting more swollen and painful than usual, so I just wanted to come in and check it out.
+DOCTOR: OK, so when did you first notice that this pain, like when did it get more swollen and painful than usual?
+PATIENT: So like I would say around 5 days ago it started getting more and usually I do get pain in some of my joints but I I don't really get swelling so that was a bit different.
+DOCTOR: OK, and is the joint hot as well, or is there a temperature change?
+PATIENT: It is, it does feel like if I touch the joint it does feel a bit warmer than the surrounding areas.
+DOCTOR: OK, does it look red?
+PATIENT: It It definitely it definitely looks more red than my other knee.
+DOCTOR: OK, and so what knee is it that, that's bothering you right now?
+PATIENT: It's the right knee.
+DOCTOR: OK. And so this pain has been going on for the last five days. Has it been getting better, worse, or staying the same?
+PATIENT: I think it's getting a. It's getting it was getting worse, but it's like a bit better right now.
+DOCTOR: OK.
+PATIENT: Yeah it comes and goes in severity though.
+DOCTOR: OK, and how would you describe the the pain. The character of it, is it sharp, dull, or achy?
+PATIENT: It's it's like someone is stabbing me in the knee and it hurts the most when I'm moving the knee.
+DOCTOR: OK, and does the pain radiate anywhere?
+PATIENT: Uhm, I don't think so, no.
+DOCTOR: OK, so you're feeling it just in the knee and you said moving the knees is painful. Is there anything else that makes the pain worse?
+PATIENT: Uhm, not really like resting it definitely helps, yeah, but I just have to keep it a bit immobilized.
+DOCTOR: OK, and is there anything that that makes the pain better that you've tried like maybe medications or any ice packs or anything like that?
+PATIENT: Uh, not really. I do take some painkillers, so just some Advil, which seems to help a little bit.
+DOCTOR: OK. And. And um. OK, is the pain worse at any particular time of the day, like do you have morning stiffness?
+PATIENT: Yeah, usually with my normal this arthritis I do get some morning stiffness but this is completely different, it's throughout the day pretty much.
+DOCTOR: OK, and did you have any trauma or any injury to the knee?
+PATIENT: No, I didn't.
+DOCTOR: OK, uh.
+PATIENT: I I did have like a steroid injection to the same knee just a week ago, but no, I I haven't fallen on it. I haven't had any operations.
+DOCTOR: OK. Anne. And. Have you had any fevers or chills?
+PATIENT: No.
+DOCTOR: OK, have you had any changes to any of your senses like vision, hearing or your sense of smell or taste?
+PATIENT: No, nothing like that.
+DOCTOR: Have you had a runny nose or sore throat?
+PATIENT: No.
+DOCTOR: Have you had any cough or shortness of breath?
+PATIENT: No.
+DOCTOR: How about any wheezing?
+PATIENT: Nope.
+DOCTOR: Have you had any chest pain or yeah, have you had any chest pain?
+PATIENT: No.
+DOCTOR: How about any lightheadedness or dizziness?
+PATIENT: No,
+DOCTOR: OK and have you had any nausea or vomiting?
+PATIENT: Um nope.
+DOCTOR: Alright, have you had any loss of appetite?
+PATIENT: No.
+DOCTOR: And have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any changes to your bowel movements such as diarrhea or constipation, incontinence?
+PATIENT: No.
+DOCTOR: Any urinary problems like painful urination or frequency.
+PATIENT: No, not really.
+DOCTOR: Have you had any skin changes like rashes anywhere?
+PATIENT: No.
+DOCTOR: OK, and any other painful joints or muscle aches or body pains?
+PATIENT: Yeah, I just got my general like I havee osteoarthritis, so I like It's been a pretty long time though but I get some pain in my hips sometimes my knees, so it's it's that's been going on for awhile, but this is something I've never experienced though like this significant pain and swelling and redness.
+DOCTOR: OK. And have you had any changes to your memory or any confusion?
+PATIENT: Nope.
+DOCTOR: OK, and have you had any unexpected weight loss?
+PATIENT: No.
+DOCTOR: And how about any night sweats?
+PATIENT: No.
+DOCTOR: OK, Um in the past have you been diagnosed with any medical conditions?
+PATIENT: I do have. So I have a couple conditions. I have osteoarthritis in both my knees and hips. I have high blood pressure. I did have a heart attack four years ago and I also have had heart failure. And also I'm just a bit on the overweight side.
+DOCTOR: OK, are you currently taking any medications?
+PATIENT: Yeah, so I am taking just um Furosemide then Ramipril for my blood pressure. But yeah, that's that's about it right now and like just painkillers over the counter.
+DL OK, uh. And any allergies to medications?
+PATIENT: Um, just to have a penicillin allergy.
+DOCTOR: OK, and what's the rash, or sorry what's the reaction?
+PATIENT: I don't really remember I was a child at that time. I don't remember what reaction I really got.
+DOCTOR: I see OK and have you had any prior hospitalizations or surgeries?
+PATIENT: Surgeries I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago.
+DOCTOR: OK, did you have any surgeries on your on your heart like a cabbage or?
+PATIENT: I had a couple a couple of stents put in.
+DOCTOR: OK, and you take aspirin for that?
+PATIENT: Um yeah.
+DOCTOR: OK. Uhm, Alright, and could you tell me a little bit about where you're living and who you're living with?
+PATIENT: Yeah, I live with my wife and daughter. And kind of live in a small little townhouse just, in the city.
+DOCTOR: OK, uh, are you currently working or uh, are you retired?
+PATIENT: I I kind of had to retire after just my past medical history like the heart attack and then. There was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. My wife still works. Yeah, I'm taking it more easy now.
+DOCTOR: OK. And with being at home, are you able to manage the majority of activities of daily living on your own, or are you receiving help?
+PATIENT: Oh you're not receiving any outside help. I can do most things myself. My wife does most of our shopping and cooking though.
+DOCTOR: OK. And do you drink alcohol?
+PATIENT: Yeah, I I do. I do drink probably drink like three or four beers a night.
+DOCTOR: OK, Ann, and at the smoke cigarettes?
+PATIENT: I used to I I forced myself to quit after my heart attack.
+DOCTOR: OK, well that's good. I'm glad that you quit and how long did you spoke for and how much were you smoking during that time?
+PATIENT: Probably smoked for more than 30 years and I was smoking only one to two packs a day at most.
+DOCTOR: OK. And. OK, and then I about your um family history. Is there anybody in the family that has any heart or lung conditions?
+PATIENT: Yeah, so heart disease runs in my family. My brother, my dad, they both both have had heart attacks. But yeah, my on my mom side everyones pretty healthy though.
+DOCTOR: Oh OK, that's good, and Alright, so I just wanted to the I guess physical exam piece you've already mentioned that it's red, it's swollen and is warm to touch compared to the other knee and um painful to move. Are you having any limping with your gait?
+PATIENT: Yeah, I barely like I can't really put too much away or move that knee around. So yeah, if I stood up I would have a limp.
+DOCTOR: OK, uh, and is there any instability to either varus or valgus stress?
+PATIENT: Uhm, no, I don't think so.
+DOCTOR: OK, and any instability when testing the ACL or PCL with the anterior and posterior kind of translation test. Pulling and pushing it?
+PATIENT: Uhm, no.
+DOCTOR: OK. And any I don't think I asked this any muscle weakness?
+PATIENT: No.
+DOCTOR: And any numbness, tingling?
+PATIENT: No.
+DOCTOR: Or burning sensations?
+PATIENT: No.
+DOCTOR: OK. Alright, so that was everything that I wanted to check. Was there any anything that I may be missed or any final questions?
+PATIENT: No, yeah no, I was just I I just don't know if like this is serious and if I need surgery or something because it's been really painful.
+DOCTOR: Yeah, certainly so right now the top thing on top two things on the differential would be gout or pseudogout they do have some risk factors for that, including a diuretic medication as well as alcohol and obesity are all risk factors for it. However, you also had a knee injection a week ago, which could predispose to an infection. So gout and septic arthritis are the two things that I am thinking about an, so we'll do a knee aspiration and send that off for some investigations and that will help us determine which what the cause is and we can choose the appropriate appropriate treatment.
+PATIENT: OK, sounds good.

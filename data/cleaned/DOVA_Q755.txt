@@ -1,0 +1,240 @@
+DOCTOR: PATIENT?  All the way back here.  Hi, how are you?
+PATIENT: Okay.  Very good.
+DOCTOR: [REDACTED].  Go to that open door on the right.
+PATIENT: Okay, down here.
+DOCTOR: Yeah, you just.  I was looking at your chart.  It looks like you've had some pretty big surgeries not too long ago.
+PATIENT: Oh on my leg.
+DOCTOR: On your leg.
+PATIENT: Right, right.
+DOCTOR: Did you never have to see a doctor before all this happened?
+PATIENT: No.
+DOCTOR: No.  You weren't seeing anyone.  You weren't taking any medications.
+PATIENT: No.
+DOCTOR: Okay.  Did you have medical problems and you just weren't following or as far as you knew you didn't have.
+PATIENT: I mean I don't know if I was just, it's that this came on and I didn't know of any problems.
+DOCTOR: You said what?
+PATIENT: It wasn't hurting anything.
+DOCTOR: Yeah, yeah.  So you just never had a reason to go to the doctor.
+PATIENT: Right, right.
+DOCTOR: You were in good health and then all of a sudden this happened.
+PATIENT: Right, right.
+DOCTOR: And I understand that they had to cut below your knee on this one and just your toes on this leg right.
+PATIENT: Right, right.
+DOCTOR: Okay.  Did they tell you the reason why they thought this happened?
+PATIENT: It was just frost bitten.
+DOCTOR: They said what?
+PATIENT: It was frost bitten.
+DOCTOR: They were frost bitten.
+PATIENT: Uh-huh.
+DOCTOR: Oh wow.
+PATIENT: Yeah.
+DOCTOR: How did that happen?
+PATIENT: I don't know how it happened.
+DOCTOR: Were you out in the cold during the blizzard?
+PATIENT: I was cold; I was out in the cold.
+DOCTOR: Yeah.  Goodness.  So it's not because you have like diabetes or?
+PATIENT: Oh no, no, no, no.
+DOCTOR: Okay.
+PATIENT: Hmm.
+DOCTOR: Alright, so according to the computer though you have a lot of medicines they want you to take.  Are you taking those?
+PATIENT: [REDACTED], I take them right, right.
+DOCTOR: You do those.  Okay cause you have some blood pressure medicines so it looks like maybe you did have high blood pressure.
+PATIENT: Well I thought I did cause you know I knew it was kind of high, I knew if I'd feel dizzy when I'd be walking.
+DOCTOR: Oh.
+PATIENT: I'd feel a little dizzy but after a while, cause I quit what I was doing and it'd go away.
+DOCTOR: Oh okay, okay, yeah so good.  So you are taking them though?
+PATIENT: I'm doing everything; yes I got them now yeah.
+DOCTOR: Okay good and all the vitamins and stuff.
+PATIENT: I'm taking all of that, yeah and all that yeah.
+DOCTOR: Good, good, alright.  Um and actually your blood pressure is looking good, so it’s perfect, just keep doing what you're doing.
+PATIENT: Well, no alcohol.
+DOCTOR: I'm sorry.
+PATIENT: No alcohol.
+DOCTOR: Yeah, yeah.  So you stopped the alcohol now?
+PATIENT: Uh-huh.
+DOCTOR: How much were you drinking before?
+PATIENT: I was just drinking in the mornings, in the afternoon.
+DOCTOR: So every day.
+PATIENT: Well I was drinking every day yeah.
+DOCTOR: Uh-huh.  Yeah, are you still drinking every day?
+PATIENT: No, no I can't do none of that.
+DOCTOR: Okay.
+PATIENT: Yeah I stopped the alcohol.
+DOCTOR: So the last one [REDACTED] I guess right?
+PATIENT: Yeah that's the last day.
+DOCTOR: Yeah cause the alcohol [REDACTED] will do that you know.
+PATIENT: Yeah.
+DOCTOR: Uh alright are you smoking?
+PATIENT: I still smoke cigarettes yeah.
+DOCTOR: Still smoke.  How much are you smoking?
+PATIENT: A pack about every day and a half.
+DOCTOR: A pack about every day and a half okay, alright.  Um any other problems you're having besides with your legs.  Because with your legs I can't help you unfortunately.  You've got to get Podiatry to help you.
+PATIENT: Hmm.
+DOCTOR: Nothing, no problem, no problems with your medicines or anything?
+PATIENT: No problems, no medicines.
+DOCTOR: It looks like you're gonna run out of stuff soon.
+PATIENT: Yeah I ran out of one already.  I [REDACTED].
+DOCTOR: You did alright.  Amlodipine.  Are you needing this diphenhydramine, that's the Benadryl?  I don't know, were you taking it for itching or for sleeping?
+PATIENT: No I don't take nothing like that.
+DOCTOR: Okay so you don't need that one I guess.
+PATIENT: Yeah.
+DOCTOR: Um.  They have you on iron supplements, was your iron low, do you know?
+PATIENT: Yeah I was gonna ask you if you know, but I'm taking two iron supplements.
+DOCTOR: Yeah.  Let me see how they were.
+PATIENT: One of them I still have quite a few but the other one's kind of low.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Let me see what they put you on.  Maybe they want you to have it.
+PATIENT: Uh-huh.
+DOCTOR: Oh your hemoglobin is very low, that's your blood count, okay.  And when you take the iron are you having problems with constipation at all?
+PATIENT: No, not at all.
+DOCTOR: No okay.
+PATIENT: I don't take the [REDACTED] any more.
+DOCTOR: The oh you don't take the stool softeners anymore?
+PATIENT: No, they make me keeping running.
+DOCTOR: Oh.  So even, but you are taking the iron.
+PATIENT: I take those.
+DOCTOR: Okay just the stool softener.
+PATIENT: Right.
+DOCTOR: Is the one you aren't taking?
+PATIENT: Right.
+DOCTOR: Okay and do you need more of the gabapentin?
+PATIENT: What?
+DOCTOR: Gabapentin is the one; I'm assuming they probably gave it to you like sometimes after you have an amputation you have sensations like you know like your leg is still there.
+PATIENT: Yeah I do have those.
+DOCTOR: You do have those.
+PATIENT: Right, right.
+DOCTOR: Okay so we'll make sure we refill those.
+PATIENT: Yeah.
+DOCTOR: Oh it looks like you're pretty much out of everything actually.
+PATIENT: Except that one iron pill, I have quite a few of those.
+DOCTOR: Yeah okay.  Let's make sure we reorder all that stuff for you then.
+PATIENT: Okay.
+DOCTOR: Do you want to pick it up here or do you have an address that it can be mailed to or?
+PATIENT: Well picking up is better.
+DOCTOR: Okay, since you're here you might as well go get it.
+PATIENT: Right.
+DOCTOR: Make sure you keep taking those vitamins too.
+PATIENT: Of course I'm gonna keep taking the vitamins.
+DOCTOR: Um sounds like you used to drink quite a bit.
+PATIENT: Oh yes.
+DOCTOR: So you probably have some vitamin deficiencies.
+PATIENT: Hmm.
+DOCTOR: Uh it is pretty hard for you to get out here?
+PATIENT: I just, I call for the free ride, the chauffeur.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: So it'd probably be easier to give you 90 day supplies, what do you think?
+PATIENT: That’d be good.
+DOCTOR: Will that work?
+PATIENT: Yeah.
+DOCTOR: Where are you living at?  Do you have somewhere to live?
+PATIENT: Uh-huh.  ADDRESS.
+DOCTOR: Okay.  You know we can change this metoprolol to; they have you on 25 every eight hours.  We could change it to once a day and that'll be easier I assume.
+PATIENT: You want me to take it two times a day?
+DOCTOR: I'll change it so it can be just once a day.
+PATIENT: Okay.
+DOCTOR: Rather than taking it [REDACTED] times a day, that’s kind of a lot.
+PATIENT: Uh-huh.
+DOCTOR: Are you pretty good about taking medicines or?
+PATIENT: [REDACTED] to take it, about five hours later, the one that I take two times a day.
+DOCTOR: Good.
+PATIENT: [REDACTED] all between 6 and 6.
+DOCTOR: Good.  Oh it looks like we don’t have the once a day here, so we'll do it twice a day but we can change it to two times a day.
+PATIENT: Uh-huh.
+DOCTOR: Are you taking the aspirin still?
+PATIENT: Right.
+DOCTOR: Okay.  It must be hard for you to go to uh starting taking all these pills when you're not used to it right?
+PATIENT: Well [REDACTED] muscles got kind of used to it, [REDACTED] weights @@ take it.
+DOCTOR: Yeah.
+PATIENT: Yeah that's the way.
+DOCTOR: Yeah keep taking it, I know it's hard but you can.  You got plenty of support at home, people to help you out?
+PATIENT: Oh just me really so.
+DOCTOR: It's just you.
+PATIENT: Right.
+DOCTOR: You live by yourself?
+PATIENT: Oh no, there's another person, my roommate there.
+DOCTOR: Okay, okay.
+PATIENT: She's there yeah.
+DOCTOR: Okay.  And you follow up with uh, with Podiatry and everything.
+PATIENT: Yes I go there next when I'm done here.
+DOCTOR: Oh today.
+PATIENT: Yeah I have an appointment at 1 o'clock, a 1 o'clock appointment and a 2 o'clock with him.
+DOCTOR: You have a 2 o'clock appointment.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Uh [REDACTED] that's why I'm late.
+DOCTOR: Oh okay.  Have you ever had a colonoscopy before?
+PATIENT: I don't even know what that is.
+DOCTOR: Um well if you've never been to the doctor you probably haven't had it.
+PATIENT: No I haven't.
+DOCTOR: Um it's where they use um a camera and a tube and they look in your colon that goes through.
+PATIENT: Oh yeah, I understand that, no.
+DOCTOR: You've never had it before though right?
+PATIENT: No, no.
+DOCTOR: Okay.  Do you know, you know we usually actually suggest people start having them when they're 50 years old.
+PATIENT: Uh-huh.
+DOCTOR: Um and then have them every 10 years usually just to look for cancer.
+PATIENT: Okay.
+DOCTOR: Mainly because um we've gotten so good, well we, as doctors, not me, I don’t do them, but have gotten really good at finding them early so that if they are removed early.
+PATIENT: Hmm.
+DOCTOR: That we can prevent cancer from forming.
+PATIENT: Oh okay.
+DOCTOR: Um and then that's better than letting them you know be there, develop over time and keep developing.
+PATIENT: Right, right.
+DOCTOR: Then it causes a problem and then by the time, if you catch it late then it's um less likely that you can be cured from it.
+PATIENT: Uh-huh.
+DOCTOR: So um if you're up to it, if you're interested I can set you up for it.
+PATIENT: That's the thing, they use a camera up your.
+DOCTOR: Yeah, yeah.
+PATIENT: I'd like to think about this.  [REDACTED].
+DOCTOR: I know I have to actually, my dad was not very happy with him when I forced him to do it.  Why don't you think about it, next time I see you then we can?
+PATIENT: Okay the next appointment yeah; I'll give you the answer.
+DOCTOR: Okay, okay, alright.  Give me just a second okay.
+PATIENT: Uh-huh.
+DOCTOR: I'll be right back.
+PATIENT: Okay.
+DOCTOR: Are you having problems with swelling in your legs?
+PATIENT: Pardon?
+DOCTOR: Any problems with swelling in your legs at all?
+PATIENT: Oh no, uh uh.
+DOCTOR: Okay good, alrighty
+PATIENT: Okay.
+(DOCTOR OUT:  35:21  DOCTOR IN:  43:08)
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: So we usually, after we see you all we go and talk to our bosses to make sure we're not missing anything.
+PATIENT: Hmm.
+DOCTOR: So do you see, I know you have a Podiatry appointment today so do you think after that you can stop by the Lab?  I just want to check you know some routine things since you haven't been to the doctor like, you know like your cholesterol, your PSA just little things um.
+PATIENT: So you want me to come back up here?
+DOCTOR: Oh uh, oh you can just, you know where the Lab is, right across the hall from here?  When you go out its right across the hall um and you just sign in and I'll have the labs put into the computer that I want them to check and they'll draw some blood.  You don't have to stay and wait for them though, if there's anything abnormal I could call you with it.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And then I'll see you back in like two or three months, how does that sound?
+PATIENT: Okay.
+DOCTOR: Of course you can always call back if you need to be seen sooner.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: So you can give that to the lady up front when you're checking out okay.
+PATIENT: Well do I take these there?
+DOCTOR: Yeah same place you came in.
+PATIENT: Okay.
+DOCTOR: Yeah, yeah, same place.
+PATIENT: Okay.
+DOCTOR: That's the one where the door [REDACTED].  Oh alright.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Uh-huh.
+DOCTOR: I'll just help you get through here.  Alright I'll see you later.  Just call us and make your appointment sooner if you need anything okay.
+PATIENT: I take this to the desk right there right?
+DOCTOR: Yeah, right there and then oh okay, when you're done the Lab is just right across the hallway from here.
+PATIENT: Okay, okay.
+DOCTOR: Okay.  Alrighty, well I'll see you later.
+PATIENT: Okay.
+PATIENT: 45:01
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286118
+TRANSACTION # 578-10-2-316-0103

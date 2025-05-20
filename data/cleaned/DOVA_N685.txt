@@ -1,0 +1,249 @@
+DOCTOR: PATIENT?  Hi.
+PATIENT: How’s it going?
+DOCTOR: Sorry, it is a little hot in here.  My name is DOCTOR.
+PATIENT: Okay.
+DOCTOR: Nice to meet you.  What brings you in today?
+PATIENT: I was supposed to be be going to Podiatry.  That is what they told me at the [REDACTED].
+DOCTOR: Okay.
+PATIENT: They said I had to go to somebody in the Red Clinic.
+DOCTOR: Okay.  So do you need a referral?
+PATIENT: I guess so. [REDACTED].
+DOCTOR: Okay.  No problem.  Let me open up the note okay if you don’t mind.  Any problems since the last time you were here?
+PATIENT: Hmm, nothing to get excited about.
+DOCTOR: Nothing [REDACTED].
+PATIENT: I am still going to therapy.
+DOCTOR: Okay.
+PATIENT: I want to continue that.  See, when I was in therapy she says that my feet keep swelling up.
+DOCTOR: Okay.
+PATIENT: And she said somebody to see about it, she think I shouldn’t come back because she might mess it up some more.
+DOCTOR: I see so was it the swelling that caused this problem.
+PATIENT: I don’t know.  [REDACTED] swelling keeps staying there.
+DOCTOR: Have you been seeing anyone outside the VA?
+PATIENT: Um, from you?
+DOCTOR: Yeah.  I have a big medication list from previous notes [REDACTED].
+PATIENT: That’s it [REDACTED].
+DOCTOR: That’s it? That’s all you’re taking?
+PATIENT: From you?  Yes.
+DOCTOR: You got another doctor?
+PATIENT: Yea, I got a doctor at the nursing home.
+DOCTOR: I see.  Okay.  So how have you been doing since the stroke?
+PATIENT: I am ready to go home.
+DOCTOR: Did they say when you could go home?
+PATIENT: I am doing something called access living.  They ain’t showing me a place [REDACTED] look at places. [REDACTED]
+DOCTOR: Any pain?
+PATIENT: [REDACTED].  I am doing pretty good.
+DOCTOR: Alright.
+PATIENT: I got to get [REDACTED].  Mostly [REDACTED].
+DOCTOR: Do you have an appointment? For [REDACTED]?
+PATIENT: No.
+DOCTOR: Do you take the lactulose to help move your bowels?
+PATIENT: Yes.
+DOCTOR: And the clonidine for blood pressure?
+PATIENT: Yes.
+DOCTOR: Do you take anything else for blood pressure?
+PATIENT: Not that I know of.
+DOCTOR: [REDACTED].
+PATIENT: Nothing that I know of.
+DOCTOR: Nothing that you know of?  Okay.
+PATIENT: My [REDACTED] start to [REDACTED] cramp up.  This was by itself, it swells.
+DOCTOR: Are any of these medications new?
+PATIENT: [REDACTED]
+DOCTOR: Yeah, there is a medication on here, that I see right here, oh, it’s stopped.  Okay.  Medication stopped.  Okay.  This one is stopped.  [REDACTED]?
+PATIENT: Yeah, [REDACTED].
+DOCTOR: Okay.  And what are all of these?  You have ibuprofen, albuterol, acetic acid, [REDACTED].  Okay.  And then you used to be on Nexium and now you are on ranitidine?
+PATIENT: What is that for?
+DOCTOR: It is for acid reflux.
+PATIENT: Yeah.
+DOCTOR: Okay.  Is it hard to take care of [REDACTED]?
+PATIENT: I don’t know.
+DOCTOR: Okay.
+PATIENT: The green pill?  Yeah.
+DOCTOR: Yeah.  You stopped that right?
+PATIENT: No I just started the green pill.
+DOCTOR: Okay but they had a previous pill right?
+PATIENT: Oh.
+DOCTOR: So what can I help you out with today?
+PATIENT: Well with my foot.
+DOCTOR: Okay.  What do you want me to do for your foot?  Send you to a podiatrist?
+PATIENT: Yes please.
+DOCTOR: Okay.  Have you ever seen the podiatrist here before?
+PATIENT: Yeah.
+DOCTOR: Okay.  Let’s see.  The last time you went to the podiatrist was 2006.
+PATIENT: Hmm hmm.
+DOCTOR: I see.  So you need me to put in another consult?
+PATIENT: Please.
+DOCTOR: No problem.  What is going on with your foot?
+PATIENT: It is swollen right there on the top.
+DOCTOR: Okay.
+PATIENT: Here.
+DOCTOR: Is it painful?
+PATIENT: Yes.
+DOCTOR: Alright.  How long has this been going on?
+PATIENT: This has been going on for at least a month, but it will go down and come back up [REDACTED].
+DOCTOR: Okay.  Any numbness or tingling?
+PATIENT: No.  I don’t know [REDACTED] on my toe.
+DOCTOR: Is this one swollen?
+PATIENT: Nope.
+DOCTOR: Do [REDACTED] off your socks?  When was the stroke?
+PATIENT: Ah, August 26 of last year.
+DOCTOR: Okay.  Was the stroke because of high blood pressure?
+PATIENT: Last one, I don’t know.  A lot of things.
+DOCTOR: Okay.  Any drugs involved?
+PATIENT: Yes and drinking.
+DOCTOR: Drinking.  Have you been staying away from all of that now?
+PATIENT: Yes sir.
+DOCTOR: Good, good.
+PATIENT: No cigarettes.  No nothing.
+DOCTOR: Excellent.  So is your primary care doctor one at the [REDACTED]?
+PATIENT: DOCTOR.
+DOCTOR:
+DOCTOR: your primary doctor? To make sure everything’s up to date.
+PATIENT: Yeah, but I only seen him twice since I been there.
+DOCTOR: Twice, all right.  Okay.  No problem.  Let me just make sure everything else is up to date.
+PATIENT: Now after I see a podiatrist then I get to go back to physical therapy?
+DOCTOR: Yeah, I don’t think there should be any problem for you to go to physical therapy.
+PATIENT: [REDACTED] my cane because my walker is not going [REDACTED].
+DOCTOR: Your blood pressure looks great.
+PATIENT: Okay.
+DOCTOR: Your pulse is a little fast.  [REDACTED].  Were you rushing to get [REDACTED]?  Do you feel your heart racing?
+PATIENT: Just from moving around.
+DOCTOR: Any fevers or chills?  No?  [REDACTED] a little bit about it.
+PATIENT: Oh it is just a [REDACTED] comfortable to eat.
+DOCTOR: Okay.  So you saw Podiatry last time.  What was it for?  Do you remember?
+PATIENT: Nope.
+DOCTOR: Okay.
+PATIENT: I was [REDACTED], I don’t know.
+DOCTOR: Okay.
+PATIENT: Does it say?
+DOCTOR: What is that?
+PATIENT: Does it say what it was for?
+DOCTOR: Yea, let me check.  For bilateral ankle pain from a motor vehicle accident.  Okay.  I will put that order in now okay?
+PATIENT: For the foot?
+DOCTOR: Sure.  You want feet right?  Surgical [REDACTED].  Okay.  Have you had x-rays of your foot?
+PATIENT: Not recently.
+DOCTOR: Okay because they might want that before you go to the clinic.
+PATIENT: Okay.
+DOCTOR: Do you feel sick at all?  Nauseous?
+PATIENT: No.
+DOCTOR: No?  Is your heart always this fast?  Heart rate running this fast?
+PATIENT: I don’t know why.
+DOCTOR: Okay.  Are you having a lot of pain?
+PATIENT: Yes from my foot.
+DOCTOR: Mostly your foot?
+PATIENT: Yeah.
+DOCTOR: Okay.  What do you take for the pain?
+PATIENT: [REDACTED].
+DOCTOR: Does it seem to help?
+PATIENT: No, not really.
+DOCTOR: Okay.
+PATIENT: It really don’t.  It hurts my [REDACTED].
+DOCTOR: Okay.  Have you had any recent blood work?  Cholesterol?  Thyroid?  Okay, that looks okay.  Your liver enzymes.  From February of this year.
+PATIENT: Yes.
+DOCTOR: Okay.  And your blood count, everything was done in February.  It is about six months, okay.  Let’s [REDACTED].  Alright.  Is there anything else I can do for you today?
+PATIENT: No.
+DOCTOR: Alright I will be right back.
+PATIENT: Put my socks back on?
+DOCTOR: Um, leave them off for now.  Okay?
+DOCTOR: 28:05  DOCTOR IN:  31:53
+DOCTOR: Hi DOCTOR said you are having foot pain?  So did you hurt it in any way [REDACTED]?
+PATIENT: [REDACTED]
+DOCTOR: [REDACTED].  How many days has it been hurting you?
+PATIENT: It was over a month now.
+DOCTOR: [REDACTED].  Oh, okay.  [REDACTED].  Okay.  Maybe you [REDACTED] for coughing or [REDACTED]?
+PATIENT: Nope.
+DOCTOR: Okay.  Do you feel your heart racing at all?  [REDACTED]?  You are eating and drinking okay?  Not throwing up?
+PATIENT: No.
+DOCTOR: No burning when you urinate?
+PATIENT: No.
+DOCTOR: [REDACTED].  Is it here?  Where is the pain?
+PATIENT: [REDACTED].  There is more here.  When I put my foot down.
+DOCTOR: Uh huh.  [REDACTED].  Oh, okay.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.  I am going to get some x-rays today [REDACTED] make sure there is no broken bone.
+PATIENT: Yes ma’am.
+DOCTOR: [REDACTED] stand [REDACTED] So get an x-ray right across the corridor, okay?
+PATIENT: Okay.
+DOCTOR: So wait for the results [REDACTED].
+PATIENT: Why is my color in my foot like blood?
+DOCTOR: You have strong pulses.  There is no circulation problem.  So this is normal for this. [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED] Are you with the nursing home a long time?
+PATIENT: Yeah, I been there since Christmas Eve.
+DOCTOR: Oh, are you going to be there for [REDACTED]?
+PATIENT: No.  I have [REDACTED] released in maybe two weeks to a month.
+DOCTOR: Okay, and then you will be going home?
+PATIENT: Yeah.
+DOCTOR: Okay.  But you are getting physical therapy there?
+PATIENT: Yea, they stopped physical therapy so they could see about my feet.
+DOCTOR: Okay so you will be x-rayed, and [REDACTED] Podiatry and Podiatry may take a few weeks to get in.
+PATIENT: Really?
+DOCTOR: Yeah.  So the x-ray you can do to make sure there is no broken bone.
+PATIENT: [REDACTED] so I can go back to physical therapy.
+DOCTOR: And what exactly are they doing physical therapy wise?
+PATIENT: Well they have me on the treadmill, and you know, they want me to do [REDACTED] my feet swollen up like that.
+DOCTOR: Okay.  [REDACTED].  Well you can still do upper extremity exercises.  We can call upstairs to see how soon we can get you in.  Okay?  And [REDACTED] for now.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Deep breath.  Deep breath.  Now breath normal.  Now so, you don’t smoke?  No coughing?  Nothing like that?
+PATIENT: No.
+DOCTOR: [REDACTED].  No burning when you urinate?
+PATIENT: Nope.
+DOCTOR: Are you having a lot of pain right now in your foot?
+PATIENT: Just with the foot.
+DOCTOR: Okay, right now when you’re sitting [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: I have to wait on that tooth?
+DOCTOR: [REDACTED].
+DOCTOR: There is no pus or anything coming from that right?
+PATIENT: No.
+DOCTOR: Okay [REDACTED].
+PATIENT: There was an infection before, she gave me mouthwash.
+DOCTOR: And your lower [REDACTED]?
+PATIENT: [REDACTED].
+DOCTOR: Is it painful there?
+PATIENT: Hm hmm.
+DOCTOR: And how many weeks has it been hurting?
+PATIENT: Until now because that [REDACTED].  It has been over a few weeks since they sent me with the blood pressure, that is why they won’t take it out.
+DOCTOR: Okay.  [REDACTED].  The lower jaw.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] over there.  You need [REDACTED].  Should probably do [REDACTED].  Any pain here?
+PATIENT: No.
+DOCTOR: No pain.  No pain here?
+PATIENT: No.
+DOCTOR: [REDACTED] llose.  Is that right [REDACTED] now?
+PATIENT: Yes.
+DOCTOR: Okay.  Now the dentists here, they don’t do, unless you are service connected.  What is your service-connection? [REDACTED].
+PATIENT: She is going to take it out she told me.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Oh, okay then we can put the consult in.  Have you seen them?
+PATIENT: Yeah.
+DOCTOR: When did you see them?
+PATIENT: Before [REDACTED] take this one out.
+DOCTOR: Okay.
+PATIENT: But I had took the blood pressure pills.
+DOCTOR: Okay so do you want us to put the consult in?  You want to go there?
+PATIENT: Yeah.
+DOCTOR: Okay.  I guess we can loose [REDACTED] the patient was told that this would be [REDACTED] extract [REDACTED].  So I am sorry now, I don’t understand it, she said the filling is loose and she said she would fill it or she said she would pull it out?
+PATIENT: Pull it out.
+DOCTOR: Okay.  So because your tooth is hurting.
+PATIENT: Yeah.
+DOCTOR: Okay. Tooth pain [REDACTED] extraction [REDACTED] (speaks with other doctor)  Now no trouble breathing?
+PATIENT: No.
+DOCTOR: Okay, so go do the x-ray now and then do the blood work.  You want to go to the dentist on the 4th floor [REDACTED].  So first do the x-ray.  [REDACTED].
+PATIENT: Okay.  After I do the x-ray what do I do?
+DOCTOR: Go to the lab.  We want to take some blood work on you.  Blood and urine.  And then go to the 4th floor to the Dental Clinic.
+PATIENT: Okay.  After I do that I can go home?
+DOCTOR: No, no.  First do the x-ray, then stop by the lab to have blood drawn, and then 4th floor Dental to have the teeth looked at.
+PATIENT: Okay.
+DOCTOR: And then come back down.  I just want to make sure your x-rays before we let you go.
+PATIENT: Okay.
+DOCTOR: We are going to make you a foot doctor appointment.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Thank you.
+PATIENT: 39:38
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300286
+TRANSACTION # 578-10-2-316-0103

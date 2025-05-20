@@ -1,0 +1,309 @@
+DOCTOR: PATIENT?
+PATIENT: Yes sir.
+DOCTOR: Right this way.
+PATIENT: Thank you.
+SECOND PERSON W750
+[REDACTED]
+PATIENT: Yes.
+DOCTOR: How are you today?
+PATIENT: Good.  How are you doctor?
+DOCTOR: Good to see you, nice to see you here.
+PATIENT: Nice to see you, thank you.
+DOCTOR: On your right, hi there.
+PATIENT: On the right?
+DOCTOR: Yes.  Alright I think we've got room for both of you.  There and right there.
+SECOND PERSON W750
+Okay.
+DOCTOR: Great so let's see 143/72, pretty good.
+PATIENT: That's great.
+DOCTOR: Yeah.  Alright, how are things going?
+PATIENT: Well doctor, I have to tell you that uh you apparently found a magic pill.
+DOCTOR: Did I really?
+PATIENT: Yes.  I'm feeling much better these days.
+DOCTOR: Good.
+PATIENT: And I've eliminated some of the problems that we talked to about in our previous meeting.
+SECOND PERSON W750
+Except for me.
+DOCTOR: (Laughter).
+PATIENT: And when you figure that one out.
+DOCTOR: Better she said it than you.
+PATIENT: (Laughter).
+DOCTOR: Um so feeling pretty good.
+PATIENT: Yes, believe it or not.
+DOCTOR: How are the blood pressures doing?
+PATIENT: The blood pressures are doing pretty good uh.  I would have to tell you that from time to time I do get a spike uh when the lady of the house breaks something or something along those lines.
+SECOND PERSON W750
+I do that to keep him busy and healthy.
+PATIENT: Uh but behind like.
+DOCTOR: That gives him something to do huh.
+SECOND PERSON W750
+Uh-huh, uh-huh.
+PATIENT: I wish you hadn't said that.
+SECOND PERSON W750
+(Laughter)
+DOCTOR: (Laughter)  So when you check it at home, what's the range?
+PATIENT: The range will be probably in the uh mid 140s.  One day it hit 96, I don't know.
+DOCTOR: 196?
+PATIENT: No, no, 96.
+DOCTOR: Okay.
+PATIENT: And I'm not sure why that happened.  I hate to speculate on that possibility but uh I have to tell you about it in case it's something that.
+DOCTOR: You mean the bottom number was 96.
+PATIENT: No the first number was 96.
+DOCTOR: Alright.  So usually it's in the 140s?
+PATIENT: 140s, 130s.
+DOCTOR: Over?
+PATIENT: Uh it'll be 69, 76, sometimes it's 69, sometimes it's 76 and sometimes it's even less.  There seems to be a variable.  It varies.  There doesn't seem to be any consistency.
+DOCTOR: Okay.
+PATIENT: And I think we discussed that earlier, I think probably the reason is there's something in the background that is just causing it.
+DOCTOR: Are you having any problems uh with an irregular heartbeat, feeling your heart skipping, racing, fluttering, any of that stuff?
+PATIENT: Not really no.
+DOCTOR: Okay.  Are you having lightheadedness, dizziness?
+PATIENT: Not anymore.  You seemed to correct that with the adjustment in the medications.
+DOCTOR: Good.  Chest pain?
+PATIENT: None.
+DOCTOR: Are you having trouble with your breathing, filling up with fluid um, swelling in the feet?
+PATIENT: No the swelling has gone away as a matter of fact.
+DOCTOR: Good.  Alright and uh let's see how are we doing with the uh diabetes?
+PATIENT: The diabetes, like the heart, vacillates.  Sometimes it spikes uh I'm assuming if I engage in some social activities uh every once in a while um, maybe I forget or maybe I do something that I'm not supposed to, it'll spike and uh most of the time it's been under control.  When I say under control uh, it's in, it'll go anywhere from um 130, to once in a while it'll go to 169 and then there are times when it goes below 100.
+DOCTOR: Okay.  Alright.  Do you check it every day or?
+PATIENT: No you suggested that I do it every couple of days.
+DOCTOR: Okay.
+PATIENT: Uh excuse me; I thought it was you that suggested I did that.
+DOCTOR: [REDACTED].  You really don't need to be doing it every day.
+PATIENT: According to the um the prescriptions that I receive, the instruction was every couple of days.  Maybe not in those terms but that's my conclusion.
+DOCTOR: Let's see, I think it's been a while since we've done some blood work on you huh.  It's been a little bit uh.
+PATIENT: I figured it was because it wasn't blue; you didn't need to take it anymore.
+DOCTOR: (Laughter).  We may need to get an idea of like how the blood sugars have been and how, to make sure the cholesterol is still under good control and that sort of thing and uh.  Let's see, I think the last time you were here we actually ordered a couple blood tests, yeah.
+PATIENT: Last time?
+DOCTOR: Yeah.
+PATIENT: No you didn't order any blood tests.  I haven't received anything.
+DOCTOR: Okay.
+PATIENT: Or I wasn't.
+DOCTOR: They're in there but uh I don't know, I guess they didn't let you know so.  How's your urinating?
+PATIENT: That sometimes is a problem.
+DOCTOR: How often are you waking up at night?
+PATIENT: Sometimes when I first go to bed about uh the first hour or so, I have to relieve myself and then maybe another hour and then usually it goes from 2-3 hours.  During the daytime I don't seem to have as much problem.  I try to watch my intake.  I don't know if it's my intake or, if I.  I've avoided carbonated beverages.  Carbonated beverages seem to aggravate it.
+DOCTOR: Okay.  We switched up to this medicine Flomax.
+PATIENT: What's Flomax, I don't remember that?
+DOCTOR: We put you on it for urinate.
+PATIENT: Yeah but it's called something else I think.
+DOCTOR: Tamsulosin?
+PATIENT: Say again.
+DOCTOR: Tamsulosin?
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: Yes.
+DOCTOR: Is that one working any better?
+PATIENT: No I wouldn't say its working any better.
+DOCTOR: Okay.
+PATIENT: I think I was on uh terazosin ahead of that.
+DOCTOR: Yeah we switched it and you're not noticing much of an improvement?
+PATIENT: No.
+DOCTOR: Okay.  Hmm.
+PATIENT: Should that be addressed?
+DOCTOR: Um.  Well we already have you on two pills you know to help with your urinating.
+PATIENT: Finasteride and
+DOCTOR: Yeah.  So we're definitely addressing it.  I just, I don't know if there is much else that we can do beyond what we're doing.  If it's a big problem you know we could send you to Urology and uh you know they could discuss some other things that they're, but I mean now we're probably talking more about like a procedure or something to uh so it would have to be something that's really bothering you before we went down that road.
+PATIENT: Well.
+DOCTOR: If you can live with it, then I'd probably recommend just living with it.
+PATIENT: Yeah, for once you get to be 39 years old, you don't want to.
+PATIENT: Once or twice a night.
+PATIENT: Go too far.
+DOCTOR: Yes and uh, the last time you said that you were feeling tired all the time.
+PATIENT: Well, I haven't had that experience.  Is that because of the change in medication or how do you address that?
+DOCTOR: Uh.  It may be.  I mean if you're feeling better than.
+PATIENT: I am feeling better.
+DOCTOR: You may be getting better.  Uh the last time I thought it may have had to do with you waking up so much at night to urinate and that's what it was, thought you probably want to try uh.
+PATIENT: He had a pizza in his hand.
+DOCTOR: Did he?
+SECOND PERSON W750
+(Laughter)
+PATIENT: Wasn't that a pizza?
+SECOND PERSON W750
+No, stop it.
+PATIENT: The Budweiser guys.
+DOCTOR: (Laughter) And uh what about uh shots and all these things?
+PATIENT: Um doctor I think, I don't expect you to remember but uh.
+DOCTOR: I know you aren't interested.
+PATIENT: No, I'm still not.  If I were in a activity where I was intermingling with the public on a steady regular basis then I would take another look at it.  But since I've kind of withdrawn both my social activities and other things similar to that, I'm not out with people like I used to be so I'm.
+DOCTOR: And why do you think you've withdrawn like that?
+PATIENT: From, because I'm no longer in business.  I used to be.
+DOCTOR: Okay it's because you're retired.
+PATIENT: I was an active person yeah.  Did you say retarded?
+DOCTOR: (Laughter).
+PATIENT: Oh, I thought you were talking to her I'm sorry.
+SECOND PERSON W750
+Ooh, kid you're gonna get in trouble.
+DOCTOR: You'd better be careful (laughter).
+PATIENT: (Laughter).  I have selective hearing.
+SECOND PERSON W750
+I'll vouch for that.
+DOCTOR: Alright, so let's see you're on the metoprolol, finasteride, tamsulosin.  Are you taking the baby aspirin?
+PATIENT: Yes.
+DOCTOR: Hydrochlorothiazide, Imdur, lisinopril.
+PATIENT: What's the last one?
+DOCTOR: Isosorbide mononitrate.
+PATIENT: Yeah what is it?
+DOCTOR: Lisinopril, glipizide, lubricating eye ointment.
+PATIENT: I haven't used that.  That, that scares me.
+DOCTOR: Uh some glucose or some strips for your machine, simvastatin and that about does it okay.
+PATIENT: Okay.
+DOCTOR: Now what happened with this medicine the amlodipine?  Why did they take you off of that, do you remember?  Did you get swelling in your legs or?
+PATIENT: Yes, quite a bit of swelling.  As a matter of fact I had to uh.
+DOCTOR: That's the main problem people have with that pill.
+PATIENT: Oh okay.
+DOCTOR: So, well I'm trying to come up with you know a reason to stick a needle in you or do something.
+PATIENT: My customer used to do that to me on a regular basis.
+DOCTOR: And I'm having trouble coming up with something here.
+SECOND PERSON W750
+(Laughter)
+DOCTOR: Um, okay can you have a seat up here for me; I'll look you over here.
+PATIENT: Could I, in case I forget, and I not the best memory in the world these days, would you be able to renew my uh prescriptions for me?
+DOCTOR: Oh yeah, we'll renew them.  You get them in the mail right?
+PATIENT: Yes.
+DOCTOR: It makes it pretty easy doesn't it?
+PATIENT: Yes it does except with the uh finasteride and the tamsulosin.
+DOCTOR: Yeah.
+PATIENT: They will only send me a one month supply and that gets kind of scary from time to time.
+DOCTOR: Huh.
+PATIENT: Maybe that's what's driving my blood pressure up huh?
+DOCTOR: (Laughter).  Well if that's your biggest problem there I think we're okay.
+PATIENT: You think so, okay.
+DOCTOR: (Laughter)
+SECOND PERSON W750
+(Laughter) [REDACTED].
+DOCTOR: Alright take some big breaths here.  Good.  Alright and just relax here.
+PATIENT: Big breath again?
+DOCTOR: Just breathe normal.  Breathing sounds good.  Let's see down here, no fluid right?
+PATIENT: Not that I know of.  I check that on a regular basis.
+DOCTOR: It looks pretty good and uh you're lying flat at night when you sleep?
+PATIENT: I use two pillows.
+DOCTOR: Okay, do you always do that?
+PATIENT: Yes.
+DOCTOR: How come?
+PATIENT: Uh because when I had my cataract surgery they recommended that I do that.
+DOCTOR: Alright.
+PATIENT: Should I change that?
+DOCTOR: I'm just curious if it's because you can't breathe if you.
+PATIENT: No.
+DOCTOR: Lay on one or.
+PATIENT: No, at that time I was having trouble with my eyes and uh they thought that maybe that would be of some help to me, I presume.
+DOCTOR: Okay.  Alright.  You can go ahead and wait down or sitting in that chair there.  I'm going to run back and talk to one of my bosses.
+PATIENT: Okay.
+DOCTOR: And I'll be right back.
+PATIENT: Okay thank you doctor.
+DOCTOR: You're welcome.
+(DOCTOR OUT:  66:05  DOCTOR IN:  76:24)
+DOCTOR: Alright so I don't think there's too much that we need to change.  Uh it sounds like everything's going along pretty well.  Uh I was talking to my boss out there about this urinating thing and outside of Urology for like a procedure, there's not much else pill-wise that we can do for that.  So if you get to the point where you want there, where they get a line and do kind of a roto rooter job on the prostate uh.  I mean that would probably be the next step but uh I don't think you really want to go forward with that uh at this point.  So what I'm gonna do is um order some blood work that you can have drawn before the next visit uh which will be like in six months or so unless you need to come sooner.  Uh just to check the diabetes and the cholesterol and make sure that we're doing okay uh with that stuff.
+PATIENT: Will I get a notice of that doctor?
+DOCTOR: No you'll get a notice with the appointment.  You won't necessarily get a notice that you need to get the blood done.
+PATIENT: So I'll have to do that on my own?
+DOCTOR: Yeah.  I put the orders in and then you can go whenever you want.  It's helpful if you come before the visit uh.
+PATIENT: I would imagine.
+DOCTOR: Because then we have the results but if it's too much of a hassle, I mean I understand that too if you can't.
+PATIENT: No.
+DOCTOR: But I mean if you get it done within a week or so before the appointment that's the best way to do it.
+PATIENT: Did you make a note of that babe please?
+SECOND PERSON W750
+Nope.
+PATIENT: I have to have, I have to have blood work done, that means going downstairs.
+DOCTOR: Yeah.
+SECOND PERSON W750
+Not, not today.
+DOCTOR: Not today.
+PATIENT: No before the next appointment.
+SECOND PERSON W750
+[REDACTED].  Okay I will do that.
+DOCTOR: So I think that's about it.  I think everything else looks okay unless you want us to start giving the shots or something like that.  I don't have much else to do for you.  I think everything looks good.
+PATIENT: I can renew my magazine subscription?
+DOCTOR: You can go right ahead.  I think it'll be worth it for you.
+PATIENT: I just want to make sure I get my moneys worth.
+DOCTOR: I refilled all your pills for you.
+PATIENT: Oh that was my next question.
+DOCTOR: I'll take care of that.
+PATIENT: And will I get them automatically now?
+DOCTOR: They should come in the mail.
+PATIENT: Okay.
+DOCTOR: Yep.  So that's about it.
+PATIENT: That's it.
+DOCTOR: I think we're doing good.
+PATIENT: Thank you.  I appreciate it and uh if I could ask you, do you expect to be on the scene here for a while or are you terminating your?
+DOCTOR: I'm gonna be here for a year and a half.
+PATIENT: Okay and if I live that long I'll get to see you then.
+DOCTOR: (Laughter).  Oh you better be careful with those, all those comments.
+SECOND PERSON W750
+I [REDACTED] too much stuff you got to take care of at home.  Don't talk like that.
+DOCTOR: You've got too many things for you to fix.
+PATIENT: She's been talking to you again huh?
+DOCTOR: Yeah she's making sure I keep you around at least for a while.
+PATIENT: At least long enough huh.
+DOCTOR: At least so you get all the housework done.
+PATIENT: Okay.  We're through doctor?
+DOCTOR: We're through.
+PATIENT: Okay, thank you very much.
+PATIENT: We get to go in the country, never mind.
+DOCTOR: You remember where to check out?
+PATIENT: Uh yes.  When will my next appointment?  Oh six months?
+DOCTOR: This way and then down the hall.  Yeah six months and uh blood work before and I'll make sure that all your medications are at the right levels.
+PATIENT: Okay um and I won't, excuse me for repeating myself.
+DOCTOR: That's okay.
+PATIENT: I understand I will not be notified regarding the blood work, that's on my own.
+DOCTOR: Right.
+PATIENT: Well how will they know?
+DOCTOR: So if you just go to the Lab on the first floor they know what to do.
+PATIENT: Okay.
+DOCTOR: So it's not an appointment it's just you go whenever it's convenient for you.
+PATIENT: Okay.
+DOCTOR: And they know what to do.
+PATIENT: Okay what would be uh your suggested time?  Monday, Tuesday, Wednesday, a.m. or p.m.
+DOCTOR: I would, it's more helpful if you are fasting so if you haven't eaten, so that when they do the blood work, uh so most people like to do it in the morning.
+SECOND PERSON W750
+That's fine.
+PATIENT: And what time do they open up?
+DOCTOR: 8:00.
+PATIENT: They open at 8 okay.  Any particular day better than others?
+DOCTOR: No just as long as it's a few days or so before the appointment, the day of the week, it doesn't matter.
+PATIENT: Okay.  Doctor thank you very much.
+SECOND PERSON W750
+[REDACTED].
+DOCTOR: Good to see you?
+PATIENT: Oh my gosh.
+DOCTOR: Don't worry about it.
+PATIENT: It's a monthly expense.
+DOCTOR: Is this yours here?
+PATIENT: Yes sir it is.
+DOCTOR: Now don't forget that.
+SECOND PERSON W750
+See [REDACTED].
+PATIENT: Well I got that at the Crete Claim Shop.
+DOCTOR: Right.
+PATIENT: So I don't think anybody's gonna take that one but oh God.  Now you know why I [REDACTED].
+DOCTOR: [REDACTED].  You have a good afternoon.  Hopefully it'll be spring next time I see you.
+SECOND PERSON W750
+Oh God any time, any month.
+PATIENT: Thank you.
+SECOND PERSON W750
+We go to the right
+PATIENT: Is this the way?
+SECOND PERSON W750
+Another right right?
+DOCTOR: To go where?
+PATIENT: Out.
+SECOND PERSON W750
+Out.
+DOCTOR: Uh I would go this way.
+PATIENT: Okay thank you.
+DOCTOR: Shorter walking.  The very very farthest [REDACTED] is probably on the right.
+SECOND PERSON W750
+Okay.
+DOCTOR: But the elevator is right along this corner here.
+SECOND PERSON W750
+Thank you.
+PATIENT: Thank you.
+DOCTOR: You're welcome.
+PATIENT: 82:00
+Time is 2:50 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238086
+TRANSACTION # 578-10-2-316-0103

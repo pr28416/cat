@@ -1,0 +1,309 @@
+DOCTOR: PATIENT?
+PATIENT: Yo.
+DOCTOR: [REDACTED].
+PATIENT: It never fails, whatever side I sit on the doctor come out the other side.
+DOCTOR: How are you doing today?
+PATIENT: Well I'm not so good.
+DOCTOR: We can talk about it.
+PATIENT: Okay.  I got it.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Put my stuff over here?
+DOCTOR: Yeah.  What's going on?
+PATIENT: Well, it's to be expected.  I have cancer of both lungs.
+DOCTOR: Right.
+PATIENT: And I'm on chemo.
+DOCTOR: Right.
+PATIENT: So there gonna be some good days and some bad days.
+DOCTOR: Okay.
+PATIENT: This would be one of my bad days you know, a little dizzy but no pain or anything like that.
+DOCTOR: Okay.
+PATIENT: I'm not falling down dizzy you know.
+DOCTOR: Do you feel.
+PATIENT: Sort of like you feel after you have three shots you know.
+DOCTOR: Yeah.  I think that, I was just looking through your chart.  I think we can stop one of your blood pressure medicines.  So the blood pressure is pretty low, has it ever been high since we started the chemo?
+PATIENT: Uh no.  In fact, a couple of times.
+DOCTOR: Uh-huh.
+PATIENT: It has, you know its bottom.
+DOCTOR: Right.
+PATIENT: Has been in the 90s.
+DOCTOR: In the 90s yeah.
+PATIENT: Yeah.
+DOCTOR: I think we should, if it's alright with you, try stopping the blood pressure medicine, the hydrochlorothiazide.
+PATIENT: Oh that's the little yellow pill.
+DOCTOR: Yeah.
+PATIENT: It makes you get up sometime at night.
+DOCTOR: The water pill right.
+PATIENT: Right.
+DOCTOR: Um I'll talk with DOCTOR but I think and that'll help you from being, so you were losing water by taking that and so.
+PATIENT: Uh-huh.
+DOCTOR: That causes some dizziness and some low blood pressures.
+PATIENT: Uh-huh.
+DOCTOR: But maybe we could try.
+PATIENT: Okay.
+DOCTOR: Cause I don't think you need it anymore.
+PATIENT: Uh-huh.
+DOCTOR: Yeah.
+PATIENT: For a long period, as long as my blood pressure been down.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: It's going, let me just check and see.
+PATIENT: Well I feel, well I still have my nifedipine.
+DOCTOR: You still have the nifedipine?
+PATIENT: Yeah.
+DOCTOR: What's that uh, let's see.  How much of that are you taking?
+PATIENT: Well, it was 90 right?
+DOCTOR: Right, it's 90.
+PATIENT: 90 mg.
+DOCTOR: Okay.  Let's talk with DOCTOR.  I think we should go down on one of these blood pressure medicines.
+PATIENT: Uh-huh.
+DOCTOR: Either the nifedipine we can, since that's a pretty strong dose maybe we could just cut it to 60 instead of 90.
+PATIENT: Hey good.
+DOCTOR: Or we could get rid of the hydrochlorothiazide.
+PATIENT: Completely.
+DOCTOR: Yeah.
+PATIENT: Until further notice.
+DOCTOR: Right, right.
+PATIENT: Okay.
+DOCTOR: I'll, I'll talk to him and see what he thinks is the.
+PATIENT: Okay.
+DOCTOR: Better thing to do.
+PATIENT: Uh-huh.
+DOCTOR: Any fevers or chills?
+PATIENT: Uh no.
+DOCTOR: No.
+PATIENT: Uh.
+DOCTOR: Any trouble breathing?
+PATIENT: Uh uh.
+DOCTOR: Just the dizziness.
+PATIENT: Yes, you know just the dizziness.
+DOCTOR: Okay.
+PATIENT: I was dizzy.  [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I had chemo three weeks ago.
+DOCTOR: Right.
+PATIENT: And right after you know, the body said hey what's this you giving me.
+DOCTOR: Yeah.
+PATIENT: And uh and I been doing pretty good you know.  I no longer getting the blood-streaked sputum you know.
+DOCTOR: That's good.
+PATIENT: I hope it is.
+DOCTOR: Yeah.  And then did they talk to you about how many cycles of chemo you have to get or?
+PATIENT: Uh right now they said, not to hold them to it, it all depends on the tests they take.
+DOCTOR: How you're doing.
+PATIENT: And what have you but they said approximately.
+DOCTOR: Uh-huh.
+PATIENT: Six - three weeks apart.
+DOCTOR: Three weeks apart each one.
+PATIENT: Uh-huh.
+DOCTOR: Yeah.  You're going good.
+PATIENT: Well I'm hanging in there.
+DOCTOR: Yeah.  So do you live with anyone then or?
+PATIENT: Huh?
+DOCTOR: Do you live by yourself or do you have someone to kind of help you out?
+PATIENT: Uh I live in a building with 150 apartments.
+DOCTOR: Okay.
+PATIENT: And uh.
+DOCTOR: Your neighbors are pretty nice?
+PATIENT: Noisy, but sometimes that come in handy.  Once you get past 75 you can, you know the neighbors you know.  So they always want to know where you been and all that and you know when you came out, those type of neighbors.  I appreciate them, you know.
+DOCTOR: Right, right.  So nobody stays like with you in the house though?
+PATIENT: Uh no.
+DOCTOR: Okay.  Do you that, would you like to if I could get it set up that a visiting nurse come by and just check on you once a week?  Just so you know if you need anything you know she could help get it.  I'll have to see if I can get that set up but you probably would qualify if you think that would help you.
+PATIENT: Oh BNA?
+DOCTOR: Uh-huh.
+PATIENT: Yeah.  Okay.
+DOCTOR: Do you have that already or?
+PATIENT: No.
+DOCTOR: No okay, yeah.  I think it might be helpful at this point in time.
+PATIENT: I agree with you.
+DOCTOR: Yeah.  I'll see if I can get that set up.
+PATIENT: Oh she can make suggestions you know.
+DOCTOR: Sure, yeah.
+PATIENT: You know maybe you should go to the hospital.
+DOCTOR: Exactly.
+PATIENT: You know.
+DOCTOR: Yeah.
+PATIENT: Lighten up on the crown royal, you know things like that.
+DOCTOR: Yeah, yeah.
+PATIENT: But I think it'd be a good idea.
+DOCTOR: I think so too.  I'll see if I can, it'll take a while for it to get set up to but.
+PATIENT: I know.
+DOCTOR: But we'll get that started and um did you need any refills on any medications or anything?
+PATIENT: Well, if he cut the hydrochlorothiazide to say 60.
+DOCTOR: Uh-huh.
+PATIENT: I mean to [REDACTED] the nifedipine to say 60, I would need to get that refilled so I don't take the old 90 mg.
+DOCTOR: Sure.  We will uh.
+PATIENT: And only hydrochlorothiazide 25 mg is probably as low at it goes.
+DOCTOR: Yeah.  Well I'll ask him and see which one is better to do.
+PATIENT: Okay.
+DOCTOR: So.
+PATIENT: Okay.  Yeah he's a good man.
+DOCTOR: Yeah I mean either one is probably fine so.  I'll ask him.  Let me just take a listen to you and you want to sit up here for me?
+PATIENT: Okay.
+DOCTOR: [REDACTED] oh you can finish your coffee.
+PATIENT: Of course.  I'm gonna be here all day.
+DOCTOR: Oh yeah, you have something else today?
+PATIENT: No I'm gonna, I've had my blood drawn for my chemo tomorrow and I'm gonna eat lunch here.
+DOCTOR: Good.  Yeah, pull down your [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Your blood work looks from the last time.  Say ah.
+PATIENT: Ah.
+DOCTOR: When was the last time you've seen the dentist?
+PATIENT: You know I like the way you do things.  Oh about ten years ago.
+DOCTOR: And do you have trouble eating or anything?
+PATIENT: Uh no I eat soft food you know.
+DOCTOR: You eat soft food.
+PATIENT: And uh, according how this chemical thing works out you know if the process should go in remission or something then I worry about the teeth.
+DOCTOR: Sure, no I understand.  That's more important right now.
+PATIENT: Yeah.  So why worry about uh.
+DOCTOR: Yeah.
+PATIENT: Putting dentures in the gum.
+DOCTOR: Deep breath for me.  Good, good.  Did they tell you had [REDACTED] cause I don't hear anything.
+PATIENT: They, well.
+DOCTOR: Did they tell you [REDACTED].
+PATIENT: They want; they first noticed it from the x-ray on the right side you know.
+DOCTOR: Uh-huh.
+PATIENT: And then they gave me the other side they said I had a smaller one.
+DOCTOR: Uh huh.
+PATIENT: And they wound up doing a.
+DOCTOR: Biopsy.
+PATIENT: Biopsy for the one on the right side you know.
+DOCTOR: Right.  We need to see what the period, yeah and it both came back um.
+PATIENT: [REDACTED] especially on the right side.
+DOCTOR: That’s what I’m looking for.  [REDACTED]
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] I think their small.
+PATIENT: On the right side they're small.
+DOCTOR: On both of them yeah.  That's good.
+PATIENT: I'm gonna ask you a question doctor.
+DOCTOR: Uh-huh.
+PATIENT: See my fingers
+DOCTOR: Yes.
+PATIENT: They are so [REDACTED] like the raptor.
+DOCTOR: The what?
+PATIENT: A raptor, a bird of prey.
+DOCTOR: Oh sure.
+PATIENT: You know.
+DOCTOR: You mean just like how it's like [REDACTED].
+PATIENT: No it's puffy.
+DOCTOR: Yeah you know that's kind of uh one of the signs of, it's called clubbing.  Has anybody told you that?
+PATIENT: No.
+DOCTOR: It's like um, it'll happen for a lot of different reasons.  Two of the most common ones are when people smoke a lot.
+PATIENT: Uh-huh.
+DOCTOR: They can get discolored like the bottom side finger [REDACTED].
+PATIENT: Both hands [REDACTED] very much.
+DOCTOR: Yeah its part and usually when that happens it's because people smoke a lot and then you worry about cancer, so the cancer causes the problem.
+PATIENT: Oh okay.
+DOCTOR: So it's uh nothing, we can't really do anything to change it.  You could just um you know clip your nails but they don't look that long I don’t know.
+PATIENT: Uh-huh.  I clipped them last night.
+DOCTOR: Yeah so but yeah it's just part of the.
+PATIENT: Part of the, part of the situation.
+DOCTOR: Right, right.
+PATIENT: I have a power port on the right side.
+DOCTOR: Now what is it?
+PATIENT: A power port.
+DOCTOR: Oh power port, yeah I wanted to ask you where you get your chemo from.  Okay so yeah it didn't hurt.
+PATIENT: Huh.
+DOCTOR: Looks good.  I'm just checking to see.
+PATIENT: Yeah okay, no problem.
+DOCTOR: Everything looks great.  Let's see.  Good.  Just lay down for me and I'm gonna take a look at [REDACTED].
+PATIENT: My skin is dry, you can tell by the crustiness of it.
+DOCTOR: Yeah.  You put any lotion or anything on it?
+PATIENT: Up until the last couple of days.  When I'm coming to the doctor I don't put any lotion on the day before that.
+DOCTOR: Sure.
+PATIENT: So I can be more natural.
+DOCTOR: I don't know, does that hurt you when I do that?
+PATIENT: Uh no.
+DOCTOR: Okay great, good.  Yeah that should, you should put some lotion on it.
+PATIENT: And I wasn’t being a dirty old man.
+DOCTOR: Oh I know.
+PATIENT: My feet are not so [REDACTED].
+DOCTOR: Yeah.
+PATIENT: They just big.
+DOCTOR: [REDACTED].
+PATIENT: Oh uh-huh.
+DOCTOR: Alright, you can have a seat back there.
+PATIENT: Alright.
+DOCTOR: Alright, let me go talk to DOCTOR.  I think the main thing today is to kind of go down a little bit on your blood pressure medicine.
+PATIENT: Okay.
+DOCTOR: And then everything else looks alright.
+PATIENT: Okay.
+DOCTOR: Okay let me just go talk to him okay.
+PATIENT: You think I make December @@, [REDACTED]@?
+DOCTOR: Do I think you'll make it?
+PATIENT: Uh-huh.
+DOCTOR: I think so; I don't know that much about those things.  I’d ask the cancer doctor.
+PATIENT: That's the end of the world you know.
+DOCTOR: That's right I remember you telling me that last time.
+PATIENT: Uh-huh on the Mayan calendar.
+DOCTOR: The way you look right now I think you'll make it.
+PATIENT: Yeah I'm gaining a few pounds and I was you know hoping that wasn't [REDACTED] because.
+DOCTOR: I understand you.
+PATIENT: On this procedure they don't want you to bloat up.
+DOCTOR: Right, right.
+PATIENT: You know, it good to gain a few pound but you start bloating up and swelling in the feet and all that.
+DOCTOR: Yeah.
+PATIENT: It's not good.  Okay doc.
+DOCTOR: Alright I'll be right back.
+PATIENT: Uh-huh.
+(DOCTOR OUT:  48:09  DOCTOR IN:  51:42)
+(Knock on the door)
+PATIENT: Come on.
+DOCTOR: He said to just cut out the hydrochlorothiazide.
+PATIENT: Okay.
+DOCTOR: To keep the nifedipine at the 90.
+PATIENT: Uh-huh.
+DOCTOR: Um and cut out the stop the.
+PATIENT: The lisinopril okay.
+DOCTOR: Yeah okay.
+PATIENT: So we remove more pills.
+DOCTOR: Right.  Right and if your blood pressure goes high you can start taking it again but I don't think it's gonna go high, right so.  Alright and then I'll put in for the nursing to come visit you and that could get set-up over the next couple of weeks okay.
+PATIENT: Uh okay.  They've got my phone number right?
+DOCTOR: They should, what is it just so I can have it too.
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER.
+DOCTOR: NUMBER uh-huh.
+PATIENT: NUMBER.
+DOCTOR: NUMBER okay, sounds good.
+PATIENT: Would you check one thing else for me?
+DOCTOR: Uh-huh.  What's that?
+PATIENT: Uh when I was in the GU Clinic three weeks ago.
+DOCTOR: Yeah.
+PATIENT: They took a PSA on me.
+DOCTOR: It was 6.12, so it's good.  You just having [REDACTED].
+PATIENT: Cause it had jumped from 4 to 6.
+DOCTOR: You know that's uh, yeah 4 to 6 but it's been 6 before in like 2008, it was 6.47.
+PATIENT: Uh-huh.
+DOCTOR: And it was like 5 in May.  It kind of jumps around you know, that's not a big difference.  What you worry about is if it goes up by a lot, like if it doubles or triples.
+PATIENT: Or keeps inching up.
+DOCTOR: Yeah.
+PATIENT: You know each time a little worse okay.
+DOCTOR: Okay.
+PATIENT: Cause I was just wondering about that.
+DOCTOR: Yeah.  So it looks, I wouldn't worry about it.
+PATIENT: I was in the GU, he seemed pretty, oh your PSA was 6, that's not good, he said, okay.
+DOCTOR: Oh it's not the, it's not anything to worry about.
+PATIENT: What good is for one is average for another, I'm well aware of that.
+DOCTOR: Right, right.
+PATIENT: I worked with doctors a long time.
+DOCTOR: Yeah.  Alright, so come back me and see me in three months okay.
+PATIENT: Uh-huh.
+DOCTOR: You have people with the Oncology doctors right, who are gonna see you every three weeks?
+PATIENT: Yeah I have to be there tomorrow to get another zapping.
+DOCTOR: Yeah.
+PATIENT: So I don't have to see DOCTOR?
+DOCTOR: No I talked to him and he just said you know to get off the hydrochlorothiazide.
+PATIENT: Okay he said that.  I must be doing pretty good.
+DOCTOR: Yeah, yeah.  Alright and I'll put, [REDACTED] so just stop taking the hydrochlorothiazide.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: And you want to see me in three months okay.
+DOCTOR: Alright.
+PATIENT: Okay I'm a thank you doc.
+DOCTOR: Alright, pleasure as always.
+PATIENT: [REDACTED].
+DOCTOR: I've renewed your prescriptions.  Have a day sir.
+PATIENT: 55:21.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255193
+TRANSACTION # 578-10-2-316-0103

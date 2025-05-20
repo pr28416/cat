@@ -1,0 +1,265 @@
+DOCTOR: PATIENT.  [REDACTED].  Go ahead and have a seat.
+PATIENT: Thank you.
+DOCTOR: So okay let me pull up your chart.  Okay.  So you were seen by DOCTOR that's like two years ago.  So you haven't been seen in a long time.
+PATIENT: I just go downstairs; it's been a while ago for um I got rotator cuff issue.
+DOCTOR: So is it a tear or tendinitis?
+PATIENT: It's like rheumatism, I need cortisone shots.
+DOCTOR: Oh.
+PATIENT: And this was my second cortisone shot.
+DOCTOR: Like arthritis?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: It's wearing off though.
+DOCTOR: Oh yeah um the Injection Clinic is not in session today though, we can you know refer you.  So.
+PATIENT: Oh I only just recently had one; they don't want to give me that quickly.
+DOCTOR: Yeah it's every three months.  So right shoulder pain for how long?
+PATIENT: Uh well it started like three days ago.
+DOCTOR: Oh.
+PATIENT: I mean I had it; it was really nasty when I came.
+DOCTOR: Oh.
+PATIENT: To get my injection.  It was like I had to go back to Emergency and they had to make an emergency schedule for me.
+DOCTOR: Oh okay.  So that was in May?
+PATIENT: Something like that yeah.  I was very bad forget the dates.
+DOCTOR: Okay.  Um and they saw you June 1st in the Rheumatology Clinic.
+PATIENT: Yeah to get another shot then.
+DOCTOR: So you had impingement syndrome.
+PATIENT: Okay.
+DOCTOR: And you had it like last month.
+PATIENT: I'm just surprised it's wearing off already.  I had a shot like about a year and a few months ago.
+DOCTOR: Okay.
+PATIENT: Before June.
+DOCTOR: Okay.
+PATIENT: And it was pretty good but then all of a sudden just like wham.
+DOCTOR: Yeah so the pain in your shoulder right now is similar to what you've had in the past?
+PATIENT: No it's just, it's just beginning now.  It's not as severe.
+DOCTOR: Hmm.
+PATIENT: But I can tell that it's gonna get worse.  It's [REDACTED] with [REDACTED]
+DOCTOR: Hmm.
+PATIENT: And when I go up to Rheumatology when I'm finished here.
+DOCTOR: Yeah.
+PATIENT: Because they told me to make an appointment with Physical Therapy.
+DOCTOR: Uh-huh.
+PATIENT: And when I called to make an appointment with Physical Therapy they told me I had to get permission from the doctor in Rheumatology.
+DOCTOR: Oh.
+PATIENT: I said that they already told me.
+DOCTOR: So you haven't had physical therapy?
+PATIENT: No not yet.  I'm going up there today cause it's the rheumatism that we talked about.
+DOCTOR: Oh okay.
+PATIENT: So I need to get the doctors to give me permission so I can eventually go up and get my [REDACTED].
+DOCTOR: Oh, oh you mean a referral, I can put that in.  So um what um do you check your blood sugars at home?
+PATIENT: Not very often anymore since I stopped taking the medicine.  Uh well I didn't really stop taking the medicine it just ran out because you guys were charging me for it.
+DOCTOR: Oh which one?
+PATIENT: Uh so I was taking metformin and something for blood pressure.
+DOCTOR: Um okay let me pull up your list.
+PATIENT: You can get it from the old records, I don't know.
+DOCTOR: Yeah you need to take those medicines.  Um if you get it through the VA it's gonna be that expensive.
+PATIENT: Well you know when I've been living on unemployment for a long time.
+DOCTOR: Oh okay.
+PATIENT: And I'm.
+DOCTOR: How much metformin were you taking?
+PATIENT: I was taking it like I think it was like twice a day.
+DOCTOR: 1000, is that what you were taking?
+PATIENT: I think it was 1000, fairly big pills.
+DOCTOR: Okay and you're out of um.
+PATIENT: Out of everything.  And even the strips that I was using I no longer around.
+DOCTOR: Yeah they're not even showing up in the system.
+PATIENT: Yeah.
+DOCTOR: And you've had.
+PATIENT: I did take my blood sugar this morning and it said 217.
+DOCTOR: Hmm.
+PATIENT: Now the things work fine but that seems about right because it always tends to be on the.
+DOCTOR: Yeah.
+PATIENT: A little bit on the high side.
+DOCTOR: And your blood pressure is a little; it's greater than what we wanted um because for a diabetic you want it to be less than 130/80.  So [REDACTED]. We need to do a lot today.  I'm going to write about this.  Let's take a listen to you.  Okay.  Have you had an Eye Clinic, Eye Clinic within the past year?
+PATIENT: No.
+DOCTOR: Okay, okay.  Alrighty we'll go through this.  Do you smoke?
+PATIENT: No.
+DOCTOR: Ever smoked?
+PATIENT: Nope.
+DOCTOR: Okay.
+PATIENT: No smoke, no drink, no drugs.
+DOCTOR: Have you heard about the MOVE Clinic, it's for exercise and weight loss, every Monday at 10:00 a.m.?
+PATIENT: Yeah I really can't go.
+DOCTOR: Have you had a colonoscopy?
+PATIENT: No not for years.
+DOCTOR: Well you're over 60 so.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I had one um about seven or eight years ago, longer than that.  [REDACTED].  I had a tracheostomy and a colon and they actually did remove a benign polyp.
+DOCTOR: You had a polyp?
+PATIENT: It was benign.  I don't know if it was a polyp but it was something.  But I [REDACTED].
+DOCTOR: So you had colon cancer before or not?
+PATIENT: No, it wasn’t cancer, it was something [REDACTED] doing something, he wanted to do a colonoscopy and he said it was said it was [REDACTED] so let's remove it whatever it was.
+DOCTOR: But you never had it or?
+PATIENT: No I never had cancer or anything.
+DOCTOR: But you did go for surgery?
+PATIENT: I didn't go for.
+DOCTOR: When did they remove the polyp?
+PATIENT: Oh I have no idea.  It was like seven, eight years ago.
+DOCTOR: Okay.  You're probably due for another colonoscopy.  Do you have a family history of colon cancer?
+PATIENT: No my mother had ovarian cancer and my father suffers from Alzheimer's.
+DOCTOR: Hmm.  So your mother had ovarian.  Is she still living?
+PATIENT: No she passed away in 1980.
+DOCTOR: Sorry about that.  Your dad is still living?
+PATIENT: Yeah if you can call it that.
+DOCTOR: Hmm.
+PATIENT: He just turned 91 but he's just like a shell.
+DOCTOR: Hmm.  Let me take a look at your labs.  Let's see.  [REDACTED] order your labs today.  A1c, lipid panel, uh colonoscopy as well for surveillance.
+PATIENT: [REDACTED].
+DOCTOR: So it was a polyp but you don't remember what kind it was?
+PATIENT: Uh he just said it wasn't serious it was just something he wanted to remove.
+DOCTOR: Okay and you're not taking aspirin, Plavix or Coumadin?
+PATIENT: No I was taking some Aleve.
+DOCTOR: Hmm.
+PATIENT: For the shoulder but I haven't taken it for a little while. Haven’t needed it.  I was just taking a couple of ibuprofen during that time.
+DOCTOR: Okay.
+PATIENT: I generally do not like taking pills unless I have to.
+DOCTOR: Yeah.
+PATIENT: Pretty much.
+DOCTOR: Do you drink alcohol?
+PATIENT: No.
+DOCTOR: Any marijuana, heroin or cocaine?
+PATIENT: No drugs, no drink.
+DOCTOR: Prior surgery on your abdomen?
+PATIENT: No.
+DOCTOR: No.  History of radiation to the abdomen or pelvis?
+PATIENT: No.
+DOCTOR: Um let's see.  You're not taking any medicine at all right?
+PATIENT: Not currently no.
+DOCTOR: Okay.  How long have you been out of this?
+PATIENT: Oh well for about a year I guess.
+DOCTOR: You haven't taken any insulin or anything for a year?
+PATIENT: No.  I've never taken insulin or anything.
+DOCTOR: You were on metformin.
+PATIENT: Yeah.
+DOCTOR: Alrighty.
+PATIENT: You know I feel fine.  I mean you know I don't have any numbness or anything like that.
+DOCTOR: Yeah but diabetes is something um, it's something that uh you know people don't feel it.
+PATIENT: So I gotta tell you there were times when I was on the metformin when I was feeling very sick.
+DOCTOR: Hmm.  It causes a lot of bloating and diarrhea so.  When was your last eye exam?
+PATIENT: Oh well over a year ago I would imagine.  Maybe two years.
+DOCTOR: Any blurriness?  Any trouble seeing?
+PATIENT: No more than I ever had, just clean my glasses and everything [REDACTED].
+DOCTOR: So I'm going to ask you  to slip your shoes off for me.  (Someone knocks on the door and the doctor speaks with them for a moment)  Put your socks [REDACTED].  I'm putting in so it will be faster for you.
+PATIENT: So I'm gonna be here for a while anyway.  I mean they have to take blood.
+DOCTOR: Yep.
+PATIENT: And I have to wait for a prescription.
+DOCTOR: Yeah.  Good.  I'm gonna test your pulses here.  Good. Your toenails look good.  Just let me know if you feel it.  Can you feel me touching you here?
+PATIENT: Oh yeah.
+DOCTOR: Do you feel me touching here?
+PATIENT: Uh-huh.
+DOCTOR: And do you feel anything?
+PATIENT: Oh yeah.
+DOCTOR: Okay and what about here?
+PATIENT: Oh yeah.
+DOCTOR: How about this?  What about this?
+PATIENT: There's always been real dry skin under there because I tend to wear my socks high.
+DOCTOR: Oh okay.  Deep breaths.  Look at my face.  Do you do exercise and stuff like that?
+PATIENT: I walk a lot and I tend to take about an hour and a half, two hour walk at least three times a week, weather permitting.
+DOCTOR: Good.  And you ought to continue doing that.
+PATIENT: Yeah I like that.
+DOCTOR: Yeah.  Follow my finger okay.  Look at me, straight ahead okay. Alrighty.  So I'm gonna go talk to DOCTOR and we'll just get everything set up.  I need see what of insulin you were on [REDACTED] enough.  I'm gonna [REDACTED] metformin.  The thing is [REDACTED] only thing that's been here, you don't even know [REDACTED].  Well actually what we'll do is we'll check an A1c and then so you were just on metformin.  Were you on?
+PATIENT: I was on something for um.
+DOCTOR: Blood pressure.
+PATIENT: Blood pressure.
+DOCTOR: Do you remember the name?
+PATIENT: No unfortunately. I’d probably remember it if somebody told me.
+DOCTOR: Was it lisinopril?
+PATIENT: Yeah, yeah, yeah.
+DOCTOR: And then you were on metformin okay.
+PATIENT: [REDACTED] aspirin something like that.
+DOCTOR: Okay.  Naproxen?
+PATIENT: Something like that.
+DOCTOR: Okay I'll be right back.
+DOCTOR: 80:00  DOCTOR IN:  85:22
+DOCTOR: Okie dokie.  We're gonna put you back on the medicines.
+PATIENT: Okay.  So when I do the lab work do I have to come back here?
+DOCTOR: No.  I'll send you a letter or call you.  So CBC, liver, lipids [REDACTED] A1c okay.
+PATIENT: Yeah let's not go too crazy on the medicines so three is fine.  I think you know my wife she passed away from pancreatitis.
+DOCTOR: Hmm, sorry.
+PATIENT: And she was on like 16 different meds.
+DOCTOR: Uh-huh.
+PATIENT: And I so there’s a part of me that thinks they were over medicating her.
+DOCTOR: Right.
+PATIENT: Yeah.
+DOCTOR: But for your diabetes you need to be on some medication.
+PATIENT: Oh I understand I just don't want to have the situation where I'm taking you know 12-13 different types of pills.
+DOCTOR: You won't be.  Um window or mail?
+PATIENT: I'm sorry?
+DOCTOR: Pick up your medicine at the window or?
+PATIENT: Oh you can mail it to me I guess.
+DOCTOR: Okay.
+PATIENT: Cause I have other errands that I need to run today.
+DOCTOR: Okay no problem.  Metformin.
+PATIENT: You guys have done that before and I think that's pretty cool.
+DOCTOR: Yeah we're gonna do metformin 1000 mg b.i.d.
+PATIENT: Now should I, cause you know I was talking to a friend of mine who also takes metformin and he told me that because I hadn't taken it sometimes for diabetes that you always have to be sure to take it after you eat something.
+DOCTOR: Yeah you should, on a full stomach cause then you'll feel, you'll get like gassy and all that.
+PATIENT: Yeah cause that's what the guy was saying you can get a really bad upset stomach.
+DOCTOR: Yeah.  And glyburide.
+PATIENT: Yeah glyburide was another one.
+DOCTOR: We'll do 10.
+PATIENT: I'm pretty sure I can keep it down.  I mean I walk enough, I walk regularly and I've lost about 20 pounds.
+DOCTOR: That's good.
+PATIENT: In the last six months or so.
+DOCTOR: Uh-huh.
+PATIENT: I mean I don't try to diet or anything like that.
+DOCTOR: Yeah.
+PATIENT: But I'm not eating as much processed food and I don't go to those fast food places.
+DOCTOR: That's good.
+PATIENT: So I mean I do eat red meat and I tend to eat a lot when I do eat.
+DOCTOR: Uh-huh.
+PATIENT: But I really only try to eat meat like one [REDACTED] every day.
+DOCTOR: Why don't we put you back on the hydrochlorothiazide for blood pressure?
+PATIENT: Okay.
+DOCTOR: And I'll leave it at that okay and then Naproxen.  The Naproxen you have to take omeprazole with it because it's something for your, it'll upset your stomach.  Okay.
+PATIENT: Oh you said you could handle the referral so that I could just call and make an appointment with Physical Therapy?
+DOCTOR: Yeah.  Uh-huh.
+PATIENT: That'll save me another trip today.
+DOCTOR: Okay so we're all set and you're done.
+PATIENT: So I just take the lab work and then you'll mail me the letter?
+DOCTOR: Yeah.
+PATIENT: Okay and I'll have to start taking it today.
+DOCTOR: The meds?
+PATIENT: Yeah.
+DOCTOR: Well I mean, I don't know how long it'll take for the mail.
+PATIENT: Yeah.
+DOCTOR: Maybe by Monday you'll get them.
+PATIENT: Oh yeah that'll be fine.
+DOCTOR: And then.
+PATIENT: Cause I've gone without them for a long time.
+DOCTOR: Take a look at the instructions okay and then we'll see you in the clinic maybe in two months.
+PATIENT: Okay but go to the Lab first right?
+DOCTOR: Yeah.
+PATIENT: Okay.  Thank you very much.
+DOCTOR: Okay nice to meet you.  I'm DOCTOR by the way.
+PATIENT: Nice to meet you doctor.
+DOCTOR: Okay.  Take care.
+PATIENT: Tell DOCTOR I said hello.
+DOCTOR: Okay.  She's with patients.
+PATIENT: Okay she actually called me cause I hadn't shown up in a long time.
+DOCTOR: Yeah.  She gets concerned.
+PATIENT: She was like you know where you been?
+DOCTOR: Yeah.
+PATIENT: So then I started one of those, for some reason they determined that I was making enough money so that I could get uh.
+DOCTOR: Yeah.
+PATIENT: Start paying, that's the thing that I really couldn't afford to have it taken out of my income tax.
+DOCTOR: Oh.
+PATIENT: About $130 but to me that seemed like a lot.
+DOCTOR: That is a lot yeah.  That's a lot for me too.
+PATIENT: So if I call in six different medicines plus the strips and things like that.
+DOCTOR: Uh-huh yeah.
+PATIENT: Did you order me more strips by the way as well?  Like along with all the other stuff?
+DOCTOR: No I didn't, let me put that in.
+PATIENT: Just so I could have the records, I couldn't tell you what kind of machine I have.
+DOCTOR: Yeah I'll need to know so I can order the strips correctly.  Um what I would do is I would call.  I would look at the machine and call the pharmacist here and ask what type of machine it is so then they can send me little like reminder to order it.
+PATIENT: Okay that's fine.
+DOCTOR: Okay.  Alright.  Take care.
+PATIENT: Thank you very much.
+DOCTOR: You're welcome.
+PATIENT: Have a good weekend.
+DOCTOR: You too.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38312
+TRANSACTION # 578-10-2-316-0103

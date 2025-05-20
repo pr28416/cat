@@ -1,0 +1,110 @@
+PATIENT: Hi doctor how are you?
+DOCTOR: Good how are you?
+PATIENT: I'm hanging in there.
+DOCTOR: Alright.  What can I help you with today?
+PATIENT: Well I had the appointment to see you today.
+DOCTOR: Okay.
+PATIENT: I thought maybe something come up that you need to talk to me about.
+DOCTOR: Um no they were supposed to make an appointment with your primary care DOCTOR.
+PATIENT: They were supposed to.
+DOCTOR: What happened there?
+PATIENT: Ah probably a mix up.
+DOCTOR: Alright let's see.  Your blood pressure is good.  Very good so whatever we did last time worked I guess.
+PATIENT: Yeah I guess you're right.  I'm glad of that.  You approve of that uh, good.
+DOCTOR: So let's see.  We'll see what it's telling us today.  So you just saw DOCTOR right?
+PATIENT: I saw her a week ago right.
+DOCTOR: And she, sounds like she said everything’s tiptop, everything is doing okay.
+PATIENT: Yeah.  But you could look at that, I think my blood and everything, it didn't come up yet but do you, would have that on the screen or no?
+DOCTOR: Uh-huh.
+PATIENT: Could you check that and let me know what's going on, I'd like to know.
+DOCTOR: Okay your blood work, the white count is good.  Um your hemoglobin is good, you’re not anemic and your platelets are in the right place so your blood counts are good.
+PATIENT: Okay.
+DOCTOR: Your PSA is very low.
+PATIENT: Okay.
+DOCTOR: Almost 0 and uh electrolytes, they're good, nothing really to write home about and that's all.
+PATIENT: Okay.
+DOCTOR: That looks good to.
+PATIENT: Okay.
+DOCTOR: Your PSA is low for a while, so nothing exciting.
+PATIENT: Okay, great.
+DOCTOR: Okay alright then we also need to get you the eyes or remember how we were trying to get you.
+PATIENT: That's what they did.
+DOCTOR: They did, alright.
+PATIENT: Okay.
+DOCTOR: I'm going to listen to your heart.
+PATIENT: Yeah.
+DOCTOR: Your heart and lungs.
+PATIENT: You’re being recorded, you know.
+DOCTOR: Okay, take a real deep breath.  Good, any swelling in your legs?
+PATIENT: I don't think so.
+DOCTOR: No okay.  No looks good, well alright.  Uh so I would just say stay the course, that it worked since whatever we changed to works, uh can you check it only once in a while for your blood pressures?
+PATIENT: Yeah.
+DOCTOR: This amlodipine.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Good.
+PATIENT: That should be sufficient shouldn't it?
+DOCTOR: Yeah it's low; it's like 108 so that's good.
+PATIENT: Okay.  And I think there's something wrong with that machine cause at the house I get a different reading.
+DOCTOR: Really.
+PATIENT: Uh-huh.
+DOCTOR: Does it give you a higher one?
+PATIENT: Yeah.
+DOCTOR: Um so what I would say is uh.
+PATIENT: Could you try another machine though?
+DOCTOR: Um come back for a nursing visit.  Do you have any other appointments?  You have an eye doctor and Hematology on the 20th.  You have an appointment with DOCTOR.
+PATIENT: Yeah on the 20th.
+DOCTOR: So come here for a blood pressure check, for nursing blood pressure check.
+PATIENT: Okay.
+DOCTOR: And bring your machine, your home machine.
+PATIENT: Okay.
+DOCTOR: And so they can correlate to see if it's reading right or not.
+PATIENT: Thank you.
+DOCTOR: And we'll solve that problem.
+PATIENT: Right.
+DOCTOR: And other than that um did you get shots, you know the immunization shots?  You didn't so it looks like the flu, I think you should have the flu shot.  Do you want to get flu shot today?
+PATIENT: Uh can I wait later?
+DOCTOR: You can.
+PATIENT: Thanks.
+DOCTOR: Alright and did you have a colonoscopy?
+PATIENT: I've had one but maybe it's time for another one maybe.
+DOCTOR: Let's see.
+PATIENT: What do you think?
+DOCTOR: Let me see when it was.  You didn't have anything there so it's still good for a couple years alright.
+PATIENT: Okay.
+DOCTOR: Okay well let me talk to my bosses and we're not doing anything really today.
+PATIENT: Thank you.
+DOCTOR: But we'll get in two weeks a blood pressure check.
+PATIENT: Okay.
+DOCTOR: With um your machine in the nurses clinic and we'll have you come back in three months and probably on appointment (in the correct clinic).  Not that I'm not glad to see you but they know you, they don’t like when we pull patients from one clinic to another.
+PATIENT: Oh okay.
+DOCTOR: With DOCTOR.
+PATIENT: Alright.
+DOCTOR: Alright, I'll be right back.
+PATIENT: Thank you, alright.
+(DOCTOR OUT:  17:35  DOCTOR IN:  20:11)
+DOCTOR: Alrighty.
+PATIENT: Thank you.
+DOCTOR: You're all set today.  Do you have enough of refills and everything for your, well why don't you let me just check if you have your medications.
+PATIENT: Alright.
+DOCTOR: Do you want to have a 90 day supply?
+PATIENT: Please.
+DOCTOR: To mail you?
+PATIENT: Yes, good.
+DOCTOR: Okay, you're welcome.  To mail yep.
+PATIENT: Good.
+DOCTOR: Alright.
+PATIENT: Thank you.
+DOCTOR: All done.
+PATIENT: Alright, thank you again.
+DOCTOR: Okay, well just call if there is anything.
+PATIENT: Will do and the same to you.
+DOCTOR: Okay, you take care.
+PATIENT: Yes.
+PATIENT: 21:03
+Time is 4:10.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238132
+TRANSACTION # 578-10-2-316-0103

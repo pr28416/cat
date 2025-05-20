@@ -1,0 +1,76 @@
+DOCTOR: How are you doing today?
+PATIENT: I'm doing OK, I just had this cough that's really started to bug me.
+DOCTOR: OK, thanks for coming into the emergency Department today. We will really try to get this sorted out for you. How long is this cough been going on for?
+PATIENT: Um about five days 5 days.
+DOCTOR: Ok 5 days, and has anything else come on during that time? Are you having any other symptoms?
+PATIENT: Yeah, I've been feeling pretty pretty hot and just haven't been really feeling very good. Overall, I've been just exhausted.
+DOCTOR: Oh Im sad to hear that. Have you ever had anything like this before?
+PATIENT: Yeah, maybe when I was younger, I don't know when I had the flu or something like that.
+DOCTOR: OK. OK, so I'll ask you few more questions about your cough. So it started 5 days ago, has it gotten any worse or better since then?
+PATIENT: It's been getting worse for sure. It's like going all all throughout the day, and it's been even interrupting sleep.
+DOCTOR: Oh, geez. That's too bad. Do you find that it, does it feel really dry or are you bringing up like gunky stuff?
+PATIENT: It it's really dry.
+DOCTOR: OK. And he is there anything that seems to make it worse or better?
+PATIENT: Not really, it's pretty consistent throughout the day.
+DOCTOR: OK. OK, um have you had any chest pain?
+PATIENT: Yeah, after coughing it can, it's it's starting to hurt, it didn't at first, but now that I've I think I've coughed so much it's starting to feel pain there.
+DOCTOR: OK, what what part specifically in your chest are you feeling pain in?
+PATIENT: Uh actually now that I think about of it, it's more more in my throat actually with the cough.. I would say with the cough. Yeah yeah, more of the throat.
+DOCTOR: Would you say you have you've had a sore throat?
+PATIENT: Yeah I guess so yeah I would, like now with the cough that's really kind of what I mean by what's been bugging me.
+DOCTOR: OK OK, thanks for sharing that with me. Um and, along with this, have you noticed any change in your sense of smell or taste?
+PATIENT: Um yeah, my smell is definitely been off ahh, which is kind of weird. My taste has been fine though.
+DOCTOR: OK. OK, um and when did that start?
+PATIENT: Yeah, now that you say it, I mean, well I guess this morning.
+DOCTOR: OK mmm, have you had any nausea or vomiting?
+PATIENT: Uh, no, nothing like that.
+DOCTOR: OK. Um and you said you felt really hot. Have you taken your temperature at all?
+PATIENT: No, I haven't, that's why, but I've been feeling pretty sweaty so that that's where I I feel like I have a fever, so I wanted to come in.
+DOCTOR: OK, OK. Have you lost any weight recently, like unintentionally?
+PATIENT: No, I've actually put on probably 5 or 10 pounds.
+DOCTOR: OK. OK um. Have you had felt any any chills, or shakes?
+PATIENT: Mmmm nothing like that.
+DOCTOR: OK. Have you had any night sweats?
+PATIENT: Um yeah, actually like yeah last night my shirt was was soaked through when I when I got up.
+DOCTOR: Oh no. OK, and was that just last night?
+PATIENT: Yeah yeah that was just last night.
+DOCTOR: OK. OK um. So I'm just going to ask you some questions or sorry few more questions on this and then we'll move on to just your health in general. Have you traveled anywhere recently?
+PATIENT: Um, no. I've been been well, just going to work an an home.
+DOCTOR: OK. Um, have you been in contact with anyone that might be sick?
+PATIENT: Um it's well, it's hard to say at the grocery store. I guess I see a lot of customers that come through, but um. I generally things are wiped down pretty frequently so.
+DOCTOR: So you work at the grocery store?
+PATIENT: Yeah.
+DOCTOR: OK, and do you live alone or with family?
+PATIENT: Alright, yeah, I live with family I I live with my wife and two children.
+DOCTOR: Oh nice, yeah, do they work out of the home? Have they been in contact with anyone that's been sick?
+PATIENT: Well, they're in high school um, and they've actually been doing a lot of their coursework on online, so. Yeah, I haven't really been around to any other other people.
+DOCTOR: And your wife?
+PATIENT: Yeah, she's been she's been home as well.
+DOCTOR: OK. So in terms your overall health do you, are there any conditions that you see your family doctor for regularly?
+PATIENT: Yeah, so I have a high blood pressure and type 2 diabetes.
+DOCTOR: OK.
+PATIENT: And so I I take a Ramipril and Metformin.
+DOCTOR: OK, Ramipril and Metformin, any other medications?
+PATIENT: Umm vitamin D.
+DOCTOR: OK, and have you ever had any surgeries?
+PATIENT: Um, yeah I had my Gallbladder taken out about 10 years ago or so.
+DOCTOR: OK. OK um. So do you have any allergies?
+PATIENT: Ahh just too like environmental stuff like um pollen I think.
+DOCTOR: OK. OK, so not any allergies to any medications?
+PATIENT: No.
+DOCTOR: OK um. OK, do you have any family history of respiratory problems?
+PATIENT: Um, I think, um, my brother has asthma. And I think my mom has asthma too.
+DOCTOR: OK. Um OK, and in terms of your lifestyle, that sounds like you live with your wife and kids, you work at a grocery store. On a weekly basis, do you do you drink alcohol?
+PATIENT: Maybe I'll have like 3 or 4 beers on the weekend.
+DOCTOR: OK, so three to four drinks per week?
+PATIENT: Yeah, about that.
+DOCTOR: Do you smoke?
+PATIENT: No, I do not.
+DOCTOR: Do you use cannabis or any other substances?
+PATIENT: No, I don't use anything like that.
+DOCTOR: OK, OK, well I think that just about covers the things that I wanted to ask you today so. Based on the symptoms you're experiencing. It sounds like it could be some kind of infective process, like maybe some kind of viral infection that we're concerned about, particularly this year. I'd really like to get a swab done on you. It's not necessarily covid, but it potentially could be. So what we're going to have to ask you to do is to self isolate you and your family for 14 days and hopefully will get the results back shortly and you'll know whether your COVID test is positive or not.
+PATIENT: OK.
+DOCTOR: Does that sound like a good plan to you?
+PATIENT: Yeah, that sounds good.
+DOCTOR: OK well thanks for chatting with me. We will get that swab done right away.
+PATIENT: Thank you.

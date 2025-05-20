@@ -1,0 +1,422 @@
+DOCTOR: PATIENT?  How you doing?
+PATIENT: Good.  How you doing?
+DOCTOR: Good.  Have a seat.  (Doctor takes a phone call)  Sorry about that um how's it going PATIENT?
+PATIENT: Great.
+DOCTOR: How you been doing?
+PATIENT: Uh I been feeling okay uh I came yesterday and did my blood work and uh.
+DOCTOR: Yeah I saw that here.
+PATIENT: And there was probably one before that even uh and I didn't get uh, I missed my last appointment.
+DOCTOR: Okay.  How have you been doing otherwise?
+PATIENT: Uh had really no issues except I'm very lethargic during the day and uh I've got so many meds that I'm taking now and I don't know if uh that has anything to do with it.
+DOCTOR: Um what, how long has this lethargy been going on for you.  Has it been an ongoing thing?
+PATIENT: Oh just say maybe six months.
+DOCTOR: Six months and uh how are you, are you having to like go to sleep at night, I mean go to sleep are you taking naps every day or something?
+PATIENT: Um yeah I kind of do that but uh I have a good night's sleep, I sometimes don't even get up at all.
+DOCTOR: Uh-huh.
+PATIENT: Um.
+DOCTOR: And how many hours do you sleep typically?
+PATIENT: Oh I would say about seven or eight.
+DOCTOR: Okay.
+PATIENT: The um and I'm kind of depressed.
+DOCTOR: Yeah.
+PATIENT: I guess like everybody else.
+DOCTOR: Yeah.
+PATIENT: Uh they do have me on; I don't know if it's on your screen, some antidepressants.
+DOCTOR: Uh and it's helping?
+PATIENT: Uh.
+DOCTOR: Is it helping a little bit with this uh?
+PATIENT: Yeah I think so a little bit.  I'm taking Wellbutrin.
+DOCTOR: Yeah.
+PATIENT: And um I also take Adderall three times a day.
+DOCTOR: Uh-huh.
+PATIENT: And even with Adderall you know I take an Adderall and go right to sleep.
+DOCTOR: Really.
+PATIENT: Yeah and it should be the opposite.
+DOCTOR: How many times are you napping during the day?
+PATIENT: Uh once or twice.  I'm on 100% disability so I don't have a job; just you know hobbies and things like that uh to stay busy.
+DOCTOR: Right.  Uh.
+PATIENT: I wonder if it could be that trazodone.
+DOCTOR: Trazodone?
+PATIENT: Right.
+DOCTOR: Well when are you taking the trazodone?
+PATIENT: For sleep.
+DOCTOR: Yeah.  So I mean you take it at night right?
+PATIENT: Oh yeah.
+DOCTOR: You're not taking it during the day cause that would.
+PATIENT: No.
+DOCTOR: Okay.  Uh.
+PATIENT: I wonder does that linger on, that's the only thing I could think that would make much of a difference.
+DOCTOR: Yeah.  Have you tried not taking the trazodone?  Are you able to sleep?
+PATIENT: Uh.
+DOCTOR: I mean without the trazodone in other words.
+PATIENT: Sometimes I can.  I just kind of habit forming where I just did it; I just did it for um at night.  When I have trouble sleeping I get it and I get up in the middle of the night and take it so I don't take it every day.
+DOCTOR: You don't take it every day.  Trazodone usually shouldn't linger at all throughout the next day.
+PATIENT: Should not?
+DOCTOR: Typically should not no um.
+PATIENT: Do you have a list of my meds there?
+DOCTOR: Yeah.
+PATIENT: Does anything stand out that might?
+DOCTOR: Nothing stands out I mean sometimes some of the, I mean depression in itself can cause you know you to being kind of fatigued.
+PATIENT: Yeah.
+DOCTOR: Are you not, do you just like you don't have any energy?  Uh when you wake up you feel refreshed and then a few hours later you feel like you have to go back to sleep?
+PATIENT: Yeah because I have no reason to, it'd be different if uh like before I was treated for diabetes I might get up and urinate four, five times a night and.
+DOCTOR: Yeah.
+PATIENT: But I'm not doing that.
+DOCTOR: You're not doing that.
+PATIENT: But um like I said I get up and the only thing I want to do is lay down and I can't wait for the night to come to fall back asleep.
+DOCTOR: Do you snore at night, do you know?  Has anybody ever told you you snore?
+PATIENT: Uh I did have a sleep study here.
+DOCTOR: Oh you did.
+PATIENT: Yeah.
+DOCTOR: You already had that?
+PATIENT: Yeah and um.
+DOCTOR: What did that tell you?
+PATIENT: They gave me one of those masks to wear at night.
+DOCTOR: Alright.
+PATIENT: I have to admit I haven't been real religious uh with that.
+DOCTOR: Okay.
+PATIENT: And one thing that bothered me, I'll be honest with you uh, I quit drinking about 2 1/2 years ago and in the last three months I started drinking again.
+DOCTOR: You started drinking in the last three months?
+PATIENT: Yeah after being abstinent for 2 1/2 years.
+DOCTOR: Yeah.
+PATIENT: It's just that I couldn't go to sleep and I needed, I had a couple shots of something or a couple glasses of wine that you know, that would always get me to sleep.
+DOCTOR: So you restarted three months ago?
+PATIENT: Right.
+DOCTOR: So you were having trouble sleeping but yet your tired?  If you were tired you, so you're tired but you can't sleep during the night.
+PATIENT: Right.  It seems like my mind races a lot.
+DOCTOR: Okay.
+PATIENT: And um that kind of keeps me up.
+DOCTOR: Okay.
+PATIENT: I know that Wellbutrin, that one antidepressant, would that have anything to do with being lethargic?
+DOCTOR: Well some, I think sometimes the antidepressants can cause someone that, it's not necessarily typical but uh.
+PATIENT: [REDACTED].
+DOCTOR: I'm sure it can cause [REDACTED].
+PATIENT: And I was taking the generic for Zoloft I believe.
+DOCTOR: Uh-huh.
+PATIENT: And my psychiatrist had me on Zoloft and Wellbutrin.
+DOCTOR: Yeah.
+PATIENT: And I didn't understand it because I thought you should just take one antidepressant or another.
+DOCTOR: No sometimes you can take more than one.  That'd be a question for your psychiatrist if.
+PATIENT: Uh-huh.
+DOCTOR: You have questions on the strategy.
+PATIENT: Okay.
+DOCTOR: But I mean it's not uncommon for people to be on two.
+PATIENT: You wouldn't believe it.  I was always such a neat person and I just turned into a slob I mean, if you went into my house, you'd think there was a robbery you know and then I'll spend three days making it as uh stark clean as a hospital room you know but I just you know I just can't get myself to do normal tasks you know.  I thought the Adderall would help with that too.
+DOCTOR: It didn't.
+PATIENT: Nope and uh I just let things go.  I eventually clean everything up at the end of the week but.
+DOCTOR: Yeah.
+PATIENT: You know that's out of character for me to be a slob like that.  I mean I even make my bed in the morning.
+DOCTOR: Hmm.  You're on the Zoloft uh.
+PATIENT: Well I stopped taking the Zoloft and I just took the Wellbutrin.
+DOCTOR: Okay.
+PATIENT: Because I heard that could help you with staying more alert.
+DOCTOR: Okay.  Yeah the Zoloft can be, cause sleepiness and uh how much are you drinking right now?
+PATIENT: I'd say about half a bottle of wine a day.
+DOCTOR: Okay.
+PATIENT: Which I want to get myself back in the program because I haven't gone as far back as what I used to be like.
+DOCTOR: Yeah.
+PATIENT: Uh but I know it would just be a matter of time before it would be.
+DOCTOR: Yeah.  Yeah I encourage you to try to quit. I mean you were doing good for 2 1/2 years, that's a long time.
+PATIENT: It is.
+DOCTOR: And uh yeah I would definitely encourage you to try to stop drinking again.
+PATIENT: No I understand cause I've really been down in the dumps.
+DOCTOR: Have you talked to your psychiatrist about this drinking?
+PATIENT: Uh yeah I did and I have an appointment to see her next week.
+DOCTOR: Okay.
+PATIENT: You know it's kind of funny, I could drink a whole bottle of wine and you wouldn't even know that I drank it.  I mean it has no affect.  I mean I don't get high.  I don't slur my words.  You know it's like it has zero affect on me.  I find that very odd.
+DOCTOR: Well people have different tolerance levels you know.
+PATIENT: Yeah especially after not drinking for 2 1/2 years.
+DOCTOR: Yeah.
+PATIENT: Used to be I had two beers and I had a little buzz you know and I don't think I've been drunk for this entire time that I started drinking again.
+DOCTOR: Yeah.  Hmm.  How about your other medicines.  Are you still taking your other medications?  Your metformin and your blood pressure medications.
+PATIENT: Yeah I didn't.  If you wanted to see I brought my Accu-Chek machine.
+DOCTOR: Yeah.
+PATIENT: To see what I've been doing and also I brought in the blood pressure machine cause that keeps track of.
+DOCTOR: So you're taking your lisinopril now and uh you're taking lisinopril and is that the only one now?
+PATIENT: Yeah the one I take is the lisinopril, metoprolol and.
+DOCTOR: Are you taking the metoprolol?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Is that a good idea?
+DOCTOR: Yeah, no you should be taking the metoprolol.
+PATIENT: These are uh, some [REDACTED] I usually test every other day.
+DOCTOR: This is stored in your blood pressure machine? So you take these after you take your blood pressure medicines usually or?
+PATIENT: Sometimes before, sometimes after.  And I've really become introverted as far as not wanting to go out or see my friends or do anything and I just stay home you know and I read a lot and watch the news Channel all the time and I never even go out of the house.
+DOCTOR: Yeah it looks like you've been on medications.
+PATIENT: Yeah and it's got increasingly worse.
+DOCTOR: Yeah.
+PATIENT: And I know that Adderall is a form of amphetamines, isn't that right doctor?
+DOCTOR: Uh yeah.
+PATIENT: And historically that would uh make you more alert and another thing focus.
+DOCTOR: It should yeah.  Now your sugars when you check them are they in the morning usually?
+PATIENT: Yeah in the mornings.  See I'm all over the place with that.
+DOCTOR: [REDACTED]  Any uh episodes of really low sugars?
+PATIENT: Yeah, yeah.
+DOCTOR: Where you've got to take food or something like that?
+PATIENT: Yes where I've had to take sugar pills.
+DOCTOR: When did you have, how many times has that happened?
+PATIENT: Uh maybe about eight or nine times.
+DOCTOR: Eight or nine times?
+PATIENT: Yeah.
+DOCTOR: In the morning?
+PATIENT: Uh yes.  I feel uh, I even have to take like the sugar tablets.
+DOCTOR: When does it happen in the morning when you check your sugar you have to help with this.
+PATIENT: Yes in the morning or afternoon.
+DOCTOR: Low uh how low?
+PATIENT: Uh anywhere from 45 to 65.
+DOCTOR: And are you; is this like first thing in the morning or typically when?
+PATIENT: Typically in the morning.
+DOCTOR: And do you skip dinner [REDACTED].
+PATIENT: Yeah I have very poor eating habits.  I eat at all different times.
+DOCTOR: Okay that's gonna cause problems with the sugars being low okay.  You got to be careful about that okay.  If you're gonna skip dinner at night you should not take your metformin dose.
+PATIENT: Okay.
+DOCTOR: Alright cause if your sugars drop too low you could go into a diabetic coma.
+PATIENT: Yeah I know that.  I'm very, you know concerned about that with [REDACTED].
+DOCTOR: Yeah you got to eat a regimented meal so breakfast, lunch and dinner.  You should eat like structured meals and don't skip meals to be in the safest.  Don't skip meals and eat your three meals a day.
+PATIENT: Alright.
+DOCTOR: Okay and if you're gonna, if you are gonna skip a meal then you should skip your metformin.
+PATIENT: And another thing I noticed to worse uh is that my sex drive is like totally diminished.
+DOCTOR: Uh-huh.
+PATIENT: I don't know if that has to do with some of the meds I've been taking.
+DOCTOR: It can uh sometimes the metoprolol can cause uh that but it could be to a wider.  You know diabetes and high blood pressure are uncontrolled for a long period of time it can cause that as well.
+PATIENT: Do you see any places doctor where we could lower dosage or eliminate a med?
+DOCTOR: Um.
+PATIENT: Oh one thing they didn't renew on me which helped, not Flomax but like an equivalent to it, starts with a T and that really helped with me, uh with my bladder.
+DOCTOR: Yeah the terazosin?
+PATIENT: Yeah I don't know why they didn't renew it for me.
+DOCTOR: I'll renew if for you.  Do you want it mailed to you or do you want to pick it up today?
+PATIENT: They can mail it to me.  I think I've got a couple left.
+DOCTOR: And the metoprolol, how much were you taking of the metoprolol?
+PATIENT: Uh I think um one and a half a day.
+DOCTOR: And you take an aspirin every day?
+PATIENT: Yeah I just started that last month.  Now what's that fama?
+DOCTOR: Which one?
+PATIENT: It starts with a [REDACTED] yeah what is that?
+DOCTOR: That ones for the cholesterol.  But you're not.
+PATIENT: I don't take it anymore.
+DOCTOR: Right we had stopped taking that.  Your cholesterol looks fine you know just part of the blood work you got when you were here, uh this recent blood work.
+PATIENT: Uh-huh.
+DOCTOR: And your cholesterol is fine.  In fact it's very low so.
+PATIENT: And uh how does it look for my sugar?
+DOCTOR: Uh how does it look oh for your sugar?
+PATIENT: Right.
+DOCTOR: Like I said your sugar looks okay.  Your sugar is in the 140s in the morning isn't bad.  Actually it's fairly good.  You have a couple that are a little higher but that's not too bad and since you're telling me you've had eight or nine episodes where your sugars have been in the 40s or 50s, I would not change your metformin probably um.  You're taking metformin 1000 once in the morning and once at night.  You know if you're having a lot of sugars that are low in the morning, I would tell you you could cut back on your evening metformin dose.  So if you don't eat dinner at all and lunch is the last meal of your day or you kind of, you don't eat dinner at all.
+PATIENT: Yeah but sometimes I would get up in the middle of the night and eat something.
+DOCTOR: Yeah.
+PATIENT: You know.
+DOCTOR: I mean I'd just be more cautious and more worried about the low sugars if you're having it eight or nine times.  So I would just tell you to cut down like 500 in the evening so take 1000 in the morning and then 500 at night.
+PATIENT: Um how low uh should the sugar go before I should seek medical care?
+DOCTOR: Well if you, if your sugar is like in the 40s and 50s.  Do you get shaky, nervous when you get the sugars low, sweaty?  If you get those symptoms just immediately you should eat something.
+PATIENT: Yeah I bought those sucrose pills or whatever they are.
+DOCTOR: Yeah.
+PATIENT: Um.
+DOCTOR: I mean if it's happening repeatedly I would come in happening, you could either come into the ER or you could come in and make an Acute Care appointment over there at the Med Clinic and in Acute Care if you can't get an appointment with me in that short of time and just have your metformin adjusted and I would stop taking it until you see us that's all.
+PATIENT: Okay you know what I'm gonna be more regimented as far as when I take my meds and eat my food.
+DOCTOR: Yeah.
+PATIENT: Because uh.
+DOCTOR: I think that's a good idea.
+PATIENT: Even with my meds sometimes I fall asleep and I forget to take them at night and.
+DOCTOR: Yeah.
+PATIENT: And I miss uh.
+DOCTOR: You miss medicines.
+PATIENT: But is there anything else there you think could be uh eliminated or the dose cut down?
+DOCTOR: Uh I'm going to give you more of the Levitra.  Do you want the Levitra for your?
+PATIENT: Yeah that helps.
+DOCTOR: And I'll give you that.  I'm gonna; I don't see your blood pressure today.  Did you take your blood pressure medicine today?
+PATIENT: No.
+DOCTOR: Okay your blood pressure is not where we'd like it to be you know.  I don't want to change it if you're taking your metoprolol and your lisinopril.  I think just cause you didn't take it today may reflect it.  It looks like your blood pressures at home actually aren't too bad. I mean you're still, sometimes you're at the goal and some of the pressures you have high.  It's hard to say whether.  Do you take most of your blood pressures, the majority would you say is before you take your blood pressure medicine or after?
+PATIENT: Um well I take mostly all the blood pressure medicines at night and then I take my blood pressure reading in the morning.  I was taking all the blood pressure medicines at night because I had heard a lot of those cause they make you a little groggy.
+DOCTOR: And you take metoprolol; you take one and a half?
+PATIENT: Right.
+DOCTOR: Twice a day?
+PATIENT: Twice a day.
+DOCTOR: Okay.  Because you're taking the lisinopril uh I think those look pretty good.  I don't think we need to go up.  I don't think we can go down on it based on what I see here.  Um we may not necessarily need to go up on it either.
+PATIENT: Yeah maybe the drinking's got something to do with it too.
+DOCTOR: The drinking yeah, I would cut down the drinking for sure uh.  The CPAP machine.  I know it's hard to get to sleep with that and it's hard to be fully kind of compliant and religious with that but I think part of your grogginess during the day uh is gonna be related to your sleep apnea okay.  One of the, one of the ways we screen for sleep apnea is we ask people are you fatigued during the day, do you usually have to take frequent naps during the day?  Are you tired or lethargic during the day?  That's an indication that they have sleep, sometimes have sleep apnea.
+PATIENT: Well I want to say I'll wear the mask you know.
+DOCTOR: Well good because what's happening at night, at night what happens is your airway gets blocked by the way your airway.
+PATIENT: Yeah it used to like wake me up you know.
+DOCTOR: Right exactly.
+PATIENT: But that doesn't happen anymore.
+DOCTOR: Right it may not continue to happen but it doesn't mean that uh that the apnea is resolved.  So you're not getting good airway say so basically your sleep is actually not, you're not getting very good quality sleep.
+PATIENT: And I have to take that.
+DOCTOR: As a result and then yeah.  So I would use the CPAP and that may help as you use it every night.
+PATIENT: Yeah cause I got to admit I hardly ever use it anymore.  I felt like I was in a fighter jet.
+DOCTOR: I think that would help.  I think cutting down on alcohol would help and I think talking with your psychiatrist, maybe seeking some addiction counseling to help you maybe.  Cause you've done it before so it's just about getting you back to where you were and abstinent cause alcohol.
+PATIENT: Well I could go back to AA.
+DOCTOR: Yeah.
+PATIENT: Have you ever been to an AA meeting?
+DOCTOR: I have not.
+PATIENT: You know it's so depressing cause as you know they just go around the room and say I'm an alcoholic and then you just say whatever's on your mind and everybody's telling all these depressing stories I walk out of there and you know.
+DOCTOR: Yeah.
+PATIENT: And I know, that's why I stopped going to AA because you know I'll hear somebody yeah you know I was a drunk for 12 years and I haven't had a drink for three years and things are going good.  Who wants to hear stuff like that and one other person well this is the third time I tried to commit suicide.  This person says her boyfriend left and that's why she started drink.  It's all these depressing stories.
+DOCTOR: Yeah.
+PATIENT: And especially the women, they start crying and then they start rambling on.
+DOCTOR: [REDACTED] for you.  Well you could do maybe like more personal one on one counseling I guess, better, more suited for you.  Uh maybe AA doesn't.
+PATIENT: Is that available over here?
+DOCTOR: They do have addiction, yeah they have Addiction Psych here and they have, I believe they have addiction counseling or they refer you there.  The psychiatrist may know more than me about it.
+PATIENT: Should I take that up with her?
+DOCTOR: Yeah I mean they do.  We have Addiction consult here; do you want me to place it for you?
+PATIENT: Uh.
+DOCTOR: Would you like to have it, I mean would you be interested in?
+PATIENT: I'm going to uh.
+DOCTOR: Or would you like to talk to your psychiatrist first?
+PATIENT: As long as I'm gonna see her next week I could run it by her but.
+DOCTOR: Sure.
+PATIENT: I think it would be a good idea.
+DOCTOR: Okay.  I'll, what I'll do is I'll put it in.
+PATIENT: Okay.
+DOCTOR: And then you talk to the psychiatrist about it next week and if she feels like uh there's another route then you can, then she can cancel this too.  Okay.
+PATIENT: I'm all confused.  Like the psychiatrist I know that unlike going into therapy this and that they can prescribe medicine but are they also somebody that you should be able to talk to about what's going on?
+DOCTOR: Yeah.  What's going on with in terms of…
+PATIENT: We really don't have uh many long conversations.
+DOCTOR: Yeah.
+PATIENT: About you know what's going on.
+DOCTOR: Sure.
+PATIENT: I mention it but.
+DOCTOR: Yeah.
+PATIENT: I feel like I'm you know taking up too much time sometimes.
+DOCTOR: Okay.  What's your phone number?
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER.
+DOCTOR: What about a psychologist, what if you see Psychology here?  Would you be interested in seeing Psychology maybe?
+PATIENT: Well what do you think about that?
+DOCTOR: I think that'd be helpful and in all honesty.  Cause it's something more where you can talk more about stuff that's going on.  Maybe we could refer you there.
+PATIENT: Okay.
+DOCTOR: I think more the help the better and as you, you know you might go to the doctor and go this is not for me and you could just you don't have to follow up or just say you know I'm not going to follow up in Psychology [REDACTED].
+PATIENT: Uh.
+DOCTOR: But just uh you can go once and see how it is and if it.
+PATIENT: All these places are at this hospital right?  It's kind of like an hour drive for me but I think maybe I should try Psychology.
+DOCTOR: Okay.  I'll put an order in for Psychology um.  Let me take a listen to you and examine you real quick now.  Are you getting up?  Are you being active?  Are you going out walking or?
+PATIENT: Well I walk the dog quite a bit.
+DOCTOR: Okay.  It's important to stay active too cause that may help with some of that fatigue lethargy, just to do some light activity every day.
+PATIENT: Yeah.  If you've noticed I think I've gained about 10 pounds since I was here.
+DOCTOR: Yeah.  That's definitely not going to help with uh.  Take a deep breath.  With you feeling tired you know.  If you gain weight you getting a little tired.  You know there may be more than one reason why you're tired sometimes you know so we've got to attack it as more than one way.
+PATIENT: You know.
+DOCTOR: Stop your drinking, using the CPAP.
+PATIENT: Yeah I was thinking of another thing too I don't.
+DOCTOR: Eating healthier, doing light exercise every day, that type of thing.
+PATIENT: I don't drink you know coffee all day in fact I don't drink coffee at all.  But I would in the afternoon sometimes take No Doze which is 200 mg of caffeine.
+DOCTOR: Right, right.
+PATIENT: Cause that's like having a cup of coffee right?
+DOCTOR: It is yeah similar. Um.
+PATIENT: Is that a bad idea?
+DOCTOR: No it's not a bad idea I mean the Adderall, it looks like there's a lot of stimulants, caffeine, Adderall, looks like kind of the usual amount of stuff to keep yourself awake but it's not necessarily a bad thing no um.  But yeah.
+PATIENT: And uh but now I'm taking less of the lorazepam than I used to because I used to take it when I would have a panic attack or this or that.
+DOCTOR: Yeah.
+PATIENT: Which when I usually reach for a drink but because I'm drinking sporadically.  You know I'll go like four days without even drinking.
+DOCTOR: Right.
+PATIENT: So it's not like it was before uh but lorazepam will make me feel lethargic.
+DOCTOR: Lorazepam.
+PATIENT: Am I right?
+DOCTOR: Yeah, yeah and it's sedating and will make you.  It works on the same receptors that alcohol works on in the body so it's almost like alcohol.  In fact we'll give that medicine for people who are having alcohol withdrawals.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: So maybe.
+DOCTOR: [REDACTED] reaction.
+PATIENT: Is that something you would just take when you feel panicky?
+DOCTOR: Yeah.
+PATIENT: Or just something you take every morning or?
+DOCTOR: No I would take it like as needed.
+PATIENT: Okay.
+DOCTOR: When you feel panicky.  Don't take it every day cause that's not going to help with, A. - you don't need to take it every day for you because you just whenever you have a panic attack you can just take it as needed.
+PATIENT: Yeah.
+DOCTOR: But and it wouldn't help with you're you know you already have the fatigue and sleepiness and stuff you're having, it'd make it worse if you took it every day.
+PATIENT: Well you gave me some good advice here today doctor uh.
+DOCTOR: Good.
+PATIENT: Uh everything you say I knew I just forgot.
+DOCTOR: Yeah, yeah.  You know what you need to do.  You know your body well.
+PATIENT: Yeah I mean I got to eat at regular times.  I got to pick up my activities uh yeah I just got away from what are things I should be doing to make my body more efficient.
+DOCTOR: Exactly.  Kind of like a whole body, the mind and body and soul approach.  Right you got to, it's all very interconnected so you know.  You know if you feel depressed your body's gonna feel tired as well so positive attitude goes along with.
+PATIENT: Right.
+DOCTOR: A lot of the other changes that we talked about.  I think you'll feel a lot better.  Let me go talk to my boss real quick okay and I'll be right back alright?
+PATIENT: Okay and then are you gonna renew my meds?
+DOCTOR: Exactly yeah.  I already put some in them I just have to fine tune them.
+(DOCTOR OUT:  69:24  DOCTOR IN:  92:34)
+DOCTOR: Sorry for the delay.  Uh okay so we're going to do everything as planned.  I'm gonna have you come back in, I'm gonna have you back in two weeks to have your blood pressure just checked here.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: So I could see the nurse?
+DOCTOR: Give me a second I have one more thing to check.  Now if you are drinking alcohol, obviously we talked about stopping but if you're drinking alcohol remember do not take uh, you shouldn't be taking your Ativan.  Because like I told you how they work together.
+PATIENT: Oh yeah, yeah.
+DOCTOR: So you may, it may drop you like into a coma or it may be too sedating okay.  So don't mix alcohol and that together, it can be very dangerous.  Um.
+PATIENT: Is that the same as trazodone?
+DOCTOR: Yeah trazodone again yeah don't I would stay away from drinking.  If you're drinking, if you've drunk I would stay away from the trazodone.
+PATIENT: Well I'm not trying to really abstain.
+DOCTOR: Yeah I mean ideally you want to totally abstain from the alcohol.
+PATIENT: Well, I did it for 2 1/2 years.
+DOCTOR: Yeah I mean you've already shown that you've done it so.  I'm reordering all your things here.
+PATIENT: What's that one with an L, I don't take that anymore right?
+DOCTOR: Loratadine?
+PATIENT: Yeah.
+DOCTOR: That's just for like allergies.
+PATIENT: Oh yeah I was taking like something for Benadryl.  See my arms how they're, they were giving something to take at night.  It was equivalent to uh like a Benadryl or something.
+DOCTOR: Uh-huh.
+PATIENT: I forget the name of it but uh.
+DOCTOR: Yeah what's up with your arms, are you scratching or?
+PATIENT: Yeah I've got some kind of a, I went to a dermatologist.
+DOCTOR: Uh-huh.
+PATIENT: And he says there's nothing wrong just you have the type of skin he says like in the back he could take this pen.
+DOCTOR: Yeah.
+PATIENT: And write a letter it'd stay there for a week.
+DOCTOR: Yeah, yeah.
+PATIENT: And he says but I do need something uh to take at night for allergies.
+DOCTOR: Okay, do you want me to give you loratadine?
+PATIENT: Uh yeah.
+DOCTOR: If that helps.  And we talked about, we talked about the metformin.  You're gonna drop the dose or not take it if you don't eat your meals.  Ideally you want to structure your meals and we talked about that.  Um I'm gonna give you some of that vardenafil.  You’re not on simvastatin anymore, so I'll discontinue that from your list.  You're gonna take the metoprolol and lisinopril as is.  You're not going to mix, don't mix trazodone or uh Ativan with alcohol.  Ideally you're gonna try to stop the alcohol altogether.
+PATIENT: Right.
+DOCTOR: We're gonna give you a referral for Psychology as well as addiction as well.  Okay.
+PATIENT: And you did order the Levitra for me doctor?
+DOCTOR: Yes.  I reordered that.  I've renewed the loratadine.  I renewed your metformin.  I renewed your aspirin.  I renewed the lisinopril.  Yeah.
+PATIENT: Uh can you walk - through the VA here, can you order me a multivitamin?
+DOCTOR: Uh yeah. I renewed the terazosin as well okay.
+PATIENT: Okay.  And then you put uh refills memos.
+DOCTOR: Yeah there's like six refills.  On the ones I have 90 pills I gave uh yeah, the ones with 90 pills I gave three refills and uh the one with like 30 pills.
+PATIENT: Yeah.
+DOCTOR: The one month supply I gave six refills on it okay.
+PATIENT: Uh one quick thing on my blood tests, did you see anything that was out of line that we didn't discuss?  Like my liver function?
+DOCTOR: No liver functions were completely normal.  Cholesterol was great.  Uh you uh blood counts were okay.  Your electrolytes sodium, potassium were all okay.  Um your kidney function is okay, perfect, it was good.  Um your blood counts, your platelet counts, your white count and your blood tests were all okay.
+PATIENT: Okay what is my cholesterol?
+DOCTOR: Your cholesterol, your actual cholesterol well actually is low. The LDL which is the bad cholesterol which we want low is 31, very low.  I mean under, we consider really good control to be under 100.
+PATIENT: And mine's 31?
+DOCTOR: Your’s 31.
+PATIENT: Oh, and I eat terrible.
+DOCTOR: Yeah so I think it may be, there may be something with your lipid profile the way your genetic or the way your body handles the cholesterol that keeps your bad cholesterol really low which is a good thing.  Now the HDL, which is you want high, that's the good cholesterol, we like that number to be above 40 uh yours is 62 so that's really good.
+PATIENT: Okay now I [REDACTED] that.
+DOCTOR: So a lot of good genes going on there uh.  How is, anybody in your family have like heart problems or heart attack or high cholesterol?
+PATIENT: Uh my father died with a heart attack but he was um he had a cancer and his heart gave out.
+DOCTOR: It wasn't like a young age, like 30 or something?
+PATIENT: No and knock on wood I don't get any pains here.
+DOCTOR: Yeah so I mean yeah.  That's why I think you don't really need to be on the cholesterol one since your labs look pretty good.
+PATIENT: Are you gonna take me off that?
+DOCTOR: Yeah.  The cholesterol medicine you haven't been taking right?
+PATIENT: Is that the simvastatin?
+DOCTOR: Simvastatin yeah.
+PATIENT: No I haven't been taking it.
+DOCTOR: Yeah you don't need to take it.  We'll probably check your cholesterol you know maybe in a year or so and we'll see how it is and if at that time your cholesterol is high then you know we may you know put you back on it but given your numbers I don't think you need to be on it.
+PATIENT: Hey do you know how much I weighed the last time I was here?
+DOCTOR: You were 207 today right uh; you were 197 on the 21st.
+PATIENT: 197, now I'm 207.
+DOCTOR: 207 yeah.
+PATIENT: I can feel those ten pounds too so.
+DOCTOR: Yeah and again losing a little bit of weight um, getting up and doing some light exercise every day, eating healthier will make you feel better too in terms of the lethargy.
+PATIENT: Right.  Okay I know what to do now I just got to implement what you've told me.
+DOCTOR: I've got all your meds and they should mail it to you.  I've put the referrals in.
+PATIENT: Now should I get that.
+DOCTOR: [REDACTED].  Okay.
+PATIENT: Alright thanks again doctor.
+DOCTOR: Give this to them up in the front.
+PATIENT: Alright.
+DOCTOR: [REDACTED] if you're doing well.
+PATIENT: So I just come back in two weeks to check my blood pressure?
+DOCTOR: Exactly.  If your blood pressure is still out of control we'll want to go back to [REDACTED].
+PATIENT: [REDACTED] again, right?
+DOCTOR: Yeah I just want to make sure that you're on the right track.  I mean cause your blood pressure looks like its pretty good at home.
+PATIENT: Okay.  Thanks again.
+DOCTOR: Alright take care.
+PATIENT: 101:5
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255176
+TRANSACTION # 578-10-2-316-0103

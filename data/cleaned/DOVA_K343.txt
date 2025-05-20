@@ -1,0 +1,401 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.
+DOCTOR: How are you sir?
+PATIENT: Fine.
+DOCTOR: Nice to see you again.
+PATIENT: You too.
+DOCTOR: It's been a while.  Come on back here.
+PATIENT: Okay.
+DOCTOR: How you doing today?
+PATIENT: Hmm the same.
+DOCTOR: Hanging in there?
+PATIENT: Yeah.
+DOCTOR: Trying to figure out [REDACTED] huh.
+PATIENT: Uh, yeah two of [REDACTED] now.
+DOCTOR: Oh it looks like the sun's coming out.
+PATIENT: Yeah.  It was raining when I first got here.
+DOCTOR: Oh yeah, it was raining when I left the house at 6 something this morning.  Yeah it was really coming down.  So we'll go over a few things, go ahead and take a seat.
+PATIENT: Okay.
+DOCTOR: Run through your medicines and what not.
+PATIENT: I need to have some of my medicine refilled I guess.
+DOCTOR: Sure, well not a problem.  We'll take good care by all means. Um let's see, no I don't know that I've seen you before.  This may be the first time I'm meeting you.
+PATIENT: I think so.
+DOCTOR: I'm going to take a look.  Oh no last year I saw you in August.
+PATIENT: Oh last year.
+DOCTOR: Yeah.
+PATIENT: So that could be that I don't remember everybody's face you know.
+DOCTOR: That's alright [REDACTED].  I thought I recognized you.  So today you're here for medication review, anything is new or any other complaints?
+PATIENT: Uh not really uh.
+DOCTOR: Okay.
+PATIENT: I'm going to get my knee replaced sometime.
+DOCTOR: Sure.
+PATIENT: But I don't know when.
+DOCTOR: Have you already seen the doctor about that?
+PATIENT: Well yeah but I can't get it done until um probably in late fall or maybe early spring.
+DOCTOR: And that's because?
+PATIENT: Because my wife is sick and all that.
+DOCTOR: Oh, oh okay.
+PATIENT: You know that's, but I need a bunch of the medicine refilled.  I don't know what some of this stuff is.  [REDACTED].
+DOCTOR: [REDACTED] by all means, sometimes if you don't know what it is that means you won't take it.
+PATIENT: Yeah.
+DOCTOR: So we better make sure you know uh exactly what's going on with your health.
+PATIENT: Well I know what some of them are.
+DOCTOR: How are you, okay let's go through them.
+PATIENT: Okay.
+DOCTOR: You tell the names they are, I have them in front of me as we go through them I'll tell you what they're for.
+PATIENT: Okay, yeah, this one has got 11 refills, this has got 3 refills.
+DOCTOR: Albuterol, allopurinol.  This one's for breathing.
+PATIENT: Right.
+DOCTOR: That one's for gout.
+PATIENT: Right.
+DOCTOR: Let me see if you have enough refills on that.  Three refills on the allopurinol so that's nine months.
+PATIENT: Yeah I know, I don't need that one.
+DOCTOR: Good.
+PATIENT: But the uh.
+DOCTOR: Allopurinol you're good.
+PATIENT: Yeah.  The other one is the.
+DOCTOR: Amlodipine.
+PATIENT: Yeah, what's that?
+DOCTOR: That one's for your blood pressure.
+PATIENT: Okay and there's no refills left on that.
+DOCTOR: Okay.  I will renew it.  Do you want me to send it to you in the mail?
+PATIENT: Well I think I have it at home.
+DOCTOR: Do you have enough for a week or so?
+PATIENT: Oh yeah, yeah I'm sure I do.
+DOCTOR: These are some we'll send in the mail then.
+PATIENT: Yes.
+DOCTOR: Will that work out okay for you?
+PATIENT: Yeah that's fine, that's fine.
+DOCTOR: Okay.
+PATIENT: And uh calcium that's going to expire too but I filled that.
+DOCTOR: Calcium, looks like you have one refill left.
+PATIENT: Right.
+DOCTOR: That's the calcium vitamin D yeah.
+PATIENT: Yeah.
+DOCTOR: Do you want me to give you some new refills?
+PATIENT: Yeah.
+DOCTOR: Let's do that.  I'll give you three more refills for that.
+PATIENT: Okay.  Coricidin I don't need, that's four.
+DOCTOR: Okay.
+PATIENT: And uh flunisolide or whatever that is, that's what I get.
+DOCTOR: Flunisolide, that's for the spray in the nose.
+PATIENT: Yeah.
+DOCTOR: I see you have fluticasone, you have two of them.  We probably don't need both.  One's a steroid; they're both steroid-like.  Do you use both of them?
+PATIENT: What uh, yes I do.
+DOCTOR: You use both.
+PATIENT: Yeah.
+DOCTOR: Okay.  So you need a refill on the fluticasone.  The flunisolide looks like you have five refills left.
+PATIENT: Yeah the other one I don't need that one.
+DOCTOR: So you just need this one.
+PATIENT: Right, okay.
+DOCTOR: That we can do.
+PATIENT: Okay and the flunisolide has three refills.  Okay what is this thing?
+DOCTOR: Oh let me see.
+PATIENT: Oh that's my injection thing.
+DOCTOR: Yep.
+PATIENT: It says no refills but I don’t know.
+DOCTOR: I'm not going to refill that.  That's the implant that they put in there, you know what I mean, for your, that's from the Urology Clinic.
+PATIENT: Right.
+DOCTOR: So that's not something that I would do.
+PATIENT: Okay that's fine.
+DOCTOR: Yeah.
+PATIENT: Uh because I don't have, they’ll let me know.  I have 84 days before I can jump.
+DOCTOR: Yeah.
+PATIENT: But the indomethacin that's gone.
+DOCTOR: That's for the gout.
+PATIENT: Right.
+DOCTOR: Uh do not until you finish the prednisone, so when did that get refilled?  Did you have a gout attack recently?
+PATIENT: No but that keeps it away.
+DOCTOR: Do you take that all the time?
+PATIENT: Yep.
+DOCTOR: Well you just need to be careful, that one can be dangerous to your kidneys.
+PATIENT: I know that what's they said.
+DOCTOR: Yeah.
+PATIENT: But I've been on it so long and I don't have any kidney problems.
+DOCTOR: Well I don't want to just blindly refill it.  Let me uh; let me look at it closely here.
+PATIENT: Cause I've been taking [REDACTED] too.
+DOCTOR: Yeah you're taking a lot of things for your gout and has been troublesome for you before?
+PATIENT: Oh it can.
+DOCTOR: Uh-huh.
+PATIENT: When I had the surgery on my knee they took me off that.  Three days later the underneath swelled up.
+DOCTOR: Oh yeah.
+PATIENT: And it hurt worse than surgery did.  But the indomethacin I've actually for, I bet you 15 years or more.
+DOCTOR: Yeah.  Well your kidneys are not entirely normal last time they were checked.
+PATIENT: Well he put me on another one that I don't know, I don't two capfuls a day, I only take one because they put me on some other things that supposedly easier.  I don't know what the name of it is.
+DOCTOR: Allopurinol?
+PATIENT: What is that?
+DOCTOR: And colchicine.  You take a lot of medicines for gout.
+PATIENT: Yeah.
+DOCTOR: I don't know, I don't know that I feel very comfortable giving you the indomethacin.  Let me talk it over with my attending.
+PATIENT: Okay.
+DOCTOR: Your renal function here is not great.  Normally for you it probably would be about 1 and that's the creatinine I look at.  The last time it was checked was about a year ago and it was 1.7, so what I want to do is probably check it again today before I refill that.
+PATIENT: Okay, that's fine.
+DOCTOR: To make sure your kidneys are doing okay cause we don't want to put you into kidney failure.
+PATIENT: No.
+DOCTOR: I think we'll hold off on refilling that one for now, until we get your blood work back okay.
+PATIENT: Okay.  I was going to ask you, do I have to go downstairs to get the blood work?
+DOCTOR: Yeah you're going to have to.
+PATIENT: Okay.
+DOCTOR: Looks like you had your PSA drawn not long ago.
+PATIENT: Yeah the other day.  I think Monday or so I think it was, it whatever.
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: [REDACTED] omeprazole.
+DOCTOR: Omeprazole that's for your stomach.
+PATIENT: Oh there's no refills up on that.
+DOCTOR: Do you have, did they give it for you for GERD?  Let's take a look.
+PATIENT: I don't know what they gave it to me for.
+DOCTOR: Yeah I remember this.  We talked about this before.  I'm looking at my note from August and in this note I said encouraged to titrate off indomethacin due to chronic renal insufficiency but you were very hesitant.
+PATIENT: I was and I think I still am.
+DOCTOR: Yeah.  Would like to see improvement 20% [REDACTED].  Yeah that's right we gave you the allopurinol at a renal dose.  Yeah and we started colchicine.  I remembered all this now, it's all coming back.  It's all coming back.  It's been a while.  Hmm and hold off on knee replacement due to medical illness of wife.  Yeah I remember all that.  I'm just reading through my previous notes.  Um what I think would be reasonable is to see what happens if we stop the indomethacin because we now started a new medicine the colchicine.  Have you been taking that pretty regularly?
+PATIENT: Yeah I take one tablet a day or whatever it is.
+DOCTOR: Yeah.  It's one tablet every day.
+PATIENT: Yeah one tablet in the morning every day.
+DOCTOR: Let me talk with my boss and we'll get repeat labs too and uh it may be worthwhile.  The reason I said is we don't want to hurt your kidneys.
+PATIENT: Well I know I understand that.
+DOCTOR: Yeah that's the only reason.  We talked about that last time.
+PATIENT: Right.
+DOCTOR: Uh the omeprazole I can refill, that's not a problem and I'll send you that in the mail.  Let me advise him about the colchicine.
+PATIENT: Okay.
+DOCTOR: I'm sorry the indomethacin.
+PATIENT: Okay.
+DOCTOR: Okay other question, other [REDACTED] on the medicine?
+PATIENT: No I think that's everything.  Make sure we’re on the same page.
+DOCTOR: How about the metoprolol do you still take that?
+PATIENT: Uh, I take a half tablet by mouth yeah.  I do take that.
+DOCTOR: You've got two refills so I'm going to give you some more.
+PATIENT: Okay.
+DOCTOR: And the other one that we need to talk about is your, is the two medicines that are expired.  One is the simvastatin, that's your cholesterol medicine.
+PATIENT: Yeah.
+DOCTOR: You're only taking a half a tablet at bedtime?
+PATIENT: Yeah [REDACTED].
+DOCTOR: Do you still have it?
+PATIENT: Yeah they still had some.
+DOCTOR: You still have some but it looked like it expired already.  I'm going to refill then okay.
+PATIENT: Okay.
+DOCTOR: And then they'll send you some in the mail.  [REDACTED] seven days [REDACTED].
+PATIENT: That's right you went to Michigan State didn't you?
+DOCTOR: I did, I did.  I think we talked about this last time.
+PATIENT: Yeah, I think we did.
+DOCTOR: You went to uh you had a daughter or you had somebody that went to Michigan right?
+PATIENT: Oh my uh my wife's husband went to Michigan State and then one of the daughters went there.
+DOCTOR: Okay.
+PATIENT: But the other daughter went to the University of Michigan.
+DOCTOR: Gotcha, so there was a little bit of a battling.
+PATIENT: Just somewhat.
+DOCTOR: Just somewhat.
+PATIENT: (Laughter)
+DOCTOR: And you're from Michigan originally right?
+PATIENT: Right, right.
+DOCTOR: We'll give you [REDACTED] okay, I'm going to reorder that.  I reordered that medicine yeah so, we'll see, it should be an interesting year this year for Michigan State.
+PATIENT: Uh-huh.
+DOCTOR: You think the football season's going to go okay?
+PATIENT: I would think so.  Well they've changed one of the coaches and all that so.  You know how that goes; if you don't win they get rid of you.
+DOCTOR: [REDACTED].  Okay I'm going to send you a refill on the statin medicine.
+PATIENT: But really check on the indomethacin because.
+DOCTOR: I will yeah.
+PATIENT: Uh I've been taking that so long and I haven't had any problems.
+DOCTOR: Yeah.  I know it's a good medicine for your knee and it'll work well both with your knee pain but we definitely have to be careful with that kidney.
+PATIENT: Yeah I know, I know.
+DOCTOR: You don't want.
+PATIENT: I think they check my kidney stuff all the time.
+DOCTOR: The last time it was checked was uh, I just looked at them, see it was May, May of last year.
+PATIENT: Okay.
+DOCTOR: So it's been a year.
+PATIENT: Yeah.
+DOCTOR: Unless are you following in a different hospital for it?
+PATIENT: No, no.
+DOCTOR: Only here right?
+PATIENT: I don't follow with anyone outside.
+DOCTOR: Yeah the last time it's been checked was May so for sure we need to get some more blood work.
+PATIENT: Okay, yeah [REDACTED].
+DOCTOR: We'll need to check your cholesterol and make sure that's okay.  You don't take any diabetic, you don't have diabetes right.
+PATIENT: No, no.
+DOCTOR: So we're not going to check that.  How about your last colonoscopy?  When did you have a colonoscopy last do you remember?  That's where they go and they use a camera and they look up from behind to see if there's any.
+PATIENT: Oh God I don't remember now but it's been quite a while.
+DOCTOR: I'll look.  You've gotten all your care here at Hines.
+PATIENT: Yeah.
+DOCTOR: Okay, well I'll look into it when I go talk to the boss.
+PATIENT: Okay.
+DOCTOR: Just make sure that everything else is squared away.  Blood pressure today was a little on the higher side.
+PATIENT: Right.
+DOCTOR: A little on the higher side.
+PATIENT: Well I walked a long ways too.
+DOCTOR: Right.  Why don't we have you go sit up there and I'll let you sit down about five minutes, calm down then I'll recheck your blood pressure and we'll see how it goes.
+PATIENT: Okay.
+DOCTOR: Now let me just look at the rest of the things here.  Heart rate's good.  Let's see, how about the prostate?
+PATIENT: Uh as far as I know everything is fine.
+DOCTOR: When was the last time you saw those guys?
+PATIENT: Uh I seen the doctor I don't know, I think it was a week or so ago.  I'd have to check my calendar.
+DOCTOR: You saw the prostate guy?
+PATIENT: Yeah.  He interviewed me again and they took my, they gave me my shot and then they interviewed me after that.
+DOCTOR: The knee guy, not the knee guys right?
+PATIENT: No, no.
+DOCTOR: You came to the clinic before oh I see, here's something.  You were taking the valsartan before right?
+PATIENT: Yeah.
+DOCTOR: And that ran out so you stopped it.  That's probably why and you came in to see DOCTOR because of a runny nose too right?
+PATIENT: Yeah right and that stuff's been really good.  I think basically the runny nose is caused by some of these; I could be allergic to some of the new plants that come up.
+DOCTOR: Gotcha.
+PATIENT: You know.
+DOCTOR: How's your skin been doing?
+PATIENT: Fine.
+DOCTOR: Is it dry still or no?
+PATIENT: Well it's a little dry.
+DOCTOR: Okay.  And you're taking the valsartan at home is that right or is that one been stopped?
+PATIENT: Which one is that?
+DOCTOR: That expired.  That's the blood pressure medicine.  I don't think it's on your list.
+PATIENT: No it's not.  I probably don't take that anymore; they probably put me on something else.
+DOCTOR: [REDACTED] squared away here.  How about your thyroid medicine?
+PATIENT: It's fine.  Uh the last time I seen you everything was fine.
+DOCTOR: Your thyroid level was really high though.
+PATIENT: Well, what happened I think when I had my thyroid removed in 77, they only took part of it and the other part continued to work and then it started to whatever elevate or whatever, whatever it does and that's when they changed my medicine and they been adjusting that but I, I don't know I think I see him in December and I don't think he changed anything then.
+DOCTOR: Hmm.  This says it's markedly elevated but informed him it was no different than last year.  I'm trying to figure out if they decided that you're supposed to be taking thyroid medicine or [REDACTED].  Okay.  So you should be taking the Synthroid, your thyroid medicine.
+PATIENT: Yeah.  I think I do.  Is that on my list?
+DOCTOR: It's not on your list here.  Oh it is on your list, I'm sorry.  [REDACTED].  Yeah you have two more refills.  You have enough for six more months.
+PATIENT: Yeah.
+DOCTOR: Okay that's good.  Alright.  I'm sorry I got a little nervous there.
+PATIENT: That's alright.  What would you guys do without those computers?
+DOCTOR: We'd have to write everything down.  Just like we used to do, yeah just like we used to do.  Could you take that sweatshirt off so I can check your blood pressure?
+PATIENT: Oh sure.  Here let me take my lid off.
+DOCTOR: Alright.
+PATIENT: There you go.  You want both arms?
+DOCTOR: No one arm is okay.  Let's see if there's anything we need to do about your blood pressure.  Looks like they got you [REDACTED].
+PATIENT: Yeah that was the uh the thing I came in and gave blood on me.
+DOCTOR: Monday?
+PATIENT: Monday and that's unusual cause normally I don't bruise but whatever day she dug around in there.
+DOCTOR: Gotcha.
+PATIENT: And then they got me.
+DOCTOR: The vampire got you.
+PATIENT: Yep.
+DOCTOR: Just relax your arm for me, let me hold it up, [REDACTED].  It'll squeeze on the arm.  Perfect.  I got 118/65.
+PATIENT: See cause I walked the whole way so.
+DOCTOR: Perfect.
+PATIENT: They make me walk a long ways and wonder why you're blood pressure goes up.
+DOCTOR: Hey it's normal.  Of course they go up.
+PATIENT: Yeah.
+DOCTOR: Let me just document that.
+PATIENT: Okay.
+DOCTOR: Alright.  Before you slide that all the way down, I'm okay, you're okay.
+PATIENT: Okay.
+DOCTOR: Just take some deep breaths.  Good again, again, again, again.  Now let me just listen here.  I'll have you lay back for me.
+PATIENT: Oh.
+DOCTOR: Be on your belly a little bit.
+PATIENT: Okay.  I can do that.
+DOCTOR: That's something to support your leg.
+PATIENT: Okay thanks.
+DOCTOR: Any belly pain?
+PATIENT: Nope.
+DOCTOR: Nausea, vomiting?
+PATIENT: Nope.
+DOCTOR: Diarrhea, constipation?
+PATIENT: Nope.
+DOCTOR: You can sit up.  You been urinating okay?
+PATIENT: Yes.  Ain't no problems.
+DOCTOR: No trouble with starting and stopping?
+PATIENT: Nope.
+DOCTOR: You got some dry skin here?
+PATIENT: Yeah I know.
+DOCTOR: Is that normal for you?
+PATIENT: Yeah it's kind of normal.
+DOCTOR: It could be related to your thyroid but they just increased the medicine not long ago so we'll check a bunch of labs today actually.
+PATIENT: Okay.
+DOCTOR: It looks like the last PSA was just fine and that was just Monday.
+PATIENT: Yeah.
+DOCTOR: Uh and your thyroid level was checked in March and that actually was normal.  So it's pretty fluctuant.
+PATIENT: Yeah.
+DOCTOR: Wow, hmm, it was 127 in December and then it was 0.02 in March, really interesting.  Okay let me go talk to the boss.
+PATIENT: Okay.
+DOCTOR: I'll be back in to see you in a second.
+PATIENT: Okay that's fine.
+DOCTOR: I've got most of your medications refilled, everything you need today.
+PATIENT: Okay.
+DOCTOR: Um we're going to have to get labs done and I'll look and make sure there's nothing else we're missing.
+PATIENT: Okay.
+DOCTOR: Thanks.
+PATIENT: Okay.
+DOCTOR: [REDACTED]
+PATIENT: Okay.
+(DOCTOR OUT:  69:26  DOCTOR IN:  80:20)
+DOCTOR: Okay, so here's what we came up with as far as the indomethacin.
+PATIENT: Okay.
+DOCTOR: You're taking it twice a day now?
+PATIENT: No, no just once.
+DOCTOR: Just once a day.
+PATIENT: Once a day cause I take that other one.
+DOCTOR: Yeah, the other one, the allopurinol and the colchicine.
+PATIENT: Yeah.
+DOCTOR: One uh, one thing that I think I need to continue stressing with you is if you keep going on this medicine particularly it will continue to harm your kidneys.
+PATIENT: Okay.
+DOCTOR: And eventually just because of that medicine you may need to go on dialysis.
+PATIENT: Okay.
+DOCTOR: That's something that you need to think about down the road.
+PATIENT: Okay.
+DOCTOR: One thing I would consider and encourage to you is to prove to yourself that you may not need it now because we've given you these other medicines.
+PATIENT: I will try to take.
+DOCTOR: Could you take it every other day?
+PATIENT: I'll try to take it every other day.
+DOCTOR: And see what happens.
+PATIENT: And see what happens.
+DOCTOR: I'd like to give it a shot.
+PATIENT: Okay.
+DOCTOR: If you can take it every other day and you're doing good and you do it for a month, maybe try taking every third day.
+PATIENT: Yeah.
+DOCTOR: Cause that medicine, I'm okay with you taking it but every day or more frequently it's going to continue to hurt your kidneys.
+PATIENT: Okay.  Alright.
+DOCTOR: Eventually I'd like to get you off of it completely.
+PATIENT: Well I can, I'll just, when I do my pill thing.
+DOCTOR: Uh-huh.
+PATIENT: I'll just put, just put it every other day and then if that works then I'll go every other two days you know.
+DOCTOR: [REDACTED].
+PATIENT: And then if it uh, I don't have any problems then I'll go every four days.
+DOCTOR: [REDACTED] and eventually what the medicine will be good for is you don't take it unless you have a flare.
+PATIENT: Okay.
+DOCTOR: Then if you have a flare-up then you take it every day for a week or two.
+PATIENT: Yeah.
+DOCTOR: That's what I'd like you to do.
+PATIENT: Okay.  I can do that.
+DOCTOR: So we'll give it to you by mail again every other day so you'll get uh four refills but you have to promise that you're gonna do that.
+PATIENT: I will.
+DOCTOR: Uh the rest of them we refilled I think, is that right?
+PATIENT: As far as I know.
+DOCTOR: Labs today that are going to be important for you.
+PATIENT: Uh-huh.
+DOCTOR: It looks like your CBC which is the blood that you have.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] blood in there.  We'll check your urine, I'm sorry we'll check your kidneys.  We don't need to check your urine.
+PATIENT: Uh-huh.
+DOCTOR: I also want to check your uric acid level; that sort of tells us how the gout's doing.  Last time it was really high.  We'll check and see how that's going and I'm going to also check your thyroid okay.
+PATIENT: Okay.  Did you need blood for all that?
+DOCTOR: Blood is all of that.
+PATIENT: Okay.
+DOCTOR: That's alright and they just checked your prostate so we don't really need to check that.
+PATIENT: Uh uh.
+DOCTOR: Alright and then I'll see you back in uh, oh nine months?
+PATIENT: Uh-huh.
+DOCTOR: You're doing pretty good otherwise.
+PATIENT: Well otherwise I'm fine.  But I just want a gout attack.
+DOCTOR: I don’t blame you.  I mean you have to think about no gout attack versus we don't want it to continue to bottom out your kidneys.
+PATIENT: Do I have to take this with me?
+DOCTOR: Yeah you can just take it up to the front and give it to them.
+PATIENT: Oh I see.
+DOCTOR: Check out okay.  Alright.
+PATIENT: I'll check this.
+DOCTOR: And for right now you won't need to take that, losartan the other medicine for your blood pressure, the one that you don't have on your list.
+PATIENT: Oh yeah I probably haven't taken it.
+DOCTOR: Right that's why I say we'll hold it for now.
+PATIENT: Okay, [REDACTED].
+DOCTOR: Don't forget to go down to the Lab.
+PATIENT: I won't.
+DOCTOR: Have the blood work done.
+PATIENT: I won't.
+DOCTOR: If there's any problems or any changes I'll call you.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: That's fine.
+DOCTOR: Take care, nice to see you again.
+PATIENT: Nice to see you.
+PATIENT: 84:22
+Time is [REDACTED]
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238110
+TRANSACTION # 578-10-2-316-0103

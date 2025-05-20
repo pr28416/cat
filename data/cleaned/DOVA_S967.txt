@@ -1,0 +1,357 @@
+DOCTOR: PATIENT?
+PATIENT: Hey, hey, hello.  I just went to the back door.  How are you?
+DOCTOR: Good morning.
+PATIENT: Everybody [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  I got me a new one, sit here?
+DOCTOR: Yeah.
+PATIENT: Alright.
+DOCTOR: I'm DOCTOR.
+PATIENT: Okay you gonna be my doctor from now on?
+DOCTOR: Uh I think so.
+PATIENT: Okay good.
+DOCTOR: Why?
+PATIENT: Um.
+DOCTOR: You haven't been here in a while huh?
+PATIENT: I thought I had guy here that used to be here.  I don't know what happen to him.
+DOCTOR: Uh you saw DOCTOR last time.  He wasn't here for a while so, for about a month, cause he was doing something else and he didn't have clinics.  But he's back now if you want to go back to see him next time.
+PATIENT: Well I got you know so let's do it.
+DOCTOR: And I mean, we work together um.
+PATIENT: Yeah.
+DOCTOR: And we both work with DOCTOR so.
+PATIENT: I understand, my thing is just I'm uncomfortable with what I'm about to ask you.
+DOCTOR: Okay.
+PATIENT: Which I'm still trying to conjure up the energy and nerve to do it.
+DOCTOR: Okay what's that?
+PATIENT: Give me a minute.
+DOCTOR: Alright.  So let's just go over some of your other medical problems.  Um your diabetes.
+PATIENT: Yes.
+DOCTOR: What are you taking now for the diabetes?
+PATIENT: I don't even remember.  I've took so much and this is a new one I haven't even started for about maybe three or four weeks ago.
+DOCTOR: Okay are you doing your blood draws?  How many pills are you taking?
+PATIENT: I am taking one of those large ones.  I wish I had.
+DOCTOR: You didn't bring them with you?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: It's working.
+DOCTOR: Are you taking aspirin every day?
+PATIENT: Yes.
+DOCTOR: Okay.  Um are you taking the lisinopril?  You're taking the full tablet for your blood pressure now?
+PATIENT: Yes I am.  I didn't take it this morning cause I was running late, I just ran out.
+DOCTOR: Okay.  Um cause your blood pressure is high today.
+PATIENT: Is it higher than last time?
+DOCTOR: Um, let me see what it was last time, yes.
+PATIENT: Higher?
+DOCTOR: Uh-huh.
+PATIENT: I didn't take it today.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Alright and are you taking the metformin?
+PATIENT: Which one is that?
+DOCTOR: So that one is the one that um the pharmacist increased you from a couple weeks ago.
+PATIENT: Yes.
+DOCTOR: You're taking that?
+PATIENT: Yes.
+DOCTOR: And you're taking the higher dose?
+PATIENT: Yes I'm taking all the latest things that they issued to me, that's all I have.
+DOCTOR: Okay and you're taking.
+PATIENT: The medication list is up-to-date.
+DOCTOR: Okay did you take your diabetes medicines today?
+PATIENT: I took what I had on me cause like I said I this little thing.
+DOCTOR: A pill box.
+PATIENT: Yeah.
+DOCTOR: Okay.  Um.
+PATIENT: [REDACTED].
+DOCTOR: It's important to take it every day.
+PATIENT: I do, that's a fact.
+DOCTOR: Um some of the other things, last time we checked your urine everything looked okay, except you have a lot of sugar in it okay.
+PATIENT: Yeah I know.
+DOCTOR: Cause your diabetes isn't that well controlled.
+PATIENT: Right.
+DOCTOR: Um did the pharmacist talk to you about what all of your options are if your sugars aren't controlled on these medicines?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I'm working on just taking the medication and just.
+DOCTOR: Yeah I mean.
+PATIENT: It's really better.
+DOCTOR: You've only been on it a couple weeks so I don't think it's time to recheck the blood tests yet okay.  Um but just so you know if we max out on pills.
+PATIENT: [REDACTED] gonna take the insulin.
+DOCTOR: Yeah that's the next step.  I mean we're not to that point yet but just so you know that.
+PATIENT: I'm not looking forward to that.
+DOCTOR: So some of the things you can do is watch your diet.  I don't know what kind of things you eat right now.
+PATIENT: I don't eat red meat that much.
+DOCTOR: Uh-huh.
+PATIENT: What I'm eating, I'm eating salmon and eating shrimp and occasional once or twice a month I'll have pork chops.
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: What about sugar?  Like are you eating a lot of carbs like pasta, rice, white bread?
+PATIENT: I eat uh wheat bread.
+DOCTOR: Okay.
+PATIENT: Oat bran, wheat.
+DOCTOR: Okay wheat.
+PATIENT: Uh.
+DOCTOR: What about, do you eat a lot of sugar?
+PATIENT: I eat a lot of, I eat those mixed nuts.
+DOCTOR: Okay good.  It sounds like your diet is pretty good then.  You don't eat a lot of sugars or sweets or anything like that?
+PATIENT: I have, I have sweets that I've bought but it's an occasional and I keep them in the refrigerator.  I have chocolate you know and every once in a while I have one.
+DOCTOR: They make sugar free stuff too.
+PATIENT: Where?
+DOCTOR: Uh a lot of stores carry them.
+PATIENT: I only shop at Aldi's because it's more affordable for me.
+DOCTOR: Okay.
+PATIENT: It's closer.
+DOCTOR: Yeah.
+PATIENT: But I'll.
+DOCTOR: Yeah, you know just keep eye on it for um.
+PATIENT: Right.
+DOCTOR: I mean they don't make everything sugar free but they make some stuff sugar free now um and that would help.  Weight loss will help with both the blood pressure.
+PATIENT: No good but.
+DOCTOR: And then.
+PATIENT: They weighed me here before the appointment.  When I don't have everything I'm in the 252, 253.
+DOCTOR: Yeah.
+PATIENT: So that's not accurate.
+DOCTOR: And you seem like a you know like a muscular guy but.
+PATIENT: I used to be a power lifter.
+DOCTOR: Yeah.  Still any amount of weight loss helps okay.  Just uh, something to think about.
+PATIENT: I'm a maintenance engineer in my building.  I [REDACTED] everybody can handle that so.  It's a 16 unite.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] carrying tools, I'm not.
+DOCTOR: It sounds like you're active then.
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: What they told me is that maybe I should get some, a little cardio.
+DOCTOR: Yeah.
+PATIENT: Which I try to but it's hard to do with this weather.
+DOCTOR: It is hard for you to do.
+PATIENT: The beat down weather.
+DOCTOR: Yeah um, as the weather gets nicer then maybe it'll get easier.
+PATIENT: Uh I like to go to the park.  I've been wanting to bike ride but then again I don't know if it's [REDACTED] where I live.
+DOCTOR: No I.
+PATIENT: [REDACTED].
+DOCTOR: I.
+PATIENT: No, I'm over here on Lawndale and Roosevelt [REDACTED] that's a war zone there you know, because of @ fire.
+DOCTOR: Uh-huh.
+PATIENT: Fights you know.
+DOCTOR: Yeah no I understand [REDACTED].
+PATIENT: Cause it's trick to sleep there.
+DOCTOR: The um, they have a MOVE Program here.  Have anyone talked to you about that?
+PATIENT: I can't move because you know what.
+DOCTOR: Well that's, no it's called the MOVE Program.  It's to help people diet and exercise.
+PATIENT: Oh.
+DOCTOR: It's not about moving, no, no, no, no.  It's um every Monday at 10 a.m. they meet in the Library and they talk.  They help people get you know set up with exercise.
+PATIENT: Yeah.
+DOCTOR: And stuff like that yeah.
+PATIENT: Oh that'd be great.
+DOCTOR: So um it's every Monday so you're more than.
+PATIENT: Just once a week?
+DOCTOR: Well the first meeting they have an introductory meeting every Monday and then from there they I believe they have other times um to work around your schedule.
+PATIENT: That [REDACTED] going through I been through.
+DOCTOR: Yeah, yeah.
+PATIENT: [REDACTED] and if I could go maybe.  Like I said I used to be a power lifter.  I used to train people so I'm just going to have to just fall back into that cause making it over here every Monday [REDACTED].
+DOCTOR: But no you don't have to go every Monday but going once and then getting you know into maybe going once a month or something like that.
+PATIENT: That's possible.  Once a week it okay because it would be tough.
+DOCTOR: Yeah, yeah.  Just so you know that service is there um it's a walk-in and you don't need any forms or anything.  It's Monday at 10 a.m. okay.
+PATIENT: Okay.
+DOCTOR: Um let's see now you were just in the Urgent Care a few weeks ago with some knee pain?
+PATIENT: I still got it.
+DOCTOR: How's that doing?
+PATIENT: It got better at one point and it started to regress and I think I might need it either x-rayed or scoped.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Um what are you taking for it right now?
+PATIENT: I was taking all along, the ibuprofen uh.
+DOCTOR: Okay.
+PATIENT: I've been icing it on and off.  I stopped icing cause it got better.
+DOCTOR: Has this swollen?
+PATIENT: Uh-huh it's really sore.
+DOCTOR: Okay.
+PATIENT: It gets stiff, it gets you know.
+DOCTOR: Why don't we have you go see the orthopedic doctors okay?
+PATIENT: Alrighty.
+DOCTOR: And they'll decide if they need to do um you know, if they need an MRI or if they want to do a scope.  You had knee surgery you had torn cartilage in that knee in the past right?
+PATIENT: Yeah that same [REDACTED] yeah.
+DOCTOR: Uh it's your right knee correct?
+PATIENT: Correct.
+DOCTOR: Okay.  Alright so let's see what else um.  You got your um flu shots last time?
+PATIENT: I got my flu shot and uh H1N1.
+DOCTOR: Okay great and they gave you the pneumonia shot?
+PATIENT: Yes.  I didn't want to take a chance you know.
+DOCTOR: Yeah.  Um have you gotten your tetanus shot?
+PATIENT: Uh I want to.
+DOCTOR: Okay let me put that in so we don't forget.
+PATIENT: Yeah cause I do a lot of [REDACTED].
+DOCTOR: When was your last tetanus shot?
+PATIENT: I don't recall that's how far back.
+DOCTOR: Okay.  So I'm gonna give you, they now recommend getting um.  There are two different types of tetanus shots.  One just has tetanus and diphtheria; one has those two and then whooping cough in it too.
+PATIENT: What's the best?  What is the best?
+DOCTOR: I'm gonna give you the one with whooping cough then you don't have to get that ever again.  It's a booster of the whooping cough that you got when you were a kid.
+PATIENT: Alrighty.
+DOCTOR: You just need it once.
+PATIENT: Alright.
+DOCTOR: And in a month.
+PATIENT: Okay.
+DOCTOR: Alright so we're gonna give that to you today um and the next time you'll just get the regular one.  Um you go see the psychiatrist right?
+PATIENT: Yes I do.
+DOCTOR: No problems there.  Have you made your appointment for the colonoscopy?
+PATIENT: You know what happened, I had to reschedule it.
+DOCTOR: Okay.
+PATIENT: I called and told them already.
+DOCTOR: Yeah.
+PATIENT: Cause I see them in the morning.
+DOCTOR: Yeah so you've been scheduled for tomorrow at 8:30.
+PATIENT: I know.
+DOCTOR: Do you know that?
+PATIENT: That's the one I'm canceling.
+DOCTOR: Oh did you call and cancel it already?
+PATIENT: Yeah.
+DOCTOR: Okay, alright.
+PATIENT: Yes.
+DOCTOR: Oh so you uh, sounds like you have it under control.
+PATIENT: I'm all over it.
+DOCTOR: Okay.  Alright well I think um today we'll get you to see the orthopedic, we'll get that.
+PATIENT: Today?
+DOCTOR: Well the appointment won't be today.  It'll probably be in a week or two.
+PATIENT: Or something in the mail?
+DOCTOR: Um you can make your appointment at the front desk.
+PATIENT: Okay what they, basically, are you able to prescribe if I needed something or requested something through you?
+DOCTOR: Uh that depends, what are you asking for?  It depends.
+PATIENT: Uh I need to see if I can try Cialis.
+DOCTOR: Okay.  I thought that was what you were gonna ask.
+PATIENT: Just, I'm not enjoying this at all.
+DOCTOR: No um, what we have here is, we don't carry Cialis here at the VA.  We have um Levitra, similar type of medicine.
+PATIENT: What does it do?  [REDACTED].
+DOCTOR: Yeah it's, it works the same but it's a different means okay.  Viagra, Cialis, Levitra they all do the same thing okay.  Um it's just which one you're seeing on TV more.  So.
+PATIENT: And then, I was okay with the diabetes [REDACTED] but once the high blood pressure kicked in I'm.
+DOCTOR: Yeah, all this stuff and that's another reason to get [REDACTED] under control.
+PATIENT: Yeah I hear that.
+DOCTOR: I, so I can give you that today.
+PATIENT: Give me what?
+DOCTOR: The medicine.
+PATIENT: Levitra?
+DOCTOR: Yes.
+PATIENT: Okay great.
+DOCTOR: Okay.  Um and.
+PATIENT: How does that work?  I had never [REDACTED] about this, never.
+DOCTOR: So it, it works on the blood supply.
+PATIENT: [REDACTED].
+DOCTOR: You want the technical stuff?
+PATIENT: I'm a 40-year-old so explain it to me.
+DOCTOR: So you take it before intercourse.
+PATIENT: Okay.
+DOCTOR: Um.  It helps you to have an erection.
+PATIENT: Okay.
+DOCTOR: Um and you have um.
+PATIENT: How do you take a, excuse what?
+DOCTOR: Yeah.
+PATIENT: Half hour before, 10 minutes, right then when?  When is the best time?
+DOCTOR: Uh you can, it's best to take it 15, 20 minutes it you want or right then.  It doesn't really matter.  Um it works pretty quickly.
+PATIENT: So like I said I'm, this is all new to me.
+DOCTOR: Okay.  When you take it.
+PATIENT: And I'm hoping not to need it.
+DOCTOR: When you pick it up at the Pharmacy.
+PATIENT: [REDACTED].
+DOCTOR: They can give you a handout too of.
+PATIENT: Ohh.
+DOCTOR: You know how it works, side effects, all that kind of stuff.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: That's good, that's good.
+DOCTOR: They have handouts there so I'm gonna put it here that you're gonna pick it up at the Pharmacy today.
+PATIENT: Yes please.
+DOCTOR: Okay and I'll give you two refills and.
+PATIENT: How many do they come?
+DOCTOR: They only give you two a month.
+PATIENT: Two a month?
+DOCTOR: I know, everybody complains about it.  I have no control over that though.
+PATIENT: That's not good.  That's not good at all.
+DOCTOR: That's all, um I'm gonna give you the lower dose right now okay.
+PATIENT: Okay.
+DOCTOR: Um and when you come back if it's not working we can go up to the higher dose so let us know.
+PATIENT: Okay.
+DOCTOR: Whether you see me or DOCTOR okay.
+PATIENT: Okay alrighty.
+DOCTOR: Alright.  Come up here and have a seat.
+PATIENT: I'm gonna walk now.  Last time I was able to walk it.
+DOCTOR: [REDACTED].
+PATIENT: Uh I guess it's the [REDACTED] benefit.
+DOCTOR: Deep breath.  No pain in the belly or anything?  Your feet ever swell?
+PATIENT: Sometimes, not often.
+DOCTOR: Can you pull up your jeans so I can see your knees?  [REDACTED] get them up.  So where does it hurt?
+PATIENT: Right in here.
+DOCTOR: In the back.
+PATIENT: Yeah. Swollen.
+DOCTOR: Okay.  No swelling up in the front though.
+PATIENT: A little bit, maybe just compared to the other one.
+DOCTOR: Okay I'm just going to move your leg [REDACTED], let it down just a little bit.  Lay back for me.
+PATIENT: That's it.
+DOCTOR: [REDACTED] with this.
+PATIENT: None of that hurts.
+DOCTOR: Relax, let me move it.
+PATIENT: Yeah.
+DOCTOR: Right here for a little bit.
+PATIENT: Right here and I get it when you do that.
+DOCTOR: Okay sit back up.   But you know it's not swollen or anything.  I feel um some arthritis in there.
+PATIENT: Uh-huh.
+DOCTOR: So um I think we'll get you in to see the orthopedic doctors and we'll let them.
+PATIENT: Okay.
+DOCTOR: Alright.  Let me go talk to um DOCTOR and I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  47:09  DOCTOR IN:  49:47)
+DOCTOR: Alright, you can sit over here.
+PATIENT: [REDACTED].
+DOCTOR: Your knee?
+PATIENT: Yeah I started icing it.
+DOCTOR: Uh-huh.
+PATIENT: And it was a little better today but yesterday it was kind of stiff.
+DOCTOR: Okay.  Um.  Do you want to go to Physical Therapy or anything?
+PATIENT: Um, um my thing is this uh I want to say that I want to go the shortest route.  I don't want to have to put in a lot of therapy and wind up getting cut.
+DOCTOR: Uh-huh.
+PATIENT: Now I say if they see what's wrong and they need to open it, open it or not.
+DOCTOR: They usually recommend sending you to Physical Therapy before they see them.  I may have to send you.
+PATIENT: Alright let's do it that way.
+DOCTOR: Um.  Um we need to get an x-ray today.
+PATIENT: I'm getting an x-ray today?
+DOCTOR: You need, they need an x-ray of the knee before you can see them.
+PATIENT: Okay that's @@.
+DOCTOR: Um.  So do you know where X-Ray is?
+PATIENT: No cause I [REDACTED] find it.
+DOCTOR: So if you go back towards the hallway [REDACTED] um on the, if you were walking go upstairs, it's on the left and then you'll follow some elevators, go past the elevators.  They can point it out to you.
+PATIENT: Alright if I get lost they'll tell me.
+DOCTOR: Uh but definitely stop at the front desk anyway and um schedule the orthopedic appointment.  Schedule the orthopedic appointment um and then go get your x-ray and then go to the Pharmacy.  That'll cut down on the time waiting in the Pharmacy.  I'm going to put in for you to come back in three months.
+PATIENT: That'll be my next visit with you or with someone else?
+DOCTOR: With me or do you want to come back and see me or do want to see DOCTOR?  It's up to you.
+PATIENT: The cat's out of the bag now, it doesn't matter now.
+DOCTOR: Um I'll just put with me but you can see whoever's available okay.
+PATIENT: Alright.
+DOCTOR: Um before you come in that morning I want you to get some lab tests drawn before you see me.
+PATIENT: Come in early and go down and get some labs.
+DOCTOR: Yeah.  So I want to check your.
+PATIENT: Sugars?
+DOCTOR: Check your sugars um, I want to check your um the diabetes, the hemoglobin A1c.  You know what that is right?  It tells us how your sugars have been over three months.
+PATIENT: Right.
+DOCTOR: Yeah so um, we'll check that before you come in um, [REDACTED] that's all alrighty.
+PATIENT: Alright.  Can you read them?
+DOCTOR: Any questions?
+PATIENT: No.
+DOCTOR: Take this up to the front.
+PATIENT: [REDACTED].
+DOCTOR: And then you can get your um.
+PATIENT: What the x-ray, straight from here?
+DOCTOR: So go up to the front desk and schedule the orthopedic appointment and then get your x-ray.
+PATIENT: Is this the orthopedic appointment?
+DOCTOR: Yeah it has it on there.
+PATIENT: And go on to x-ray.
+DOCTOR: And then get your tetanus shot.
+PATIENT: Where?
+DOCTOR: The nurses can give it to you.  The same nurse that checked in you in. okay.
+PATIENT: Alrighty.  Thank you very much.
+DOCTOR: Alright, no problem.
+PATIENT: Have a good day.
+DOCTOR: You too.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: 54:22
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255172
+TRANSACTION # 578-10-2-316-0103

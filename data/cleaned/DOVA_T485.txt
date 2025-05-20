@@ -1,0 +1,207 @@
+DOCTOR: PATIENT.
+PATIENT:
+PATIENT: you, okay doc.
+DOCTOR: Hi DOCTOR come on back.
+PATIENT: Yeah I know you guys get in trouble keeping my appointments you know.
+DOCTOR: Okay, alright, that's good. Alright.  How's everything going today?
+PATIENT: What was happening [REDACTED] Chicago. I was out in LA for forty years I came back to Chicago 2008 [REDACTED] West LA.
+DOCTOR: Okay.
+PATIENT: So I'm in a slumber house, wake up in the morning and got out of bed and just felt the worst pain that I ever felt in my life.
+DOCTOR: Okay.
+PATIENT: Come to find out I had two slipped disks, L4 and L5.
+DOCTOR: Okay.
+PATIENT: Back in Chicago I’ve been back since August 2008 and due to my, I had issues with substance abuse.
+DOCTOR: Right.
+PATIENT: Uh un stabile lifestyle and I'm gonna, I can be this concise, I can focus but this back is killing me.  I haven't gotten it taken care of yet.
+DOCTOR: [REDACTED].
+PATIENT: Now.  I had an MRI and a uh some x-rays at West LA VA before I came home in August 2008.  I don’t know if you can pull that up but here I think I've had at least the x-rays done on the back, but didn't get an MRI at Jesse Brown since I've been back in Chicago and I really want to get this taken care of.  It's really bothering me.
+DOCTOR: Okay.
+PATIENT: It's just, I mean the last.
+DOCTOR: Well it sounds like you have arthritis in your back.
+PATIENT: You know what, I was [REDACTED].
+DOCTOR: And um
+PATIENT: How did you come to this conclusion?  Did you just, just by your knowledge?
+DOCTOR: Yeah, yeah just by what you’re telling me.
+PATIENT: Yeah.  Someone said that I had an x-ray done at a hospital.
+DOCTOR: You know we could still look.
+PATIENT: And they said, they pretty much thought it was arthritis too.
+DOCTOR: Okay.  Well one thing at a time though and we haven't seen you.
+PATIENT: Exactly.
+DOCTOR: In a follow-up visit in quite some.
+PATIENT: Exactly.
+DOCTOR: So today, let's just kind of get you plugged back into the system.
+PATIENT: Okay sounds good doc.
+DOCTOR: Uh it looks like you're on, you know, a number of medications.
+PATIENT: Quite a list.
+DOCTOR: For blood pressure, diabetes, asthma uh, probably what we're gonna follow you here in the General Medicine Clinic for.
+PATIENT: Okay.
+DOCTOR: What do you take for your blood pressure?
+PATIENT: I take uh lisinopril.
+DOCTOR: Uh-huh.
+PATIENT: I think its 40 mg.
+DOCTOR: It is.
+PATIENT: Once a day and metoprolol.  I can't pronounce it.
+DOCTOR: Metoprolol.
+PATIENT: Yeah I take, uh I don't how much is the medicine but it should be in the computer on my.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: How about the diabetes?  What are you taking for it?
+PATIENT: They put me on insulin the last time I was here.  The doctor put me on insulin.
+DOCTOR: How much do you take?
+PATIENT: I take 48 of 70/30 NovoLog.
+DOCTOR: Uh-huh.
+PATIENT: 48 in the morning and 46 at night.
+DOCTOR: Okay.  Uh and what have your sugars been running?
+PATIENT: My sugar's been running from like 130 to 160, 170, which is a little high but.
+DOCTOR: Is that before you eat or after you eat?
+PATIENT: This is after I eat.
+DOCTOR: Okay.  What are they usually before you eat?
+PATIENT: Before I eat they go to 190, 210, 220.
+DOCTOR: So before you eat the blood sugars are higher?
+PATIENT: Um, okay let me think about this um.
+DOCTOR: Do you happen to have blood sugar journal?
+PATIENT: I didn't bring it with me, I forgot the glucometer, I left that at home.
+DOCTOR: Okay.
+PATIENT: But usually the sugars, they're higher before I eat.
+DOCTOR: It doesn't make any sense.
+PATIENT: In other words, after I, okay when I test my blood sugar before I take the insulin it's usually high 130, 140, its usually out of the normal range.
+DOCTOR: Okay.
+PATIENT: And so I'm testing basically once twice a day is that good or should I be testing more often?
+DOCTOR: Well it depends how stable they are you know.  If your blood sugars are usually stable then you only need to probably check twice a day.
+PATIENT: But.
+DOCTOR: But if they're kind of up and down you should check more than that.
+PATIENT: Uh okay, so maybe I need to do what uh four times a day?
+DOCTOR: Well it depends you know.
+PATIENT: Well they've been running pretty decent.  In other words, I cut back and you know there's some things I know I can do.  I cut back on the cheating.
+DOCTOR: Hang on. Any episodes of low sugars?
+PATIENT: No.
+DOCTOR: Okay, good.  Alright.  Now asthma wise how's your breathing?
+PATIENT: My breathing has been uh it's been good.  I haven't had an asthma attack in a couple of years.
+DOCTOR: Uh what are you taking for the asthma?
+PATIENT: Asthma, I take the steroid inhaler.
+DOCTOR: Okay.
+PATIENT: And the Proventil inhaler.  I'm out of my inhaler.
+DOCTOR: Sure, no problem.
+PATIENT: Yeah I need some med refills.
+DOCTOR: Okay we can definitely do that.  Um so like I said you know I was, with this visit, I'd really like to get you plugged back into the system.
+PATIENT: Okay.  Okay I understand.
+DOCTOR: Let's establish some you know baseline diabetes labs on your.
+PATIENT: Okay.
+DOCTOR: Let's check an average sugar level, let's refill your meds.
+PATIENT: Okay.
+DOCTOR: Your blood pressure was very good today and I hope you're very happy about that uh and then we need to do some health maintenance things.
+PATIENT: Okay.
+DOCTOR: Uh you're over the age of 50 so you need a colonoscopy.
+PATIENT: Okay.
+DOCTOR: To check for colon cancer.
+PATIENT: Now what does that entail, the colonoscopy?  Is that when they, I know there's a couple of ways they can go but they use the instrument?
+DOCTOR: Well they take a fiberoptic camera; it's about the size of a pen.
+PATIENT: Uh-huh.
+DOCTOR: They put it up your bottom.
+PATIENT: Okay.
+DOCTOR: Where we know [REDACTED] colon cancer.
+PATIENT: Okay.
+DOCTOR: Cause really, it's a very good test, it saves lots of lives.
+PATIENT: Okay.
+DOCTOR: So I would recommend it.
+PATIENT: Okay sure.
+DOCTOR: Um the other thing is that if you're a diabetic you need an eye exam once a year so I want to schedule you for an eye exam.
+PATIENT: Yeah I need it, yeah I need it cause I need new glasses anyway.
+DOCTOR: Okay.
+PATIENT: So that would be good.
+DOCTOR: And then uh the third thing is that uh we'll check the cholesterol today so.
+PATIENT: Okay.
+DOCTOR: Alright, alright.  Let's just see if there's anything else that we need.  Now this back pain, I’m happy to do an x-ray.  We don't have one in the system so let's do an x-ray to start out with before we jump to an MRI.
+PATIENT: Okay.
+DOCTOR: And then we'll go from there.
+PATIENT: Okay.
+DOCTOR: Okay.  Well if you'll have a seat, let me take a look at you here.  Where you living these days?
+PATIENT: I'm living in Harvey with my sister.
+DOCTOR: Okay.
+PATIENT: On 55th and 3rd on [REDACTED].
+DOCTOR: [REDACTED] I hear you, I got it.  Alright show me where you're having most of the pain would you say.
+PATIENT: Right in this lower area here.
+DOCTOR: Is it worse when you walk or sit or stand?
+PATIENT: It's um, its worse when I walk.  It's worse when I walk and I had total right hip replacement.
+DOCTOR: Hmm.
+PATIENT: In 2008 and 2006.
+DOCTOR: Some deep breaths, nice deep breaths.  Just breathe normal for me.  Are you able to examine your feet every day?
+PATIENT: Uh yeah, yeah.
+DOCTOR: Can you take your shoes and socks off so I could see them?  You can sit back down there yeah.  Uh the reason we're so adamant about this is diabetes is the number one cause of amputations in this country.
+PATIENT: Right.
+DOCTOR: So it's very important for all diabetics to check their feet every day.
+PATIENT: Every day.
+DOCTOR: To be very careful about any kind of ulcers that develop.
+PATIENT: Alright, you want both of them?
+DOCTOR: Yeah I want both of them, you gotta check both of them.
+PATIENT: I don't know, I had to go check it before I came up to see you.  I need some lotion, they're pretty dry.
+DOCTOR: Well lotion is not as important.  You really just.
+PATIENT: Check them for sores and.
+DOCTOR: You gotta make sure that there's no ulcers.  We see, I see tons of diabetics who've lost feet, legs, all that kind of stuff.
+PATIENT: What causes the amputations?
+DOCTOR: It's the diabetes.  The high sugar levels.
+PATIENT: Yes.
+DOCTOR: Gets into the nerves and it destroys the nerves of the feet.
+PATIENT: Oh I see okay.
+DOCTOR: Okay and that's what, people need some amputations.  How's your feeling over here?
+PATIENT: Oh good.  I was getting a little tingling.
+DOCTOR: Can you feel this?
+PATIENT: Yes.
+DOCTOR: Okay how about this side can you feel this?
+PATIENT: Yes.
+DOCTOR: Alright good, good, good, good.  Alright so PATIENT I think that's our plan for today.  We got our work cut out for us.
+PATIENT: Well I got all the time; whatever you want me to do I'll take care of.
+DOCTOR: Yeah so we'll schedule you for these tests um and then uh we'll see you back uh you know after all these tests are done and then you know we'll uh you know kind of reconvene, see what they show and go from there.
+PATIENT: So how long do you think in terms of a return appointment?
+DOCTOR: Oh let's see, you need a colonoscopy, eye exam, these labs and we'll get the x-ray so it's gonna be, by the time you get all these appointments and the tests are done and back in the computer it's gonna be about a couple of months.
+PATIENT: Okay.
+DOCTOR: So we'll see you probably back in two months.  In the meantime I'll make sure you got enough medicines.
+PATIENT: Okay.
+DOCTOR: Uh do you have a psychiatrist?
+PATIENT: Uh I'm hooked up with PACC; they just referred me to someone.
+DOCTOR: Good, good, good, good, good.
+PATIENT: And they've got me on Depakote and Restoril.
+DOCTOR: Yeah, yeah.
+PATIENT: I've got to go see somebody over there cause I need some medicine.
+DOCTOR: Alright, alright let me get some papers here for you and I'll be right back.
+PATIENT: Okay.  So will you be my regular doctor?
+DOCTOR: Yes sir.
+PATIENT: Okay great.
+(DOCTOR OUT:  34:16  DOCTOR IN:  42:50)
+DOCTOR: Alright PATIENT I think we can get you set-up for all this stuff today.
+PATIENT: Okay.
+DOCTOR: [REDACTED] insulin titration, okay.  You're going to give this to the lady at the front desk, who will give you these appointments.
+PATIENT: Okay on my way out.
+DOCTOR: Right on the way out.
+PATIENT: Okay.
+DOCTOR: Uh the Eye Clinic, uh GI Clinic, that's the colonoscopy.
+PATIENT: Uh-huh.
+DOCTOR: Okay and then I want you to come back and see the Pharm-D, the pharmacist in two weeks and when you come back for this make sure you bring your glucometer, your blood sugar diary so we can titrate your insulin.
+PATIENT: Okay.  So come back in two weeks for that.
+DOCTOR: Yeah.  They'll give you all these appointments today.
+PATIENT: Okay, okay.
+DOCTOR: But I'm just kind of letting you know.
+PATIENT: And then you got to do the refills.
+DOCTOR: I'll refill your stuff.  Uh they won't release your medicine until you get your blood drawn to make sure you're.
+PATIENT: Okay I'm gonna go first for the blood draw.
+DOCTOR: Yeah okay.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: DOCTOR [REDACTED] make sure of.  We'll get [REDACTED].
+PATIENT: If you're a nice guy. I really appreciate it.
+DOCTOR: Oh no problem, my pleasure.  [REDACTED].
+PATIENT: I leave it every time.
+DOCTOR: Okay.
+PATIENT: If I [REDACTED].
+DOCTOR: There you go, you need this uh.
+PATIENT: So take this to the desk and then go to get the blood drawn and then I can go to Pharmacy.
+DOCTOR: Yes sir.
+PATIENT: Alright thank you so much.
+DOCTOR: Take care.  Get the x-ray, right over here.
+PATIENT: Alright.
+DOCTOR: Straight up.
+PATIENT: Alright thank you.
+PATIENT: 44:33.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275391
+TRANSACTION # 578-10-2-316-0103

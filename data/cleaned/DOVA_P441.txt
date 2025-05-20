@@ -1,0 +1,205 @@
+DOCTOR: PATIENT.
+PATIENT: Yes sir.
+DOCTOR: [REDACTED].  I think I saw you around...
+PATIENT: Yeah.
+DOCTOR: …in November.
+PATIENT: Exactly.
+DOCTOR: Something like that.  Right back here.  Have a seat.  And what brings you in here today?
+PATIENT: Um I was scheduled for an appointment.
+DOCTOR: Regular appointment alright.  So what uh, so we keep an eye on people, see how they're doing?
+PATIENT: Right.
+DOCTOR: So anything been bothering you lately?
+PATIENT: My feet and my eyes.
+DOCTOR: What bothers you about your feet and your eyes?
+PATIENT: Um I got some [REDACTED].  But [REDACTED], right here and problems for months [REDACTED].  Also like I'll wake up in the morning um, the bottom of my feet [REDACTED].
+DOCTOR: Okay.
+PATIENT: Just I mean its like these are the only shoes that are comfortable that I can walk; you know what I'm saying.  Uh but it's just.
+DOCTOR: Okay.  Uh then you notice there's something there.
+PATIENT: Okay um, beside the fact that I have, like a bunion thing right here.
+DOCTOR: Okay.
+PATIENT: The ball of my foot on both foots, like a little thing, I been coming here, they been cutting them off, [REDACTED] give me um a moisturizer to put on there now.
+DOCTOR: [REDACTED].
+PATIENT: But it still comes back.
+DOCTOR: Okay.
+PATIENT: So I don't know if it's the shoes or whatever like that but also besides that, like I say when I wake up in the morning time, my feet feel like [REDACTED].  Now you talk about you know the vitamin thing [REDACTED].  Get [REDACTED] like or whatever, it just kills me.  I walk tender foot.
+DOCTOR: Uh do you feel like you're kind of on pins and needles?
+PATIENT: Not pins and needles just pain.
+DOCTOR: Yeah. Pain.
+PATIENT: [REDACTED] and the my eyes are bothering me, my eyes but.
+DOCTOR: And how long has this been going on?
+PATIENT: A long time.  Um it comes and it goes you know I guess it just comes and goes so.  It mostly comes.
+DOCTOR: Alright.
+PATIENT: Two out of three days it'll be there.  I'm not to the point where I stumble [REDACTED] but you know like I said right now, I got to [REDACTED] you know.
+DOCTOR: Okay.  Alright uh.  Do you have any numbness in your feet?
+PATIENT: No no numbness.
+DOCTOR: Just kind of pain.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  And the pain is it a sharp pain, burning pain, aching pain?
+PATIENT: Aching pain.
+DOCTOR: Aching pain okay.
+PATIENT: And it goes, you know, it goes but [REDACTED] combined with you know the burning type pain you know.
+DOCTOR: Right.  How long does it last in the morning?
+PATIENT: I would say 15 to 45 minutes.
+DOCTOR: Okay.  Yeah.
+PATIENT: About 30 minutes.  It goes away in about 30 minutes.
+DOCTOR: Any pain in your hands?
+PATIENT: No, no sir.
+DOCTOR: Like throughout the day does it hurt again or is it mostly just in the morning?
+PATIENT: Just mostly in the morning.
+DOCTOR: And it lasts about 45 minutes, 30, 45 minutes okay.
+PATIENT: Right.
+DOCTOR: Okay and how long would say this has been going on?
+PATIENT: Hmm uh I'd say about a year or so.
+DOCTOR: Any weakness that you notice in your legs?
+PATIENT: No, can't think of any.
+DOCTOR: Okay and what has been bothering you about the eyes?
+PATIENT: Um just blurry as far as reading.
+DOCTOR: Okay.  Uh it's tough to read.
+PATIENT: Right.
+DOCTOR: Um as far as your vision.
+PATIENT: My vision's okay it's just.
+DOCTOR: When you read.
+PATIENT: Right I guess [REDACTED].
+DOCTOR: Okay so if you look at the wall there you can't read the stuff?
+PATIENT: I can read, just I'd like to read everything in here.
+DOCTOR: Just when you read close.
+PATIENT: Exactly.
+DOCTOR: Um yeah it sounds very typical of.
+PATIENT: Right I'm looking now, I can read everything in here just.
+DOCTOR: If you're reading this, do you have to hold it out like this?
+PATIENT: Right, right yeah.
+DOCTOR: Yeah.
+PATIENT: It's actually clear here.  And thanks for seeing me cause I was late.
+DOCTOR: Yeah that's okay.  Uh sometimes it's a real busy day and you come in late it's tough to squeeze you in, today uh we were able to make it happen so.  We try to see you if we can.  And you went to, you've been in therapy is that right, from the previous cocaine stuff?
+PATIENT: Yes.
+DOCTOR: That went okay.
+PATIENT: Yes.
+DOCTOR: Completed the treatment I understand.
+PATIENT: Right.
+DOCTOR: Any problems with temptation recently?
+PATIENT: Yeah there's a little temptation here and there.
+DOCTOR: Any use?
+PATIENT: I'm not gonna lie, yeah.
+DOCTOR: Okay.
+PATIENT: Yes.
+DOCTOR: When was the last time you used?
+PATIENT: Uh over the weekend about Saturday night.
+DOCTOR: Okay.  And um, is there anything we can do to try to keep that from happening again?
+PATIENT: I would like to get back into the protocol, they call it, the ATP.
+DOCTOR: Okay.
+PATIENT: If I can.
+DOCTOR: Alright and they've seen you before so I think you can just go and schedule a.
+PATIENT: Right.
+DOCTOR: Schedule with them, I'd recommend that you do that.
+PATIENT: Okay.
+DOCTOR: We definitely um, definitely want to get that um, get you to see them again and make sure we're doing everything we can.
+PATIENT: Thank you [REDACTED].
+DOCTOR: And uh that's something that's gonna affect your health in addition to, you know we're worried about your health but it being illegal we don't really care so much about but.
+PATIENT: Uh [REDACTED].
+DOCTOR: But it does cause health problem so we need to try to get you off of that, cocaine.  About how frequently have you been using it?
+PATIENT: I'd say about once or twice a week.
+DOCTOR: And the last time I saw you was maybe December or January.
+PATIENT: It was in November actually.
+DOCTOR: In November, the end of November that I saw you the last time um and then when did you restart?
+PATIENT: I started about a month ago.
+DOCTOR: Okay so you had some time where you were able to avoid it um.
+PATIENT: But um the program I was in was a good program cause you know it showed [REDACTED] you know it was like bad shape [REDACTED].  I feel better that I did you know did a program and um it was a good program and I was just, you know boredom or whatever I you know I slipped in there but I have [REDACTED] changed [REDACTED] after the program.  So instead of every day it's like once or twice a week you know.  That's still not good but it's slowly down over 75%.
+DOCTOR: That's good and I think and actually to get you off of it again and keep you off of it.
+PATIENT: Yeah.
+DOCTOR: So hopefully working with them again will hopefully get you there um.
+PATIENT: Laughing to myself, you know, the me, myself and I. The eyes don't lie you know.
+DOCTOR: Uh-huh.
+PATIENT: And [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: It was the eyes.  Uh really because you're a doctor though, come on man.
+DOCTOR: Uh you know uh we want what's best for you.
+PATIENT: Yes.
+DOCTOR: And to do that we need to know the truth and even if you say, even if you don't do what we tell you, we want to know about it.
+PATIENT: Right.
+DOCTOR: Make sure that we can do everything we can.
+PATIENT: Right, right.
+DOCTOR: Your care so.  We uh, we're not here to pass any judgment.
+PATIENT: Right.
+DOCTOR: We'll just give you advice.  That's what we do.  We'll give you advice and if you take it that's great.
+PATIENT: I appreciate the whole VA System and everything like that but um I mean the friends of mine, they don't have, they don't have the options that I have.
+DOCTOR: Uh-huh.
+PATIENT: So.  Um I've been [REDACTED] since 86 and actually this is the first time I've been using it, the program.  I had a tooth pulled back in '91 but aside that I don't know, I [REDACTED].  I wish I knew more about it then.
+DOCTOR: Uh let's see.  So it looks like uh you never got the colonoscopy, it looks like.
+PATIENT: No sir.
+DOCTOR: Um is that something you wanted to do now or do you want to hold off for now?
+PATIENT: I'd be willing to do that.
+DOCTOR: Alright we'll put it back in.
+PATIENT: Is that recommended or?
+DOCTOR: Yeah so the reason we do it is because um, once you get above 50 your risk of colon cancer is increased and uh this is the way we can see it early, treat it.  Sometimes it's something small, which usually it is, if we see you regularly they can just take it out and then that'll be the end of it.  Um whereas if it becomes something that we miss um you know maybe you'd be able to go for you know maybe you wouldn't get it during your lifetime and wouldn't have any problems but it you would then it would become advanced and then that causes more problems and it's been shown to be effective in taking care of it early on.  Uh can I take a look at your feet?  Take your shoes and socks off.  Set things up.
+PATIENT: I've got the pain right here.
+DOCTOR: Okay.  Where is the pain mostly in the morning?
+PATIENT: On most of the morning, it's right here.
+DOCTOR: Oh through there.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um I'm going to poke you with this, see if you can feel it.
+PATIENT: I feel like a tapping.
+DOCTOR: Yeah.
+PATIENT: Yes sir.
+DOCTOR: Feel that?
+PATIENT: Yes sir.  Uh-huh.
+DOCTOR: Feel it there?
+PATIENT: Yes.
+DOCTOR: And there?
+PATIENT: Uh-huh.
+DOCTOR: Feel back here?
+PATIENT: Yes.
+DOCTOR: Okay.  Okay down here?  Right there?
+PATIENT: [REDACTED].  It's on the bottom, who ah yes.
+DOCTOR: Get that pain now?
+PATIENT: Yes, oh yes.
+DOCTOR: Okay it looks like, any pain in here?
+PATIENT: No.
+DOCTOR: Okay.  It looks like your pain is right over where you've got another one of those calluses.
+PATIENT: Right.
+DOCTOR: Um so we'll probably just continue with you seeing them and taking care of that.
+PATIENT: Okay.
+DOCTOR: I know they're growing back pretty quick but um.
+PATIENT: You [REDACTED].
+DOCTOR: Oh just keep, the only way to.
+PATIENT: Yeah right here.
+DOCTOR: To fix it or the only way to understand what it is is take a look at it.
+PATIENT: Yes sir.
+DOCTOR: Um.
+PATIENT: [REDACTED].
+DOCTOR: Alright, I'll go talk to the boss and be back in a minute.
+(DOCTOR OUT:  26:23  DOCTOR IN:  29:35)
+DOCTOR:
+PATIENT: what we're gonna do is we'll have you keep seeing Podiatry.  Do you have an appointment with them yet?
+PATIENT: I do, but I'm not sure of the exact time but you know.
+DOCTOR: It looks like next month.
+PATIENT: Okay.
+DOCTOR: Next month.  Um and I'll put in a referral for the eye appointment today for you, not sure when that'll be and then I'll put in the order for a colonoscopy class.
+PATIENT: I was wondering would it be possible to get travel.
+DOCTOR: So that I'm not totally sure how that works.  You can ask them.
+PATIENT: Pick them up for today.
+DOCTOR: For today uh not sure if they still do that.  You can ask them at the desk.  We'll check you out so you know you had an appointment here.
+PATIENT: Yeah.
+DOCTOR: Um but I'm not sure exactly uh, not sure exactly how that works now.  [REDACTED].  They may be used to, I'm not sure if they still do, I'm gonna totally sure to be honest.  Do you use tobacco?
+PATIENT: Yeah, I smoke.
+DOCTOR: How much do you smoke?
+PATIENT: Oh about a pack a week, about two cigarettes a day.
+DOCTOR: And any alcohol use?
+PATIENT: No.
+DOCTOR: And you haven't had any surgeries in the past is that right?
+PATIENT: No.
+DOCTOR: Alright so they will uh call you about getting, they can have you come and talk to the nurse and then they give you the medication for the uh, that you have to take before the colonoscopy.
+PATIENT: Okay.
+DOCTOR: Okay.  And um and they'll make you an appointment in the Eye Clinic in a couple weeks hopefully and we'll see you in about six months.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Yes sir.
+DOCTOR: Alright take care, that's it.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Okay.  Have a good day.
+DOCTOR: You too.
+PATIENT: 33:45
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286136
+TRANSACTION # 578-10-2-316-0103

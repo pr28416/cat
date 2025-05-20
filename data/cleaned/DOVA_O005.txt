@@ -1,0 +1,233 @@
+DOCTOR: PATIENT?
+PATIENT: That's me.
+DOCTOR: How you feeling?
+PATIENT: Oh so, so doctor.
+DOCTOR: So-so, do you remember me?  I saw you once before.
+PATIENT: Oh yeah.
+DOCTOR: Oh yeah I saw you over the summer.
+PATIENT: Yes sir.
+DOCTOR: How you feeling?
+PATIENT: Uh just like a pain that's gonna be [REDACTED] but sometimes.
+DOCTOR: Is it getting better or getting worse?
+PATIENT: Getting worse.
+DOCTOR: Okay.
+PATIENT: But it'll [REDACTED] I'm dying to [REDACTED].
+DOCTOR: Just walking makes it worse?
+PATIENT: Yes and I have to stay out all day.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: It’s not like when you get home you lay day you know.
+DOCTOR: [REDACTED].
+PATIENT: Make you feel better.  When I lay down the burning [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Because it's all so much pain that um during the day it gets worse and worse.  After three or four [REDACTED] I would like to lay down but I got to wait till 8:30.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: Uh any other problems?
+PATIENT: Oh I got, uh not lice, but bed bugs I think.
+DOCTOR: You have bed bugs?
+PATIENT: Yes, it's really crawling.
+DOCTOR: Okay.  Have you taken anything for it?
+PATIENT: Uh I washed my hair with NIX.
+DOCTOR: Uh-huh.
+PATIENT: But I made a mistake; I used the same comb at the same time.
+DOCTOR: Uh-huh.
+PATIENT: So they back.
+DOCTOR: So do you have, do you think you have them right now?
+PATIENT: Yes.
+DOCTOR: Okay.  Are they in your hair or is it everywhere?
+PATIENT: In my hair and my beard.
+DOCTOR: Okay what do they look like?  Can you see them?
+PATIENT: Uh I have some but I don't think.
+DOCTOR: Are they?
+PATIENT: [REDACTED] not lice.
+DOCTOR: What color are they?
+PATIENT: Uh like white or brown.
+DOCTOR: White or brown?
+PATIENT: Yes sir.
+DOCTOR: Okay.  Which one are they white or are they brown?
+PATIENT: Well I think like they just both.  They kind of white.
+DOCTOR: Okay.
+PATIENT: But I have taken uh, I guess [REDACTED] I try to smash it, they don't smash.  The youg ones do but the old ones they have to smash it with your nail.
+DOCTOR: Okay.
+PATIENT: With your fingernail.
+DOCTOR: And you used the NIX shampoo before?
+PATIENT: Yes sir.
+DOCTOR: And that helped.
+PATIENT: Yes sir.
+DOCTOR: Okay.  So do you want to try that again?
+PATIENT: I'd like to, yes [REDACTED].
+DOCTOR: Okay um.
+PATIENT: And here on my back here, my low back are painful uh my about right here but it's by the center of the back it's uh.
+DOCTOR: It's painful as well.
+PATIENT: Yes sir um sometimes it radiates also to my neck.  Thank God it's not every day but sometimes I'm afraid to move.
+DOCTOR: Okay.  Uh are you still using the drugs?
+PATIENT: Yes sir.
+DOCTOR: Okay.  So you know obviously it's gonna be very difficult to get like a surgeon or someone to do something about that if you're still doing that um.  I know we've discussed it in the past.  You maybe doing the Outpatient Treatment Program and then doing the Inpatient Treatment Program.  Do you feel like that's something you want to do right now or no?
+PATIENT: I'd like to sir.
+DOCTOR: Okay.
+PATIENT: I'm tired you know, every day [REDACTED].
+DOCTOR: Okay.  Do you know how to get in touch with them?
+PATIENT: No sir.
+DOCTOR: Okay.  Uh I believe the way it works here is you go to the Outpatient Treatment Program and you kind of have to show up every day, show them you know that you can be reliable to come here every day and then after a while you transition to the Inpatient Treatment Program.
+PATIENT: I'd like to, sir.
+DOCTOR: Okay.
+PATIENT: I'd like to yes.
+DOCTOR: Alright.  I can get you some information on somewhere you can go for that uh and you know that's kind of the road you need to start going down and then we can talk about maybe doing something for this back pain okay.
+PATIENT: Yes sir.
+DOCTOR: Any other problems?
+PATIENT: Oh my arms also, especially in my left arm.  I guess because of carrying the suitcase.
+DOCTOR: Where does it hurt?
+PATIENT: About this part here.
+DOCTOR: Right there?
+PATIENT: Yes sir.
+DOCTOR: Okay.  Anywhere else?
+PATIENT: Hmm my leg sometimes um how do I say, like a sharp pain but suddenly you know it doesn't match like the back pain.
+DOCTOR: Uh-huh.
+PATIENT: Just sometimes I can't tell why you know suddenly what kind of movement that I made it just happens sometimes, I don't know.
+DOCTOR: Sometimes.  Um where does this arm hurt?  Point to it for me.
+PATIENT: Oh this area here.
+DOCTOR: Right here.  Okay can you put this down for a second?
+PATIENT: Sure.
+DOCTOR: Alright.  Straighten your arm out for me.  Does that hurt?
+PATIENT: No.
+DOCTOR: No.  Pull it in real tight, does that hurt?
+PATIENT: No it doesn't hurt.
+DOCTOR: Okay.  Does it hurt when I push?  No it's not hurting right now?
+PATIENT: No.
+DOCTOR: Okay.  Down here, does it hurt on any of these bones?
+PATIENT: No sir.
+DOCTOR: Okay.  So it's not hurting much right now?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: The second one, when I get [REDACTED] and when I'm walking I'm pulling it.
+DOCTOR: Okay.  How do you use your drugs?  You use heroin correct?
+PATIENT: Yes sir.
+DOCTOR: Do you smoke it, do you inject it?
+PATIENT: I inject it.
+DOCTOR: You inject it, where do you inject it?
+PATIENT: Here.
+DOCTOR: Okay and you don't have any spots that you're worried are infected or anything?
+PATIENT: Oh no sir.
+DOCTOR: No.
+PATIENT: I try to wash it with.
+DOCTOR: Okay.
+PATIENT: Uh alcohol prior.
+DOCTOR: Yeah but this is the only arm?
+PATIENT: Well lately yes.
+DOCTOR: Okay.
+PATIENT: Before I used this one.
+DOCTOR: You know how to look to see if it's infected right?
+PATIENT: Hmm.
+DOCTOR: If it gets like really red and swollen and hot and painful, then you need to come to the ER okay.
+PATIENT: I hope that never happens.
+DOCTOR: I hope you never do as well.  Alright.  What medications are you taking right now?
+PATIENT: Uh I was taking ibuprofen 600.
+DOCTOR: Uh-huh.
+PATIENT: But they're gone.
+DOCTOR: They're gone.
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: And.
+DOCTOR: You just ran out or what?
+PATIENT: Well uh before run out I was starting stored in my car; I have too many thieves here in Chicago.  When I came back they were already stolen and uh I'm taking uh for the prostate too, they have [REDACTED] I think [REDACTED] mg and multivitamins.
+DOCTOR: Okay.  Just were you, are you having indigestion?  Like acid reflux?
+PATIENT: Not all the time uh when I go to shit somtimes it's very hard, I push pretty hard.
+DOCTOR: Okay.  Uh you may be dehydrated, especially now in the summer.  You're probably outside a lot and you sweat.  You get dehydrated and that's gonna cause that so, plenty of water okay.
+PATIENT: Oh, yes sir.
+DOCTOR: Um what do you eat?
+PATIENT: Oh sometimes I eat lunch and sometimes I have a sister who is up there on Washington, they make very good soup and fruit salads and lettuce salad.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: The more fruits and vegetables you eat yet, that's more fiber and that'll make it easier for you to go to the bathroom too.
+PATIENT: Oh okay.
+DOCTOR: Okay so a lot of that stuff.
+PATIENT: Alright sir.
+DOCTOR: Alright.  Do you need that prostate pill?
+PATIENT: Oh no I, I lost it the other day, I just got it last week.
+DOCTOR: Okay so you have some of it still?
+PATIENT: Yes sir, I still have some.
+DOCTOR: Good, good.  Um so do you want to keep taking the ibuprofen, were they helping you?
+PATIENT: Well it helps a little, better than nothing.
+DOCTOR: Right so I could get you some more of the ibuprofen.
+PATIENT: Alright.
+DOCTOR: Uh and then has anyone ever checked your cholesterol?
+PATIENT: Well a long time ago.
+DOCTOR: Alright so they just checked it last year.  Your cholesterol looks really good.
+PATIENT: Thank you.
+DOCTOR: You're doing something right.  You probably walk a lot every day don't you?
+PATIENT: Well I paint houses.
+DOCTOR: You do what?
+PATIENT: Paint houses.  You know with a cup.
+DOCTOR: Oh you paint, but you're moving a lot right?
+PATIENT: Right.
+DOCTOR: So you walk around the city quite a bit.
+PATIENT: Well yes I [REDACTED].
+DOCTOR: That's good for your heart.  That's why your cholesterol looks so good.  Okay.
+PATIENT: How, you have the numbers there?
+DOCTOR: Yep.  So the most important numbers are the bad cholesterol um.  Did anyone in your family ever die of a heart attack?
+PATIENT: Yes sir.
+DOCTOR: Who?
+PATIENT: My father.
+DOCTOR: Your father.  Uh and did anyone, do you uh smoke?
+PATIENT: Yes.
+DOCTOR: You do, how much?
+PATIENT: Um about 8 or 10.
+DOCTOR: Okay.
+PATIENT: I'm trying to do less sometimes though.
+DOCTOR: Um and you don't have diabetes right?
+PATIENT: My two, my father and my two grandmothers.
+DOCTOR: But you don't have it?
+PATIENT: Uh I hope I don't.  I have it in the family.
+DOCTOR: I don't think you do.  So yours should be less than 130 and its 111 so you're doing great.
+PATIENT: Oh.
+DOCTOR: And then your good cholesterol should be greater than 45 and it's 52.
+PATIENT: Oh.
+DOCTOR: That's also good.  Alright.
+PATIENT: And one thing that I always forget and now it's on my mind now about the prostate uh how uh, how do I say this in English uh, what the prognosis uh in the future of if I.
+DOCTOR: Right.
+PATIENT: That might get cancer?
+DOCTOR: So um has anyone in your family ever had prostate cancer?
+PATIENT: Not that I know of.
+DOCTOR: No.  And you were, so the high-risk rate for having prostate cancer is African-American and you're not African-American.   You have no family history of prostate cancer um so even if we, there's two tests you can do.  There's a blood test and then you can do an exam where you have to stick a finger in your butt to feel your prostate and based on what we find on those sometimes they recommend biopsies but there's a lot of evidence that shows that we end up biopsying too many people and causing more problems than we're actually helping people.
+PATIENT: Hmm.
+DOCTOR: So I would not recommend we even do that.  I think your prostate problem is very normal for someone your age and you don't have any family history of problems so I wouldn't want to go any further down that road okay.
+PATIENT: Okay.  Um [REDACTED] generally in the population.
+DOCTOR: Uh-huh.
+PATIENT: How, like a percent that you know.
+DOCTOR: Right, right.
+PATIENT: Give me a statistic.
+DOCTOR: So if you um, if everyone so let's do like 90, if you cut them open when they die and looked at their prostate, almost all of them would have prostate cancer.  But in most people it's a very slow growing non-dangerous tumor.
+PATIENT: Hmm.
+DOCTOR: So if you, if you start drawing the blood tests on people and if you see it looks a little elevated, maybe we should do a biopsy or maybe we should take the prostate out.  You're probably gonna cause more problems with those surgical procedures than you're gonna fix because most of those people would have lived their regular, normal, completely healthy life and never had any problems with that prostate cancer okay.
+PATIENT: Oh okay, thank you so much.
+DOCTOR: So I think in you I would recommend not even testing it okay.  How many times do you have to get up at night to go to the bathroom?
+PATIENT: Before [REDACTED] a bunch of times time but.
+DOCTOR: But now that you're on the terazosin you don't?
+PATIENT: Mainly about two, three times.  Sometimes I sleep straight.
+DOCTOR: Good.
+PATIENT: [REDACTED].
+DOCTOR: Alright.  Let me go talk to my boss and we'll get you moving okay.
+PATIENT: Yes sir.
+DOCTOR: Alright I'll see you in a little bit.
+PATIENT: Alright sir.  I wait outside?
+DOCTOR: You what?  You can wait right here, you're fine.
+PATIENT: Oh okay.
+(DOCTOR OUT:  56:19  DOCTOR IN:  61:55)
+DOCTOR: Alright so here's what we're gonna do today.  When you leave you can schedule your follow-up appointment here um, just go out front and tell them you need to come back in six months right and then whenever you're ready to try the Outpatient Rehab Program, do you know where the PACC is, right across from the ER, you can just walk in there any day.  Okay I'll put the consult in the computer and they'll be ready for you whenever um you want to show up and then you want, we'll get you the ibuprofen, the NIX hair wash and then you need some of the omeprazole for your stomach, for your reflux okay, we'll get that as well.  Alright.
+PATIENT: Thank you.
+DOCTOR: Anything else?
+PATIENT: Not right now, I don't think so.
+DOCTOR: Alright.  I'll see you back in six months okay.
+PATIENT: Alright sir.
+DOCTOR: Alright.  It was good to see you, take care of yourself okay.
+PATIENT: Thank you very much.
+DOCTOR: You're welcome.  Take care now.
+PATIENT: Alright, have a good night now.
+DOCTOR: You too.
+PATIENT: 63:37.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275403
+TRANSACTION # 578-10-2-316-0103

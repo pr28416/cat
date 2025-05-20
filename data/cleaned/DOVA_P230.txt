@@ -1,0 +1,263 @@
+DOCTOR: PATIENT?
+PATIENT: How are you doctor?
+DOCTOR: Good, how are you sir?
+PATIENT: Fine.  It's been a while since I've been here.
+DOCTOR: It's been a while, sorry to keep you waiting.
+PATIENT: Well I had to cancel twice before so I'm kind of running out of prescriptions.
+DOCTOR: Oh sure.  No problem.
+PATIENT: I made it a point to make it for this one.
+DOCTOR: Well thanks and I'm sorry but we had some add-ons today.  One of the other doctors had to cancel their clinic so it backed me up just a little bit.
+PATIENT: Okay.
+DOCTOR: Let me get your chart over here.
+PATIENT: Okay.
+DOCTOR: How have you been?
+PATIENT: I've been fine so far.
+DOCTOR: Good.
+PATIENT: So far so good.  Putting a lot of hours as a bank guard.  Averaging anywhere from 55-60 hours a week so.
+DOCTOR: Wow, that's a lot.
+PATIENT: A lot of standing.  Yeah.
+DOCTOR: But it's nice to have a job.
+PATIENT: That's true.
+DOCTOR: Um cause you uh, that's a lot of work for a retired.
+PATIENT: Yeah well twice I did retire.
+DOCTOR: Yeah.
+PATIENT: But I went back to work.  I got tired of sitting around.  Only so much painting and fishing you could do.
+DOCTOR: Well you probably, you know people that have things to do live longer.
+PATIENT: That's true.  If you're going to be a couch potato you're going to be dead in a year.  You got to keep moving.
+DOCTOR: Alright.  So I saw you last February is that right?
+PATIENT: Correct.
+DOCTOR: Alright and let's see what we did for you then.
+PATIENT: Oh you gave me a flu shot and I got another one today.
+DOCTOR: Good.  And you had your eyes checked?
+PATIENT: Yep.  [REDACTED].
+DOCTOR: Every thing’s okay?
+PATIENT: Every thing’s fine so far.  I got an appointment to see him February the 23rd.
+DOCTOR: Okay good.  Alright and let's see here.  So you've had bypass surgery.
+PATIENT: Yes.
+DOCTOR: Uh high blood pressure?
+PATIENT: Yes.
+DOCTOR: That's about it.
+PATIENT: That's it.
+DOCTOR: About right?
+PATIENT: Right no heart attacks, uh no strokes that I'm aware of.
+DOCTOR: Good.  Good, alright.
+PATIENT: I'm pushing the big 78 come September.
+DOCTOR: Good deal.  When did you have your bypass, how old were you?
+PATIENT: Uh 98, I was in my 60s I believe, 65.
+DOCTOR: Did you have a heart attack?
+PATIENT: Nope.  Never had a heart attack.
+DOCTOR: Good.
+PATIENT: No stroke that I'm aware of.
+DOCTOR: Right you just told me that.
+PATIENT: Yeah.
+DOCTOR: Alright and your blood pressure is a little high today it looks like.
+PATIENT: Yes.  Uh I have a monitor at home and I've been getting, like I said anywhere between 160 and 180.  Uh sometimes it'll drop down to 150/60, you know so it depends.
+DOCTOR: Hmm.  And we have you taking four medications?
+PATIENT: Yes.  I've got them all listed here, simvastatin, [REDACTED], hydrochlorothiazide, metoprolol and losartan.
+DOCTOR: Losartan yeah.
+PATIENT: Uh the one that I don't need and I got plenty of is gemfibrozil.
+DOCTOR: Gemfibrozil?
+PATIENT: Yeah.  I got two of them but right now I'm low on simvastatin [REDACTED].
+DOCTOR: Okay.
+PATIENT: But we can order them I guess through the.
+DOCTOR: You want them through the mail?
+PATIENT: Yeah you can go through the mail or either I can pick them up tonight if you want.
+DOCTOR: Whatever you want.
+PATIENT: Well I'll pick them up tonight if they have them ready.  How long will it take them, about an hour?
+DOCTOR: I don't know, it depends on how many people are down there.  Whatever is most convenient for you.
+PATIENT: Well I have nothing to do so I can sit down there and wait I guess.  But since I met with you, my son one went down to [REDACTED] in March my son had a slight heart attack.
+DOCTOR: Oh I'm sorry to hear that.
+PATIENT: They did a bypass and what do you call those stents, put two stents in.
+DOCTOR: That's good.
+PATIENT: Two stents, yeah he's doing fine now.
+DOCTOR: Oh that's good.
+PATIENT: But he's on the same blood pressure medication and the whole bit.
+DOCTOR: How old is he?
+PATIENT: The youngest son is 50.
+DOCTOR: That's early to have a heart attack.
+PATIENT: Right.  Right, it runs in the family yeah.
+DOCTOR: Yeah, yeah.  Alright let's see what we got for you.
+PATIENT: See my brother had one; of course he's passed away now what six years, seven years.
+DOCTOR: So your cholesterol looks good.
+PATIENT: Uh-huh.
+DOCTOR: Um.
+PATIENT: What's the cholesterol reading?
+DOCTOR: Well that was a year ago so I may need to repeat that soon.  I don't think we need to today.  Um you've probably eaten, you've eaten today?
+PATIENT: Yeah well I cheated today, I had a hot dog and uh tamale, which I shouldn't have, I know.
+DOCTOR: What I'll do is I'm going to order a fasting cholesterol test for you.  You can come back anytime to do it, there's no rush okay.  Your cholesterol looks great.
+PATIENT: Okay.
+DOCTOR: Um and when you do come back and get the other lab I'm going to order as well.
+PATIENT: Okay.
+DOCTOR: This just checks on your kidney functions.
+PATIENT: Oh okay.
+DOCTOR: Which we need to keep an eye on because of your blood pressure.
+PATIENT: Right.
+DOCTOR: Well I'll have you sit over there.
+PATIENT: Alright.
+DOCTOR: Okay.  Check your blood pressure there.
+PATIENT: Okay, what's with the.
+DOCTOR: We'll try it.
+PATIENT: Alright.
+DOCTOR: We'll try it.
+PATIENT: She did the last time.
+DOCTOR: We'll be consistent then.
+PATIENT: Yeah.
+DOCTOR: Are you a Bears fan?
+PATIENT: Not really.
+DOCTOR: Yeah.
+PATIENT: But if they make it past this one then they deserve it.
+DOCTOR: There you go.  If they can beat Seattle right?
+PATIENT: Right.  I've been betting against them all year.  At the time I bet with them they lost.
+DOCTOR: That's right.  Lift up on the elbow a little bit.
+PATIENT: Okay.
+DOCTOR: There you go.  If you're flexed it'll make it seem higher.
+PATIENT: Yeah.
+DOCTOR: Okay that's better.  It says 130.
+PATIENT: 130 yeah it came down quite a bit.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: But at home though, at home it's 150s you said?
+PATIENT: Well I usually take it at night and I shouldn't do that, I should take it earlier in the day but I'm working during the day and these hours are something like 10 1/2 hours at the bank.
+DOCTOR: That's a lot.
+PATIENT: Right and by the time I get home, that's the only time I can take it is at night.
+DOCTOR: Yeah it's probably not the best time to read it.
+PATIENT: Right and it's at night so.
+DOCTOR: What time do you get up in the morning?
+PATIENT: I get up at 5 in the morning.
+DOCTOR: What time do you go to work?
+PATIENT: I'll be there before 8.
+DOCTOR: Could you take it before you leave for work?
+PATIENT: I could take that in the morning yeah sure.
+DOCTOR: I wouldn't do it the first time.
+PATIENT: No I wouldn't either because you got to get the blood circulating.
+DOCTOR: So do you have breakfast?
+PATIENT: Well I have a banana usually, I don't eat too much for breakfast.
+DOCTOR: Okay, so get up, have your banana and coffee, whatever.  Do you take coffee?
+PATIENT: Yeah.
+DOCTOR: Caffeine?
+PATIENT: Uh yeah regular coffee black.
+DOCTOR: How early do you have that after getting up?  First thing or?
+PATIENT: Oh maybe about 5:10, maybe 5:15, we got the timer on the coffee pot so if it's not on I'll turn it on.  [REDACTED].
+DOCTOR: So why don't you get up in the morning um.
+PATIENT: Yeah.
+DOCTOR: Wash your face or whatever you do and then uh take your blood pressure and then have your coffee.
+PATIENT: Alright, sounds good.
+DOCTOR: Hang tight for me; um I'll be right back okay.
+PATIENT: Alright.  I won't have to take a number down there for the prescriptions will I?
+DOCTOR: I don't think so.
+PATIENT: [REDACTED].
+DOCTOR: I've already put the order in and I will send them down there.
+PATIENT: Alright.
+DOCTOR: Um and when was your last colonoscopy?  Do you know?
+PATIENT: Hmm maybe three years ago.
+DOCTOR: Here?
+PATIENT: No, I got it at a doctor's office.  They had a doctor and I can't remember his name now.
+DOCTOR: Do you smoke?
+PATIENT: No I quit in '94.  '84, I'm sorry.
+DOCTOR: What about alcohol, do you use alcohol?
+PATIENT: I have a drink maybe occasionally once a week, a beer or maybe a highball or something.
+DOCTOR: Uh-huh.
+PATIENT: But nothing daily.
+DOCTOR: Uh-huh.  Okay.  And then let's see, did they do the neck exam?  It's ENT.
+PATIENT: Uh they did it here I believe.
+DOCTOR: Let's see here.  Yeah.
+PATIENT: They said something about it was going the other way cause I had one of the arteries was done on the right side and I think it's working good I guess.  The other side I guess is blocked.
+DOCTOR: And you saw the Peripheral Vascular surgeons?
+PATIENT: Uh-huh.
+DOCTOR: And they wanted to see you in one year, do you have an appointment with them, let's see.  Hmmm  You're just supposed to follow up with the vascular surgeon within the next couple months.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: That's that uh sound test again?
+DOCTOR: Yeah I think they're going to check to make sure they don't need to do anything because it was.
+PATIENT: They said there was nothing they could do.
+DOCTOR: Huh.
+PATIENT: That's what he told me the last time, so that's why I didn't.  I figured well it was working on one side, it's good enough.  When I that shuts down it's through.
+DOCTOR: Okay.
+PATIENT: But he said he got a good sound on my right side so.
+DOCTOR: Good deal.  Almost done, I just got to look up.
+PATIENT: Uh-huh oh yeah.
+DOCTOR: I got a new warning on gemfibrozil.  I want to make sure I don't miss something on that.
+PATIENT: Uh-huh.  Well I'm just taking a half a tablet every night before bed along with the other uh simvastatin.
+DOCTOR: Uh-huh.
+PATIENT: I have to take a tablet and one half at bedtime.
+DOCTOR: Okay.  I just want to make sure I get this warning here.  Okay.  Alright.  I'm going to have you get some labs in a month like we talked about.
+PATIENT: Uh-huh.
+DOCTOR: Uh and actually let me take a listen to your heart and lungs here.
+PATIENT: You want this off?
+DOCTOR: Yeah it's probably a good idea.  Snow coming down at all today?
+Any snow coming down?
+PATIENT: No snow today [REDACTED]
+DOCTOR: [REDACTED]. What bank do you work at?
+PATIENT: Uh Fifth Third.
+DOCTOR: Oh.
+PATIENT: I'm what they call a rover, well it's not just one bank it's a lot of banks that go through.
+DOCTOR: Sure.  You can leave that on, that's fine.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: A banks and uh [REDACTED] Avenue [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I'm at that one and the one at Oak Lawn, [REDACTED].
+DOCTOR: Hmm.
+PATIENT: [REDACTED] Park I'm there two days a week.  [REDACTED].
+DOCTOR: Can you breathe in?  Deep breath for me, good.  Deep breath, deep breath, good.  Do one more.  Okay.  Any pain in your abdomen at all?
+PATIENT: No.
+DOCTOR: Any muscle pains or aches?
+PATIENT: No.
+DOCTOR: Okay.  Do you have any swelling?  Are you swollen by the end of the day?
+PATIENT: No, not usually.
+DOCTOR: How's your fatigue and stress levels with uh all that work?
+PATIENT: Not too bad.  Well the feet get tired you know.
+DOCTOR: Yeah.
+PATIENT: I'm standing all the time.
+DOCTOR: Yeah.
+PATIENT: But outside of that.
+DOCTOR: And you're not too stressed?
+PATIENT: No.
+DOCTOR: Good.  Hang tight for me and I'll be right back.
+PATIENT: Okay will do.  Shirt back on?
+DOCTOR: Yeah, you're fine.
+(DOCTOR OUT:  73:00  DOCTOR IN:  77:45)
+DOCTOR: Alright.  I'm going to go up on one of your medications today.  I'm going to increase one of your medications, the amlodipine.
+PATIENT: The little one?
+DOCTOR: Yeah from 5 to 10.
+PATIENT: Okay.
+DOCTOR: Your pressures, you know if they're in the 150s and I get only 130s today but we probably need yours lower given how the extensive disease you've had.
+PATIENT: Right.
+DOCTOR: Just to keep those pressures safer for you.
+PATIENT: Okay.
+DOCTOR: And then in a month when you come back um we'll check your blood pressures to see how it's going and we'll have you get those labs, some fasting labs first and then we can see how you're cholesterol is doing and see how your kidney function is doing as well.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: Sounds good doc.
+DOCTOR: Okay.  Let me get those medications refilled for you.  I'm going to change that one.  Okay.  Okay, you're all set.
+PATIENT: Okay doc.
+DOCTOR: See you in a month.
+PATIENT: Yes sir.
+DOCTOR: Stop in sometime before that and get your blood drawn.
+PATIENT: Okay I'll do that. Uh just anywhere downstairs in the clinic or?
+DOCTOR: Um yeah you can do it on the first floor.
+PATIENT: On the first floor?
+DOCTOR: Yep, I don't know their hours but if you come early enough um.
+PATIENT: I'll be here at 8 o'clock, if I get it early enough.
+DOCTOR: Yeah and now you can just grab breakfast afterwards that way.
+PATIENT: Okay, sound good.
+DOCTOR: That way [REDACTED].
+PATIENT: Sounds good.
+DOCTOR: So um.  Okay stay warm out there.
+PATIENT: I try.
+DOCTOR: And um take this with you to check out.
+PATIENT: Oh okay.
+DOCTOR: Just hand that to them out front.
+PATIENT: Okay.
+DOCTOR: Good to see you sir.
+PATIENT: Have a good one sir.
+DOCTOR: Happy New Year.
+PATIENT: Yeah same to you and many more.
+DOCTOR: To you as well.
+PATIENT: Yes sir.
+PATIENT: 81:16
+Time is 3:54.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1246972
+TRANSACTION # 578-10-2-316-0103

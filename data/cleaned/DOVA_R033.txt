@@ -1,0 +1,167 @@
+DOCTOR: Do you have an appointment for today?
+PATIENT: Yes I do at 4 o'clock.
+DOCTOR: Okay well, it's a little bit after 4 so this.
+PATIENT: I’m not worried about that I just want to be sure to get seen.
+DOCTOR: [REDACTED].
+PATIENT: Thank you.
+DOCTOR: Hello.
+PATIENT: Hi.
+DOCTOR: How are you?
+PATIENT: Oh I could be better. [REDACTED] arthritis in the neck.
+DOCTOR: [REDACTED].
+PATIENT: It's good to meet you.  But that's why I [REDACTED].
+DOCTOR: Okay.  So you normally go to the North VA?
+PATIENT: Yeah North Chicago.
+DOCTOR: [REDACTED].
+PATIENT: Oh I moved to [REDACTED] so I transferred to the VA.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: All kinds of problems.
+DOCTOR: I'm sorry?
+PATIENT: I got all kinds of problems.
+DOCTOR: Oh.
+PATIENT: Yeah.
+DOCTOR: (Doctor spoke with someone who came to the door).  What kind of problems do you have?
+PATIENT: Diabetes uh seizures.
+DOCTOR: Uh-huh.
+PATIENT: I have a cyst on my brain.
+DOCTOR: You have a what?
+PATIENT: A cyst.
+DOCTOR: A cyst.
+PATIENT: In my brain.
+DOCTOR: Okay.
+PATIENT: Uh.  They told me I had some kind of a thromboembolism on my brain.  Uh I have arthritis in my neck and they believe they did some blood work but I left from there so I never found out [REDACTED] hips too, I have arthritis.
+DOCTOR: Okay.
+PATIENT: Um.  I got a little bit of like memory loss.
+DOCTOR: Okay.
+PATIENT: I get pretty sick. I get pretty sick. Like, Sunday, my sugar blood dropped to 54 I get these headaches in my neck that's there all the time.  I ran out of my [REDACTED] pills and my seizures have been more.
+DOCTOR: So you're not taking your [REDACTED].
+PATIENT: No I have run out of them.
+DOCTOR: Yeah.
+PATIENT: Yeah I ran out Thursday.
+DOCTOR: Okay.
+PATIENT: And um I was seeing the neurologist; I had two neurologists the one for my headache pain and he's gave me shots in the back of my neck back here.
+DOCTOR: Uh-huh.
+PATIENT: And into the [REDACTED] for my brain from my neck and those headaches I get.  My eyes are a little blurry.  I got glasses though.  [REDACTED].
+DOCTOR: So that's not you right?
+PATIENT: No.  I got my [REDACTED] medication list.
+DOCTOR: Okay [REDACTED].
+PATIENT: [REDACTED].  I wrote this one down.  These are the medications the doctor gives them to me.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: What are they doing for your headaches?
+PATIENT: Um, I was going to DOCTOR right here getting those pain shots.  I'm not sure what kind of shot they were.
+DOCTOR: Okay.
+PATIENT: Yeah that one helped with [REDACTED] pain and I was taking uh these tablets right there.  This one right here for pain.
+DOCTOR: Uh-huh.
+PATIENT: As a matter of fact I have a couple of them but this is the one that helps the most.  [REDACTED]
+DOCTOR: Looks [REDACTED].  Okay.  So you recently moved?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: I have a couple of [REDACTED] to be able to keep an eye on any of them.
+DOCTOR: So I'll you see our neurologist here okay.
+PATIENT: Okay.
+DOCTOR: Your headaches, you said they're getting worse?
+PATIENT: Yeah.
+DOCTOR: Since you stopped taking the medication.
+PATIENT: The Keppra.
+DOCTOR: The Keppra.
+PATIENT: And once I was getting the shot in the head in the back, it would help keep them away for about a week or so.
+DOCTOR: Uh-huh.
+PATIENT: When [REDACTED] they would come back [REDACTED].  Now that I ran out of Keppra they seem to come more often [REDACTED].
+DOCTOR: No seizures?
+PATIENT: No I haven't had any for a while.
+DOCTOR: When was the last time you had a seizure?
+PATIENT: Well back in January and that was the, I had a couple in January.  [REDACTED] I went to the hospital I guess.  I don't remember too much, only what they told me.
+DOCTOR: Okay.
+PATIENT: When I went to the hospital.
+DOCTOR: [REDACTED] okay.
+PATIENT: Is the insulin in there too?.
+DOCTOR: Are you taking insulin?
+PATIENT: Uh-huh.
+DOCTOR: No you don't have [REDACTED].
+PATIENT: Yeah I’m taking that.
+DOCTOR: Write that down.
+PATIENT: I have to go [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: I don't know if it's updated because as you can see some of the medication was upgraded more.
+DOCTOR: Okay do you want me to take both of these?
+PATIENT: If you want, yeah.
+DOCTOR: Okay yeah.  Do you need this here?
+PATIENT: Yeah.
+DOCTOR: Do you need this?  Okay let me write this down, write the dose down for this order, the pain medication that you're on.
+PATIENT: Oh the ones that say one tablet every 12 hours.
+DOCTOR: Yeah, but what’s the dose?  They've got the dose on the sheet here.  It's 160 okay, so I'll keep this and then I'll.
+PATIENT: I wrote down on the ones, the new one.
+DOCTOR: Okay I'll give you a year's supply of this.
+PATIENT: Okay.  Is the insulin in there?
+DOCTOR: I'm sorry?
+PATIENT: Have you got the insulin in there?  They've been really low at night.
+DOCTOR: Yes it is.
+PATIENT: Okay.
+DOCTOR: So you say your sugars are low sometimes?
+PATIENT: Yeah uh.
+DOCTOR: Is it a lot or occasionally?
+PATIENT: Uh I keep uh, [REDACTED].  They go up and down.  That one gets low on Sunday, that one right there, 54.
+DOCTOR: Uh-huh.
+PATIENT: And then I brought it back up.
+DOCTOR: Okay, so that's [REDACTED] low.
+PATIENT: Yeah.
+DOCTOR: And [REDACTED].
+PATIENT: Yeah and I to really look.  I got like critical when I go low and so.
+DOCTOR: At those times are you eating?
+PATIENT: Uh I started eating or I'll drink some orange juice.
+DOCTOR: But at the times when it was low, had you eaten?
+PATIENT: Yeah I've eaten and they still have gone low.  It’s hot in here, I’m sweating. [REDACTED] work tomorrow my toes be hurting [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].  I [REDACTED].
+DOCTOR: Give you what?
+PATIENT: A new packet [REDACTED].
+DOCTOR: [REDACTED].  Were you admitted [REDACTED]?
+PATIENT: Was I admitted?
+DOCTOR: Uh-huh.
+PATIENT: Oh I was admitted to the [REDACTED] Hospital because I had my DD214.
+DOCTOR: You had your what?
+PATIENT: Back in January I was admitted at Good Shepherd Hospital and they examined me.
+DOCTOR: Okay.
+PATIENT: That was the first time with seizures and that's when they discovered I was diabetic cause my blood sugars were in the lower 500s.
+DOCTOR: Uh-huh.
+PATIENT: And then that's when the problem started [REDACTED].
+DOCTOR: Your [REDACTED] are a little bit high, and you already have fatty liver disease. Did they ever tell you that?
+PATIENT: Oh yeah, [REDACTED]. I forgot about that.
+DOCTOR: No problem.
+PATIENT: [REDACTED] I forgot.
+DOCTOR: Okay so the big thing for you is I want you to restart your, you can have a seat here. [REDACTED] and then I'm going to have you see the neurologist [REDACTED].
+PATIENT: Oh okay.
+DOCTOR: Deep breath and deep breath.  Deep breath.  [REDACTED].
+PATIENT: [REDACTED].
+(DOCTOR OUT:  61:49  DOCTOR IN:  66:10)
+DOCTOR: Okay so that's what we'll do okay.  We'll have you come back in one month.
+PATIENT: Okay.
+DOCTOR: Hopefully. Uh make it two months.  I know you just saw your doctor over there.
+PATIENT: Okay.
+DOCTOR: Alright so we'll make it two months.  I'll have Neurology see you.
+PATIENT: Okay.
+DOCTOR: Okay um, I'll have Neurology see you.  Start the injections again and then restart the Keppra.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright and then before you come make sure you do labs okay so labs in two months.
+PATIENT: When do I have the labs?
+DOCTOR: Right before you come.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.  Are they going to give me the appointment for the neurologist?
+DOCTOR: Yeah you'll get a letter.  Just [REDACTED] here.
+PATIENT: Okay.  Alright.  Will I take this yes.
+DOCTOR: [REDACTED] um on your right hand side.
+PATIENT: Okay.
+DOCTOR: You can check out.
+PATIENT: Alright thank you.
+PATIENT: 67:14.
+Time is 4:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238124
+TRANSACTION # 578-10-2-316-0103

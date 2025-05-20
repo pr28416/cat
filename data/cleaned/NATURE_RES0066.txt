@@ -1,0 +1,102 @@
+DOCTOR: So what brings you in here to the ER?
+PATIENT: Well, I thought I should start by saying I was recently hospitalised for pneumonia. I left five days ago, but as soon as I left that evening, I started coughing again and now I have all the same symptoms. I have a cough, I'm feeling short of breath and I have a feeling like I have a fever.
+DOCTOR: OK, and before you were discharged the day, can you let me know what you had and what kind of things were you treated with?
+PATIENT: I was treated with some antibiotics, I don't know exactly which ones. They said I had some sort of bacterial pneumonia.
+DOCTOR: OK. But then it got resolved and they sent you home?
+PATIENT: Yeah, that's right.
+DOCTOR: So are your symptoms similar to when you got admitted?
+PATIENT: They are similar, but I feel like they are also worse now.
+DOCTOR: OK, worse, OK, so you're having a cough, shortness of breath and fever, and did that all start together? Or did one come before another?
+PATIENT: Um, so the cough came first, then the shortness of breath, and then the fever.
+DOCTOR: OK, and the cough, how would you describe the cough?
+PATIENT: Um, it's harsh, it's persistent.
+DOCTOR: Are you producing any sputum?
+PATIENT: Um, I guess a little bit, yeah. Yeah, I guess a little bit and it's yellow.
+DOCTOR: It's yellow, OK, do you notice any kind of blood in your sputum?
+PATIENT: No, no blood.
+DOCTOR: OK, so just yellow sputum and how much would you say you're producing an average day?
+PATIENT: Um, maybe like, 10 to 15 times in a day I produce enough to fill like the inside of my palm.
+DOCTOR: OK. And with the fever, did you get a chance to measure, take a temperature at all?
+PATIENT: Umm, no, I haven't actually taken my temperature.
+DOCTOR: OK, but you've been having chills and are you having any other symptoms?
+PATIENT: Yeah, chills. I've been feeling kind of hot during the day.
+DOCTOR: Yeah, OK. And how about the shortness of breath, is that just during activity or you can have that when you're sleeping or resting as well?
+PATIENT: The shortness of breath is more with like activity when I'm walking around.
+DOCTOR: OK. And have all these symptoms been getting worse at all?
+PATIENT: Yeah, I'd say they're getting worse now. It's like this everyday and it's definitely getting worse.
+DOCTOR: OK, do you feel dizzy or lightheaded at all?
+PATIENT: Um, no.
+DOCTOR: Do you have any muscle aches?
+PATIENT: Um, a little bit.
+DOCTOR: OK, and where on your muscles would you say are aching?
+PATIENT: I would say my lower limbs and just generally all over, but just yeah like the big muscles like my thighs, my shoulders.
+DOCTOR: OK. And have you been having any kind of swelling in your limbs at all?
+PATIENT: No, no swelling.
+DOCTOR: OK and any kind of swelling of your neck region or lymph nodes?
+PATIENT: No, not that I noticed.
+DOCTOR: OK. And do you feel any kind of chest pain with shortness of breath?
+PATIENT: Um, no nothing like that.
+DOCTOR: OK, and since you've been out of the hospital, have you been in contact with anyone who's sick?
+PATIENT: No, I went straight home.
+DOCTOR: And any recent travel?
+PATIENT: No, no recent travel.
+DOCTOR: OK, any headaches?
+PATIENT: No headaches.
+DOCTOR: Any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Any kind of fatigue or increased tiredness?
+PATIENT: I feel fatigued, yes.
+DOCTOR: OK, and do you feel at all that your heart is racing?
+PATIENT: No.
+DOCTOR: OK, and do you have any symptoms like a loss of taste, sense of taste or smell?
+PATIENT: No.
+DOCTOR: So, OK, any kind of bowel movement issues? Any constipation or diarrhea?
+PATIENT: No.
+DOCTOR: And any urinary trouble?
+PATIENT: Um, nothing like that.
+DOCTOR: OK, have you lost any weight recently?
+PATIENT: No.
+DOCTOR: Have you been able to sleep throughout the night or does the cough  wake you up or the chills wake you up?
+PATIENT: Um, no,  they don't wake me up. I wouldn't say that.
+DOCTOR: OK. Are you having any other symptoms like a sore throat, runny nose, congestion, anything like that?
+PATIENT: No.
+DOCTOR: OK, and anything in your house like dust or an old carpet or pets? Anything that triggers some of these symptoms?
+PATIENT: No.
+DOCTOR: OK. OK, and in terms of your past medical history, any conditions that you've been diagnosed with like asthma, COPD, anything like that?
+PATIENT: Um, no, nothing like that.
+DOCTOR: OK, do you take any medications?
+PATIENT: I do, I take some multivitamins particularly calcium and vitamin D, and I'm also on Synthroid.
+DOCTOR: OK, so do you have hyperthyroidism?
+PATIENT: Yeah, sorry I forgot to mention that.
+DOCTOR: No worries. Then when you went home and you were discharged, did they give you any antibiotics to finish at home?
+PATIENT: Ah yes, they did. So I only had one days worth left. I was switched from IV antibiotic  to the oral kind and so I'd finish the remaining pills that day, then went home.
+DOCTOR: OK, so you finished the course, OK. Great and do you have any past history when you were admitted, any other hospitalizations or surgeries at all?
+PATIENT: Um, no.
+DOCTOR: Do you have any family history of asthma, COPD or any lung conditions?
+PATIENT: No.
+DOCTOR: Any other conditions that run in the family?
+PATIENT: No.
+DOCTOR: OK. And currently, where do you live?
+PATIENT: I live in a house with my daughter and her husband.
+DOCTOR: OK, and any one of them have similar symptoms or have been sick recently?
+PATIENT: No.
+DOCTOR: OK, and have you had a COVID test done at all?
+PATIENT: Um, no, no COVID tests have been done. I had one in the hospital before I was admitted, but none today.
+DOCTOR: OK. And do you smoke at all?
+PATIENT: I used to smoke. I don't smoke anymore.
+DOCTOR: OK, and when did you quit?
+PATIENT: About seven years ago.
+DOCTOR: OK congratulations.
+PATIENT: Yeah.
+DOCTOR: And how much would you say you smoked before that, and for how many years?
+PATIENT: Before that, I would say it's like gosh, 20 years and then about a pack a day.
+DOCTOR: OK. Do you drink alcohol?
+PATIENT: I drink like a glass of wine a week.
+DOCTOR: OK. Any other recreational drugs like marijuana?
+PATIENT: No.
+DOCTOR: OK. Yeah, so is there anything else? Any other questions that you have for me today?
+PATIENT: No, what do you think I have?
+DOCTOR: Yeah, so there's definitely multiple things that can be going on. Since you were just recently admitted, maybe you might have another bacterial r espiratory infection, like a pneumonia or it could be viral as well. So the first thing we want to do is for sure get COVID swab done and then we will also get, since you were admitted, as well recently, we want to get an X Ray on you just to see if there's any pneumonia. OK, and so we'll be keeping you here for a bit until everything comes back. We'll get some blood work done for you as well to see if there's any infection in your body. And then yeah, so just sit tight, we'll get all those things done. Is that OK with you?
+PATIENT: Yeah, that's great. Thank you.
+DOCTOR: You're welcome, yeah. So well will be updating you shortly.
+PATIENT: OK, great, thank you.

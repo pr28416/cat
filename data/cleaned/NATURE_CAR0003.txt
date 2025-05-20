@@ -1,0 +1,123 @@
+DOCTOR: What brings you in here today?
+PATIENT: Yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out.
+DOCTOR: OK, and when did you first start feeling breathless?
+PATIENT: About two months ago.
+DOCTOR: OK, and did it come on about like gradually through time or suddenly just happened?
+PATIENT: I guess gradually, yeah.
+DOCTOR: OK. And, do you feel, uh, how often do you feel breathless?
+PATIENT: I'd say it's worse when I when I walk more than 50 meters. That's kind of the main like that's kind of the main trigger, just exertion.
+DOCTOR: OK, and were you able to walk normally more than 50 meters before two months?
+PATIENT: Yeah, three months ago I was fine.
+DOCTOR: OK. And do you have any other symptoms like cough or chest pain?
+PATIENT: I have a cough sometimes, yeah.
+DOCTOR: OK, but nothing like constant?
+PATIENT: No.
+DOCTOR: OK, and do you have any wet cough or any productive cough or are you producing like sputum or phlegm?
+PATIENT: Yeah, I guess I'd say I have this frothy sputum.
+DOCTOR: OK, and has your breathlessness been getting any worse at all over the last two months?
+PATIENT: I would say so, yes.
+DOCTOR: OK, and you mentioned like exertion makes it worse, but anything else like going outside or exposure to any chemicals that makes it worse?
+PATIENT: Uh, I don't think so.
+DOCTOR: OK, and how about a positional changes? Does lying flat at all make it worse?
+PATIENT: I would say so, yes. Yeah, I'm basically gasping for air when I lay down.
+DOCTOR: OK, and do you ever find yourself waking up at night in the middle of the night to catch your breath?
+PATIENT: No.
+DOCTOR: No, OK. And when do you feel the breathlessness the most? Is it more so during the day or at night?
+PATIENT: I guess it's worse at night because I'm laying down.
+DOCTOR: OK. Great and, in terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number?
+PATIENT: I would say like 3/4.
+DOCTOR: Three or four steps, OK. And was there anything new that happened in your life recently? Any new medical diagnosis recently? Or any travel that happened before you started having these symptoms?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and prior to two months, have you ever had any similar experiences?
+PATIENT: Prior to 2 months? No.
+DOCTOR: OK. And, does anything make it better? Like any positional changes makes the breathlessness go away?
+PATIENT: I guess when I I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better.
+DOCTOR: OK, and are you having any other symptoms like sore throat, runny nose, chest pain, dizziness, anything like that?
+PATIENT: No.
+DOCTOR: OK. Have you recently traveled outside of the country?
+PATIENT: No.
+DOCTOR: Have you recently had any surgeries?
+PATIENT: No recent surgeries, no.
+DOCTOR: OK, any headache nausea or vomiting?
+PATIENT: Um, no.
+DOCTOR: OK, any fevers or chills or night sweats.
+PATIENT: No.
+DOCTOR: OK. Do you feel increasingly fatigued throughout the day?
+PATIENT: Uh, I would say so, yeah.
+DOCTOR: OK. And any changes in your bowel movements at all?
+PATIENT: No.
+DOCTOR: OK, and any chest pain at all within the last two months?
+PATIENT: No, no chest pain.
+DOCTOR: OK. Any swelling in your in your legs, ankles, or in your hands and arms?
+PATIENT: There is some swelling.
+DOCTOR: OK, and uh, where do you, where are you getting this swelling?
+PATIENT: Around my legs.
+DOCTOR: OK, and how when did you first notice this?
+PATIENT: Around the same time actually two months ago.
+DOCTOR: OK. Have you noticed any kind of fevers at all?
+PATIENT: No.
+DOCTOR: OK. Have you been in contact with anyone that has been ill recently?
+PATIENT: No no.
+DOCTOR: OK, and have you been coughing up any blood at all?
+PATIENT: No.
+DOCTOR: OK, any weight loss?
+PATIENT: No.
+DOCTOR: Any night sweats or chills?
+PATIENT: No.
+DOCTOR: OK, apart from the breathlessness when laying down, any other issues with your sleep?
+PATIENT: No.
+DOCTOR: Any changes in your appetite?
+PATIENT: Nope.
+DOCTOR: OK, have you had any recent infections like a cold at all?
+PATIENT: No.
+DOCTOR: OK, any exposure to tuberculosis in the past?
+PATIENT: Not that I know of.
+DOCTOR: OK, any exposure to fumes or dust within your home or work environment?
+PATIENT: No.
+DOCTOR: OK, any animals or pets in the house?
+PATIENT: No, no.
+DOCTOR: OK, and in terms of your past medical history, has anyone told you that you have anything like COPD or any cardiovascular issues like high blood pressure, cholesterol?
+PATIENT: Um so, yeah, so I have high blood pressure, diabetes and high cholesterol.
+DOCTOR: OK, and do you take any medications for this?
+PATIENT: Yep, so I take aspirin, ramipril and simvastatin.
+DOCTOR: OK, and have you ever had any chest pain or heart attack in the past?
+PATIENT: Yeah, actually I had a heart attack four years ago.
+DOCTOR: OK, and do you remember what they did for your heart attack?
+PATIENT: Something like a stent or something.
+DOCTOR: OK, and since then you've been on these medications?
+PATIENT: Yes.
+DOCTOR: OK, and after they managed your heart attack, have you ever had similar symptoms to when you had your heart attack?
+PATIENT: No, no.
+DOCTOR: nothing like that? OK. Do you have any allergies to any medications?
+PATIENT: No.
+DOCTOR: Any environmental allergies?
+PATIENT: No.
+DOCTOR: OK, and have you previously had any surgeries in the past?
+PATIENT: Um, I guess the stenting.
+DOCTOR: Just the stenting? And apart from that, have you had any other previous hospitalizations?
+PATIENT: No.
+DOCTOR: OK, and any family history of any cancers or heart attacks?
+PATIENT: Um, my father died of a heart attack when he was 60.
+DOCTOR: OK. And currently do you work at all?
+PATIENT: I do, um, I work as a cashier.
+DOCTOR: OK. And has the shortness of breath been affecting your daily routine at home or at work at all?
+PATIENT: Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get short of breath.
+DOCTOR: OK. And at home, do you currently live with anyone or do you live by yourself?
+PATIENT: I live by myself.
+DOCTOR: OK, and do you live in an apartment or house?
+PATIENT: I live in an apartment.
+DOCTOR: OK, and are there any exposures like dust or mold or asbestos in your home environment?
+PATIENT: No.
+DOCTOR: OK. And currently do you smoke?
+PATIENT: Not right now. I used to smoke. I used to smoke 10 a day for like 40 years.
+DOCTOR: OK, and do you use any recreational drugs like marijuana?
+PATIENT: No.
+DOCTOR: OK. Any alcohol?
+PATIENT: No.
+DOCTOR: OK. And in terms of your daily routine, do you feel that you get 3 meals a day, a well balanced diet?
+PATIENT: I wouldn't say well balanced. I'm trying to eat healthier but doesn't always happen.
+DOCTOR: OK, and how about exercise? Do you find that your exercise levels or activity levels have gone down in the last two months?
+PATIENT: Yes.
+DOCTOR: OK. Alright, is there any other questions or concerns that you have or something I may have missed to ask you today?
+PATIENT: No, I don't think so.
+DOCTOR: OK, so based on what we talked about from your swelling as well as breathlessness while laying down and your past history of a heart attack and high cholesterol, it may be likely with the medications you are on as well as your history, that you might be having what's called congestive heart failure. So we will need to do further investigations to determine if that is what it is and if we need to get you on something like lasix or a diuretic to get rid of some of the fluid that's building up in your body, which may be caused by heart failure. So we'll do some investigations and then go from there.

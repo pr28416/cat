@@ -1,0 +1,258 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: How you doing?
+PATIENT: Hello doctor.
+DOCTOR: Good.  Have a seat right in here.
+PATIENT: Okay.
+DOCTOR: So how are things going?
+PATIENT: Very good.
+DOCTOR: What can I do for you today?
+PATIENT: Well.
+DOCTOR: [REDACTED].  You still following up with the, are you seeing the outside service, the cardiologist is that right?
+PATIENT: Yeah.
+DOCTOR: Okay.  And the endocrinologist too?
+PATIENT: Yes.
+DOCTOR: Okay, no problem.  Alright, what can I do for you today?
+PATIENT: Well I had an examination by the urologist in January.
+DOCTOR: They did see you.
+PATIENT: Yes.
+DOCTOR: [REDACTED].
+PATIENT: I had been passing a little bit of blood in the urine so they did a cystoscopy.
+DOCTOR: Yeah.
+PATIENT: And at the same time he uh did a scan of the pelvic area and discovered a small aneurysm on the renal right kidney renal artery.
+DOCTOR: What [REDACTED]?
+PATIENT: I had a PSA test which was good and a digital exam which was fine.
+DOCTOR: Okay.
+PATIENT: And uh in February visited the cardiologist.  Cholesterol was about 207.
+DOCTOR: Good.
+PATIENT: He said it should be down a little bit but not bad.
+DOCTOR: Was that the bad cholesterol or the total cholesterol do you know?
+PATIENT: Uh the basic cholesterol.  Yeah I don't have other numbers.
+DOCTOR: So it was almost 200.  Uh your number for the cholesterol.
+PATIENT: About 207.
+DOCTOR: Okay.
+PATIENT: Blood pressure I get that checked every month when I go for a walk at the shopping mall and the team from the hospital there they checked us and it's right within nice limits.
+DOCTOR: Okay.  Any other problems at all?
+PATIENT: I go to a dermatologist about every six months uh to have the.  They found something on the tip of my ear here and he removed it.  It was squamous cell carcinoma.  All these years working out in the sun as a carpenter.
+DOCTOR: Right, yeah.
+PATIENT: It did the damage.
+DOCTOR: So did they do anything or they just removed it?
+PATIENT: They removed it and sent it in for pathology.
+DOCTOR: Right.
+PATIENT: And he said to come back every six months and look it over.
+DOCTOR: Right okay.  Alright.  So which medications do you get from here?
+PATIENT: Uh various ones for the heart condition.
+DOCTOR: I mean which do you get from the VA?
+PATIENT: I'll look that up.  Uh.
+DOCTOR: Cause most of your medications are expired right?
+PATIENT: Altace 25 mg once a day.
+DOCTOR: Is this your list?
+PATIENT: Yep.
+DOCTOR: And these you get, all these you get through the VA normally?
+PATIENT: Yes I did.
+DOCTOR: Okay.  And you still want to get these through the VA?
+PATIENT: Yeah.
+DOCTOR: Is that the plan?
+PATIENT: Yeah.
+DOCTOR: You don't happen to have the list of the recent labs uh do you, from the other doctors?
+PATIENT: A list of what?
+DOCTOR: The recent lab work?
+PATIENT: No I don't.
+DOCTOR: So we might just have to repeat some of the lab work today just so we can put it into our system and I'll put the medicines you get today.
+PATIENT: Yeah.
+DOCTOR: I'll probably check everything except your cholesterol again cause that one you have to be fasting.
+PATIENT: Yeah.
+DOCTOR: But these others we can do.  When was the last time you had a bone scan do you remember?
+PATIENT: Uh.
+DOCTOR: Just to check, you're on the Fosamax.
+PATIENT: Yeah that was about a year ago I believe.
+DOCTOR: [REDACTED].
+PATIENT: And I have an appointment with the endocrinologist coming up soon.
+DOCTOR: Okay.  And you had a colonoscopy, 2005?
+PATIENT: That was exactly five years ago.
+DOCTOR: Uh-huh.  Did they see any polyps?
+PATIENT: No.  No polyps.  But slight cases of diverticulosis or diverticulitis whatever they call it.
+DOCTOR: Yeah, yeah.
+PATIENT: Nothing serious.
+DOCTOR: So you just saw the hearing aid people huh?
+PATIENT: Yes.
+DOCTOR: In January.
+PATIENT: Yeah.
+DOCTOR: Did they ever do anything about your your valves?
+PATIENT: No I've asked them about it and apparently they don't consider it serious enough to do anything.
+DOCTOR: Okay.
+PATIENT: Cause what would they do to correct this aneurysm thing?
+DOCTOR: Which aneurysm?
+PATIENT: It was on the right kidney renal artery.
+DOCTOR: Did the urologist say anything at all?
+PATIENT: That's where they first discovered it when they did the scan.
+DOCTOR: Yeah.
+PATIENT: And then the cardiologist mentioned it too but he didn't say what would be done if anything.  I have an appointment soon with a general practitioner too.
+DOCTOR: Yeah it's hard for me to day. I depends on how big it is.
+PATIENT: Yeah.
+DOCTOR: You know um, yeah I mean [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Cause the size matters.  Cause if it's big enough.
+PATIENT: Yeah.
+DOCTOR: You may have to have surgery to put like a graft in.
+PATIENT: Yeah.
+DOCTOR: You know or stent in.
+PATIENT: Yeah.
+DOCTOR: To make sure it doesn't get any bigger.  If it's like small.
+PATIENT: Yeah it is.
+DOCTOR: You just watch it. It just depends on the size.
+PATIENT: Yeah.
+DOCTOR: Yeah and uh, your H1N1, did you get a flu shot this year?
+PATIENT: Yes I had the H1N1 sometime back in.
+DOCTOR: In January huh.
+PATIENT: Somewhere in the middle of winter.
+DOCTOR: Okay just have a seat up here.  Any fevers, chills, chest pain, shortness of breath at all?
+PATIENT: No generally I'm doing real well.
+DOCTOR: How active are you normally?
+PATIENT: Pardon?
+DOCTOR: How active are you?
+PATIENT: Uh good, every morning I take a walk at least 25 minutes.
+DOCTOR: Okay.
+PATIENT: As brisk as possible.
+DOCTOR: Good.  Your blood pressure was actually pretty good today.
+PATIENT: Yeah.  I've always been very careful with diet and living habits and all that.
+DOCTOR: [REDACTED].
+PATIENT: No smoking and no drinking.
+DOCTOR: Let me look in your mouth here, say ah.  Take a deep breath in and out.  I'll have you lie back here.  I see you've probably eaten today right?
+PATIENT: I've what?
+DOCTOR: You've eaten already?  Eaten your lunch?
+PATIENT: No.
+DOCTOR: What have you had to eat today so far?
+PATIENT: Uh around 9:30 I had a couple of rye crisp crackers with a little bit of cheese.
+DOCTOR: Look up.  Do you normally eat lunch?
+PATIENT: Yes.
+DOCTOR: What happened today?
+PATIENT: Well I was just, we left about 11:30 to come here and.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Well where is Lansing?
+PATIENT: It's, if you go over towards Indiana take Route I80.
+DOCTOR: Yeah.
+PATIENT: 94, it goes through the north part of Lansing.
+DOCTOR: Oh, well Hines is pretty far for you.
+PATIENT: It's 34 miles.
+DOCTOR: You have a closer clinic if you want to go there.
+PATIENT: Uh there's one in Peotone I think it is.
+DOCTOR: Yeah.
+PATIENT: And there's one in Crown Point, Indiana.  There's a small one I think in Chicago Heights.
+DOCTOR: Yeah.
+PATIENT: But uh yeah I don't know.  I suppose I could go to one of those.
+DOCTOR: Well it's just up to you yeah.
+PATIENT: Yeah.
+DOCTOR: That's a pretty far drive um and some of the other clinics you know are coordinated with other hospitals.
+PATIENT: Yeah.
+DOCTOR: Like if like if you've gone somewhere in Indiana.
+PATIENT: Yeah.
+DOCTOR: I know like Hines would be like further south would be like Oak Lawn I think.
+PATIENT: Oh okay.
+DOCTOR: And so you know some those just kind of divide it up.
+PATIENT: Yeah.
+DOCTOR: You know and I Chicago Heights is maybe with Jesse Brown but I know Oak Lawn for sure is like with Hines.
+PATIENT: Hmm.  Chicago Heights is the St. Jane’s Hospital.
+DOCTOR: Yeah.
+PATIENT: And South Suburban is nearby and Olympia Fields.
+DOCTOR: Okay, okay.  Well maybe like if it's easier for you.  You know you could always transfer to one of the outlying clinics you know.
+PATIENT: Yeah.
+DOCTOR: Um yeah.  But the only thing I want to do today is I'll put in a renewal for your medications I just need to check some of these labs [REDACTED].
+PATIENT: Yeah I'll either mail that or fax it to you as soon as I can get that.
+DOCTOR: Um probably we can check on, the only thing I can't check today is the cholesterol.
+PATIENT: Yeah.
+DOCTOR: For the cholesterol you have to fast.
+PATIENT: Yeah.
+DOCTOR: I just need to check basic, basic labs.
+PATIENT: I see, yeah.
+DOCTOR: So you can see, I'm going to do that up here and we'll see if [REDACTED].  Um, cause I think the last labs we have here in our system is 2008.
+PATIENT: Okay.
+DOCTOR: A couple of years ago, so we should get some, you know.  Lipitor 80 mg.  No problems with the medications at all that you're aware of?
+PATIENT: No.
+DOCTOR: Okay.  Have they changed your doses recently?
+PATIENT: No they've been the same.  I asked about that and he said well we'll just stick with them for now.
+DOCTOR: Okay.  Okay let me talk to my attending I'll be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  64:44  DOCTOR IN:  71:10)
+DOCTOR: Okay, so these okay let me see.  Have been on the Lipitor for a while, have they changed the dose, do you know?
+PATIENT: Uh I am due for renewal of the prescriptions at some point.
+DOCTOR: Okay, but I mean have you changed the dose recently?
+PATIENT: No.
+DOCTOR: Okay.  So I have a couple of questions.  We need to check lab work before I can refill your medicines.
+PATIENT: Okay.
+DOCTOR: You know, what I can do, there's a couple of options.  So one thing is we can check most of the labs today um.
+PATIENT: How much what?
+DOCTOR: We could check most of the lab work today.
+PATIENT: Oh okay yeah, yeah.
+DOCTOR: So that would make all the meds okay except for the Lipitor.
+PATIENT: Oh okay.
+DOCTOR: You know, so we have a couple of options.  I could either check all the labs today and redo all of your medications through here except for the Lipitor.
+PATIENT: Okay.
+DOCTOR: And then I'd either need the records of fasting lipids you know the cholesterol.
+PATIENT: Oh yeah.
+DOCTOR: Or have you come back and do the fasting lab before I give you the Lipitor.
+PATIENT: Oh I see yeah.
+DOCTOR: Or we could just hold off and have you come back in a week or so and get all the lab work done and then I could renew all the medicines.
+PATIENT: Sure.
+DOCTOR: Which one works better for you?
+PATIENT: [REDACTED] test done, you the result.
+DOCTOR: Well what we could do is we could check all the lab work today.
+PATIENT: Okay.
+DOCTOR: Then I could refill all the meds except for the Lipitor.
+PATIENT: Okay.
+DOCTOR: Then I could just give you the fax number and you could fax over the.
+PATIENT: Sure.
+DOCTOR: Your cholesterol and then we could give you the Lipitor.
+PATIENT: Okay that'll work fine.
+DOCTOR: Okay.  Um, let's see here.  I'll have them do the labs [REDACTED].  Um so one thing is, we don't have that exact one but have an equivalent.
+PATIENT: Is that lisinopril?
+DOCTOR: Lisinopril.
+PATIENT: Yeah that's what I've been getting.
+DOCTOR: Okay.  Cause that [REDACTED].
+PATIENT: Oh okay.
+DOCTOR: I'm pretty sure.
+PATIENT: I know all of them have two or three or four names.
+DOCTOR: Right.  Um, [REDACTED] is like, I mean it's in the same class.
+PATIENT: Okay.
+DOCTOR: So I added the lisinopril 2.5.
+PATIENT: Okay it's up to you whatever.
+DOCTOR: It's equivalent.
+PATIENT: Yeah whatever gets the job done.
+DOCTOR: Let me see, lisinopril.  (Doctor working on computer)  Okay lisinopril, the Plavix, the aspirin, Fosamax, Synthroid, the lisinopril and metoprolol [REDACTED].  So today we'll do the lab work they'll do electrolytes, your lipids and thyroid.
+PATIENT: Okay.
+DOCTOR: Okay so we'll get the lab work today up here.
+PATIENT: Okay.
+DOCTOR: And then um, I'll have to give you the fax number out front um that way, we need to look at the cholesterol if you'll just fax it.  I'll have you fax it over here.
+PATIENT: Yeah okay.
+DOCTOR: Um, otherwise you know, just have you come back next year.
+PATIENT: Yeah.
+DOCTOR: Okay but if some of the other clinics are closer to you, if you'd like transfer over there.
+PATIENT: Sure.
+DOCTOR: No problem and then um you know once I get the [REDACTED] of the cholesterol I'll renew the Lipitor.
+PATIENT: Okay.
+DOCTOR: Okay and oh yeah so when you come back, if do a lot of lab work from outside doctors.
+PATIENT: Yeah.
+DOCTOR: And you don't want to repeat it, just the next time you get the lab work always get a paper copy for yourself.
+PATIENT: Okay.
+DOCTOR: And when you bring it in.
+PATIENT: Yeah.
+DOCTOR: As long as you have records of some lab work.
+PATIENT: Sure.
+DOCTOR: Then we won't have to repeat it.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Very good.
+DOCTOR: Alright, so just check the lab work and then you can send me the fax alright?
+PATIENT: Okay.
+DOCTOR: So uh.  Why don't you have a seat here.
+PATIENT: Okay.
+DOCTOR: They'll call once they're done.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: 78:53
+Time is 2:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238128
+TRANSACTION # 578-10-2-316-0103

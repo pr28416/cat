@@ -1,0 +1,127 @@
+DOCTOR: Can you tell me what brought you in here today?
+PATIENT: Sure, I've been feeling very short of breath for the past, uh, two weeks, but even before that, I started feeling a little bit short of breath and I can't stop coughing and it just feels like it's really hard for me to breathe.
+DOCTOR: OK, so this started two weeks ago?
+PATIENT: Yeah, it started two weeks ago.
+DOCTOR: OK, and you're also coughing?
+PATIENT: Yeah.
+DOCTOR: OK, and how long have you been coughing for?
+PATIENT: The same amount of time, it started about, maybe three weeks ago, I started coughing more, um, but now it's worse.
+DOCTOR: OK, and what kind of cough are you having? Is it a wet cough or a dry cough?
+PATIENT: It's definitely wet. My phlegm looks green.
+DOCTOR: OK, and how long have you noticed it being green?
+PATIENT: It's been like that for the past two weeks.
+DOCTOR: OK, and before that, were you having coughing as well?
+PATIENT: Yeah, before that I was still coughing but not as much.
+DOCTOR: OK, uhm, and was there anything that happened, uh, did you get sick at all recently, or were you in contact with anyone who was sick?
+PATIENT: No, not that I know of.
+DOCTOR: OK, any kind of fevers at all?
+PATIENT: No, no fevers.
+DOCTOR: OK. Have you noticed any kind of, uh, coughing up blood or blood tinged sputum at all?
+PATIENT: Uhm no not that, no blood.
+DOCTOR: OK, and how much sputum are you bringing up in an average day now?
+PATIENT: Uhm, I'm bringing up about, I'd say it would fill like two, two of my palms, like the inside of my palm.
+DOCTOR: OK. Alright, and is your coughing like constant or does it come and go?
+PATIENT: It's pretty constant now.
+DOCTOR: OK. And have you had at all any kind of, uh, fevers or anything like that?
+PATIENT: No fevers.
+DOCTOR: OK, and how about your shortness of breath? Is that, when does that happen? Is it mainly with exercise and exertion, or can it happen even when you're just going on about your day?
+PATIENT: Uhm, its, uh, ok, its more with exertion, but right now even at rest, I'm coughing and feeling short of breath.
+DOCTOR: OK. And are you feeling at all any kind of, uh, chest tightness or pain?
+PATIENT: Uh, yeah, some chest tightness.
+DOCTOR: And is that mainly when you're coughing and short of breath or, uhm, at other times as well?
+PATIENT: Uhm, other times as well.
+DOCTOR: OK. Are you having any other, any other like, can you describe your chest pain a little bit? Is it kind of a pressure pain or is it a sharp pain, aching pain? How would you describe it?
+PATIENT: Uhm, I would say it's a, uh, it's a tightness in my chest. And it feels, I guess throbbing or achy?
+DOCTOR: OK, and does this pain, uhm, move to anywhere else or does it just stay in your chest?
+PATIENT: Uh, it just stays in my chest.
+DOCTOR: OK, have you been feeling dizzy or have you fainted at all?
+PATIENT: Uh, no.
+DOCTOR: Have you been feeling increased sweating and confusion? Anything like that?
+PATIENT: No.
+DOCTOR: OK, have you felt your heart racing and anything like that?
+PATIENT: No.
+DOCTOR: OK. Alright, and is there anything that makes your symptoms better or worse?
+PATIENT: Uhm, I guess activity makes it worse, un, and like cold air, things like that.
+DOCTOR: OK. And other than that, have you recently at all traveled outside of the country or outside of the province?
+PATIENT: Uh, no. No, not recently.
+DOCTOR: OK, now are you having any wheezing at all?
+PATIENT: Uhm, some wheezing, yeah.
+DOCTOR: OK. And any kind of headaches or nausea or vomiting.
+PATIENT: No, nothing like that.
+DOCTOR: OK, and any fevers or chills.
+PATIENT: Ah, nope, nothing like that.
+DOCTOR: Any night sweats?
+PATIENT: Ah, sometimes I feel sweaty, but that's just with the shortness of breath.
+DOCTOR: OK, and how long does your shortness of breath usually last?
+PATIENT: It lasts about, uh, I don't know, I kind of feel short of breath all the time, but when it's really bad, it lasts about five-ten minutes and then it goes back to like my normal shortness of breath.
+DOCTOR: OK. And has this happened to you before?
+PATIENT: Uhm no, I don't think so.
+DOCTOR: OK.
+PATIENT: Like not, not this bad, I've always had some shortness of breath but nothing like this.
+DOCTOR: OK. And , uh, do you have any kind of diarrhea or constipation?
+PATIENT: Uhm, no nothing like that.
+DOCTOR: OK, how about fatigue?
+PATIENT: Yeah, I feel fatigued.
+DOCTOR: OK, and is that just about today or is it, do you think it's because of your shortness of breath?
+PATIENT: Yeah, it's probably cause of my shortness of breath.
+DOCTOR: Are you having any of these symptoms when you're trying to sleep?
+PATIENT: uh yeah, I think its, yeah when I'm laying down sometimes I feel more short of breath than usual, but once I shift positions it goes back to it's normal.
+DOCTOR: Ok. Is it, do you ever have to wake up at night to catch a breath or anything like that?
+PATIENT: Ah, no, it doesn't wake me up.
+DOCTOR: And have you noticed any kind of, uh, significant weight loss or anything like that recently?
+PATIENT: No.
+DOCTOR: OK, and have you at all had any changes in your appetite or anything like that?
+PATIENT: No, no change in appetite.
+DOCTOR: OK. Any exposures to any like dust, fumes or any irritants recently
+PATIENT: No.
+DOCTOR: OK And, in the past, have you been diagnosed with any medical conditions?
+PATIENT: Uhm,  just COPD, uhm, and, I also have some congestive heart failure.
+DOCTOR: OK, and when were you diagnosed with both of them?
+PATIENT: COPD I've been, I got diagnosed about seven years ago, CHF about two years ago.
+DOCTOR: OK, and uh, right now do you have any symptoms of any swelling in your extremities like legs, hands or anything like that?
+PATIENT: Some swelling in, some swelling in my legs, yeah?
+DOCTOR: OK, and do you have any kind of shortness of breath when you're lying down, at all?
+PATIENT: Uh, a little bit. Yeah, a little bit I would say.
+DOCTOR: OK. And any other medical conditions?
+PATIENT: Nope, no others.
+DOCTOR: Any allergies?
+PATIENT: No.
+DOCTOR: Any medications you're on right now?
+PATIENT: Yeah I'm on, uh, an ACE inhibitor, I'm on, uh, Spironolactone, uhm, I'm on, I have some puffers for my COPD. I believe, what do I have, I have, um, I have a long acting beta agonist. And I guess I have a short acting as well for when I need it.
+DOCTOR: OK. And do you have, so is it just the two, two puffers?
+PATIENT: Mhm.
+DOCTOR: OK, and are you using, like the blue one, the blue one more at all, are you having to use the short acting one more?
+PATIENT: I'm definitely using the short acting more, like I'm using it almost every day.
+DOCTOR: And does it help at all?
+PATIENT: Uh I4 think so.
+DOCTOR: OK yeah, so other than that, are you on any other medications?
+PATIENT: No.
+DOCTOR: No, OK. And have you been taking your Spironolactone?
+PATIENT: Yeah, I've been taking all my medications.
+DOCTOR: OK, any previous hospitalizations or surgeries?
+PATIENT: I was hospitalised two years ago for shortness of breath and some low oxygen, that's when they diagnosed me with CHF.
+DOCTOR: I see OK and did they say at all, It was caused by, like your COPD or what was it caused by? Do you remember?
+PATIENT: Uhm,  I guess just, yeah, I'm not really too sure, they said I had some heart condition and my heart isn't functioning as well as it should be. They did an echo on me.
+DOCTOR: OK, and have you at all had any kind of heart attacks or anything like that?
+PATIENT: No.
+DOCTOR: No, OK. and did they, when you were having shortness of breath, did you have a like a pneumonia or infection that you had to get antibiotics for any or anything like that?
+PATIENT: Uhm, no. Actually I might have gotten some antibiotics at one point, but not during that visit.
+DOCTOR: OK. OK, And currently right now do you smoke?
+PATIENT: No, I stopped smoking two years ago.
+DOCTOR: Yeah no, that's really good. And definitely with these symptoms and your condition that definitely helps to quit smoking whenever you can, so congratulations for that. Any alcohol at all?
+PATIENT: I drink some alcohol. I drink maybe once a week.
+DOCTOR: OK, and any recreational drugs like marijuana?
+PATIENT: I smoke once in a while.
+DOCTOR: OK, how often would you say you smoke marijuana?
+PATIENT: I smoke about a joint a week.
+DOCTOR: OK, and uh, do you use a, like the provincial marijuana, or do you have any other source, what would you say you use?
+PATIENT: I use uhm, Pardon me, what was that? Do I use?
+DOCTOR: Like uh, do you get it from a store that sells the joint?
+PATIENT: Yeah, I get it from like a medical dispensary.
+DOCTOR: OK, OK, I see. Yeah, I just want to make sure because some, if you get it from other sources there might be more irritants in there that can cause some of your symptoms and for them to get worse as well. So yeah.
+PATIENT: Oh I see, I see, OK.
+DOCTOR: Yeah, and other than that, do you have any questions or concerns at all?
+PATIENT: No, what do you think I should do from, For now?
+DOCTOR: Yeah, so right now what we're going to do is because you're having the coughing, shortness of breath, and you have a history of COPD & CHF, we definitely want to make sure that you're not having, uhm, what I think you might be having isn't just an exacerbation of your COPD, and especially with the green sputum it might be like a bacterial infection that's causing your symptoms to get worse, so we'll do all the appropriate testing, we'll do, a chest X-ray, we'll get some blood work done as well, w'ell give you some uh, Ventolin as well while you're here, and we might give you like a steroid medication as well. So we'll do some of those things right now for you to kind of help you right now, as well as do some of those tests that I mentioned. Depending on what comes back, you might require an admission to the hospital just because we want to make sure you don't go home with an exacerbation, especially with the CHF as well, we need to, we will need to get that under control because that can get worse with your COPD exacerbation as well. So we need to make sure some of that, swelling goes down, if we need to adjust your medications while you're here. So yeah, let's just, I'll get back to you, we'll do some of those testing and then see where to go from there. Is that OK?
+PATIENT: Yeah, that sounds great. Thank you.
+DOCTOR: You're welcome.

@@ -1,0 +1,361 @@
+PATIENT: Hello DOCTOR.
+DOCTOR: How are you?  You've had kind of an eventful [REDACTED] since the last time I saw you.
+PATIENT: Good.  So you read my records?
+DOCTOR: Of course.  [REDACTED].
+PATIENT: That's good, good, I'm doing good.
+DOCTOR: You had a little bit of a bleed, sorry that happened.
+PATIENT: I'm alright.
+DOCTOR: You were not on aspirin were you?
+PATIENT: No.
+DOCTOR: We do not have you on aspirin.  I wanted to make sure that we didn't.  Yeah, you weren't on the aspirin I think.  It was only like six days after I saw you.
+PATIENT: Yeah.
+DOCTOR: Did it just happen like that?
+PATIENT: No actually had had happened was that.
+DOCTOR: You hit your head?
+PATIENT: I was uh playing with my grandson.
+DOCTOR: Oh.
+PATIENT: And I flipped backwards and I hit my head.
+DOCTOR: Got it.
+PATIENT: And uh.
+DOCTOR: That makes more sense.
+PATIENT: So I thought uh, well what the heck, you know I've hit my head many times so what's the difference.  So I went to a primary doctor outside and they gave me some painkillers and I was having some headaches on and off until one day I got out of bed and I couldn't even put my foot in my slipper.  I called here and I gave them all the information.  They tell me if that's the case come right up so when they opened my head, there was a previous.
+DOCTOR: It was an old one.
+PATIENT: Old one in there but uh they stuck in a drain when I conked my head the headaches stopped.  So I got a drain here and a drain here and.
+DOCTOR: What did they think the old one was from?
+PATIENT: I have no idea, wouldn't know, you know.
+DOCTOR: But they thought they saw some lesions in there.
+PATIENT: I don't know, that's a lot of them.  My kids know more because for three or four days I had no idea.
+DOCTOR: How are you feeling now?
+PATIENT: I feel fine.  I feel fine.  I feel good.  Sometimes I, I don't know when I open my eyes wide open.
+DOCTOR: Uh-huh.
+PATIENT: I feel like I'm stretching but all in all I feel, I feel good.
+DOCTOR: What meds are you on right now?
+PATIENT: Medication?  Okay I have simvastatin.
+DOCTOR: Okay.
+PATIENT: Uh I take a vitamin [REDACTED].
+DOCTOR: Vitamin D, I have you on vitamin D.
+PATIENT: This one here was prescribed by the hospital here and I did manage to get an order for the [REDACTED].
+DOCTOR: Expired.
+PATIENT: It expired.
+DOCTOR: So are you taking it?
+PATIENT: Well you have to decide uh based on my blood pressure.
+DOCTOR: Right.  I read the note by the neurosurgeon.
+PATIENT: Yeah.  A little bit high there.
+DOCTOR: Are you on it now?
+PATIENT: No.  I haven't taken it for about maybe a couple of weeks.
+DOCTOR: You've been out for two weeks?
+PATIENT: Yeah I ran out.
+DOCTOR: I see your blood pressure is not that bad.  139/73.
+PATIENT: The nurse that comes to see me a couple of times a month.
+DOCTOR: Yeah.
+PATIENT: She says uh my blood pressure is perfect, 120, 123 but it's a little bit hyper sometimes, it depends on you know, I got to tell my wife not to put salt in the food.
+DOCTOR: 139/73, given your other medical problems, I'm not necessarily inclined to treat it, to be honest with you.
+PATIENT: Okay.
+DOCTOR: Um you have relatively normal kidney functions um, you're not a diabetic.  The last time you were here you were like 157/90.
+PATIENT: That was before.
+DOCTOR: Right and that is why I wanted to start it.
+PATIENT: Everything, everything is sky-rocketing and everything.
+DOCTOR: Probably there are probably a lot of reasons for that.
+PATIENT: Correct, correct.
+DOCTOR: Even if I were to start you on it, I'll do half that dose okay.  I would do the 12.5 not the 25.
+PATIENT: Hmm.  I'm taking my blood pressure myself.
+DOCTOR: When do you check it at home and what is it?  I'll check it again with this cuff.
+PATIENT: Yeah, probably lower.  Uh sometimes like in hyper, you know 130, 120.
+DOCTOR: 130.
+PATIENT: Yes, 130, 120, 124, sometimes lower.
+DOCTOR: How high does it get?
+PATIENT: Um.
+DOCTOR: Does it ever hit the 140 range?
+PATIENT: I think so, I think, not a lot though.
+DOCTOR: Once, twice.
+PATIENT: Once, twice.
+DOCTOR: When?  After activity or?
+PATIENT: After activity or after yelling at the kids.
+DOCTOR: So pretty normal reasons.
+PATIENT: Normal reasons.  But I'm pretty sure it's gonna be lower when you take it now.  I uh, I'll take the medication if I really have to but I'd rather not if I don't.
+DOCTOR: Okay, alright.
+PATIENT: Now the other one, the tamsulosin, I'm not taking that.
+DOCTOR: You're not taking the tamsulosin?
+PATIENT: No.
+DOCTOR: You stopped taking the calcium and simvastatin?
+PATIENT: Correct.
+DOCTOR: Cause tamsulosin makes you dizzy correct right?
+PATIENT: Yeah I wasn't feeling too good.
+DOCTOR: Okay.  And you've been off of that for how long?
+PATIENT: I would say a couple of months.
+DOCTOR: Are you still seeing the urologist for the prostate?
+PATIENT: Yes.  They took the PSA test the other day; they gave me a blood test.
+DOCTOR: 0.35 is what it came back.
+PATIENT: So that's good.
+DOCTOR: Good.
+PATIENT: Uh.
+DOCTOR: And you're not have, you're not having more urinary tract symptoms?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I do get up two, three times at night.  I hate that.
+DOCTOR: Oh you do.
+PATIENT: Who wouldn't?
+DOCTOR: Who wouldn't I agree.  I didn't know you were getting up at night.
+PATIENT: Yeah I did get up.  I feel the pressure you know and I don't have to urinate a lot but, the pressure is there.  It's hard to take a nap in the afternoon to relax me.
+DOCTOR: (Doctor working on computer)  Make sure your vaccinations are up-to-date but did you get a flu shot this year?
+PATIENT: Uh no, I'm gonna wait on that.
+DOCTOR: You don't want that then?
+PATIENT: Uh no, no.
+DOCTOR: Why not?
+PATIENT: Well I have mixed reasons.  Every time I take one, I catch a cold.
+DOCTOR: Okay.
+PATIENT: And with my uh situation I like to know like, play it cool, or easy.  I don't want to, I know of course you know after these, is this gonna be normal for me, is something gonna change?
+DOCTOR: What over [REDACTED].
+PATIENT: With the whole head issue.
+DOCTOR: But that happened a while ago.
+PATIENT: It's going on, over 3 1/2 months.
+DOCTOR: Right [REDACTED].
+PATIENT: So it should be okay.
+DOCTOR: It should start cooling down again.
+PATIENT: Yeah.
+DOCTOR: You not a drinker?
+PATIENT: Sometimes I do.
+DOCTOR: But you're not a smoker if I remember.
+PATIENT: No, right, about 35 years ago.
+DOCTOR: I'm just keeping track of some of this stuff I uh.  [REDACTED].
+PATIENT: I keep myself busy, I keep myself occupied.
+DOCTOR: You've had a ton of lab work recently so.
+PATIENT: Yeah.
+DOCTOR: All in all you're looking a whole lot better than I expected.  After reading some of these notes, I was a little afraid you know.
+PATIENT: Uh my kids uh were told that it was gonna be uh, not drive for about six months, I'm gonna have to use the walker.
+DOCTOR: You're walking fine.  You don’t have any neurologic deficits at all?
+PATIENT: No, no, not at all.  That's why I don't think I need the.
+DOCTOR: Gotcha.
+PATIENT: The nurse that comes in, takes my pressure once every other week.
+DOCTOR: It's been a while, the thiazide dropped your us….  When did you start taking the thiazide, back in August, the hydrochlorothiazide?
+PATIENT: Maybe.
+DOCTOR: In September.
+PATIENT: You mean for the.
+DOCTOR: Blood pressure.
+PATIENT: Oh, that's uh that's here.
+DOCTOR: Right but that was in September.
+PATIENT: In late September.
+DOCTOR: Yeah it dropped your sodium a little bit.
+PATIENT: My potassium was off, the sodium was off.
+DOCTOR: Yeah.
+PATIENT: Blood pressure was.
+DOCTOR: Let's not restart it unless we absolutely have to now.
+PATIENT: Okay.
+DOCTOR: That’s my suggestion.
+PATIENT: Alright.
+DOCTOR: You know we should do another cholesterol, I mean you might be due.  So you've been on the simvastatin for a long time?
+PATIENT: Yes, yes.
+DOCTOR: Have you been on the same dose?
+PATIENT: Yes, yes sir.
+DOCTOR: Half a pill, long-term?
+PATIENT: I would say six months, not long.
+DOCTOR: Have they ever increased it?
+PATIENT: No.
+DOCTOR: No.  I'm gonna put you on 40 once a day; just take the full 40 once a day.
+PATIENT: Okay.  The simvastatin?
+DOCTOR: Yeah instead of half a tab, just take the one tab.
+PATIENT: Take the one tab.
+DOCTOR: Yeah, alright.  It probably needs to change, really not change much.
+PATIENT: Without even checking my blood?
+DOCTOR: Well they've looked at it back in August.
+PATIENT: Oh I see, okay.  So you see in the past.
+DOCTOR: It's a little higher than I probably want it.
+PATIENT: But everything was off at that time, everything.
+DOCTOR: Yeah but do you know the cholesterol, it's usually not gonna affect the cholesterol; however, having high cholesterol puts you at risk for strokes.
+PATIENT: Uh-huh.
+DOCTOR: It's a different type of stroke.  If you’re avid to not do it, you can hold off and then recheck eventually, I'm okay with that.
+PATIENT: Well it's up to you.
+DOCTOR: No, we work together here, we're a team.
+PATIENT: I can have another blood test done, either here or outside and uh we'll uh.
+DOCTOR: Cause you know what, although we don't treat total, we generally treat the number called the LDL.
+PATIENT: Uh-huh.
+DOCTOR: You're total is, I'd like it under 200 and it's 205.  The LDL you know [REDACTED] and you do have hypertension and you've had a history of stroke I would theoretically like it [REDACTED] under 100.
+PATIENT: Alright.
+DOCTOR: Okay?
+PATIENT: You the man, you're the doctor.
+DOCTOR: Okay, so we will go, let's go up to 40.
+PATIENT: Take the whole thing?
+DOCTOR: Yes.
+PATIENT: Okay.
+DOCTOR: I think, it's not, you're not gonna feel any different.  It's not, if you're feeling, if we checked it and its a little lower, then I think we can just track that down.
+PATIENT: Okay.
+DOCTOR: But having a little bit too low of cholesterol with medication is not a bad thing.
+PATIENT: Okay.
+DOCTOR: Okay?
+PATIENT: So, yeah I do have another bottle, full bottle at home.
+DOCTOR: Okay, I'll change it, they might send you more but you can always tell them not to.
+PATIENT: Well you know by taking in half, you know it lasts quite a long time.
+DOCTOR: So we'll put that in for you today.  You never made it to Greece then.
+PATIENT: No (laughter).
+DOCTOR: I'm really sorry about that.  That's a shame.
+PATIENT: Alright, there's no way.
+DOCTOR: I was reading here in my notes.  I read it before I came in, return in three montha after patient returns from Greece.
+PATIENT: Greece yeah and in a way I'm glad I didn't because if I would, if I would have got on the airplane, I probably would have died.
+DOCTOR: You might have, I think so, you head your head though, would you have hit your head?
+PATIENT: What do you mean?
+DOCTOR: Well you said you hit your hit your head a couple of days before you had the symptoms.
+PATIENT: No that was about maybe a couple of months.
+DOCTOR: Oh months ago you hit your head.
+PATIENT: A couple of months before I came here.
+DOCTOR: Oh so slow.
+PATIENT: Slowly things [REDACTED].  I heard the bump.
+DOCTOR: Subdurals are like that.  [REDACTED].
+PATIENT: Yeah and sometimes at night when I'd be watching TV, I couldn't hold my head someplace normal.  I didn’t know what was going on.
+DOCTOR: You never told me that at the visit that you were feeling dizzy.
+PATIENT: Uh.
+DOCTOR: Did you?
+PATIENT: I don’t think so.  I wasn't really feeling dizzy.  I was feeling uncomfortable.
+DOCTOR: Okay.
+PATIENT: Uncomfortable and I thought it was probably my neck.  I thought it was my neck and I would put heating pads on my neck and I would uh move my head this way and that away and go to bed early.  Like I said until one day I got up and I couldn't put my foot in the slipper.
+DOCTOR: Wow.
+PATIENT: Anyway.
+DOCTOR: Good for you that everything.
+PATIENT: It worked out okay.
+DOCTOR: It worked out okay.
+PATIENT: I uh, I'm thankful the people here, I'm glad I came here because I figured if I would've went outside, by the time those people find out how to get their money or who to contact for my records.
+DOCTOR: I want get a set of labs first, do you mind?
+PATIENT: No.
+DOCTOR: The hemoglobin was a little low and generally everything is coming back normal.  I'll recheck your cholesterol too.  You have to be fasting but that's okay.
+PATIENT: That's okay.
+DOCTOR: Its okay, it's not gonna give me the best information but it'll give me some information.
+PATIENT: Alright.  So I should take the blood test then.
+DOCTOR: Yeah we'll get some blood [REDACTED].  Um, alright hop up over here.  Since we're done with the chatting, just the exam alright.
+PATIENT: Okay, should I take anything off?
+DOCTOR: Yeah, your jacket.
+PATIENT: [REDACTED].
+DOCTOR: That's fine.  If you don't mind unbutton [REDACTED].  Any rash or skin changes or anything like that that you've noticed?  Okay.  Alright, shoes.  Give me a deep breath.  Okay.  Good.  Deep breath and hold it, good.  Another deep breath and hold it.  Say ah.
+PATIENT: Ah.
+DOCTOR: Good.  Stick your tongue out for me, good.  No sorness? [REDACTED].  Are you eating good?  Okay.
+PATIENT: Yes.
+DOCTOR: No loss of appetite?
+PATIENT: I don't think so, I eat good.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Huh?
+PATIENT: I did have a doctor outside.
+DOCTOR: Okay.
+PATIENT: But if he won't accept HMO, so I said heck with it and I made an appointment here.
+DOCTOR: To see the eye doctor?
+PATIENT: Yeah.
+DOCTOR: The heck with it! (laughs) Oh oops, I'm sorry, what's going on there? (Blood pressure cuff giving problems)
+PATIENT: (Laughter).
+DOCTOR: Shame on me.  [REDACTED] anything.
+PATIENT: (Laughter).
+DOCTOR: Not the devices problem, it's my problem.  I don't like the automated machines they use out there.
+PATIENT: Oh.
+DOCTOR: Cause sometimes it doesn't give you accurate numbers.  A little bit higher.
+PATIENT: What?  What'd you find?
+DOCTOR: I got like 143/85.
+PATIENT: Okay.
+DOCTOR: So we might have to put you on the low dose of that medicine alright?  Um and then in two weeks what we'll do is we'll bring you back for another blood pressure and uh we will check a lab at that time and make sure your potassium and everything is not out of whack.
+PATIENT: Okay.
+DOCTOR: Okay, so we'll get, we should get a baseline today [REDACTED].  Okay?
+PATIENT: I got to take a blood test today?
+DOCTOR: You will cause I want to have something to compare.  Your last one was while you were in the hospital.  Some of the lab work was a little funky.
+PATIENT: Yeah.
+DOCTOR: I want to make sure everything has kind of gotten better.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: And then uh, you're gonna mail these.
+DOCTOR: Well if you want, you could pick it up today.
+PATIENT: Uh-huh.
+DOCTOR: Okay and for example if that blood pressure medication is doing weird things to your system, we have others okay.
+PATIENT: It didn't do anything wrong.
+DOCTOR: Okay.  Well no sometimes it can make the potassium go down, it can slow your heart rate.
+PATIENT: Oh, oh I see.
+DOCTOR: We don't want that to happen.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: Hang tight and I'll have you out of here in about three minutes.
+PATIENT: Stay here?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: For now.
+(DOCTOR OUT:  61:29  DOCTOR IN:  67:36
+PATIENT: So.
+DOCTOR: So, I mean everything is set.
+PATIENT: Okay.
+DOCTOR: Um we're gonna put you on the hydrochlorothiazide, that pill that you were taking.
+PATIENT: Uh-huh.
+DOCTOR: 12.5 mg okay.
+PATIENT: Yeah.
+DOCTOR: Half a pill.
+PATIENT: Uh-huh.
+DOCTOR: And then the cholesterol pill.
+PATIENT: The whole.
+DOCTOR: Whole 40 mg.
+PATIENT: Okay.
+DOCTOR: Um I'll either have this be mailed to you or you can pick it up today, what would you prefer?
+PATIENT: You can mail it.
+DOCTOR: I'll mail it.
+PATIENT: Okay [REDACTED].
+DOCTOR: And then I'm gonna get you [REDACTED].  How long does it take if I put in the medication today, how long does it take to get out to you?
+PATIENT: Two days.
+DOCTOR: Really?
+PATIENT: Yeah.
+DOCTOR: Like Wednesday through Thursday you'll have it?
+PATIENT: Wednesday [REDACTED].
+DOCTOR: Well I want you on the medication for at least a week before they check this stuff okay.
+PATIENT: Yes she's gonna come in and check to make sure and.
+DOCTOR: Draw labs uh-huh.  Does she draw labs?
+PATIENT: She could.
+DOCTOR: Is that from the VA?
+PATIENT: I have no idea of where those people come from uh.
+DOCTOR: Well if you can come here, why don't you come here.
+PATIENT: You want me to come here?
+DOCTOR: It would be preferred yeah.
+PATIENT: I can come.
+DOCTOR: It'd be better [REDACTED] to have you come here.  Um otherwise they can set it up for you to get it at home.
+PATIENT: [REDACTED].
+DOCTOR: The nurses.
+PATIENT: The nurses can get a blood draw.  I can, I can come here early.  [REDACTED] Monday, should I come in Monday?
+DOCTOR: No we can give the blood today.
+PATIENT: Today.
+DOCTOR: But there's gonna be [REDACTED] we need to recheck your blood pressure too.
+PATIENT: Oh.
+DOCTOR: To make sure, cause sometimes this medication can cause your sodium to drop.
+PATIENT: Okay.
+DOCTOR: And it can cause your potassium to drop.  There are side effects that we keep an eye on, especially given the recent head you know issues, I want to make sure that everything a) is back to normal now and b) it stays normal after we start the meds.
+PATIENT: Okay.
+DOCTOR: Okay?
+PATIENT: Good.
+DOCTOR: Three weeks and then three months with me.
+PATIENT: Okay.  Uh, I'm gonna be notified.
+DOCTOR: For sure.  Uh you want to go to the Lab today?
+PATIENT: Today yeah.  Who gets this?
+DOCTOR: That goes back to the front desk.
+PATIENT: Okay.
+DOCTOR: Alright?
+PATIENT: That's all I need?
+DOCTOR: Yeah, we're good.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  That sounds very nice.
+PATIENT: Like a.
+DOCTOR: I better remember that.  That sounds very [REDACTED].
+PATIENT: What that means.
+DOCTOR: That was closer to what I [REDACTED] when I first got to call you, I was going to say PATIENT
+PATIENT: PATIENT.
+DOCTOR: What does that mean?
+PATIENT: It means when you're facing the sun.
+DOCTOR: Okay.
+PATIENT: You're PATIENT, in Greek you know the sun is called idios.
+DOCTOR: Idios.
+PATIENT: PATIENT, so if you are facing the sun, you are PATIENT, like sunny side.
+DOCTOR: Sunny side up.
+PATIENT: Okay, so that's what, but I think my uh you know people before me, were probably cold and they were waiting for the sun to come up so they warm themselves up so they were facing the sun.  But anyway.
+DOCTOR: That's very interesting.  I never heard [REDACTED].
+PATIENT: But uh that's what it is, so I left it.  A lot of people asked me to change it but I wasn't going to change it.
+DOCTOR: Okay, it's a beautiful name.
+PATIENT: Leave it alone, thank you very much.
+DOCTOR: Take care.
+PATIENT: Okay doctor.
+DOCTOR: [REDACTED].
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: 71:16
+Time is 3:40.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235330
+TRANSACTION # 578-10-2-316-0103

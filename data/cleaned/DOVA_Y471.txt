@@ -1,0 +1,410 @@
+DOCTOR: PATIENT?
+PATIENT: Oh.
+DOCTOR: [REDACTED].
+PATIENT: Yes it is thank you.  [REDACTED].
+DOCTOR: I'm DOCTOR, nice to meet you.
+PATIENT: Nice to meet you.
+DOCTOR: If you want to take your coat off here, okay.
+PATIENT: Keep the hospital warm here huh.
+DOCTOR: [REDACTED].
+PATIENT: It's warm in here [REDACTED].
+DOCTOR: Oh [REDACTED].
+PATIENT: It’s like 99 degrees [REDACTED] warm.
+DOCTOR: Yeah, yes.
+PATIENT: I think it will make my blood pressure to go up too.
+DOCTOR: You see DOCTOR.  Oh what can I do for you today?
+PATIENT: I have an issue for [REDACTED] have uh osteoarthritis.
+DOCTOR: Uh-huh.
+PATIENT: In my left spine.
+DOCTOR: Okay.
+PATIENT: And for about a week and a half since, it’s been almost two weeks [REDACTED] I have pain right here in my back that radiates to my thigh.
+DOCTOR: Okay.
+PATIENT: And my thigh throbs and hurts real bad.
+DOCTOR: Okay.
+PATIENT: And I've been through an ultrasound and everything to make sure it wasn't a clot uh.
+DOCTOR: Yeah.
+PATIENT: Months and months ago.  I just wondered if you had any idea for that part of my, you know, it's the lower back is where the problem is so.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Is it more on the right side or the left side?
+PATIENT: Right side.
+DOCTOR: And you said the problem was pain.
+PATIENT: It’s like an annoying burning or something like that.
+DOCTOR: [REDACTED] okay.
+PATIENT: So.
+DOCTOR: Is that something new or have you had [REDACTED]?
+PATIENT: It happened before, it happened about six months ago but.
+DOCTOR: Okay.
+PATIENT: And especially lately.  I mean I go to a civilian doctor too and I'm service connected from here, obviously,  He got me on blood pressure pills and he got me an mesprisol.  I have a duodenal ulcer and I have a hiatal hernia.  They had me on estrozol and I put 15 pounds on in a month.
+DOCTOR: Okay.
+PATIENT: Easily in a month, month and a half.  I know I gained weight since I got out of the navy. But I don’t know if it’s causing so much of my back problem.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED].
+DOCTOR: Does it make it difficult to walk at all?
+PATIENT: Uh it's more of just an annoying pain you know.
+DOCTOR: Do you get it every day?
+PATIENT: Uh almost every day yeah.  It comes and goes.
+DOCTOR: What makes it worse?
+PATIENT: Standing, walking.
+DOCTOR: Uh-huh and what makes it better?
+PATIENT: Laying down, relaxing you know.
+DOCTOR: Do you take anything for the pain?
+PATIENT: I was taking Naproxen.  I had a doctor that gave me some pills and.
+DOCTOR: Uh-huh.
+PATIENT: I didn't really took them because the pain went away.  I'm taking 500 mg of Naproxen.
+DOCTOR: Does it help at all?
+PATIENT: A little bit not much.
+DOCTOR: Okay.
+PATIENT: But uh I do, I work in an industrial environment.
+DOCTOR: Uh-huh.
+PATIENT: He gave me Flexeril and.
+DOCTOR: Did that help?
+PATIENT: I didn’t take it.
+DOCTOR: Okay.
+PATIENT: In my environment I couldn't take it so.
+DOCTOR: Alright [REDACTED].
+PATIENT: And I'm not going to take it unless I have pain, you know.
+DOCTOR: Exactly, okay.  Um any problems going to the bathroom, either constipated or you go and can't make it to the bathroom on time?
+PATIENT: No, no.  Like I said I have [REDACTED] to go, I get a lot of gas and.
+DOCTOR: Okay.
+PATIENT: Sort of right groin pain.
+DOCTOR: Okay.  Right groin pain.
+PATIENT: A little bit, not heavy, it's mostly active when I have the pain here.
+DOCTOR: Okay.  Um and any difficulty urinating?
+PATIENT: No.
+DOCTOR: Okay or any incontinence at all?  Any numbness from your like around your anal area at all?
+PATIENT: No, no.
+DOCTOR: Okay.  And um and nothing in your left leg?
+PATIENT: No not that I know.
+DOCTOR: Uh-huh, okay um I need to see you bend the left.  [REDACTED].
+PATIENT: Are you gonna graduate in December?
+DOCTOR: November 09.
+PATIENT: November.
+DOCTOR: 09, yeah, almost December.
+PATIENT: I also have another issue.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] one at a time.   I have a mole on my neck I want to get removed.
+DOCTOR: Okay.
+PATIENT: It really bothers me.  I keep picking it [REDACTED].
+DOCTOR: Okay.
+PATIENT: And it hurts.
+DOCTOR: Okay, okay.  Has it changed in size?
+PATIENT: Yes it has.  It's gotten a lot larger I'd like for you to look at it.
+DOCTOR: Okay.
+PATIENT: And I have a bunch of little ones around it now too, sort of weird.
+DOCTOR: And your civilian doctor you said, have they checked for your glucose levels?
+PATIENT: They've done a lot of testing.  I have quite.  I'm on Novena and cholesterol meds as well cause I have high cholesterol.
+DOCTOR: Okay.
+PATIENT: Um.
+DOCTOR: How about diabetes?
+PATIENT: They said I was good, I think it was 84 or something like that.
+DOCTOR: Okay.
+PATIENT: That was almost uh eight months, nine months ago though, the last time I checked.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: Okay, um.  Let me see.  Do you have a list of your medications that you're taking?
+PATIENT: Yes.
+DOCTOR: Let me see what you have on this compared to what we have here.
+PATIENT: I haven't been here in a while.
+DOCTOR: Come over here.  Can I see your list of medications?
+PATIENT: Uh I don't have a list but I can say what my meds are okay.
+DOCTOR: Oh you don't have the list, that's okay.
+PATIENT: I'm on uh 50 mg of Atnol [REDACTED] every day.
+DOCTOR: Atenolol okay.  Is that for depression?
+PATIENT: Yes.  Yes uh-huh and it's usually it works great, but I haven't taken my pill today so.
+DOCTOR: Oh okay.
+PATIENT: Probably why my blood pressure is a little high.
+DOCTOR: Okay.  It will be.
+PATIENT: Um I'm also on Levana which is fish oil, [REDACTED].
+DOCTOR: How much?
+PATIENT: It's 4 mg a day.
+DOCTOR: Okay.
+PATIENT: Oh I'm sorry 4 grams a day, 4 grams.
+DOCTOR: Okay.
+PATIENT: Milligrams a day, pretty low, 4 grams.
+DOCTOR: Okay.
+PATIENT: And I'm on Nexium 40 mg of Nexium.  I think that I, I don't know I'm putting weight on like crazy and I mean my diet is not the greatest and I don't have a lot of exercise but I mean just to put.  I work at another part-time company and I work full-time during the week and I got two kids and you know so I'm moving around a lot.  It's not like I'm just sitting there you know.
+DOCTOR: Right.
+PATIENT: And it's like as soon as I started some of these pills, I just ballooned.  I feel bloated and you know.
+DOCTOR: Well let me examine you.  If you mind taking off your shoes and socks and then taking a seat right here okay.
+PATIENT: You asked about diabetes.
+DOCTOR: Yes.
+PATIENT: Obviously a drop in sugar would be typical for diabetes right.
+DOCTOR: Um drop in sugar could, I mean you mean with dizziness?
+PATIENT: Once in a while, like just now before I was here, now my temperature’s up too I'm sweating here but um.  I have this thing where I feel sort of like I have pain in my stomach like a real hunger pain, hunger pain.
+DOCTOR: Uh-huh.
+PATIENT: And I'll start sweating and I'll start feeling shaky.
+DOCTOR: Oh okay.
+PATIENT: Like I thought that might be due.
+DOCTOR: Yeah it could be if you don't have enough insulin.
+PATIENT: Right.
+DOCTOR: To settle the sugar into the cells then your cells think that there isn't any sugar around and it could have that type of affect on you and sometimes people who have.
+PATIENT: You want my socks off too?
+DOCTOR: Yes I do.
+PATIENT: Uh you might not.
+DOCTOR: Please, you can only imagine what I smell [REDACTED].
+PATIENT: I can't stand the smell.
+DOCTOR: [REDACTED] a problem.  So uh sometimes insulin insensitivity can manifest by skin tags on the neck.
+PATIENT: I have a lot of them.
+DOCTOR: Yeah they why I asked if they checked your sugars.
+PATIENT: [REDACTED] good.  I mean I was fasting.
+DOCTOR: When was that?
+PATIENT: My God it's been a while, I think seven or eight months.
+DOCTOR: Okay.  Here have a seat.
+PATIENT: Want shirt off?
+DOCTOR: Um no let me just [REDACTED].  Let me start with [REDACTED].  [REDACTED] eyes [REDACTED].  The [REDACTED] tight.  Open and raise your eyebrows, [REDACTED].  Good. Show me your teeth.  Lifting your arms, turn your palms up, [REDACTED] good.  And the right knee lift it towards the ceiling [REDACTED].  [REDACTED].  Okay.  Push me away, good, kick me away, good.  How about turn your toes up [REDACTED].  Good.  Alright [REDACTED].  That has to do with reflexes.
+PATIENT: I had just gotten it too, recently.  [REDACTED] where I get like a shakiness I have.
+DOCTOR: Yeah.  And when was the last time you ate?
+PATIENT: Uh 11 o'clock and then I got one of those rasin bags or whatever the.
+DOCTOR: Right.  [REDACTED].  Hold your arms like this and on the count of three I want you to pull, one, two, three pull, good.  Okay one, two, three pull good and let your foot drop.  I'm going to pick it up so I can help you.
+PATIENT: Let it drop.
+DOCTOR: Just let it drop in my hand.
+PATIENT: Right.
+DOCTOR: Good, [REDACTED].  Deep breath, good and another one, good.  [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Do you feel this vibrate?
+PATIENT: Yes.
+DOCTOR: How about this?
+PATIENT: Yes.
+DOCTOR: How about this?
+PATIENT: Yes.
+DOCTOR: Good.  I'm going to lift your toe up and down, this is up, this is down, I want you to [REDACTED].
+PATIENT: Up, up, down, up, down.
+DOCTOR: Okay, so.  Go ahead and lie back please. And just let me [REDACTED] further down.  Anything when I press?  [REDACTED]?
+PATIENT: Where do I usually get the pain?
+DOCTOR: Yes.
+PATIENT: Right here.
+DOCTOR: Is there pain here when I press?
+PATIENT: Yes.  A little farther down?
+DOCTOR: Here?
+PATIENT: Right about here.
+DOCTOR: Right about there good.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Have you had any [REDACTED] there?
+PATIENT: Uh not that I know of know of.
+DOCTOR: Okay [REDACTED]. Alrighty.
+PATIENT: [REDACTED].  I actually went to a masseuse last week because of the pain.
+DOCTOR: Uh-huh.
+PATIENT: And when she would push on my low back it really hurt.
+DOCTOR: Uh-huh.
+PATIENT: But eventually it started feeling better.
+DOCTOR: Yeah, sit up uh-huh that's good.  [REDACTED].  Tell me if it hurts when I press on your bone.
+PATIENT: Right there.
+DOCTOR: There.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Right about there, I do feel a bunch of pins going up my spine.
+DOCTOR: [REDACTED].  Right here?
+PATIENT: Uh-huh and when I was little [REDACTED].  I've had this one since I was born.
+DOCTOR: Uh-huh.
+PATIENT: This one just showed up not like, maybe within a year and a half.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay, have a seat.
+PATIENT: You said diabetes can cause that?
+DOCTOR: It could, not always.
+PATIENT: Can I put my socks back on again?
+DOCTOR: So, regarding your hip and your legs.  The reason why I say hip is because groin pain a lot of times is because of a hip problem um.  When people have pain in their hip it radiates to their groin.  Now the side pain I think.
+PATIENT: Sciatica?
+DOCTOR: No, it's not sciatica.  I don't think it's sciatica at least but um it could be that you have a little bit of a disk herniation.  Cause you're telling me you have burning in that area.  Does it sometimes feel like pins and needles at all?
+PATIENT: No, burning [REDACTED].  It sometimes feels like its throbbing [REDACTED].
+DOCTOR: Right.
+PATIENT: So.
+DOCTOR: And so that makes me think its neuropathic pain like sometimes when the disk bulges and hits [REDACTED] spinal cord a little bit.  So and for that type of pain there's something called gabapentin which is for burning.
+PATIENT: Uh-huh.
+DOCTOR: Nerve pain.
+PATIENT: I’ll let you know that now that you’re saying nerves.  I've had tests on my hands.
+DOCTOR: Uh-huh.
+PATIENT: They say the nerves in my thumb are shot.
+DOCTOR: Oh, where they put the needle in there and.
+PATIENT: They put an electric shock on my hand.
+DOCTOR: Right, right.
+PATIENT: And they said the results were - I had the carpal tunnel the VA took care of.
+DOCTOR: Right.
+PATIENT: But uh doctor out there tried to put me on uh Cymbalta.
+DOCTOR: Yeah.
+PATIENT: For nerve pain.
+DOCTOR: Uh-huh.
+PATIENT: I never took it.
+DOCTOR: Okay.
+PATIENT: [REDACTED] but.
+DOCTOR: So the gabapentin, I know you said you worked with machines.
+PATIENT: I work with machines.
+DOCTOR: Gabapentin can make you sleepy but that's if you start taking it the 300 mg three times a day.  What I would recommend is the following.  I want to get uh an x-ray of your hip.
+PATIENT: Okay.
+DOCTOR: And make sure there nothing wrong like a fracture and then you have those spine films which look fine but because you are getting this neuropathic pain.  I think an MRI would be a good idea.  Are you claustrophobic?
+PATIENT: No.
+DOCTOR: Okay.  So um, have you had an MRI before?
+PATIENT: Naw.
+DOCTOR: Okay so you’re in a tube.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: My wife has them because she had a brain tumor, 11 years ago, 12 years ago.
+DOCTOR: Okay, okay.
+PATIENT: She gets them all the time.
+DOCTOR: Okay, alright.  So we'll see if you have a hard time, if you get claustrophobic or not.
+PATIENT: (Laughter)
+DOCTOR: Um, just to see if the disk is kind of radiating coming out and um, [REDACTED] test I want to do and in the meantime for this pain because of the discomfort that you're having I want to start the gabapentin and that is a dose that can be titrated up to 1000 mg three times a day.
+PATIENT: Okay.
+DOCTOR: I'm gonna start you on a lower dose though because it can really knock you out if you take it.
+PATIENT: Is this an anti-inflammatory or?
+DOCTOR: No it's not.  It is specifically for this burning, throbbing pain.
+PATIENT: Okay.
+DOCTOR: But I want you to start taking 300 mg at night.
+PATIENT: Okay.
+DOCTOR: And then.
+PATIENT: For the neuropathic pain.
+DOCTOR: [REDACTED] at night and then you build tolerance to it and then you take it twice a day, once at night for a week then twice a day
+for a week and then three times a day.
+PATIENT: Okay.
+DOCTOR: If you notice at any time that one of those doses makes you too sleepy then go back to the lower dose two times a day or one time a day.
+PATIENT: I can mix with the meds I do now?
+DOCTOR: Yeah, definitely yes.
+PATIENT: [REDACTED] I mean like I said it got real bad.  Well I had two scopes.
+DOCTOR: Uh-huh.
+PATIENT: And this Nexium, I first had uh what's that stuff called, [REDACTED] no, no it's the other.
+DOCTOR: Prilosec.
+PATIENT: Nope, nope, it’s not a [REDACTED] something else.
+DOCTOR: Lansoprazole.
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: I had that and I started getting, I had my statin at the time for my cholesterol.
+DOCTOR: Oh no.
+PATIENT: Oh yeah I took it and oh God.
+DOCTOR: Oh no.
+PATIENT: And so I started and then I lost some weight then I was looking at doing herbal stuff and it was working for a while and I DOCTOR approved that fish oil.
+DOCTOR: I'm glad you brought that up so the weight issue.
+PATIENT: Yeah.
+DOCTOR: And with any time of uh like muscular pain.  Especially if you have some disk herniation, the weight loss.
+PATIENT: Weight loss right.
+DOCTOR: The [REDACTED].
+PATIENT: Oh how do you, deal with anestrozole makes you gain weight.
+DOCTOR: Right.
+PATIENT: I know doctors say some of that is not true.
+DOCTOR: Right.
+PATIENT: But everybody that I've talked to says it’s true.
+DOCTOR: [REDACTED].
+PATIENT: 30 or 40 pounds of weight gain within a short time.
+DOCTOR: Yeah.  Um, that's why [REDACTED].  Well in terms of specifics, especially because you have [REDACTED] ulcers, [REDACTED] is important.
+PATIENT: Yes.
+DOCTOR: Um and so I know you say you've been trying to eat healthy and you move a lot at work.
+PATIENT: Definitely right.
+DOCTOR: And you have consistent activity.
+PATIENT: Right.
+DOCTOR: You know instead of short bursts.
+PATIENT: Right short bursts and whatever right.
+DOCTOR: What we usually look for is consistent activity to keep your heart rate elevated for a half an hour and so you probably work long hours as well but if there's any way that you can fit in some type of physical activity.
+PATIENT: [REDACTED].
+DOCTOR: At least three times a week and then really cut out having the Raisinettes when you come.
+PATIENT: It wasn’t Raisinettes, it was like a trail mix.
+DOCTOR: Okay, okay.
+PATIENT: The raisins, bananas, peanuts [REDACTED].
+DOCTOR: Okay, okay, that's not too bad.
+PATIENT: Sunflowers and.
+DOCTOR: [REDACTED]  But you know eating healthy so um and I'm not saying completely take you out [REDACTED] diet because then people won't do it but if you know fried foods, if you have that multiple times a day or multiple times a week just limit it to once a week.  If you have fast food every day, [REDACTED].  You know [REDACTED].
+PATIENT: I'm trying to lose some weight though.
+DOCTOR: Okay, just start and then cut out [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: So stuff like that will help and then hopefully with the losing weight and then the last thing I can give [REDACTED] offer you physical therapy.
+PATIENT: Okay.
+DOCTOR: And so they can you know show you strengthening exercises specifically you know after you get the MRI done uh, what we can do is wait to see what the MRI results are and if there are some abnormalities then Physical Therapy can work with you.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Can the MRI be on a Saturday?
+DOCTOR: I don't know.
+PATIENT: Okay.
+DOCTOR: [REDACTED] okay.
+PATIENT: Alright.  Also I have these fatty tumors down my back.
+DOCTOR: Yeah.
+PATIENT: The first one I found [REDACTED] like three years ago.
+DOCTOR: Uh-huh.
+PATIENT: I've been finding more, quite a few more.
+DOCTOR: Uh-huh.
+PATIENT: There were only certain ones that hurt.
+DOCTOR: Yeah.
+PATIENT: I [REDACTED] sort of spiky whatever.
+DOCTOR: Hmm.
+PATIENT: But they will cause some pain.
+DOCTOR: Uh-huh.
+PATIENT: But they’re uh.
+DOCTOR: Well if it's more we can refer you to the dermatologist and you can talk to them also about that.
+PATIENT: Okay.
+DOCTOR: Cause they would be [REDACTED] as well.
+PATIENT: Okay.
+DOCTOR: I need to [REDACTED] and I'll be right back.
+PATIENT: Alright.
+DOCTOR: Alright.
+PATIENT: You look awfully young for a doctor.  Are you a PA or you actually a doctor?
+DOCTOR: No I'm a doctor.
+PATIENT: You are?  You look really young.
+DOCTOR: Yeah.  [REDACTED].
+(DOCTOR OUT:  66:40  DOCTOR IN:  77:31)
+DOCTOR: Alright sir.  Sorry about that. [REDACTED]
+PATIENT: November.
+DOCTOR: [REDACTED] thoracic spine.  [REDACTED] and we want to go look at the lumbar spine, that [REDACTED] majority of more pain comes from.
+PATIENT: Okay.
+DOCTOR: So, I'm gonna order that first, do an x-ray of your lumbar spine and hip.
+PATIENT: Okay.
+DOCTOR: Based on that, then we'll decide whether or not the MRI is necessary.
+PATIENT: Yeah.
+DOCTOR: If we can see enough from there then.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  MRI um.  Do you want me to mail the medications to you or?
+PATIENT: Sure, yeah [REDACTED].
+DOCTOR: So I'd be happy to mail them to you.  So the gabapentin I will order for you.  300 mg three times a day is what you'll take.
+PATIENT: [REDACTED].
+DOCTOR: You're gonna take one pill of 300 mg for [REDACTED].  I just want you to start with taking one pill at night for a week and then twice a day for a week and then up to three times a day.
+PATIENT: Are these pain pills?
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: That should help with that type of pain.  Um.
+PATIENT: Is this like something that my body gotta build up to?  Is this going to cause dizziness or anything [REDACTED]?
+DOCTOR: No, it can cause sleepiness which is why I want you to start taking it at night so that your body can get used to it.
+PATIENT: Uh-huh.
+DOCTOR: And usually people find that they respond [REDACTED] with it but [REDACTED].
+PATIENT: Okay [REDACTED].
+DOCTOR: Oh I know, there you go.
+PATIENT: Can we get [REDACTED] blood work today.  [REDACTED] It's been a while.
+DOCTOR: Sure, which one did you want?
+PATIENT: Uh, check the cholesterol, and check the blood sugar [REDACTED].
+DOCTOR: Okay.
+PATIENT: Blood sugar for sure, check for diabetes. My dad is 60 and he’s borderline. He’s on all kinds of pills now. He used to be a heavy drinker.
+DOCTOR: But you don't drink?
+PATIENT: I do drink, but not heavily.
+DOCTOR: Okay.
+PATIENT: [REDACTED].  I work full-time for a large [REDACTED] manufacturer and I work part-time [REDACTED] media.
+DOCTOR: Oh yeah.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Oh wow.
+PATIENT: It’s fun, yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: So we might as well get a Dermatology right now and uh.
+PATIENT: What are other reasons all these skin tags would start?  I've noticed it for about a year or so.
+DOCTOR: So that I don't know.  [REDACTED].
+PATIENT: Do they have the MRIs on Saturday?
+DOCTOR: [REDACTED].  I don't know.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] at the front desk and they'll let you know.  Let's see [REDACTED].  Alright.
+PATIENT: Okay.
+DOCTOR: And they you can call back to get the results of your blood tests at any time.  After you get them drawn [REDACTED].
+PATIENT: Right.  [REDACTED].  Um and the pills?
+DOCTOR: Maybe by Wednesday.
+PATIENT: Yeah.
+DOCTOR: But no later than that.  Okay.
+PATIENT: Okay.  Sounds good, thanks doc.
+DOCTOR: No problem, I hope you feel better okay.
+PATIENT: Yeah, yeah.
+DOCTOR: And also call for the results of the x-rays too.
+PATIENT: Okay.
+DOCTOR: Just check back.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Alright take care.
+PATIENT: 83:47.
+Time is 4:05.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238083
+TRANSACTION # 578-10-2-316-0103

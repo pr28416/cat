@@ -1,0 +1,108 @@
+DOCTOR: Would you mind starting with telling me what brought you in?
+PATIENT: Sure I have had this cough for the past five days and it doesn't seem to be getting any better so I'm just here to ask you what it what it possibly could be.
+DOCTOR: Has the cough been getting any better, staying the same or getting worse over these last five days?
+PATIENT: I think it's getting worse.
+DOCTOR: Are you bringing up any any phlegm?
+PATIENT: No.
+DOCTOR: Okay, are you bringing up any blood?
+PATIENT: No.
+DOCTOR: OK, have you been coughing at night time as well? Is it interfering with your sleep? Or is the cough just during the day?
+PATIENT: Um, it is mostly during the day and in the evenings, it doesn't wake me up from sleep.
+DOCTOR: OK, and any triggers that you've notice 5 days ago or anything that changed at that time to bring on the cough?
+PATIENT: No, nothing.
+DOCTOR: OK. And have you been having any other symptoms with the cough?
+PATIENT: I have a sore throat and I feel like I can't taste things the same.
+DOCTOR: OK, um, are you having any pain with swallowing either liquids or food?
+PATIENT: Um, mostly with foods.
+DOCTOR: OK, and when did the sore throat start?
+PATIENT: It started up around the same time as my cough.
+DOCTOR: OK, and you can't taste your food as well, and when did you notice that?
+PATIENT: That was two days ago.
+DOCTOR: OK, have you noticed any any loss of smell?
+PATIENT: No, no I don't think so.
+DOCTOR: OK, and have you had any difficulties breathing or short of breath?
+PATIENT: No.
+DOCTOR: OK. And have you had any symptoms like this before?
+PATIENT: No, nothing like this.
+DOCTOR: OK. And how has your energy level been? Have you been fatigued?
+PATIENT: A little bit, yes.
+DOCTOR: OK. Have you had any changes to your vision or or hearing?
+PATIENT: No.
+DOCTOR: Any mucous or pain or discharge from either your ears or nose?
+PATIENT: No.
+DOCTOR: OK, so your nose hasn't been runny, but has it felt congested?
+PATIENT: umm, no.
+DOCTOR: OK, have you had any fevers or chills?
+PATIENT: I don't know about fevers. I guess I was feeling a little bit hot last night, but I didn't take my temperature.
+DOCTOR: OK, so possibly a fever. I will certainly check your temperature today to investigate that. Have you had any night sweats?
+PATIENT: Umm, no night sweats.
+DOCTOR: Alright. And have you had any weight loss in the last few months?
+PATIENT: No.
+DOCTOR: OK. And have you had any chest pain?
+PATIENT: No chest pain.
+DOCTOR: Have you noticed any heart palpitations or heart racing?
+PATIENT: No.
+DOCTOR: Right, OK, have you had any wheezing?
+PATIENT: No.
+DOCTOR: Alright. And have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Any nausea or vomiting?
+PATIENT: No.
+DOCTOR: OK, how about any urinary problems?
+PATIENT: No.
+DOCTOR: Problems like diarrhea or constipation?
+PATIENT: No.
+DOCTOR: OK, and any muscle aches or or body pains?
+PATIENT: No.
+DOCTOR: Have you had any rashes?
+PATIENT: No.
+DOCTOR: OK, so the cough started 5 days ago, you had a sore throat, you've been feeling a bit more tired and haven't been able to taste your food for the last couple of days.
+PATIENT: Yes.
+DOCTOR: OK. Have you been diagnosed with any medical conditions before?
+PATIENT: Um, no, I don't think so.
+DOCTOR: OK, nothing you see a physician regularly for?
+PATIENT: No.
+DOCTOR: Alright, do you take any medications?
+PATIENT: No.
+DOCTOR: Alright, do you know if you have any allergies to medications?
+PATIENT: Umm, possibly penicillin.
+DOCTOR: OK, do you know what the reaction was?
+PATIENT: I think I had a rash.
+DOCTOR: OK. Are your immunizations up to date?
+PATIENT: I think, yeah, I think so.
+DOCTOR: Excellent and any surgeries before?
+PATIENT: Umm, no.
+DOCTOR: And have you been in the hospital for any reason?
+PATIENT: Umm, no, no.
+DOCTOR: OK. And are you in school now?
+PATIENT: I'm in grade 6.
+DOCTOR: OK, cool, what's your favorite class?
+PATIENT: I would say it's math.
+DOCTOR: Awesome and has there been anybody in your class who's been sick?
+PATIENT: No, everything's virtual right now.
+DOCTOR: OK cool, so have you traveled anywhere?
+PATIENT: Umm, no.
+DOCTOR: Alright, and who are you living with?
+PATIENT: I live with two of my younger siblings and my mom and dad.
+DOCTOR: OK, and is there any physical or verbal abuse in the home?
+PATIENT: No.
+DOCTOR: OK, so you do feel safe in the home?
+PATIENT: Yes yes.
+DOCTOR: OK. And do you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: OK and I know some people in your age group might even start using other types of substances. Have you noticed anything like that, or have you used anything like that?
+PATIENT: Umm, no.
+DOCTOR: OK. And so do you drink? do you drink alcohol?
+PATIENT: I have had a sip of wine, but that's that's about it.
+DOCTOR: OK, great. And has anybody in your family had had similar symptoms?
+PATIENT: No, I don't think so.
+DOCTOR: OK, um and anybody in the family have asthma or lung conditions?
+PATIENT: I think my aunt has asthma but I was I was checked for asthma when I was younger and it turns out I don't have it.
+DOCTOR: OK, and any diseases that run in the family like genetic or congenital?
+PATIENT: I think Crohn's disease.
+DOCTOR: OK, and umm, who in the family has that?
+PATIENT: My father.
+DOCTOR: OK, so that was everything that I wanted to ask today, was there anything else you wanted to tell me?
+PATIENT: No, that's it. What do you think I have?
+DOCTOR: Well, it is sounding like it could be most likely an infectious type of process going on with the possibility of having a fever with a cough and sore throat. So we'll do a physical exam and also some investigations which will include a covid test today. Because some of these symptoms do overlap, but it could be something like the common cold. I don't know the virus that's bringing this on but it's not necessarily covid. But because we're doing the test, it will require 14 days of self isolation. We'll get back to you with the results as quickly as we can.
+PATIENT: OK, sounds great, thank you.

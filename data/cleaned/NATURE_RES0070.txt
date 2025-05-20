@@ -1,0 +1,103 @@
+DOCTOR: What brought you in today?
+PATIENT: Yeah absolutely. I have had this awful, awful headache for the past, two days I wanna say, its horrible.
+DOCTOR: OK, has the headache, uhm, stayed the same, gotten worse, gotten any better?
+PATIENT: It's only gotten worse over the past two days.
+DOCTOR: OK, and when the headache started, was it like a thunder clap, kind of worst headache of your life when it came on?
+PATIENT: No, no.
+DOCTOR: OK. Was there anything going on two days ago around the time of the headache, like did you hit your head or anything like that?
+PATIENT: No, I just, uhm, I just went out for dinner, the night before and I know that there are certain foods that can trigger my migraines, but this really feels different. It doesn't feel like my migraine.
+DOCTOR: OK. Uhm, and have you had any other associated symptoms, with the headache.
+PATIENT: I've been feeling really tired. I took the day off yesterday and today, I'm working from home, but I still decided not to get any work done today or yesterday.
+DOCTOR: OK. Uhm, and the fatigue, when did that start?
+PATIENT: I think that started yesterday morning.
+DOCTOR: OK. And sorry, back to the headache. Have you tried anything for it?
+PATIENT: I took Tylenol and Advil, but, I guess it did get better for about an hour a little bit, but it was back on again.
+DOCTOR: OK. And could you describe like where you feel the headache?
+PATIENT: Sure, yeah, so it's like right in the front. Just kind of feels like a band, just like this pressure in the front of my head.
+DOCTOR: OK, and has there been anything that's made the headache worse, like lights or, or sounds?
+PATIENT: No, no, like I said it's like nothing like my usual migraine headaches.
+DOCTOR: OK. And, I mean, the Advil or Tylenol, It helps the symptoms for a brief period, but has there been anything else that's helped your headache?
+PATIENT: No, not really.
+DOCTOR: OK. And is there any particular time of the day that the headache's worse, like, is, in the morning time when you're first waking up or later in the day?
+PATIENT: I don't think so.
+DOCTOR: OK. And have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: OK. And have you had any, like visual changes?
+PATIENT: No.
+DOCTOR: OK. Uhm, and have you had a runny nose or a sore throat?
+PATIENT: Uhm, I've had a bit of a sore throat.
+DOCTOR: OK, have you, have you had a cough?
+PATIENT: Yeah, but honestly the headache's been bothering me the most.
+DOCTOR: OK, and when did the cough start?
+PATIENT: About the same time.
+DOCTOR: OK.
+PATIENT: Maybe two days ago.
+DOCTOR: OK, and have you had any neck stiffness? Does it hurt if you, if you move your neck around?
+PATIENT: No, nothing like that.
+DOCTOR: OK, uh and with the, with the cough, have you had any difficulties breathing or shortness of breath?
+PATIENT: Maybe a little bit.
+DOCTOR: OK, how about any wheezing?
+PATIENT: No.
+DOCTOR: OK. Have you been bringing up any sputum with the cough?
+PATIENT: No.
+DOCTOR: OK, how about, any, any blood?
+PATIENT: No.
+DOCTOR: OK. And have you had any changes to your sense of smell?
+PATIENT: No.
+DOCTOR: Any changes to your sense of taste?
+PATIENT: No.
+DOCTOR: OK. Uh, and have you had any changes to your weight recently over the last several months?
+PATIENT: I don't think so.
+DOCTOR: Alright, and how is your appetite been?
+PATIENT: Uhm, it's fine.
+DOCTOR: Any chest pain?
+PATIENT: No.
+DOCTOR: OK. Uhm any lightheadedness or, or feeling dizzy?
+PATIENT: No, no.
+DOCTOR: Alright. Any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Any diarrhea?
+PATIENT: No.
+DOCTOR: Any urinary problems?
+PATIENT: No
+DOCTOR: How about , uh, have you had any muscle aches or joint pains?
+PATIENT: A little bit.
+DOCTOR: OK. And any rashes anywhere?
+PATIENT: No, no, no.
+DOCTOR: OK. And have you been diagnosed with any medical conditions before?
+PATIENT: Uhm, I have, uh, I have migraines and uh, I also have Polymyalgia rheumatica.
+DOCTOR: OK. Are you taking any medications currently, for either of those?
+PATIENT: No.
+DOCTOR: OK. And have you had any hospitalizations?
+PATIENT: No.
+DOCTOR: OK, any surgeries?
+PATIENT: No.
+DOCTOR: OK, and, uh, do you smoke cigarettes?
+PATIENT: no.
+DOCTOR: Drink alcohol?
+PATIENT: No.
+DOCTOR: OK and do you use any other, use any recreational drugs?
+PATIENT: No.
+DOCTOR: OK. And any family history of similar symptoms like, like, unusual headaches or anything like that?
+PATIENT: Well, migraines kinda run in the family.
+DOCTOR: Migraines, OK.
+PATIENT: Yeah.
+DOCTOR: And any heart conditions or cancers or anything like that in the family?
+PATIENT: No no no.
+DOCTOR: OK. And have you been around anybody who's been sick, recently? You went out for dinner a couple days ago.
+PATIENT: Yeah, uhm, I don't think anyone was sick.
+DOCTOR: OK. And you didn't feel that you had any triggers to your migraines at that time?
+PATIENT: No, I didn't. I did yes, I, I did meet up with my friends and we went out for dinner. I know we're not supposed to, but it's been such a long time.
+DOCTOR: Yeah.
+PATIENT: I don't think they were sick at the time, but I haven't really talked to them after.
+DOCTOR: OK. Have you traveled anywhere?
+PATIENT: No.
+DOCTOR: Alright. And so I don't think I asked, did you have a fever or chills?
+PATIENT: No, not really.
+DOCTOR: Oh OK. Uhm, so the symptoms you've been experiencing, you've had a headache that's been the most bothersome these, these last couple of days, which feels different than your migraines but you've also had a sore throat, a cough, shortness of breath as well as a little bit of muscle aches and fatigue over these last couple of days.
+PATIENT: Yeah that sounds right.
+DOCTOR: Is there anything else?
+PATIENT: No, no, I don't think so.
+DOCTOR: OK, umm so, I'm going to get the attending and we'll go through a physical exam and get some investigations ordered so that we can try to figure out what's going on, ok.
+PATIENT: OK, thank you.
+DOCTOR: You're welcome.

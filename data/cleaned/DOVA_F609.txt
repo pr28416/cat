@@ -1,0 +1,146 @@
+DOCTOR: My name is DOCTOR, pleased to meet you.  Um I'm one of the residents working with DOCTOR.  Um is there anything you want to discuss or address at this particular visit?
+PATIENT: The main reason that I came in was so that the VA could recertify me for my homemaker [REDACTED] my health has been deteriorating more. [REDACTED] Last time I was here [REDACTED] now this one is going I need to get cataract surgery.
+DOCTOR: Cataract surgery? [REDACTED]
+PATIENT: Multiple problems but cataracts is the first step.
+DOCTOR: And what do you mean by your health deteriorating [REDACTED]?
+PATIENT: Since I’ve been on dialysis, it stabilized me, but...
+DOCTOR: Are you still using the peritoneal dialysis?
+PATIENT: No, [REDACTED].
+DOCTOR: What do you [REDACTED]?
+PATIENT: [REDACTED] Monday, Wednesday and Friday.
+DOCTOR: Where?
+PATIENT: At Greenwood, 37th and Greenwood.
+DOCTOR: And how long have you been on that [REDACTED]
+PATIENT: [REDACTED] this is the second year going to [REDACTED].
+DOCTOR: And [REDACTED].
+PATIENT: Well I been on, you know sometimes I've been on dialysis since 2006.  I’ve been on chemo for a year. And [REDACTED] for a year and back on [REDACTED] for a yeard
+DOCTOR: And how often, so your health has been deteriorating in the past year because you were on dialysis [REDACTED].
+PATIENT:
+DOCTOR: mean [REDACTED] in the meantime.
+DOCTOR: What was that surgery for [REDACTED].
+PATIENT: There was blood in the eye [REDACTED]. And now there’s blood in this eye. Injected and that helps  But my other eye doctor, so yeah [REDACTED].
+DOCTOR: So how often, any other issues, nausea, vomiting, fevers, chills?
+PATIENT: No [REDACTED].
+DOCTOR: Any chest pain, shortness of breath?
+PATIENT: No, the only thing else I got is associated with the dialysis upset stomach, That's part of the dialysis.
+DOCTOR: Does that happen before or after?
+PATIENT: During.  [REDACTED]
+DOCTOR: And um any belly pain?
+PATIENT: Yes.
+DOCTOR: Any diarrhea or constipation?
+PATIENT: No.
+DOCTOR: Are you [REDACTED].
+PATIENT: Yes.
+DOCTOR: Any pain when you urinate?
+PATIENT: No.
+DOCTOR: How often was the homemaker coming to your house?
+PATIENT: Monday, Wednesday and Friday for three hours.
+DOCTOR: Each time?
+PATIENT: Yes.
+DOCTOR: And what was she doing for you, or he?
+PATIENT: The laundry. She washes the dishes, she washes the clothes.  Sometimes it's meal if I’m hungry [REDACTED] breakfast [REDACTED].
+DOCTOR: Okay.  [REDACTED].
+PATIENT: [REDACTED] of minoxidil, metoprolol.
+DOCTOR: Where are you getting the medicines from?
+PATIENT: Walgreens but I’m getting ready to change that because one of the pharmacists here [REDACTED].
+DOCTOR: How much minoxidil [REDACTED] do you use?
+PATIENT: [REDACTED] mental health [REDACTED].
+DOCTOR: Sure, Minoxidil and metroprolol and
+PATIENT: Metoprolol [REDACTED] all of them, but the doctor yesterday told me to cut out some of them. [REDACTED] foresemide [REDACTED]
+DOCTOR: Okay.
+PATIENT: Lisinopril, clonidine [REDACTED].  And then DOCTOR gave me [REDACTED].  I've got two [REDACTED].
+DOCTOR: Who has been giving you these medicines?
+PATIENT: The doctor?  Generally it should be DOCTOR. The kidney doctor.
+DOCTOR: At the dialysis center?
+PATIENT: At the dialysis center.
+DOCTOR: [REDACTED]?
+PATIENT: [REDACTED], heart disease, diabetes, my mother has diabetes [REDACTED] high blood pressure, my sister has M.S., my brother has high blood pressure.
+DOCTOR: Yeah.  Do you smoke?
+PATIENT: No.
+DOCTOR: Have you ever been a smoker?
+PATIENT: Yeah, in high school for about a week [REDACTED].
+DOCTOR: [REDACTED] Any drugs like heroine?
+PATIENT: No.
+DOCTOR: Do you live near Chicago?
+PATIENT: Right now, yes.
+DOCTOR: And who do you live with?
+PATIENT: My 18-year-old son.
+DOCTOR: And what’s a good phone number to contact you?
+PATIENT: NUMBER
+DOCTOR: And you’re blood pressures…
+PATIENT: Huh?
+DOCTOR: Your blood pressures are looking good.
+PATIENT: Yeah I think we finally got it under control.
+DOCTOR: [REDACTED].
+PATIENT: Yes.  Oh she told me to stop the furosemide and the uh the lisinopril.
+DOCTOR: Why?
+PATIENT: Because the pressure is so well controlled now.  It used to be like 200 over 100 and something.  And she took me off of some of the medications.
+DOCTOR: And have you had um diabetes for how long now?
+PATIENT: I don’t have diabetes anymore.
+DOCTOR: Oh.
+PATIENT: I had it, but not anymore. The dialysis [REDACTED] been perfect for the last few years.
+DOCTOR: What do you mean by perfect?
+PATIENT: I can’t tell you the numbers right now, but the A1C and the others [REDACTED] for diabetes right around 90, 89. It’s perfect and I don’t do anything to control it [REDACTED] so, it’s hard for doctors to believe that diabetes can be healed.
+DOCTOR: And you have a history of heart attack in the past.  You have um congestive heart failure and then.
+PATIENT: Now that’s what they thought, cause the last time I saw a cardiologist, about two years ago, a year and a half, he says my heart’s fine and I don’t need to come back and see him anytime.
+DOCTOR: And we don’t have labs since 2006 [REDACTED].
+PATIENT: Yeah that was the last [REDACTED].
+DOCTOR: Okay.
+PATIENT: I’d rather not get blood drawn if I can avoid it.  As a matter of fact, they are going to do labs tomorrow.
+DOCTOR: I'm going check, my hands are kind of cole, okay.
+PATIENT: Ah! You live in Chicago right?
+DOCTOR: Right exactly yeah.  Stick out your tongue for me.  [REDACTED] for me.  [REDACTED] Deep breath in and out. I’m going to push on your tummy.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] this way.  A little bit.
+PATIENT: [REDACTED].
+DOCTOR: I'm going to talk with my attending and I'll be right back okay.
+PATIENT: Okay.  I’ll be here.
+DOCTOR: Have you had a colonoscopy?
+PATIENT: Uh that's like on the schedule as part of the kidney transplant work up. That’s one of the things I have to do.  I got three things left to do. Get them all done at Rush that’s where they’re going to do the transplant.
+DOCTOR: And what are the other two things? Colonoscopy and . . .
+PATIENT: Dental check and then a psychiatric.
+DOCTOR: I'll be right back okay.
+PATIENT: [REDACTED].
+(DOCTOR OUT:  61:46  DOCTOR IN:  68:38)
+DOCTOR: [REDACTED] I mean [REDACTED] sorry.  We're going to send you to get some labs because we have nothing in our records and I understand that you’re going to get your labs done at dialysis but.
+PATIENT: Could I just sign the sheet that allows you to get a copy from dialysis [REDACTED].
+DOCTOR: No because it’s since 2006.  Um how about this, how about you take your lab results from here and take them over there.
+PATIENT: Yeah, that doesn’t work.
+DOCTOR: Yeah because we don’t have anything and it looks like all they're doing is just giving you the homemaker referral [REDACTED] and we're not following you here, that's the problem.  But all it is is just a blood test; you know you get a blood draw and then you.
+PATIENT: [REDACTED] three days a week. You can’t understand. This is the worst pain on the planet, getting a blood draw and it’s three days a week as it is.
+DOCTOR: That's what I'm uh asking you to do is go give some blood and then um how often do you usually come in here?  Cause you don't have any, you don't have any follow up on your diabetes.  I can give you any reminders um cause I don't have any records at all of what your blood sugars have been, um cholesterol numbers or any of that stored and you need to ask for your records to be sent over here, they're not in the computer.  Can you go to the Lab today?
+PATIENT: I guess I'm gonna have to, I don’t want to.
+DOCTOR: And.
+PATIENT: Everything that you all do here it costs me money. I got full insurance at the Dialysis Unit.
+DOCTOR: It would be better if they provide you with the homemaker if that’s all you’re coming here for.
+PATIENT: I don’t think they can.
+DOCTOR: How come? If you have full insurance through the [REDACTED].  And did you get the flu shot already or?
+PATIENT: No.
+DOCTOR: Do you think you’re going to get it or [REDACTED]?
+PATIENT: No I don't want it.
+DOCTOR: You don't want it?
+PATIENT: No.
+DOCTOR: No okay.  And then are you trying to lose weight.
+PATIENT: Yeah [REDACTED] enough medical stuff going on.
+DOCTOR: Yeah.  And then what’s your phone number?
+PATIENT: NUMBER
+DOCTOR: Do you have a pension?
+PATIENT: No.
+DOCTOR: Or compensation? [REDACTED]
+PATIENT: Uh Social Security.
+DOCTOR: And do you need help with bathing [REDACTED]?
+PATIENT: No I can do that now.
+DOCTOR: You just need help with shopping?
+PATIENT: Uh huh, and cleaning.
+DOCTOR: [REDACTED]
+PATIENT: [REDACTED] blood pressure [REDACTED] can’t bend over [REDACTED].
+DOCTOR: Please go get your labs done today and if there's anything the matter I'll give you a call and then um come back here in four months or so?  Sound okay, alright.  Thank you. And take these to the front desk okay.  Anything else?
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: You have [REDACTED].
+DOCTOR: Yes you too, nice seeing you.
+PATIENT: 74:58
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255178
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,213 @@
+DOCTOR: PATIENT?
+PATIENT: Right here.  How are you?
+DOCTOR: [REDACTED].  I don't think I've seen you for over a year.
+PATIENT: Yeah it's been a while.
+DOCTOR: Where have you been?
+PATIENT: I got a lot of [REDACTED].
+DOCTOR: You got [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Uh-huh.
+PATIENT: So I definitely gonna be [REDACTED].
+DOCTOR: [REDACTED].  So how long were you there?
+PATIENT: Nine months.
+DOCTOR: That's a long time.
+PATIENT: Yeah.  I need some pills for my back.  He gave me some ibuprofen 800.
+DOCTOR: Uh-huh you’re out?
+PATIENT: Yeah that is the ibuprofen.  My ibuprofen, I have acid reflux now real bad.
+DOCTOR: Okay.
+PATIENT: I need something for that and the doctor he gave me some paperwork here for uh he wanted me to go to the Substance Abuse Clinic.
+DOCTOR: Okay.
+PATIENT: See and I want to get that started so I can get them out of the way, whatever it takes.  And then I also want you to make me an appointment to see the eye doctor and foot doctor.
+DOCTOR: Alright let me make a note of this here, eye doctor, foot doctor, Substance Abuse Clinic, ibuprofen and acid reflux.  Alright.  I'll quickly put in the request for the eye doctor then and just go down everything one by one.  Tell me why you need to see the eye doctor.
+PATIENT: I had glasses.
+DOCTOR: Uh-huh.
+PATIENT: And they got misplaced so that's one of the reasons I need to see the eye doctor to get some new glasses.
+DOCTOR: Gotcha.
+PATIENT: I need glasses.
+DOCTOR: And you saw them.
+PATIENT: The foot doctor, I saw the foot doctor but the calluses have come back.
+DOCTOR: Oh.  Calluses huh.
+PATIENT: Yeah.  [REDACTED] hepatitis C.
+DOCTOR: Well uh do you have arthritis at all?
+PATIENT: Well not, it don't bother me but I have it.
+DOCTOR: Uh-huh.
+PATIENT: And I need some pills for my sex drive.
+DOCTOR: Okay.  Were you on pills for that before?
+PATIENT: No.  I [REDACTED].
+DOCTOR: You said you don't have interest or you have interest and it doesn't, you can't sustain erection?
+PATIENT: No I can't sustain an erection.  I'm interested [REDACTED].
+DOCTOR: Okay.  Okay.  I can get you some of those pills.  The VA can only mail those out; you can't pick those up here.
+PATIENT: Okay fine.
+DOCTOR: And you're limited to two pills a month.
+PATIENT: Okay.
+DOCTOR: That's, for some reason that's come down from higher up that's all we can give.
+PATIENT: That'd be fine.
+DOCTOR: So we'll do that.  We'll also check some blood work cause sometimes if there's something you know wrong in the blood that might be a reason why too and we've got to figure that out.
+PATIENT: [REDACTED] papers here [REDACTED]  It still might be an idea [REDACTED].
+DOCTOR: Oh you got this done at UIC huh?
+PATIENT: Yeah well I got it [REDACTED] UIC [REDACTED].
+DOCTOR: Oh I see.
+PATIENT: Some doctor [REDACTED].
+DOCTOR: So are you still drinking?
+PATIENT: No.
+DOCTOR: When did you stop?
+PATIENT: When I got locked up, it was a [REDACTED] day.
+DOCTOR: It looks like you're trying to stop.
+PATIENT: Yeah no drinking or smoking.
+DOCTOR: No drinking or smoking.
+PATIENT: Yeah.  That's why I'm [REDACTED] and wanted to show them to you.
+DOCTOR: Alright.  Well we actually have a Liver Clinic here that can treat people who have hepatitis C.
+PATIENT: Oh yeah.
+DOCTOR: As long as they're still not smoking or drinking they'll consider you for treatment.
+PATIENT: Okay.
+DOCTOR: It'd be great if I could get them to see you.  You're okay with seeing them?
+PATIENT: [REDACTED].
+DOCTOR: Alright well I'll ask them to make you an appointment too.
+PATIENT: Can you make it?
+DOCTOR: And what I'll do is we'll see if our clerk up front can and if they can't schedule you they'll send you something in the mail and you'll give them a call.
+PATIENT: Okay.
+DOCTOR: Whatever time that works well for both of you.
+PATIENT: Well what about this?  This substance abuse?
+DOCTOR: Yeah I'm making a referral for that one too.
+PATIENT: Let me see [REDACTED].  Yeah there [REDACTED] sixty days to sign some kind of paperwork.
+DOCTOR: I'm sure we can provide that for you.
+PATIENT: I appreciate it.
+DOCTOR: Yeah.  Okay.  And I'll make a note here um.  And is this still your phone number here, NUMBER?
+PATIENT: That's it.
+DOCTOR: Okay, [REDACTED] and what medications were you on cause I think a lot of them expired off of the list.
+PATIENT: Oh before I went in?
+DOCTOR: Yeah.
+PATIENT: Ibuprofen, that's for my back.
+DOCTOR: Okay.
+PATIENT: They gave me ibuprofen and I take it.
+DOCTOR: Were you taking anything for your blood pressure?
+PATIENT: No.  Never have.
+DOCTOR: You were on.
+PATIENT: I wasn't [REDACTED] it was [REDACTED].  I wasn't even taking no aspirin, nothing but that ibuprofen before I went to jail.
+DOCTOR: Nothing but the ibuprofen.
+PATIENT: Yeah.
+DOCTOR: Well your blood pressure looks like it's a little bit up today.
+PATIENT: Yeah.
+DOCTOR: And it was a little bit up the last time I saw you too.
+PATIENT: It was.  But only one pill if I have to take it I take it.
+DOCTOR: We'll get some medications for you today too.  And how about, you look like you're missing some teeth.
+PATIENT: All of them.  I have seven.
+DOCTOR: I see.  Can you eat with them?
+PATIENT: Yeah been I been eating with them.
+DOCTOR: Have you been eating okay with that?
+PATIENT: Yeah so far.  I guess I'm trying to get in the clinic where I can get me some.
+DOCTOR: Uh-huh.
+PATIENT: You know so they can get me some made.
+DOCTOR: Gotcha.  Do you see Dentistry in here or, some people some of our Vets outside of the VA?
+PATIENT: Well I never saw no dentist [REDACTED].  It hasn't been for I'd say 20 years or more.
+DOCTOR: I see okay.  Let's see.
+PATIENT: You can put up all those appointments.
+DOCTOR: Dentists, we'll try to get this stuff set up first and then once this is getting better we'll talk about your teeth.
+PATIENT: Okay.
+DOCTOR: What I want you to do you know for the, they have some paperwork that they'll have you do at Admitting to see if you qualify for the dental services here.  I guess it has to do with how much service connected you are and how much they'll cover and stuff like that.
+PATIENT: Okay.
+DOCTOR: If you're covered by dental here we can have them see you but if you're not then they won't even, they'll only take emergencies.
+PATIENT: Oh.
+DOCTOR: It might not be worth it.
+PATIENT: I mean I been waiting till [REDACTED].  I'm trying to get a claim for disability now.
+DOCTOR: Yeah.
+PATIENT: And once I get [REDACTED] I'll get some teeth.
+DOCTOR: Good.
+PATIENT: [REDACTED] teeth.
+DOCTOR: Good, well alrighty.  Let's see.
+PATIENT: I got to leave here and go upstairs and see my Psych Unit.  He [REDACTED] on my paperwork.
+DOCTOR: He probably said I haven't seen you in a long time. I want to know where you've been to.
+PATIENT: Yeah.  The last time I saw him he and I got into it about my paperwork.  I gave him my paperwork for him to fill it out and he never returned it.
+DOCTOR: Okay.  We'll get started with those things.  Let me take a listen to your heart and lungs here.  You can stay where you are.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  It's a bright light, look ahead for me, good.  Say ah.
+PATIENT: Ah.
+DOCTOR: Alright try to take good care of those seven teeth that you've got.
+PATIENT: I been trying.
+DOCTOR: So what happened here?
+PATIENT: Uh [REDACTED] I kind of got it remade it.
+DOCTOR: Oh.
+PATIENT: Only got [REDACTED] like that.
+DOCTOR: Does that bother you at all?
+PATIENT: No.  Collarbone broke too.
+DOCTOR: What troubles were you getting into stuff.
+PATIENT: No [REDACTED] rob me.
+DOCTOR: I'm gonna lift up your shirt.
+PATIENT: Go ahead.
+DOCTOR: Deep breath, good relax.  I'm gonna listen to your heart.  Do you feel like your belly is bigger?
+PATIENT: It is much bigger.  They fed me that food and everything there.  [REDACTED] food.
+DOCTOR: Does it hurt at all with me pushing up here?
+PATIENT: No it don't hurt or nothing.
+DOCTOR: Do you have swelling in your legs?
+PATIENT: No.
+DOCTOR: I'll take a look.
+PATIENT: No swelling at all.
+DOCTOR: Good.
+PATIENT: I'm just feeling tired.  I don't have no energy.
+DOCTOR: You're feeling tired overall huh?
+PATIENT: Yeah.
+DOCTOR: Well it might have a little bit to do with the hepatitis as well.
+PATIENT: Okay.
+DOCTOR: So we'll kind of see what those doctors say but let me step out and talk to my attending.
+PATIENT: Okay.
+DOCTOR: And then I'll come back in and we'll go through everything that we're gonna get done okay.
+PATIENT: Alright.
+DOCTOR: I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  24:03  DOCTOR IN:  38:18)
+DOCTOR: Alright PATIENT.  Very good.  So we'll go through this list one by one with you.  So we'll have you pick up your medications today.
+PATIENT: Okay.
+DOCTOR: They'll be the ibuprofen um 800, pick it up from the window and we're gonna start you on a blood pressure medication.
+PATIENT: Okay.  What about this acid reflux?
+DOCTOR: I can get you something for that too, hold on a second.  Acid reflux uh, do you usually take medications?  Is it after every meal or is it worse when you lie down in bed?
+PATIENT: It's worse when I lay down in bed.  I have to jump out of bed and run to the bathroom.
+DOCTOR: Gotcha.  When you run to the bathroom what happens?
+PATIENT: It just make me feel like I'm [REDACTED] my stomach.
+DOCTOR: Okay.  I'm gonna give you something, it says to take it at bedtime but I would probably take it like half an hour or an hour before you actually lie down to go to bed.
+PATIENT: Okay.
+DOCTOR: If it bothers you during the day as well you can take this medication up to twice a day so you could take it at morning and night.
+PATIENT: And see this stuff here; it's been keeping it under control until at night.
+DOCTOR: Gotcha.  You can keep taking these if you want.
+PATIENT: Okay.
+DOCTOR: Okay.  Like a multivitamin sort of thing you've got going on here.
+PATIENT: Okay, so it won't hurt.
+DOCTOR: For the eyes we will send you to uh, I'll ask them to schedule a follow-up for you in the Eye Clinic.  You saw them, if you see them within like a two year period they don't count you as a new patient, you're a follow-up one so if they can't schedule you you'll have to call and just say I want to make a follow-up appointment.
+PATIENT: Okay.
+DOCTOR: You'll be a new patient in the Nail Care Clinic; this is the Podiatry Clinic who takes care of the calluses.
+PATIENT: Okay.
+DOCTOR: Uh the Liver Clinic you're also gonna be a new patient in.
+PATIENT: Okay.
+DOCTOR: And the Addictions Clinic.  They should be able to direct you to the Addiction Central Intake.  They have their own office where they make their appointments.
+PATIENT: Okay.
+DOCTOR: So the front desk will tell you how to get there.
+PATIENT: Okay.
+DOCTOR: Uh Admitting will have some paperwork to see if you qualify for the dental stuff.
+PATIENT: When I leave here.
+DOCTOR: Yeah hopefully.
+PATIENT: Okay.
+DOCTOR: So the places that I want you to stop off at are the front desk, the Pharmacy and the Laboratory we're gonna get some blood work cause it's been about a year and a half now.
+PATIENT: Okay.
+DOCTOR: Okay.  I want to see you back in a month just to see how all of these things have kind of played out.
+PATIENT: Okay.
+DOCTOR: Maybe after the holidays, like the early January, you could come in; we could check your blood pressure again with just the nurse.
+PATIENT: Okay.  Okay.
+DOCTOR: And then if your blood pressure is still high we can change the medication a little bit.
+PATIENT: Okay.
+DOCTOR: Alright.  Then sorry that you were in jail but I'm glad that they took the opportunity to get you to stop drinking and stop smoking.
+PATIENT: Yeah right.
+DOCTOR: Kind of get everything back together.
+PATIENT: I tell you, thank you.
+DOCTOR: You're welcome.  Stay warm it's a.
+PATIENT: And the pill that you say you gonna get for me for my sex drive.
+DOCTOR: Yeah that will get mailed to you.  You can't pick that up here.
+PATIENT: So when I'll be expecting it?  One week, two weeks?
+DOCTOR: I would give it about a week because of Christmas, the mail is probably not gonna come on Friday.
+PATIENT: Okay, alright thank you.
+DOCTOR: You're welcome.
+PATIENT: Have a good one. Merry Christmas!
+DOCTOR: [REDACTED].
+PATIENT: 42:41
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286099
+TRANSACTION # 578-10-2-316-0103

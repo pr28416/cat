@@ -1,0 +1,618 @@
+PATIENT: Good morning.
+DOCTOR: Hi.
+PATIENT: Are you looking for me?
+DOCTOR: Are you PATIENT?
+PATIENT: Yes I am.
+DOCTOR: Hi, nice to see you again.
+PATIENT: Nice to see you too.
+DOCTOR: Come on back.
+PATIENT: Come on NAME, I'll take the coffee.
+SECOND PERSON J539
+Yeah.
+PATIENT: And your book.
+SECOND PERSON J539
+Yeah.
+DOCTOR: So let's go here.
+PATIENT: How you doing today?
+DOCTOR: I'm doing well, how are you doing today?
+PATIENT: Not too bad.
+DOCTOR: [REDACTED], you look pretty good.
+PATIENT: [REDACTED].
+DOCTOR: Come on in.
+PATIENT: Wow they keep it so cool in here.
+DOCTOR: It is cool in here yes.  It's better than it was in the winter though I'll tell you that.
+PATIENT: Yeah.
+DOCTOR: Um how are things going?
+PATIENT: Well you know, as good as could be expected.
+DOCTOR: Okay.  I think the last time I saw you was in November in the fall.  Anything new for me, you concerned that needs to be. Any ussies?
+PATIENT: Well you know you uh prescribed me that magnesium pills didn't you?
+DOCTOR: I did.
+PATIENT: Yeah.
+DOCTOR: Everything looks better.
+PATIENT: I know but then they sent me another bottle.
+DOCTOR: Oh they did.  You can stop taking that.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: Okay that's something I wanted to ask you because I been taking them.
+DOCTOR: Yeah.
+PATIENT: And I'm almost done with the second bottle.
+DOCTOR: Yeah.  Well let's look at your labs.  You just had labs done in March.
+PATIENT: Right.  I had, my primary doctor said everything was perfect.
+DOCTOR: Everything looks fine.  Your magnesium came back up to normal so no more pills, we'll just keep an eye on it.  But don't throw them away.
+PATIENT: Okay.
+DOCTOR: Because if we do labs say in six months and you're a little low again then I'll have you restart them so you need to keep those ones but for now don't take those anymore.
+PATIENT: Now I got a question for you.
+DOCTOR: Go ahead.
+PATIENT: You know I have pleurisy, pleurisy.
+DOCTOR: Uh-huh.
+PATIENT: And you know when I check [REDACTED] it acts up.
+DOCTOR: Uh-huh.
+PATIENT: Now when I was taking the Advil it would, it would take care of the foot.
+DOCTOR: Uh-huh, uh-huh.
+PATIENT: Now that you got me on the Tylenol.
+DOCTOR: Uh-huh.
+PATIENT: It doesn't do such a good of job.
+DOCTOR: Okay.
+PATIENT: So would it be okay if I bought some Advil and just take them when I get the pleurisy?
+DOCTOR: Here's the problem Advil is a medicine that affects your kidneys.
+PATIENT: Okay.
+DOCTOR: And you already have a little bit of kidney dysfunction.
+SECOND PERSON J539
+Not supposed to take Advil.
+DOCTOR: So no Advil.
+PATIENT: Oh alright.
+DOCTOR: But we can try something else if the Tylenol's not working.
+PATIENT: Well it works but I have to you know, like I can take them when I [REDACTED] now you know.
+DOCTOR: Okay.  Uh.
+PATIENT: I mean I don't know if that's good or not.
+DOCTOR: I mean it's not, you take one Tylenol pill?
+PATIENT: Yeah.
+DOCTOR: Okay you take.
+PATIENT: But when I have the pleurisy then I take two.
+DOCTOR: And what type of Tylenol are you taking, the regulars or the extra strengths?
+PATIENT: I don't know.
+DOCTOR: Okay.  Um it's probably okay.  I mean you haven't had any issues with your liver but.
+PATIENT: No the liver they say is good.
+DOCTOR: [REDACTED] yeah, no problems with the liver um and that would be the only reason to cut back on Tylenol.  But if the Tylenol's not working very well we could try you on something a little stronger for the pain.  Is it still that pain when you take a deep breath?
+PATIENT: Yes and it shoots from my back to my front you know.
+DOCTOR: Yeah.
+PATIENT: It's terrible and plus you know we're having a hard time breathing with the asthma and emphysema, I'm really between a rock and a hard place when I get that flare-up with the um, what do you call it the, emphysema.
+DOCTOR: The emphysema.
+PATIENT: Not the emphysema.
+DOCTOR: The gout?
+PATIENT: Pleurisy.
+DOCTOR: Oh the pleurisy okay.  Well so you take one Tylenol per night [REDACTED].  I mean but it's working, the Tylenol's working okay?
+PATIENT: Not as good as the Advil did though, see that's.
+DOCTOR: Uh-huh.
+PATIENT: But I'm not, you know I haven't, I didn't want to do nothing with the Advil till I talked to you.
+DOCTOR: I'd prefer that you don't take the Advil.
+PATIENT: Okay.
+DOCTOR: I mean cause I don't want your kidneys to get worse.
+PATIENT: Yeah is there another kind of pill that you could prescribe for me?
+DOCTOR: Well I think we should try to find something a little stronger that maybe will help with the pain when you need it.  Have you ever tried a medicine called tramadol?
+PATIENT: No.
+DOCTOR: So that one's a little bit stronger.
+PATIENT: Actually I never had anything; don't think I've ever taken any medication for the pleurisy.
+DOCTOR: Okay yeah.
+PATIENT: I think uh when I first got it they gave me a penicillin shot or something.
+DOCTOR: Okay.
+PATIENT: I got it when I was 20 years old; I mean I've had this thing for 50 years.
+DOCTOR: Yeah, yeah.  Well we can try something a little stronger than Tylenol, uh being aware that trying a stronger pain medication can make you feel sleepy.  You're taking it when you're using the Tylenol.
+PATIENT: I take yes.
+DOCTOR: I was worried about that.
+PATIENT: If you do give me one.
+DOCTOR: Uh-huh.
+PATIENT: I'll only take it at night.
+DOCTOR: Which I think is fair.
+PATIENT: You know cause I have a hard time sleeping anyway.
+DOCTOR: So that might be one thing we can do and then if you have pain during the day I might stick with the Tylenol or try like a half a pill of the tramadol.  So I think that that might be a good way to.
+PATIENT: So are you gonna give me a prescription?
+DOCTOR: I will yeah, yeah.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: And if you could would you check and see if I need any prescriptions renewed?
+DOCTOR: Of course.  We'll go over all your medicines.
+PATIENT: Well you write tiny.
+DOCTOR: Well I have to fit four people on one page.
+PATIENT: Oh they won't give you another pad?
+DOCTOR: Well I had a lot of sheets but I just like to save paper.  Any other issues going on?
+PATIENT: No not really.
+DOCTOR: Still not smoking?
+PATIENT: Oh you're kidding me?
+DOCTOR: Good, good.  Any changes in the living situation?
+PATIENT: No.
+DOCTOR: Home life alright?
+PATIENT: No everything's fine.
+DOCTOR: You're medication now; we've got down the Combivent inhaler, the albuterol ipratropium as needed.  I have you on the allopurinol for the gout.
+PATIENT: Right.
+DOCTOR: One pill a day.  Um and there's a azithromycin prescription in here, did you have an infection, a Z-pack?  Did they give you antibiotics any time?
+PATIENT: Yeah you know, see what happens is this, with my asthma and emphysema and also I have bronchitis.
+DOCTOR: Uh-huh.
+PATIENT: When I catch a cold.
+DOCTOR: Uh-huh.
+PATIENT: It turns into pneumonia.
+DOCTOR: Pneumonia okay.
+PATIENT: So every time that happens, three times I had to come to the hospital.
+DOCTOR: Right.
+PATIENT: So I told my primary doctor I said you know whenever I'm in the hospital for pneumonia when I go home they give me prednisone.
+DOCTOR: Uh-huh.
+PATIENT: And antibiotics to bring me down from what I'm taking here.
+DOCTOR: Uh-huh, uh-huh.
+PATIENT: So I asked her to give me a prescription for at home.
+DOCTOR: Gotcha.
+PATIENT: So when I start feeling.
+DOCTOR: In case you get a cold.
+PATIENT: Yeah when I start breathing like when I know that I'm having a problem.
+DOCTOR: Right.
+PATIENT: As a matter of fact, today I'm taking my last prednisone because uh about two weeks ago I had an attack.
+DOCTOR: Uh-huh.
+PATIENT: And it took me like almost a half hour to recuperate.
+DOCTOR: Okay.
+PATIENT: So right away I start taking my.
+DOCTOR: Okay.
+PATIENT: You know and then I don't have to be coming here because it's a hassle to come here.
+DOCTOR: I know and then you get admitted and it's.
+PATIENT: Yeah and you know for me it's so hard because I don't get around very well.
+DOCTOR: Right, right.  No I think that's a good plan.  [REDACTED] off and on board.
+PATIENT: Yeah.  I only those every once in a while though.
+DOCTOR: That's fine and then you have the formoterol inhaler um the one formoterol you only take once a day.
+PATIENT: Because.
+DOCTOR: Oh I'm sorry.
+PATIENT: Yeah the formoterol and Asthmanex.
+DOCTOR: And then the guaifenesin you take twice a day?
+PATIENT: The guaifenesin?
+DOCTOR: Yeah.
+PATIENT: Yeah they're really good.
+DOCTOR: Okay and then the hydrochlorothiazide for blood pressure once a day.
+PATIENT: Yeah.
+DOCTOR: Then lisinopril for blood pressure once per day.
+PATIENT: Right.
+DOCTOR: And you have the mometasone inhaler, with the formoterol and the okay, okay and then the omeprazole.
+PATIENT: Spiriva?
+DOCTOR: Yeah.
+PATIENT: It's the tiotropium.
+DOCTOR: Yeah that's this one you've got there.
+PATIENT: The tiotropium.
+DOCTOR: The tiotropium is Spiriva.
+PATIENT: Yeah.
+DOCTOR: So you should have four inhalers actually.
+PATIENT: No, three.  Now I get that Combivent.
+DOCTOR: Oh but yeah.
+PATIENT: But the Combivent see.
+DOCTOR: But that's as needed.
+PATIENT: Right because see what I was told is I take the Spiriva once a day.
+DOCTOR: Right.
+PATIENT: And if I need any additional assistance then I take the Combivent.
+DOCTOR: Right.
+PATIENT: But only if I need it.
+DOCTOR: Okay good.
+PATIENT: And I have an, I told them to put that on hold you know because I don't use it all the time.
+DOCTOR: Okay that's good.
+PATIENT: So you know those last a long time.
+DOCTOR: Yeah right.
+PATIENT: So I told them when I need it you know.
+DOCTOR: Then you can call for a.
+PATIENT: Then I'll call for a.
+DOCTOR: Good idea.  And then omeprazole you take it twice a day for acid reflux.
+PATIENT: I take it once a day.
+DOCTOR: Once a day.
+PATIENT: It says twice a day but I take it once a day.
+DOCTOR: That's fine and then the simvastatin you take one tablet at bedtime.
+PATIENT: Simvastatin yes.
+DOCTOR: Yeah.
+PATIENT: That's for the cholesterol.
+DOCTOR: And they have you on [REDACTED] and a baby aspirin.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: 81 mg.
+DOCTOR: Right.  Okay.  Your vitals look good.  Blood pressure's fine.  Have you taking the blood pressure at home?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: I just take my pills every day.
+DOCTOR: Okay well everything looks well controlled.  I can get you a cuff if you want to take it at home.
+PATIENT: A what?
+DOCTOR: A blood pressure cuff.
+PATIENT: Naw.
+DOCTOR: No, okay.  Well we'll just keep an eye on things here since it looks good.  Um and in terms of your lab tests, you know the only thing that I don't have.  Your cholesterol looks great um.
+PATIENT: Yeah the good and the bad she says was good.
+DOCTOR: Yeah both of them were good.  The liver we talked about was fine.  The electrolytes look better and then your kidney function's stable um.  The only thing we don't have for a while is your blood count um.  Let me see when the last time we did a blood panel was.
+PATIENT: What does that mean?
+DOCTOR: So we measure the red blood cells and see if you have anemia.  We measure the platelets to make sure everything's stable.  It looks like you had one done in November and everything was fine so I'm okay with waiting and getting one next time I see you.
+PATIENT: Is that one if it's bad I have to take a iron pill?
+DOCTOR: Right yeah.
+PATIENT: Yeah I was taking those a couple years ago and then they told me to stop.
+DOCTOR: Yeah I mean everything looked real good in the last, report.  Everything was totally normal.
+PATIENT: And that the reason.
+DOCTOR: In December.
+PATIENT: They told me to stop after I just got a new prescription sent to my house.
+DOCTOR: Okay.  Well keep those too.
+PATIENT: I threw them out.
+DOCTOR: Oh you did okay that's okay.  Okay well I need you to hop up on the table.
+PATIENT: Okay.
+DOCTOR: And we'll do an exam.
+PATIENT: Now will you be my doctor?
+DOCTOR: I'm here for a total of three years.
+PATIENT: Oh.
+DOCTOR: So I'll probably see you a few more times.
+PATIENT: Yeah.
+DOCTOR: So we get rotated around a lot.
+PATIENT: I know.  That's when I get out of breath, any time I have to deal with moving around.
+DOCTOR: Do you mostly use a wheelchair at home?
+PATIENT: No.
+DOCTOR: No.  What do you use at home to get around?
+PATIENT: I walk.
+DOCTOR: Okay.
+PATIENT: But you know I do a few steps then I have to stop.
+DOCTOR: Uh-huh.
+PATIENT: You know I have to do them.
+DOCTOR: Well the last time I thought we talked about the possibility of getting you a scooter.
+PATIENT: Yeah you know what, I had one.
+DOCTOR: Yeah.
+PATIENT: That's [REDACTED].
+DOCTOR: Right.
+PATIENT: She called me up too soon.
+DOCTOR: What do you mean too soon?
+PATIENT: I didn’t want to do it as early as…and then I tried calling her back and she doesn't call me back.
+DOCTOR: Oh.  Well do you want me to put in another request for one or do you want to wait a little while?
+PATIENT: Well let's wait a while.
+DOCTOR: Okay.  Let me just take a peek in here, say ah.
+PATIENT: Ah.
+DOCTOR: Now you've got a little bit of white on your tongue here.  That might be something because of the steroids.
+PATIENT: Yeah I'm on my last one today.
+DOCTOR: Let me take a peek at the tongue.
+PATIENT: Ah.
+DOCTOR: Just the tongue.  Now maybe that's thrush from the tongue okay.  Do you have any pain in the tongue?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I have some medicine at home for that.
+DOCTOR: You do, the mouthwash stuff?
+PATIENT: Yeah the yellow stuff.
+DOCTOR: That you swish around and spit out?
+PATIENT: No I swallow it.
+DOCTOR: You just swallow it okay.  How much do you have at home?
+PATIENT: I have about three bottles.
+DOCTOR: Is it called Nystatin, does that ring a bell?  Nystatin?
+PATIENT: I don't know.
+DOCTOR: Okay when is it from?  Is it old?
+PATIENT: No maybe, maybe I would say less than a year.
+DOCTOR: Okay why don’t you use it again for a few days.
+PATIENT: Really?
+DOCTOR: Yeah.  You have some thrush here on your tongue.
+PATIENT: I did some [REDACTED], you kind of.
+DOCTOR: Yeah it could be the inhaler, I mean you're also taking the oral steroids and that can cause.
+PATIENT: Oh okay.
+DOCTOR: So maybe the combination of both.
+PATIENT: I see.
+DOCTOR: So I would do it the next week or two, [REDACTED] and take a peek at your own tongue and see if it's getting better okay.  If it's not then call and let me know cause you need a prescription for Nystatin.
+PATIENT: Okay.
+DOCTOR: Okay.  Let me take a peek at your eyes.  Good.  Let me put this [REDACTED] back on.  Just breathe normal.  [REDACTED]. Now some deep breaths for me.  Good, good breath sounds throughout.  It doesn't look like I hear anything.  You are following with our pulmonologist right?
+PATIENT: That feels good.
+DOCTOR: Back here.
+PATIENT: Scratch my back.
+DOCTOR: No pain in your spine or lower back?
+PATIENT: No, no pain.  No pain whatsoever.
+DOCTOR: We're gonna have you lay back and I'm going to take a peek at your belly.
+PATIENT: Ah.
+DOCTOR: And bowel movements have been okay with your stool softeners?  With the stool softeners?
+PATIENT: Yeah.
+DOCTOR: You do okay with that okay.  Nothing black or tarry or bright red?
+PATIENT: What's that?
+DOCTOR: When your stool no black or tarry.
+PATIENT: No.
+DOCTOR: Put your head up for me, just your head.  A little bit of a hernia here.
+PATIENT: Yeah, I know.
+DOCTOR: Just relax.  Any pain?
+PATIENT: No.
+DOCTOR: Okay.  A little one at your belly button too.
+PATIENT: Uh-huh.
+DOCTOR: Yeah okay.
+PATIENT: But they told me that’s nothing.
+DOCTOR: Yeah it's okay.  Let me know if you ever get, I'm sorry is there pain there?
+PATIENT: [REDACTED]
+DOCTOR: Hmm.  Up in this area?
+PATIENT: Yeah there’s a slight.
+DOCTOR: Okay have you had pain there before?
+PATIENT: No.  I mean now that you're pressing there's something.
+DOCTOR: Take a breath in for me and out okay.  Have you had a with an ulcer?
+PATIENT: No.
+DOCTOR: Peptic ulcer?  [REDACTED].
+PATIENT: No it's my appendix.
+DOCTOR: You had your appendix out okay.  Okay good.  I'll have you sit up.  Now look over towards the door here.  Hold your breath for me and let it out.
+PATIENT: Okay I can't hold my breath too long.
+DOCTOR: Okay look over towards me and just one breath in for me.  Good okay.  Alright come on back and have a seat.
+PATIENT: I don't want to have a seat.
+DOCTOR: Okay.
+PATIENT: Cause you see all that moving around just.
+DOCTOR: Makes you a little bit short of breath.
+PATIENT: Yeah wears me out.  That's one of the reasons why I have the wheelchair you know cause I can't walk.
+DOCTOR: Right I mean it's a long way in from the parking lot too.
+PATIENT: So everything is pretty good?
+DOCTOR: Yeah everything looks good.  Um are you still using oxygen at home?
+PATIENT: Oh yeah.
+DOCTOR: How much are you on now?
+PATIENT: Uh three units.
+DOCTOR: All the time or at night?
+PATIENT: Uh well most of the time.  Sometimes I don't use it.
+DOCTOR: Okay.
+PATIENT: You know I'm okay with or without it.
+DOCTOR: Okay.
+PATIENT: Cause you see here I don't use it.
+DOCTOR: Right.
+PATIENT: But I usually use at home when I make something to eat for myself.
+DOCTOR: Yeah.
+PATIENT: Well even a cup of coffee, I just get winded, any movement you know.
+DOCTOR: Yeah.
+PATIENT: Even with the oxygen on.
+DOCTOR: Okay.
+PATIENT: But they told me even though I think it ain’t helping, it does, so.
+DOCTOR: Yeah.  Well, uh especially at night it's probably good you know.
+PATIENT: Well they told me make sure I sleep with you know, with the oxygen and I do do that.
+DOCTOR: Good.
+PATIENT: They told me when I'm just sitting watching TV that I don't, you know if I don't need it I don't have to use it.
+DOCTOR: Yeah I agree with that, if you're sitting around during the day and you don't feel like you need it then just.  Sometimes your lungs do a little better if you work and breathe on your own.
+PATIENT: Yeah, you know cause I don't want to really get hooked on it.
+DOCTOR: Right.
+PATIENT: But they told me that you can't so I don't know.
+DOCTOR: You can become more dependent on it.
+PATIENT: Do I need any prescriptions renewed there?
+DOCTOR: Let me, let me take a look.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: You know the other problem is that I have is that like if I need something to call you but it's too hard to get hold of you doctors.
+DOCTOR: Yeah I know but you can always call the Medicine Clinic and say I'd like to leave a message.
+PATIENT: Is it the 2 - 800 number?
+DOCTOR: Yeah cause I need to leave a message um for my doctor and they'll be able to, if you don't remember my name like you say DOCTOR then they'll send me a little message and then we'll, I check my messages usually once every few days even if I'm working over at Loyola and so I'll be able to call you back in a few days.  It's not always immediate, like I may not call you back the same day you call but it should be within about a week.
+PATIENT: Well what happens if it's important?
+DOCTOR: Well if it's really important, it it’s something really acute then they'll probably just tell you to come in.  Cause the problem is that I'm not here every single day and I work intermittently over at Loyola or here.
+PATIENT: Okay.
+DOCTOR: So usually within a few days I'll be able to see any message you leave.  If you have something acute going on like you call and say hey I'm really having trouble breathing can I come in and see someone they'll set you up with a different doctor.
+PATIENT: Yeah see, that wouldn’t be you, that would be [REDACTED].
+DOCTOR: Well [REDACTED] at least call.  But let's say it's something else, okay you had some diarrhea or something and you wanted to be checked out, they can set you up with another doctor but it wouldn't necessarily be me.
+PATIENT: Yeah at the Emergency Room.
+DOCTOR: Right.  If you want to you could come in for what we call an acute care visit and then you come in the clinic here but you'll see someone who's not me.
+PATIENT: Oh up here?
+DOCTOR: Yeah.
+PATIENT: So I don't have to go to the Emergency Room?
+DOCTOR: Right, right and they'll set you up probably sometime, usually in a spot that same week and they'll say okay we'll put you in a slot tomorrow or Thursday or whatever it is and we're gonna have you see doctor so and so and you'll come in and all you'll tell doctor so and so is whatever's going on, hey.
+PATIENT: Now see if I have to make that trip I'd just rather go to the Emergency Room.
+DOCTOR: We just encourage people not to go to the Emergency Room as much just because it overloads the Emergency Room if it's something that's not an emergency.
+PATIENT: Oh I see.
+DOCTOR: So by all means if you're having an emergency don't hesitate to come but if you're having like say three or four episodes of diarrhea a day for the last couple of days and you want to be checked out.
+PATIENT: I'll take some Imodium AD.
+DOCTOR: Well you could try that too.
+PATIENT: Yeah.
+DOCTOR: But if you want to be checked out, like if you're having belly pain, whatever it is or you're getting headaches or something.
+PATIENT: Right.
+DOCTOR: That's not an acute emergency, it's better to come to the clinic and get checked out in the clinic than to show up in the Emergency Room.  You tend to get, you know more complete care, we can deal with it as an outpatient, it's not putting so much cost in the system so it's better to come here if it's not a true emergency.
+PATIENT: Okay.
+DOCTOR: You know cause we can get you all the same things up here.
+PATIENT: Okay.
+DOCTOR: You have no refills of your antibiotics and your prednisone?. Do you want me to renew those in case you need to order more?
+PATIENT: I called my nurse upstairs.
+DOCTOR: Yeah.
+PATIENT: NURSE.  See my pulmonary doctor, she's having a baby.
+DOCTOR: Okay.
+PATIENT: She's on maternity leave until June 1st.
+DOCTOR: Oh I see okay.
+PATIENT: And when I called she said that she would have her orders in but if you can order it for me go ahead and do it.
+DOCTOR: I could put in for some refills.
+PATIENT: Yeah do it then.
+DOCTOR: Um.
+PATIENT: Because uh like I said I'm gonna be taking my last pill today.
+DOCTOR: So do they send this to you automatically?
+PATIENT: Yeah they'll mail them to my house.
+DOCTOR: And that's what you want?  You want it sent even when you're not sick you want it sent to your house?
+PATIENT: So if I do start getting a cough I start taking it then.
+DOCTOR: So let's get you some refills.
+PATIENT: That's the prednisone and the antibiotics.
+DOCTOR: Yeah, just only take it when you need it.
+PATIENT: No uh yeah.
+DOCTOR: Okay but.
+PATIENT: Oh yeah I wouldn't take it if I don't need them, naturally.
+DOCTOR: And if you need it, I don't know if you're gonna need to call the Pharmacy and let them know that they only can, have them only send one at a time cause you have one prescription.
+PATIENT: They only.
+DOCTOR: So they know that.
+PATIENT: They put a non-refillable on the label.
+DOCTOR: Okay, okay.  Oh well I'm just putting refills in then, so do you want refills?
+PATIENT: No you have to order it, it's not a refill.  You have to order me the prednisone and the antibiotics.
+DOCTOR: Well I have that, no I have it in but I put it in as refills and my concern is that they're going to just keep sending it to you.
+PATIENT: No they won't.
+DOCTOR: They won't okay.
+PATIENT: So no because it's a non-refillable prescription.
+DOCTOR: Okay.
+PATIENT: I only can get it when the doctor orders it for me.
+DOCTOR: Oh I see okay.  Alright.  Well if they do send you too much just call them and say I don't want.
+PATIENT: Yeah.
+DOCTOR: I don't want anymore.
+PATIENT: I will.
+DOCTOR: Um okay, just a quick screening here.  Looks like the colonoscopy is not until June.
+PATIENT: I don't want another one.
+DOCTOR: You don't want another one.
+PATIENT: No.
+DOCTOR: Well it's not due yet anyway so you won't have to worry about it.  PSA was already checked.  We talked about smoking.  So you did have, what looks like a dilation of the aorta.  They did an ultrasound at some point and they saw that the aorta was a little bit dilated, now let me see the last report.
+PATIENT: I don't want no more CAT scans.
+DOCTOR: It's not a CAT scan, this is an ultrasound.
+PATIENT: I'm sick of them.
+DOCTOR: Um this one is might be here, let me see here.  It was done in 2010, let me see here.  Here we go.  Okay I think we might want to at least re-look at the aorta.  It's not a CAT scan; you don't go through any machines.  We'll schedule you for an appointment and they'll come and it's just that, it's like what they give to pregnant women, with the little gel and the stick and they go like this.
+PATIENT: So what's that for?
+DOCTOR: Um so the aorta, which is the largest vessel that runs down the middle of your body, sometimes, especially in men who have any history of smoking at all, it can become a little bit enlarged and the problem with that is that if it becomes enlarged it's a little bit increased risk for the wall being thin and it potentially tearing.
+PATIENT: Okay.
+DOCTOR: Um and because it carries a lot of blood that would be very dangerous when that happens, so we screen all men who have any kind of history of smoking in their past and see if it's enlarged and if it is we keep an eye on it.  It looks like yours was a little bit enlarged in 2009.  I'm trying to see if we did another one um but I don't see it on record.  So I think it might be a good idea to get another one and see where it's at.
+PATIENT: Okay.
+DOCTOR: If everything's stable we can just watch it.  If it's getting any bigger I'll probably have you see a vascular doctor, someone who deals especially with the blood vessels.
+PATIENT: And what do they have to do?
+DOCTOR: Well they may do nothing.  They may just watch it for us.  But if it's really big they may have some intervention which you may or may not decide you want but that's something that you could discuss with them.  But it's good to have a specialist take a look at it if it is enlarged just so they're aware of it and we all know about it and they can tell us how often we need to take a look at it.  Okay, it's a very easy test initially that's going to do that.
+PATIENT: Yeah I know yeah.
+DOCTOR: And then we'll see what it looks like.
+PATIENT: They do that in Room 109 right?
+DOCTOR: Okay I'm not sure.
+PATIENT: Pretty.
+DOCTOR: So let me get that ordered for you and they'll schedule that for you in the next, probably next couple weeks, let me see [REDACTED].
+PATIENT: Try to make it for like an early afternoon.
+DOCTOR: They'll ask you when you want it.  I don't have any control over the schedule but they'll ask you when would be good for you.  And then let's see here, the magnesium is better so we'll take that one off.
+PATIENT: So I can stop taking the pills but don't throw them away.
+DOCTOR: Correct and we'll get another check in about six months and see where you're at.
+PATIENT: Yeah I only have about 20 left.
+DOCTOR: [REDACTED] look fine; let's just see if we've got any other reminders in the computer here.  Okay did we talk last time about a Living Will and Advanced Directives?
+PATIENT: Well I'm going to leave everything to [REDACTED].
+DOCTOR: Okay, okay.
+PATIENT: Cause.
+DOCTOR: Well it's more so.
+PATIENT: I don't have.
+DOCTOR: But it's more that a Living Will actually designates what you would want done for yourself in case of a medical emergency.  So if your heart were to stop or your breathing were to stop.
+PATIENT: Yeah.
+DOCTOR: Do you want aggressive measures to bring you back?
+PATIENT: No.
+DOCTOR: Okay.  So in that case it's actually very important that somebody, not only does someone know about this, so someone close to you, who is considered your Power of Attorney, know your wishes but also you keep a written record that you have said you don't want aggressive measures done because otherwise our default is we do everything to keep someone alive.  We don't want to go against anyone's wishes.
+PATIENT: Yeah well you know, in my condition if something drastic happens.
+DOCTOR: Sure.
+PATIENT: You know.  Just hope I go to heaven and don't go the other way.
+DOCTOR: So it's just yeah, it's just important that um, it's just important that we know what your wishes are.  So it's good to have it written out.  It's good to bring a copy of that so we can put it in your computer records.
+PATIENT: I thought I sent something out one time.
+DOCTOR: Maybe you did, I'll look back and see if we've got a form in here, let's see let me check.  The other thing that we are now recommending for all vets is an HIV test if you don't have one on record already.  We recommend them now for people with or without risk factors so you have a baseline.
+PATIENT: Yeah with all the blood tests they take.
+DOCTOR: Well we would need to draw another little; a separate test to test is specifically for HIV so it'd be a little bit more blood.  It's not an urgent matter so if you, if you accept this and you want to do it I can put it in for your next blood work.  You also are welcome to decline it if you don't want it.
+PATIENT: No we can do it, I don't, you know.
+DOCTOR: Okay.  So let me put it in.
+PATIENT: Well what does it hurt?
+DOCTOR: It doesn't hurt anything.
+PATIENT: Right.
+DOCTOR: Um why don't you, do you want to just do it the next time we draw blood from you?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah, no I don't want to go down there now.
+DOCTOR: Yeah let's do it just the next time we get some blood from you.  Alright.
+PATIENT: Then this way, you know once they stick me then they could do whatever they want.
+DOCTOR: I'm going to put everything in for November and I'll see you back here then.
+PATIENT: Alright.
+DOCTOR: Alright.
+PATIENT: I thought they would check all that with all the blood they take.
+DOCTOR: So I have to put in an order to check it.  They don't automatically.
+PATIENT: Oh.
+DOCTOR: I put in all the orders for all that blood and when you have tests they don't automatically do it.
+PATIENT: Oh.
+DOCTOR: So I have to put in a specific order and they'll draw special little tubes.
+PATIENT: Uh-huh.
+DOCTOR: So they can send it to the right place um.  Okay, well let me just go run everything by my attending and see if she has any other suggestions for us but we'll definitely talk about potentially getting you on something that's a little bit better for the pain, the pleurisy pain.
+PATIENT: Yeah.
+DOCTOR: To make you a little bit more comfortable.
+PATIENT: Yeah, because it's terrible when I get that.
+DOCTOR: Yeah, yeah.
+PATIENT: Because you know, struggling to breathe to begin with.
+DOCTOR: Right.
+PATIENT: And when I have the pleurisy.
+DOCTOR: It makes it worse.
+PATIENT: It makes you breathe hard.
+DOCTOR: Yeah I know.
+PATIENT: And then I'm between a rock and a hard place.
+DOCTOR: I know.  I know.  Okay just stick tight for just a minute; I'll be back in a few minutes okay.
+PATIENT: Thank you.
+DOCTOR: You're welcome.
+(DOCTOR OUT:  50:54  DOCTOR IN:  61:00)
+PATIENT: [REDACTED].
+DOCTOR: It's me, I'm back.  Okay.  So here's what we're gonna do, we're gonna give you some tramadol for your pain.
+PATIENT: Well only when I get the pleurisy right?
+DOCTOR: Only when you get the pain.  It'll make you a little bit sleepy so the first time you take it, you're gonna take it in the evening and make sure you're not going anywhere.
+PATIENT: Okay.
+DOCTOR: I'm just gonna give you, I'm gonna give you 50 mg pills but try first cutting them in half okay and take just 25 mg and see if that helps your pain.  If not, feel free to take the whole pill.
+PATIENT: Okay.
+DOCTOR: Okay.  So we're gonna do um, you can take them up to every eight hours as needed but if you only need it at nighttime, just take it at nighttime.
+PATIENT: Okay.
+DOCTOR: Okay and I'm gonna give you, I'm gonna give you a 30 day supply which will be 90 pills.
+PATIENT: Yeah because you know I'm not gonna be taking them every day.
+DOCTOR: That's what I figured.  You want them to be mailed or do you want to pick them up?
+PATIENT: No, mailed.
+DOCTOR: Fine.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah just send them to my PO box.
+DOCTOR: Then um so.
+PATIENT: Cause you know I don't live close.  I live like about 15 miles away.
+DOCTOR: Okay so let's see.
+PATIENT: I'm in Wooddale.
+DOCTOR: Okay.
+PATIENT: I don't know if you know where that's at, that's near O'Hare Airport.
+DOCTOR: Oh okay yeah sure I know where it is.  Alright, here’s what we’re going to do about about the prednisone and the azithromycin, I'm gonna give you one more, maybe one more refill of them.
+PATIENT: Okay.
+DOCTOR: And then after that, I want you, by then hopefully you won't you know need it any time soon, you just took it.  But after that I'm gonna have you call the pulmonary doctor and just double check everything with her and the other thing that I think might be sensible is if you feel like you're getting a viral infection or if you feel like you're getting a bad cough, if you feel like your COPD is acting up, you can come into the GMC Clinic, right here on the third floor without an appointment and be heard by one of the nurses, they can just see you and they can decide if you're wheezing that you really do need to take the prednisone or you need the azithromycin.  So it might be a good idea next time you start getting that cough, like when you have that coughing fit just to come in.
+PATIENT: It's not a cough.
+DOCTOR: Okay.
+PATIENT: It's just uh; I have a tremendous hard time breathing.
+DOCTOR: So I think in that case then.
+PATIENT: So I can't recuperate in a reasonable amount of time.  It's not a cough or anything.
+DOCTOR: So in that case I think, when you have that problem again you should come in.  Come in to GMC or come in the Pulmonary Clinic and just have somebody listen to your lungs okay.  So that we kind of know what's going on and we can help you out if you, you know if you need more medicine or anything like that.  Just so that somebody's listening to the lungs and in terms of.
+PATIENT: Yeah but then that defeats the purpose of me having the pills at home.
+DOCTOR: Well that's, you know honestly I'd like to; I'd like to know when you're having the problem.  Cause I don't want to just keep having you take prednisone and.
+PATIENT: I don't, I don't, I only take it.
+DOCTOR: No, no, I know wait listen to me for just a second.  I don't want to have you just keep dosing for yourself when think that you’re having an attack because you may not be.  It may be just a short-lived thing that you don't need to take a whole prednisone course for because these antibiotics and the prednisone have lots of side effects themselves.  So if you don't need them I don't want you to take them but it's easier for a nurse or a doctor to assess whether you really do need to take the full course.  Do you see what I mean?  So I understand having the preventative medicines at home and I'm not saying we're not going to do that anymore.  I think it's been a good way to keep you out of the hospital but I think it'd just be a good idea for you to come in and be evaluated by either a nurse or a doctor, have someone listen to your lungs and make sure you're okay and then make a decision about whether you can take the antibiotics and the prednisone that you have at home.
+PATIENT: See the only problem with that, I mean I don't have a problem with that.
+DOCTOR: Uh-huh.
+PATIENT: The only thing is that you know, in order for me to come here I need help.
+DOCTOR: Right.
+PATIENT: I can't just come here on my own and come in here you know.
+DOCTOR: Yeah.
+PATIENT: And I've always had the help, that's what I'm saying.
+DOCTOR: I see what you mean.  Well if at all possible, my suggestion would be to be seen.
+PATIENT: Yeah if it's possible I will do that definitely.  Cause I don't want to keep taking them if I don't need them either.
+DOCTOR: Right exactly.
+PATIENT: I just uh would rather do that than to come to the Emergency Room all the time.
+DOCTOR: No and I think that that’s a great idea but rather than come in to the Emergency Room which you'll need help getting to anyway, have that person who would drive you here drive you to the clinic and someone can just listen to your lungs and that way you won't automatically be admitted to the hospital for potential pneumonia which is often what happens in the Emergency Room.
+PATIENT: So I could just go right up to Pulmonary?
+DOCTOR: Go right up to either Pulmonary Clinic or 3rd floor, General Medicine like right here.
+PATIENT: They won't tell me to go to the Emergency Room then?
+DOCTOR: They might if they see you sound really bad but they might not.
+PATIENT: I mean without kicking me out.
+DOCTOR: Right.  Somebody will listen to you at clinic and they may be like okay you sound a little wheezy why don't you go ahead and take your Zithromax and go home but they might say oh you sound terrible, your breathing is awful, we're going to send you down to the Emergency Room but at least then you have a doctor checking you out or a nurse checking you out before you proceed straight to the Emergency Room.  I just want to decrease the number of times you have to go to the Emergency Room.
+PATIENT: Yeah that's been my concern too.
+DOCTOR: So that's what I want you to do when you start feeling sick.
+PATIENT: Cause it's not easy when I'm having an attack you're right.
+DOCTOR: Okay.
+PATIENT: Cause sometimes, sometimes it's hard for me to get from the house to the car when I'm having an attack.
+DOCTOR: Right and all I'm saying is that I think that it would be good for a doctor to evaluate you and better assess how your lungs sound.
+PATIENT: I see.
+DOCTOR: So I think the last thing I want to do is we're gonna get another EKG on you next time you come to clinic.
+PATIENT: EKG?
+DOCTOR: Yeah just take a look at the heart.  Sometimes the azithromycin is a medicine that can affect the heart a little bit.  You have one on record that looks okay but next time you come I want to do one periodically to make sure everything's stable okay.
+PATIENT: And when is that gonna happen?
+DOCTOR: So the next time you come to clinic in the fall um I want you to come, first stop on the 1st Floor, you'll see signs and you can ask somebody where the EKG Department is and they'll do a quick EKG and then they'll send it up here so I can take a look at it before I see you.
+PATIENT: Oh okay.
+DOCTOR: Okay.  So the next time you come you're gonna get some lab work done and you're gonna stop by and get the EKG done.
+PATIENT: Okay.
+DOCTOR: Okay, make sense?
+PATIENT: Now can you schedule me with a later appointment than 8 or 9 o'clock in the morning?
+DOCTOR: So the latest I have is like 11.
+PATIENT: That's fine.
+DOCTOR: So just request from the folks at the desk, I don't schedule the appointments, they just schedule them for me.  So just request the clerk, when you check out at the desk.
+PATIENT: Okay.
+DOCTOR: That you want one that's later in the morning.
+PATIENT: Okay.
+DOCTOR: Okay and they'll try to get you in like an 11 slot.
+PATIENT: So I'll tell them you know next appointment make it for around 11.
+DOCTOR: Right.
+PATIENT: That's great because 8 or 9 is too early.
+DOCTOR: Yeah.
+PATIENT: I have something.
+DOCTOR: Yeah I can't guarantee but they can do their best to get you in like at 11-ish okay.
+PATIENT: Yeah.
+DOCTOR: Alright.  So you're gonna come back in six months and then you're also gonna be scheduling you for that ultrasound of the aorta.
+PATIENT: Okay.
+DOCTOR: Okay and they'll let you know the date for that; they'll find something that works for you.
+PATIENT: Good.
+DOCTOR: Okay.  Well it's good to see you again.
+PATIENT: Thank you.
+DOCTOR: You take that and so don't forget to stop at the check out desk and they can make sure you get scheduled to see me again.
+PATIENT: Okie dokey.  [REDACTED] right?
+DOCTOR: Yes [REDACTED].
+PATIENT: [REDACTED] okay.
+DOCTOR: Uh-huh.
+PATIENT: Have a good day.
+DOCTOR: You too.
+PATIENT: Have a nice holiday too.
+DOCTOR: Thank you so much, you too.
+PATIENT: He's my driver cause I ain't got a license.
+PATIENT: 68:55
+Time is 10 o'clock.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255140
+TRANSACTION # 578-10-2-316-0103

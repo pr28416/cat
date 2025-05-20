@@ -1,0 +1,241 @@
+DOCTOR: PATIENT?
+PATIENT: Okay, here we go huh.  Alright come on NAME.
+DOCTOR: So how are you?  I'm DOCTOR I'll be seeing you today.
+PATIENT: Oh yeah.
+DOCTOR: Um DOCTOR was seeing you in follow-up.
+PATIENT: Yeah.
+DOCTOR: So how are you doing?
+PATIENT: I'm doing fine.
+DOCTOR: Doing fine, any complaints today?
+PATIENT: Uh my digestion's really getting worse again.
+DOCTOR: Oh what's wrong with your digestion?
+PATIENT: Gastric.
+DOCTOR: You have acid reflux?
+PATIENT: Yeah, yeah exactly.
+DOCTOR: Any coughs at night?
+PATIENT: Yes.
+DOCTOR: Okay.  You're not taking anything for that right now are you?
+PATIENT: No.
+DOCTOR: Okay we can give you a medicine for that.
+PATIENT: Thank you, thank you yes.
+DOCTOR: Is it worse after certain meals like fatty meals?
+PATIENT: Yes, yes.
+DOCTOR: And spicy foods.
+PATIENT: Spicy.
+DOCTOR: Like spicy foods?
+PATIENT: Really spicy.
+DOCTOR: Okay we can give you something for that.
+PATIENT: Yeah, yeah but.
+DOCTOR: How long has this been going on for?
+PATIENT: Years.
+DOCTOR: Years.
+PATIENT: Yeah.  I take a lot of Pepto Bismol and all that but that ain't doing nothing at all.
+DOCTOR: Yeah we can give you something that's a little stronger than that.
+PATIENT: That's good.
+DOCTOR: That will help with that.
+PATIENT: Yeah.
+DOCTOR: Anything else?
+PATIENT: Yeah I need a prescription filled.
+DOCTOR: For which medicine?
+PATIENT: Uh for my skin, skin disorder uh.
+DOCTOR: For the itching right?
+PATIENT: Yeah the itching here, [REDACTED].
+DOCTOR: Is there another one?
+PATIENT: This is for prostate.
+DOCTOR: Yeah this isn't for that.
+PATIENT: [REDACTED] got the wrong one?
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: We can refill this.
+PATIENT: Okay thank you, that's what I need.
+DOCTOR: Okay anything else or is that the main thing?
+PATIENT: No that's about it.  That's about it I guess.
+DOCTOR: Okay, okay and then I'm just gonna, cause this is the first time I'm seeing you just to go over your medical problems together.
+PATIENT: Right.
+DOCTOR: You have arthritis, you have high cholesterol.
+PATIENT: Yeah.
+DOCTOR: PTSD, you have schizophrenia, you have a history of drug abuse in your past.
+PATIENT: Yeah.
+DOCTOR: You have diabetes.
+PATIENT: Yeah.
+DOCTOR: You're a smoker.
+PATIENT: Yeah.
+DOCTOR: Um you had blood in your urine and decreased urine stream.
+PATIENT: Yeah.
+DOCTOR: So you had a work-up by GU then.
+PATIENT: Yeah, yeah.
+DOCTOR: That was all negative.
+PATIENT: Yeah.
+DOCTOR: And in terms of your medicines, you're on the pravastatin.
+PATIENT: Yeah.
+DOCTOR: The terazosin.
+PATIENT: Right.
+DOCTOR: The hydroxyzine.
+PATIENT: Yeah.
+DOCTOR: Are you still, are you taking the simvastatin cause it looks like you haven't filled it in a year so.
+PATIENT: Yeah.
+DOCTOR: The cholesterol medicine?
+PATIENT: No I haven't been taking it.
+DOCTOR: You haven't been taking it.
+PATIENT: No.
+DOCTOR: Okay.  And is there a reason that you're not actually taking it?
+PATIENT: It don't do nothing.
+DOCTOR: Um yes, I know it doesn't see that it seems like it doesn't do anything cause you can't see it but your cholesterol actually was really, really high in April when they measured it.
+PATIENT: It was?
+DOCTOR: Yeah so you know.
+PATIENT: And now you want to put me back on it right?  Alright, okay.
+DOCTOR: Because it’s really important for heart disease.
+PATIENT: Okay.
+DOCTOR: Because the reason that sometimes people get heart attacks is because they have blocked - plaques that build up.
+PATIENT: Yeah.
+DOCTOR: In the cholesterol in the vessels to their heart, they're kind of what we want to prevent.  So that’s what it does, it’s not a medicine that you see the affects right away.
+PATIENT: Yeah.
+DOCTOR: But it's more of a preventative medicine.
+PATIENT: Oh okay.
+DOCTOR: So it's really important that you take it.
+PATIENT: Okay gotcha.
+DOCTOR: Okay and then um do you smoke still?
+PATIENT: Yep.
+DOCTOR: How much?
+PATIENT: A lot.
+DOCTOR: How much is a lot?
+PATIENT: Oh about a pack a day.
+DOCTOR: A pack a day.  For how many years?
+PATIENT: 40, 45 years.
+DOCTOR: 45 years okay and alcohol abuse?
+PATIENT: No.
+DOCTOR: Ever alcohol abuse?
+PATIENT: No, not really.
+DOCTOR: Which illegal drugs have you used in the past?
+PATIENT: Cocaine.
+DOCTOR: And snort, uh do you snort?
+PATIENT: Pardon?
+DOCTOR: Do you, what form did you use?
+PATIENT: I smoke it.
+DOCTOR: But no IV use?
+PATIENT: Hell no I did [REDACTED].
+DOCTOR: And then um when was the last time you used?
+PATIENT: I don't know a couple months ago.
+DOCTOR: A couple months ago okay.  Anything else?
+PATIENT: No that's it.
+DOCTOR: That's it and do you have any family history of any disease?
+PATIENT: No.
+DOCTOR: And then I'm gonna go through a bunch of symptoms.  If you're having any symptoms just stop me and let me know.
+PATIENT: Yeah.
+DOCTOR: Fever, chills, weight loss, weight gain.
+PATIENT: Say what?
+DOCTOR: Fever, chills, weight loss.
+PATIENT: I've had uh chills.
+DOCTOR: What are they chills of your body [REDACTED] or chills where you feel cold?
+PATIENT: From sweating.
+DOCTOR: Okay sweating um weight loss, weight gain, headaches, changes in your vision, changes in your hearing, runny nose, stuffy nose, sore throat, cough, coughing up blood, chest pain, shortness of breath, shortness of breath when walking.
+PATIENT: [REDACTED].
+DOCTOR: Feeling your heart beating real fast.
+PATIENT: Oh you know what; you were going kind of fast.  The only thing I've really had is the sweating.
+DOCTOR: And the acid.
+PATIENT: And the acid.
+DOCTOR: And that's it.
+PATIENT: Uh the sweating, acid at night and then the PTSD.
+DOCTOR: So do you.
+PATIENT: Yeah, yeah.
+DOCTOR: Do you get the sweating with the PTSD?
+PATIENT: Yeah, yeah.
+DOCTOR: And then uh any problems with your urination?
+PATIENT: Yeah I still have the prostate, yeah still.
+DOCTOR: Difficulty starting a stream.
+PATIENT: No I don't have difficulty starting its difficult while you're going yeah, yeah.
+DOCTOR: Maintaining the stream?
+PATIENT: Going ahead to completing what I started.
+DOCTOR: Do you feel like there's still urine [REDACTED].
+PATIENT: No she told me down in [REDACTED] when feel filled up when they know I'm going to be empty is like that little curve that fills up before you get gas so she explained that to me, my doctor.
+DOCTOR: So now [REDACTED] problem.
+PATIENT: My doctor, my doctor yeah.
+DOCTOR: [REDACTED] okay.
+PATIENT: She explained that to me.
+DOCTOR: Okay can I examine you?
+PATIENT: If you want to.
+DOCTOR: I want to just check.
+PATIENT: Okay.  Okay so we got the [REDACTED], you got that ordered right?
+DOCTOR: Oh yeah I'll put it in just a second.  Do you want them to mail it to you?
+PATIENT: No, no I'll pick it up.
+DOCTOR: Okay I'll do it in just a second.
+PATIENT: Yeah.  Yeah so the other one, the [REDACTED] I had refills on those so.
+DOCTOR: Uh-huh.
+PATIENT: Yeah I'm cool.  There's still the pain over there [REDACTED] talking about from before.
+DOCTOR: Got some acid?
+PATIENT: Yeah.
+DOCTOR: Can you lay down for me for a second?
+PATIENT: From coughing.  When I cough right around here it hurts real bad, but you know, they say it's supposed to be umbilical thing.
+DOCTOR: Oh hernia right.  Did you ever go to get them done?
+PATIENT: No I’m not [REDACTED] because it's not that, it's over here that's hurting you know it be hurting when I cough but I did feel it over there a couple days ago when I.
+DOCTOR: You have the hernia but you didn't want the surgery?
+PATIENT: No I felt it though so really for the first time I felt it hard there.  I got to work up my nerves up to get that.
+DOCTOR: Okay can I, I'm going to lift up your shirt.  Is it right here, the hernia?
+PATIENT: Yeah.
+DOCTOR: Oh.
+PATIENT: Right yeah.
+DOCTOR: So right there okay.
+PATIENT: Yeah, it’s right up in there and there be pain [REDACTED].
+DOCTOR: Is it here at all?
+PATIENT: Right here, the right here.  Right, if I cough, yeah especially right here, right there.
+DOCTOR: When you're coughing.
+PATIENT: Yeah if I cough a lot yeah.
+DOCTOR: Can you sit up for me?
+PATIENT: Yeah.
+DOCTOR: Can you just breathe in and out; just breathe through your mouth.  Breathe in. Again. Can you take you [REDACTED] off [REDACTED]? I need you to open your mouth for me, open your mouth say ah.
+PATIENT: Ah.
+DOCTOR: That's good.  And any swelling in your legs?
+PATIENT: No.
+DOCTOR: Not really.
+PATIENT: Now this is just the same, that's [REDACTED].
+DOCTOR: Did you ever get that ultrasound of your belly they wanted last time?
+PATIENT: Yeah I did it.
+DOCTOR: Okay cause I didn't see it in the chart.
+PATIENT: Uh they took an x-ray or whatever, a scan, uh a CAT scan.
+DOCTOR: No, no an ultrasound.
+PATIENT: No [REDACTED] put some jelly on me and rub it, yes they did that.
+DOCTOR: Yeah you did, let me check again.
+PATIENT: Okay.
+DOCTOR: I don't see the record for it.
+PATIENT: Okay.
+DOCTOR: Yeah they don't have it.
+PATIENT: So what you got to order one?
+DOCTOR: Yeah we'll order it.
+PATIENT: Okay.
+DOCTOR: I'll be back in a second.
+PATIENT: Okay.  I can put my coat back on right?
+DOCTOR: Yeah you can do that.
+PATIENT: Ooh.
+(DOCTOR OUT:  33:02  DOCTOR IN:  42:26)
+DOCTOR: Hi PATIENT.  So I'm looking at, I'm gonna give you a prescription uh for the hydroxyzine and then also this medicine called ranitidine that's going to help with the acid reflux and then I'll see you back in three months and we'll want to see how the ranitidine is helping [REDACTED] and then um I'm going to refill the simvastatin as well and then we're gonna check your lipids when you get back and you said you want to pick it up here right?  Okay.
+PATIENT: Yes.  You say you'll schedule for x-ray?
+DOCTOR: No, no I looked and you mentioned, the other image that you got.
+PATIENT: Yeah.
+DOCTOR: I looked it up [REDACTED].
+PATIENT: Yeah I told you that.
+DOCTOR: So you don't have to worry about that.
+PATIENT: Right, right I told you that.
+DOCTOR: Yeah.
+PATIENT: They did so much there.
+DOCTOR: Yeah and you're gonna start the simvastatin right?
+PATIENT: Huh?
+DOCTOR: You're gonna start taking the simvastatin.
+PATIENT: Yeah.
+DOCTOR: Okay.  Okay and then I'll see you back in three months.
+PATIENT: Alright.
+DOCTOR: And that should be all.  I put in those meds so make sure you pick them up at the Pharmacy.
+PATIENT: Okay.
+DOCTOR: Okay, it's nice seeing you.
+PATIENT: Alright, nice meeting you too.  Alright what's your name?
+DOCTOR: DOCTOR.
+PATIENT:
+DOCTOR: to meet you.  You nice okay.
+DOCTOR: Well that's good.
+PATIENT: Okay thank you.
+DOCTOR: Bye.
+PATIENT: Alright.
+PATIENT: 44:47.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275430
+TRANSACTION # 578-10-2-316-0103

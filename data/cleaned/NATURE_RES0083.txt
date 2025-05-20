@@ -1,0 +1,74 @@
+DOCTOR: What can I do for you?
+PATIENT: I've been feeling really, just, bad these last couple of days. I've had these, uh, muscle aches and headache and cough that have been really bothering me.
+DOCTOR: When did all this start?
+PATIENT: So yeah, about 3 days ago I woke up in the morning with, uh, and yeah, I started having these, like muscle aches and a cough started kind of that day.
+DOCTOR: OK, can you tell me a little bit more about the cough? Is it a dry cough or wet cough?
+PATIENT: It's a dry cough, I haven't brought up any any sputum and no blood.
+DOCTOR: And the muscle aches, is it all over? is it specific part of your body?
+PATIENT: Yeah, It's just kinda all over, just feels kind of icky.
+DOCTOR: OK, and has the cough gotten better or worse over the past three days?
+PATIENT: It's got a little worse. I think I would say it's a bit more frequent. But the cough isn't that bad, but it's gotten worse.
+DOCTOR: OK, and you mentioned headaches. When did those start?
+PATIENT: So within the last couple of days, yeah, I've had a headache, want to say, most of the time. And I've been using Tylenol or Acetaminophen to help with those. Its taken the edge off of the headaches, for sure.
+DOCTOR: Do you usually get headaches?
+PATIENT: Every once in a while, maybe once or twice a month, maybe even less than that.
+DOCTOR: Is your current headache similar to the headaches that you usually get?
+PATIENT: It is, yeah, it's yeah, It feels like my head is being squeezed and I kind of have a pressure, where yeah, that kind of squeezing sensation on my forehead.
+DOCTOR: That front part, both sides, left and right?
+PATIENT: Yeah, kind of both sides.
+DOCTOR: Is it accompanied with, uh, so is the headache worse when you're in bright light?
+PATIENT: No.
+DOCTOR: No, OK, is it worse when, are you trying to stay in a dark room with no sound? Is it worse when you're, when people are talking or there's loud noises around you?
+PATIENT: No.
+DOCTOR: No, any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Any stiffness in your neck? Any difficulties moving your neck?
+PATIENT: No, that's OK, I mean a bit, like I don't know, like, kind of achy I guess with my upper back and shoulders feel a bit sore but, yeah I can move my head around ok.
+DOCTOR: Alright, OK and, uhm, let's see. So have you had any fevers or chills?
+PATIENT: I don't think so.
+DOCTOR: OK, and any sore throat?
+PATIENT: No.
+DOCTOR: Runny nose, congestion?
+PATIENT: No.
+DOCTOR: OK, uhm, any other, I guess, any difficulties breathing?
+PATIENT: No, no,
+DOCTOR: Any chest pain?
+PATIENT: No.
+DOCTOR: Any palpitations? Do you feel like your heart's racing?
+PATIENT: No.
+DOCTOR: Any pain your belly?
+PATIENT: No.
+DOCTOR: Changes in your bowel movements or your urinary function?
+PATIENT: No, I haven't had any diarrhea, things have been normal.
+DOCTOR: OK, good. OK, I suppose, OK, so you've had this cough and you've had muscle aches and this headache, how has, uh, so you've tried Tylenol, have you tried anything else?
+PATIENT: No, I just use the Tylenol, and I took a Tylenol cold and sinus at night, which helped with the sleeping.
+DOCTOR: OK, can you tell me if you have any medical problems, any medical conditions?
+PATIENT: Yeah I have, uh, high cholesterol and yeah, I just have high cholesterol.
+DOCTOR: Any medications that you're on?
+PATIENT: Yeah, I take a statin.
+DOCTOR: And any allergies?
+PATIENT: Uh, maybe penicillin, I think I got hives when I was a kid or some sort of rash.
+DOCTOR: I see, OK, and any medical conditions that run in your family?
+PATIENT: I know my dad had a stroke when he was in his late 70s and my mom had high cholesterol as well.
+DOCTOR: OK, OK, and do you currently smoke? Or have you ever smoked?
+PATIENT: No, I quit smoking when I had my first kid, so that was about, yeah, that was 17 years ago.
+DOCTOR: OK, and how much did you smoke before that?
+PATIENT: I smoked about a half a pack per day.
+DOCTOR: For how many years?
+PATIENT: For about 12 years I guess
+DOCTOR: OK, and do you consume alcohol?
+PATIENT: Yeah, I'll have three or four glasses of wine over the weekend.
+DOCTOR: Alright, and what about any marijuana?
+PATIENT: Uh, no.
+DOCTOR: Any recreational drugs?
+PATIENT: No.
+DOCTOR: OK, do you take any herbal medications or any vitamins or anything else over the counter?
+PATIENT: Yeah, I do take magnesium and, like, vitamin D and, uh, a multi vitamin.
+DOCTOR: And, do you, have you had any contact with anyone who is sick or you think might be sick?
+PATIENT: I don't think so, um, everybody in my family has been been OK.
+DOCTOR: Have you had exposure to anyone or met anyone who you think might have had covid?
+PATIENT: Uh well, I did go to a family party, just last weekend. It was outside and we were maintaining distancing, but, yeah.
+DOCTOR: Are you vaccinated?
+PATIENT: No, not yet.
+DOCTOR: No, OK, alright, OK, so you've had this dry cough and muscle aches and headache for the past three days or so and your symptoms are getting a little bit worse or your cough's getting worse for the past three days. We're gonna, it could be that you have some sort of a viral infection like an upper respiratory infection but you might also or you could possibly have covid, so we'll do a covid test, and I just recommend that you stay hydrated and continue to eat and drink well and and monitor your symptoms. Take Tylenol, it sounds like Tylenol has been helping a little bit, continue to take Tylenol, get lots of rest and if you have any shortness of breath, or if you feel like your symptoms are getting worse call 911 for help if your concerned about your health at all. And we'll get a covid test set up for you.
+PATIENT: OK, thank you.

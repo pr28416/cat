@@ -1,0 +1,125 @@
+PATIENT: Hello.
+DOCTOR: Hi.  How are you doing sir?
+PATIENT: Okay.
+DOCTOR: Okay how can I help you?
+PATIENT: Um uh maybe you could sign off on this thing.
+DOCTOR: What is it?
+PATIENT: It's the physical.
+DOCTOR: For what?
+PATIENT: Uh nothing in particular.  Just an annual physical.
+DOCTOR: Okay so what for?
+PATIENT: Oh it's for uh Trilogy Incorporated I don't know, mental health providers.
+DOCTOR: Oh okay.
+PATIENT: I don't have any complaints about anything so I.
+DOCTOR: Do you still see a psychiatrist?
+PATIENT: Yep.
+DOCTOR: Okay.  Is this for work or something?
+PATIENT: Well you call it a something it's uh, well the Trilogy is a care provider for mentally ill patients.
+DOCTOR: Uh-huh.
+PATIENT: And they asked to get a physical every year.
+DOCTOR: Uh-huh.
+PATIENT: And that's it.
+DOCTOR: Okay.  Okay.  You're not working are you?
+PATIENT: Not now.
+DOCTOR: Not now.
+PATIENT: Right.
+DOCTOR: Okay when was the last time you worked?
+PATIENT: Oh I don't know let's see um it's been eight or nine years I think.
+DOCTOR: And you’re, you're not working because, what's the reason?  Is it because of the schizophrenia, you didn’t work or?
+PATIENT: Well I was working and I started making money and they uh, I reached the maximum amount I was allowed to save.
+DOCTOR: Okay.
+PATIENT: Uh so I got to that point and then I had to, I didn't have to but I did give my notice and stopped working when I did.  More money than Social Security would want me to have.  It's uh; when you get Social Security you can't have more than $2000.
+DOCTOR: Okay but are you on disability?
+PATIENT: Yep.
+DOCTOR: Okay well what's the disability for?  Is it for the schizophrenia?
+PATIENT: Yep.
+DOCTOR: Okay.  And how does that affect your work, why [REDACTED].
+PATIENT: Well I seem to do alright.
+DOCTOR: Okay.  Okay.  Um when do you see your psychiatrist?
+PATIENT: Next one is April 12th.
+DOCTOR: Okay.  Cause I can fill some of this out but the reason for your disability is schizophrenia right, so I can't really describe you know how it interferes with your work.  I'll talk the DOCTOR to see if there's something else we can do but maybe your psychiatrist would be better filling out some of this stuff.
+PATIENT: Well uh my social worker gave that to me and told me to bring it, that's about all I can say.
+DOCTOR: Okay, no that's fine it's not, not taking care of things.  You don't have any complaints today though?
+PATIENT: Nope.
+DOCTOR: No belly pain, no.
+PATIENT: Nope.
+DOCTOR: Nothing?  Okay, that's good to hear.
+PATIENT: Am I due for a blood draw?
+DOCTOR: Yeah that's what I was looking at.  I think that's the one thing that you may be due for, um and you're still taking the simvastatin?
+PATIENT: Yes.
+DOCTOR: Aspirin?
+PATIENT: Yep.
+DOCTOR: The medication for your stomach, ranitidine?
+PATIENT: Yep.
+DOCTOR: And niacin.
+PATIENT: Yep.
+DOCTOR: Anything else?  Any other meds?
+PATIENT: Clozaril and Effexor.
+DOCTOR: Clonazepam or Clozaril?
+PATIENT: You can call it Clon azepine.
+DOCTOR: Okay.  And that's from your psychiatrist?
+PATIENT: Yep.
+DOCTOR: Let me take a listen to you.  Deep breath.  Do you smoke?
+PATIENT: Yep.
+DOCTOR: How much?
+PATIENT: About a pack a day.
+DOCTOR: Pack a day.  Any thoughts of quitting?
+PATIENT: No.
+DOCTOR: Why not?
+PATIENT: I kind of like smoking.
+DOCTOR: You know it's harmful for you right?
+PATIENT: Well I believe it's harmful for some and not harmful to others.
+DOCTOR: It's harmful to everybody.
+PATIENT: Oh.
+DOCTOR: It'll, you don't feel anything and then all of a sudden it's, it gets to the point where your lungs are too affected and you can't get in any oxygen.  People end up on oxygen at home, end up on breathing machines because they can't breathe cause their lungs don't function as well.  It causes a lot of problems.  It causes heart problems.  People that smoke tend to have heart attacks a lot earlier than people that don't smoke um so and it is a lot of money, it's getting more expensive so.  That's what I want you to do for the next time I see you.  I want you to think about quitting.
+PATIENT: Or I'll cut back quite a bit maybe.
+DOCTOR: Okay.  I mean I can't say no to that but my goal is to get you to quit okay.
+PATIENT: Yep.
+DOCTOR: So think about it and make a list of all the good and bad things about smoking um okay.
+PATIENT: Yep.
+DOCTOR: Have you ever had a colonoscopy?
+PATIENT: Uh no and I don't want one.
+DOCTOR: Okay.  Yeah and you don't want the prostate cancer screening either.  Alright, let me talk to DOCTOR real quick.
+PATIENT: Okay.
+DOCTOR: Is your sight okay?
+PATIENT: Yeah.
+DOCTOR: And can you see, are those glasses or just sunglasses?
+PATIENT: Just sunglasses.
+DOCTOR: Okay so you don't wear contacts or glasses?
+PATIENT: Right.
+DOCTOR: Okay and your hearing.
+PATIENT: Nope.
+DOCTOR: Is it okay?
+PATIENT: Yep.
+DOCTOR: Can you say “ah: for me? Say “E”.  Are those your teeth or are they dentures?
+PATIENT: Dentures.
+DOCTOR: They’re dentures okay.  Okay I'll be right back.
+(DOCTOR OUT:  14:52  DOCTOR IN:  20:25
+DOCTOR: Alright.  So I'm going to fill out the parts I can fill out and then you're going to have to take it to your psychiatrist for the rest of it.
+PATIENT: Right.  That will be fun.  I don't usually like to bring those things but they tell me to, so.
+DOCTOR: Yeah no you have to get it filled out um but some of this is for the psychiatrist.
+PATIENT: The doctors yeah.
+DOCTOR: Fill out.  Want to get some blood tests today?
+PATIENT: I already ate.
+DOCTOR: Okay um when are you coming back?
+PATIENT: Tomorrow morning.
+DOCTOR: Okay then you can get the blood tests done tomorrow morning.
+PATIENT: Right.
+DOCTOR: Okay, I'll just put them in the computer so.  Okay, I'll give you that back.
+PATIENT: Thank you very much.
+DOCTOR: Sure, you're very welcome and we'll see you back in about six months.
+PATIENT: Uh-huh.
+DOCTOR: Alright. You’re all set.
+PATIENT: Well thank you very much.
+DOCTOR: You're welcome, take care.
+PATIENT: Yep.  See you in six.
+DOCTOR: Do you need any of your meds refilled?
+PATIENT: No thank you.
+DOCTOR: Okay.
+PATIENT: So long.
+DOCTOR: Bye.
+PATIENT: 22:51
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286111
+TRANSACTION # 578-10-2-316-0103

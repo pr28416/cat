@@ -1,0 +1,323 @@
+DOCTOR: 36:29
+DOCTOR: I'm DOCTOR.  Nice to meet ya.
+PATIENT: I'm PATIENT.
+DOCTOR: Okay.
+PATIENT: Out there by the door. Huh?
+DOCTOR: Yeah.  Short walk.
+PATIENT: Yeah.
+DOCTOR: Just give me any findings you have.  [REDACTED].
+PATIENT'S BROTHER R996
+Permission to check his medical records.
+DOCTOR: Are you staying in here or …
+PATIENT'S BROTHER R996
+No I don't have to stay in.  I just wanted you to know.
+DOCTOR: If you stay, I think it might be easier.
+PATIENT'S BROTHER 416
+Okay.
+DOCTOR: I can answer any questions that you all have. As long as he is comfortable if you stay in the room.
+PATIENT'S BROTHER 416
+That's fine. Okay.
+DOCTOR: Is that okay if I talk to your brother.
+PATIENT: Okay.  No problem.
+DOCTOR: Okay.  Not a problem.  Okay.  So the first question is - Why have you been away for so long?
+PATIENT: Have I been away that long?
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: The last time you were here was in 2009 and you saw DOCTOR. I don't know if you remember him.
+PATIENT: Yeah.  I forgot his name.  I just haven't had [REDACTED].
+DOCTOR: Yeah.
+PATIENT: When.  I was in here not too long ago.  [REDACTED].
+DOCTOR: At the kidney doctors.  DOCTOR, DOCTOR ?
+PATIENT: I don't know his name.
+DOCTOR: What were you to see him for?
+PATIENT: The same thing that I see DOCTOR for.
+DOCTOR: Okay.
+PATIENT: What was her name?  The lady doctor?
+DOCTOR: DOCTOR.
+PATIENT: Yeah, DOCTOR.  I was here not too long ago to see her.
+DOCTOR: How long ago was that?
+PATIENT'S BROTHER R996
+That was August.
+DOCTOR: August, oh okay.  That wasn't too long ago.
+PATIENT: Hmm, Hmm.
+DOCTOR: Did they give you new medications and everything?
+PATIENT: No they didn't give me nothing new.
+DOCTOR: Okay.
+PATIENT: He said I was doing all right with what I had.
+DOCTOR: Your blood pressure is not where it we want it to be.
+PATIENT: Right, we were talking about why it is up so high.
+DOCTOR: Um.  So you are otherwise you are looking okay.
+PATIENT: Hum. Hum.  That is the main thing.
+DOCTOR: I am going to check [REDACTED] cholesterol.
+PATIENT'S BROTHER 416
+They did a blood draw.  Did they do a blood draw?
+DOCTOR: Yeah, they did.  It is higher than where we want it to be.  Have you been having any chest pains?
+PATIENT: No chest pains.
+DOCTOR: Give me one second.
+PATIENT: Nothing but Twinkies.  [REDACTED].
+DOCTOR: Cholesterol is up.
+PATIENT: That is because I ain't had nothing to eat, but Twinkies.
+DOCTOR: (DOCTOR ON PHONE WITH LAB)
+PATIENT: AND PATIENT'S BROTHER R996
+talking while DOCTOR is on phone with Lab):
+[REDACTED].
+PATIENT: My cholesterol is up.
+PATIENT'S BROTHER R996
+[REDACTED].
+PATIENT: Oh yeah, we can do that.
+PATIENT'S BROTHER 416
+[REDACTED].
+PATIENT: Oh yeah, the Twinkies are for my blood sugar.  There ain't no cholesterol.
+PATIENT'S BROTHER R996
+The Twinkies [REDACTED].
+PATIENT: Yeah, but I need it for my blood sugar.
+PATIENT'S BROTHER R996
+The cholesterol needs to be checked. [REDACTED].
+PATIENT: Hum, hum.  Yeah, [REDACTED].  [REDACTED].  No I don't think they stay open long last week.
+DOCTOR: PHONE CALL ENDED 49:33)
+PATIENT'S BROTHER R996
+Cholesterol kinda high huh? [REDACTED] Twinkies, cupcakes.
+DOCTOR: Which you should not be doing. Yeah.  We are going to get you to join the MOVE program.
+PATIENT: Oh yeah.
+DOCTOR: We will do that straight away.  We are going to put you on medications for your cholesterol. What’s the deal with your medications? You had medications that you were on before, but are no longer on your medication list.
+PATIENT: I don't know why they stopped them?
+DOCTOR: When you run out, you can call in and we can reorder them and renew them.  But you are supposed to be taking lisinopril and it is not on your med list.
+PATIENT: What's that?
+DOCTOR: Lisinopril.
+PATIENT: I never had of that before.
+DOCTOR: You had it many times in the past.
+PATIENT: Oh yea.
+DOCTOR: You saw DOCTOR, you should have been taking the lisinopril.
+PATIENT: Hum hum.
+DOCTOR: Are you taking your blood pressure medications now?
+PATIENT: The ones I got now yep.
+DOCTOR: Do you know what you are taking?
+PATIENT: Yeah, glipizide.
+DOCTOR: How much?
+PATIENT: A dry med?
+DOCTOR: How much of glipizide are you taking?
+PATIENT: I don't know the ounce of it.
+DOCTOR: How many times a day are you taking it?
+PATIENT: Three times a day.  I take one and a half a day.
+DOCTOR: You take 1-1/2 three times a day?
+PATIENT: No, just one time a day.
+DOCTOR: 1-1/2 once a day.
+PATIENT: Yeah.
+DOCTOR: When do you take it?
+PATIENT: I usually take it when I get up before I eat my first breakfast.
+DOCTOR: You don't take anything at night?
+PATIENT: Un Uh.
+DOCTOR: As far as the blood pressure medications.  What are you taking?
+PATIENT: [REDACTED], whatever they call it.  I take it one time a day.
+DOCTOR: In the morning?
+PATIENT: Yup.
+DOCTOR: That's fine.
+PATIENT: I don't take none at night though.  I used to take that, what's its name?  But I don't take that no more.  They don't fit.  [REDACTED].  What they call it?
+PATIENT'S BROTHER R996
+He is taking them daily like he is supposed to.
+PATIENT: Yeah, the one dose two by day.
+DOCTOR: Now we are going to add two more medications.
+PATIENT: Oh you’re adding two more?
+DOCTOR: One of them is a blood pressure medication which you can take in the morning, and the other one is going to be the cholesterol medication that you can take at night.
+PATIENT: Um.
+DOCTOR: Very important.  Do you check your blood sugars at home?
+PATIENT: Oh sure.
+DOCTOR: How often do you check them?
+PATIENT: I do that, check them about three times a week.  I got a nurse that comes down on Wednesdays and she checks it too.
+DOCTOR: Three times a week?
+PATIENT: Yup.
+PATIENT'S BROTHER R996
+Strangely, it turns out his blood sugars are always pretty good.
+PATIENT: Yeah, you are getting to be pretty good.
+DOCTOR: Do you get any chest pains?
+PATIENT: Nope.
+DOCTOR: Shortness of breath?
+PATIENT: Nope.
+DOCTOR: Are you able to move around without that?
+PATIENT: Without this?  Yup.
+DOCTOR: What do you do?
+PATIENT: I move around.  I do a little.  I go outside and walk back in.
+DOCTOR: How often do you do that?
+PATIENT: That would be all right.
+DOCTOR: Why do you use that?
+PATIENT: You know I get used to it.  You know how people get when they get something new.  They use it.  I paid for it.   I may as well use it.
+DOCTOR: Is there any blood in your stool?  Or black in your stool?
+PATIENT: Nope.
+DOCTOR: When was the last time you saw an eye doctor?
+PATIENT: I want to talk to you about that too.  I want to see one, not today but as soon as possible, because I want to get these fixed and they tells me that I need to get an appointment with the eye doctor.  But they can’t do nothin for me right now.  I had to wait and get an okay from my eye doctor, my primary doctor and they could do it for me.
+PATIENT'S BROTHER 416
+His glasses are old.
+PATIENT: Yeah, these are old.  These are over 10 years old.
+PATIENT'S BROTHER 416
+Yup, need an update. [REDACTED].
+PATIENT: Yup, need an eye check anyway.
+DOCTOR: Do you get numbness or tingling anywhere?
+PATIENT: Nope.
+DOCTOR: Any lightheadedness.
+PATIENT: Nope.
+DOCTOR: Headaches.
+PATIENT: Nope.
+DOCTOR: Cough at all?
+PATIENT: No, nothing unusual.  No.
+DOCTOR: Any weight loss or weight gain?
+PATIENT: No, talking about that I think I have added weight though.
+DOCTOR: How much weight?
+PATIENT: I don't know, but the last time I weighed one week I was at 214 and the next week I was down to 207.
+DOCTOR: Are you trying to lose weight?
+PATIENT: No.  I wasn't trying.  I was walking around and stuff.  I could see losing weight.  But I just do the normal routine.
+DOCTOR: Do you need your glasses for near vision or distance vision?
+PATIENT: I need them for everything.  Near and distance.
+DOCTOR: Let me take a listen to you.
+PATIENT: What?
+DOCTOR: To listen to you.  Do you eat a lot of salty foods?
+PATIENT: No I wouldn't say salty, no.
+DOCTOR: Can you breathe normal?  Can you lean forward?  A few deep breaths through your mouth.  Real deep.  Okay.  Are you able to come over this way so I can check your blood pressure?
+PATIENT: Did something drop?
+DOCTOR: What?
+PATIENT: I was asking if something dropped?
+DOCTOR: Oh. No.
+PATIENT: I was thinking that maybe I need to take me some water, may be that will have my blood pressure go down.
+DOCTOR: Sit all the way on there.  You need [REDACTED] still?
+PATIENT: I need it now.
+DOCTOR: Any falls that you have had at all?
+PATIENT: Any falls?
+DOCTOR: Yeah.
+PATIENT: Nope.  I ain't had no serious falls or nothing.  Nope.
+DOCTOR: Do you smoke at all?
+PATIENT: Yep.
+DOCTOR: How much do you smoke?
+PATIENT: Probably about a pack every week.
+DOCTOR: Why are you smoking?
+PATIENT: Because I enjoy it, Doctor.
+DOCTOR: Are you going to quit?
+PATIENT: I don't want to quit now if I don't have to.
+DOCTOR: You should quit.
+PATIENT: Yep.
+DOCTOR: I think you have to quit.
+PATIENT: Oh yeah.  I've been smoking over 50 years now.  It is hard to give up something just like that.
+DOCTOR: It is possible and it is only for your benefit.
+PATIENT: Yeah, like I said, as long as it ain't killing me yet.
+DOCTOR: It is going to.
+PATIENT: Yeah, eventually.  Yeah I’m going to kick that bucket.
+DOCTOR: [REDACTED] this arm.  I'll hold it up.  Hold on.
+PATIENT: All right.
+DOCTOR: Don't fall.  I want you to hold it.  I will hold it up.  Okay.
+PATIENT: Okay.
+PATIENT'S BROTHER R996
+All the way, just let it go.
+DOCTOR: Just let it fall.  Just like that.
+DOCTOR: 180/90.
+PATIENT: 180?
+DOCTOR: Yea.  It is supposed to be 130.
+PATIENT: Yep.
+DOCTOR: It has a long way to go. Have a seat.  Do you get any swelling in your legs?
+PATIENT: They have been all right.
+DOCTOR: How many pillows do you sleep on at night?
+PATIENT: I used to use two pillows, now I have to sleep on three.
+DOCTOR: Okay.  Do you snore at all?
+PATIENT: I don't think I snore.
+PATIENT'S BROTHER R996
+He does.
+DOCTOR: Have you ever had a sleep study?  Do you take naps during the day?
+PATIENT: Nope.
+DOCTOR: Do you feel refreshed when you wake up?
+PATIENT: When I wake up I feel refreshed.  Yes.
+DOCTOR: Okay.
+PATIENT: Yeah, usually when I get up I will be all right.  I walk outside.  I smoke me a cigarette right quick and then come back in and I feel pretty good for the rest of the day.
+DOCTOR: Okay.  Well I am going to talk with one of the other doctors.  I'll be back in after that.  Do you guys have any questions right now?
+PATIENT: Yeah.  What about the eye glasses?
+DOCTOR: Yeah, I'll get you in to see the eye doctor.
+PATIENT'S BROTHER R996
+What about that MOVE Clinic?  What is that about?  Would he be more ambulatory [REDACTED]?
+DOCTOR: He will be seeing Physical Therapy too.  Those will be two different things.  Physical Therapy to get him walking more.  The MOVE Clinic is to help him lose weight tell him the right foods to eat [REDACTED] and it can help with his blood pressure, anxiety.  Do you have any ulcers in your feet?  Do you get numbness and tingling in your feet?
+PATIENT: Hun huh.  The feet are pretty good.
+DOCTOR: What is the reason you haven't seen the doctor in almost 3 years?
+PATIENT: I don’t know.  I never had an appointment.
+DOCTOR: But you weren't seeing any other doctors?
+PATIENT: Un Un.  [REDACTED].
+DOCTOR: Did you have someone who was ah…   At any time did you need to go into the hospital?
+PATIENT: [REDACTED] I don’t need a doctor then. He just comes back and makes sure everything is okay.
+DOCTOR: And your blood sugar.  When you check them what is the lowest number that you got?
+PATIENT: Oh the lowest number I got was, I got it written down in a journal from the nurse.
+DOCTOR: Oh okay.  Bring it in.
+PATIENT: Yeah, I'll bring it in.  Yup.  [REDACTED].  I see him on Wednesday, but the doctor wants to see [REDACTED].
+DOCTOR: I am going to have you come back in a month to see the nurse and get your blood pressure checked again.  Do you have a blood pressure cuff at home?
+PATIENT: Yeah I got a machine at home.
+DOCTOR: Does it work?
+PATIENT: Yes it do.
+DOCTOR: Okay.  I want you to bring that in when you come back in a month as well.
+PATIENT: All right.
+DOCTOR: I'll be back in a little bit.  Okay?
+PATIENT: Okay.
+DOCTOR: 65:32  DOCTOR IN:  68:51
+DOCTOR: Instead of the nurse, we are going to do a pharmacist visit.
+PATIENT: Pharmacist?
+DOCTOR: Yeah.  They will be able to get you correct on the medications.  Continue to take your meds all the time.
+PATIENT: Yeah.
+DOCTOR: Not sporadically.  They need to be taken daily.  Like you were saying, some of these meds, I don't know if you have them at home or not.  But it looks like you don't.
+PATIENT: Right.
+PATIENT: R996
+You don't have any more?
+PATIENT: Yeah, I got some at the house, but not all them.
+PATIENT: R996
+I know you don’t have the one for the cholesterol.  I know you don't have that because it's a new one, the one for the blood pressure.
+PATIENT: I got those pills.
+DOCTOR: How old are they?
+PATIENT: They are old.  They are about, oh boy, they are about two months old.  Almost two months old.  [REDACTED].
+DOCTOR: Any time you run out, you can always call and they can send you more medications.
+PATIENT: Right. [REDACTED] How many days?
+PATIENT: R996
+A month's supply.
+PATIENT: At least a month.  Yeah.
+PATIENT: R996
+Okay. [REDACTED].
+PATIENT: Oh yeah.
+PATIENT: R996
+Okay. [REDACTED].
+PATIENT: Oh yeah.
+PATIENT: R996
+[REDACTED] broken.
+PATIENT: [REDACTED] one side is over here .
+PATIENT: R996
+[REDACTED].
+PATIENT: They were a little bit different.  They were definitely different than this.
+PATIENT: R996
+Not the same prescription.
+PATIENT: [REDACTED].  Lay down to watch TV.  I use them.  I can still see them.
+PATIENT: R996
+Not as well?
+PATIENT: No.
+DOCTOR: Okay.  So I will see you back here in three months and then the pharmacist should get a hold of you.  I will also put in for the MOVE Clinic and the ophthalmologist.
+PATIENT: I will get a letter, right?
+DOCTOR: Or someone will call you.
+PATIENT: Oh yeah.
+DOCTOR: Okay.
+PATIENT: All right.
+DOCTOR: When you do these labs, they are fasting labs for one month and for three months.
+PATIENT: Fasting?  Oh okay.
+DOCTOR: Okay.
+PATIENT: All right.
+PATIENT'S BROTHER R996
+One month and three months?
+DOCTOR: Yeah.
+PATIENT: Well let me go down there and put the needle to the work.
+DOCTOR: Okay.  They will mail you out these medications.  Okay.
+PATIENT: All right doc.
+PATIENT'S BROTHER R996
+The MOVE Program stuff.  He’ll get that mailed out to him also?
+DOCTOR: Yeah.
+PATIENT'S BROTHER R996
+Okay.
+DOCTOR: Yeah I will call ahead.  Okay.
+PATIENT: Yup.
+DOCTOR: Okay, see you in a while.
+PATIENT: Okay, doctor.
+DOCTOR: Okay. Check out over here.
+PATIENT: All right.  Okay.  You got that all squared away?
+DOCTOR: Pharm D [REDACTED].  So in three months I will send you a letter. Okay.
+PATIENT: All right.  Thanks a lot.  I need to get me some water before I go down there.  Yeah Okay.  Be right there.
+Times is 2:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1255114
+TRANSACTION # 578-10-2-316-0103

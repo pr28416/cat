@@ -1,0 +1,513 @@
+DOCTOR: PATIENT.
+PATIENT: You got to speak up.  You got a vocal on.
+DOCTOR: I don't need [REDACTED].
+PATIENT: Old people are hard of hearing, you've got to [REDACTED].
+DOCTOR: So what's going on with the blood pressure?
+PATIENT: What's the matter with it?
+DOCTOR: Your blood pressure is high.
+PATIENT: What?
+DOCTOR: Your blood pressure was high.
+PATIENT: Was what?
+DOCTOR: High.
+PATIENT: No it's not.  Not yet.
+DOCTOR: You can have a seat [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Alright.
+DOCTOR: So you don't think it's high?
+PATIENT: No.
+DOCTOR: What's high for you?
+PATIENT: Uh maybe if it gets up about 300 might be high.
+DOCTOR: You [REDACTED].
+PATIENT: I only get, I know when my blood pressure's high, when I get a pain behind my eyes and my head hurts really bad then I know I got high blood pressure.  Other than that it works fine.
+DOCTOR: So if it gets to that point it's [REDACTED].
+PATIENT: Uh it gets too low I can't do nothing, all I do is sit around and do nothing and pass out.
+DOCTOR: And what's too low?
+PATIENT: Uh what you people want 130 over whatever.  I can't get down that low.  If I go that low I can't move.
+DOCTOR: Hmm.
+PATIENT: I got to be able to have a little blood pressure.  It's just like in a car, when the oil pressure is high the car runs good.
+DOCTOR: Uh-huh.
+PATIENT: When my blood pressure's high I run good.
+DOCTOR: Hmm.  See, the thing about your blood pressure going high is something getting to 300 that's um an impending stroke.
+PATIENT: Huh?
+DOCTOR: You should never feel your blood pressure, even if it's high you shouldn't feel it, that's you know, that's concerning cause it's a risk for stroke.
+PATIENT: No I can feel it when it's high.
+DOCTOR: That's what I'm saying cause that means it's getting way too high and its way too late.  It shouldn't be like that.
+PATIENT: Oh well, where it's at now, it's not bad.  I would say fair to midland right there.  It goes down though.
+DOCTOR: How low does it go?
+PATIENT: It goes down pretty low after I'm up out of my car for a couple days.
+DOCTOR: Out of your car?
+PATIENT: Yeah.
+DOCTOR: What do you mean?
+PATIENT: Expressway driving.
+DOCTOR: Uh-huh.
+PATIENT: Gives me high blood pressure.
+DOCTOR: Hmm.  Last time [REDACTED].
+PATIENT: Because I think there's close to 90 million of them out there that don't know how to drive.
+DOCTOR: I agree with you.  That I cannot disagree with you.
+PATIENT: My car is a testimony to that.
+DOCTOR: Uh-huh.
+PATIENT: My car is 15 years old and never been in an accident.  Young kid who lives out in the western suburbs drove all the way over by where my house is just to run into me.
+DOCTOR: Uh-huh.
+PATIENT: On my side of the street, he ran head on into me.
+DOCTOR: Hmm.  When was that?
+PATIENT: Uh just about a month and a half or two.
+DOCTOR: Uh-huh.  Did you get hit?
+PATIENT: Huh?
+DOCTOR: Did you get hit?
+PATIENT: Did I get hurt?  Just my hand I uh sprained my wrist but it's alright now.
+DOCTOR: Uh-huh.
+PATIENT: Uh but the thing is.
+DOCTOR: Uh-huh.
+PATIENT: The insurance company wouldn't pay to fix my car.
+DOCTOR: Uh-huh.
+PATIENT: Because they said it was too old.  They gave me lot value for the car which is not what the car was worth.  That car was offered 20 grand for the damn thing and all they gave me for the car was $1800 to fix it and it was $3000 worth of damage.
+DOCTOR: Uh-huh.
+PATIENT: They only gave me $1800.  I was offered 20 grand for that car, that's $20,000 and I refused it you see.
+DOCTOR: Uh-huh.
+PATIENT: Because I liked that car.  It's a 96 Oldsmobile.
+DOCTOR: Uh-huh.
+PATIENT: It's the last one of its kind made.
+DOCTOR: Oh really hmm.
+PATIENT: So it was worth a lot of money.
+DOCTOR: Yeah.
+PATIENT: It was worth more than 20 grand seeing that it was the last one made.  The kid wanted to buy it, he offered me 20 for it, I told him to go home and get some more money.  He asked me how much I wanted for it and I said well seeing that it's the last one made you got a million dollars I'd sell it to you.
+DOCTOR: Uh-huh.
+PATIENT: But some other jerk had to hit it, now it was in an accident; I got to get a bumper, a new dash, steering wheel.
+DOCTOR: Okay.
+PATIENT: Uh the grill in front.
+DOCTOR: Uh-huh.
+PATIENT: A fender and a hood.
+DOCTOR: Uh-huh.
+PATIENT: And all that, plus its gotta be painted and the guy I took it to talking about $3000 I said yeah could you do it for what the insurance company paid me and then he laughed at me, no.  I, oh,  well.
+DOCTOR: Alright how low does your blood pressure get at home?
+PATIENT: Uh I'd say it gets around 180, around 180, 185, something like that.  That's kind of low.
+DOCTOR: Okay.
+PATIENT: But when it gets really low, I don't know what it is, I just don't feel like moving at all.  I just sit there and fall asleep you know.
+DOCTOR: Uh-huh.
+PATIENT: But that doesn't bother me falling asleep because I only get like three or four hours of sleep at night.  I got.
+DOCTOR: Alright so let's talk about your blood pressure again.
+PATIENT: Bad sleep problem.
+DOCTOR: What do you take for your blood pressure?  Do you take anything?
+PATIENT: Yeah, I listen to music.
+DOCTOR: Uh-huh.
+PATIENT: It soothes me really good and uh.
+DOCTOR: This is a really high blood pressure, I'm definitely not comfortable with it I'll tell you that.
+PATIENT: I'll keep it.
+DOCTOR: You're not interested in treating it?
+PATIENT: No I don't want it.  I don't want anything to lower it anymore.
+DOCTOR: Okay.
+PATIENT: It's kind of low.
+DOCTOR: So just so you know the normal numbers are 120, 130s okay, these are normal.
+PATIENT: Uh-huh.
+DOCTOR: And your numbers are in the 200s.
+PATIENT: It was 216.
+DOCTOR: Yes.
+PATIENT: Yeah.
+DOCTOR: It's extremely high.
+PATIENT: I don't have a headache.
+DOCTOR: It doesn't matter.  If you have a headache, like I said it's already too late.
+PATIENT: When I get a headache.
+DOCTOR: Uh-huh.
+PATIENT: I just, rub my temporal lobes here on both sides.
+DOCTOR: Uh-huh.
+PATIENT: And I hum and it goes away, blood pressure goes down, the head don't hurt.
+DOCTOR: What causes your blood pressure to be that high, what's going on?
+PATIENT: It's something that, whenever something strikes me and pisses me off real bad.
+DOCTOR: Uh-huh.
+PATIENT: Then my blood pressure goes high.
+DOCTOR: What pisses you off that bad?
+PATIENT: My blood pressure goes high when I'm babysitting and I baby-sit seven days a week.
+DOCTOR: Uh-huh.
+PATIENT: For my two daughters.
+DOCTOR: Seven days a week.
+PATIENT: I got two grandsons with one and one with the other one uh they're little sons-of-bitches they are.  I tell you, if I don't get buzzed real good while I'm watching them, if I don't get a good high or something.
+DOCTOR: High from what?  Marijuana?
+PATIENT: Oh yeah uh-huh.
+DOCTOR: When was your last use?
+PATIENT: Huh?
+DOCTOR: When was the last use?
+PATIENT: Last time I baby sat.
+DOCTOR: Which was yesterday.  You baby-sit every day.
+PATIENT: Every day.
+DOCTOR: Okay.  Alright so [REDACTED].
+PATIENT: So then it calms me down.
+DOCTOR: Uh-huh.
+PATIENT: And then the kids could tear the house up.  It's my house but uh I let them tear up anything but my couch, my TV.
+DOCTOR: Okay.
+PATIENT: And my games.
+DOCTOR: Okay.  Any other.
+PATIENT: Anything else I don't care if they tear it up.  Uh they.
+DOCTOR: Do you live by yourself?
+PATIENT: Do I live by myself?
+DOCTOR: Uh-huh.
+PATIENT: Most of the time yes.
+DOCTOR: Okay.
+PATIENT: Um but uh my daughters come in all the time.
+DOCTOR: Okay and your wife?
+PATIENT: Gone.
+DOCTOR: Okay.  Well any other drug use?
+PATIENT: What?
+DOCTOR: Any other drugs?
+PATIENT: Any other drugs?  Oh hell no.
+DOCTOR: Any cocaine?
+PATIENT: Oh hell no.
+DOCTOR: Heroin?
+PATIENT: Huh?
+DOCTOR: Heroin?
+PATIENT: No, no other drugs.  I can't take them.
+DOCTOR: Okay.
+PATIENT: Uh cocaine.
+DOCTOR: Uh-huh.  What about alcohol?
+PATIENT: I go to sleep if I snort cocaine.
+DOCTOR: Oh really, you'd tried it though?
+PATIENT: Oh yeah.
+DOCTOR: When was that?
+PATIENT: I tried it; I don't ever condemn anything unless I try it first.  Long time ago.
+DOCTOR: Long time ago.
+PATIENT: Long time ago, heroin, all of that stuff, I tried all that.  Heroin gave me a bad feeling so I don't ever do that.  Uh hmm, let me see alcohol yeah.  I used to drink a lot when I road my bike.
+DOCTOR: Uh-huh.
+PATIENT: I used to be a bike rider.
+DOCTOR: Uh-huh.
+PATIENT: I had a real nice chopper.
+DOCTOR: Uh-huh.
+PATIENT: Anyway uh yeah I uh I drank then but now I only drink uh when I go to a party or like uh birthday party, anniversary party, Christmas.
+DOCTOR: Do you drink a lot or no?
+PATIENT: Oh hell no.  Uh I go to my relatives house like my brother or my sister, something like that.  I ain't gonna sit there and get sloppy drunk.  Uh no I uh, at the most I have like three drinks in the whole day.
+DOCTOR: Uh-huh.
+PATIENT: Which ain't too bad, that ain't bad at all.
+DOCTOR: Okay.
+PATIENT: I'll sit and talk with my brother and have a snifter of cognac.
+DOCTOR: Okay.  Alright.
+PATIENT: I like Hennessee Brass Arm, that's a good one.
+DOCTOR: Alright it looks like you saw the cardiologist back in September.
+PATIENT: The what?
+DOCTOR: The heart doctor back in September.
+PATIENT: What about it?
+DOCTOR: You saw them.
+PATIENT: I saw them?
+DOCTOR: Yeah.
+PATIENT: I don't know did I?  Did it say I did on there?
+DOCTOR: It does yeah.
+PATIENT: Okay then I did.  That's another thing; I have a memory like a steel trap.
+DOCTOR: Uh-huh.
+PATIENT: It goes in and it's gone, you can't find it.
+DOCTOR: Okay.
+PATIENT: Yeah I used to have a bumper sticker on my other car it said I suffer from CRS.
+DOCTOR: Uh-huh.
+PATIENT: You know what CRS is?
+DOCTOR: Nope.
+PATIENT: Can't remember shit.  Of course that's not as bad as Alzheimer's huh.  I knew a guy that used to forget to eat.  I can't do that my stomach won't let me do that.  It starts eating itself grrrrr.
+DOCTOR: (Doctor answers a page)
+PATIENT: Oh there's one other thing that brings my blood pressure up.
+DOCTOR: Uh-huh.
+PATIENT: Uh when I take too much vitamin B.
+DOCTOR: Uh-huh.
+PATIENT: I just took mine this morning, my vitamin B12, vitamin B6.
+DOCTOR: Uh-huh.
+PATIENT: Uh green tea extract.
+DOCTOR: Uh-huh.
+PATIENT: Uh Mega Q, Mega Q3, yeah that's a good one, got krill oil and stuff in it and some more vitamin B12 and 6, so I got a lot of that in there right now.
+DOCTOR: That's fine so vitamin D and all that, [REDACTED].
+PATIENT: And vitamin E.
+DOCTOR: Do you take the aspirin and Plavix?
+PATIENT: Oh yeah aspirin and Plavix first.
+DOCTOR: Uh-huh.
+PATIENT: That's how I remember to take the rest of the stuff because if I take that, the rest of the stuff is right there with it so I take that then.
+DOCTOR: Uh-huh.
+PATIENT: Uh I take the green tea extract it's to improve my vision.
+DOCTOR: Uh-huh.
+PATIENT: It's got other stuff in it too.  It's supposed to help your eyesight.
+DOCTOR: Uh-huh.
+PATIENT: I don't know cause I just started taking it about two days ago you know.
+DOCTOR: Uh-huh.
+PATIENT: Um let's see.  There's other stuff, I take potassium and magnesium, vitamin D, vitamin D3 and um what the hell is the other one MSM, I don't know what the hell it stands for.
+DOCTOR: What?
+PATIENT: But it's supposed to uh be for your skin and bones.
+DOCTOR: Uh-huh.
+PATIENT: Hair and everything.
+DOCTOR: So.
+PATIENT: And then I take a.
+DOCTOR: Who told you to take all these?  Who prescribed them or how did they come about?
+PATIENT: How did I come about taking these?
+DOCTOR: Uh-huh.
+PATIENT: Uh I subscribe to a health letter from Mayo Clinic and stuff like that.
+DOCTOR: Uh-huh.
+PATIENT: And uh they uh you know send out what you need for different things, so I buy them and I use them.
+DOCTOR: Uh-huh.
+PATIENT: Um another one I got out of a medical book was called Propellus, I don't know if you know what that is.  It's uh you take that along with the rest of your vitamins and it's supposed to enhance them from 10 to 100 times as much.
+DOCTOR: Why do you need all these vitamins?
+PATIENT: Uh I got to keep up with them three little boys.
+DOCTOR: Uh-huh.
+PATIENT: And they wear me out.  I run from one end of my house to the other because one does something one place.
+DOCTOR: Uh-huh.
+PATIENT: I go running over there, the other two are tearing up something else.
+DOCTOR: Okay.
+PATIENT: And they do this all day long.
+DOCTOR: Hmm.
+PATIENT: And there's no.
+DOCTOR: If you didn't have to babysit your boys you wouldn't take all this?
+PATIENT: Huh?
+DOCTOR: If you didn't have to babysit the boys you wouldn't be taking all this?
+PATIENT: Uh I probably would but then uh I wouldn't be at home I'd be out.
+DOCTOR: Out where?
+PATIENT: I'd be out working in the garden.  I got a big old garden.  See I'm a farmer at heart.  I got a nice big garden.  My onions and uh what do you call it, garlic, boy something garlic this high, four inches high already.
+DOCTOR: The garlic or the onions?
+PATIENT: Onions, onions and garlic both.  They're both about four inches high already.  I'm figuring I'll have onions in about, about a month, month and a half, not bad.  And I got beans that are growing already.  They're about the same height, some of them are, not all of them.  Then I got some small cucumbers.  They're only about this big, they're just coming up.
+DOCTOR: Do you cook?
+PATIENT: Huh?
+DOCTOR: Do you cook?
+PATIENT: Oh yeah.
+DOCTOR: Hmm.
+PATIENT: Yeah I cook.  They tried to get me to be a cook in the Army and I told them to kiss my butt.
+DOCTOR: Why?
+PATIENT: I wouldn't cook for nobody.  They wanted me to, after they caught me breaking into the Mess Hall.
+DOCTOR: What were you doing?
+PATIENT: Cooking.
+DOCTOR: Hmm.
+PATIENT: See I'm a tanker.  I was a tank gunner.
+DOCTOR: Uh-huh.
+PATIENT: And that uh but uh at night I broke into the Mess Hall.  I used to do it once a month at least.  I'd break in, make a big meal and then bake some pies and cakes, then take it all up to the Day Room.
+DOCTOR: Uh-huh.
+PATIENT: And all the guys in my company they'd all come running up there.
+DOCTOR: Did you go to the foot doctor for your toenail fungus?
+PATIENT: Huh?
+DOCTOR: Did you go to the foot doctor for your toenail fungus?
+PATIENT: Yeah I went uh.
+DOCTOR: What did they do?
+PATIENT: Huh?
+DOCTOR: What did they do?
+PATIENT: They cut the hell out of my toenail.
+DOCTOR: Uh-huh.
+PATIENT: Uh there ain't much of it left, I'll show you.
+DOCTOR: So, they wanted you to go back and see them in October.
+PATIENT: Huh?
+DOCTOR: They wanted you to go back three months in October.
+PATIENT: They want me to go back?
+DOCTOR: Uh-huh.
+PATIENT: Look at what happened.  He cut the nail here and all of it disappeared underneath.  Well I told them what I was doing you know.  This is all that's left of that nail, right there.
+DOCTOR: Uh-huh yeah.
+PATIENT: And uh I told them that I was soaking my feet with CLR.
+DOCTOR: Uh-huh.
+PATIENT: Because I was getting tired of the fungus.
+DOCTOR: Uh-huh.
+PATIENT: So I went to extremes and I soaked them in CLR.
+DOCTOR: Uh-huh.
+PATIENT: And that's probably stopping the fungus, it killed it you know.
+DOCTOR: Uh-huh.
+PATIENT: CLR is a light acid.
+DOCTOR: Yeah.
+PATIENT: It's a muriatic acid.
+DOCTOR: Uh-huh.
+PATIENT: And well it really done the job on it because there's no toenail fungus on that toe no more.
+DOCTOR: Okay.  So tell me what are your expectations when you come to see the doctor's office.  What do you expect?
+PATIENT: What do I expect?
+DOCTOR: Uh-huh.
+PATIENT: Nothing.
+DOCTOR: Nothing?
+PATIENT: Not a thing.
+DOCTOR: So how come you come in?
+PATIENT: Huh?
+DOCTOR: How come you come in?  What would you like from us?
+PATIENT: They tell.
+DOCTOR:
+DOCTOR: [REDACTED].
+PATIENT: They tell me I have to come in.  I wouldn't come in unless I really, huh?
+DOCTOR: Everything is your choice.  I'm saying your blood pressure is extremely high, [REDACTED] than others um but you don't want any medication.
+PATIENT: Oh no, no, I won't take that.
+DOCTOR: Okay so what can I do for you?
+PATIENT: Uh I don't know, what can you do?  Well I know, no blood pressure medicine.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And you don't cholesterol medications?
+PATIENT: Oh I take that, I take a cholesterol.
+DOCTOR: What do you take?
+PATIENT: I take red uh.
+DOCTOR: Not medication, that's vitamins.
+PATIENT: Red yeast rice is what I take.
+DOCTOR: Okay but I'm talking about.
+PATIENT: That's cholesterol medicine.  That's better than anything you got.
+DOCTOR: Okay.  But that's not something I'd prescribe.
+PATIENT: Huh?
+DOCTOR: That's not something I prescribed.
+PATIENT: I know you wouldn't prescribe it, I know that.  Because you don't want nobody to get well I understand that.  You want to sell drugs that you got stock in the drug company; you want to sell them drugs to me.
+DOCTOR: I have no stocks in any drugs.
+PATIENT: Well I don't want them.
+DOCTOR: No, no.  I don't have, hey let me finish.
+PATIENT: Alright Lipitor.
+DOCTOR: Uh-huh.
+PATIENT: There's a bad side of that um, the one that I was taking I can't remember what the hell name of it was but it gives you bone fractures.
+DOCTOR: Okay.  Can I tell you something?
+PATIENT: I will not take anything that's gonna fracture my hip cause I love to walk.
+DOCTOR: Okay, absolutely and I don't want you to fracture your hip also okay but this is where I am you know.  I don't mind seeing you in the clinic um whenever you want to come in that's fine but the kind of blood pressure you have that makes me nervous.
+PATIENT: What?
+DOCTOR: If you have a stroke from the 200 blood pressure.
+PATIENT: Oh don't worry about that.  I keep telling my kids that you don't worry about it.  You don't have to worry about it.  It's mine; let me worry about that part.
+DOCTOR: Okay so.
+PATIENT: Let go.
+DOCTOR: Let me finish.  I am not your child, I'm your doctor.
+PATIENT: Uh-huh.
+DOCTOR: My job is to take care of your health.
+PATIENT: Right.
+DOCTOR: That's what I do for a profession.
+PATIENT: And it.
+DOCTOR: Okay [REDACTED].
+PATIENT: And if you listen to the patients as much as you talk to them you'd get a lot more done and you'd understand better.  I'm not like most people.
+DOCTOR: I hear that.
+PATIENT: My insides are not like most people.  They don't act the same as most people.  I don't act, I don't react to drugs the way most people do.
+DOCTOR: I understand that.
+PATIENT: A lot of pain killers that they give me in the hospital do not work uh when they find one that does work they tell me oh no we can't give you that one no more.  Now the only one that worked when I was in the hospital before was Demerol.  Nothing else they give me uh the codeine uh Tylenol with codeine and everything.  That was like eating an M & M.
+DOCTOR: Hmm.
+PATIENT: It done the same thing to me as an M & M.
+DOCTOR: Uh-huh.  I'm not talking about that, I'm talking about your blood pressure.
+PATIENT: Yeah well that's what I'm talking about too.  The blood pressure, the blood pressure I can't take the pills because the pills don't do what they're supposed to do.  They don't.  One of them actually brought my blood pressure up, it come up as high as it is today without even having to go and drive on the Expressway.  I got a ride here that day and my blood pressure was high.
+DOCTOR: So.
+PATIENT: Uh.
+DOCTOR: I mean I can check the pressure again.
+PATIENT: My blood pressure goes up every time I hit that Expressway.
+DOCTOR: Right uh-huh.  I can see what your blood pressure is right now.  The last time you came in your pressure was okay.
+PATIENT: Yeah well it takes a while for it to get down after being on the Expressway I can tell you that right now.
+DOCTOR: [REDACTED].
+PATIENT: What was it, I don't know but I didn't see what it was uh.
+DOCTOR: Uh it's 200/100.  It's still pretty high.
+PATIENT: Oh it's going down slowly.  I tell you it just takes time to go down because I mean if you were in the car with me coming here.
+DOCTOR: Take a deep breath; take a deep breath, okay.  And you had your valve replacement.
+PATIENT: Huh?
+DOCTOR: You had your valve replaced, heart valve replacement surgery?
+PATIENT: Yeah one.
+DOCTOR: [REDACTED].
+PATIENT: Well I had a valve replaced.  It still hisses though right?
+DOCTOR: Yes.
+PATIENT: They took out the trace of the old one; they said it was replacing the old one though.
+DOCTOR: Okay have a seat, go ahead and get dressed, I'll be back.
+PATIENT: But they told me that uh they ain't gonna reopen it unless something else and it ain't nothing else yet so.
+DOCTOR: Okay fine.
+PATIENT: Gotta leave it.
+(DOCTOR OUT:  40:23  DOCTOR IN:  47:15)
+DOCTOR: [REDACTED].  I talked to DOCTOR, you met him before.
+PATIENT: Who?
+DOCTOR: He's seen you before, DOCTOR.
+PATIENT: Oh yeah.  That's the head doctor.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: She said it's fine if you don't want to take any medications from here.
+PATIENT: Okay.
+DOCTOR: Um so next time you'll just see her.  I'm gonna have you follow up with her.
+PATIENT: Okay.
+DOCTOR: And that's it.
+PATIENT: That's it?
+DOCTOR: Yep.
+PATIENT: Okie dokey, thank you.
+DOCTOR: No problem.
+PATIENT: Alright.  Oh there's one other thing that uh I could probably attribute to the.
+DOCTOR: Blood pressure.
+PATIENT: Blood pressure.
+DOCTOR: Uh-huh.
+PATIENT: Uh swellness.
+DOCTOR: Swellness?
+PATIENT: Yeah.
+DOCTOR: What's that?
+PATIENT: You know swelling.  My legs are swelled.
+DOCTOR: Uh-huh.
+PATIENT: You see that.  Usually I can see the bone here real sharp and on my feet I could see the veins and stuff when I'm not swelling up and the leg is a lot skinnier here but I know that I'm swelling.  I can feel it in my feet.
+DOCTOR: Uh-huh.
+PATIENT: You know the feet feel swollen.
+DOCTOR: Uh-huh.
+PATIENT: Uh so I know I got swellness in my legs.
+DOCTOR: Uh-huh.
+PATIENT: Probably all the way up to the hip I don't know.
+DOCTOR: Uh-huh.
+PATIENT: But um when I get that like this.
+DOCTOR: Uh-huh.
+PATIENT: I sent to this company, it's called Travita.
+DOCTOR: Uh-huh.
+PATIENT: They have a thing that they get from cactus plants called Nopala.
+DOCTOR: Uh-huh.
+PATIENT: I get four quarts of that and I drink 3 ounces a day every day until it's all gone.
+DOCTOR: Uh-huh.
+PATIENT: And the swellness goes away.
+DOCTOR: Hmm.  What about, do you see a naturopath?  There are natural doctors that.
+PATIENT: A what?
+DOCTOR: A naturopath.  They're called naturopaths; they're doctors who do natural medications.
+PATIENT: That's what I like natural medications.
+DOCTOR: We don't have them in this hospital.
+PATIENT: You don't have them in this hospital.
+DOCTOR: Yeah but you know they exist and you could look them up and see them so they can kind of help you with your medications and everything.
+PATIENT: Uh yeah I could.  Do you have uh?
+DOCTOR: I don't have any.
+PATIENT: You don't have any huh.
+DOCTOR: No.
+PATIENT: Cause I mean if you had one uh I'd call them and find out or get an appointment with him or something.
+DOCTOR: I don't have one.
+PATIENT: Because uh I wish they had them here in the hospital you know.  There's one old doctor in here that I can't remember his name but uh.
+DOCTOR: Uh-huh.
+PATIENT: He is the one that I uh checked on a lot of the drugs that they were giving me already.
+DOCTOR: Uh-huh.
+PATIENT: And I told him what I was feeling from them and he said well they all have side effects and that and he told me about the uh the one for the cholesterol and I said well I definitely don't want a fractured hip so that one's out and I tell him I says when I get uh higher blood pressure from taking this one pill and he said that pill yeah okay and he told me about that one, then I asked him about the Plavix.
+DOCTOR: Uh-huh.
+PATIENT: And he said well actually all Plavix is like baby aspirin.
+DOCTOR: Uh-huh.
+PATIENT: He says same thing as baby aspirin but it doesn't have aspirin in it.
+DOCTOR: Uh-huh.
+PATIENT: No aspirin in it I said well that sounds good.  Aspirin that's not aspirin well and he says yeah and I couldn't find, everything I read didn't say nothing about Plavix being bad so I kept taking that.  Now I hear a report on it saying that it doesn't do nothing.
+DOCTOR: The Plavix?
+PATIENT: Yeah.
+DOCTOR: Hmm.
+PATIENT: That's what somebody wrote a report on so it got into the news and everything, it was on the news and I asked that same doctor about it and he says well somebody's blowing smoke he said because.
+DOCTOR: Uh-huh.
+PATIENT: He says well some people, he says for some people it doesn't, I don't know.  Does Plavix work the same for everybody or not?
+DOCTOR: It should.
+PATIENT: Uh but he said for some people it don't.  I said for me I think it works actually I think it keeps the platelets from sticking together because I don't have any more pain in my chest.  I used to get pain in my chest uh before when I didn't take the Plavix so I keep it, I been taking it ever since I had this done you know and until I can find something to take its place natural then I'll keep taking Plavix.
+DOCTOR: Uh-huh.
+PATIENT: But right now I haven't found anything so.  I'll keep looking in my books and different health food stores.
+DOCTOR: Alright.
+PATIENT: I'll find something that'll take the place of it.
+DOCTOR: Of Plavix?
+PATIENT: Yeah.  Alright.
+DOCTOR: Alright.
+PATIENT: Well you take it easy.
+DOCTOR: You too.
+PATIENT: And I thank you very much.
+DOCTOR: Thank you take care.
+PATIENT: Alright.
+DOCTOR: See you next time; you can leave the door open.
+PATIENT: You're a very nice doctor you listen, most of them don't.  The dudes they don't want to listen.  They think they know everything.  The guys you know, come fresh out of school, they know everything.  They don't.  Even the old doctors don't know everything.
+DOCTOR: Nobody knows everything.
+PATIENT: When I went in because uh my daughters called and I didn't want to go, they forced me to go in there, I went in there, this old doctor.  I don't know, had to be in his 50s, started telling me well you got to stop drinking and smoking.  I haven't smoked a cigarette since I was 25 years old.  I haven't gotten drunk since I was probably about 30.
+DOCTOR: Uh-huh.
+PATIENT: So I'm 70 now so because he was so serious about it in the hospital talking this shit I said to him I said okay doc I'll quit all of it.  I'll quit cold turkey right now cause I wasn't doing it in the first place.
+DOCTOR: Yep.
+PATIENT: That's all, so I told him the truth I quit cold turkey.  I don't smoke, I don't drink.
+DOCTOR: Good.
+PATIENT: Good.
+DOCTOR: That doctor needs to talk to you again.
+PATIENT: Huh?
+DOCTOR: That doctor needs to talk to you again, the same doctor.
+PATIENT: When?
+DOCTOR: I don't know, I don't know who the doctor was but we need to find him.
+PATIENT: Oh that old guy?
+DOCTOR: Yeah who was it?
+PATIENT: I can't remember.  I can't remember his name.
+DOCTOR: Okay.
+PATIENT: But uh he was here on the weekend.
+DOCTOR: Oh okay.
+PATIENT: He was the resident for the weekend I guess.
+DOCTOR: Oh okay.
+PATIENT: You know.
+DOCTOR: Uh-huh.
+PATIENT: This was quite a while ago, grey-haired guy.
+DOCTOR: Many of them here so.
+PATIENT: Yeah I know, a lot of grey-haired doctors.
+DOCTOR: Yeah.
+PATIENT: There's a lot of them too.  I mean there's some heavy ones but he was thin and everything else, he was really nice and he was real informative and I told him all the stuff he says yeah well a lot of them are like that and blah, blah, blah, blah I said what, okay but if I do see him I'll have him get a hold of you all over here alright.
+DOCTOR: Sounds good.
+PATIENT: Alright, thank you, take it easy.
+DOCTOR: Alright, take care.
+PATIENT: You don't give me the stamp do you?
+DOCTOR: No. [REDACTED].
+PATIENT: I don't get the stamp from you I get it from up front right?  Okay.
+PATIENT: 54:36.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300323
+TRANSACTION # 578-10-2-316-0103

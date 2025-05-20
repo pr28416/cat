@@ -1,0 +1,139 @@
+DOCTOR: PATIENT?  Come on back sir.
+PATIENT: Okay.
+DOCTOR: Haven’t seen you in a while.
+PATIENT: Yea.
+DOCTOR: [REDACTED] a year.
+PATIENT: Yea [REDACTED].
+DOCTOR: Alright [REDACTED].
+PATIENT: Maybe [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yea, yea.  Uh you know, I made an appointment and she canceled them.
+DOCTOR: Oh, okay.  You had an abnormal stress test right?
+PATIENT: Yea.
+DOCTOR: And you never got your colonoscopy.  Right?
+PATIENT: She canceled it.
+DOCTOR: And then I think she placed a consult for Cardiology [REDACTED].
+PATIENT: Yea I think.
+DOCTOR: Have you seen them yet?
+PATIENT: No.
+DOCTOR: No?  Okay. Why not?
+PATIENT: And, and, and, I see them on the 10th.
+DOCTOR: Oh.  Alright.  Good.  [REDACTED] right?
+PATIENT: That [REDACTED] appointment confused and I thought I was seeing them today and I thought this appointment was on the 10th.
+DOCTOR: I see.  You have diabetes and hypertension, hyperlipidemia, COPD.
+PATIENT: What is hyperlipidemia?
+DOCTOR: High cholesterol.
+PATIENT: Oh.
+DOCTOR: [REDACTED] or anything like that?  No?
+PATIENT: Ah every now and then.
+DOCTOR: [REDACTED].
+PATIENT: Yea [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Maybe, yea, a couple of times a month.
+DOCTOR: Not, none right now right?
+PATIENT: No.
+DOCTOR: Okay and what brings it on?
+PATIENT: I don’t know. You know why I think?  I have, you know I have these [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Not just that. You know sometimes my chest will hurt.  You know, like a thump, thump hurt.
+DOCTOR: Okay and is that with exertion or just at rest? Like, when you’re exerting yourself?
+PATIENT: Yea.  Exertion.
+DOCTOR: Any shortness of breath with it?
+PATIENT: Yes.
+DOCTOR: Has it been increasing in frequency or no?  Been about the same?
+PATIENT: Ah, uh huh.
+DOCTOR: [REDACTED] times a month [REDACTED] long time now.
+PATIENT: Yea.
+DOCTOR: Uh, so the Lantus how much do you take?
+PATIENT: 25 units.
+DOCTOR: What do your sugars run?
+PATIENT: Ah, [REDACTED].  They been pretty good lately, ah every now and then you know they are high.
+DOCTOR: How high?  What are they running?
+PATIENT: Say I am running about between 110 and 160 for the most part.
+DOCTOR: In the morning?
+PATIENT: Yea but I usually do it before I take the insulin and that is in the evening.
+DOCTOR: Okay, that is not bad.
+PATIENT: Ah a few times, you know, it has been high right.
+DOCTOR: Yea.
+PATIENT: It’s normally high in the morning.
+DOCTOR: [REDACTED].
+PATIENT: Yea, I’ve done that a couple of times.
+DOCTOR: Where you get too low?
+PATIENT: Yes.
+DOCTOR: Is that often though?
+PATIENT: Ah no.
+DOCTOR: Okay.
+PATIENT: That don’t happen maybe, maybe two or three times a month.
+DOCTOR: [REDACTED] take this for?
+PATIENT: Heroin addiction.
+DOCTOR: Cholesterol looks good, that looks good, [REDACTED] also uh, [REDACTED] blood pressure is good today.  You take amlodipine, aspirin, glyburide, hydrochlorothiazide, insulin, lisinopril and your inhalers and uh cholesterol medication, is that right?
+PATIENT: Yes.  You know what I need [REDACTED]?
+DOCTOR: What do you need?
+PATIENT: A consult so I can get back in the Smoking Clinic.  The one upstairs in the specialty Clinic.
+DOCTOR: Um, [REDACTED].
+PATIENT: Yea, I am trying to stop smoking but I want to get back in the clinic so I can get the patches again.
+DOCTOR: Okay.  Ah, have you cut back or are you still smoking?
+PATIENT: Yea, I am still smoking.  Yes I have cut back.
+DOCTOR: Okay.  How much are you smoking?
+PATIENT: Now I am still smoking about six to eight cigarettes a day.
+DOCTOR: Okay.
+PATIENT: I’m, I’m, I want to cut that to nothing but like I said I need, I am going to get the patches again because that will help me.
+DOCTOR: Do you see Podiatry normally?
+PATIENT: No.
+DOCTOR: Do you check your feet routinely?
+PATIENT: Yes.
+DOCTOR: Do you get numbness or tingling in them?
+PATIENT: Oh sure.
+DOCTOR: Yea, any ulcers in your feet?
+PATIENT: No, no.
+DOCTOR: Okay, can I look at your feet really fast? And do you want your tetanus shot today?
+PATIENT: I need a tetanus shot today?
+DOCTOR: Yea.
+PATIENT: If I need it okay.  Why do I need a tetanus shot?
+DOCTOR: Ah, you need it once every twenty years.
+PATIENT: [REDACTED] shoes make my feet look [REDACTED] bathe [REDACTED] didn’t oil them.
+DOCTOR: Have you ever had a colonoscopy?  You had a colonoscopy before this one?
+PATIENT: No.  So what is the abnormality with the heart?
+DOCTOR: How long have you [REDACTED] that you have coronary artery disease but we won’t know until you are seen by Cardiology.  And that’s why that’s important.
+PATIENT: For what?  Maybe I need a bypass or something?
+DOCTOR: Well hopefully not but it is you know, an abnormal stress test is concerting [REDACTED] you do get chest pains.  So you will get testing.  Um, [REDACTED] need to get more information.  Okay?  Your breathing otherwise is stable though?
+PATIENT: Uh, as long as I take my medicine.
+DOCTOR: Okay.  Good.
+PATIENT: If I don’t take the medicine then I can’t breathe.  I can barely go down the stairs to pick up the paper.
+DOCTOR: Oh, okay.  [REDACTED].  Deep breath.  Good.  Again.  Again.  [REDACTED].  Okay.  Let me talk to DOCTOR and I will be right back okay?
+PATIENT: Okay.
+DOCTOR: 23:17  DOCTOR IN:  27:20
+DOCTOR: Hello NAME.
+PATIENT: Hello.
+DOCTOR: Happy New Year.
+PATIENT: Happy New Year to you too.
+DOCTOR: Good.  So [REDACTED] Cardiology to say?
+PATIENT: Uh huh.
+DOCTOR: But they said that they don’t want to do anything and we asked them whether you are okay to take the colonoscopy.  They are not trying to do angiogram on you.
+PATIENT: Okay.
+DOCTOR: If they are trying to do angiogram then we will wait for that.
+PATIENT: Alright.
+DOCTOR: Okay.  Come back and let me know about colonoscopy.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Okay.  [REDACTED].
+DOCTOR: [REDACTED] feeling better [REDACTED] another one [REDACTED].
+PATIENT: Ah, ah, yea, yea.  [REDACTED] prescriptions, right?
+DOCTOR: [REDACTED].
+PATIENT: All of my [REDACTED] because I went to get them one time and they told me ah the prescription had run out and uh, you know, I, they just gave me enough so I came back here again.  So I need to get all of those uh renewed.  And you can do the consult for me to be seen in the Stop Smoking Clinic right?
+DOCTOR: Yea.  You can take this up front and the nurse will call you to get your shot.  Okay.
+PATIENT: Yea.
+DOCTOR: And uh, we want you to go to the lab [REDACTED].
+PATIENT: Okay.  So what, you renew all of my prescriptions?
+DOCTOR: Yup, everything.
+PATIENT: Okay.  I thank you so much.  You said, uh, [REDACTED] nurse is going to give me that shot or something?
+DOCTOR: Yea.  [REDACTED].
+PATIENT: Okay.  Thank you doctor.
+DOCTOR: Uh huh.
+PATIENT: You want this closed?
+DOCTOR: Yea.
+PATIENT: 29:46
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300308
+TRANSACTION # 578-10-2-316-0103

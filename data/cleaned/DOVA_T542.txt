@@ -1,0 +1,151 @@
+DOCTOR: How are things going?
+PATIENT: Alright.
+DOCTOR: Good.  Saw the eye doc today?
+PATIENT: Yeah.
+DOCTOR: Okay good.
+PATIENT: Yeah.
+DOCTOR: They got a follow-up scheduled for you?
+PATIENT: Yes, [REDACTED] cataracts.  Did you get the results from the MRI?
+DOCTOR: Uh yeah let me look at it again.
+PATIENT: Cause to be honest with you after I had the MRI. My backs really [REDACTED] I can't, I don't know what it was.
+DOCTOR: Just from, you've had those problems for a long time right?
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: 93.
+DOCTOR: Okay.
+PATIENT: For 4 1/2 months [REDACTED].
+DOCTOR: Uh-huh.  You had surgery on your neck before?
+PATIENT: I've had surgery on my neck and then I had another surgery towards the bottom of my back.  So I had two laminectomies.
+DOCTOR: Your medicine.  Do you have any low blood sugars?
+PATIENT: What does that mean?
+DOCTOR: Low blood sugars, like is your blood sugar ever low?
+PATIENT: No I don't think, now I do have diabetes type 2.
+DOCTOR: Yeah right.
+PATIENT: Okay.
+DOCTOR: Uh the other thing, so in regards to the neck I mean I don't - this is going to be a chronic problem I don't know, I don't think.
+PATIENT: Alright they told, that's really highest dose [REDACTED] scar tissue.
+DOCTOR: Yeah so I think we can, I'll put in a referral for Physical Medicine to see you.
+PATIENT: I don't think that'd be a good idea.
+DOCTOR: Well we could do that in the future.
+PATIENT: How about the lower back?
+DOCTOR: Same thing, there's not I just want to make sure that the chronic changes.
+PATIENT: How about that.  Well I.  Really the two times, I had the lower back surgery in 2001.  I had two herniated disks and you know the surgeon went in there and of course he done it because the vertebrae would be swollen.  He went in there to relieve that off my spinal cord but he also tried to get the vertebrae to pop out and they didn’t.
+DOCTOR: And they didn't yeah. What’s this?
+PATIENT: Uh there's a prescription I've run out.  I think first of all we may have an automated prescription system here.
+DOCTOR: Yeah but you have to call and get your refills.
+PATIENT: I know.
+DOCTOR: Okay but yeah, yeah they do.
+PATIENT: Well because they kept hanging up on me.
+DOCTOR: Oh.
+PATIENT: I don't know and I was under the impression that the one, this one, the bottle well it said one, one with no refill.
+DOCTOR: Let me take a listen.  Deep breath.  Let me listen to your heart.  Take your shoes and socks off, I want to have a look at your feet.
+PATIENT: Okay.  I know, believe me, I watch that very closely.
+DOCTOR: Okay, um the other thing have you ever had a colonoscopy?
+PATIENT: I don't want one.
+DOCTOR: Oh I could give you some cards to check your stool at home.
+PATIENT: [REDACTED] the nurse offered me that too. I made a mess  I got that all over the place except where it belonged.
+DOCTOR: Um.
+PATIENT: This is a terrible thing to say, but if I die, good. The way I'm living, I’m not living, I’m existing.  And as far as my prescription if you order them again or whatever, can you just order me one month at a time?  The reason I ask this is cause I get so many of them, I can’t afford to pay that bill.
+DOCTOR: Okay.
+PATIENT: But you, can I call the prescription number in and see cause they [REDACTED].
+DOCTOR: I'll put that in for you and I'll change these other ones to one month.
+PATIENT: Oh I appreciate that doc. Not that VA is not a good place to come [REDACTED]but the reason I come to the VA cause I ran out of money.
+DOCTOR: Uh-huh.
+PATIENT: Like I said I've been fighting this for 17 years.
+DOCTOR: And the other thing, your cholesterol was on the high side.
+PATIENT: Yes, not good.
+DOCTOR: I need to add, we would like to add the medication, the simvastatin.
+PATIENT: Right.  Uh I’ll tell you this; the doctors from the Outpatient Clinic gave me.
+DOCTOR: The aspirin I have it in here.
+PATIENT: Yes.
+DOCTOR: But you can buy that over-the-counter.
+PATIENT: Right, right, okay yeah, don’t worry about that.  Alright now he took me off of the, uh DOCTOR took me off of this cholesterol medicine.
+DOCTOR: Uh-huh.
+PATIENT: Cause he thought it might be disrupting my [REDACTED] that's what it was.
+DOCTOR: No it shouldn't.  Let me, you want to restart it?
+PATIENT: Yeah, right yeah.
+DOCTOR: I'm going to put you on 40 mg.  So the big side effects with this is that some people have severe muscle pains.
+PATIENT: Right.
+DOCTOR: That's very rare but that's the most common side effect um.  If you notice any severe muscle pains, mostly in the big muscles.
+PATIENT: Oh, how's that.
+DOCTOR: The back um you know then stop it and if it's really severe come in right away.
+PATIENT: He [REDACTED] the pain was so bad I couldn't walk.  He took me off and said to get [REDACTED] I don't know.
+DOCTOR: Yeah I mean if you are noticing [REDACTED].
+PATIENT: But [REDACTED] yes I will.
+DOCTOR: Yeah.  And uh I'll be right back okay.
+PATIENT: Sure.  Uh before I your way out, do you know about the, I need dentures.
+DOCTOR: Okay there's, the dental is really limited here at the VA.  We don't, I know they don't supply dentures.  The only dental clinic.
+PATIENT: Now they used to.
+DOCTOR: They used to um.
+PATIENT: They gave me dentures in 1984 in fact, my teeth, the reason I got dentures is because of the service.
+DOCTOR: Yeah.  They, you can try the Walk-In Dental Clinic and see what they say but I know it's much harder now to get dentures than it used to be in the past.  Um.
+PATIENT: Where's that at?
+DOCTOR: Yeah there's a Walk-In Dental Clinic um.
+PATIENT: [REDACTED].
+DOCTOR: Yeah I'll ask, I'll ask where it is.  I'm not sure where it is but I'll be right back.
+(DOCTOR OUT:  40:34  DOCTOR IN:  45:03)
+DOCTOR: So the one thing I did think about for your back, we have a Pain Clinic.
+PATIENT: Uh-huh.
+DOCTOR: What they can do, I don't know if you've ever had like an epidural injection or it's not exactly an epidural but it's like an injection near your spine.  It can sometimes help with the symptoms um.
+PATIENT: That's okay.
+DOCTOR: The other thing they have, one of the physicians there does some manipulations.
+PATIENT: [REDACTED] going to a chiropractor.
+DOCTOR: Kind of.
+PATIENT: I've wondered about that.
+DOCTOR: Um he's not a chiropractor but it's um, it's similar.
+PATIENT: Well you saw the results of that MRI. Is my spine out of whack?  To being with?
+DOCTOR: Yeah it has those chronic changes which probably aren't going to go away but if you get involved with the Pain Clinic and they give you some injections and maybe some manipulations.
+PATIENT: Alright.
+DOCTOR: That might help.
+PATIENT: Yes.
+DOCTOR: Do you want that?
+PATIENT: Cause I mean I've had [REDACTED].
+DOCTOR: Cause the Pain Clinic might help.
+PATIENT: And that aspirin.  I just buy baby aspirin right? @@
+DOCTOR: Uh-huh.
+PATIENT: Yeah.  [REDACTED].
+DOCTOR: Alright so, you're all set.  You go to the Pharmacy um, Pharmacy to pick up the pain medications.  How many of those Vicodin do you take a day?
+PATIENT: Well, I've been following; I know it's one every six hours.
+DOCTOR: Okay.  So you're normally taking four a day?
+PATIENT: Uh you sometimes I was trying that [REDACTED] not to.  I was trying to stay away from it but at times I was, I was higher than a kite.
+DOCTOR: Okay so you probably take closer to two or three pills a day?
+PATIENT: Yeah two or three.
+DOCTOR: Okay.
+PATIENT: And then I can [REDACTED].
+DOCTOR: Okay.
+PATIENT: I mean my eyes were so glassy [REDACTED] they are gonna be arresting me and yeah that's another thing, my balance is terrible.  Is that primarily because of the spine thing too?
+DOCTOR: Yeah.  Alright so you're all set.  The Pain Clinic will contact you.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: Now I got a prescription with the Pharmacy.
+DOCTOR: You got prescriptions at the Pharmacy, for the pain medicine and your cholesterol medicine.
+PATIENT: Alright.
+DOCTOR: And I changed all your other medicines too.
+PATIENT: Back to 30 days.
+DOCTOR: To 30 days so they might try and give you another 30 days supply but you can.
+PATIENT: If I want [REDACTED].
+DOCTOR: Tell them you only need the cholesterol and the Vicodin today okay.
+PATIENT: Right.  Can you give me an idea where the Pharmacy is?
+DOCTOR: Uh it's to the left.
+PATIENT: To the left uh-huh.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Thank you doc.
+DOCTOR: Uh-huh.
+PATIENT: How do you say your last name?
+DOCTOR: DOCTOR.  You know next time you come back I won't be here anymore and you'll be talking with another one of the residents.
+PATIENT: Oh.
+DOCTOR:
+DOCTOR: still be here.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Alright.
+PATIENT: Thank you doctor.
+DOCTOR: Uh-huh.  Take care.
+PATIENT: 50:12
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275406
+TRANSACTION # 578-10-2-316-0103

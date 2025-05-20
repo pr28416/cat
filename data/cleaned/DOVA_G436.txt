@@ -1,0 +1,336 @@
+DOCTOR: PATIENT?  How you doing today?
+PATIENT: I'm doing fine.  How are you?
+DOCTOR: I'm fine.
+PATIENT: I'm fine.  This is on one of my best days.
+DOCTOR: [REDACTED].
+PATIENT: Yeah we got the back door.
+DOCTOR: Take a seat.  How can I help you today?
+PATIENT: Well let's start off like this.  My medications.
+DOCTOR: Okay.
+PATIENT: I been coming back here up here almost a month because I don't have refills.
+DOCTOR: Oh.  Let's get them, let's get that first checked first okay.
+PATIENT: If you can, if you can.  Now I go again to see the kidney doctor for my next appointment I tells him.
+DOCTOR: Uh-huh.
+PATIENT: And I think it was gonna be mailed.  I wait two; three weeks I ain't get it.
+DOCTOR: Okay.
+PATIENT: So I come back again.  He puts it back in there again as he said.  But two, three weeks later, some medications trickle in, some I don't get.
+DOCTOR: Okay.
+PATIENT: So I call the Pharmacy and she said I need for the doctor to refill.  I guess that doctor that gave me the same must have to refill it or something cause the doctor up there couldn't refill it.
+DOCTOR: I don’t know why.
+PATIENT: So.
+DOCTOR: We’ll check it out.
+PATIENT: I went to the Pharmacy and she gave me a.
+DOCTOR: Okay.
+PATIENT: Temporary refill, 30 day refill.
+DOCTOR: Alright well let's do it today.
+PATIENT: Okay.
+DOCTOR: So then everything.
+PATIENT: Let's get it.
+DOCTOR: So are you still taking Docusate?  You are?
+PATIENT: What is that?
+DOCTOR: That's the stool softener.
+PATIENT: Yeah.
+DOCTOR: You need refills?
+PATIENT: No they send that like clockwork.
+DOCTOR: Hydralazine for your blood pressure?
+PATIENT: I got that.
+DOCTOR: Do you want me to refill it though?  I'll refill it.
+PATIENT: Yeah let's refill everything.
+DOCTOR: Okay.
+PATIENT: Now.
+DOCTOR: Do you want to pick it up at the window or do you want?
+PATIENT: No I'll wait as long as they can mail it.
+DOCTOR: Okay.
+PATIENT: I got enough to hold me over.  Now.
+DOCTOR: How about the Senna?  That's also for the bowel, do you take that too?
+PATIENT: Huh?
+DOCTOR: Senna?
+PATIENT: Senna.
+DOCTOR: Yeah.
+PATIENT: Oh that's for constipation?
+DOCTOR: Yeah.
+PATIENT: Uh.
+DOCTOR: No you don't want it?
+PATIENT: I got about four, five bottles of that.
+DOCTOR: Okay.
+PATIENT: See the thing about when you don't need it they send it.
+DOCTOR: Okay so I'll discontinue it if you don't need it.
+PATIENT: No I don't need, discontinue that.
+DOCTOR: Okay, that's why we're gonna go through this.
+PATIENT: Okay.
+DOCTOR: Okay.  What about the pancrelipase?  That's like the.
+PATIENT: Three times, three pills three times a day.
+DOCTOR: Yeah do you need that?
+PATIENT: I just got that thank you.
+DOCTOR: Alright well let me refill it.
+PATIENT: Yes ma'am refill it.
+DOCTOR: So that you.  This says this cannot be refilled.
+PATIENT: Now see that’s the problem with it.
+DOCTOR: Hold on, I am just going to [REDACTED], okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] renew.
+PATIENT: Alright.
+DOCTOR: Got renewed.
+PATIENT: Uh that's the difference between refilled and renewed?
+DOCTOR: Yep.
+PATIENT: Oh so uh water pills, I don't have none, you got to renew that.
+DOCTOR: I know but we have to go through everyone.
+PATIENT: Okay, I know.
+DOCTOR: You have [REDACTED] meds alright, I want to make sure we do it right.
+PATIENT: I'm just trying [REDACTED] come in my head.
+DOCTOR: Alright um.  I'll renew the pancrelipase.
+PATIENT: Okay.
+DOCTOR: Let me see what else is here.
+PATIENT: I got so much we might be here all day.
+DOCTOR: I know know.  [REDACTED].  We're gonna go through it a little faster.
+PATIENT: Alright.
+DOCTOR: So, I the pancrelipase I just renewed that um.  The shots that you get your um.
+PATIENT: I just went over there.
+DOCTOR: Your kidney doctors can, they'll give you that.
+PATIENT: Okay.
+DOCTOR: Amlodipine, that's the blood pressure med.
+PATIENT: Amlodipine.
+DOCTOR: Do you take that once a day for your blood pressure?
+PATIENT: I've got that.
+DOCTOR: Alright well I'll refill it for you anyway.
+PATIENT: Thank you.
+DOCTOR: Are you still taking the gabapentin three times a day?
+PATIENT: Yes, yes I am.
+DOCTOR: Okay I'll refill that.
+PATIENT: Yes.
+DOCTOR: Are you taking the iron supplementation?
+PATIENT: Yes.
+DOCTOR: Okay.  Do you need insulin syringes?
+PATIENT: No I got enough of that.
+DOCTOR: Alright.  Are you sure?  You don't want me to renew it?  I'm gonna renew it in case you need it.
+PATIENT: Oh yeah you can renew it but I don't need none right now.
+DOCTOR: Are you still taking the isosorbide dinitrate for the heart?
+PATIENT: Isosorbide that's two pills two times, nope I ain't take that in about two, three months.
+DOCTOR: Okay why did you stop taking it?
+PATIENT: I have ran out.
+DOCTOR: Alright well I'm gonna renew it for you.
+PATIENT: No since I told you doctor, since I ain't come for two, three months, I don't even take it no more.
+DOCTOR: Um.
+PATIENT: Cause my blood pressure's been okay and when I first ran out I started having headaches but then after the headaches went away everything was okay.
+DOCTOR: So you have to take it because you have CHF right?  Is that correct?
+PATIENT: Who?
+DOCTOR: You do.  Are you taking the hydralazine, you should be taking it with the hydralazine.
+PATIENT: Well.
+DOCTOR: Cause they're both it's like a pill that goes with the hydralazine.
+PATIENT: I know.
+DOCTOR: Are you still taking the hydralazine?
+PATIENT: Yes but I haven't been taking the other thing for two months, you can just take the other pill, I don't want to be off and on.
+DOCTOR: No that's why it's a problem that you stopped it yeah.  Cause no one took you off from it, you just ran out right?
+PATIENT: Yes it ran out and nobody wouldn't ever refill it back until I came here.  I don't see this doctor in this clinic for like six months and the medication runs out before that time and I got to come back in here and refill it cause.
+DOCTOR: Alright well we've got to make sure that you have refills.  So can I refill that?
+PATIENT: I'm not gonna take it.
+DOCTOR: I don't know what you're saying.
+PATIENT: Okay wait a minute, wait a minute.
+DOCTOR: [REDACTED].
+PATIENT: I don't want to die.
+DOCTOR: Well it's a medication that's to be taken with the hydralazine for your CHF.
+PATIENT: But, but.
+DOCTOR: For your heart failure.
+PATIENT: Right but since I haven't took it in.
+DOCTOR: Yeah but it's not gonna make a difference in two months, it's the long term effects.
+PATIENT: I know but when I stopped taking it I had headaches for about a month.  Now the headaches went away so if I get back on it the headaches gonna come back on me until it you know I take it for a while cause it get back into the system?
+DOCTOR: Well were you having headaches while you took it or?
+PATIENT: No, soon as I stopped taking it.
+DOCTOR: Or were you having headaches after?
+PATIENT: Soon as I ran out.
+DOCTOR: Okay.
+PATIENT: I started having headaches, almost every day.  I was taking Tylenol for it and then after about a month I got it where it started going away.
+DOCTOR: Alright.  I'm gonna to discontinue it.  Cause if you don't want to take it.
+PATIENT: I mean, uh uh you the doctor now if you say take it I'm gonna take it cause I don't know what I'm doing.  I'm just taking things that I have.
+DOCTOR: Alright.  Well I don't want it, if it's causing you headaches that.
+PATIENT: No I said.  When I ran out it gave me headaches, not while taking it.
+DOCTOR: Well do you want me to renew it or not?
+PATIENT: Now why you keep [REDACTED] up?  [REDACTED].
+DOCTOR: Why should I have a renewal on medicine if you're not gonna take it?
+PATIENT: Oh if you say I have to take it, I will take it.
+DOCTOR: You should take it with your CHF.  So I'll order it.  Your CHF has been pretty controlled so if you feel like you're doing well without it you could just keep monitoring it.
+PATIENT: Okay keep monitoring.
+DOCTOR: Um.
+PATIENT: Cause I'm trying to get the.
+DOCTOR: Are you using the capsaicin stuff, the cream?
+PATIENT: For my feet?
+DOCTOR: It's wherever you have pain.
+PATIENT: No I ain't, you can stop that too.
+DOCTOR: Alright.
+PATIENT: Uh.
+DOCTOR: Um what about the calcium and vitamin D, are you taking that?
+PATIENT: Uh that pill once a month?
+DOCTOR: No twice a day.  Are you still taking it or not?
+PATIENT: No.
+DOCTOR: Calcium and vitamin D are you taking it?
+PATIENT: Oh calcium yeah I'm taking that.
+DOCTOR: Okay I'll renew that.  Um and then what about aspirin?  Baby aspirin, are you taking that?
+PATIENT: Yes.
+DOCTOR: You should take that okay good.  And the insulin?
+PATIENT: Right.
+DOCTOR: We might have to change that so I'm gonna leave that for now; we'll work on that later.  Are you taking the simvastatin for the cholesterol?
+PATIENT: I ran out of that.
+DOCTOR: Alright well you need to start taking that again.
+PATIENT: Yes.
+DOCTOR: I'll renew that.
+PATIENT: So you got to what's that renew it or refill it.
+DOCTOR: Yeah.
+PATIENT: As well.
+DOCTOR: Um mail that [REDACTED], you're [REDACTED]?
+PATIENT: Yes.
+DOCTOR: Uh are you still taking the Lasix?
+PATIENT: That's the water pill.
+DOCTOR: Yeah and you're taking that.
+PATIENT: I ran out of that.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: And I got a question when you get through.
+DOCTOR: Sure, you can ask it.
+PATIENT: Okay.  The reason why I don't want to get back on that what isosorbide.
+DOCTOR: Uh-huh.
+PATIENT: Because I can't take Viagra with that.
+DOCTOR: Right you definitely cannot.
+PATIENT: Right so that's why I don't want to get back on it cause I want to get back, I’m trying to get Viagra.
+DOCTOR: Well you still can't get back on Viagra because it's dangerous for your heart condition but definitely not when your taking that medication.  What about hydralazine?
+PATIENT: I'm taking that.
+DOCTOR: Okay.  The reason why I don't want to put you back on the Viagra to be honest is that if you were to have a heart attack and you needed nitrates that'd be really dangerous.  Um are you taking the metoprolol still?
+PATIENT: Yeah.  So they say I don't need to have sex and that's it.
+DOCTOR: Well I don't want to tell you don't have sex.
+PATIENT: Yeah [REDACTED] I can't even get that [REDACTED] to work.  One of the pills, one of them come.
+DOCTOR: And you can't have sex without it?
+PATIENT: Uh uh.
+DOCTOR: Well I'll talk to DOCTOR I just with all the medications that you're taking, probably that's probably one of the reasons too.
+PATIENT: Yeah I know.
+DOCTOR: Let me talk to DOCTOR.  Okay I think that we got through all your medications enough so we're in a good place now.
+PATIENT: Okay.
+DOCTOR: Alright, I'll sign all of this.
+PATIENT: I had took blood work would that let you know if I need the insulin, I mean not the insulin, the anemia shot or do I have to wait till I go back upstairs.
+DOCTOR: Wait until you go back upstairs, but I think your blood work was fine actually that's why I don't want to um.
+PATIENT: Okay.
+DOCTOR: Let me look.  I'll look at it but I remember I was glancing at it before and I think it looked fine.
+PATIENT: And the less shots I take that's cool with me.  Oh, I need some, I used to get this nasal spray.  It's uh.
+DOCTOR: Yeah why do you need the nasal spray?
+PATIENT: Cause I get, my nose shuts off at night, it closes.  I can't hardly breathe.  I used to get it but then I ran out and never refilled it uh I forgot the name of it.  It was [REDACTED], something like that.  When the bottle say to use by such and such I throwed it away.  I should have kept it.  I forgot the name of it.
+DOCTOR: Was it flunisolide, looks like they're sending, [REDACTED]?
+PATIENT: No it just squirt like that, squeeze it up there, it's like a solution uh.
+DOCTOR: Yeah I think that's flunisolide [REDACTED].
+PATIENT: It's the name like deep C.
+DOCTOR: Hmm, I don't know that doesn't sound familiar but I'll give you something.  We'll be fine; you take two sprays up your nose with that.
+PATIENT: What's the name of that?
+DOCTOR: Flunisolide it's the thing that you put up your nose.  I think it'll help you.
+PATIENT: Okay.  You can mail that to me.
+DOCTOR: Okay.  Alright.  And what else, oh how have your blood sugars been?
+PATIENT: Oh since I take the shot at night once a day it works out pretty good.
+DOCTOR: When did you start taking this at night?  That was a while ago right?
+PATIENT: Yeah.
+DOCTOR: So the problem is, is what has it been?
+PATIENT: It's been, if I go to sleep with my sugar at 200 I can last till 6 o'clock in the morning but if I go less than 200 about 1 o'clock if I don't eat a half a sandwich or something at night at about 1 or 12 o'clock, by 6 in the morning in the morning it be about 40 something.
+DOCTOR: Okay.
+PATIENT: So since I keep it at 200 I wake up it be a decent thing in the morning, like 90 to 108, 102.
+DOCTOR: How much are you taking?
+PATIENT: Uh I think 12 units.
+DOCTOR: Okay.
+PATIENT: But it varies from 12 to 14 I think.
+DOCTOR: Do you ever feel when your sugar goes low?
+PATIENT: Nope.  Except if I'm sitting at home - walking I might just fall down I know it get me.
+DOCTOR: So do you take any um, any insulin with food with your.
+PATIENT: With [REDACTED]?.
+DOCTOR: What food, with your meals?
+PATIENT: Oh uh I takes it at bedtime.  This is after dinner.
+DOCTOR: Oh so you don't take it ever with the meals?
+PATIENT: No this one.
+DOCTOR: But that your….
+PATIENT: This is 10 o'clock at night before I go to bed so I done ate dinner and everything.
+DOCTOR: So um do you take your finger stick, how often do you check your glucose during the day?
+PATIENT: Twice.
+DOCTOR: So once in the morning and once at night?
+PATIENT: Yep.
+DOCTOR: What about in the midday?
+PATIENT: No I ain’t punching myself that many times, that's why I only have one shot.  I get.
+DOCTOR: Would you be willing to take more than one shot?
+PATIENT: No.  So what I do is I just eat lunch anyway, you know what I'm saying.  Cause I know it usually, it be, go down between that time, between 7 in the morning and 12 I know it's about time to eat so I then ate so there wasn't no reason to take it.  But do you want me to go back to it?
+DOCTOR: Well I just wanted you to see, cause it's weird that your sugars are down so low at night.  I was hoping that we could get you to check your sugar maybe three or four times a day for the next couple weeks and then we can adjust it.
+PATIENT: Adjust it again?
+DOCTOR: Yeah.
+PATIENT: But you know, when am I gonna get one of those things where you don’t gotta stick yourself.
+DOCTOR: Well, when one is invented.
+PATIENT: They have one, it's on TV it says put it on your arm and wait till your blood [REDACTED].
+DOCTOR: That's not real I don't think, anyway.  Any more problems with bleeding from your rectum?  You had that last time.
+PATIENT: Yeah.
+DOCTOR: It's still doing it?
+PATIENT: No every, I get it when I go back in there.
+DOCTOR: Okay.
+PATIENT: When I be constipated I got to go back in there and strain.
+DOCTOR: Uh-huh.
+PATIENT: But then after I get that first, excuse me, poop out, I'll be okay.
+DOCTOR: Alright so what I want you to do, seriously, is do you think for two weeks you could take [REDACTED] and check your blood sugars three or four times a day and then come back in and see our pharmacist to adjust your insulin?
+PATIENT: Are you gonna give me an appointment to come back in and see the pharmacist?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: In two weeks.  Would you do it, just for two weeks?
+PATIENT: Okay.
+DOCTOR: I know it's a pain in the butt but I just get worried that your sugar goes so low and I want to see what it's kind of doing throughout the day.
+PATIENT: Alright.
+DOCTOR: And then we can adjust the insulin as needed.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: So in two weeks.
+DOCTOR: And then did you get your flu shot, yes you did.
+PATIENT: Yeah I got.
+DOCTOR: Okay let me do this [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: I got uh a log book or whatever you call it.
+DOCTOR: Good.  So bring that in in two weeks.
+PATIENT: I mean, I ain't got no log book for the sugar, I got a log book for the flu shot.
+DOCTOR: Oh.  Well can you write down your sugars on a piece of paper?
+PATIENT: Well don't you got a log book?
+DOCTOR: Oh I don't have one.
+PATIENT: Ask DOCTOR, they got them back there.
+DOCTOR: Alright I'll see if they have one.  If not you can write it down on a piece of, for two weeks come on.
+PATIENT: Yeah okay.
+DOCTOR: Give me a break here right.
+PATIENT: Yeah.
+DOCTOR: Alright and then come and see me in three months and I renewed all your meds.
+PATIENT: Is my meds gonna last for three months?
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: I've got it set up.  If not you.
+PATIENT: Cause it look like if you write uh.
+DOCTOR: Yeah all of them have at least three refills on them and I renewed them all.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.  Did you put the isosorbide in there or?
+DOCTOR: No cause you said you didn't want to take it, it wasn't making you feel good.
+PATIENT: Alright.  And I know I can't take the other pill now, shoot.
+DOCTOR: Well that's  [REDACTED].
+PATIENT: Life is over with now.
+DOCTOR: Well I don't want life to be over for you.
+PATIENT: If you can't have sex so now well you know it’s halfway.
+DOCTOR: Well let me go talk to DOCTOR okay.  Any swelling in your legs, let me see.
+PATIENT: Nope.
+DOCTOR: Can I listen to your lungs?  I have to look at your feet too.
+PATIENT: I just came from the foot doctor.
+DOCTOR: You did, alright.  What'd they say?
+PATIENT: They just clipped my toes and everything was okay.  No swelling.
+DOCTOR: Okay.  Let me listen to your lungs and your heart.
+PATIENT: Do you want me to take off everything?
+DOCTOR: No you can lay back.  Okay, deep breath, again, okay.  Okay.  [REDACTED].  Alright I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  91:17  DOCTOR IN:  95:17)
+DOCTOR: Alright PATIENT so two weeks and you have an appointment.  Just have them make it out there and you can come see me in three months.
+PATIENT: Okay.
+DOCTOR: Okay.  Everything else is good.
+PATIENT: Alright, okay.  Did you get the book?
+DOCTOR: No I didn't get the book.
+PATIENT: Alright.
+DOCTOR: Thank you.
+PATIENT: I'll just use the.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Have a nice day.
+PATIENT: Make them [REDACTED] alright, thank you.
+PATIENT: 95:47
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286087
+TRANSACTION # 578-10-2-316-0103

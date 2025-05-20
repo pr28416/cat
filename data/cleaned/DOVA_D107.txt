@@ -1,0 +1,272 @@
+DOCTOR: Come on back.
+PATIENT: Okay.
+DOCTOR: How you doing?  Good to see you.  What's new?  What's new?
+PATIENT: What's new?  I got a sore throat.
+DOCTOR: You got a sore throat huh?
+PATIENT: Yeah overnight.  Something that and I got a back ache every morning.  I was here a month ago.
+DOCTOR: Uh-huh.
+PATIENT: And I had a different doctor, you weren't available I guess so.
+DOCTOR: Okay.
+PATIENT: Anyway uh, the hardest part is in the morning when I get up.
+DOCTOR: Backache?
+PATIENT: It's above the back and it goes from both sides.
+DOCTOR: Okay.  What did they do when they saw you?
+PATIENT: They took an x-ray.
+DOCTOR: A what?
+PATIENT: X-ray.
+DOCTOR: Of what?
+PATIENT: Of my hip and my back and uh at the time I told them I think that I had taken Advil but it was Aleve.
+DOCTOR: Okay.
+PATIENT: So he says to take one in the morning and one at night.  Well I stopped doing that after a while and the last three, four nights now I take one Aleve in the evening, you know at bedtime.
+DOCTOR: Uh-huh.
+PATIENT: Well.
+DOCTOR: Does it help?
+PATIENT: Uh well, it appears to be a little bit, but the hardest part.  During the day I can live with it.
+DOCTOR: Bilateral.
+PATIENT: It doesn't affect me during the day but the hardest part is getting up, when I get up in the morning, just out of bed.
+DOCTOR: Um do you have any sort of aching, do you have aching in the morning?
+PATIENT: It hurts.
+DOCTOR: On the side, or in the middle.
+PATIENT: It's the side and it's been on both sides.  It'll go from one side to the other.
+DOCTOR: Now is this in the same place you have here because you had that surgery done about six years ago.
+PATIENT: Yes.
+DOCTOR: Is it in the same spot?
+PATIENT: I don't think so, I thought that was on, this is more on like now, the last couple days it's on the right side and I did come in for the colonoscopy.
+DOCTOR: Let's see we had little, well they checked your urine and that was fine.  You're having no problems urinating right?
+PATIENT: Correct.
+DOCTOR: And then no fever or chills?
+PATIENT: Nope.
+DOCTOR: Now, hold on one second.  So what you were just saying, you had your colonoscopy.
+PATIENT: Yes I did.
+DOCTOR: When was that done?
+PATIENT: A month ago, well maybe a little more.  A month ago I was seen here for the back so, maybe two months.
+DOCTOR: Two months.
+PATIENT: I'm not positive but.
+DOCTOR: Uh-huh.
+PATIENT: Shortly after you arranged for it.
+DOCTOR: Now you said that the back issues, they started about a month ago?
+PATIENT: It started in July really, 4th of July.
+DOCTOR: So you get back pain on the side.  Point to me, show me where it is.
+PATIENT: It's right in here.
+DOCTOR: Okay.
+PATIENT: It's not directly in the back.
+DOCTOR: Did you recently, were you lifting things, were you doing anything like that, nothing new?
+PATIENT: Nothing out of the ordinary.
+DOCTOR: Worse in the morning but it goes away by the end of the day?
+PATIENT: During the day I'm fine, it doesn't affect me.
+DOCTOR: So when you wake up how long does it last for?
+PATIENT: Uh till I get in gear.  I sit.
+DOCTOR: So about an hour, two hours, how long?
+PATIENT: Oh ten minutes, maybe even less.  But it's just the idea of getting up.
+DOCTOR: Yeah.
+PATIENT: Sitting up and then and trying to get up because it hurts just getting up into a sitting position.
+DOCTOR: You have no problem specifically getting up?
+PATIENT: No except for the pain of the back, inside the back or whatever you want to call it.  But it has seemed to alleviate a little bit.
+DOCTOR: No numbness or tingling in your legs or your hands?
+PATIENT: No.
+DOCTOR: And then no loss of bowel or bladder?
+PATIENT: Nope.
+DOCTOR: No weight loss?
+PATIENT: I don't believe so.  I may have lost two or three pounds.
+DOCTOR: Nothing big.
+PATIENT: Nothing.
+DOCTOR: No night sweats?
+PATIENT: No.
+DOCTOR: You said no fever or chills.
+PATIENT: Correct.
+DOCTOR: No nausea, vomiting?
+PATIENT: No sir.
+DOCTOR: Okay and then um right now you would have no problems turning, walking?
+PATIENT: No, no.  Uh the hips are beginning to have a little pain in them when I start walking, you know when I walk.  I mean I would walk without no problem and now my hips, both of them, are kind of sore.
+DOCTOR: Um and then does the medication you're taking help?
+PATIENT: It seems to have helped somewhat.  I was going to ask you, which would you recommend, Aleve, Advil, Tylenol or which?
+DOCTOR: Now do you have any problems with your stomach?
+PATIENT: No.
+DOCTOR: Um typically if this is just for arthritis um, you know you have a history of lower back pain, osteoporosis, so this could just be degenerative.  But let me look at the films real quick.  If it's just that I would recommend probably anti-inflammatories like ibuprofen.  But you've never had any bleeds?
+PATIENT: Bleeding?
+DOCTOR: Uh-huh.
+PATIENT: No.
+DOCTOR: Um if you have then we can recommend another type.  But you've never had any stomach problems?
+PATIENT: No.
+DOCTOR: Or you don't have any heart problems or kidney problems right?
+PATIENT: I hope not, not to my knowledge anyway.
+DOCTOR: Yeah.  And you just have, you have hypertension and gout, uh high blood pressure.  Okay you don't seem to have any of the other ones.  You're just on the simvastatin, lisinopril, folic acid um vitamin B12, the alendronate and the aspirin and calcium right?
+PATIENT: Uh-huh.
+DOCTOR: Take a look at the imaging, spine and lumbar.  Worsening compression deformity, extensive degenerative changes with a lot of osteophytes.  Okay.  Well basically what that means is you have quite a bit of um, quite a bit of degenerative changes.  My guess is those degenerative changes, in which case the anti-inflammatory should work the best, for you so ibuprofen.  How much ibuprofen have you been taking?
+PATIENT: I haven't.  This Aleve.
+DOCTOR: Why not?  Oh you're taking Aleve?
+PATIENT: Well I've taken it the last three to four days.  I've taken Aleve one at night.
+DOCTOR: That's it?  Oh you can take.
+PATIENT: Well.
+DOCTOR: Uh take it in the morning when you wake up.  Cause when you go to sleep it's just going to wear off in a few hours and when you wake up, let's say if you're having problems in the morning then um.
+PATIENT: But then during the day I don't have any problems.
+DOCTOR: Then don't take any during the day.  You only take them when you have problems.  So I would say only take them when you notice that you have some problems there okay.  Does that make sense?
+PATIENT: So the only problem I have is when I get up, like I say.
+DOCTOR: Right, yeah I think, so what I would say is when you get up, maybe take them when you get up and then if you don't have any symptoms during the day then great.
+PATIENT: I don't have it without the pill in the morning.
+DOCTOR: Uh-huh.
+PATIENT: I only take it at night thinking that in the morning it might be better.
+DOCTOR: Sure.  Well yeah, exactly.  In the morning um, when you have the pain that's when you take the medicine.
+PATIENT: Okay.
+DOCTOR: In other words take the medicine when you have pain.
+PATIENT: Alright.
+DOCTOR: Does that make sense?
+PATIENT: Sure.
+DOCTOR: Okay, let's see here.  Let's see the last time, so I actually saw you in June.
+PATIENT: Well you told me you wanted to see me in three months.
+DOCTOR: Yeah no I was just trying to remember when the last time was that I saw you.
+PATIENT: And since then I came in for the colonoscopy and then I came in for.
+DOCTOR: Oh great.
+PATIENT: Because of my back pain problem.
+DOCTOR: And what else and you had just recently been diagnosed with diabetes?
+PATIENT: I have?
+DOCTOR: No back then.
+PATIENT: If I have, I haven't been told.
+DOCTOR: What's that?  Well no we told you that you had recently high blood sugars right?
+PATIENT: Well the last time I came here you asked for a blood test and a urine test.
+DOCTOR: Correct.
+PATIENT: That was the last; I'm not taking anything for diabetes.
+DOCTOR: Right.  Well this one the idea is in your hemoglobin A1c was how we measure your potential diabetes.  Your hemoglobin A1c was 5.9 which is really good.  Let me look at the old one because let me just take a quick look at.  I think one of your labs was off and then we rechecked it and your hemoglobin A1c was 5.9, that's really good.  You're spilling some protein in your urine which was um, let's go over this.  So that was fine.  Your kidney function is doing okay.
+PATIENT: And you know you had me here taking the eye test, I did that two or three times when I came in to that and they told me to come back in a year.
+DOCTOR: And we checked your, let's see we checked your cholesterol in November of 09.  Your total was 177, your HDL was 75 and your LDL, yeah so your cholesterol looks really good.  See the sugars that we took were high but your hemoglobin A1c was okay, so I think we won't, basically we're just not going to start you on anything but you're kind of on the borderline of diabetes.
+PATIENT: Okay.
+DOCTOR: Okay.  Okay, okay and then um we talked about the colonoscopy and you ended up getting it.
+PATIENT: Correct.
+DOCTOR: And the good news is you don't need to get any more.
+PATIENT: Wonderful.
+DOCTOR: What's that?
+PATIENT: Wonderful.
+DOCTOR: Was it uh.
+PATIENT: No it wasn't bad.  I mean the worst part is before.
+DOCTOR: You had a little external hemorrhoids, that's about it, so diverticulosis, okay.  And let's looks at your immunizations.  You should probably be up on your immunizations.
+PATIENT: Is the flu shot in already?
+DOCTOR: Not yet unfortunately.  We’re still waiting for that darn flu shot.  Now do you want the zoster vaccine, remember we talked about it last time?
+PATIENT: What is that one for?
+DOCTOR: For when, or if you were to get the shingles.
+PATIENT: I took that, I had that, I did get that shot.
+DOCTOR: Oh you did?
+PATIENT: Oh yeah.
+DOCTOR: Oh it was the Pneumovax right.
+PATIENT: Yeah that I got.
+DOCTOR: Okay, oh no you need the zoster and you just got the pneumonia one.  You need the zoster one for the shingles.
+PATIENT: I thought it was for the shingles.
+DOCTOR: When was that?
+PATIENT: I don't know, at least a year ago if not longer.
+DOCTOR: I really don't have it in here.
+PATIENT: Because.
+DOCTOR: Okay.
+PATIENT: Because I think.
+DOCTOR: At least you think you got it.
+PATIENT: You told me that uh if you do get it, it shouldn't be as severe as.
+DOCTOR: Exactly and you think you've gotten it.
+PATIENT: I have gotten it.
+DOCTOR: Huh.  I wonder why it doesn't show it.
+PATIENT: I had one done.
+DOCTOR: You said you've already had one okay.  Well did you have some back pain right there?
+PATIENT: Not really, it's just, that's the way I get up now.
+DOCTOR: Why is that?
+PATIENT: Oh well, old age I call it, I don't know.  But there have, in the past, like when I came here a month ago to see the other docs, I mean I had a hard time getting up.  It was really painful.
+DOCTOR: You hadn't, you did do, no lifting.
+PATIENT: No.
+DOCTOR: Or nothing like that.
+PATIENT: And it's, now like I said it has subsided considerably.
+DOCTOR: But no weight loss?
+PATIENT: Not to speak of.
+DOCTOR: Okay and no night sweats and you're eating well?
+PATIENT: Yes.  Maybe too much.
+DOCTOR: You're eating well.  What's that?
+PATIENT: Maybe too much.
+DOCTOR: Maybe too much?
+PATIENT: Right.
+DOCTOR: Okay, I'll take a listen to you.
+PATIENT: You want the shirt off or?
+DOCTOR: Um, no you’re good.
+PATIENT: Okay.
+DOCTOR: What do you do for uh, what did you do for a living?
+PATIENT: I worked at the lumber yard.
+DOCTOR: Oh that's right.
+PATIENT: For 32 years.
+DOCTOR: Right.
+PATIENT: And then I was the equipment man at the high school [REDACTED].
+DOCTOR: Oh I forgot about that.  Good.  Your blood pressure was a little better when I checked it than when the nurse checked it.
+PATIENT: Good for you.  I think next time I’ll go by you.
+DOCTOR: What's that?
+PATIENT: Next time I’ll go by you.
+DOCTOR: Right.  Deep breaths.  In and out.  In and out.  In and out.  Good.  Where is the pain, point to me where the pain is?
+PATIENT: It's right in here.
+DOCTOR: If I push in does it hurt?
+PATIENT: No.  It's more on the side, but it's above the belt line.
+DOCTOR: Point to me where it is.
+PATIENT: It's right in through here.
+DOCTOR: Now does that hurt?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: No, like I said the only time it really hurts is.
+DOCTOR: Give me your hand.
+PATIENT: When I uh get up in the morning.
+DOCTOR: You've never had any other signs of osteoarthritis?
+PATIENT: Not that I'm aware of.
+DOCTOR: Okay squeeze but not too hard, good.  Lift up, lift pull, good.  When was the last time you saw an eye doctor?
+PATIENT: When I was here.
+DOCTOR: How recently?
+PATIENT: Uh it'd be four months ago now.
+DOCTOR: Oh four months ago.  No ulcers on your feet?
+PATIENT: No what?
+DOCTOR: Ulcers on your feet?
+PATIENT: No.
+DOCTOR: Now did they do, they did something in 2002, but they did a colonoscopy in 2002?  Oh I see you had tubular adenoma that's why.  But did the colonoscopy in 2002 as well huh?
+PATIENT: Yes.
+DOCTOR: And 2010.
+PATIENT: I had it three, this is the third time I had it done.
+DOCTOR: Yeah did they not take any biopsies this time?
+PATIENT: Uh evidently not.
+DOCTOR: Okay.
+PATIENT: If they did the, all I got is the letter stating that the colon is normal.
+DOCTOR: Okay.
+PATIENT: That's all I got and like you said the hemorrhoids were there.
+DOCTOR: Yeah okay sir I'll be right back, give me a few minutes.
+PATIENT: Can I put this back in?
+DOCTOR: Yeah of course, yes.
+(DOCTOR OUT:  43:15  DOCTOR IN:  54:38)
+DOCTOR: Alright.  Well the good news is you're doing great.
+PATIENT: Thank you.
+DOCTOR: Um I think really the only thing that we would need to do is obviously if you have worsening pain just let me know.  If you start having fevers, night sweats, chills, weight loss, worsening pain let me know.  I think this is all just degenerative changes in your spine.  You can take ibuprofen.
+PATIENT: Any particular brand would be recommended?
+DOCTOR: Aleve is fine.
+PATIENT: Aleve isn’t ibuprofen.
+DOCTOR: You can take that too, that's not important.
+PATIENT: That's better than Advil or Tylenol?
+DOCTOR: Yeah.
+PATIENT: Same thing?
+DOCTOR: Well the Tylenol is not the same thing.
+PATIENT: Oh.
+DOCTOR: But uh ibuprofen are.
+PATIENT: Well I, personally I don't like to take anything.
+DOCTOR: Right, well if it doesn't bother you very much then you don't have to.
+PATIENT: Like I say.
+DOCTOR: But if you have problems well then take it.
+PATIENT: Okay.
+DOCTOR: Um obviously if you have any worsening symptoms let us know.  Uh all your labs are pretty much up-to-date.  We really don't need to do any labs until probably six, seven months from now.
+PATIENT: Great.
+DOCTOR: Flu shot, as soon as they come in they'll give you a mass mailing and you can come in to get it.
+PATIENT: Okay.
+DOCTOR: And then I don't think you need to see me for six months unless something pops up, in which case you just call up and let me know and we'll see you earlier.  How does that sound?
+PATIENT: Thank you very much.
+DOCTOR: You're welcome.  That was an easy, easy solution.
+PATIENT: I hope so. Yeah.
+DOCTOR: Nice to see you.
+PATIENT: Alright.
+DOCTOR: Have a good evening.
+PATIENT: Doc.
+DOCTOR: Did you bring anything?
+PATIENT: I didn't bring anything.
+DOCTOR: Okay.  (Doctor talking with someone else)
+PATIENT: I should get that sent to the house correct?
+DOCTOR: Yeah absolutely.
+PATIENT: Thank you sir.
+PATIENT: 56:38
+Time is 2:20
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238127
+TRANSACTION # 578-10-2-316-0103

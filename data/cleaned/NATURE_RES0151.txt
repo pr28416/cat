@@ -1,0 +1,104 @@
+DOCTOR: How may I help you?
+PATIENT: Hi yes I'm just coming in, uh over the last week, I've been having um like a cough, runny nose and a lot of congestion as well. So I just wanted to come in here to make sure nothing's wrong.
+DOCTOR: I see, alright, and when did the uh cough start? Was it 7 days ago?
+PATIENT: A bit less than that, I would say it's been probably like five or six days.
+DOCTOR: OK, um and has the cough been getting any better or any worse or staying the same?
+PATIENT: Um it's kind of the same.
+DOCTOR: OK, and are you bringing up any uh sputum with the cough?
+PATIENT: No, it's mainly like a dry cough, but I am getting like a lot of drainage and uh just congestion in my nose.
+DOCTOR: OK, so you're, you are, are you feeling um like mucus drain from your nose like into the back of your uh mouth?
+PATIENT: Uh yeah, sometimes I feel like that over the last week.
+DOCTOR: OK. And you you haven't caught up any any sputum, but have you brought up any any blood?
+PATIENT: Uh no, no blood.
+DOCTOR: OK, have you had any wheezing?
+PATIENT: No, no wheezing.
+DOCTOR: OK, and how about um any chest pain?
+PATIENT: Um no chest pain.
+DOCTOR: OK, and you've had a, and did you, have you had a cough before or is this a new cough?
+PATIENT: Um no, this is like fairly new.
+DOCTOR: OK. And um could you, is your nose uh like, could you describe the discharge from your nose?
+PATIENT: Yeah, it's more like kind of a clear to maybe whitish discharge.
+DOCTOR: And these symptoms start about a week ago as well or about five days ago?
+PATIENT: Um yeah, around the same time.
+DOCTOR: I see, OK. And have you had any uh like facial pain like over your over your cheeks or or forehead?
+PATIENT: Uh no, nothing like that.
+DOCTOR: OK, and have you felt like your nose um is obstructed, like you're not able to breathe in through either one of your nostrils?
+PATIENT: Yeah, that happens and sometimes the nostrils keep switching.
+DOCTOR: OK, and have you had a loss or a change in your sense of smell?
+PATIENT: Um just when I'm congested like I feel like I can't really smell.
+DOCTOR: I see, alright. Have you had a loss or a change in your sense of taste?
+PATIENT: No.
+DOCTOR: OK. Um and have you had any shortness of breath with the cough?
+PATIENT: Uh no.
+DOCTOR: OK, um and have you had any eye redness or um eye discharge?
+PATIENT: No, I don't think so.
+DOCTOR: Alright, and how about a sore throat?
+PATIENT: Uhm, maybe a little bit of a tickle in my throat, but not sore.
+DOCTOR: I see, OK, so have you had any pain with swallowing food or liquids?
+PATIENT: No.
+DOCTOR: OK, and um have you had any headaches?
+PATIENT: No.
+DOCTOR: Any fevers or chills?
+PATIENT: No, nothing like that.
+DOCTOR: Any uh night sweats?
+PATIENT: No.
+DOCTOR: And how was your weight been recently? Any changes?
+PATIENT: No, no changes.
+DOCTOR: OK, um and have you had any nausea or vomiting?
+PATIENT: Uhm no, nothing like that.
+DOCTOR: Have you had any diarrhea?
+PATIENT: Uh no, no diarrhea.
+DOCTOR: OK, and have you had any urinary problems like painful urination or or frequency?
+PATIENT: Nope.
+DOCTOR: OK, and then any skin changes or or rashes?
+PATIENT: Uh nope, nothing like that.
+DOCTOR: Alright, any muscle aches or body pains?
+PATIENT: Uhm no, nothing like that.
+DOCTOR: Alright, and how has your energy been over this past week? Have you had fatigue?
+PATIENT: Uh no, I've been, I haven't been tired or like, it's just been like these symptoms that don't seem to go away.
+DOCTOR: I see, OK. Um and uh, have you had any changes to your um to your voice?
+PATIENT: No.
+DOCTOR: Or any any neck swelling?
+PATIENT: No.
+DOCTOR: Alright, um so it sounds like over the past uh week you've been having this dry cough uh as well as some nasal discharge and some congestion with um a little bit of a scratchy throat. Um any other symptoms?
+PATIENT: Uh no, that's pretty much it.
+DOCTOR: I see, alright, and in the past have you been diagnosed with any medical conditions?
+PATIENT: Uh no, I've been pretty healthy.
+DOCTOR: OK, that's good. And, uh, any uh prior hospitalizations or surgeries?
+PATIENT: Uhm no, nothing like that.
+DOCTOR: Alright. And do you take any medications regularly, prescribed or over the counter?
+PATIENT: Um I've just been taking like Tylenol cold, but it's not really been helping too much.
+DOCTOR: OK, um do you have any allergies?
+PATIENT: Uh no.
+DOCTOR: OK, uhm and, uh currently are you, could you just tell me a little bit about your living situation, um like who you're living with and uh and whereabouts?
+PATIENT: Um yeah, so I just live in an apartment with my boyfriend and uh live like just within the city.
+DOCTOR: OK, and are you going to school right now or are you working?
+PATIENT: Yeah, I'm working uh currently um just at a grocery store.
+DOCTOR: OK, and have you been around anybody who's been sick?
+PATIENT: Uh not that I know of, yeah, I haven't seen anyone like have symptoms or anything.
+DOCTOR: OK, have you traveled anywhere?
+PATIENT: No, I've been in the province.
+DOCTOR: OK, um and you mentioned um that you have a boyfriend. Are you currently uh sexually active?
+PATIENT: Yep.
+DOCTOR: And do you use condoms or any form of birth control?
+PATIENT: Uh yeah, usually like just condoms.
+DOCTOR: I see, OK, and is there any chance that uh you could be pregnant currently?
+PATIENT: Uh, no, I don't think so.
+DOCTOR: OK, uh, and I just want um, are you currently smoking?
+PATIENT: Uh no, I have haven't, haven't smoked ever.
+DOCTOR: OK, and that includes cigarettes and marijuana?
+PATIENT: Uh Yeah, no no marijuana either.
+DOCTOR: OK, do you drink alcohol?
+PATIENT: Uh just like once or twice in a week.
+DOCTOR: And is it like one or two drinks?
+PATIENT: Yeah, so I would say, like it would usually be wine.
+DOCTOR: I see alright, and do you use any other uh recreational drugs?
+PATIENT: Uh no, nothing else.
+DOCTOR: OK, um and in the family, um are there any history of heart or lung problems?
+PATIENT: Um not that I know of, no.
+DOCTOR: Alright, and how about any uh any cancers?
+PATIENT: No.
+DOCTOR: Alright, um so uhm that was everything I wanted to ask today on on history, was there anything else that maybe I forgot to ask about, you wanted to mention?
+PATIENT: Uh no, I just yeah, I was just wondering if like I should be worried at all about Covid.
+DOCTOR: Yeah, certainly um something that we'll be testing for today with some of the symptoms that you're having like um cough and some nonspecific symptoms like that can show up in Covid, um for sure so it will be important to get a test for that today, which will require a nasal swab. Um that being said, it could be uhm another type of viral illness like the common cold, which is causing your your symptoms here today, um and so it will be just be important to be diligent and if your symptoms, diligent with the testing I mean, with the Covid, and if your symptoms get any worse we, it might be important to go to the hospital or or the emergency department.
+PATIENT: Yep, sounds good. Thank you so much.

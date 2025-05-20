@@ -1,0 +1,293 @@
+DOCTOR: How is everything going today?
+PATIENT: Good, good.
+DOCTOR: [REDACTED].
+PATIENT: No.
+DOCTOR: I don't think so.
+PATIENT: I [REDACTED].  I'm here for a follow-up.
+DOCTOR: Okay what's going on?
+PATIENT: Um.  Last month I had this really bad cough and cold.
+DOCTOR: Okay.
+PATIENT: And I was here twice in January and I think it was aggravated by some acid reflux, too.
+DOCTOR: Okay.
+PATIENT: [REDACTED] some medication as well.
+DOCTOR: And how have you been doing?
+PATIENT: A lot better.
+DOCTOR: Oh good.
+PATIENT: Yeah cause see the cough was horrible the last time I was here so it's improved a lot.
+DOCTOR: Oh good.  How's your diet?
+PATIENT: Uh good.  Eating now and then.
+DOCTOR: How many meals a day?
+PATIENT: Three meals a day.
+DOCTOR: Okay.
+PATIENT: Trying to uh get through [REDACTED].
+DOCTOR: Okay.  [REDACTED] today.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: I expected it to be healthy.  What medication are you on right now?
+PATIENT: I'm taking the, excuse me, I added this nasal spray.
+DOCTOR: Uh-huh.
+PATIENT: I'm taking twice a day, two injections in each nostril.
+DOCTOR: Okay.
+PATIENT: And then I'm taking this one pill once a day, I forget the name of it.
+DOCTOR: Loratadine?
+PATIENT: That could be.
+DOCTOR: Uh-huh.
+PATIENT: Its 30 pills per month.
+DOCTOR: I got it.
+PATIENT: Yes.  I'm taking some over-the-counter stuff, Prilosec.
+DOCTOR: Prilosec.
+PATIENT: Prilosec.
+DOCTOR: Is this for your stomach?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: I'm taking that.  I'll be done with that Wednesday, I think Wednesday.
+DOCTOR: Okay.
+PATIENT: Uh and I was taking some cough syrup earlier.
+DOCTOR: So you're done with that now?
+PATIENT: Yes.
+DOCTOR: Okay.  You're done with the cough syrup and then are you still, [REDACTED]?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Are you using the throat lozenges too?  Not really?
+PATIENT: Uh I haven't, I haven't gone out and bought any.
+DOCTOR: Okay.
+PATIENT: But I had, I had a supply at home and I think I used them all up.  So I need to go out and get some.
+DOCTOR: Okay.  Um.  How long have you been on the Prilosec now, two weeks?
+PATIENT: Uh about a week and a half.
+DOCTOR: About a week and a half.
+PATIENT: The instructions say it's a two week course.
+DOCTOR: Okay.
+PATIENT: Like once a day.
+DOCTOR: And do you feel like it has helped?
+PATIENT: Yeah.  I think it has helped.  Because I had real bad vomiting last month.
+DOCTOR: Okay.
+PATIENT: And that's gone away.
+DOCTOR: Why were you having so much vomiting? From the cough then?
+PATIENT: From the cough yeah.  Yeah.  [REDACTED] time I’d eat a meal.
+DOCTOR: Okay.
+PATIENT: You know even if I had Gatorade or something, it's enough to cause me to vomit.
+DOCTOR: Uh-huh.  Are there any other issues or?
+PATIENT: Uh no.
+DOCTOR: [REDACTED].
+PATIENT: Just uh, I still have the cough you know.
+DOCTOR: How often do you, do you find yourself waking up at night when you cough?
+PATIENT: No.  Now last month, at times I’d wake up in the middle of the night, I’d be coughing a lot.
+DOCTOR: Uh-huh.
+PATIENT: I just haven’t had that problem lately.
+DOCTOR: [REDACTED].
+PATIENT: Really no reason it's a dry hacking cough.
+DOCTOR: Any fevers, chills?
+PATIENT: No. I may have had some chills last month during the worst part of it but, that hasn't been a factor lately.
+DOCTOR: Okay.  How long have you had the cough now?
+PATIENT: Uh I've had this cough for weeks now.  In fact my first time I came in was early January but I was diagnosed with acid reflux.  I think it was in 2008.
+DOCTOR: So has it been at least one month with the cough?
+PATIENT: Uh yes.
+DOCTOR: Okay.  Are you a smoker?
+PATIENT: No I've never smoked.
+DOCTOR: Okay.  [REDACTED] I think we should go ahead and do a chest x-ray.
+PATIENT: Okay.
+DOCTOR: Um I mean you're right it's probably your reflux I don't want to miss anything.
+PATIENT: Uh-huh, right.
+DOCTOR: Have a seat up here.  Uh any chest pain, shortness of breath?
+PATIENT: No.  Now when the cough is really bad, it's in my chest.
+DOCTOR: Chest yeah.
+PATIENT: Right.
+DOCTOR: Nausea, vomiting, but not recently right?
+PATIENT: Not recently.
+DOCTOR: Only when you have coughing spells.
+PATIENT: Yeah when it got really bad.
+DOCTOR: Any diarrhea?
+PATIENT: Uh no.
+DOCTOR: Have you traveled anywhere recently?
+PATIENT: Uh.
+DOCTOR: To outside of the country?
+PATIENT: I haven't been outside of the country you know since 2008 and that was a cruise.
+DOCTOR: Where did you go on the cruise?
+PATIENT: Caribbean.
+DOCTOR: Caribbean.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] okay.  Who do you live with at home?
+PATIENT: Just myself.
+DOCTOR: Okay.  No kids.
+PATIENT: No kids but I work as a teacher.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: High school.
+DOCTOR: High school okay.  Um sick kids.
+PATIENT: Probably. You gotta be real careful. I lot of hand washing.
+DOCTOR: [REDACTED].
+PATIENT: I have.
+DOCTOR: You have to right if you're a teacher.
+PATIENT: Yes but I have a tested positive to TB exposure before.
+DOCTOR: You have?
+PATIENT: Yes.
+DOCTOR: When were you treated?
+PATIENT: I think it was from [REDACTED].
+DOCTOR: Were you given two medications for nine months?
+PATIENT: It wasn't that long.  I think this was back in 1995.
+DOCTOR: [REDACTED].
+PATIENT: And I was non-active. I was doing training with the military back then, so I don't think it would show up in any military records.
+DOCTOR: Yeah.
+PATIENT: VA records.
+DOCTOR: Okay.  Um okay well so we'll that’s something to keep in mind, that you've had some kind of exposure.
+PATIENT: Yeah.
+DOCTOR: We'll kind of talk to my supervisor and see what we need to do.
+PATIENT: Uh-huh.
+DOCTOR: Um so, what do you teach?
+PATIENT: Uh my area is secondary is social studies, I work as a substitute teacher now.
+DOCTOR: Okay.  Um where you in the Army, Navy or?
+PATIENT: Army, but I'm still in the Army Reserve.
+DOCTOR: Army Reserve and where did they send you around the globe?
+PATIENT: Uh I've been to Germany.
+DOCTOR: Uh-huh.
+PATIENT: Korea and I've been to Iraq too.
+DOCTOR: You've been to Iraq okay.
+PATIENT: Yeah.
+DOCTOR: What about sexual history, how many partners?
+PATIENT: Uh I have no.
+DOCTOR: You're not sexually active?
+PATIENT: Uh uh.
+DOCTOR: Okay not recently.  And no fevers or chills.
+PATIENT: No.  I probably had some chills like the middle of last month.
+DOCTOR: Oh.
+PATIENT: When it was bad, but it was probably [REDACTED].
+DOCTOR: You've had the reflux disease for how long now?
+PATIENT: I was diagnosed with it about 2008, late 2008.
+DOCTOR: Late 2008. Have you had coughing fits like this before?
+PATIENT: Yeah and some previous years.
+DOCTOR: You have.
+PATIENT: I've had some really bad coughs.
+DOCTOR: Okay.
+PATIENT: In 2007 I had a really bad cough and that may have been a negative thing from the flu shot.
+DOCTOR: Were you sick before the coughing just started?  I mean did you feel like you got really sick and then you just had the cough that kind of hung around or no?
+PATIENT: This cough just kind of, it comes and goes.
+DOCTOR: Uh-huh.
+PATIENT: So now earlier this month it started uh New Year’s Day I did a 5-K run.
+DOCTOR: Oh no.
+PATIENT: [REDACTED] and I sweated a lot [REDACTED].
+DOCTOR: Cold weather.
+PATIENT: Yeah but then uh.
+DOCTOR: And that's what [REDACTED].
+PATIENT: Yeah a couple days later, that's when [REDACTED] OTC, some OTC stuff [REDACTED] came here in early January.
+DOCTOR: Okay.  Deep breath.  I don't hear any wheezing.  You haven't been having any wheezing?
+PATIENT: No, no real wheezing.
+DOCTOR: [REDACTED].
+PATIENT: No.
+DOCTOR: Can you stick your tongue out, say ah.
+PATIENT: Ah.
+DOCTOR: Ah.  [REDACTED].  Ah.
+PATIENT: Ah.
+DOCTOR: It doesn’t look really red or anything back there um.  Do you have a lot of stuff coming out your nose?
+PATIENT: Yeah I do have a runny nose.
+DOCTOR: You did, when was that?
+PATIENT: This past month.
+DOCTOR: [REDACTED].
+PATIENT: And I've taken the nasal spray.
+DOCTOR: Is it helping?
+PATIENT: I think so, but then when I take it then I start [REDACTED].
+DOCTOR: Oh [REDACTED].  Uh any allergies like ice cream?
+PATIENT: No I don't have any known allergies.
+DOCTOR: No okay.  Do you have any swelling in your legs?
+PATIENT: No.
+DOCTOR: You haven't noticed it.  You're a fairly healthy one huh.
+PATIENT: Yes.
+DOCTOR: Okay.  Urinating okay, bowel movements okay, no blood?
+PATIENT: No problems.
+DOCTOR: In your stools, okay.  Um, go ahead and have a seat down here.  [REDACTED].
+(DOCTOR OUT: 41:11  DOCTOR IN:  50:53)
+DOCTOR: Hi PATIENT.
+PATIENT: How you doing?
+DOCTOR: Good, good, good.  I'm DOCTOR, one of the supervising doctors.
+PATIENT: Alright.
+DOCTOR: So you are in pretty good health?
+PATIENT: Yeah.
+DOCTOR: Cool. But you've been coughing.
+PATIENT: Yes.
+DOCTOR: And you teach, you're a teacher?
+PATIENT: Yes.
+DOCTOR: Great.  Um where do you teach?
+PATIENT: Uh I work as a substitute teacher so uh I go to a lot of different schools.  My area is secondary social studies.
+DOCTOR: Gotcha, gotcha.  Um and um do you live with family or by yourself?
+PATIENT: By myself.
+DOCTOR: Alright and um how have you been feeling generally?  I mean do you feel like you're in good health, do you feel like you're?
+PATIENT: I feel that I'm in good health.
+DOCTOR: Uh-huh.
+PATIENT: But now, for this last month I've been pretty miserable from the cough and it's just uh.
+DOCTOR: And have you had a cold with that?
+PATIENT: There was a cold with it as well.
+DOCTOR: Uh-huh.
+PATIENT: Besides, I'm probably all healed from the cold.
+DOCTOR: Do you have any allergies?
+PATIENT: None that I know of.
+DOCTOR: Okay um and um have you ever had a cough like this before?
+PATIENT: Yes.  I was diagnosed with acid reflux.
+DOCTOR: Uh-huh.
+PATIENT: In 2008.
+DOCTOR: Uh-huh.
+PATIENT: And so [REDACTED] things like that, a dry hacking cough before.
+DOCTOR: Yeah. Do you know what brings it on?
+PATIENT: I'm not sure, I think it’s related to acid reflux.  Um in early 2005 I had a really bad cough.
+DOCTOR: Uh-huh.
+PATIENT: Like this.  It could have been a reaction from the flu shot, I'm not entirely sure.
+DOCTOR: [REDACTED] now.
+PATIENT: No I'm fine.
+DOCTOR: So you think it was seasonal, does it happen at certain times of the year?
+PATIENT: More often in winter than other times.
+DOCTOR: Does cold air bring it on?
+PATIENT: It could.  It sure could.
+DOCTOR: Okay.  Um cause I'm wondering some people get a little bit of asthma with the cold air.
+PATIENT: And now that I think of it, when I'm exposed to cold air I have a tendency to cough more.
+DOCTOR: Uh-huh, uh-huh.  [REDACTED] Can you lean forward?
+PATIENT: Sure.
+DOCTOR: Good.  Take a breath in, out, again, out hard, out hard, breathe deep, out, one more time out.  Okay keep going in and out, that's good, again.  Alright that’s good.  I don't hear a wheeze.  [REDACTED].  What I'm really wondering is would he benefit from, could he be having like a mild cough variant to reactive airway disease which people get in the winter.  I know kids get it all the time.  Um have you ever used an inhaler before?
+PATIENT: I've tried it yeah before, but it's been a really long time.
+DOCTOR: Okay.
+DOCTOR: Do you want to do the inhaler?
+DOCTOR: Yeah, try that and [REDACTED] prn.  Albuterol with a spacer; basically it's just a dilator, bronchodilator.
+PATIENT: Uh-huh,
+DOCTOR: Cause personally I don't think reflux would be causing this particular kind of cough and you know, it just doesn’t seem right.  Um I don't think he's got tuberculosis.  Uh I don't think he's got, it doesn’t really fit for allergies.  It’s been a little bit long for post-viral cough, but you know you could have this pattern of getting this in the wintertime, I would try him with just an inhaler – see if it helps.
+DOCTOR: Uh-huh.
+DOCTOR: Because you know you have to have a very significant amount of you know of bronchospasms before you start to wheeze, it's not from your actual cough.
+PATIENT: Uh-huh.
+DOCTOR: So we're going to try you on an inhaler.
+PATIENT: Alright.
+DOCTOR: And see if that doesn't actually help.
+PATIENT: Okay.
+DOCTOR: And then maybe we'll see you back in a couple weeks and see how you're doing.
+PATIENT: Alright.
+DOCTOR: Good luck.
+PATIENT: Thank you doctor.
+DOCTOR: [REDACTED].
+PATIENT: Um.
+DOCTOR: [REDACTED].
+PATIENT: And he's from Internal Medicine?
+DOCTOR: Yeah.
+PATIENT: Yeah.  He's really knowledgeable.
+DOCTOR: Yeah.  Can you go down and pick up the medication?
+PATIENT: Okay.
+DOCTOR: Um in the Pharmacy and [REDACTED].
+PATIENT: Okay.
+DOCTOR: And then we'll have you come back in a month.
+PATIENT: Alright.
+DOCTOR: And we can see how your cough is doing.
+PATIENT: Do I have an appointment for a chest x-ray?
+DOCTOR: No you don't have to do a chest x-ray.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Alright.  Thank you much.
+DOCTOR: It was really nice talking to you.
+PATIENT: [REDACTED] okay, thank you.  Alright.
+PATIENT: 55:53.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286112
+TRANSACTION # 578-10-2-316-0103

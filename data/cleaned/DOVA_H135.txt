@@ -1,0 +1,428 @@
+DOCTOR: PATIENT?
+PATIENT: That would be me.
+DOCTOR: How you doing?
+PATIENT: Okay.
+DOCTOR: It's good to meet you, DOCTOR.
+PATIENT: DOCTOR.
+DOCTOR: Have you been waiting long?
+PATIENT: No sir, not really.  I've been sitting [REDACTED] a lot sicker longer than waiting here.
+DOCTOR: Right.
+PATIENT: Sir, before we start, I would like to here's my full chart for the last four or five years.
+DOCTOR: Okay.  Where is this from?
+PATIENT: Uh Dupage Medical Group.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: What can we do for you today?
+PATIENT: Well, I just, I needed a doctor.  I lost my insurance, my job.  I have some kind of insurance now but it's not good enough so I thought I'd come here.
+DOCTOR: Okay.
+PATIENT: That's in a nutshell right there.  I'm not really sick but you know I don't want to take a chance.
+DOCTOR: What uh, what medical problems have you had in the past?
+PATIENT: Uh diabetic.
+DOCTOR: Okay, diabetes.  Any other medical problems?
+PATIENT: No sure.
+DOCTOR: High blood pressure, high cholesterol or anything like that?
+PATIENT: Uh at first.
+DOCTOR: Okay.
+PATIENT: But um, if it starts running a little high they throw me on a diet per say uh.
+DOCTOR: What you mean by a diet?
+PATIENT: Uh, starches, potassium is too high or uh cholesterol.
+DOCTOR: Okay.
+PATIENT: I could do this with my diet.
+DOCTOR: Okay.
+PATIENT: I just need to know, you know what to do.
+DOCTOR: Sure.  What do you take for medication-wise?
+PATIENT: Medication I take um, uh glipizide 5 mg once a day at breakfast, half hour before I eat.  I also take metformin 500 mg twice a day after I eat a.m. and p.m.
+DOCTOR: 500 and okay.  Do you take any other medications?
+PATIENT: No sir.
+DOCTOR: Okay.
+PATIENT: I'm not allergic to anything.
+DOCTOR: You've been through this drill before I take it.
+PATIENT: Well, I want to.
+DOCTOR: We always ask the same questions we ask.
+PATIENT: Yeah but it's quite alright.
+DOCTOR: Yeah [REDACTED].
+PATIENT: I want to be upfront with you okay.
+DOCTOR: Sure, no problem.
+PATIENT: I'm here for you to help me, not you know.  There's no secrets in this.
+DOCTOR: Sure, I appreciate it.
+PATIENT: Um.  I like my legs, I like my eyesight.
+DOCTOR: Well we want to keep it.
+PATIENT: That's right.  We want to keep it together.
+DOCTOR: Um are you a smoker sir?
+PATIENT: No sir.  I quit on Christmas Eve 1999; haven't touched one since.  I don't drink.
+DOCTOR: Good.  Uh where do you live right now?
+PATIENT: I live in Blue Island, Illinois.
+DOCTOR: Do you live with anyone?
+PATIENT: Well I own the house.
+DOCTOR: Do you live in a house?
+PATIENT: Yes with my wife.
+DOCTOR: Okay.  Um, any stairs at the house?
+PATIENT: Um yes.
+DOCTOR: How do you do with the stairs and getting around?
+PATIENT: No problem.
+DOCTOR: Ambulate okay?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Uh I work now as a security officer in the hospital ID tags.
+DOCTOR: Okay.
+PATIENT: Okay.  So I put in maybe five, six miles a night.  I belong to the Health Club.
+DOCTOR: Okay.  You walk five to six miles a night?
+PATIENT: Yeah.
+DOCTOR: Oh excellent.
+PATIENT: When I feel frisky I shoot the stairways from floor to floor.  Not often but it has happened.
+DOCTOR: What hospital do you work at?
+PATIENT: It's R&L a specialty hospital in Hinsdale.
+DOCTOR: [REDACTED].
+PATIENT: Yes I know.  I haven't seen any Hines passes but I saw a lot of.
+DOCTOR: Yeah a lot of the residents work at both, fellows too.  So I know you get a lot of the pulmonary fellows over there doing, to deal with that management stuff.
+PATIENT: Yeah.
+DOCTOR: Um any family history of any medical problems as far as you know?
+PATIENT: Uh, my dad had diabetes but he was 74 when they.
+DOCTOR: When they diagnosed it?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: So you know.  Dad's a firm believer on potatoes and gravy for breakfast and dinner and lunch.  That don't happen with me.
+DOCTOR: Uh did your mother have any medical problems?
+PATIENT: No.  Uh my mother died at childbirth.
+DOCTOR: Okay.  Any brothers or sisters?
+PATIENT: Uh I have one blood sister, she's 11 years older than I am and she's still living and still kicking.
+DOCTOR: Healthy as far as you know?
+PATIENT: Yes sir.
+DOCTOR: Uh any children?
+PATIENT: Yes I do.
+DOCTOR: How many children do you have?
+PATIENT: I have uh two girls.
+DOCTOR: And they're healthy?
+PATIENT: Yes.
+DOCTOR: Do you ever check your blood pressure at home?
+PATIENT: No I don't.  I don't have the equipment for that.
+DOCTOR: Okay.
+PATIENT: But I imagine if I talk real nice to somebody at the hospital I'd be able to.
+DOCTOR: Well we can get you one here too um, that's always, down in the Prosthetic Lab they have blood pressure cuffs and we can get you.  Your blood pressure is a little bit high today so I was just wondering if you uh if you normally run high or if it's usually pretty good?
+PATIENT: Well number one I'm stressful today.
+DOCTOR: Okay.
+PATIENT: Um I was late getting here.
+DOCTOR: Okay.
+PATIENT: You know I lost my way getting here uh, it started raining and then you know I didn't know where I was going.
+DOCTOR: Okay.
+PATIENT: Uh usually I'm in control of.
+DOCTOR: Okay.  Well we'll recheck it; maybe it was just the pressure at that moment.  Um, I'll recheck it at the end of the visit.  Have you ever had a colonoscopy done?
+PATIENT: No.
+DOCTOR: No.  Who was the last primary doctor you saw?
+PATIENT: Um DOCTOR.
+DOCTOR: Where was he [REDACTED].
+PATIENT: DuPage Medical Group.  I don't know if the name is on there or not.  He replaced DOCTOR.
+DOCTOR: Oh.
+PATIENT: I don't have, I might have a card that's up-to-date.
+DOCTOR: That's okay, actually one of the doctors here, her husband is in this group.  Her name is DOCTOR.  I don't know her husband's name to be honest.  I don't, it might be DOCTOR I'm not sure but I don't see it on there.
+PATIENT: Well there are so many different areas.
+DOCTOR: Yeah there is.
+PATIENT: That.
+DOCTOR: Yeah.  Um.  As far as vaccinations, do you have the tetanus shot, pneumonia shot, [REDACTED].
+PATIENT: Uh I'm good with everything.  I had a swine flu.
+DOCTOR: Okay.
+PATIENT: Okay.  The only thing that I'm lacking is the flu shot and he was kind of concerned about um.
+DOCTOR: You had the pneumonia vaccine and you're current with tetanus?
+PATIENT: Yes.
+DOCTOR: Okay.  When did you have the pneumonia vaccine, do you remember?
+PATIENT: It was about two or three years ago.
+DOCTOR: Okay.  And when was your tetanus, can you remember?
+PATIENT: About the same.  The only thing I haven't got is the shingles and uh, everything's current.  I even have a TB shot, they vaccinated me for TB.
+DOCTOR: Uh well when was that?
+PATIENT: Uh October 20th of last year.
+DOCTOR: Is a vaccine or give you the PPD?
+PATIENT: They just gave it to me in the arm; they tested me in the arm.
+DOCTOR: And they had you go back and they looked at it?
+PATIENT: Yeah.
+DOCTOR: Okay that wasn't a vaccination.
+PATIENT: Oh alright oh.
+DOCTOR: Just so you know.
+PATIENT: No.
+DOCTOR: So um that is what they do is they inject, they basically boil down tuberculosis and kill it and then they inject the particles under your skin to see if your body reacts to it.
+PATIENT: Yeah.
+DOCTOR: Um if it reacts to it then they think that maybe you had it in the past.  The reason I tell you that is that there is a TB vaccine which is almost never used anymore except for in Europe.  Um, it's called BCG vaccine.  They use it over in Europe a lot but it's not used much in America but it can give you a false positive for your TB so, it's a good idea to know if you've ever had that cause they'll put a PPD on you and it'll be positive and then you'll get treatment for TB.
+PATIENT: No they did.  I had to go back and they.
+DOCTOR: Yeah [REDACTED] fine.
+PATIENT: Yeah.  That's how I got the job; I had to pass that to get working in the hospital.
+DOCTOR: Oh so yeah that makes sense, that makes sense.
+PATIENT: So.  I mean you know.  But the only thing I haven't got is the flu shot and the shingles.
+DOCTOR: Okay.  Um do you want to get the shingles?  We can get that for you today.
+PATIENT: Alright, [REDACTED] to do this.
+DOCTOR: I think it's a good idea, especially working in the hospital [REDACTED].  The shingles is basically the reactivation of chicken pox.  Have you ever had chicken pox before?
+PATIENT: I might have, I don't know.
+DOCTOR: Okay.  Uh as far as the flu shot we don't have the seasonal flu shot anymore.  That's kind of.
+PATIENT: I had the swine flu is what I had.
+DOCTOR: Okay.
+PATIENT: I had the opportunity to get that and I did.
+DOCTOR: So that's good um, uh so you still need the seasonal flu shot every year.
+PATIENT: Yeah.
+DOCTOR: Okay.  Uh.
+PATIENT: Well when you're working, I can do different things but when I'm not working it's pretty hard I mean you know.  As far as insurance wise you know.
+DOCTOR: Oh sure, yeah sure.  Um have you ever smoked?
+PATIENT: Yes I have.
+DOCTOR: Okay.  Have you ever had an ultrasound of the abdomen done to look for aneurysms or anything?
+PATIENT: No.
+DOCTOR: Um we generally recommend at the age of 65.  There is some evidence showing that anyone who smoked as many as 10 packs of cigarettes in their entire life um are at an increased risk for an aneurysm in the aorta.  So at the age 65, for anyone that's ever smoked, we recommend a one-time ultrasound just to take a look to see if there are any aneurysm.  If it looks fine then everything's fine you know.  If it is a problem then you know, whatever intervention is necessary is taken.  Um, its pain free, it's quick, takes a couple of minutes.  I think it's a good idea, that's what I tell most of my patients.
+PATIENT: Well if my shot records up I'm not running scared.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Good.  Now as far as the colonoscopy, so you've never had done um, starting at the age of 50 we recommend uh you know starting screening for colorectal cancer um.  Would you be opposed to just seeing our GI doctor about getting a colonoscopy?
+PATIENT: Not right away.
+DOCTOR: Okay.
+PATIENT: Let's put that on the back burner.
+DOCTOR: Okay.
+PATIENT: I have issues with that, but anyway.
+DOCTOR: Okay.  I will say you know what you're not the first person I've had issues with.  First when I talked my dad into doing it just a couple years ago, cause he turned 50 like two years ago and um he said the worst part was the prep the night before.  The actual procedure doesn't hurt at all; you're pretty much asleep for the whole thing.  The night before they make you drink a bunch of stuff to clean your bowels out and.
+PATIENT: That I could turn my head quick, that'll do the same, no I'm.
+DOCTOR: But it's I think, most people who have it done uh in the end say it was much ado about nothing, [REDACTED].  Just a reassurance.
+PATIENT: Next time I come in I might ask for it.
+DOCTOR: Okay.
+PATIENT: You understand, that's the way I am.
+DOCTOR: Sure.
+PATIENT: Okay.  Um I have some.
+DOCTOR: Double check your labs just to see.  So yeah it looks like everything here hasn't been done that we would use.  Can I have this copy or do you need it back?
+PATIENT: You can do anything you want sir.
+DOCTOR: Okay so I'm going to put this in our computer.  It looks like these are all current so we don't need to get any lab work on you today.  This was done a month ago, most of the stuff so.  Okay can you sit up here, I want to take a quick listen to you and I want to check your blood pressure.
+PATIENT: Okay.  I have some prescriptions of my uh metformin and glipizide and it also has his name and address and phone on there.
+DOCTOR: Whose name is it?
+PATIENT: The doctor, DOCTOR.
+DOCTOR: Oh yeah.
+PATIENT: DOCTOR.
+DOCTOR: We can get that for you, it's not a problem.  Um the only thing I would say is how much do you pay for it now?
+PATIENT: What I done is I was paying just about $33 at Walgreens and I went to, one day I went to Walmart and checked a three months’ supply.
+DOCTOR: Uh-huh.
+PATIENT: For $20.
+DOCTOR: $20 okay.  So I think the VA medications we can get you are $8 a month, I don't know how much for a three month supply but I know some of these medications, like metformin I think, I was just hearing something about, was it Walmart or Target is now offering metformin for free um.  It's a new promotion they're running.  I don't know if it's going to be forever or if it's just kind of a new thing they're doing.
+PATIENT: Well alright, I have a three months’ supply for $20 so, that's almost $4 a prescription.
+DOCTOR: Three months’ supply of both for $20?
+PATIENT: I have 90 days.
+DOCTOR: Yeah.
+PATIENT: Of glipizide.
+DOCTOR: Yeah.
+PATIENT: And 180 of metformin.
+DOCTOR: And that's $20 total for both medications?
+PATIENT: Total.
+DOCTOR: Yeah that's going to be cheaper than you're going to get it here I'm pretty sure.
+PATIENT: Okay.
+DOCTOR: Um I could put it in the computer and I have no problem letting you get your medication from here, from a cost perspective you'd probably save a couple of bucks getting it from Walmart um.  But that's up to you.
+PATIENT: But uh, I need a new meter too so what's.
+DOCTOR: Yeah we'll get you that.
+PATIENT: Okay.  It's, like I said I'm running illegal right now okay.
+DOCTOR: Can you give me a couple of deep breaths please?  Can you lay back for me?  Any pain there?
+PATIENT: Other than gas.
+DOCTOR: Can you open your mouth and say ah?  Okay.  Did you have surgery on your nose?
+PATIENT: Yes sir.
+DOCTOR: What was that for?
+PATIENT: I had a growth there and here, uh four years ago.
+DOCTOR: You can sit up.
+PATIENT: And I.
+DOCTOR: Did they tell you, what was it?
+PATIENT: It was uh cancerous.
+DOCTOR: Okay.  Take a deep breath for me.
+PATIENT: That's fine.  It was cancerous but uh.
+DOCTOR: They got all of it?
+PATIENT: Yes sir.  I went back for a mole surgery, there was one little spot that came up about right in here, they took that out and I had that a couple years ago.
+DOCTOR: Okay.
+PATIENT: That they finally took the second one out.
+DOCTOR: Do remember what kind of cancer, squamous cell, basal cell, do you remember?
+PATIENT: Basal cell.
+DOCTOR: Basal okay.  Any swelling in the feet ever?
+PATIENT: No.
+DOCTOR: Okay.  Do you mind taking your shoes off for me?
+PATIENT: Alright.
+DOCTOR: I'm sure that you know with diabetes you get the increased risk of foot ulcers.  So we'll take a quick look at your feet to make sure they look okay.  Um do you have an eye doctor?
+PATIENT: I haven't had my eyes checked in a couple of years.
+DOCTOR: Okay do you want us to do that for you?
+PATIENT: Yes sir.
+DOCTOR: With diabetes you should be checking your eyes uh.
+PATIENT: I know that I should get them checked.  You want both shoes off?
+DOCTOR: Yes.
+PATIENT: Okay.  Now is the insurance going to pay this or?
+DOCTOR: I'll be honest I don't know anything about how insurance works here.  Um, I just don't do any of that, that side of it.  If you ask up front at the desk they may have a little more information about how insurance works here.
+PATIENT: Cause I don't wallets, it's my first time here I have no idea.
+DOCTOR: Yeah I know, to be honest with you.
+PATIENT: I don't even know how good my insurance is.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Yeah how the VA does billing, we don't do any of that.  I mean from the medical side.  You know the doctors don't do any of that.
+PATIENT: Yeah.
+DOCTOR: So I don't know how that works uh.  Up front they'll either be able to tell you how it works or they can send you to the office that can tell you how that stuff works.
+PATIENT: Okay.
+DOCTOR: Okay.  Do you have any problems with your eyes?
+PATIENT: Well I use bifocals.  Oh I have no problems seeing at night, you know.
+DOCTOR: Yeah okay.  But no problems from the diabetes as far as you know?
+PATIENT: As far as I know no.
+DOCTOR: Have you ever taken an aspirin?
+PATIENT: Taken an aspirin?
+DOCTOR: Uh like a daily aspirin?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I do take aspirins when I have a headache.
+DOCTOR: Well aspirin um, there's a lot of studies on aspirin and heart disease.  Uh mostly aspirin is really not a great pain medication.  Um stuff like Advil, Tylenol are better but what aspirin does that's nice from a medical standpoint is that it attaches to the platelets and makes platelets from not be able aggregate as much so it makes the blood not clot as much um so that reduces the risk of strokes, heart attacks, all that kind of stuff in people who are at risk.  Uh in a lot of our diabetic patients we recommend a baby aspirin a day, just 81 mg.  When you take aspirin for like pain its 650 mg but a small dose of aspirin, 81 mg a day, uh has been shown to reduce the risk of uh heart attacks, coronary events.
+PATIENT: Uh-huh.
+DOCTOR: Uh just because that has a platelet property.  Uh it's absolutely indicated for everyone who's had heart attacks or heart disease in the past but there's a lot of evidence saying that it's probably beneficial in patients who have a lot of risk factors like diabetes.
+PATIENT: Just a regular baby aspirin right?
+DOCTOR: Regular baby aspirin a day yeah.  So I'd probably recommend that to you, it's a loose recommendation but um, probably help you more than it would hurt you.  They look good.  Have you ever had any cuts, bruises, hard time healing?
+PATIENT: No not really.
+DOCTOR: No okay.
+PATIENT: Other than when I whack myself on a bumper or something you know.  But that's usually not long.
+DOCTOR: Okay.  But no problems with healing down there?
+PATIENT: No.
+DOCTOR: Diabetes can cause a problem with the blood vessels in your legs.  Uh it can cause circulation.
+PATIENT: Yeah, here's another thing too, I'm also 69 years old.  I can't compete you know.
+DOCTOR: Sure.  Okay can you close your eyes for me?  Do you feel this?
+PATIENT: I feel you pressing on it.
+DOCTOR: Yeah excellent.  Do you feel that?
+PATIENT: Yeah.
+DOCTOR: Do you feel that there?
+PATIENT: No.
+DOCTOR: Feel that?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Okay, do you feel this?
+PATIENT: Well I feel that.
+DOCTOR: You feel that?
+PATIENT: Yeah, no.
+DOCTOR: Do you feel that?
+PATIENT: Yeah I feel that.
+DOCTOR: How about here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Okay.  I tested you just to check the nerves in the foot.  Diabetes can cause problems with the nerves in the foot but we.  Can you feel that?
+PATIENT: Yeah.
+DOCTOR: Feel that?
+PATIENT: Yeah.
+DOCTOR: Feel that?
+PATIENT: Yeah.
+DOCTOR: Feel that?
+PATIENT: Again.  Yeah.
+DOCTOR: How about over here?
+PATIENT: Yeah.
+DOCTOR: Over here?
+PATIENT: Yeah.
+DOCTOR: Okay, same thing, feel that here?
+PATIENT: Yeah.
+DOCTOR: How about here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: No.  There yeah, other toe.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Right here?
+PATIENT: Yeah.
+DOCTOR: Okay.  That's good.
+PATIENT: I was getting a false reading from you touching my hand.
+DOCTOR: Oh yeah.  Just a little test we do to make sure that uh the nerves in the foot are [REDACTED].  I'll check your blood pressure too.
+PATIENT: Do you want me to take this off?
+DOCTOR: Uh you can pull it up, it's kind of easier.
+PATIENT: I asked the nurse that and she said we’ll do whatever.
+DOCTOR: Let me check your arm there thanks.  Let me just write this down.  You know [REDACTED] it's the only one I could find in the clinic.  Let's try it again.  It's a little bit too big but [REDACTED].  It's a lot better.  124/64.  Were you a little worked up when I first took it?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I looked around the room [REDACTED] couldn’t find the building.  Okay, first day visit and late, that's not a good.
+DOCTOR: I'm never on time.
+PATIENT: Well I'm on old man time, if I’m not here an hour early I'm late.  Should I put my shoes back on?
+DOCTOR: Oh yeah.  Singles vaccine [REDACTED] back order, yeah.  I know they keep it in stock at Loyola but I think here, if I remember right, it's frozen or cooled or something like that and they have to thaw it out and send it back out um.  I can't even find it, where is it.  I need to figure out what's going on [REDACTED].  I'll be right back okay.
+PATIENT: Alright.
+DOCTOR: I'll be with you in a second.
+PATIENT: No that's okay.
+(DOCTOR OUT:  70:13  DOCTOR IN:
+DOCTOR: Okay, I figured it up.  I don't work back in this clinic all that often so, you know once every two weeks generally so you kind of have to relearn everything you come here.
+PATIENT: Yeah okay.
+DOCTOR: But you do have to schedule another appointment.  They don't do it in the clinic um.  So they want me to tell you, [REDACTED].  The only medication that seems to pop up with, herpes vaccine was a randomized controlled trial involving 38,000 patients; the vaccine was shown to reduce the incidence of shingles by 51.3% and the incidence of post herpetic neuralgia which is the chronic pain you get from shingles by almost 2/3.  So it's pretty good data for it.
+PATIENT: Yeah.
+DOCTOR: Um.
+PATIENT: I got to find out if they're going to pay for this or not you know.
+DOCTOR: The shingles vaccine?
+PATIENT: Yeah.
+DOCTOR: Um if there's a problem with it, I know you can get the shingles vaccine at any Dominick or Walgreens and it's pretty cheap.  I know it's actually, my patients at Loyola, I don't know how much it is at Loyola and I don't know how much it is at Dominick, but I know it's significantly cheaper, but I don't even give it to people at Loyola I just tell them to go to Dominick or Walgreens um but, you can ask them when you sign out uh how much it is and what the insurance benefits are or they can give you someone to call to know and they should be able to tell you.  Uh.
+PATIENT: I'll definitely ask that.
+DOCTOR: I put those medications in for you.  Um the only thing that I did notice, it wouldn't cause me to change anything on you today um but someone who's a diabetic, our goals for LDL and HDL here generally above 40 and below 70.  Okay HDL is good cholesterol and LDL is the bad cholesterol.  You want your good cholesterol high and your bad cholesterol low.  For diabetics there's a lot of evidence that shows uh you get good cardiac risk prevention if your HDL is greater than 40 or your LDL is less than 70.  So we want to get this number down and this number up.  Best way to do that is through diet and exercise.  Um diet stuff, cholesterol you want to stay away from and I don't know if you've heard this before but stay away from saturated fats and trans fats.  Those are what kills you for cholesterol.  Uh trans fats, anything you read where the package says partially hydrogenated vegetable oils um a lot of your like processed foods, processed cheeses, uh processed peanut butter have partially hydrogenated vegetable oils or trans fats.  Those are bad for making the LDL high.  Best thing to get the LDL low and the HDL high is uh not avoiding fats actually it's just how.
+PATIENT: Moderation is.
+DOCTOR: Well what kind of fats.  So you want to go after the unsaturated fats.  Unsaturated fats are actually good for you.  The thinking used to be stay away from fats at all costs, don't ever eat any fats. That's kind of changed a little bit.  I mean obviously you don't want to do too much fats because they still have a lot of calories um but in terms of the heart stuff and your cholesterol uh good fats like olive oil, the vegetable oils, actually help, they make your cholesterol profile better.
+PATIENT: Uh I cook my breakfast with olive oil.
+DOCTOR: Good.
+PATIENT: Extra virgin olive oil.
+DOCTOR: Yeah good.
+PATIENT: And um my breakfast is about a half a cup of onion, half a cup of mushrooms and egg beater.
+DOCTOR: Okay, yeah that's good.
+PATIENT: With uh.
+DOCTOR: The other thing that's good, is I don't know what you eat for dinner and stuff like that, but fish is excellent.
+PATIENT: I love fish.
+DOCTOR: You love fish?
+PATIENT: Yeah.
+DOCTOR: Good.  Eat as much fish as you can.  Better than, it's [REDACTED] than red meat.  I mean I'm not going to tell you, I love steak as much as the next person, I'm not going to tell you I never eat steak but.
+PATIENT: Red meat I have maybe once every two weeks and we're talking about 4-5 ounces max.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: Um I eat a lot of chicken, pork, fish.
+DOCTOR: Yeah.  Chicken, pork are better than red meat.  Fish in terms of this is better than all of them because it has those Omega 3 fatty acids are unsaturated fats so they help out a lot.  The other thing is exercise and I know you said you walk 5-6 miles a night and that's great but exercise as much as you can um.  We can watch this for now.  If it doesn't go down a little bit we can always maybe try starting you on like fish oil tablets or something like that or there are statins which is a cholesterol medication which a lot of people use and get pretty good results with.
+PATIENT: Yeah
+DOCTOR: But if we can keep you off of the medication for now we'll try that.
+PATIENT: Yeah medication is fine but let's try the pushing away from the table on some of this garbage.
+DOCTOR: Sure, let's try that okay.  The hemoglobin A1c looks great.  Uh the PSA looks great. Uh everything else looks fine okay.  I don't see anything else that's worrisome.  Um so when you check out today uh, um.
+PATIENT: Here's where he hollered about my potassium.
+DOCTOR: Yeah it's a little high here, I noticed that.  I can't explain that but it looks fine um.
+PATIENT: Well I put the kibosh on it.
+DOCTOR: On what?
+PATIENT: I was eating a lot of vegetables okay.
+DOCTOR: Yeah.  It's hard to tell what that's from.  It's one isolated.  Potassium isn't like cholesterol where it's kind of a thing that you know um, in the absence of kidney failure, it's hard to say what that was from.  Whether you maybe had a glass of orange juice before you came in or a banana or something like that.
+PATIENT: Bananas maybe yeah.
+DOCTOR: But um, you know this isn't that worrisome I mean.  The normal level here is 5.2, at the VA its 5.4, so that would still be considered; it's very close to normal.  Um if this was consistently high or if it was going up I'd be a little bit more worried about it um.  I don't think that this lab value is enough cause for concern that you should stop eating vegetables.
+PATIENT: No I didn't say I would stop, I cut back.
+DOCTOR: You cut back.
+PATIENT: I'm a firm believer if I'm hungry I open the icebox and there's a small dish of green beans.
+DOCTOR: Well.
+PATIENT: That would be it rather than.
+DOCTOR: I mean moderation is always what we preach here uh but I'd rather have you eating green beans than eating a pizza or something you know.  You know that's kind of a fine line we walk you know if you're hungry if you're going to, you know crack open some carrots and celery or some green beans, it's a lot better than some of the things you could be doing.
+PATIENT: Uh pizza is not one of them.
+DOCTOR: Well good.  You'd be surprised how many people don't think the way you think.
+PATIENT: Well, like I said I'm more concerned with my eyesight and my legs.
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: Cause without wheels you're not going no place.
+DOCTOR: Well right, yeah and we want to keep those.
+PATIENT: Yeah.
+DOCTOR: You know so.  So most of my diabetic patients at least initially I like to see every three months and if we get everything stabilized and you know probably change it out to six months.  Is that okay with you?
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Am I going to be seeing you or?
+DOCTOR: You'll be seeing me okay.  You'll be seeing me.
+PATIENT: Alright that'd be good.
+DOCTOR: Okay.  Okay any questions?
+PATIENT: No.
+DOCTOR: It was nice meeting you.  When you check out ask them about the uh, the shingles vaccine okay.  Cause they have to get you a separate appointment for that.
+PATIENT: Okay.
+DOCTOR: It's not an appointment with me, it's a nurse appointment.  You have to actually have the shingles vaccine up.
+PATIENT: And walk in and take care of it and go back home.
+DOCTOR: Right, right.  Here you go sir.
+PATIENT: Alright.
+DOCTOR: Nice meeting you.
+PATIENT: Nice meeting you sir.
+DOCTOR: Take care okay.
+PATIENT: Okay, I got the rest of my life to get home.
+DOCTOR: Okay bye, bye.
+PATIENT: 82:50
+Time is 3:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238114
+TRANSACTION # 578-10-2-316-0103

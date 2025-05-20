@@ -1,0 +1,139 @@
+DOCTOR: PATIENT?  I'm DOCTOR.  How are you?  Come on back.
+PATIENT: I got my [REDACTED] down here.  [REDACTED] okay.
+DOCTOR: Alright.  So we'll be in the second room to the right okay.
+PATIENT: Second room to the right.
+DOCTOR: This one right here.
+PATIENT: [REDACTED].
+DOCTOR: Go ahead and have a seat.  How we doing today?
+PATIENT: Okay.
+DOCTOR: Doing okay?
+PATIENT: Yeah.
+DOCTOR: You're doing okay?  Yeah.
+PATIENT: Uh-huh.
+DOCTOR: Yeah? Okay good.  You're here for a General Medicine visit right?
+PATIENT: Yeah.
+DOCTOR: Okay.  So the last time you were in here was back in September.  How have things been going since then?
+PATIENT: Oh okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Anything new?
+PATIENT: No.
+DOCTOR: Any new, old, different, changed?
+PATIENT: No.
+DOCTOR: Pretty much the same?
+PATIENT: Yes.
+DOCTOR: Okay.  Have you been eating okay?
+PATIENT: Yes.
+DOCTOR: Any chest pain or anything like that?
+PATIENT: No.
+DOCTOR: No okay.  Uh have you been checking your blood sugars at home?
+PATIENT: Yeah.
+DOCTOR: Yeah what do they run?
+PATIENT: They run about the same.
+DOCTOR: Run about the same?  Can you give me an approximate number?
+PATIENT: Uh, I don't know, 90 something I think.
+DOCTOR: Around the 90s?
+PATIENT: Sometimes it goes up and down I don't know.
+DOCTOR: What's the highest it gets up to?
+PATIENT: Huh?
+DOCTOR: What's the highest it goes up to?
+PATIENT: 102 I think.
+DOCTOR: What's the lowest it goes down to?
+PATIENT: About 50 something.
+DOCTOR: 50 something?  When it goes down to 50 something do you get lightheaded or dizzy?
+PATIENT: No I haven't been feeling it too much.
+DOCTOR: Not too much or not at all?
+PATIENT: Not at all.
+DOCTOR: Okay any nausea, vomiting, diarrhea?
+PATIENT: No.
+DOCTOR: Constipation?
+PATIENT: Uh uh.
+DOCTOR: Blood in your stools?
+PATIENT: No.
+DOCTOR: Okay.  So the last time you were here, what'd we talk about?  We wanted to continue your blood pressure management and your blood pressure looks really good today so that's good.  Still, are you still making urine?
+PATIENT: Yes.
+DOCTOR: Yeah cause I know you were seen by the kidney doctors and they said you absolutely do not want dialysis is that right?
+PATIENT: Right.
+DOCTOR: Still taking all your medications?
+PATIENT: Yes I, right now I used the last one and I run out of this one here.  This one I run out [REDACTED].
+DOCTOR: This is the one the kidney doctors prescribed you right?
+PATIENT: Yes uh-huh.
+DOCTOR: See if they refilled it for you.  You should still be on the calcium carbonate, let's just see what they said.  Are you taking the kayexalate that's uh the thing they gave you at the uh kidney doctors?  Like that liquid stuff?
+PATIENT: The liquid stuff.
+DOCTOR: Yeah you still taking that?
+PATIENT: Uh I haven't taken any of that stuff yet.
+DOCTOR: You haven't taken any of it yet?
+PATIENT: No.
+DOCTOR: Why not?
+PATIENT: I don't know.
+DOCTOR: You should start taking it.
+PATIENT: Alright.
+DOCTOR: Cause they're worried because your potassium was really high and that can cause you to have a heart attack.
+PATIENT: Alright.
+DOCTOR: And we don't want that.
+PATIENT: Alright.
+DOCTOR: Okay.  So start taking that.  Can I see that medication bottle one more time the one you said you’re out of.  Okay I refilled this.  What about the rest of your meds?  Do you still have all those?
+PATIENT: Yes.
+DOCTOR: Yeah.
+PATIENT: I have some refills.
+DOCTOR: I want to make sure you have enough to last you till your next appointment.  I think you're gonna run out so I'm gonna refill everything for you okay.
+PATIENT: Alright.  They usually send it to me when I run out.
+DOCTOR: Yeah they usually send it to you but if you run out then they can't send it to you right.  Like if you run out of refills.
+PATIENT: I thought they should know when I run out.
+DOCTOR: Yeah they do and that's why we have to refill them for you before they run out of refills.  Make sense?
+PATIENT: I don't know.
+DOCTOR: (Laughter)  You know what, I see you're gonna be seeing the kidney doctors in, let’s see, do you have an appointment coming up with the kidney doctors?
+PATIENT: I don't know when the next appointment is.  I ain't got nothing [REDACTED] or anything.
+DOCTOR: They wanted to see you back in a month and that was back in November so I think we need to schedule you for a follow-up kidney doctor appointment okay.
+PATIENT: Uh-huh.
+DOCTOR: Other than that you're doing okay though huh?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Want to have a seat up here for me and I can examine you?  I'm looking to see when the last time we got a cholesterol panel on you.  Can you look straight ahead for me?  Open your mouth, stick your tongue out and say ah.
+PATIENT: Ah.
+DOCTOR: Give me some big deep breaths.  Good, breathe normally.  Good.  Numbness or tingling in your fingers or toes?
+PATIENT: No.
+DOCTOR: Stomach pain?
+PATIENT: No.
+DOCTOR: Okay, alright.  Give me a few minutes.  Let me go talk to DOCTOR and I'll be right back okay.
+(DOCTOR OUT:  32:54  DOCTOR IN:  49:40)
+DOCTOR: Hey PATIENT.
+PATIENT: Hi.
+DOCTOR: How are you?
+PATIENT: Okay.
+DOCTOR: Okay.  Um are you watching your diet and [REDACTED] off the potassium?
+PATIENT: Uh-huh.
+DOCTOR: High potassium diet.
+PATIENT: Uh-huh.
+DOCTOR: You're watching like bananas, oranges okay.  But you haven't taken that sweet liquid?
+PATIENT: Hmm?
+DOCTOR: The kayexalate, the one that tastes really sweet?
+PATIENT: Hmm.
+DOCTOR: Do you have it at home?
+PATIENT: Yeah.
+DOCTOR: You do, okay.  I'm going to check your potassium again today so I don't want you to leave.  I want you to come back after your blood tests done and just wait out there because I need to make sure it's not too dangerously elevated and PATIENT your kidney function is deteriorating quite fast - quite rapidly and I think the dialysis is eminent.  So I think you need to come to the conclusion that you really need it otherwise you I mean this is life-threatening.  You may not need it immediately but that might be in near future and you will need it.  What is that you are concerned about?  A lot of people are on dialysis.  They start even at the age of 85, I have a patient, an 85 year old who just started on dialysis.
+PATIENT: Well I.
+DOCTOR: And they do fine.
+PATIENT: Don't like the idea, going for three hours and sit and I don't like that.
+DOCTOR: Well you are otherwise doing okay.  I think that dialysis is I mean.  I mean unfortunately we don't have any other way to take care of your kidneys.  I don't think it's.  I mean the idea is bad to start it but once you get used to it I'm sure you'll.  I mean it's not as bad as you think.
+PATIENT: Well I'll never get used to it.
+DOCTOR: But the problem is, it’s better than uh I mean that it's going to be your life support measure.  Without it.
+PATIENT: Yeah.
+DOCTOR: People die.
+PATIENT: Yeah.
+DOCTOR: You're not there yet but I'm sure that I want you to get used to the idea.
+PATIENT: Right.
+DOCTOR: So you do not decline.  That's what [REDACTED].  That's what I wanted to talk to you about.
+PATIENT: Yeah [REDACTED].  I have to give it some thought.
+DOCTOR: Okay because I don't want you to just, just without any thinking.
+PATIENT: Yeah.
+DOCTOR: Uh not.  Okay.  Alright.  So do the blood, wait out there and meanwhile make your kidney doctors appointment okay.
+PATIENT: Yeah.
+DOCTOR: Alright so I want you to go to the Lab and get your blood drawn and then come back here okay.  And up front they're gonna schedule you in the clinic.  So I want you to go up front, schedule the appointment, go to the Lab get your blood drawn and come back here okay.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: 52:50
+10:55
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255160
+TRANSACTION # 578-10-2-316-0103

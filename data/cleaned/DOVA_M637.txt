@@ -1,0 +1,282 @@
+DOCTOR: Will you come with me?  Just have a seat right here.  Alright well I'm DOCTOR.
+PATIENT: Yeah.
+DOCTOR: One of the residents working in DOCTOR's clinic here.  I'll be seeing you from now on probably so.
+PATIENT: Oh.
+DOCTOR: So how you doing?  Pain still?
+PATIENT: Yeah I got pain in that knee.
+DOCTOR: Right here?
+PATIENT: It'd be pain and maybe 24 hours a day.
+DOCTOR: Right, that same place in the knee?
+PATIENT: Yeah.
+DOCTOR: Same thing.
+PATIENT: Not a lot.  I seen the uh.
+DOCTOR: Surgeon right?
+PATIENT: Yeah, well I seen those guys and basically that's the only thing that will do any good.
+DOCTOR: A knee replacement?
+PATIENT: Yeah they got to do that.  Uh I had a [REDACTED] and all that.  I'm on pain pills man and they don't help no more.
+DOCTOR: Has it changed in character or it's the same thing right?  Same location, same place?
+PATIENT: Yeah.  Same, same location, and the only difference was pain just getting worse.  I had to talk to the Rheumatology I mean they do [REDACTED] about a month ago and they didn’t do anything you know so I always see Orthopedic myself and they say.  I only see those guys you know time and time and I'm constantly telling them and they doing nothing.
+DOCTOR: Yeah.
+PATIENT: I go to see the Orthopedics and they say hey you know, that's the only thing going on.  They're gonna ease the pain.  They didn't give me any painkiller either.  They don’t help.
+DOCTOR: Okay.
+PATIENT: I uh, you know I had this pain in the lung you know, uh so they supposed to do a biopsy uh then they cancelled it, this is the second time they cancelled it.  I was supposed to go on the 16th and they didn't do it now.
+DOCTOR: A biopsy of what?
+PATIENT: Yeah uh now they tell me on the 23rd.
+DOCTOR: Okay, what do they want, what are they doing a biopsy on?
+PATIENT: For the lung, uh [REDACTED].
+DOCTOR: Oh for the nodule in there right?
+PATIENT: Yeah only on the right [REDACTED].
+DOCTOR: Did they find this on the CT?  They were going to biopsy it, really?
+PATIENT: Yeah, well they was supposed to, well that's what they told me and they cancelled uh twice and they said they didn't have room so now they set it for the 23rd.
+DOCTOR: Okay.
+PATIENT: I still got that pain in there though.
+DOCTOR: It hurts with breathing?
+PATIENT: Yeah when I cough you know.
+DOCTOR: And that hasn't changed at all either?
+PATIENT: No it ain't changed you know it’s, I just, I can hold off on coughing.  If I have to cough it pains me.  And in Rheumatology he ordered it long ago, I mean when they got it in the pulmonary [REDACTED] ordered it and they said they didn't have room or whatever yeah.
+DOCTOR: So you're supposed to go this month again?
+PATIENT: Yeah.
+DOCTOR: On the 16th.
+PATIENT: I was supposed to go the 16th.
+DOCTOR: Yeah.
+PATIENT: Uh when he cancelled it he said they didn't have room so now they move it to the 23rd.
+DOCTOR: Okay.  Yeah that's probably something they're gonna take care of for you just ahead but they've got to figure out what that is.
+PATIENT: Yeah well if they say I need it, I mean the doctor [REDACTED] he don't know what to do until he get this biopsy and this is the second time he cancelled it.  So I'm gonna see him on the 18th so I could tell him what happened.  They didn't do it.
+DOCTOR: Sorry I'm putting in some notes here.  So you're gonna see the lung doctors on the 18th?
+PATIENT: Huh?
+DOCTOR: You see the lung doctor on the 18th and then the radiologist who's supposed to do the biopsy?
+PATIENT: Yeah, right, right.  I was supposed to do it on the 16th, now they called me and said they only, you know, they're filled up so they moved to the 23rd but I see this doctor on the 18th.  So better check it.
+DOCTOR: I think you're gonna have the biopsy that day.  So you'll have to follow it up I guess.
+PATIENT: Yeah well he said he don't know what's going on, when he get that.
+DOCTOR: Yeah cause they may want to look at the tissue and see.
+PATIENT: Right, right.
+DOCTOR: Because it’s guessing otherwise.
+PATIENT: Yeah right.
+DOCTOR: So, what do you taking for your pain?
+PATIENT: Uh they gave me this, I got Tylenol 3 codeine and it don't help.
+DOCTOR: Okay.
+PATIENT: But I'll tell you.
+DOCTOR: I mean we can, we can do other stuff too, or you can go higher than that. That’s not the strongest that we got.  The question is have you ever had a bad reaction with like Vicodin or anything like that?
+PATIENT: Well I had some Vicodin, but I had it and it didn't do anything.
+DOCTOR: Didn't do anything.
+PATIENT: No it didn't do anything uh this Tylenol 3, I want to say it helps a little bit.  But I had the Vicodin in its place and it didn't do nothing.  The doctor over there tell me that the only thing gonna ease the pain, you know the [REDACTED].
+DOCTOR: Is the hip replacement?
+PATIENT: Yeah I mean we definitely [REDACTED].
+DOCTOR: And we can't do that until we figure out what's going on with the lung.
+PATIENT: Right so this lung problem is a whole other thing.
+DOCTOR: [REDACTED] sorry.  Give me one second, I'll be right back.
+PATIENT: So this problem is holding up everything.
+DOCTOR: Uh-huh.
+PATIENT: See all of this, they always inform me when the appointment is, I mean they are and they said they didn't do it so this is the second time that they moved it up.
+DOCTOR: Yeah.
+PATIENT: Now I thought, when I see him on the 18th and he still want [REDACTED] what I mean.
+DOCTOR: Let me call and ask about that. The radiology.  They still have you listed for the 16th.
+PATIENT: I know but well they cancelled it doctor.
+DOCTOR: Yeah you know I would call them and ask them why.
+PATIENT: Yes.  Why.
+DOCTOR: And maybe they can just switch you back.  Um.
+PATIENT: Yeah because.
+DOCTOR: I’m just going to call.
+PATIENT: Well I need to get this here.
+DOCTOR: Yeah I know.  That's holding everything up so.
+PATIENT: That holding up.
+DOCTOR: See what we can do here.
+PATIENT: Well I'm telling you they called me and said the 23rd which is next Monday instead of this Monday.
+DOCTOR: Oh September 23rd or August 23rd, just an extra couple weeks.
+PATIENT: Yeah, August the 23rd.
+DOCTOR: But they still moved you so okay.  See what's holding it up.
+(Doctor calls Radiology)
+DOCTOR: Alright so the scanner.
+PATIENT: Now this uh.
+DOCTOR: You need a refill?
+PATIENT: No uh well I just got this but uh, I'm having all kinds of problems with this uh it really, every time I come here well my blood pressure's up and I [REDACTED] senior citizens and it still up.  Now I tell you doctor uh, like at the [REDACTED] they be on me for years.
+DOCTOR: Uh-huh.
+PATIENT: So they discontinued and then they come up with this drug and then well I had one before this and it didn't do anything at all so now when it has this, it ain't doing anything, it ain't been helping a lot.
+DOCTOR: Do you feel bad when you're taking it?
+PATIENT: Yeah, yeah.
+DOCTOR: Your blood pressure's great.
+PATIENT: I was talking to the um, the Pharmacy in Walgreens and he said he never heard of it.
+DOCTOR: What?  That's the most common drug for hypertension.
+PATIENT: Yeah I don't know.
+DOCTOR: But your blood pressure's really good okay.
+PATIENT: Well I had just a little [REDACTED] for a year on that, I've never had any problem and uh they [REDACTED] so everybody trying to figure out what I need just so, but they need to come up with some stuff, I'm telling you this is something that really don't work at all.
+DOCTOR: Okay.  Alright um any fevers or chills?
+PATIENT: No.
+DOCTOR: Okay.  No chest pain or shortness of breath?  Just pain and cough right?
+PATIENT: Yeah just.
+DOCTOR: The same thing you've been having?
+PATIENT: Yeah, yeah I mean.  I mean you know I'm, nothing new.
+DOCTOR: Nothing new.  It's all just about the same alright.
+PATIENT: It's all the same.  The only thing wrong is getting worse.
+DOCTOR: Yeah it's getting worse.  I talked to Radiology and the problem is they have to fix the CT scanner on that day or that week so there's actually no way you can get it done that week.  I know it's a pain in the ass but they should be ready, you got the appointment for the 23rd.
+PATIENT: Yeah, yeah.
+DOCTOR: Did you get the time?
+PATIENT: Yeah I have it on the 23rd.
+DOCTOR: You've got to make sure you just make that appointment.  So the Pulmonary people, call them and explain to them what's going on, tell them what you told me.  The thing is this issue is holding up everything it's all pain you're having in your hip and you can't have surgery until they figure out what's going on there okay.  (Doctor spoke with someone who came to the door)  I'm sorry.
+PATIENT: So yeah I mean earlier, I mean earlier, other than that doctor I mean and anyway [REDACTED] in years.
+DOCTOR: Okay and your knees okay?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Uh this, this biopsy will be holding up, the hip, really holding up everything.
+DOCTOR: Yeah.
+PATIENT: And everything.
+DOCTOR: [REDACTED] chain there so.  No blood, no black stuff in the bowel movements?  No okay.  And you're urinating okay?
+PATIENT: Yeah.
+DOCTOR: Who do you live with, do you live by yourself?
+PATIENT: Yeah.
+DOCTOR: You doing okay at home?  Okay you're getting to the grocery store and getting your errands done and everything?  And you're vision's okay, no problems no falling or anything like that or anything?
+PATIENT: No, I mean there is no new problem; the old one is getting worse.
+DOCTOR: Just the old ones are getting worse.  If you can hop up here and I'll do a quick exam.
+PATIENT: Yeah it all about that, the older one just getting worse.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].  I keep telling them, I telling my granddaughter there is no cure for old age anyway, just [REDACTED].
+DOCTOR: But we can try to get you [REDACTED].
+PATIENT: [REDACTED], you ain't gonna stop me [REDACTED].
+DOCTOR: Take a look at my nose right here.  Open your mouth, say ah.
+PATIENT: Ah.
+DOCTOR: Follow my finger here.  Good, good okay.  Take a deep breath.  Deep breath, just breathe normally.  No swelling in the legs or anything like that?
+PATIENT: No, pretty good.
+DOCTOR: No pain in the belly right now?
+PATIENT: No, no pain.
+DOCTOR: Alright you can have a seat we're done with this.  We've got to figure out something to at least get better with your pain while you're waiting getting everything done here.  You've tried tramadol right?
+PATIENT: Yeah it didn't do nothing.
+DOCTOR: Didn't do anything.
+PATIENT: So now, now I mean uh now they gave me uh codeine, Tylenol 3 and it helps a little bit but.
+DOCTOR: And you tried Vicodin and that didn't do anything?
+PATIENT: Huh?
+DOCTOR: Vicodin didn't do anything right?
+PATIENT: No Vicodin, so that's why they gave me the codeine, the Tylenol 3.
+DOCTOR: Okay.  Have you tried Norco?
+PATIENT: Huh?
+DOCTOR: Did they give you something called Norco ever?
+PATIENT: Yeah I think I had that and you know.
+DOCTOR: Did it do anything?
+PATIENT: No, no nothing did any good.
+DOCTOR: Alright.
+PATIENT: This Tylenol 3 it helps a little bit, I don't know.
+DOCTOR: It takes the edge off.
+PATIENT: Yeah well you can help me; I mean it helped it some but that other stuff it don't help at all.
+DOCTOR: Okay.
+PATIENT: So I got the Tylenol 3 and I been using that so I take that.
+DOCTOR: Alright uh.  Let's see.  I mean the only other thing we could go to is we could go to like morphine but I don't know if I want to do that though.
+PATIENT: No.
+DOCTOR: Will you be able to bear it out at least for a little longer if we give you more of your Tylenol 3, if we make sure you have enough of a constant supply of Tylenol 3?
+PATIENT: Yes, uh-huh, so I'll stick with the Tylenol 3 for the time being right now.
+DOCTOR: And you're still seeing Rheumatology correct?
+PATIENT: Right yeah I mean and I got to see him.
+DOCTOR: You're seeing him [REDACTED] I think.
+PATIENT: Yeah.
+DOCTOR: Yeah.  Oh yeah you've seen them this month and then you're seeing the lung doctors, you have no shortness of breath though, nothing like that?  You're taking the inhalers and you're doing okay with that?
+PATIENT: Yeah oh yeah I always take it with me.
+DOCTOR: Okay and you're using those, the other ones you're using every day though right?
+PATIENT: Yeah.
+DOCTOR: There's a couple, there’s two here you're using them every day?
+PATIENT: Well I use them just a little bit every day.  Of course I have to be um.
+DOCTOR: Okay, yeah you use this one just every day.
+PATIENT: Yeah.
+DOCTOR: You don't have to use it when your short of breath, you just use it every day?
+PATIENT: Yeah I mean but I use it every day whether I [REDACTED] or not.
+DOCTOR: Yeah that one you should use every day, the albuterol.
+PATIENT: Yeah.
+DOCTOR: Albuterol you actually should carry it with you cause that's like just like whenever you need it.
+PATIENT: Yeah.
+DOCTOR: Don't use that every day but.
+PATIENT: And I have the other one, you know.
+DOCTOR: Okay.
+PATIENT: The red one, what what do you call it?
+DOCTOR: Uh mometasone.  It's like an inhaled steroid.
+PATIENT: Yeah I mean but I got the machine you know.
+DOCTOR: Oh yeah you get a nebulizer.
+PATIENT: Yeah I got the nebulizer.
+DOCTOR: Okay, got it, got it okay.  Alright.
+PATIENT: So I use that maybe once a day you know.
+DOCTOR: Okay.
+PATIENT: In fact, well I use it once a day you know for long time.  Uh the only time I have any trouble breathing you know is when I take a long trip.  I mean the longer I'm sitting there you know the long [REDACTED].
+DOCTOR: You got where you can walk a bunch and then you're okay.
+PATIENT: Yeah.  When I walk a whole block then I end up but I mean, but I always keep this with me, I keep it with me at all times in case I need it.
+DOCTOR: Yeah I gotcha, I gotcha.  Alright.  Well let me go run this by DOCTOR but I mean I'll make that all of your medications are refilled and make sure you've got Tylenol 3s.
+PATIENT: Yeah.
+DOCTOR: I mean you're doing good, [REDACTED] but the only is there's nothing we can do about it until we get this dealt with.
+PATIENT: Well that's.
+DOCTOR: I can't make things go any faster.
+PATIENT: Well that's holding up everything.
+DOCTOR: Yeah.
+PATIENT: Alright.  It's supposed to be did three, four weeks ago.
+DOCTOR: [REDACTED].  I'm really sorry about that, that it happened.
+PATIENT: Yeah.
+DOCTOR: System problems.  Give me a minute; you can just have a seat.  Give me a minute to go talk to DOCTOR and I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  73:08  DOCTOR IN:  78:57)
+DOCTOR: Alright, so we kind of agreed I mean, we'll keep you going.  I'm going to give you something better for coughs just to.
+PATIENT: Yeah, yeah.
+DOCTOR: You have the pain with the cough right?
+PATIENT: Huh?
+DOCTOR: We'll see, I'm gonna give you another cough medicine to see if that'll help your cough down and keep the pain down a little bit in the chest here.
+PATIENT: Yeah, yeah.
+DOCTOR: And then we'll make sure you get enough Tylenol 3s.
+PATIENT: Or you can, you can have them mail me some, mail it.
+DOCTOR: Okay.  Now you're.
+PATIENT: Uh mail it to me.
+DOCTOR: Okay you get them in the mail?
+PATIENT: Yes I have, I been due for it; I just picked up everything else I need.
+DOCTOR: Okay.
+PATIENT: So you can mail me the cough and the Tylenol 3.
+DOCTOR: Got it, got it.
+PATIENT: But I got everything else here already.
+DOCTOR: So for the cough medicine, when it starts to get worse, just take it as needed, for the cough.
+PATIENT: Yeah the one I take is in the evening.
+DOCTOR: Okay.
+PATIENT: If I don't cough then I don't.
+DOCTOR: Yeah you don't need to take it.
+PATIENT: Right then just.
+DOCTOR: So.
+PATIENT: I mostly cough at night you know.
+DOCTOR: Yeah so what you're gonna do is just take it maybe a half an hour or an hour before bed.
+PATIENT: Yeah.
+DOCTOR: So you can take it before you go to bed.
+PATIENT: Yeah I know, that's what I do, so I don't have any problem in the day but at night.
+DOCTOR: Just at night.
+PATIENT: At night.
+DOCTOR: Okay.  And then I want to see you back in three months because I want to make sure everything's going along.
+PATIENT: Yeah I.
+DOCTOR: If something's stalled I want to see if we can help out and push it along.
+PATIENT: Yeah well I, uh.
+DOCTOR: So.
+PATIENT: Uh, uh well they'll probably call when they get the stuff, once I get.
+DOCTOR: Yeah we'll keep following up if anything comes up that I notice then I'll.
+PATIENT: Well they said uh you know once I had this biopsy and all then I go back and I supposed to go back and see them.
+DOCTOR: Oh the hip surgeons right, yeah, yeah.  So you need to get the biopsy and you'll need to wait for the Pulmonary guys and the pathologist to look at it and see what they think it is and see if anything needs to be done [REDACTED].
+PATIENT: Now this thing is holding up.
+DOCTOR: Everything.
+PATIENT: Holding up [REDACTED].
+DOCTOR: Got it, got it, but yeah as soon as you get it, as soon as you get a call that you might be okayed for surgery you can call the Orthopedic guys and set up another appointment.  Cause we'll do the work-up, we'll get the EKG and everything and do the work-up to make sure you're ready.
+PATIENT: Yeah, yeah I mean once I report to them, then they'll give you a call, they gonna call you anyway.
+DOCTOR: Okay [REDACTED].
+PATIENT: Yeah I mean they can do that I mean to see if you okayed it or what else so.  But they told me that's the only thing I know.  You know like I was [REDACTED] I have a few years left and I don’t need to have pain.
+DOCTOR: Yeah just to live long just to have pain I mean its.  I understand.
+PATIENT: Yeah.
+DOCTOR: Just be, as long as you ask them to explain it to you, cause you want to get the, this may take a while and the hip surgery is going to be long recovery too.
+PATIENT: Yeah.
+DOCTOR: So just as long as you're awareI mean you have to do a lot of rehab and everything to get back to.
+PATIENT: Yeah.
+DOCTOR: Moving around.
+PATIENT: Well I ain't got nothing to do.
+DOCTOR: Okay well good.  You know a lot of it is just get through the pain and once you get it done.
+PATIENT: Yeah I been living with this pain, that's what.
+DOCTOR: Got it, got it, okay.
+PATIENT: Cause that's what killing me.
+DOCTOR: Okay.  Well the orders are in; the medications will be mailed to you.
+PATIENT: Alright.
+DOCTOR: Um.  I got nothing else for you today okay.
+PATIENT: Alright doc, thank you.
+DOCTOR: Alright.  It was nice meeting you; we'll see you in three months.
+PATIENT: Okay.
+DOCTOR: Or sooner if you need to.  [REDACTED].  You can head out through here, you're good for me.
+PATIENT: Alright.  So I'm so, so I can go?
+DOCTOR: Yes, you're good.
+PATIENT: Alright thank you.  So I'll hop on out.
+PATIENT: 82:41
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275421
+TRANSACTION # 578-10-2-316-0103

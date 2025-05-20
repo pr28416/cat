@@ -1,0 +1,489 @@
+DOCTOR: PATIENT?
+PATIENT: Uh I don't know.  Just wonder if you got a sharp needle or something?
+DOCTOR: Huh?
+PATIENT: (Laughs) Wouldn't know, no sharp needles.
+DOCTOR: No not right now.  How you feeling?
+PATIENT: I don't know.  I was looking forward to staying home.
+DOCTOR: Hmm.
+PATIENT: And all of a sudden I get a phone call to come in here.
+DOCTOR: Yeah.  Hmm.
+PATIENT: Taking me off of that.
+DOCTOR: You have a lot of medications.
+PATIENT: Lisinopril and the other drug use.
+DOCTOR: Uh-huh.
+PATIENT: I don't know what the vitamin pills got to do with it but uh, feel a little better.
+DOCTOR: Okay.  Uh do you understand why you're here today?
+PATIENT: Pardon?
+DOCTOR: Do you understand why you're here today?
+PATIENT: I don't know anything.
+DOCTOR: Uh-huh.
+PATIENT: All they said was come.
+DOCTOR: Okay.  Well you're here because DOCTOR, your primary care doctor um is worried about you because you are showing some problems of kidney disease, some pretty big problems with kidney disease okay.
+PATIENT: Well, I don't know what to tell you.
+DOCTOR: Okay so, do you know what happens with kidney disease or like what?
+PATIENT: Uh just usually transplants.
+DOCTOR: Uh it can, I mean you're 81 so they're probably not gonna want to transplant you.  Um it usually only happens in people who are younger.  So things that happen is people get problems with their electrolytes like potassium and phosphorus, those get elevated.  Um your creatinine, we can test kidney function with the blood draw and it looks like you've just been getting worse on regular basis.  Let's see in the last year you've gotten quite a bit worse.  Why did you get your blood drawn on the 10th?  You saw DOCTOR back in November, okay.  We've got to decide what to do about your kidneys basically today.  So how much are you urinating?
+PATIENT: When I have to that's about all.  I'm not going steady or anything like that.  Sometimes during the night maybe twice or three times.
+DOCTOR: So you're urinating a normal amount then?
+PATIENT: Yeah.
+DOCTOR: Urination hasn't changed.
+PATIENT: If anything eating less.
+DOCTOR: You're urinating less?
+PATIENT: Eating less.
+DOCTOR: Oh okay.
+PATIENT: There's so many limitations.  Who the hell knows?  Gas, lot of gas.
+DOCTOR: Okay.  Um have you noticed any funny feelings with your heart or any decrease in your energy, anything else going on lately?
+PATIENT: No the only thing that's been going on is that the calves and the feet you know hurt.  The calf is like if you over exercise and you get that burning sensation.
+DOCTOR: Uh-huh.
+PATIENT: That's what happens with the calves.
+DOCTOR: How often does it happen?
+PATIENT: And then uh takes a couple of days for it to go away.  I use a weight machine with the legs then it's two or two and a half days before I can really walk with ease.
+DOCTOR: Uh-huh.
+PATIENT: But that's and what you can do with that is don't exercise.
+DOCTOR: (Laughter).
+PATIENT: That uh but that's now those Sketchers, those shoes that they got that rocking motion to it.
+DOCTOR: Uh-huh.
+PATIENT: They're not so good.
+DOCTOR: Uh-huh.
+PATIENT: I never buy another pair of those suckers.  It puts a strain on that muscle and then it hurts for a day or so.
+DOCTOR: Uh-huh.
+PATIENT: But besides that, there's nothing special.  Every time I get to the point where I feel like lifting some weights to get the strength back, something else goes wrong and I never get around to it.
+DOCTOR: Uh-huh.
+PATIENT: But like I say since they took me off of that lisinopril and that other drug for gout.
+DOCTOR: Uh-huh.
+PATIENT: I'm feeling a little better.  I was going to start today lifting early in the morning and maybe late at night.
+DOCTOR: Uh-huh.
+PATIENT: But uh.
+DOCTOR: We probably should repeat your blood draw um, you haven't had one.
+PATIENT: I was last Saturday they, uh last Friday.
+DOCTOR: Uh-huh.
+PATIENT: I was here and they took blood and test it.
+DOCTOR: Right, right, right.  It was bad so we've got to make sure to see, cause your potassium was really elevated and your kidneys, your kidney numbers were elevated.  So what we need to do is check it again and if you can, we should probably do a UA.
+PATIENT: Well they were supposed to draw blood today.
+DOCTOR: Were they?
+PATIENT: It's what I was told over the phone.  Of course there's nothing in stone but uh.
+DOCTOR: So we'll draw blood today.
+PATIENT: It's that damn needles.
+DOCTOR: Yeah.
+PATIENT: Besides that uh I don't know, you're the doctor.
+DOCTOR: Right.
+PATIENT: I'll walk in through those pearly doors on there, I figure somebody's got to do some cut and sew.
+DOCTOR: Okay but otherwise you're in your normal state of health.  Are you feeling more tired?  Are you having difficulty, you have to use a walker to get around, is it harder to get around than normal?
+PATIENT: Well, I would say it's a little better.  Uh I walked from the back of the building all the way to the front and took the elevator.  Usually the legs would bother me.
+DOCTOR: Uh-huh.
+PATIENT: Today it didn't so it must have had something to do with the lisinopril and the vitamin pill and whatever that other one, 0.3 I was on.
+DOCTOR: Let's see if we can get your blood drawn right now.  Let me, you sit here and sit tight for just a second.  I'll be right back okay.
+PATIENT: Yeah.
+(DOCTOR OUT:  28:14  DOCTOR IN:  30:27)
+DOCTOR: Alright.  Tell me how to pronounce your name again.  PATIENT?
+PATIENT: Yeah, yeah.
+DOCTOR: Okay, let's go get your blood drawn.
+PATIENT: (Laughs) Oh thank you very much.
+DOCTOR: Uh-huh.
+PATIENT: Just what I wanted to do all my life.
+DOCTOR: But we want to make sure you're okay.  Were you dehydrated last week?  Do you drink less water or?
+PATIENT: I don't know, I drink when I'm thirsty that's all.
+DOCTOR: But otherwise you weren't having any diarrhea, nausea, vomiting last week?
+PATIENT: I wasn't vomiting no, no diarrhea.
+DOCTOR: Nothing?
+PATIENT: Uh but I got a lot of gas, go to the toilet quite often there because of the.
+DOCTOR: How often were you going?
+PATIENT: Yeah a little diarrhea from the pills but not from uh anything else.
+DOCTOR: Uh-huh, okay.  (Doctor talking to someone about ordering labs).  Okay so he'll send you back to my room when you're done okay.
+PATIENT: Oh gee thanks.
+DOCTOR: Alright.
+(DOCTOR OUT:  31:55  DOCTOR IN:  42:58)
+PATIENT: Oh.
+DOCTOR: Did he get you?
+PATIENT: Yeah.
+DOCTOR: We need to see what the results of those are before I can send you home and they need to, if you're potassium is high we'll probably have to give you something to bring down the potassium and if you're.
+PATIENT: Potassium, oh I some damn bananas.
+DOCTOR: You've been eating a lot of bananas?
+PATIENT: I have one every morning.
+DOCTOR: Uh-huh.
+PATIENT: Not today because I was going to go the [REDACTED] today.
+DOCTOR: Uh-huh.
+PATIENT: But usually every morning have one with bran flakes, milk and a banana as breakfast.
+DOCTOR: Oh good.  I'm gonna go ahead and take a listen to you real quick.  I think it'll take a second for those labs to come back.  Could you take off your jacket and unbuckle your trousers sir.
+PATIENT: Oh my goodness gracious.
+DOCTOR: (Laughter) What did you used to do for a living?
+PATIENT: Mold maker.
+DOCTOR: Huh?
+PATIENT: Mold maker.
+DOCTOR: Hmm.  In [REDACTED]?
+PATIENT: That's the last.
+DOCTOR: Have you been to the Loop?
+PATIENT: But I uh, no I had a bunch and I worked construction in Dallas, Texas.
+DOCTOR: Oh really?
+PATIENT: In uh.
+DOCTOR: Alright take some deep breaths in and out.  Okay good.  I'm from Oklahoma City and that's really close to Dallas.
+PATIENT: Yeah, I worked in a foundry; I've done a number of things.
+DOCTOR: Uh-huh.
+PATIENT: And then I went to war.
+DOCTOR: Which war?
+PATIENT: Korea.  My cousin and I went to war.  With the frozen chosen.
+DOCTOR: Yeah.  How long were you there?
+PATIENT: Too long.  40 below zero, too damn long.
+DOCTOR: Yeah, sounds pretty awful.
+PATIENT: Well that's the, that's right on the Manchurian border.  In Manchuria there is nothing.
+DOCTOR: Uh-huh.
+PATIENT: There's a desert, couple of deserts, no trees, no nothing.
+DOCTOR: Wow nothing.
+PATIENT: And uh the wind, there's nothing to slow it down.  But it gets cold out there.
+DOCTOR: I'm sure it does.
+PATIENT: That's all there is to it.  And we had General McArthur, our hero.
+DOCTOR: Hmm.
+PATIENT: Yeah he was a real idiot.
+DOCTOR: (Laughter) I'll have you stand.
+PATIENT: He had no idea what was gonna run into.
+DOCTOR: Yeah.
+PATIENT: They were, well you know the GIs had uniforms that were in Germany, for Germany where it gets uh 10 below zero maybe two days out of the year.
+DOCTOR: Uh-huh.
+PATIENT: That stuff was alright but.
+DOCTOR: Uh-huh.
+PATIENT: Not in Manchuria cause that was where the Japanese armies ran into Sukoff and his Russians.
+DOCTOR: Uh-huh.
+PATIENT: And the civilians were, knew how to live in that cold.
+DOCTOR: Uh-huh.
+PATIENT: They wiped out the Japanese twice.  The Aleutian Islands that was where you know damp and cold and stuff like that where they had a lot of trouble.  They should have known better.
+DOCTOR: Yeah.
+PATIENT: But no one even knew where Korea was.  Nobody.  No idea what the hell was.
+DOCTOR: Uh-huh.
+PATIENT: Cause you're too young, I said this is it, you know.  Oh my goodness.
+DOCTOR: Think your labs are back yet.
+PATIENT: Yeah, it's just; I went into some of them towns there.  They were the big towns.
+DOCTOR: Uh-huh.
+PATIENT: The large ones.
+DOCTOR: Yeah.
+PATIENT: Had a bank and a brewery and them damn Chinese.
+DOCTOR: Uh-huh.
+PATIENT: Blew up the brewery.  Why would you want to destroy a brewery?
+DOCTOR: That's true.  Why would you want to do that? Good point?  What else you got planned today?
+PATIENT: They didn't give a damn about the bank.  There was a gunner at 146th Bank, had a 90 mm gun on that.
+DOCTOR: Uh-huh.
+PATIENT: So I pulled up to the bank there and if the door wasn't open I was going to blow it.
+DOCTOR: Oh.
+PATIENT: The money wasn't any good, the paper stuff.
+DOCTOR: Uh-huh.
+PATIENT: But we thought maybe they'd have some gold or something in there.
+DOCTOR: Uh-huh.
+PATIENT: Nothing.  We come out to that town.
+DOCTOR: Uh-huh.
+PATIENT: Yawing Village you can't, they had [REDACTED] to ground.
+DOCTOR: Uh-huh.
+PATIENT: Then they had that rice straw that they put on the walls and the roof, like the Irish stuff that they use for roofing and you could tell it was a concussion to knock it down because every damn house was just leaning the other way.
+DOCTOR: Uh-huh.
+PATIENT: We looked at it and uh we could of went in to see if there was anything worthwhile but who'd want to run into dead people so we never even looked.
+DOCTOR: Yeah.
+PATIENT: I felt sorry for some of those people's lives.  Sorry for them, sorry for the American soldiers to where they were so scared.
+DOCTOR: I bet.
+PATIENT: They were shooting the civilians.
+DOCTOR: Oh my gosh, that's horrible.
+PATIENT: Yeah it was.  It's nothing new, it happens but.
+DOCTOR: Yeah, it doesn't sound very good.
+PATIENT: It was because these guys were so, when the North Koreans retreated they didn't take any prisoners with them, they killed all they had.
+DOCTOR: Oh that's just awful.
+PATIENT: Well that's war, its hell.
+DOCTOR: Uh-huh.
+PATIENT: You looking to surrender for, they didn't believe in it.
+DOCTOR: Uh-huh.
+PATIENT: The poor guys didn't have very much to eat for themselves, let alone feed you.
+DOCTOR: Did you do anything after Korea with the military?
+PATIENT: No, no, that's, that was, they had me long enough.  It's with, what the hell, with the guy says when they were inducted, $98 a month, I was an ambassador, but it wasn't much of an ambassador.  For $98 a month.  Cause that was the good news, [REDACTED] some guy stood up and asked a captain that was there, how long did it take for him to make rank.
+DOCTOR: Uh-huh.
+PATIENT: He said all you have to do is live long enough.
+DOCTOR: Uh-huh.
+PATIENT: He didn't.
+DOCTOR: Wow.  Do you ever talk to the guys that you met with again?
+PATIENT: They're dead.
+DOCTOR: Really?
+PATIENT: All of them.  None of the guys that I went into the Army from the town.
+DOCTOR: Uh-huh.
+PATIENT: Uh well they died of old age and whatever and I was uh on the 300 line and I got talking to one of the friends.  Oh hell he was 200 yards down the line and we never met.
+DOCTOR: Uh-huh.
+PATIENT: Because nobody ever went anywhere there.  You know you couldn't leave your tank.
+DOCTOR: Uh-huh.
+PATIENT: Because [REDACTED] put it and people were shooting all over you know, so you never went anywhere to find out if the guys were there then after it was all over then you got to talking and yeah, he was down there just a couple hundred yards away.  Some guys were that I trained with.
+DOCTOR: Uh-huh.
+PATIENT: Some made it and some didn't, that was all.  Three of them stayed an extra month to make another locker for the sergeant first class.
+DOCTOR: Uh-huh.
+PATIENT: They were gonna stay in the Army.  They didn't make it; all three of them got killed.  The first sergeant was tied to a tree and frozen to death, stripped him naked and tied him and left him there.  Oh yeah, yeah, yeah.
+DOCTOR: He was one of your, an American soldier?
+PATIENT: No they were the Chinese, North Korean.
+DOCTOR: Hmm.
+PATIENT: He was captured on patrol and they don't believe in keeping prisoners.
+DOCTOR: Hmm.
+PATIENT: See they had the uniforms were, well they were grey.  They were treated or padded like you know they had the cross sewing in there, little bumps.  They were winter uniforms and they were cotton.
+DOCTOR: Uh-huh.
+PATIENT: As long as their weather was cold and they didn't get wet.
+DOCTOR: Uh-huh.
+PATIENT: It was pretty good and the uniform worked but once they got wet.
+DOCTOR: You were done with huh.
+PATIENT: Every once in a while you'd see a couple of Chinese soldiers come walking out of the line there, they'd come walking towards our lines.
+DOCTOR: Uh-huh.
+PATIENT: To surrender yeah.  Yeah but it didn't do them much good because the American Army didn't understand what was going on over there and uh an island they called Kogi.
+DOCTOR: Uh-huh.
+PATIENT: Originally it was, when they had the Korean emperor was overthrown, they put him on this island.
+DOCTOR: Uh-huh.
+PATIENT: Cause there were sharks all over the damn thing and you couldn't get off of it.  They didn't have to spend money guarding anybody.
+DOCTOR: Uh-huh.
+PATIENT: So they'd throw them on there, give them some food and he can do what he wants.  Well they made that into a prison camp for Chinese.
+DOCTOR: Uh-huh.
+PATIENT: And they had and General D was in command of that prison camp and he walked into the compound and the Chinese soldiers in the compound captured him.
+DOCTOR: Oh my gosh, how horrible.
+PATIENT: Well they, all they wanted was more gasoline to cook their food with and some uh some privilege things.
+DOCTOR: Uh-huh.
+PATIENT: But uh the Army isn't gonna give in so we were on the front lines in the north.
+DOCTOR: Uh-huh.
+PATIENT: So they pulled the tank division off of that front.
+DOCTOR: Uh-huh.
+PATIENT: And guys from the second division I was in the 3rd Mechanized Army.
+DOCTOR: Uh-huh.
+PATIENT: And they uh surrounded this compound and then when we got there all we did was, we're tired so we laid down on the ground or on the tank and just fell asleep there and all of a sudden realized that these Chinese that we had captured, what they were facing wasn't this crummy Airborne Division and Korean Army they had, these guys meant business so they finally gave up.  You know that truck, the size of it is only about 4 foot high.
+DOCTOR: Uh-huh.
+PATIENT: We’d would string barbed wire over that thing and load the prisoners on there and we'd tear gas in there and then when they stood up, they stood up into the barbed wire.
+DOCTOR: Wow.
+PATIENT: Oh we weren't any kinder than anybody else but they had tanks and you had a platform like where the bunks were.
+DOCTOR: Uh-huh.
+PATIENT: And down because there was no drainage so there was always water in there when it rained.
+DOCTOR: Just a second.
+PATIENT: So they took a.
+(Doctor made a phone call)
+DOCTOR: They have your blood they just haven't done it yet.  So go ahead.
+PATIENT: They had bulldozers and they were gonna flatten all that land off.
+DOCTOR: Uh-huh.
+PATIENT: And when they started in over there and they took down these humps they found bodies in there.  The Chinese were holding court martial.
+DOCTOR: Uh-huh.
+PATIENT: With the law against their own people and hanging them and burying them underneath where they slept.  That there, that's just, was an ongoing thing.
+DOCTOR: Uh-huh.
+PATIENT: Whether you surrendered or got there, the odds were you're not gonna make it.
+DOCTOR: Yeah.  Did you have any family that was in the military?
+PATIENT: Well they were [REDACTED] cousins over in Turkey in the Air Force.
+DOCTOR: Uh-huh.
+PATIENT: And like I said my cousin and I were in Korea uh it's, we were just the right age.  You know too young for W2 and just right for.
+DOCTOR: [REDACTED].
+PATIENT: Oh yeah, it's an experience.
+DOCTOR: Not a good one.  I guess you got to see a different part of the world and that might have been nice.
+PATIENT: Well we really weren’t an ambassador, that was for damn sure and the food wasn't very good.
+DOCTOR: No it wasn't.
+PATIENT: There's some stuff I ate I still don't know what the hell it was.
+DOCTOR: (Laughter).  Let's see.  I'm so sad that you guys don't have to go over there.  Those guys in Afghanistan now, you've just got to wonder what it's for, you know.
+PATIENT: Yeah well war is war all over and it's always the same.
+DOCTOR: Hmm.  Some bureaucrat that wants something done and the poor people in the middle get stuck.  It has nothing to do with you or me you know.
+PATIENT: Well you feel sorry for the women and children there because uh.
+DOCTOR: Yeah.
+PATIENT: You know and every mother cries after her baby dies and it's uh not a nice thing but.
+DOCTOR: No it’s not.
+PATIENT: As far, but there it was like we had a 20 mile dead zone.
+DOCTOR: Uh-huh.
+PATIENT: From the front line back where there wasn't any civilians so we didn't …, if you were in that 20 mile zone there you know you don't worry about anybody.
+DOCTOR: Uh-huh.
+PATIENT: Cause there was nobody there.  Once in a while the.
+DOCTOR: Uh-huh.
+PATIENT: They in the springtime when the tide was running high in the rivers there they'd float down on rafts to get away from the Red Chinese.
+DOCTOR: Uh-huh.
+PATIENT: And we'd bring them ashore, feed them, put them on trucks and send them to Seoul and let the Korean government take care of them.  Cause Korea was, Seoul was a big city.
+DOCTOR: Uh-huh.  What do you think about Kim Jong Ill dying?
+PATIENT: You look at it now and the apartment buildings and the high rises and then it was paper shacks and uh iron, corrugated iron and stuff like that.  It wasn't the, the only building there was was on a hill was an orphanage.
+DOCTOR: Uh-huh.
+PATIENT: And both the American Army and the Chinese never touched it.
+DOCTOR: Uh-huh.
+PATIENT: Cause they respected the sisters that were in there.
+DOCTOR: Uh-huh.
+PATIENT: But uh, but that was the only place, the only place.  It was at En Shan when McArthur landed in that place there.  He was the luckiest guy in the world.
+DOCTOR: Uh-huh.
+PATIENT: Cause that's, those big blocks of cement you got in Montrose Harbor and stuff like that.  That En Shan Harbor is built with these big stones, rectangular cement blocks, at least you'd have to be 50 feet high.
+DOCTOR: Uh-huh.
+PATIENT: And the En Shan Harbor and some was a shallow harbor was made for small junks to carry uh things in.
+DOCTOR: Uh-huh.
+PATIENT: And even the larger junks couldn’t come in to the harbor because uh there was not enough water underneath it.
+DOCTOR: Uh-huh.
+PATIENT: So he just headed right cause the North Koreans believed that you couldn't land there so they never reinforced it.
+DOCTOR: Uh-huh.
+PATIENT: So they had a cake walk in.  But it was a son-of-a-gun.
+DOCTOR: Yeah.
+PATIENT: I don't ever want to go back there.  A couple of machine guns sitting on the top and they could've wiped out the whole Army.
+DOCTOR: Yeah crazy.
+PATIENT: Yeah McArthur had no idea what was happening.
+DOCTOR: Uh-huh.
+PATIENT: Cause when the Chinese came down, they were volunteers, they were volunteers hell.  Then there was a Joe Stillwell who was a ranger general.
+DOCTOR: Uh-huh.
+PATIENT: Trained, I don't know how many divisions of Chinese troops and armed them.
+DOCTOR: Uh-huh.
+PATIENT: And Mao Tse Tung, you couldn't kill these guys because there were so many of them and there would have been an uprising if you tried it.
+DOCTOR: Uh-huh.
+PATIENT: So along comes the Korean War so what the hell, he orders these guys to go in and they're really, you know wiped most of them out, he got rid of them anyway.  He was so afraid that they were American thought the regime wouldn’t stand up.
+DOCTOR: Uh-huh.
+PATIENT: And he had to get rid of them and didn't know how until the Korean War came along.
+DOCTOR: Hmm.
+PATIENT: Yeah a lot of Chinese died in that war.
+DOCTOR: Wow.
+PATIENT: Cause they were using napalm.
+DOCTOR: Hmm.
+PATIENT: And yeah, oh God that stuff is brutal.
+DOCTOR: Hmm.
+PATIENT: Yeah, what else, I was in the tank and then I was in the library after I came back and they had a book on armor.
+DOCTOR: Uh-huh.
+PATIENT: So I thought what the hell I'll look up and see how they rated that damn tank I was in.
+DOCTOR: Uh-huh.
+PATIENT: So I look through the book and damn it I couldn't find it.
+DOCTOR: Uh-huh.
+PATIENT: And then I went through it a couple of times and then I found a paragraph.  The reason why we were having so much trouble with the stupid thing was it was an experimental job.
+DOCTOR: Hmm.
+PATIENT: And they built it and didn't know what to do with it, so they shipped it over there and we used it to fight the Chinese.
+DOCTOR: Hmm.
+PATIENT: Had a beautiful gun on it.
+DOCTOR: Uh-huh.
+PATIENT: 90 mm, beautiful, copy of the German 88 but uh the rest of it broke down all the time.
+DOCTOR: Yeah.
+PATIENT: Sometimes they couldn't pull it up a hill they had to back it up.
+DOCTOR: Hmm.
+PATIENT: They used it as a, just drive it up there, dig a hole with just the turret sticking up and.
+DOCTOR: Yeah.
+PATIENT: Have fun.
+DOCTOR: How long were you there, oh no you were there for a while huh?
+PATIENT: Well I was there for over a year.
+DOCTOR: Uh-huh and you never went home in between, you were just there continuously for a year?
+PATIENT: Oh hell, I only had a shower three times in a year.
+DOCTOR: Oh.
+PATIENT: One every couple three months, they'd come by and set up a portable shower.
+DOCTOR: Hmm.
+PATIENT: Never wore any rank because uh the uniforms they just threw on a pile and burned.
+DOCTOR: Hmm.
+PATIENT: Lice and fleas and what the hell.  At night the little furry animals come and snuggle up close to you, they want to be warm too in the wintertime.
+DOCTOR: Was it ever warm there or just always cold?
+PATIENT: In the summer it's hotter than hell.
+DOCTOR: Oh really.
+PATIENT: And dry and dusty.  In spring its rain and there's no drainage.  Everything is filled with water.
+DOCTOR: Hmm.
+PATIENT: In the fall it snowed.  The first snow hit the ground and from then on it just piled up.
+DOCTOR: Man.
+PATIENT: Pleasant, you got used to it.
+DOCTOR: Hmm.
+PATIENT: Yeah most of the time you had problems it was with the troops.
+DOCTOR: Uh-huh.
+PATIENT: I don't know where the hell I was, I came back.
+DOCTOR: Uh-huh.
+PATIENT: And the master sergeant said okay you're gonna stay in this tent with these two guys and you'll have a warm bed tonight.
+DOCTOR: Uh-huh.
+PATIENT: I said now that's nice, cause I always looked forward to a warm bed.  So I'm coming back from chow.
+DOCTOR: Uh-huh.
+PATIENT: And here comes some guy from the, some corporal from the CPs and says sergeant, sergeant, get your tanks ready to move out, you're moving out at midnight.
+DOCTOR: Uh-huh.
+PATIENT: I go well that was nice I had four hours of sleep.  We pulled into some place and you got five tanks in a platoon.
+DOCTOR: Uh-huh.
+PATIENT: Two of them, four and five to one side and this lieutenant would take the other and I was a section sergeant.
+DOCTOR: Uh-huh.
+PATIENT: So I had two, so they tell us take your bunks with you, your sleeping bags and I put it down on the ground, it was just, so everything was still frozen.
+DOCTOR: Hmm.
+PATIENT: And we’re had a shelter tent that standard infantry and I put that over that sucker and took my boots off and put it under the pillow and I'm falling asleep and here, darker than hell, it was cloudy, rainy and at the time it wasn't raining when I went to bed but it did later on.
+DOCTOR: Uh-huh.
+PATIENT: And I never woke up.  The shelter was water-proofed, water ran off and I was dry, I didn't give a damn.
+DOCTOR: Yeah.
+PATIENT: But I hear this damn commotion.
+DOCTOR: Uh-huh.
+PATIENT: And I said what the hell is going on, I can't leave the tank because it's mine, I signed for the damn thing, I can't leave it.
+DOCTOR: Uh-huh.
+PATIENT: So at last dawn comes and I see all these guys with flashlights looking and I find out when I go there's a tank that had rain during the night.
+DOCTOR: Uh-huh.
+PATIENT: There was where the officers had made for their tents and stuff.
+DOCTOR: Uh-huh.
+PATIENT: There was uh low ground and they had taken off their boots and put their boots next to the bed like they were Cinderella or some damn thing and a fairy godmother was going to come with candy and put them in the boots.  Well it so happened that it rained enough that the boots all floated to the center of this compound.
+DOCTOR: Crazy.
+PATIENT: And they got running around looking for their boots in their bare feet on the muddy ground.
+DOCTOR: Hmm.
+PATIENT: They should of known better, these guys didn't know what the hell they were doing cause we had some new young guys come in from the states.
+DOCTOR: Uh-huh.
+PATIENT: And they never were in this situation.
+DOCTOR: Uh-huh.
+PATIENT: Because I put it right underneath my head, you aren't going far with my boots.  So the first thing you did is you'd have to put them on because it's cold out there.
+DOCTOR: Yeah.
+PATIENT: So it took them, I don't know a couple three hours before they got everything sorted out.
+DOCTOR: Uh-huh, wow.
+PATIENT: Yeah that's funny, kind of funny, it's crazy that's all.  Yeah that ground was frozen so hard.
+DOCTOR: Uh-huh.
+PATIENT: If a mortar shell came in and hit, all it did was blow the snow away.
+DOCTOR: Uh-huh.
+PATIENT: The ground was so hard that it didn't even penetrate, it just laid whatever it was, just blew the top of it away and that was it.
+DOCTOR: Uh-huh.
+PATIENT: You could go over there and pick up the fuse.
+DOCTOR: Wow.
+PATIENT: And you're digging a damn 46-ton tank with a pickaxe and an axe and one guy on the shovel, I mean that was work.
+DOCTOR: Yeah.
+PATIENT: You could bury that tank up to the turret and my goodness gracious, never again.  Yeah, had a guy, NAME.
+DOCTOR: Uh-huh.
+PATIENT: Tennessee.
+DOCTOR: Uh-huh.
+PATIENT: Wanted to be a preacher.  NAME was 6 1-2, blond, curly hair.  I mean he had a head of hair on him that any little girl would of died for and walking around one day and here I see NAME and he's got the captain and a lieutenant pinned up against a tent.
+DOCTOR: Wow.
+PATIENT: He's bitchin that he had to wear that steel helmet that it made him bald.  He took that helmet off and he was like an old man, all he had was hair at the side and he blamed it on the captain and the lieutenant and the steel pot.
+DOCTOR: Gosh.
+PATIENT: Oh boy.  It was funny.
+DOCTOR: Yeah.
+PATIENT: And I mean we were always armed.
+DOCTOR: Uh-huh.
+PATIENT: We always carried a gun with live ammunition.
+DOCTOR: Uh-huh.
+PATIENT: That's the way it is oh, so they were some of the new officers scared shitless for crying out loud, the guy was going crazy.  Yeah just like an old man, just a little hair at the side that was it.  I didn't realize it and I mean, you know, cause we always was wearing that thing and never took it off.
+DOCTOR: Uh-huh.
+PATIENT: So it surprised me when I saw him that way, with no hair on his head.  Oh God.
+DOCTOR: Here we go.  So your potassium is 5.8, it's still a little high and your kidneys are elevated, 2.63 [REDACTED].
+PATIENT: Well what uh, we got, I got.
+DOCTOR: Don't take the colchicine.
+PATIENT: I ain’t taking anything I don't have to.  I mean I want to get rid of some of this stuff.
+DOCTOR: Get rid of the allopurinol too are you still taking the allopurinol?
+PATIENT: Well which one is allopurinol?
+DOCTOR: Don't take that for right now.  Are you taking the water pill?
+PATIENT: Yeah.
+DOCTOR: Lasix?
+PATIENT: Furosemide.
+DOCTOR: Yeah.
+PATIENT: Yes two.
+DOCTOR: Taking two tablets?
+PATIENT: Yeah.
+DOCTOR: Two tablets?
+PATIENT: Two.
+DOCTOR: Twice a day?
+PATIENT: Yes.  They wanted me to take three twice a day.
+DOCTOR: Yeah no that's okay, two is fine.
+PATIENT: So they were gonna take the lisinopril that's out.
+DOCTOR: The lisinopril you're not taking any more, okay good.
+PATIENT: The [REDACTED], I'm not taking that either 500 mg; it's upsetting the stomach worse.
+DOCTOR: Okay.
+PATIENT: So I haven't taken that for a long time.  I'm taking nifedipine.
+DOCTOR: What I think we need to do, I need you to come back in another week and I need you to be seen by the nurse.  Um and then we'll decide what to do from there.
+PATIENT: Well I don't know, my goodness.
+DOCTOR: Cause your kidney function is getting better.
+PATIENT: I want to get better.
+DOCTOR: So [REDACTED].
+PATIENT: I don't want my feet to hurt.
+DOCTOR: Can you come back in another week and get your blood drawn again?
+PATIENT: I don't really want to but yes I can.
+DOCTOR: Okay.
+PATIENT: Since I'm not doing anything you know I plenty of time.  I still take that vitamin D.
+DOCTOR: That's fine.
+PATIENT: God I'm in this, what else.
+DOCTOR: Okay so let's do that okay.
+PATIENT: I don't have much choice do I?
+DOCTOR: Not really not if you want to be taken care of.
+PATIENT: I don't want to be taken care of, not that way.  I've never been taken care of.  I had a good day because spring is coming and I got leaves to rake.
+DOCTOR: You've got things to do right.
+PATIENT: Things to do yes.
+DOCTOR: When you come you need to get your blood drawn and then come upstairs okay.
+PATIENT: Go to the Lab?
+DOCTOR: Yeah in a week.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Do I, any time, what time?
+DOCTOR: Oh any time before your visit with the nurse.  (Doctor speaks with another person)
+PATIENT: Go to the Lab, come upstairs.
+DOCTOR: Uh-huh in a week.
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Next Wednesday.  Oh how lovely.
+PATIENT: 84:45.
+Time is 12:07.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249455
+TRANSACTION # 578-10-2-316-0103

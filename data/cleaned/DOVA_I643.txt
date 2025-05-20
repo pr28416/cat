@@ -1,0 +1,464 @@
+DOCTOR: How are you today?
+PATIENT: Oh you're the doc, okay.
+DOCTOR: Hi DOCTOR.
+PATIENT: Okay.
+DOCTOR: Nice to meet you.
+PATIENT: Alright thank you, alrighty.
+DOCTOR: How you doing today?
+PATIENT: I'm doing pretty hi, okay doctor.
+DOCTOR: Right in here.
+PATIENT: Right in here.
+DOCTOR: [REDACTED] blood pressure.
+PATIENT: Uh yes.
+DOCTOR: Let me pull up your chart here.
+PATIENT: Okay.
+DOCTOR: Order [REDACTED] sent to you?
+PATIENT: Yes uh-huh.
+DOCTOR: Okay you can stop by there.
+PATIENT: Okay.
+DOCTOR: Um we used to be able to send it to your house but now they're requiring that you go pick it up so they can show you how to use it.
+PATIENT: Okay.  Okay.
+DOCTOR: So I guess a lot of them were being sent out and then they think that people either don't know how to use it or don't use it.
+PATIENT: Uh-huh.  Or don't use it right.
+DOCTOR: To make sure you know how to use it and you actually want to use it.
+PATIENT: Yeah and if you know how to use it then you most likely will use it.
+DOCTOR: Yeah.
+PATIENT: Right.
+DOCTOR: Yeah hopefully so.
+PATIENT: Okay right uh-huh.
+DOCTOR: Any problems right now?
+PATIENT: No, but I have been going through nausea.
+DOCTOR: Uh-huh.
+PATIENT: I'm taking medicine for it and I have a [REDACTED] heart valve.
+DOCTOR: Uh-huh.
+PATIENT: And um I'm finding out that if I take the medicines the way I supposed to.
+DOCTOR: Uh-huh.
+PATIENT: You have to take it twice a day, take it twice a day.
+DOCTOR: [REDACTED].
+PATIENT: Whether you need it.  Whether you're having heart pain or not.
+DOCTOR: Yeah.  That's right.
+PATIENT: And DOCTOR, [REDACTED] every day.
+DOCTOR: Good.
+PATIENT: She said no matter how good you feel.
+DOCTOR: Uh-huh.
+PATIENT: Even if you haven't eaten anything.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED] take it anyway.
+DOCTOR: Yeah, yeah.  So it is keeping it under control.
+PATIENT: A lot better.
+DOCTOR: Good and the nausea too?
+PATIENT: The nausea is a lot better also.
+DOCTOR: Okay, that's good.
+PATIENT: Now they put me on a medicine called ondansetron.
+DOCTOR: Ondansetron.
+PATIENT: Ondansetron.
+DOCTOR: Zofran [REDACTED] .
+PATIENT: Right.
+DOCTOR: They gave you.
+PATIENT: And then the one uh, one more cause I might have a prescription on it but that worked pretty good too.
+DOCTOR: Oh it's something you might need a refill on.
+PATIENT: Yes.
+DOCTOR: Let's see.  You got it from here?
+PATIENT: Yes uh-huh.
+DOCTOR: Um let's see.  So the ondansetron or Zofran, that's for your nausea.
+PATIENT: That's what he was saying.
+DOCTOR: How often are you using that?
+PATIENT: I try not to use it unless I really need it.
+DOCTOR: Okay.
+PATIENT: Like I soe, I might take one like every three or four days or whenever I need it.
+DOCTOR: Okay, okay.
+PATIENT: Alright.
+DOCTOR: Um and then the other medicine, what was it given to you for?
+PATIENT: Uh just for the nauseated.  Because I have a lot of drainage you know.  You know cause my sinuses.
+DOCTOR: Yeah, yeah.
+PATIENT: With drainage and I take, that made me, that makes me sick.
+DOCTOR: From all the drainage?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Right and it won't make me feel sick.
+DOCTOR: Let's see.  Let's go through your medicine list.
+PATIENT: Okay.
+DOCTOR: So amlodipine?  [REDACTED].
+PATIENT: Yeah I take that.
+DOCTOR: So you're taking that okay.
+PATIENT: Okay.
+DOCTOR: Some eye drops are you still using those?
+PATIENT: Artificial tears, right yes I use those.
+DOCTOR: You use those okay.  Um a baby aspirin 81 mg.
+PATIENT: 81 right uh-huh.
+DOCTOR: Okay.  Do you take cetirizine every day?   That's for the allergies, it's a pill.
+PATIENT: Uh that one really wasn't working.
+DOCTOR: It wasn't working alright.
+PATIENT: Alright yeah.
+DOCTOR: You had to be off the medicine.
+PATIENT: Right.
+DOCTOR: And you're not using it at all.
+PATIENT: Uh-huh.
+DOCTOR: Um doxazosin for your prostate.
+PATIENT: Uh the prostate I take that every night yeah.
+DOCTOR: Are you using any of those um nasal sprays anymore?
+PATIENT: Yes, yes.
+DOCTOR: Are you using both of them cause I think you have a couple of them.  You have flunisolide you have, you have some saline ones and you have um pseudoephedrine.  But no the pseudoephedrine is a tablet, excuse me.
+PATIENT: Yeah right okay.
+DOCTOR: You have two nasal sprays, are you using both of them?
+PATIENT: I'm just using one of them.
+DOCTOR: Do you know which one you're using?  Are you using flunisolide or the sodium chloride?
+PATIENT: The sodium chloride.
+DOCTOR: You're using it okay so I can take that one off then.
+PATIENT: Right, right.
+DOCTOR: Okay.
+PATIENT: Yeah the sodium chloride.
+DOCTOR: Um are you using guaifenesin anymore?  That's like a kind uh, kind of like Robitussin, like a liquid form for your cough.
+PATIENT: Yes I want this but I came out here and I didn't have a prescription of it.
+DOCTOR: Okay, so that one you wanted a refill for?
+PATIENT: Yes, yes, right yes uh-huh.
+DOCTOR: So we'll do that.
+PATIENT: And uh.
+DOCTOR: Do you usually like to pick up your medicines or do you want it mailed to you?
+PATIENT: I usually wait on it, I wait on it.  Now I'm out of potassium, I think I have two pills left.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: Okay.  Potassium you're running out of.
+PATIENT: Right.  You know I get a lot of like pain up in my chest area.
+DOCTOR: Uh-huh.
+PATIENT: And so they have checked it, you know the only thing that will really help me would be uh not Tylenol but the other pill.
+DOCTOR: Um.
+PATIENT: Ibuprofen.
+DOCTOR: Ibuprofen.
+PATIENT: Ibuprofen would be the only thing and they told me that, it's what he told me years ago, that I had something that they called [REDACTED] arthritis.
+DOCTOR: Osteoarthritis?
+PATIENT: Well he used skeletonarion, skeletary arthritis.
+DOCTOR: Okay.
+PATIENT: And he told me, a couple of doctors said that and I do have a hernia on this side.
+DOCTOR: Okay.
+PATIENT: That they used to tape.
+DOCTOR: Do you need more ibuprofen?
+PATIENT: Yes, right, yes, uh-huh.  Cause Tylenol really don't work too much.
+DOCTOR: Sure.  Let's see what else is in the notes.  Um the lansoprazole?  That's [REDACTED].
+PATIENT: Uh yes, that's one I take for the heart valve right.
+DOCTOR: Uh loratadine, are you using that?
+PATIENT: Yes I use that too.
+DOCTOR: Oh you use it okay.
+PATIENT: I just take one [REDACTED] at bedtime time.
+DOCTOR: Um the ondansetron, you're using that every now and then.
+PATIENT: Yes uh-huh.
+DOCTOR: How many times a day would you say you're using it?
+PATIENT: [REDACTED] once a day.
+DOCTOR: Once a day.
+PATIENT: And if I'm feeling I'll take it in the morning and at times I have to take it maybe about 11 o'clock if I feel sort of nauseated.
+DOCTOR: Okay.
+PATIENT: Then I'll take it and that's in the morning.  I never take it at night.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: Uh potassium you're taking, you’re good on that one.
+PATIENT: Okay.
+DOCTOR: Pseudoephedrine, do you take that every day?
+PATIENT: Pseudo?
+DOCTOR: It's kind of for congestion.  Usually I don't suggest people take that for long.
+PATIENT: No [REDACTED].
+DOCTOR: [REDACTED] let’s get ride of that.
+PATIENT: I don't take that no.
+DOCTOR: Okay.  Now you take the ranitidine as well?
+PATIENT: Ranitidine, is that one also for.
+DOCTOR: Yeah.
+PATIENT: For the heartburn?
+DOCTOR: For the heartburn.
+PATIENT: Okay what they told me is that they wanted me to take the, the [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Twice a day.
+DOCTOR: Uh-huh.
+PATIENT: And then they said at night you can also take that [REDACTED].
+DOCTOR: So leave that in case you need additional coverage.
+PATIENT: Right, right.
+DOCTOR: Okay.  This is a [REDACTED].
+PATIENT: Right yeah, yeah, yeah.
+DOCTOR: Okay, okay, alright so I'll leave that one on there.  Um sertraline are you taking that?
+PATIENT: Sertraline I'm not taking that.
+DOCTOR: You're not taking that anymore?
+PATIENT: I'm not.
+DOCTOR: Why'd you stop that?
+PATIENT: Well you know something I think, this is the one the psychiatrist gave me.
+DOCTOR: Yeah.
+PATIENT: They gave me.
+DOCTOR: Uh-huh.
+PATIENT: And I said I got to tell her, it's just that I'm taking so much other medication.
+DOCTOR: Yeah, yeah.
+PATIENT: I got to tell her, is there [REDACTED] and uh do other things without that medication.
+DOCTOR: Uh-huh.
+PATIENT: That makes, I used to have anxiety.
+DOCTOR: Yeah.
+PATIENT: Attacks all the time.
+DOCTOR: Yeah.
+PATIENT: Well I found out that if I relax.
+DOCTOR: Yeah.
+PATIENT: If I relax.
+DOCTOR: Uh-huh.
+PATIENT: That anxiety, my thoughts and as quick as it came.
+DOCTOR: Yeah.
+PATIENT: It's.
+DOCTOR: You can relax.
+PATIENT: It's gone. [REDACTED] I'm gonna die.
+DOCTOR: Sure.
+PATIENT: Or I couldn't breathe.
+DOCTOR: Sure.
+PATIENT: But now, a paramedic came to the house.
+DOCTOR: Uh-huh.
+PATIENT: And I told him then I said sir I need some oxygen, I can't breathe, I feel like I'm dying.
+DOCTOR: Uh-huh.
+PATIENT: He said well I got oxygen right here.  He says it's so easy to give it to you.
+DOCTOR: Yeah.
+PATIENT: He said but if I give it to you I be doing you more harm.
+DOCTOR: Right yeah.
+PATIENT: He said you don't need the oxygen but I'm looking at you and you're not getting ready to die.
+DOCTOR: Yeah.
+PATIENT: The only reason why your blood pressure is maybe up some is because you're letting it.
+DOCTOR: Sure.
+PATIENT: You know, cause all that he did was sit there and he said I'm there with you, calm down.
+DOCTOR: Uh-huh.
+PATIENT: And I promise you without anything.
+DOCTOR: Uh-huh.
+PATIENT: If you think it's gonna happen, it’s not gonna happen.
+DOCTOR: Good.
+PATIENT: And I couldn't believe it that within a few minutes.
+DOCTOR: Yeah.
+PATIENT: I can't believe I was the same person.
+DOCTOR: Yeah those, I mean anxiety has [REDACTED] weird that you know we don't think that you’re an anxious person, but.
+PATIENT: I can't.
+DOCTOR: Then it just kind of passes over.
+PATIENT: They can tell you.
+DOCTOR: Yeah.
+PATIENT: And I haven't had, in my mind, I haven't had one now in a year and a half.
+DOCTOR: Good, good.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  So you were on the medicine just for anxiety not for like depression or anything else.
+PATIENT: Depression was there but the depression, because I kind have [REDACTED] same way.
+DOCTOR: Sure okay.
+PATIENT: Realize what I'm depressed doesn't make sense.
+DOCTOR: Good, awesome.
+PATIENT: Alright.
+DOCTOR: I'm glad to hear that then.
+PATIENT: Okay.
+DOCTOR: Um okay, what else, the simvastatin for the cholesterol?
+PATIENT: I take that uh-huh.
+DOCTOR: Okay.  The [REDACTED] nasal sprays you said you were taking.
+PATIENT: [REDACTED].
+DOCTOR: Are you taking the trazodone for sleep?
+PATIENT: For the first time last night uh I used one.
+DOCTOR: Okay.
+PATIENT: I haven't used one, used it in like.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: So barely but still sometimes.
+PATIENT: Right, right, I was getting 30 and I had 20 left.
+DOCTOR: Okay.
+PATIENT: So I took it.  You know I'm okay with that.
+DOCTOR: Alright.  Um stool softeners are you taking the dulcosate?
+PATIENT: Every once in a while I'm use it.
+DOCTOR: Ibuprofen, I’m going to refill, okay.
+PATIENT: [REDACTED].
+DOCTOR: Um now you told me the anxiety attacks are over so you're not using the [REDACTED] anymore then right?
+PATIENT: No, no, no, no, right.
+DOCTOR: Um Naproxen are you using that?
+PATIENT: Naproxen that's the pain pill?
+DOCTOR: Uh-huh.
+PATIENT: Okay uh not using it that much.
+DOCTOR: Okay but every now and then?
+PATIENT: Every now and then right.
+DOCTOR: And it’s for this pain here?
+PATIENT: Right, yeah, yeah.
+DOCTOR: Okay, okay.  Alright good.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: But the x-ray they did not too long ago.
+DOCTOR: Uh-huh.
+PATIENT: And it showed, that the letter that I received stated that they didn't see anything else abnormal.
+DOCTOR: Okay.
+PATIENT: With it.
+DOCTOR: Sure.  Alright um.  Oh you know [REDACTED].
+PATIENT: Uh I can't [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  Yeah.
+DOCTOR: That's good.  Let me [REDACTED].  So the ones you're picking up today is the guaifenesin is for the cough.
+PATIENT: Yes uh-huh.
+DOCTOR: The potassium and the ibuprofen.
+PATIENT: And ibuprofen right.
+DOCTOR: Anything that you need today?
+PATIENT: No I think that's it.  Yeah, uh-huh.
+DOCTOR: I think we need to get some lab work on you since it's been quite some time.
+PATIENT: Hmm.
+DOCTOR: Um let's see [REDACTED] so your cholesterol is going to be [REDACTED].
+PATIENT: Okay.
+DOCTOR: Uh your prostate, your PSA.
+PATIENT: Okay.
+DOCTOR: Now that's kind of up to you cause.
+PATIENT: Uh-huh.
+DOCTOR: So now they’ve made a recommendation to us to just offer it but not to require it.
+PATIENT: Alright.
+DOCTOR: So it's up to you as a patient whether you want us to check it or not.
+PATIENT: What's the prostate?
+DOCTOR: The prostate, basically it's a blood test.
+PATIENT: Right.  Uh-huh.
+DOCTOR: And we monitor [REDACTED].
+PATIENT: Right, right.
+DOCTOR: So it's kind of up to you whether or not you want me to check it.
+PATIENT: Yeah, yeah.  [REDACTED] I think I've had one.  Cause I'm still going to the bathroom a lot so.
+DOCTOR: Oh are you?
+PATIENT: Yeah, yeah.  Still going to the bathroom a lot.
+DOCTOR: How many times a night?
+PATIENT: Maybe, maybe like maybe four or five times now and I've been taking that pill.
+DOCTOR: In the night?
+PATIENT: At night right.
+DOCTOR: Okay.  Do you want.  We can, why don't we increase the doxazosin dose then?
+PATIENT: Uh if I'm taking it, I'm going to the bathroom a lot.
+DOCTOR: Right, why don't you.
+PATIENT: I don't have no problem using the bathroom or nothing like that.
+DOCTOR: Sure.  You're just going.
+PATIENT: I'm just going right.
+DOCTOR: Do you um, do you feel that you're really thirsty or really hungry all the time or not?
+PATIENT: No, no.
+DOCTOR: You [REDACTED] lot at night.
+PATIENT: Right, right.
+DOCTOR: What about during the day?
+PATIENT: I also go during the day [REDACTED].
+DOCTOR: Okay.
+PATIENT: But I drink a lot of water now.  I didn’t used to drink a lot of water but I drink a lot of water and I'm was thinking that maybe would be it and I do drink my share of beer.
+DOCTOR: Okay.
+PATIENT: Not a lot of beer but a little bit more than what I should.
+DOCTOR: Okay.
+PATIENT: But nothing else, no drugs, no cigarettes, no nothing like that uh-huh.
+DOCTOR: Well let's increase the dose then.
+PATIENT: Okay and I think that's the reason why yeah, yeah.  Cause I was gonna mention that if we could increase [REDACTED].  [REDACTED].
+DOCTOR: Okay, you still have a bunch of them left.
+PATIENT: Which one are those?
+DOCTOR: Of the doxazosin.
+PATIENT: Uh yes uh-huh.
+DOCTOR: So essentially what I'm doing is doubling the dose.
+PATIENT: Okay.
+DOCTOR: So um right now you're taking half a tablet.
+PATIENT: Taking half right.
+DOCTOR: Okay why don't you start taking a full tablet?
+PATIENT: Okay.
+DOCTOR: Okay.  I went ahead and put a new order in here though cause that means you'll run out of it before your refill is due.
+PATIENT: Okay, right.
+DOCTOR: So I went ahead and changed the order in the computer okay.
+PATIENT: Okay, okay.
+DOCTOR: So let's see if that helps a little bit.
+PATIENT: Okay, alrighty.
+DOCTOR: Are you seen in the GU Clinic here?  It doesn't look like you are.  Well why don't we try that change.
+PATIENT: Okay.
+DOCTOR: If that change doesn't work then we'll send you to the urinary doctors.
+PATIENT: Oh okay.
+DOCTOR: They're the specialists.
+PATIENT: Okay.
+DOCTOR: Cause they have access to more medicines and they can order more stuff than us.
+PATIENT: Okay, so instead of just taking a half at night.
+DOCTOR: Take a full tablet.
+PATIENT: I take a full tablet okay.
+DOCTOR: Yeah, yeah and then when your, when you run out then the next prescription will reflect the whole tablet.
+PATIENT: Oh okay, alrighty.
+DOCTOR: Um let's see what else.  I think that's everything for you.  So you had a colonoscopy in [REDACTED]@ so we'll need to repeat that next year.
+PATIENT: Okay, alright, okay.
+DOCTOR: Um and you say you're not using, you’re not smoking now, did you ever smoke in the past?
+PATIENT: Never.
+DOCTOR: Oh that's good, okay.  I think that's everything unless there's anything you need.
+PATIENT: No you've really explained everything quite well for me and I appreciate it.
+DOCTOR: No, right, good and your sinuses are good and everything?
+PATIENT: They're [REDACTED].
+DOCTOR: Okay good, alright.  Let me go run this by my attending okay.
+PATIENT: Okay, alright, okay, thank you.
+DOCTOR: Alright, no problem.
+(DOCTOR OUT:  43:17  DOCTOR IN:  54:38)
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: Just one little thing um.
+PATIENT: Okay.
+DOCTOR: So for the nausea that you're having.
+PATIENT: Right.
+DOCTOR: You're telling me you are having it every morning right?
+PATIENT: Yes uh-huh.
+DOCTOR: And you're taking the [REDACTED] in the morning.
+PATIENT: Right uh-huh.
+DOCTOR: And it usually goes away.
+PATIENT: Right uh-huh.
+DOCTOR: So since it's only in the morning or you notice it in the morning when you wake up.
+PATIENT: Uh-huh.
+DOCTOR: It might be reflux because you’re lying down.
+PATIENT: Oh okay.
+DOCTOR: Up a little bit.
+PATIENT: Uh-huh.
+DOCTOR: So I know you're taking the lansoprazole twice a day already.
+PATIENT: Right, right.
+DOCTOR: And I know they told you to do ranitidine only if you need it.
+PATIENT: Right.
+DOCTOR: But perhaps you should try, keep taking the lansoprazole twice a day.
+PATIENT: Right okay.
+DOCTOR: And take the ranitidine right before you go to bed every night.
+PATIENT: Okay.
+DOCTOR: Irregardless of whether or not you feel the reflux cause sometimes you don't feel the reflux pain but you actually do have reflux so.
+PATIENT: Oh.
+DOCTOR: It may be the reason you have nausea in the morning, who knows.
+PATIENT: Oh okay right, okay.
+DOCTOR: We'll see if that works.
+PATIENT: Uh-huh.
+DOCTOR: Um if you, you know if you keep having symptoms and the reflux doesn't get better there's always a surgical option.  I don't know if anyone's talked to you about that or maybe you just didn't want it or anything cause you've got that hernia.
+PATIENT: Right, right.
+DOCTOR: Cause you do have the reflux because of the hernia.
+PATIENT: Okay.
+DOCTOR: Some people have reflux just because they do and we don't know why.
+PATIENT: Right.
+DOCTOR: You actually have a reason to have reflux.
+PATIENT: Right okay.
+DOCTOR: So we'll try that.  Try scheduling it at night, the ranitidine.  Take it at night even if you don't think you do.
+PATIENT: Even okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And then um.
+PATIENT: Uh-huh.
+DOCTOR: And then we'll see how it goes and we can follow up with the stomach doctors, the GI doctors.
+PATIENT: Right okay.
+DOCTOR: In a couple months.
+PATIENT: Uh-huh.
+DOCTOR: Then you can let them know how you're doing and.
+PATIENT: Okay.
+DOCTOR: Cause they would be the ones who say you know you should do the surgery, now they won't do the surgery.
+PATIENT: Right.
+DOCTOR: But they can make a suggestion as to whether you need it.
+PATIENT: Okay right.
+DOCTOR: Okay.
+PATIENT: So the lansoprazole take two in the morning, two in the evening and also, whether I think I need it or not, to take the ranitidine.
+DOCTOR: Yes.
+PATIENT: I will do that.
+DOCTOR: Start doing that.  Okay.
+PATIENT: Right, I will do that.
+DOCTOR: Alright.
+PATIENT: Uh-huh.
+DOCTOR: So the medicines will be in the Pharmacy.
+PATIENT: Pharmacy.
+DOCTOR: And then in Prosthetics.
+PATIENT: Right.
+DOCTOR: You can pick up your blood pressure cuff.
+PATIENT: Well thank you.  You have been great.
+DOCTOR: Okay.
+PATIENT: You have relaxed me.  You have explained everything so perfectly to me and I really appreciate it.
+DOCTOR: Alright, alright.  We'll send you a letter when you need to come back to me.
+PATIENT: Okay.
+DOCTOR: Okay alright.
+PATIENT: Alright, okay and thank you again now.
+DOCTOR: Have a good night.
+PATIENT: Alrighty.
+DOCTOR: Alright.
+PATIENT: Oh right here.
+DOCTOR: Oh yeah.
+PATIENT: You're not from Japan are you?
+DOCTOR: No uh uh.
+PATIENT: Okay I was gonna say cause I wasn't actually [REDACTED].
+DOCTOR: Oh gotcha yeah no, no.
+PATIENT: Okay alright.  Okay have a good day.
+DOCTOR: Sure, no problem.
+PATIENT: Alright bye bye.
+DOCTOR: Bye.
+PATIENT: 57:12
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286124
+TRANSACTION # 578-10-2-316-0103

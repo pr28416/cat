@@ -1,0 +1,269 @@
+DOCTOR: PATIENT?  Have a seat.
+PATIENT: Okay.
+DOCTOR: How you doing?
+PATIENT: [REDACTED].
+DOCTOR: So um, any problems today?
+PATIENT: Yeah.  Uh the one thing I was running late and ran out of the house, I forgot my, what's that thing, that meter, glucose meter.
+DOCTOR: Okay.  So you don't have your log with you?
+PATIENT: Hmm?
+DOCTOR: Did you bring a log of your blood sugars?
+PATIENT: No I didn't bring the log cause I tell you I had stopped.  There's a lot of things that's happened since the last time,  there’s a death in the family, uh, a close relative died and that threw me off.  I was taking those shots and everything but as far as taking – I was kinda bad with that until uh then I had another personal problem.
+DOCTOR: [REDACTED] personal problems?
+PATIENT: Uh so but I can say, I can tell you what the uh, what the numbers are.
+DOCTOR: Okay.
+PATIENT: They been running in the high twos and low threes.
+DOCTOR: Okay.
+PATIENT: Now go ahead, I'll ask you these questions at the end.
+DOCTOR: No you ask me your questions first.
+PATIENT: Um it's about the medication.  Now I been on this medication for a while, and it doesn't seem to be bringing the numbers down.
+DOCTOR: The insulin?
+PATIENT: Yeah.
+DOCTOR: You're not on a very high dose and you're not going up on it that fast because you, the last time you were here we were you told me your numbers were in the low 100s okay and that would be good but your A1c, your three months blood sugars is not showing that and so that's why I sent you over to the diabetes pharmacist so that you could go up on the insulin to get your sugars controlled okay.
+PATIENT: What?
+DOCTOR: Um I saw that you missed a couple of appointments with them uh.
+PATIENT: Well.
+DOCTOR: They wanted to see you at the end of December.
+PATIENT: Right.
+DOCTOR: It sounds like you had some personal.
+PATIENT: Yeah but that's not, that day something, either the weather and I called and with the system asking me do you want to cancel or do you want to reschedule and I told it I want to reschedule.  They said we'll be sending you out this information.
+DOCTOR: Uh-huh.
+PATIENT: They never sent it out.  The only way I got it is that I redid it myself.  Your appointment and their appointment so I don't know why.
+DOCTOR: When do you go see them next?
+PATIENT: Today.
+DOCTOR: Today at what time?
+PATIENT: After you.
+DOCTOR: Okay.
+PATIENT: They said I had two appointments.
+DOCTOR: Okay.  Yeah.  And you were running a little bit late, so you'll have a hard time getting to the other one on time.  Um.
+PATIENT: Well.
+DOCTOR: You know, we need to.  How much insulin are you taking right now?
+PATIENT: 30.
+DOCTOR: 30 okay.  They had asked you to go up on it by um 2 units every four days if your sugars were still high.  Have you been doing that?
+PATIENT: Well nobody told me that.
+DOCTOR: Uh-huh.
+PATIENT: 2 units every four days.
+DOCTOR: Yeah until your sugars come down to the 100s in the morning.  But that, you know that takes a lot of checking on your part so if you don't, if you have other things going on and you're not checking your sugars, you know you definitely have a lot work to do on your diabetes.  Okay.  And I understand that sometimes personal problems, you know things going on in your personal life get in the way of that but you know we definitely have a lot of work to do.  Um going up on the insulin, I mean we may have you come up to giving insulin twice a day or adding um an insulin that you take with meals but.
+PATIENT: With what?
+DOCTOR: With meals.
+PATIENT: Okay, okay.
+DOCTOR: Another shot with each meal that you eat.  Um but that takes a lot of work on your part as well.  I mean you are writing everything down and putting it in a log so you know what to do um.
+PATIENT: Right.  [REDACTED].
+DOCTOR: Um I'm gonna let the diabetes pharmacist change your insulin okay.
+PATIENT: Change it to the 2.
+DOCTOR: Well uh yeah.  I'll let them talk to you about what to, this is all she does all day long um and so you know you should be going to see her every month until we get this under better control okay.
+PATIENT: Okay.
+DOCTOR: Um so I'm not going to change anything but I can tell you, when you see her I'll let her do that when you see her after we're done okay.
+PATIENT: Alright.
+DOCTOR: Um.
+PATIENT: Now okay go ahead you go first.
+DOCTOR: What else do you need to talk to me about?
+PATIENT: Meds.
+DOCTOR: What about them?
+PATIENT: I am completely out of.
+DOCTOR: Uh-huh.
+PATIENT: Meds and like.
+DOCTOR: You have refills on most of them.
+PATIENT: So when I call they tell me uh you don't have any more refills but you gonna see the doctor here and have her reissue your meds.
+DOCTOR: You have um three refills on the Levitra.
+PATIENT: On what?
+DOCTOR: Levitra, you have three refills on those.
+PATIENT: Oh I ain't worried about that.
+DOCTOR: Um hydralazine you are out of.
+PATIENT: Right.
+DOCTOR: Um so I renewed it.
+PATIENT: And I'm out of [REDACTED].
+DOCTOR: How much of the, so you're just taking 60 mg a day?
+PATIENT: How much?
+DOCTOR: 60 mg?  Your blood pressure is still high today.
+PATIENT: Well when I first came in and she took it, it was 130.
+DOCTOR: 4.
+PATIENT: Yeah and then we got talking about something else and that raised it up.
+DOCTOR: Yeah but it's still too high.
+PATIENT: Okay.
+DOCTOR: Um so let me, I'm going to increase the hydralazine okay.
+PATIENT: That's the orange pill.
+DOCTOR: It's the one you take three times a day.
+PATIENT: That's the one.
+DOCTOR: Um.
+PATIENT: I'm out of that.  I'm out of lisinopril.
+DOCTOR: That you have one refill on.
+PATIENT: And uh.
+DOCTOR: That's the cholesterol medicine.
+PATIENT: I'm low on the uh, on the uh what is that little white pill?
+DOCTOR: Let's see.
+PATIENT: I mean like I got to pick these up today.
+DOCTOR: Yeah you can, I mean I'm putting them in here so you can just pick them up on your way out alright.
+PATIENT: Yeah cause I'm about, should have, I need a refill on the insulin.
+DOCTOR: So I'm gonna let.
+PATIENT: You are going to let them do it.
+DOCTOR: Yeah well they're gonna change it today and going to make sure you don’t run out.  So it, I did everything except the insulin okay.  So you have refills on everything except the insulin.
+PATIENT: Okay.
+DOCTOR: Okay.  Do you still want the Tylenol?
+PATIENT: No I got those [REDACTED].
+DOCTOR: Yeah.  So the blood pressure you know 134 is still too high, especially when you have diabetes.
+PATIENT: Yeah nobody told me with diabetes you want it under 130.
+DOCTOR: And they want it under 120.
+PATIENT: 120?
+DOCTOR: Yeah.
+PATIENT: I never heard that.
+DOCTOR: So we'll just increase the hydralazine.
+PATIENT: Okay.
+DOCTOR: So if you have any left at home or.
+PATIENT: I don't have, I took the last one this morning.
+DOCTOR: Okay.  So what we'll, we'll increase it to 100.
+PATIENT: Okay let me ask you something now, all the rest of the pills I get 90 days worth cause I always take them once a day.  I get 90 days.
+DOCTOR: Do you want 90 days of the hydralazine?
+PATIENT: Yeah cause I always run out of that.
+DOCTOR: Oh.
+PATIENT: Because I'm taking it three times a day.
+DOCTOR: You take the, so I have a 90 days supply put in.  So they'll give you a 90 day supply today on that.
+PATIENT: Okay and these are going to be increased dosage?
+DOCTOR: We're gonna increase the dose from [REDACTED].
+PATIENT: So when I go home and take my second one I'll just take one of these.
+DOCTOR: Yes.
+PATIENT: And then one tonight.
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Alright.  Um let's see what else, any problems with shortness of breath?  Okay.  No chest pain or anything like that?
+PATIENT: Nope.  In fact, well I shouldn't say this but I think it must not be right.  I used to have problems with my legs as far as them swelling.
+DOCTOR: Is that better?
+PATIENT: It hasn't done that in a long time.
+DOCTOR: Well that's good.
+PATIENT: And [REDACTED].
+DOCTOR: So that means the medicines are doing their jobs.
+PATIENT: Huh?
+DOCTOR: The medicines are doing their jobs.
+PATIENT: Yeah because, like it would be like right here.
+DOCTOR: Uh-huh.
+PATIENT: It would be out here.
+DOCTOR: Yeah.
+PATIENT: You know what I mean and then there's nothing in the ankles.
+DOCTOR: Yeah.  Um let's see last time in December we checked your cholesterol.  Your cholesterol is not quite where we need it to be.
+PATIENT: It was under 200 the last time I took it, what is it?
+DOCTOR: So your total cholesterol was 300 in December okay.  The bad cholesterol is 119 and when you have diabetes we want it under 70 okay.  Um and given your history of heart problems in the past okay.  So you're on, let's see, you're on the um simvastatin 80 mg.
+PATIENT: I take them once every night.
+DOCTOR: Let's see.
+PATIENT: There's three pills I take at night, that one, the prostate medicine and the uh orange pill.
+DOCTOR: Let's see.  Well I'll have to see what, you're on the highest dosage that we have here so I'll have to talk to DOCTOR about you know if we can get you a different medicine uh or what we can do.  Uh but you're cholesterol needs to come down as well, okay.
+PATIENT: I brought it down cause the last time I.
+DOCTOR: It was down back a year ago but when we tested it in December it was back up.
+PATIENT: Well I'm taking [REDACTED].
+DOCTOR: And we checked it today and it's not back yet.  The thing is if that comes back, the blood that you had done this morning, it looks like your kidney function is not doing the best.  Have you ever seen the kidney doctors?
+PATIENT: No.
+DOCTOR: Okay.  Um you're seeing the urologist right for your um, for your cancer of the prostate right?
+PATIENT: Uh-huh.
+DOCTOR: No problems there?
+PATIENT: Uh uh.  I got an appointment with him in a couple of weeks.
+DOCTOR: Okay it's likely the worsened kidney function is from your diabetes okay and the high blood pressure.  Your blood pressure has been uncontrolled you know in the past you probably you've had it [REDACTED] but right now it's okay.  Um so it's just another reason to get the diabetes under control okay.  Um and yeah.
+PATIENT: They gonna do a PSA on that?
+DOCTOR: PSA did they check that today as well?  Um, the last time we checked it was in September and it was low, it was 0.03 so very low, that's good, no problems there.  Um so you know really getting the diabetes under control, all I'm gonna do for you today is to increase the blood pressure medicine and see if we can change the cholesterol medicine.
+PATIENT: Okay.
+DOCTOR: And anything else you want to talk to me about?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Come have a seat up here.  And you said no chest pain, no shortness of breath, no belly problems, problems urinating?
+PATIENT: Just that, uh.
+DOCTOR: You’re going more often?
+PATIENT: No more than before.
+DOCTOR: That's partly because of your sugars.  Your sugar [REDACTED] affects your urine and when we checked in December it was high.
+PATIENT: Uh-huh.
+DOCTOR: It happens when the blood sugar is high.  You know, when you have [REDACTED] comes out in your urine, you can urinate more.  Hopefully we can get your sugars down and we can make that better too.
+PATIENT: I hope so.
+DOCTOR: Deep breath, again.  [REDACTED] during the day?  No?
+PATIENT: Uh uh.
+DOCTOR: [REDACTED].  Do you check your feet every day sir?
+PATIENT: I can't hear you.
+DOCTOR: Do you check your feet every day still?
+PATIENT: Yes.
+DOCTOR: Okay great.  Come back and sit over here um let me go run and talk to DOCTOR here okay and I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  41:52  DOCTOR IN:  46:04)
+(Knock on the door)
+PATIENT: Come in.
+DOCTOR: [REDACTED].  Are you PATIENT?
+PATIENT: Yeah.
+DOCTOR: I'm DOCTOR.  I'm one of the pharmacists.
+PATIENT: I talked to you yesterday.
+DOCTOR: Yeah, we're going to see you in the Diabetes Clinic too so.  Um let me go talk to DOCTOR, she's looking for me.
+PATIENT: Okay.
+DOCTOR: Just relax.
+PATIENT: Yeah.
+(DOCTOR OUT:  46:21  DOCTOR IN:  49:05)
+DOCTOR: Alright so, did the uh pharmacist stop in here?  Talk to you?
+PATIENT: Pharmacist?
+DOCTOR: The pharmacist?
+PATIENT: Well DOCTOR just stopped in here.
+DOCTOR: Your sugar is 500 this morning.
+PATIENT: Huh?
+DOCTOR: Your sugar was 500 this morning.
+PATIENT: Well [REDACTED].
+DOCTOR: So um they'll have to give you some [REDACTED] I'm sorry some insulin so you have.  Did you eat this morning before you got the tests done?
+PATIENT: Did I do what?
+DOCTOR: Did you eat?
+PATIENT: They called me yesterday and told me don't eat or drink nothing after midnight.
+DOCTOR: Alright, your cholesterol is all weird um.  Let's see.  Okay so we're gonna change um your cholesterol medicine.  Are you taking the fish oil still?
+PATIENT: Uh-huh, every day.
+DOCTOR: So we're gonna change you to a different cholesterol medicine and so we'll adjust to a stronger um medicine so instead of having 10 mg, but it’s a lot stronger.
+PATIENT: What [REDACTED] med?
+DOCTOR: The simvastatin.
+PATIENT: Oh that's for the uh.
+DOCTOR: Cholesterol.
+PATIENT: Cholesterol.
+DOCTOR: [REDACTED] okay.
+PATIENT: So when do I take that, at night like I did the other one?
+DOCTOR: Uh-huh.  And I have to check the cholesterol medicine.  I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  52:22  DOCTOR IN:  57:48)
+SECOND PERSON F934
+You know what, you're not gonna actually see the pharmacist that you thought you were gonna see, you're going to see the diabetic pharmacist and she wants you to sit in the Gold Clinic when you're done over here.
+PATIENT: Where is the Gold Clinic.
+SECOND PERSON F934
+Right next door.  Just remind me when you come out and I'll let them know when you go sit down.
+PATIENT: Okay thank you.
+SECOND PERSON F934
+Okay you're welcome
+DOCTOR: Alright so um [REDACTED].  I've added two more cholesterol medicines um and I'm gonna add another medicine to your triglycerides.  Your triglycerides today are 1200.
+PATIENT: That's not good.
+DOCTOR: We want it at 150 or below.
+PATIENT: Triglycerides are bad.
+DOCTOR: That's very bad.  Um so.  Basically, all your numbers are getting worse.
+PATIENT: I wonder why.
+DOCTOR: Um, so we have a lot of work to do.  I'm gonna have you come back in six weeks to see me okay.  Uh actually let’s do four to six weeks - then we need to get you in to see the kidney doctor as well.  So why don't we start with niacin first so um this medicine [REDACTED] morning causes flushing [REDACTED] an aspirin to take with it.
+PATIENT: I can't take any aspirin. I had a bleed in the stomach.
+DOCTOR: When did you bleed in the stomach?
+PATIENT: Huh?
+DOCTOR: When did you bleed in the stomach?
+PATIENT: A couple years ago, they sent me to the hospital for a [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Was that here or somewhere else?
+PATIENT: Was that here?
+DOCTOR: Yeah.
+PATIENT: No that was at uh another hospital.
+DOCTOR: How much aspirin were you taking at the time.
+PATIENT: Uh, a baby aspirin.
+DOCTOR: [REDACTED].
+PATIENT: It happened before.
+DOCTOR: Well I mean we can, aspirin helps decrease the flushing, but if you can't tolerate the aspirin, try to do your best with the flushing.
+PATIENT: Well I had, a hot flash when I was on that radiation treatment and it was just [REDACTED] more than it.
+DOCTOR: Yeah.
+PATIENT: You know, I can deal with that.
+DOCTOR: But we need to; we'll start at the lowest dose okay.
+PATIENT: Uh-huh.
+DOCTOR: And we'll kind of go from there.  Um when you come back you'll have to do blood tests [REDACTED] with the kidney doctors.  So um they'll call you with the appointment.
+PATIENT: They'll call?
+DOCTOR: Uh-huh.  Okay.  So [REDACTED] four to six weeks, go see the pharmacist today and we need to get this sugar under control okay.
+PATIENT: Alright.  I have to pick up these meds here.
+DOCTOR: You can pick up the meds here; I just sent them all over.  Alright.
+PATIENT: Okay.  Alright DOCTOR.  I'll do my part let's hope these meds do their part.
+DOCTOR: Yeah we need to get you on better medicines, go up on the medicines so we have a lot of work to do alright.
+PATIENT: Alright.  Thank you.
+DOCTOR: Alright.
+PATIENT: You want the.
+DOCTOR: Go to the Gold Team.
+PATIENT: Yeah I know.
+DOCTOR: They'll see you in the Gold Team.
+PATIENT: 63:52
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255190
+TRANSACTION # 578-10-2-316-0103

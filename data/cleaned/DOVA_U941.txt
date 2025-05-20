@@ -1,0 +1,235 @@
+DOCTOR: PATIENT?
+PATIENT: Yes sir.
+DOCTOR: I'm DOCTOR, nice to see you.
+PATIENT: You too sir.
+DOCTOR: How are you?
+PATIENT: Fine.
+DOCTOR: Come on in.  How have you been since I last saw you.  I saw you when you got back from Puerto Rico.
+PATIENT: Yep.
+DOCTOR: How's everything going?  [REDACTED] better?
+PATIENT: Much much better.
+DOCTOR: So when I saw you you were having trouble [REDACTED].
+PATIENT: I got these from [REDACTED] like a survey.
+DOCTOR: Oh it's okay.  Its part of the [REDACTED] program, you can leave it there, it's no big deal.
+PATIENT: But what I mean, nobody’s going to [REDACTED].
+DOCTOR: I don't know what happens.  I don't know, they're supposed to record our interactions to see what's going on.
+PATIENT: Yeah.
+DOCTOR: We'll just leave it there cause I don't want to touch it cause I don't know what to do with it.  Um, so since I last saw you you had come back from Puerto Rico and you were having trouble finding housing and employment.  How is that stuff going?
+PATIENT: Okay, I you see me the 19th November.
+DOCTOR: Yeah.
+PATIENT: On the next day I get uh, I was admitted in Cook Manor.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Is that, so that's for housing.
+PATIENT: For housing and it looks like I got a job.
+DOCTOR: Where?
+PATIENT: In the Menlo Park.  I'm going to be working for Titan Security Service.
+DOCTOR: Do you have a way you can get there, transportation; do you have a way to get there?
+PATIENT: Si, si.
+DOCTOR: Probably just take the Metro or the L.
+PATIENT: I take the 308 from here.
+DOCTOR: Yeah.
+PATIENT: To Forest Park.
+DOCTOR: Yeah the Blue Line.
+PATIENT: And then the Blue Line from Forest Park to Monroe.
+DOCTOR: When do you start?
+PATIENT: I am waiting for their call cause uh last week, they took my fingerprint and they sent it to the FBI.
+DOCTOR: Yeah.
+PATIENT: And they're waiting for.
+DOCTOR: Clearance.
+PATIENT: They said that it could take from 5-10 [REDACTED] day.  I gonna call them tomorrow to follow up on that but.
+DOCTOR: Is there any, do you think they're gonna find anything that's concerning?
+PATIENT: No, no, no.  I don't have no felony or anything.  I know anything ruining my record but as a matter of fact I don't [REDACTED] stay from Puerto Rico.
+DOCTOR: Right.
+PATIENT: I don't have nothing from there neither.
+DOCTOR: Great, great.  Are you excited about all this?
+PATIENT: Oh yes I am.
+DOCTOR: And then, if I remember right, your family, your only family here is a sister-in-law.
+PATIENT: Uh-huh.
+DOCTOR: Do you still see them at all?
+PATIENT: I saw her about one or two, twice a month.
+DOCTOR: And you have a wife and children in Puerto Rico.
+PATIENT: Yes.
+DOCTOR: Do you talk to them still?
+PATIENT: Every day.
+DOCTOR: How is it?
+PATIENT: They're doing good.
+DOCTOR: And the relationship is okay.
+PATIENT: Oh yeah.
+DOCTOR: You guys get along okay good.  How is everything else going, all your medications are okay?
+PATIENT: Uh-huh.
+DOCTOR: I know you see, I read that you completed the ATP Program.
+PATIENT: Yes.
+DOCTOR: And then uh they now have you seeing one of the physicians over there.
+PATIENT: DOCTOR.
+DOCTOR: And he gives you all your medications.  Is everything, you're okay with the way everything's going with your medications?
+PATIENT: Well, I got a refill from the DOCTOR.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] see, I don't know the number like DOCTOR.
+DOCTOR: Yeah.
+PATIENT: Uh if it's Chinese or I don't know.
+DOCTOR: Yeah.
+PATIENT: But I [REDACTED] not talked to her yet but I have medications.
+DOCTOR: Okay.  Do you have an appointment with him coming up?
+PATIENT: I think that I have uh; I think that it's for May.  Of course in April I have.
+DOCTOR: Colonoscopy.
+PATIENT: The colonoscopy.
+DOCTOR: Good we'll do that.  I'm glad that they have that April 23rd.
+PATIENT: Yeah.
+DOCTOR: It looks like they're doing the colonoscopy.
+PATIENT: Uh-huh.
+DOCTOR: Okay and then um and anything else that's bothering you or anything else going on?
+PATIENT: No remember I have that thing in my knee?
+DOCTOR: Yeah.
+PATIENT: It's getting better.  I know that it could take more, like six more months, but it don't bother me no more.
+DOCTOR: [REDACTED].
+PATIENT: I can walk.
+DOCTOR: Are you losing any weight?
+PATIENT: I need to weigh.
+DOCTOR: That will help.  That will definitely help.
+PATIENT: Cause I was 230.
+DOCTOR: Yeah now it's at 225.
+PATIENT: I don't know [REDACTED].
+DOCTOR: Yeah standing but you [REDACTED] in June I don't know is this right, in June of 2000 well you were 172.
+PATIENT: When I came here, I came here in June.
+DOCTOR: Cause you were working.
+PATIENT: No I wasn't.  I came here from Puerto Rico cause I was dying and they sent me for treatment.
+DOCTOR: Here from alcohol.
+PATIENT: Alcohol.
+DOCTOR: Is that why your weight was so low cause you weren't eating?
+PATIENT: Oh it was no.  I drink and I did not eat nothing for weeks.
+DOCTOR: Yeah look at how much your weight went up.  Your weight went up from you were 172 and then you went up to 215 and then you kind of were stable so hopefully when you start working again your weight will come down.
+PATIENT: Cause I need to work over there [REDACTED].
+DOCTOR: Yeah.
+PATIENT: There are 25 acres.
+DOCTOR: Well that's fantastic so I'm very happy that.  So how long can you stay in Cook Manor for?
+PATIENT: Two years.
+DOCTOR: Oh great so you have some time to get some money built up, get an apartment, two years.  Do you mind if I take a look at you?
+PATIENT: Okay.
+DOCTOR: Yeah let me take a peak.  I'm gonna wash my hands.
+PATIENT: Now I want to see, I don't know if it was you or the other doctor.
+DOCTOR: Yeah.
+PATIENT: Cause I have, my feet were sweating big time.
+DOCTOR: Yeah, yeah.
+PATIENT: And he said that was cause I was taking the high blood pressure pills and he gave me some water pills and they helped.
+DOCTOR: I don't know how are your feet?
+PATIENT: I take a the pills and I continue to [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And to be honest with you, he gave me like a 25 mg pill to have me take half pills.
+DOCTOR: Yeah, right.
+PATIENT: I've been taking the whole pill.
+DOCTOR: Okay fine.
+PATIENT: Because it is so tiny.
+DOCTOR: Well your blood pressure, it's not for your blood pressure control.  Your blood pressure's good.
+PATIENT: Well the only thing that I am always concerned, being my concern is besides the high blood pressure is the heart [REDACTED].
+DOCTOR: Oh yeah.
+PATIENT: I know, when I came to the states.
+DOCTOR: Yeah.
+PATIENT: I used to have 120, 145.
+DOCTOR: So that can be due to the alcohol.  People that have alcohol they can go into withdrawals or when they're drinking can get heart rates that are fast and I know that you were drinking and not drinking and your body was probably.  Did you used to get the shakes a lot?
+PATIENT: I know, it's gone.
+DOCTOR: Okay.
+PATIENT: But when you see me, when I came here uh.
+DOCTOR: You were clean when I saw you in November.
+PATIENT: I was.
+DOCTOR: Yeah you told me.
+PATIENT: I was clean from drugs.
+DOCTOR: You told me you would drink a little bit in Puerto Rico, that's why you left.
+PATIENT: Uh that was bullshit, I was drinking lots.
+DOCTOR: Oh I knew.  Don't worry, [REDACTED] its okay.  Keep breathing.
+PATIENT: As a matter of fact when you see me in the last time in November I was stop drinking for one day and I was shaking, my hand was shaking cause I was.
+DOCTOR: Well I was trying to figure out why you left Puerto Rico, you came all the way up here just to see me, I didn't think I was that important so I was trying to figure out why you came here and left your family and I know you say that you can get a better job here so I think that that's fantastic but I know also you said that.  You go to the bathroom okay?  Well you told me that if you stayed around Puerto Rico you'd get in trouble.  You know you told me you were hanging out with the wrong guys and that.
+PATIENT: Uh-huh.
+DOCTOR: Your legs look good, they look real good.  There's no swelling at all.  Um so I think you're doing fantastic.  I'm very glad that uh you were able to get a job and you were able to get somewhere to live.  I applaud you for stopping alcohol and drugs.  I think that whatever you have to do to stay away from it do it.  I think that your health will get better as you start working more.  You will feel more motivated.  You'll have a real reason to get up in the morning and after a while you'll feel more empowered and you'll have more money and you can get an apartment and then you know hopefully you can get back with your family and get everything the way you want it again.
+PATIENT: Yeah.  I'm applying for some job here in the hospital.
+DOCTOR: Good.  Apply for everything you know we can do for you.
+PATIENT: Yeah I get that job for [REDACTED] you know.
+DOCTOR: Hey anything, any extra money is helpful.  It'll help you get back on your feet and help you get out of here.  And just keep the colonoscopy appointment.  Uh I don't think we're gonna change any medications today and it looks like you have DOCTOR in May, early May he's gonna see you.  So let me go, I'll talk to my boss but I like the way everything's going.  I'm going to see you in the summer.
+PATIENT: Let's see, March, April, yeah.  Cause I need the refills.
+DOCTOR: Which ones.
+PATIENT: For what I am taking until that day cause uh.
+DOCTOR: Are you.
+PATIENT: Do you know that I want to start, folic acid[REDACTED] to be honest with you I was thinking I have thiamine.
+DOCTOR: Yeah.
+PATIENT: But I don't have, I not have for now [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And Omega 3.
+DOCTOR: I'll renew all that for you.
+PATIENT: And all the other stuff.
+DOCTOR: Sure.
+PATIENT: I think you can cancel the supositories.
+DOCTOR: Good.
+PATIENT: I don't need it now.
+DOCTOR: How about are you still smoking?
+PATIENT: Yes.
+DOCTOR: Are you using nicotine.
+PATIENT: I [REDACTED] yesterday the patch.  [REDACTED] using it cause when I start working I not gonna be able to smoke you know.
+DOCTOR: Yeah.
+PATIENT: In the park.  I'm gonna put my patch and it will help me both in my health and my [REDACTED].
+DOCTOR: Do you have the, the things to drink before your colonoscopy?
+PATIENT: Uh-huh.
+DOCTOR: Did they give you those.  You have those?
+PATIENT: Yeah.
+DOCTOR: Okay.  You take those as directed.  So I'm going to renew the folic acid, the Omega 3 and the thiamine.
+PATIENT: That mouth thing, the water pills.  Are you increasing to 25 mg.
+DOCTOR: I'll note it the way you're taking it yeah, cause I think that you need it at 25 so we'll keep it.  These are all going to be mailed and then how about the multivitamin?
+PATIENT: Yeah I need that.
+DOCTOR: And then your psychiatric medications I'm going to let DOCTOR do cause I don't usually do those, especially since you're going to see him.  Call them and if you need those refilled cause I don't know if those are the doses they want you to stay on.
+PATIENT: Yeah I am using [REDACTED] 300 mg.
+DOCTOR: Yeah.
+PATIENT: And [REDACTED].
+DOCTOR: Citalopram.
+PATIENT: Citalopram 60 mg.
+DOCTOR: Bupropion.
+PATIENT: Uh-huh.
+DOCTOR: When you come back, let me say I'm happy you're doing very well.
+PATIENT: Are you leaving for?
+DOCTOR: Yeah.
+PATIENT: I would like you to see me because I am having some kind of problems listening.
+DOCTOR: Yeah let me take a look in your ears.  So what's been going on.
+PATIENT: See [REDACTED] but [REDACTED] taking the courses.
+DOCTOR: Yeah.
+PATIENT: For the [REDACTED] security card, whatever, blue card [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And I already talked to the instructor to right the volume cause I can't hear.
+DOCTOR: I can have your hearing looked at.  You know let me take a look.  I have to look in your ears and make sure there's nothing in there that's worrisome.  Let me check this ear.
+PATIENT: I mean.
+DOCTOR: Which ear is worse than the other?
+PATIENT: I don't know.
+DOCTOR: They're the same?
+PATIENT: I don't know [REDACTED].
+DOCTOR: Did you have a lot of loud sounds with your jobs in the past?  Did you work next to heavy machinery?
+PATIENT: Oh yes.
+DOCTOR: Okay we can get your hearing evaluated here.  I'll send you down to the people downstairs and they can see if you need any hearing help okay.
+PATIENT: Okay [REDACTED].
+DOCTOR: We could at least have it checked.  You might as well.  I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  21:23  DOCTOR IN:  23:29)
+DOCTOR: Alright PATIENT.  I am very happy with how you're doing.  Um I'm going to keep seeing you.  I want to see you in the fall and we'll make sure everything's okay.  But please call in if you ever have any trouble or if you feel like you're going to start drinking again cause I think you're going in the right direction.
+PATIENT: Oh no, no, no.
+DOCTOR: You're going in the right direction.
+PATIENT: I don't like no cravings.
+DOCTOR: And I think that once we get you in your own place and everything you will be very very happy.  So anything else I can do today for you?
+PATIENT: When are you see me, in the fall?
+DOCTOR: Fall.
+PATIENT: I mean what month?
+DOCTOR: You pick.  You can tell them any month you want when you go up front there.  You can take September, October, November, doesn't matter to me.
+PATIENT: Okay good, good, cause I will have my medications?
+DOCTOR: Yeah.  I just refilled everything too.
+PATIENT: So what day?
+DOCTOR: Uh well at least through the summer.  I gave you four months and five months on all of them. but you can always call in and I'll refill them over the phone.
+PATIENT: Okay.
+DOCTOR: Yeah and you don't always have to come in for meds.
+PATIENT: Sounds great.
+DOCTOR: Okay alright sir.  Nice to see you again.
+PATIENT: And it will be for November.  [REDACTED] If I need something or I feel bad I'll call you.
+DOCTOR: Yeah just call me and we'll take care of it.  Alright I'll see you.
+PATIENT: [REDACTED].
+DOCTOR: Thank you see ya.
+PATIENT: Thank you.
+PATIENT: 24:47
+Time is 3:45.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1238098
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,119 @@
+DOCTOR: How may I help you?
+PATIENT: So I've had this ankle pain for the past day, and and it doesn't seem to be getting better. My right ankle looks swollen and it's bruised and is pretty painful so I just wanted to come here to check, check it out, see if I need any thing done to it.
+DOCTOR: Yeah, absolutely, uh OK. So you said that this started yesterday. Was there any like trauma to the ankle or leg or did you have a fall or or some sort of injury?
+PATIENT: Yeah so I play rugby and I might have, so I fell during a tackle motion type thing and I fell on that leg and my leg, my foot kind of in, pointed inwards as I fell an I kind of fell on um on my ankle kind of just above, above my lateral side of the foot, so where that bony prominence is.
+DOCTOR: OK, I see and and your foot kind of it turned inwards when you fell?
+PATIENT: Yes, that's right.
+DOCTOR: OK, and was there pain immediately after the this incident?
+PATIENT: Yes.
+DOCTOR: OK, were you able to like walk off the field at all, or did you need to be carried? Or were you able to walk at any point after?
+PATIENT: Um so I can walk um, but. It is very painful and I'm putting a lot of weight on my left foot so it's almost like I'm hopping on my left foot.
+DOCTOR: OK. And and is the pain. Actually, so where is the pain specifically located on your foot or ankle?
+PATIENT: So it's um specifically, it's on the like lateral malleolus area.
+DOCTOR: OK, and how would you describe the pain in terms of its character or quality, like is it sharp burning, stinging?
+PATIENT: It feels sharp.
+DOCTOR: OK, and do you feel the pain radiating anywhere else?
+PATIENT: Oh no, it's pretty much in that area just in the ankle area.
+DOCTOR: OK, and has there been anything you've tried to make the pain better?
+PATIENT: I've tried some ibuprofen and some ice that seems to help temporarily, but it doesn't help with like like it's not permanent.
+DOCTOR: OK, and. Has there been anything that's made it worse?
+PATIENT: Um just putting weight or like trying to bear any weight on that ankle has made it worse.
+DOCTOR: OK, and what would you say the severity of the pain is on a scale of 10 to one, with 10 being the worst pain you've ever felt.
+PATIENT: I would say it's like a 7 or 8.
+DOCTOR: OK, and have you ever had a pain like this before to the ankle or ever injured your foot before?
+PATIENT: No, nothing like this.
+DOCTOR: OK. And have you had any any headaches?
+PATIENT: Uh no headaches.
+DOCTOR: Had any fevers or chills?
+PATIENT: No
+DOCTOR: How about night sweats?
+PATIENT: No.
+DOCTOR: Have you had any unexpected weight loss?
+PATIENT: No.
+DOCTOR: OK, and have you had any sensory changes like changes your vision, hearing or even your sense of smell or sense of taste?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and have you had any neurological symptoms such as like numbness or tingling?
+PATIENT: No.
+DOCTOR: OK, now have you noticed any sensory loss over your leg or ankle?
+PATIENT: No, no, no no sensory loss.
+DOCTOR: OK. And have you had any muscle weakness?
+PATIENT: No.
+DOCTOR: OK. and, and have you had any infectious symptoms, like having like a runny nose or feeling congested or maybe even a sore throat?
+PATIENT: No.
+DOCTOR: Alright, and have you had a cough?
+PATIENT: No cough.
+DOCTOR: How about shortness of breath?
+PATIENT: No.
+DOCTOR: Alright, have you had any chest pain or feeling like your heart's racing?
+PATIENT: No.
+DOCTOR: Have you had any dizziness or lightheadedness?
+PATIENT: No.
+DOCTOR: Alright, and have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: How about any loss of appetite?
+PATIENT: No.
+DOCTOR: Have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you any diarrhea, constipation, or or blood in the stool?
+PATIENT: No.
+DOCTOR: OK, and have you had any changes to urinary patterns?
+PATIENT: No.
+DOCTOR: OK, and have you had any changes to your energy recently?
+PATIENT: No, no changes to my energy.
+DOCTOR: Alright, and in the past, have you been diagnosed with any medical conditions or any reason to see a doctor regularly?
+PATIENT: Uh no I've been pretty healthy otherwise.
+DOCTOR: OK, so do you take any medications regularly, either over the counter or prescribed?
+PATIENT: No.
+DOCTOR: Alright, then do you have any allergies?
+PATIENT: No.
+DOCTOR: OK, and are your immunizations up to date?
+PATIENT: I think so. I gave them the most recent ones I've received in high school.
+DOCTOR: OK, OK that's good and have you had any surgeries before or any reasons for hospitalizations?
+PATIENT: Um no I've never, yeah I've never been hospitalized.
+DOCTOR: OK, uh and. Alright, could you tell me a little bit about your living situation right now, like who you're living with and whereabouts?
+PATIENT: I live with both my parents as well as two of my siblings. They are younger. We live in a house downtown.
+DOCTOR: OK and are you currently in school?
+PATIENT: I am. I'm in grade 11.
+DOCTOR: OK, awesome and then how's that been going so far?
+PATIENT: Going pretty well.
+DOCTOR: OK. And have you been around anybody who's been sick recently?
+PATIENT: No, no one's been sick.
+DOCTOR: OK, and how about have you traveling anywhere?
+PATIENT: No, we haven't been doing any of that so since COVID.
+DOCTOR: OK, and and I know sometimes people at like in high school and certainly in your age group may experience with things like smoking. Smoking tobacco or cigarettes, drinking alcohol or using marijuana. Have you used any of those, those substances?
+PATIENT: No.
+DOCTOR: OK. And and are you currently sexually active?
+PATIENT: Um I am.
+DOCTOR: OK, and could you tell me about your partners or or partner?
+PATIENT: Um yeah, she's been my girlfriend for the past two years. And we use protection.
+DOCTOR: OK, great. And any concerns for any sexually transmitted infection at this time?
+PATIENT: No.
+DOCTOR: OK. And in the family, has there been any history of musculoskeletal or neurological problems?
+PATIENT: Uh, no, nothing like that.
+DOCTOR: OK, and how about any autoimmune conditions?
+PATIENT: No.
+DOCTOR: OK, and so I next wanted to move to the physical exam component and ask you to have a look at your ankles. And are you seeing any swelling or redness or discolouration?
+PATIENT: So I there's a. Like there's a bruise about 4 centimeters wide and it appear swollen, but just by right ankle.
+DOCTOR: Just your right ankle, OK. And is there any temperature changes like warmth when you touch it?
+PATIENT: Uh slightly warm yeah.
+DOCTOR: OK. And are you seeing any muscle atrophy or deformities of the of the ankle or foot.
+PATIENT: No.
+DOCTOR: OK. Uhm and, uh if you press on areas of your of your ankle and foot, do you feel pain at the lateral malleolus or the medial malleolus?
+PATIENT: Uh, there's a lot of pain on the lateral malleolus.
+DOCTOR: OK. Um and do you feel pain if you press on the top of your foot like a?
+PATIENT: Um on the, no no pain at the top of my foot.
+DOCTOR: OK, and how about on the like outside or lateral aspect of your foot you'll feel a kind of, it's a bony prominence that that sticks out at the base of the 5th or you're kind of last metatarsals is there any pain there?
+PATIENT: No, no pain there.
+DOCTOR: OK, and then how about any pains on that like medial side of your foot?
+PATIENT: On the medial side, no.
+DOCTOR: OK, and then when it comes to moving the foot, are you able to point your toes on your foot up towards your face?
+PATIENT: Up towards my face that's hard.
+DOCTOR: OK, so dorsiflexion is limited. And how about pushing your foot down like you're pressing on the gas pedal?
+PATIENT: I can do that, but it's still painful just to move the ankle.
+DOCTOR: OK, so planter flexion is is painful as well. And then any issues with moving your toes?
+PATIENT: No.
+DOCTOR: OK, and then you mentioned that with walking you're having a limp currently?
+PATIENT: Yes.
+DOCTOR: OK, so we have an antalgic gates with an inability to bear weight as well. OK, so the that was everything that I wanted to ask and check today and based on these features it is starting like it could be either an ankle fracture or an ankle sprain. But because of the pin-point tenderness or that you're finding on the lateral side as well as some of the the inability to bear weight as you're describing it'll be important to get an X-Ray to make sure that there's not a fracture. Um and yeah, and if there is then it will be important to have some sort of air boot or casting so that to make sure that we're offloading the area for the bones to heal, but we'll see what the X-Ray shows.
+PATIENT: OK, that sounds great, thank you.
+DOCTOR: Thank you.

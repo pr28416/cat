@@ -1,0 +1,519 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah.  Where you at?
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: Oh you're there, hi.  You were over here.
+PATIENT: Yeah, I made it.
+DOCTOR: PATIENT [REDACTED].
+PATIENT: PATIENT.  He told me [REDACTED].
+DOCTOR: Okay PATIENT.  How you doing?
+PATIENT: Oh hanging in there.
+DOCTOR: Hanging in there.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: You brought in to me. (Doctor answers telephone call) Alright PATIENT how are you doing?
+PATIENT: Well, I don't know.
+DOCTOR: Could be better?
+PATIENT: Yeah.
+DOCTOR: What can I do for you today?
+PATIENT: Could explain some of the stuff I got, medications?
+DOCTOR: Sure, let's go over your medications.
+PATIENT: You have them up there?
+DOCTOR: I do, alright.  Are you taking?
+PATIENT: You got a pen or something I could write down, just for adding for.
+DOCTOR: Sure, here.
+PATIENT: That's the only one pen you got?
+DOCTOR: Uh you can borrow that okay.
+PATIENT: Okay cause I'll give it back to you.  What's this first one?
+DOCTOR: Which one?
+PATIENT: This one is [REDACTED].
+DOCTOR: Alprazolam anxiety or for sleep, do you take that?
+PATIENT: It's been a long time but I took it I think.
+DOCTOR: You haven't taken it in a while?
+PATIENT: Yeah.  What's the next one?  That's for urinary.
+DOCTOR: Yep.
+PATIENT: That one would be good.
+DOCTOR: So you're good with that okay.
+PATIENT: That's two tablets by mouth every day yeah.  I don't get up at night now.
+DOCTOR: That's good.
+PATIENT: Next one, [REDACTED].
+DOCTOR: Helps you deal with the Parkinson.
+PATIENT: What does it do?
+DOCTOR: Uh helps with the movement disorders.  Sometimes when you have Parkinson, um long term Parkinson your pace can slow down and your movement can slow down, that can help delay some of the progression.  Are you seeing a neurologist?
+PATIENT: Yeah.
+DOCTOR: Yeah so I would leave that up to your neurologist to make changes.  How are you doing?  Sometimes it can help with the tremor.  Are you having any of that?
+PATIENT: Tremor, I can almost control it, I just tell myself tow relax and stop the shaking and it does.  My biggest problem now is the balance.
+DOCTOR: Your balance.
+PATIENT: Yeah.
+DOCTOR: That can help with your balance too.
+PATIENT: I don't know.
+DOCTOR: Oh my goodness you're 90 huh?
+PATIENT: What did you think I was?
+DOCTOR: Maybe 60.
+PATIENT: Oh, go away.  Now when will I get an appointment to see my guy, cause I just got a new guy [REDACTED].
+DOCTOR: DOCTOR, DOCTOR?
+PATIENT: He's leaving isn't he?
+DOCTOR: Oh I did not know that, is he?
+PATIENT: I think he told me he's going to give me somebody else.
+DOCTOR: Oh okay, well let me check for you to see if you have an appointment.  Do you feel that your tremor is getting worse or no?
+PATIENT: No.  It's less.
+DOCTOR: Good.
+PATIENT: Cause I can control it.
+DOCTOR: You can control it, very good.  What about your movements, your movement is the same?
+PATIENT: Yeah the only thing is balance is bad.
+DOCTOR: Balance is bad, what is bad like do you trip over things?
+PATIENT: My body turns and my legs don't.
+DOCTOR: Yeah that can happen with Parkinson too.
+PATIENT: What is it, uh is it next month I won't be able to walk or?
+DOCTOR: No.  No I think if you keep on taking your medications and have you seen Physical Therapy cause sometimes they can help you.
+PATIENT: Yes, yes.
+DOCTOR: You have.
+PATIENT: They gave me different exercises.
+DOCTOR: Yeah.  Do you think that's helping?
+PATIENT: Okay.  Well they say don't change, just go do it.
+DOCTOR: Yeah.
+PATIENT: That's what NAME told me.
+DOCTOR: Yeah and you should definitely keep up with Physical Therapy.
+PATIENT: What's this nasal?
+DOCTOR: Fluticasone, your nasal.  Are you having a lot of runny nose?
+PATIENT: I haven't filled that for a long time.
+DOCTOR: Alright so let me take it off for you.
+PATIENT: Okay.  Take on by mouth, what's the furosemide?
+DOCTOR: Furosemide.  It's for either for blood pressure or for edema; do you have any of that?
+PATIENT: Blood pressure.
+DOCTOR: Okay.  It's a diuretic, that's the diuretic pill.
+PATIENT: Thyroid next one.
+DOCTOR: Yep thyroid.  How's your, any symptoms, weight gain?
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: Now I'm losing weight.  [REDACTED].
+DOCTOR: Did you want to or?
+PATIENT: No I want to, no I want to.
+DOCTOR: Cause you have to be.
+PATIENT: No I wanted to.
+DOCTOR: So you're saying you're working [REDACTED] good.
+PATIENT: Yeah, yeah.
+DOCTOR: What have you been doing?
+PATIENT: I eat less.
+DOCTOR: You eat less.
+PATIENT: I eat less.
+DOCTOR: Your portions are less or do you eat less meals?
+PATIENT: Well less is good cause sometimes for lunch I'll have a very large meal.
+DOCTOR: So you've been trying to lose.
+PATIENT: Yes.
+DOCTOR: Yes.
+PATIENT: Yes.
+DOCTOR: Good, good.  What else?
+PATIENT: My blood sugars in the evenings are okay.
+DOCTOR: Hmm.  Yeah.  What else do you need?
+PATIENT: Omeprazole.
+DOCTOR: Omeprazole is for your acid reflux.  Are you.
+PATIENT: Now the next one, that's for reflux too isn't it?
+DOCTOR: Right.
+PATIENT: Poly what's this one?
+DOCTOR: Polyethylene glycol, that's for constipation.  Were you constipated?
+PATIENT: This is for constipation?
+DOCTOR: Yes, polyethylene glycol, it's Miralax.
+PATIENT: It's a powder.
+DOCTOR: Yes Miralax.
+PATIENT: Well okay it’s constipation.
+DOCTOR: Uh-huh.
+PATIENT: Potassium, that's for the heart, that's heart.  Okay now take ranitidine.
+DOCTOR: Ranitidine is also for acid reflux.
+PATIENT: Which one's better?  The first one that we talked about or the second one?
+DOCTOR: That depends on your symptoms.  Some people can get away with just one agent; the other people need two of them, two agents.
+PATIENT: Two agents, you mean two different pills?
+DOCTOR: Uh-huh.
+PATIENT: Well this one's.
+DOCTOR: Is it, I mean how are your symptoms?  Are you having every day symptoms of heartburn?
+PATIENT: Maybe not.  Nothing in the daytime.
+DOCTOR: Yes.  And at night when you lay flat.
+PATIENT: You might get, 11:30, 12 o'clock I wake up.
+DOCTOR: Okay every night huh?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And there's another one here, it's uh.
+DOCTOR: Sucralfate.
+PATIENT: Huh?
+DOCTOR: Sucralfate that's also for um reflux too, stomach ulcers.
+PATIENT: Which one's this, now the last one it is a liquid?
+DOCTOR: Yeah sucralfate is a liquid.
+PATIENT: But I get constipated from it.
+DOCTOR: You do.
+PATIENT: I looked up in the computer it said that uh.
+DOCTOR: But are your bowel movements normal, like are you going every day?
+PATIENT: Well now I am because I'm taking.
+DOCTOR: Miralax.  That will be good for you, the sucralfate will be good for you.
+PATIENT: Miralax?
+DOCTOR: Yes the polyethylene glycol, polyethylene glycol.
+PATIENT: Polyethylene that's the one?  But I still could probably get in the habit of weakness of having to have something to move your bowels to get used to it?
+DOCTOR: Um you shouldn't get used to it.
+PATIENT: If it's correct.
+DOCTOR: And you're taking melatonin at bedtime right?  Is that right?
+PATIENT: Melatonin what's that?
+DOCTOR: Melatonin, melatonin for sleep over-the-counter, are you still taking it?
+PATIENT: What’s that?
+DOCTOR: Melatonin?
+PATIENT: Oh yes, yes that's for that's for, there's something missing right in the body for some people?
+DOCTOR: Their hormone yeah.
+PATIENT: Yeah that is for sleep.
+DOCTOR: Right.
+PATIENT: And you're saying that for to correct the constipation I can take that and it'll help.
+DOCTOR: Uh-huh.  Well is it helping now?
+PATIENT: Yeah but I take it maybe at the third day when I go three days without going to the washroom.
+DOCTOR: Okay try uh, are you on a stool softener too?
+PATIENT: No.
+DOCTOR: Why don't we try that cause sometimes that's better.  So I'll put you, are you going every three days?
+PATIENT: Well I when I take this powder and I take Metamucil sometimes, yeah a stool softener.
+DOCTOR: Yeah let me give you some stool softener okay.
+PATIENT: Okay.
+DOCTOR: How often are you having a bowel movement?
+PATIENT: I go every other day.
+DOCTOR: Every other day?
+PATIENT: Yeah every other day.
+DOCTOR: Okay with all of that, with Metamucil and with Calumet?
+PATIENT: No, that's every third day then.
+DOCTOR: That you take that.
+PATIENT: And when I take that I do get results.
+DOCTOR: Good, good.  So why don't I give you some stool softener okay.  I'll send it to your house is that okay?
+PATIENT: Very good.
+DOCTOR: Take it every day.  Take it every day and try to, try to wean yourself off of that.
+PATIENT: What can I do about the uh reflux?  I wake up every night at 11:30.  I have no reflux during the day.
+DOCTOR: Yeah.
+PATIENT: And uh around 11:30 I really got, right my throat.  So I get up and take a cough drop that states also for sore throat.
+DOCTOR: Uh-huh.
+PATIENT: And I take that and it really, really relieves it.
+DOCTOR: Are you coughing or do you feel the burning sensation?
+PATIENT: Burning.
+DOCTOR: More like burning.
+PATIENT: The burning.
+DOCTOR: Okay.  Uh do you eat right before you go to bed?
+PATIENT: No, no.
+DOCTOR: Okay.
+PATIENT: 5 o'clock, 4:30.
+DOCTOR: Oh okay.
+PATIENT: And I'm on an angle.
+DOCTOR: Do you eat snacks?
+PATIENT: And I'm.
+DOCTOR: Are you sleeping on an angle too?
+PATIENT: And that don't even help me.
+DOCTOR: Hmm.
+PATIENT: So I try sitting up.
+DOCTOR: Right.
+PATIENT: Sitting up is moving to sleep on the sofa.
+DOCTOR: Uh-huh.
+PATIENT: And that seems to help a little bit.
+DOCTOR: Okay um.  Have you had a little scope that kind of looks down?
+PATIENT: No.
+DOCTOR: You've never had that before?
+PATIENT: I got speech today I was going to tell her then.  I notice in my throat.  I don't think my soreness is from speaking or from.
+DOCTOR: It might be from the heartburn.
+PATIENT: That's what I think it is, the heartburn.
+DOCTOR: Yeah, I wonder if you want we can send you to the GI specialist and ask him to take a look.
+PATIENT: GI is that for ear, nose, throat?
+DOCTOR: No Gastroenterology.
+PATIENT: Yeah I never was there.
+DOCTOR: But you never went there.
+PATIENT: Definitely no.
+DOCTOR: Okay.  I mean that's a possibility, do you want to do that?
+PATIENT: Okay.
+DOCTOR: Are you having any difficult swallowing?
+PATIENT: I did last night.  My throat and tongue were swollen.
+DOCTOR: Okay.
+PATIENT: And then I took a cough drop.  I would say I had a 7 from 1-10, I had a 7.  I take the cough drop, I get down half the capsule and I was down to a 4 and then I got out of bed and I went on the sofa and slept upright and in a half an hour I was back to 2 it all subsided.
+DOCTOR: Okay.
+PATIENT: Yeah I never had that before.
+DOCTOR: Okay.  Alright.  How long have you had heartburn?
+PATIENT: Ten years ago I was operated on, with the, they explained it once you take the stomach and put the uh esophagus and it makes a new join here and he puts three holes in my stomach all by mirrors and for two or three years I was good and then about four years ago I went back to him and he said we need another operation and I said no that can wait.  I've had reflux the last four years.
+DOCTOR: Okay.  Okay.  Well.
+PATIENT: So a gastric guy would be good to talk to.
+DOCTOR: Yeah.  Hmm.  Colonoscopy, yeah you did, you had an EGD.
+PATIENT: I did have one?
+DOCTOR: Yeah [REDACTED].
+PATIENT: [REDACTED] when?
+DOCTOR: You had an EGD, esophagogastroduodenoscopy, you had that.
+PATIENT: And I also take this sucralfate that's the one which is for uh.
+DOCTOR: [REDACTED].
+PATIENT: Reflux?
+DOCTOR: Yeah.
+PATIENT: That's the one's that's giving me constipation.
+DOCTOR: Uh-huh.
+PATIENT: I looked up on the computer to see what the side effects of this are.
+DOCTOR: Yeah.  Are you still using the BIPAP, BIPAP at night and everything?
+PATIENT: Yeah, sleep apnea.
+DOCTOR: Yeah.
+PATIENT: Yeah I still use that.
+DOCTOR: Okay really alright.
+PATIENT: So you gonna give me, set up uh.
+DOCTOR: Yeah I mean, if your heartburn is worsening, every night you have it, pretty much have it.
+PATIENT: Last night was worse.
+DOCTOR: Yeah.  For the past I mean, for the past couple of months you've been having these daily symptoms?
+PATIENT: Oh yeah I get them almost every night.
+DOCTOR: Okay.
+PATIENT: Now I get.
+DOCTOR: You don't have any ulcers or anything?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: When I start to get the reflux uh [REDACTED] lot of vegetables, a lot of fruit, more of that stuff.  That's why I'm losing weight.  Not fast.
+DOCTOR: Yeah.
+PATIENT: The last time I think I was 205, now I weigh 200.  I was about a year and a half ago about 235.
+DOCTOR: So you're trying to lose weight right?
+PATIENT: I'm trying to lose weight yes.  I try to watch my sweets and candy and.  The cardiologist wanted me to lose weight [REDACTED].
+DOCTOR: Do you still see him on the outside?
+PATIENT: No here.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED]
+DOCTOR: Okay.  Okay.  Do you want, if you want we can have you see the Gastroenterologist here and you can see if they want to take a look down.
+PATIENT: I want to have that done yeah.
+DOCTOR: Okay, okay.
+PATIENT: And maybe they'll give me something.  Do you think that the medicine they gave me for reflux is the best there is [REDACTED].
+DOCTOR: And you're on all of them; you're on optimal treatment for it yeah.
+PATIENT: Even if I have the pillow real high uh I made myself an incline on a board.
+DOCTOR: Uh-huh.
+PATIENT: Where I raise my head and I get it.  Do they go down the throat?
+DOCTOR: Uh-huh.
+PATIENT: All the way down to the bottom to the stomach.
+DOCTOR: No not the bottom, just to your duodenum.
+PATIENT: Oh.
+DOCTOR: [REDACTED].
+PATIENT: Oh I see.
+DOCTOR: Yeah.
+PATIENT: And my problem could be that operation that I had on my, what do you call that valve.
+DOCTOR: [REDACTED].
+PATIENT: It's in the esophagus or the stomach?
+DOCTOR: Uh it's just your gastroesophageal obstruction.
+PATIENT: Is there a valve there?
+DOCTOR: Yeah there's a muscle, a ring of muscle that closes yeah.
+PATIENT: Yeah that I think is what the doctor said you know.
+DOCTOR: Okay yeah.  Yeah we can have you, we can set you up.  Although there's one more lab that she wants you to get though.
+PATIENT: What's that?
+DOCTOR: It's an INR.
+PATIENT: What do you do?
+DOCTOR: It's a blood test, you can usually get that's one [REDACTED].
+PATIENT: Oh okay.  I had a blood test today.
+DOCTOR: I know.  I'm going to try to see if they can add it on so that you won't have to come back to get it.
+PATIENT: Oh.
+DOCTOR: But I don't know.  Sit up here for a second.
+PATIENT: Where you from Hawaii?
+DOCTOR: Uh uh.
+PATIENT: No.
+DOCTOR: I'm from here.
+PATIENT: With that name?  Oh I thought you might be from Hawaii.
+DOCTOR: Nope.  No chest pain, no shortness of breath?
+PATIENT: Yeah I feel a little bit weak like I can't run around like I used to.  I can, I feel it’s all old age.
+DOCTOR: Okay.  No shortness of breath when you lay flat?
+PATIENT: No.
+DOCTOR: Or waking up in the middle of the night gasping for air?
+PATIENT: No, oh no.
+DOCTOR: No swelling in your legs?
+PATIENT: No.
+DOCTOR: Ah
+PATIENT: Ah.
+DOCTOR: No cough, fevers, chills, night sweats?
+PATIENT: I have a lot of saliva now with the Parkinson so I'm swallowing a lot.
+DOCTOR: Hmm.
+PATIENT: But I don't think I have.
+DOCTOR: Any memory issues?
+PATIENT: What do you mean by memory issues?
+DOCTOR: Like forgetful, forgetting things?
+PATIENT: Yeah, I uh, yeah.  I have to concentrate now when I put something down where I put it.
+DOCTOR: Hmm.  Deep breath in and out.  Deep breath, deep breath, deep breath, good.  So now lay down for me.  No blood in your stools or black tarry stools?
+PATIENT: No, no, no.  I have spinal stenosis so.
+DOCTOR: Spinal stenosis.
+PATIENT: I’ve been told they won’t operate on me.  How do I sound?
+DOCTOR: Good.  No urinary symptoms?
+PATIENT: Oh I get.
+DOCTOR: Any burning with urination.
+PATIENT: I know that I dribble.
+DOCTOR: You dribble.
+PATIENT: When I have to go to the washroom I have to go within minutes.
+DOCTOR: You have urge?
+PATIENT: Yeah.
+DOCTOR: You're wearing stockings huh?  A little bit of swelling?
+PATIENT: Yeah.  I take a water pill for that.
+DOCTOR: Yeah is it because you have venous insufficiency or what?
+PATIENT: No.  Well I slept with my legs down would that do it?
+DOCTOR: What?
+PATIENT: The water on my ankles.
+DOCTOR: Uh-huh.  Did you have an injury on this leg?
+PATIENT: No, no.
+DOCTOR: Is this leg always a little bit bigger than this one?
+PATIENT: That one?
+DOCTOR: Yes.
+PATIENT: Yes.
+DOCTOR: Why?
+PATIENT: I don't know.
+DOCTOR: Okay.  Has it been like that for years?
+PATIENT: Yeah.
+DOCTOR: Yeah okay.  I'll have you sit up for me, that's great.  This is the tremor huh.
+PATIENT: Oh yeah.
+DOCTOR: Better or getting worse?
+PATIENT: My right side.
+DOCTOR: Yeah worse on your right.
+PATIENT: Especially at night.
+DOCTOR: Yeah.  Grab my fingers.  Do you want me to do it on both sides.
+PATIENT: Yeah.
+DOCTOR: Any pain?
+PATIENT: Yeah I've had a little back pain.
+DOCTOR: A little bit.  Right now or no?
+PATIENT: I do have a little, probably 2.
+DOCTOR: A 2.  Go ahead and stand up.  Can you do this, that's good.  Let's see you walk for me.  That's good, have a seat.  Okay.
+PATIENT: I'm walking.
+DOCTOR: Oh sometimes uh, sometimes people with Parkinson.
+PATIENT: Yeah.
+DOCTOR: At this point can [REDACTED] sometimes it's hard for them to turn.  It's called, we call it postural instability which means they can do fine but when you turn you have a hard time turning.
+PATIENT: Well I said that before, my body turns but my legs don't.
+DOCTOR: Right.
+PATIENT: I found that to be many times.
+DOCTOR: Yeah so I mean I think the things that we do with that is of course um uh, um physical therapy, making sure you're on the same medications and making sure you’re seeing neurologist.  It looks like you're seeing DOCTOR.  He's gonna be your new doctor um on June, June 29th.
+PATIENT: Okay.
+DOCTOR: So she'll reassess all of your nerves and everything.
+PATIENT: All the regular [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Good.
+DOCTOR: Uh the other thing I wanted to ask is uh.
+PATIENT: How soon will I, how often will I see you?
+DOCTOR: You can see me as often as you like.  I was thinking we can go every six months but if you wanted to see me sooner we can do that too.  Do you want to be seen sooner?
+PATIENT: Well maybe.
+DOCTOR: No.  Are you having any, are you having any thyroid symptoms?  Cause sometimes constipation could be from thyroid.
+PATIENT: Really?
+DOCTOR: Yeah.
+PATIENT: But how would I know that I have a thyroid problem?
+DOCTOR: Are you um, you're not gaining weight.  Do you feel like your reaction is slower?  Do you feel fatigued, do you feel like you're skin is dry?  Do you feel like your hair is getting coarse or anything?
+PATIENT: No I can't think, if I had I didn’t recognize it.
+DOCTOR: Okay.  Your TSH is a little bit higher than before and then that's high.
+PATIENT: How about my kidneys and liver?
+DOCTOR: Your liver is fine.  Your kidneys I know there's a little bit of um elevated right its.
+PATIENT: I didn’t know that.
+DOCTOR: Yeah and this hasn't been higher so you're okay.  It's just a little bit you know.
+PATIENT: Lower.
+DOCTOR: Okay yeah.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: So besides the Parkinson, sleep apnea, spinal stenosis.
+DOCTOR: Uh-huh.
+PATIENT: Reflux, high blood pressure I'm okay.  What a mess.
+DOCTOR: You're awesome for a 90-year-old.  You're awesome.
+PATIENT: (Laughter)
+DOCTOR: You're so awesome.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Good enough.
+DOCTOR: Um alright let me go get your stuff.  You’re okay with seeing me in six months or do you want to be seen sooner?  We'll get your medications all refilled uh just to make sure that I can get that INR so we can have you see our gastroenterologist.
+PATIENT: Yes please.
+DOCTOR: To make sure there's nothing crooking down there.
+PATIENT: Yes please.
+DOCTOR: You don't feel like things are stuck?
+PATIENT: No.
+DOCTOR: Or you don't feel like throwing up?
+PATIENT: No.  The only time I get up is like I said every night 11:30, 12:30 I feel right here is something.
+DOCTOR: Burning huh?
+PATIENT: Burning.
+DOCTOR: Okay.  Alright.
+PATIENT: During the day no.
+DOCTOR: Let's have a look see.
+PATIENT: Okay.
+DOCTOR: Let me see if I can and then I'll, if I can't add on that lab test that they want, would you go back to the Lab and just get it drawn?
+PATIENT: Sure, sure.  When do you want it, today?
+DOCTOR: Yeah but let me find out if I can add on to that.
+PATIENT: Okay sure.
+DOCTOR: So that way you don't have to okay.  I'll be right back.
+(DOCTOR OUT:  46:01  DOCTOR IN:  50:28)
+DOCTOR: Alright.
+PATIENT: We're okay.
+DOCTOR: I can't add it on sir so you'll have to go down to the Lab.
+PATIENT: Now?
+DOCTOR: Sorry.
+PATIENT: Okay.
+DOCTOR: Is that okay?
+PATIENT: Is my name down there?
+DOCTOR: Yeah I put it in, the order’s in for an INR.
+PATIENT: And by the time I get there why, cause I got a whole hour.  I see my next doctor in an hour.
+DOCTOR: Alright just go down.  It should be done by the time you go.  Where is your next doctor?  Who do you see?
+PATIENT: Um four, DOCTOR, the skin doctor.
+DOCTOR: Oh yeah, I think it should be okay.  So just go.
+PATIENT: That'll be easy to do.
+DOCTOR: Yeah.  [REDACTED].  Do you want to see your GI doctor or do you want?
+PATIENT: Well.
+DOCTOR: I can do this, I can do both things.  I can have you see the GI doctor, the stomach doctor.
+PATIENT: Right.
+DOCTOR: To see if they want to take a look.  Uh in the meantime before you see them, do you want me to change your medications around do you feel [REDACTED] difference?
+PATIENT: No.
+DOCTOR: No cause I can do this.
+PATIENT: Well I'm worried about the reflux.
+DOCTOR: That's what I'm saying I can change that around so instead of taking the omeprazole I can try to, I can increase your dose to see if it's different.
+PATIENT: Oh really?
+DOCTOR: Yeah I can have you do that um.
+PATIENT: That's the pills or the liquid?
+DOCTOR: The pill.
+PATIENT: Alright.  Is it stronger?
+DOCTOR: Yeah and then I can increase it, change it.
+PATIENT: Okay.
+DOCTOR: Or I can change this to a different pill.  Stronger, but a different pill to see if it makes a difference.
+PATIENT: Let's try the different pill.
+DOCTOR: You want to try the different pill, alright let's do that.
+PATIENT: The next time I come to see you we'll scratch some of those off and make the list a little shorter.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay.  Let's see what else we can do for you.
+PATIENT: 9:30 what [REDACTED]?
+DOCTOR: Oh you've been through that already, [REDACTED].
+PATIENT: Okay.  Now 11:30, Hematology.
+DOCTOR: Yeah I can have you go and see.
+PATIENT: That's a lot of things.
+DOCTOR: [REDACTED] go down there.  I'll have you do that new medicine twice a day okay.  So you stop taking the omeprazole.
+PATIENT: Before or after meals?
+DOCTOR: Before meals, probably 30 minutes before your meal okay.
+PATIENT: That's the new stuff?
+DOCTOR: Yeah the pantoprazole.  Do you want to pick it up in the Pharmacy today?  That way you have new pills at home.
+PATIENT: I got off the other pills yeah.
+DOCTOR: So you stop it.
+PATIENT: Yeah.
+DOCTOR: If you're gonna pick this one up, don't take that one.
+PATIENT: Which one?
+DOCTOR: The omeprazole.  So let's have you go to the Pharmacy and pick it up okay.
+PATIENT: That's the omeprazole.
+DOCTOR: Here.
+PATIENT: Taking both medicines would that help it?
+DOCTOR: Yes.  But don't take this one.
+PATIENT: No.
+DOCTOR: Yeah you need to start pantoprazole and you're gonna pick it up today.
+PATIENT: Will it be ready?
+DOCTOR: Yes.  By the time your lab and everything.
+PATIENT: Yeah.
+DOCTOR: And your appointment it'll be ready.
+PATIENT: Okay.
+DOCTOR: So you're gonna take it twice a day too.  Same thing as this, you're gonna take it half an hour before breakfast and a half an hour before dinner.
+PATIENT: Nothing before bed.
+DOCTOR: Nothing before bed.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: That was the last thing down.
+DOCTOR: You'll go to your dermatology appointment.
+PATIENT: Yeah.
+DOCTOR: And then you'll go to the Pharmacy to pick it up.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Very good.
+DOCTOR: And then I'll.
+PATIENT: Meeting you has been such a pleasure.
+DOCTOR: Oh you've met me before.
+PATIENT: I did?
+DOCTOR: Yeah you'll see me in six months.
+PATIENT: Really.
+DOCTOR: Yeah Hematology.
+PATIENT: I've met you before?
+DOCTOR: Yeah.
+PATIENT: I can't remember.
+DOCTOR: Okay we're going to put in a consult.
+PATIENT: What is this?
+DOCTOR: It's an [REDACTED] you can look at it, read it, fill it out and mail it back to us if you like.
+PATIENT: What is it for?
+DOCTOR: Just to have your information on file.  It's information about attorneys, advanced directives.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: 57:28
+Time is [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1269056
+TRANSACTION # 578-10-2-316-0103

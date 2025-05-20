@@ -1,0 +1,340 @@
+DOCTOR: PATIENT?
+PATIENT: Who?
+DOCTOR: PATIENT?
+PATIENT: Yeah, uh-huh.
+DOCTOR: Hello.
+PATIENT: Hello.
+DOCTOR: Hi.
+PATIENT: Uh-huh.
+DOCTOR: I'm DOCTOR.
+PATIENT: Hey DOCTOR.
+DOCTOR: Right this way.
+PATIENT: Okay.
+DOCTOR: Have a seat.  So um you're here to establish care right?
+PATIENT: Yes.
+DOCTOR: This is your first time being seen by a primary care physician?
+PATIENT: Yes.
+DOCTOR: Okay, welcome to the Blue Clinic.
+PATIENT: Thank you.
+DOCTOR: Um so no other medical problems except for your elevated PSA and the results of your biopsy today.
+PATIENT: Right today correct, correct, correct.
+DOCTOR: Okay.  Don’t miss that appointment.
+PATIENT: No, no way.
+DOCTOR: Any other problems?
+PATIENT: Uh not that I know of.
+DOCTOR: Okay.  Okay, um any medications?
+PATIENT: I'm just, the medications I'm taking for the uh prostate so.
+DOCTOR: Okay.  What do they have you on, cause I don't have you in the system?  Oh ciproflox okay.  Um and then did you have your TB test done?
+PATIENT: No not yet.
+DOCTOR: Okay.
+PATIENT: Can I get that done today too?
+DOCTOR: Sure.  It looks like it's already in the system so okay.  They'll place it today, you'll have to come back and.
+PATIENT: Okay.
+DOCTOR: What's today Thursday oh, Friday, Saturday, Sunday so it would be better to come on.  So you have to come back to have somebody read it.
+PATIENT: Okay.  So it'd be best to come back on a.
+DOCTOR: Do you have another appointment coming up?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: These are my last two.
+DOCTOR: Okay.
+PATIENT: Now see I can come back, I mean no problem.
+DOCTOR: Right.  Can you come back on Monday then?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: What time Monday?
+DOCTOR: Um the early let's see.
+PATIENT: So I could do that okay.
+DOCTOR: Let me find out for you.
+PATIENT: Okay.
+DOCTOR: Let me see, instead of going through Urgent Care if I can just get you a nursing visit and you can take the PPD and then come back and follow up and see them.
+PATIENT: Okay.
+DOCTOR: Okay and okay.  Allergy to penicillin, what happens?
+PATIENT: Oh all kinds of stuff.
+DOCTOR: What stuff?
+PATIENT: Break out in hives and um it's not a pretty sight.
+DOCTOR: Okay.
+PATIENT: Sick.
+DOCTOR: No [REDACTED], diabetes, no hypertension that you know of?
+PATIENT: Not that I know of.
+DOCTOR: Okay and then family history.
+PATIENT: Yeah I had that, excuse me, I had some blood work done and it told me that all of it was good except cholesterol was just a little high.  And you don't see that either?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: The cholesterol is a little high.
+PATIENT: Yeah.
+DOCTOR: And okay and no heart disease in your family?
+PATIENT: Um not really no.
+DOCTOR: Okay.
+PATIENT: Just that.
+DOCTOR: Diabetes and high blood pressure?
+PATIENT: Diabetes, yeah, yeah.
+DOCTOR: Okay and then what about um any cancers run in your family?
+PATIENT: No.
+DOCTOR: Okay.  Okay so your LDL, your bad cholesterol number is 152.
+PATIENT: Is that bad?
+DOCTOR: Well given your age they'd like it to be less than 130.
+PATIENT: Okay, okay.
+DOCTOR: And it's one pill once a day; in the long run it also protects all your arteries and prevents some blockages.
+PATIENT: Blockages and stuff.
+DOCTOR: Right so um so side effects to watch out for is just muscle aches.  It's not very common but if you start having muscle aches it could be from the medications.
+PATIENT: Okay.
+DOCTOR: And so then you can always just either stop it or come in.
+PATIENT: Okay.
+DOCTOR: And we'll check it out.
+PATIENT: Okay.
+DOCTOR: The other thing is to, so it can metabolize to the liver um so and for some reason it interacts with grapefruit juice we tell patients not to drink grapefruit juice when they're on this medication.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: Do you want me to mail this to you or do you want to pick it up today?
+PATIENT: Uh the medication?  I'll pick it up today.
+DOCTOR: Okay.  So it's a half a pill every day.
+PATIENT: A half a pill every day.
+DOCTOR: They'll give you a pill cutter.
+PATIENT: Okay.  So I'll be here still for a while today.
+DOCTOR: Yeah for your biopsy, so yeah you can pick it up.
+PATIENT: Yeah.
+DOCTOR: And then um before your next appointment we'll have you go to the Lab and we'll check to see that your numbers have come down.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: So on the morning of your next appointment nothing to eat or drink.
+PATIENT: Okay.
+DOCTOR: Um water is okay.
+PATIENT: Okay.
+DOCTOR: And then go to the Lab before your appointment and then we can go over the labs when we meet.
+PATIENT: Okay, okay.
+DOCTOR: Okay.
+PATIENT: To the Lab first.
+DOCTOR: Yeah and they open at either 7:30 or 8.
+PATIENT: Okay.
+DOCTOR: Okay your other labs your kidneys look normal.
+PATIENT: Praise God.
+DOCTOR: Your blood count was good.
+PATIENT: Praise God.
+DOCTOR: So everything else here, your hep C was negative.
+PATIENT: Who?
+DOCTOR: Your hepatitis C.
+PATIENT: Oh whew another good thing, praise God.
+DOCTOR: Your hepatitis B was negative and you don't have diabetes.
+PATIENT: Thank you, praise God.
+DOCTOR: Okay.  So let's see, are you still smoking?  Half pack a day?  Want to quit?
+PATIENT: Yes.  I should.
+DOCTOR: Okay.
+PATIENT: I should want to quit.
+DOCTOR: Do you want to come here?
+PATIENT: I can.
+DOCTOR: Okay.  These are all our Smoking Cessation Clinics.
+PATIENT: Okay.
+DOCTOR: So you know there are different medications that you can try.
+PATIENT: Okay.
+DOCTOR: Either patches or gum but you have to go to one of those appointments first.
+PATIENT: Okay.
+DOCTOR: And then um they're just a walk-in and you just show up whenever you want.
+PATIENT: Oh okay.
+DOCTOR: And then they can figure out which medication might work best for you.
+PATIENT: They'll give me okay.
+DOCTOR: Yeah.
+PATIENT: Okay thanks doc, thank you.
+DOCTOR: And then how much, are you still drinking alcohol occasionally?
+PATIENT: No I don't even, it's very rare.
+DOCTOR: Okay.  When was the last time you used cocaine?
+PATIENT: Oh it's been a while.
+DOCTOR: Okay.
+PATIENT: Yeah it's been a while.  Praise God it's been a while, thank God.
+DOCTOR: Okay and have you ever had a colonoscopy?
+PATIENT: No I haven't and I would like to get one.
+DOCTOR: Yeah.
+PATIENT: A consult yeah.
+DOCTOR: Uh-huh.
+PATIENT: Cause [REDACTED] not right that I should get all that stuff checked out right?
+DOCTOR: Yes.
+PATIENT: Yeah.
+DOCTOR: Okay, so what I'll do is I'll send you a set that'll be two different bottles that you'll get in the mail.
+PATIENT: Uh-huh.
+DOCTOR: And it's stuff to clean out your colon the day before the procedure.
+PATIENT: Okay.
+DOCTOR: So initially what will happen is you'll come in for a visit, you’ll watch a video, we can answer all your questions and then we'll schedule you for the procedure.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Oh wow, praise God, I'm about to start a new job.
+DOCTOR: Okay.
+PATIENT: So in the event that I'm working can I reschedule those things, call in and reschedule.
+DOCTOR: Yeah you can call in and reschedule.
+PATIENT: Yeah maybe on my day off or something like that.
+DOCTOR: Yeah.
+PATIENT: Yeah, praise God.
+DOCTOR: They do these all day [REDACTED].
+PATIENT: Okay, okay.
+DOCTOR: Have you ever had any abdominal surgery?
+PATIENT: Oh um I had my appendix removed.
+DOCTOR: Okay.  Okay I'm going to put in for your labs before your next visit so.
+PATIENT: Okay.
+DOCTOR: Um you should come back in three or four months.
+PATIENT: Okay.
+DOCTOR: And so early September.
+PATIENT: Okay.
+DOCTOR: Okay.  So if you go get, if you happen to be around for something else, any time after September 1st you could get your labs done.
+PATIENT: Okay, okay, yeah.
+DOCTOR: And then that way they'll be ready for us when we have our next visit.
+PATIENT: Okay.  So it's probably, then the next visit will be two or three months from now?
+DOCTOR: Yeah I have it early September.
+PATIENT: Okay, okay.
+DOCTOR: Like three, three.  You don't really have any medical problems it's just we're gonna follow up on the cholesterol.
+PATIENT: Okay.
+DOCTOR: So it's like three to four months.
+PATIENT: Okay.
+DOCTOR: We're gonna say early September.
+PATIENT: Okay, okay, good.
+DOCTOR: And then by that time you'll have your colonoscopy done.
+PATIENT: Okay.
+DOCTOR: And you should be good on that.
+PATIENT: Okay, okay.
+DOCTOR: Okay, I don't have anything [REDACTED].  Did you go to the eye doctor?
+PATIENT: No not yet.
+DOCTOR: I know you came in for their clinic and they placed a consult did you ever get uh, did you ever get a letter?
+PATIENT: I don't think so.
+DOCTOR: Oh it looks like no, so it looks like they put in, okay this is old.  Let's see, we'll put in a new.
+PATIENT: Okay good, good, good.
+DOCTOR: Okay.
+PATIENT: Please cause I need some glasses, I really do.  These are old.
+DOCTOR: Let me put in a consult.
+PATIENT: Okay.
+DOCTOR: Sit up here for me.
+PATIENT: Yeah.  Take off the jacket?
+DOCTOR: Um sure.  Are you nearsighted?
+PATIENT: That's when you see things; you have trouble seeing things close?
+DOCTOR: Far away.
+PATIENT: Far away.  I don't know.
+DOCTOR: Okay.
+PATIENT: Yeah I think I might be.
+DOCTOR: Okay hold on.  (Doctor takes phone call)  Anything else you can think of?  Do you get seasonal allergies at all?
+PATIENT: Uh yeah.  I have trouble with sinuses and it's hard for me to breathe and can I get something for my sinuses you know to clear them up you know?
+DOCTOR: Uh-huh.
+PATIENT: To help me breathe.
+DOCTOR: Uh-huh is it pressure? Or is it postnasal drip or do you get a dry cough?
+PATIENT: I get a dry cough and I also get that uh, where it's hard for me to breathe like at night.
+DOCTOR: Okay.
+PATIENT: You know I definitely have to have the window open so I can breathe good.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Sort of itchy eyes or?
+PATIENT: Yeah and itchy nose and.
+DOCTOR: Okay.
+PATIENT: I just want to knock my nose off.
+DOCTOR: Okay open for me, say ah.
+PATIENT: Ah.
+DOCTOR: One more time.
+PATIENT: Ah.
+DOCTOR: Okay.  Good.  So I'll give you two things, one is a nasal spray.
+PATIENT: Okay.
+DOCTOR: Two sprays in each nostril once a day.
+PATIENT: Uh-huh.
+DOCTOR: You have to do that every day no matter what.
+PATIENT: Okay.
+DOCTOR: And it decreases the inflammation in your nose here.
+PATIENT: Okay.
+DOCTOR: But then and then the pill that you can take kind of as needed.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.  Okay.
+DOCTOR: Take a big deep breath, let it out, good.  Again, again, good.  Just breathe normally.
+PATIENT: Okay.
+DOCTOR: You sound good.  Okay so you can pick these up today too.  Um.
+PATIENT: Oh I guess I do have a question I want to ask you doctor.
+DOCTOR: Uh-huh.
+PATIENT: I get pain right here, I don't know what it is. I don't know what it's from.  It's right in the joint, right here, in each arm sometimes.
+DOCTOR: Okay.  How long has it been going on?
+PATIENT: For a little while now, just a little while.  Maybe about four or five months.
+DOCTOR: What do you do for, what is your profession?  Or what will your profession be once you have that new job?
+PATIENT: Uh I'll be doing environmental tech II at Mercy Hospital.  I'll be [REDACTED].
+DOCTOR: Do you do a lot of movement with your?
+PATIENT: I just started the job.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: Pretty recently though and where is it?
+PATIENT: Right in here.
+DOCTOR: Here?
+PATIENT: Here yeah, like right now, especially right there.
+DOCTOR: Okay.
+PATIENT: Now, if I lift something heavy.
+DOCTOR: Right here.
+PATIENT: Yeah it hurts.
+DOCTOR: Okay.  Any numbness or tingling in your finger, in your hand, it's just pain right here?
+PATIENT: Yeah.
+DOCTOR: Okay.  Why don't we do some um, well see the problem is you're going to moving that, it's gonna make that worse.
+PATIENT: Really.
+DOCTOR: Yeah.
+PATIENT: Then I'll probably do it [REDACTED].
+DOCTOR: Does it hurt you a lot or a little?
+PATIENT: Just a little.
+DOCTOR: Uh-huh.
+PATIENT: You know just a little you know.  I know its there.
+DOCTOR: Okay.
+PATIENT: The pain, I know it’s there. I just wanted to mention that and maybe I you know.
+DOCTOR: What we can do is we can try to give you some Motrin to take for about a week or so.
+PATIENT: Uh-huh.
+DOCTOR: And take it every day and see if that doesn't decrease the inflammation.
+PATIENT: Okay.
+DOCTOR: But then just try um icing it too.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: Okay.
+DOCTOR: Like twice a day and seeing if it just helps bring it down.
+PATIENT: Okay.
+DOCTOR: Cause I'm really just the movement, trying to minimize the amount of movement that you do.
+PATIENT: Uh-huh.  It hurts [REDACTED].
+DOCTOR: And it hurts right in the center where I push?
+PATIENT: No right in here.
+DOCTOR: Right in here.
+PATIENT: Right here yeah.
+DOCTOR: Okay.
+PATIENT: Right here.
+DOCTOR: And in the forearms too?
+PATIENT: Yeah just a little bit right here.
+DOCTOR: Okay.
+PATIENT: Just a little bit.
+DOCTOR: Okay.
+PATIENT: And it's tender to the touch.
+DOCTOR: Nothing in the joints here?
+PATIENT: No uh uh, nothing like that.  It's basically right here, I don't know what that is but it’s been increasing for some time.
+DOCTOR: Make sure you just, cause this Motrin can sometimes um upset your stomach so just take it with food.
+PATIENT: Yeah with food right.
+DOCTOR: And drink a lot of water.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Okay, um just give me a minute okay.
+PATIENT: Okay.
+(DOCTOR OUT:  43:35  DOCTOR IN:  51:54)
+DOCTOR: Hi PATIENT.  I'm DOCTOR.  I'm the attending on the Blue Clinic, I just wanted to say hello.
+PATIENT: Oh thank you.
+DOCTOR: Yeah.  DOCTOR's got, she's a plan for you and you're in good hands but you’ll see me around so I just wanted to introduce myself.
+PATIENT: Thank you.
+DOCTOR: Yeah.  How are you today?
+PATIENT: I'm blessed.
+DOCTOR: Good.
+PATIENT: Thank you [REDACTED].
+DOCTOR: Okay.  Well I'll let her finish up and have a good day alright?
+PATIENT: You also.
+DOCTOR: [REDACTED] okay, you're all set.  Just take this to the front and they'll schedule you an appointment for Monday to get your PPD.
+PATIENT: Uh-huh.
+DOCTOR: And then also um for Eye Clinic.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Uh-huh.  Is that here?
+DOCTOR: Pardon?
+PATIENT: That it here?
+DOCTOR: Oh yeah we're all done.
+PATIENT: Oh okay.
+DOCTOR: Yeah.
+PATIENT: Alright.  Thank you.
+DOCTOR: They'll help you out in front.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Thank you.
+PATIENT: 52:57
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275396
+TRANSACTION # 578-10-2-316-0103

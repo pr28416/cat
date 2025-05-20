@@ -1,0 +1,122 @@
+DOCTOR: What brings you in?
+PATIENT: So I've had a fever that I measured this morning and I had a cough.  I've had a cough these last several days. Yeah, today is Friday so it started Monday, so I guess like yeah the cough started four days ago.
+DOCTOR: OK, and the fever started four days ago as well?
+PATIENT: Well, I've been feeling hot this week, but I checked my temperature this morning and it was the first time I checked it and it was 38.5.
+DOCTOR: OK, so that's definitely a fever, so we can take your temperature today as well. Umm, so have your symptoms been the same or getting worse, or be getting better over the past few days?
+PATIENT: They are getting worse. I've been starting to feel really fatigued and, uh, tired as well and the cough has gotten worse too.
+DOCTOR: OK, have you ever felt like this before?
+PATIENT: I mean, maybe a really long time ago when I was a kid or something like that. Maybe I had the flu, but nothing recently.
+DOCTOR: OK. And do you have a sore throat at all?
+PATIENT: No sore throat. It does get a little scratchy with my cough but hasn't been sore.
+DOCTOR: OK, and do you have any issues swallowing food?
+PATIENT: No, but I haven't been as hungry.
+DOCTOR: OK, you haven't been as hungry. Um, have you had any changes to your taste?
+PATIENT: No, I feel like I've been tasting my food OK.
+DOCTOR: OK, how about smell?
+PATIENT: I feel like I've been able to smell.
+DOCTOR: OK, do you have a runny nose or a blocked nose? Do you feel congested?
+PATIENT: Maybe a little runny, but not too bad.
+DOCTOR: OK, how about your hearing or vision? Any changes there?
+PATIENT: No, I haven't noticed anything.
+DOCTOR: OK, any pain or discharge from either your ears or eyes?
+PATIENT: No, nothing like that.
+DOCTOR: OK, so let's go back to the cough. Um, are you producing any sputum?
+PATIENT: No sputum.
+DOCTOR: OK, so it's a dry cough?
+PATIENT: Yeah it is.
+DOCTOR: OK, any blood associated with the cough?
+PATIENT: I haven't seen any blood.
+DOCTOR: OK, do you feel wheezy at all?
+PATIENT: I haven't noticed any wheezing.
+DOCTOR: OK, how about shortness of breath?
+PATIENT: Usually well, after some of my coughing fits, I can be a little bit shorter in breath, but otherwise they've been.
+DOCTOR: OK, any chest pain?
+PATIENT: No, I haven't had any chest pain.
+DOCTOR: Do you ever feel like your heart's racing?
+PATIENT: No, I don't.
+DOCTOR: OK, and any night sweats or chills?
+PATIENT: I have felt a little chilly at night, but I haven't had any night sweats.
+DOCTOR: OK, and how about weight loss? Have you had any weight loss over the past few months?
+PATIENT: No, it's been about the same. Maybe down a few pounds over this week as I just haven't been eating as much.
+DOCTOR: OK, yeah. Umm, does anything make the cough better or worse?
+PATIENT: Umm, no, I can't think of anything.
+DOCTOR: OK, and how have your bowel movements been?
+PATIENT: They've, I would say they've been normal.
+DOCTOR: OK, and any abdominal pain?
+PATIENT: No pain, but I have been a little nauseous.
+DOCTOR: Nauseous, OK. Have you thrown up?
+PATIENT: No, I haven't vomited, but I've certainly felt like it a few times.
+DOCTOR: OK, and any triggers for your nausea?
+PATIENT: Oh I can't think of anything. It just sort of came on. And it really went away on its own pretty quickly, but uh I don't know, maybe it was when I had my headache.
+DOCTOR: OK, when when did your headache start?
+PATIENT: Um, so it's been on and off these last several days so I've been kind of resting a bit more too.
+DOCTOR: OK yeah, you said past several days, have you ever had headaches before that?
+PATIENT: Yeah, I've had, I think they're called tension headaches. I get those every so often and will take Advil or something like that for them, and they usually go away.
+DOCTOR: OK. Do these headaches feel like the same headaches?
+PATIENT: Yeah, they they feel about the same, kind of like a pressure or vice grip on my head.
+DOCTOR: OK, so it's not like the worst headache you've ever experienced?
+PATIENT: No, I think it's just been a part of how I haven't been feeling well these these last few days.
+DOCTOR: OK, yeah. Do you feel fatigued or tired at all?
+PATIENT: Yeah, for sure. I haven't really had any changes, but just haven't been really getting my work done throughout the day because I have just been feeling so tired.
+DOCTOR: Yeah, umm, and do you feel any sort of body aches that go along with your fatigue?
+PATIENT: Maybe a little.
+DOCTOR: OK. Umm, can you think of anything that may have caused your symptoms? You know, have you been in contact with anyone who's been sick recently?
+PATIENT: I can't think of anybody I've been around who's been sick, but last weekend I went shopping in the mall so I went into quite a few stores.
+DOCTOR: OK, and you were wearing your mask? Everyone else was wearing their mask?
+PATIENT: Yeah, everybody far as I could tell.
+DOCTOR: OK, have you traveled anywhere recently?
+PATIENT: Uh, no, I've just been home.
+DOCTOR: OK, I just want to ask you a few more questions. Any memory loss or confusion?
+PATIENT: No.
+DOCTOR: Any dizziness or fainting spells?
+PATIENT: Nothing like that, no.
+DOCTOR: OK. Are you otherwise healthy?
+PATIENT: Um, yeah I've well, I've been told I had high cholesterol so I've been taking Rosuvastatin for that the past few years.
+DOCTOR: OK, and is it helping with the cholesterol levels?
+PATIENT: Yeah, the last time I was at the family doctor I was told they were at a good level. O
+DOCTOR: OK, good.
+PATIENT: I'm sorry I'm pre-diabetic as well.
+DOCTOR: OK, when was the last time you had blood work done?
+PATIENT: : I think, uh six months ago.
+DOCTOR: OK, and that's when you were told you were pre-diabetic?
+PATIENT: Yeah, I think my A1C was like 6.2% so uh, on the cusp.
+DOCTOR: OK, yeah, that's understandable. Um, have you made any sort of lifestyle changes to get your blood glucose under control?
+PATIENT: Well, I have been walking the dog more. he weather is getting better and trying to eat out less often. Yeah, I've been trying to lose weight, but it it's been yeah, relatively stable still.
+DOCTOR: OK, we can review some options with you later on in the visit if you would like.
+PATIENT: Yeah, certainly we can talk about that later.
+DOCTOR: OK, sounds good. Have you had any surgeries or hospitalizations in the past?
+PATIENT: Yeah I had an inguinal hernia repaired about five years ago.
+DOCTOR: And are you on any medications?
+PATIENT: Just Rosuvastatin right now.
+DOCTOR: OK, and any over the counter medications or herbal supplements?
+PATIENT: Just a multi vitamin.
+DOCTOR: OK, umm, do you have any allergies?
+PATIENT: Penicillin. I break out in hives.
+DOCTOR: OK, and did you need to be treated with any sort of antibiotics recently?
+PATIENT: No, no, I haven't had any antibiotics for a long time.
+DOCTOR: OK, and are you up to date with all your immunizations?
+PATIENT: I am, yeah, I get the flu shot every year.
+DOCTOR: OK, good. An yeah, that's really good. Um, do you know if you have any family history of any lung conditions or heart conditions?
+PATIENT: No, I don't think so.
+DOCTOR: OK, how about cancers in the family?
+PATIENT: I think my grandfather had bladder cancer, but, uh, I'm not sure.
+DOCTOR: OK, and I forget if I asked you earlier, but have you had any changes to your urinary habits, any changes in your urine itself or voiding frequency?
+PATIENT: No, I haven't had any changes there and I haven't noticed any like blood or color changes. No pain.
+DOCTOR: OK, great. And do you smoke?
+PATIENT: Um, no I do not.
+DOCTOR: OK, how about marijuana?
+PATIENT: Nope.
+DOCTOR: Any other recreational drug?
+PATIENT: No, I just have a few beers on the weekend. Like probably I don't know two or three on Saturday and Sunday.
+DOCTOR: OK, and where do you live?
+PATIENT: I live in a like duplex and rent the basement in a house nearby.
+DOCTOR: OK, do you live with anyone?
+PATIENT: Yeah, I live with my girlfriend.
+DOCTOR: OK, and um, any concerns for you know old carpets or mold or asbestos in the duplex that you're living in?
+PATIENT: Not in our unit so I mean, maybe upstairs, but if it's anything like our place, then no.
+DOCTOR: OK. I think those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we end the interview?
+PATIENT: Uh, no, well  I guess I was just concerned about about COVID.
+DOCTOR: Yeah, you know that's the top on my list of differential diagnosis for you. So what we'll do is a COVID swab and that should come back in a day or so, but we do encourage isolation for 14 days and that includes from your girlfriend as well. So even if the COVID swab comes back negative, sometimes it can be false negative, so as long as you're having these symptoms, and these symptoms are common in COVID,  we do ask that you isolate for 14 days if the swab comes back positive. We will also notify public health so that they can get in touch with you and do some contact tracing to see where you may have gotten COVID from, but other than that, if it's not COVID, it could likely be another upper respiratory viral illness because of this time of year. A lot of different viruses are going around like common viruses or the flu, you know, so it could be one of those. And then if you're still sick or your symptoms change, we can reassess to make sure it's not a bacterial infection or bacterial pneumonia, in which case we can prescribe antibiotics.
+PATIENT: OK yeah, thank you for all that information. Sounds great.
+DOCTOR: OK, well take care then, alright.
+PATIENT: Thank you.

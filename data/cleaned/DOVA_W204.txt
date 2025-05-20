@@ -1,0 +1,318 @@
+DOCTOR: PATIENT.
+PATIENT: Okay.  How you doing?
+DOCTOR: Good how are you?
+PATIENT: Oh I'm doing good.
+DOCTOR: Oh good.
+PATIENT: I came over here to get uh, to get something stronger for my pain.
+DOCTOR: Where is your pain?
+PATIENT: The pain is [REDACTED] on the chest.
+DOCTOR: You have chest pain?
+PATIENT: Yes.
+DOCTOR: When has this started?
+PATIENT: And I got uh, there's not no heart attack or anything.  I just come from the shingles.
+DOCTOR: You have shingles?
+PATIENT: Yeah I have shingles; I have shingles two months ago.
+DOCTOR: Where were you?  Who diagnosed you with shingles?
+PATIENT: Over here DOCTOR from DOCTOR.
+DOCTOR: Can I see it?
+PATIENT: Yeah you can see it.  You can see the shingles.  Okay you ready?
+DOCTOR: Uh-huh.  Where is it?
+PATIENT: It's right here.
+DOCTOR: Oh right along here?
+PATIENT: Yeah.  The pain is still in the center.
+DOCTOR: Yeah.
+PATIENT: The pain is still in the center right here.
+DOCTOR: Right here?
+PATIENT: No no, the pain is still in the center of where there's no, no [REDACTED] remains.
+DOCTOR: Okay, can you point to where the pain is?
+PATIENT: No I can't, I can't reach it.
+DOCTOR: Okay, it's back here?
+PATIENT: Right, yes.
+DOCTOR: Back here?
+PATIENT: Yes.
+DOCTOR: Okay.  Okay that's fine, that's fine.
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: About [REDACTED] straight up.
+DOCTOR: Okay.
+PATIENT: Okay.  And then the pain, the pain stays there.
+DOCTOR: Okay.
+PATIENT: And it comes out way over here.  Right here and right here.
+DOCTOR: Okay.  Does it all feel like, cause you came here in March for pain.  Does it all feel like the same pain?
+PATIENT: The same pain.
+DOCTOR: It's the same pain.
+PATIENT: The same pain.
+DOCTOR: Okay, what does it feel like?
+PATIENT: It feels sharp pain.
+DOCTOR: Sharp?
+PATIENT: Both sides yes.
+DOCTOR: Okay, like someone's stinging you?
+PATIENT: It's stinging me sometime and it's steady.
+DOCTOR: Steady?
+PATIENT: Steady pain.
+DOCTOR: Okay.  Do you have trouble breathing?
+PATIENT: No.
+DOCTOR: No okay.  So it's not like, you don't feel like someone's sitting on your chest or anything.
+PATIENT: No.
+DOCTOR: No.  Okay.
+PATIENT: No.
+DOCTOR: Okay and the Vicodin isn't strong enough?
+PATIENT: Uh the Vicodin and the other one.
+DOCTOR: Gabapentin.
+PATIENT: Gabapentin and the Vicodin and the [REDACTED].
+DOCTOR: Yeah.
+PATIENT: None of it does anything.
+DOCTOR: Alright.  Let me see what else we can give you.
+PATIENT: Uh the doctor, I saw the doctor outside.  I got the nurse and a doctor coming over to the house.
+DOCTOR: Uh-huh.
+PATIENT: And they gave me some tramadol.
+DOCTOR: Okay.
+PATIENT: Tramadol.
+DOCTOR: Yeah did that work?
+PATIENT: No I don't know, I haven't got it yet.
+DOCTOR: You haven't gotten it yet?
+PATIENT: At least that's what he prescribed.
+DOCTOR: Okay.
+PATIENT: He prescribed me two medicines.  I want to see if I could get them over here.
+DOCTOR: Okay.
+PATIENT: There are two medicines.
+DOCTOR: Okay yeah we can get them for you.
+PATIENT: I could want to know how come I got the shingles for the longest.
+DOCTOR: How, why do have shingles?  You [REDACTED].
+PATIENT: Yeah I want to know.
+DOCTOR: There's no reason, people just get it.
+PATIENT: Huh?
+DOCTOR: People just get it.  If you had um, people just get it.  There's no reason people get it.
+PATIENT: Yeah but why do I have the pain so long?
+DOCTOR: That's, it lasts a long time.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: Even when I get medicine from the doctor, [REDACTED].
+DOCTOR: These are just pain medications to kind of help but it doesn't, it's not curing anything.
+PATIENT: Oh no.
+DOCTOR: No, we don't really have a medication to cure it.  You just have to wait for it to get better.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: The [REDACTED] two more years and that's good for me?
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED] house.
+DOCTOR: Uh-huh.
+PATIENT: And he said that [REDACTED] he got this when he was 20.
+DOCTOR: Hmm.
+PATIENT: Why do he have it when he was 20?
+DOCTOR: I don't know him.  I don't know why he had it when he was 20.
+PATIENT: I talked to him and he said that he got a cream, he said a Benadryl cream.
+DOCTOR: Benadryl cream.
+PATIENT: The doctor gave him the Benadryl cream and he had it about a month and that was it.
+DOCTOR: Yeah.  I don't know what Benadryl cream is.  I don't know what he had.
+PATIENT: Yeah he got the shingles.
+DOCTOR: Yeah.
+PATIENT: When he was 20.
+DOCTOR: That's odd to get it in your 20s.
+PATIENT: Yeah I talked to another guy and he said that he had it when he was 40.  So why did I wait until I'm 74 and then I get it?
+DOCTOR: Some people, people get it at different times.  It's hard to say.  Not everybody gets it at 20 or 40 or 50 and some people don't ever get it.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: But he got it when he was 20.
+DOCTOR: Yeah.
+PATIENT: He works in construction now.  Okay well then uh.
+DOCTOR: Do you check your blood sugars at home?
+PATIENT: Yeah.
+DOCTOR: What do they run?
+PATIENT: Oh man they run high.
+DOCTOR: You increased your medication right?
+PATIENT: Yes.
+DOCTOR: Well how much are you taking of the metformin?
+PATIENT: Metformin I'm taking 1000.
+DOCTOR: You're taking 1000 okay.
+PATIENT: I'm taking 1000 in the morning and 1000 in the evening.
+DOCTOR: Okay.
+PATIENT: It was 252 now.
+DOCTOR: Your blood sugars?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: It went to 254, now yesterday was 179.
+DOCTOR: Uh-huh.
+PATIENT: So the metformin stuff is good.
+DOCTOR: Yeah but that's not enough.
+PATIENT: Well [REDACTED] blood sugar supposed to be the way they treating it here 200s.
+DOCTOR: Yeah we're gonna have to add another medication, is that okay?
+PATIENT: No.
+DOCTOR: Why not?
+PATIENT: What other medication, I'm taking enough.
+DOCTOR: Well probably either glyburide or it’s another pill.
+PATIENT: Uh let me continue with this one and then I give you the ideas.
+DOCTOR: But your blood sugars are too high.
+PATIENT: Not too high because the 170s, probably if they go over 400s and 300s.
+DOCTOR: Yeah but 200 is still high.
+PATIENT: And they came down to 200 and they came down to 179s.
+DOCTOR: That's still too high.  We want it below 1, you know around 120.
+PATIENT: Uh give me the time and we’ll find out, because I just started.
+DOCTOR: You started.
+PATIENT: Started in [REDACTED].
+DOCTOR: In the beginning of March.
+PATIENT: Yes that started, that's what it takes but I didn't know.
+DOCTOR: But that's long enough.
+PATIENT: I think that's what it takes.  Let me continue with this and find out.
+DOCTOR: Okay.  You know it puts you at higher risk of having a heart attack right.
+PATIENT: Ah.
+DOCTOR: And it's probably why your shingles isn't healing.
+PATIENT: What about that cause the shingle now, let me continue with it 200 and find out.
+DOCTOR: Okay.
+PATIENT: Because it’s too soon. Too soon to try it.
+DOCTOR: Alright.  Your blood pressure's too high too.
+PATIENT: Yeah but [REDACTED] sometimes its high, sometimes it’s okay.
+DOCTOR: But you're taking the medications?
+PATIENT: Yes.
+DOCTOR: Oh you are on glipizide.
+PATIENT: [REDACTED] glipizide.
+DOCTOR: You are.  How much are you taking?
+PATIENT: Taking, I don't know, I don't remember [REDACTED].  Glipizide.
+DOCTOR: You're taking 10 maybe.
+PATIENT: Yes 10 mg glipizide.
+DOCTOR: 10 okay.
+PATIENT: Amlodipine I'm taking it 10 mg..
+DOCTOR: If we can increase the glipizide, I don’t know if we can, but would you be okay with that?
+PATIENT: With what?
+DOCTOR: With increasing the glipizide?
+PATIENT: No.  Because I'm taking glipizide and I'm taking metformin.
+DOCTOR: I know but your blood sugar is too high.  Are you, did you take the enalapril today?
+PATIENT: Yeah.
+DOCTOR: You did?
+PATIENT: Yes.
+DOCTOR: Would you be okay with adding another medication for your blood pressure?
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: They changed it from what it is.
+DOCTOR: Are you taking amlodipine, you said you're taking amlodipine too.
+PATIENT: That's another well see I'm taking [REDACTED].  I'm taking gabapentin, taking [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I'm taking metformin.
+DOCTOR: Uh-huh.
+PATIENT: Taking pantoprazole and taking enalapril.
+DOCTOR: Uh-huh.
+PATIENT: That's enough pills for one person.
+DOCTOR: Are you taking amlodipine or not?
+PATIENT: I am taking amlodipine.  That's too many pills for one person.
+DOCTOR: Uh the problem is your, okay you know the risks though.  Your blood pressure's too high, you can have a stroke.
+PATIENT: The blood pressure's go high and the blood pressures go down, blood pressures go down, blood pressure was 252 and it went down right now to 179, 160, 149.
+DOCTOR: Yeah but that's still too high.
+PATIENT: 139, you want it 120 right?
+DOCTOR: Yeah I do.
+PATIENT: Yep, 120.
+DOCTOR: Alright, let’s work on your diabetes first, that's the main thing.
+PATIENT: Sometimes it goes down; blood pressure goes down, goes up and goes down.
+DOCTOR: Alright, we're gonna see you back in a month.  If your blood sugar is still too high.
+PATIENT: Yeah.
+DOCTOR: We're gonna have to add something or go up on one of your medications.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Is that okay.
+PATIENT: Yeah one month, yeah.
+DOCTOR: In one month and it may have to be insulin.
+PATIENT: No, I don't want to do it.
+DOCTOR: Even if it means you could die?
+PATIENT: Exactly.  I don't want no insulin.
+DOCTOR: Okay well I want you to think about it.
+PATIENT: [REDACTED].  Sometimes it coming up and exercise and other stuff [REDACTED].  What I want to do is get rid of this pain.
+DOCTOR: We'll work on the pain okay.  But that's also not going to get better if your blood sugar is too high, your body can't fight infections.
+PATIENT: That so.
+DOCTOR: And that's what's happening.  So shingles is an infection.
+PATIENT: They say that shingles come from a virus.
+DOCTOR: Yeah it is a virus and that's an infection and your body can't fight it if your blood sugar is too high.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: Hmm, what can they do for the blood sugars?
+DOCTOR: That's what I'm saying.  We could either increase, I don't know I have to check if I can increase your glipizide but I think you might be on the maximum dose and then we would have to add insulin.
+PATIENT: Maximum dose of what?
+DOCTOR: The glipizide, the 10 mg.
+PATIENT: [REDACTED] diabetes, I be taking the glipizide, I'm taking enough glipizide.
+DOCTOR: Well for some people that's enough but for you it’s not.  Your diabetes is more severe.
+PATIENT: [REDACTED].  Uh-huh.  Okay give me a month then [REDACTED].
+DOCTOR: Okay, alright let me talk to DOCTOR okay.
+PATIENT:
+DOCTOR: here?
+DOCTOR: Yep.
+PATIENT: Oh, supposed to be a patient [REDACTED] six months or seven months.
+DOCTOR: Okay let me talk to her and I'll be back.
+PATIENT: Okay.
+(DOCTOR OUT: 34:03  DOCTOR IN:  41:30)
+PATIENT: I got another appointment for 3 o'clock now.
+DOCTOR: At 3, well okay. I didn’t know taht.
+PATIENT: [REDACTED] in the computer.
+DOCTOR: Yeah.  But you came late.
+PATIENT: [REDACTED] I don't know is I got to go to the drug store and I got to go, you get the medicine right there, you put it in the computer right.
+DOCTOR: I'm putting them in.  Okay.  That's fine.  I can put in the medications um.  Do you want to go to the Pain Clinic to see if they can do something else for your pain?
+PATIENT: The Pain Clinic, what is the Pain Clinic [REDACTED]?
+DOCTOR: It's here.  It's in the hospital.  They may be able to do something else for your pain.
+PATIENT: Uh-huh.
+DOCTOR: But it's up to you.  Do you want to go?
+PATIENT: Yeah.  But I want to go to the other place before they close, the place I have an appointment.
+DOCTOR: Okay.  Let me.
+PATIENT: When I got the appointment nothing but a half an hour and they told me to come for this appointment.
+DOCTOR: Yeah.
+PATIENT: How much is the Pain appointment?
+DOCTOR: How much?
+PATIENT: Yeah how long is it going to take.
+DOCTOR: They're not gonna do it today, they'll call you with it.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.
+PATIENT: Oh okay then they could call me anytime and then make the appointment cause I want to go to this other place.
+DOCTOR: Yeah.
+PATIENT: This other place wanted to [REDACTED].
+DOCTOR: Okay how about you go to the, your other appointment.  I'll put in these meds, the two meds that the doctor said.
+PATIENT: Yeah.
+DOCTOR: In the computer and then you can go pick it up from the Pharmacy.
+PATIENT: Yes.
+DOCTOR: And they'll send you a letter in the mail regarding the Pain appointment.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: How's that?
+PATIENT: Okay and I come back in a month I definitely will need a paper to get to, I got to put in the office there.
+DOCTOR: Alright.  When are you checking your blood sugars?
+PATIENT: Huh?
+DOCTOR: When are you checking your blood sugars?  Are you checking them after you eat?  Before you eat?
+PATIENT: Before I eat.
+DOCTOR: Okay keep doing that.
+PATIENT: Okay before I eat.
+DOCTOR: Yes and can you bring in your meter next time?
+PATIENT: Yeah but I mean before I eat, that means before I eat, I eat.
+DOCTOR: No check your blood sugars.
+PATIENT: Before I eat.
+DOCTOR: Before you eat.
+PATIENT: I can't do that.
+DOCTOR: Why not?
+PATIENT: Because you're supposed to take nothing today, my pills before you eat, you empty stomach.
+DOCTOR: I'm not telling you to take your pills then; just I just want to know what the blood sugar is.
+PATIENT: The blood sugar you're telling me to take it before I eat.
+DOCTOR: Yes.
+PATIENT: But I can't do that.
+DOCTOR: Why not?
+PATIENT: Because you're not supposed to take no pills before you eat.
+DOCTOR: I'm not saying take your, not to take your pills, check you know how you poke your finger and take your blood.
+PATIENT: Yeah and then.
+DOCTOR: Do that before you eat.
+PATIENT: And then yeah, I do that before I eat.
+DOCTOR: Oh okay well that's it.
+PATIENT: And then uh before I eat and then I take the pills after I eat.
+DOCTOR: Okay that's fine.
+PATIENT: Okay.  And this I give to the people [REDACTED].
+DOCTOR: Up front.
+PATIENT: And you want to put in the computer.
+DOCTOR: I'm going to put the medicines in the computer.
+PATIENT: Okay, don't forget now.
+DOCTOR: Okay.  I'm not; I'm doing it right now.
+PATIENT: Oh then what you set-up to come back in a month?
+DOCTOR: Yeah.
+PATIENT: You put it in over here.
+DOCTOR: That's what that paper is.
+PATIENT: Okay.
+PATIENT: 45:24
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286130
+TRANSACTION # 578-10-2-316-0103

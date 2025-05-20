@@ -1,0 +1,397 @@
+DOCTOR: PATIENT.
+PATIENT: [REDACTED].
+DOCTOR: I saw that maybe you have some arthritis.
+PATIENT: Not only that my legs are puffing up now.
+DOCTOR: Are you wearing the stockings anymore?
+PATIENT: I'm wearing them right now.  I wore them every day for three weeks, it hasn't changed [REDACTED].
+DOCTOR: Let's see.  [REDACTED].
+PATIENT: Yeah.
+DOCTOR: And you lost four pounds.
+PATIENT: Uh-huh.
+DOCTOR: Since the last time I saw you in July.
+PATIENT: But today I weighed 190.
+DOCTOR: I know, so um.
+PATIENT: I just wanted to show you the differece.
+DOCTOR: Uh-huh.
+PATIENT: This one is real swole and this is  [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And I've been wearing the stockings but I'm running low, this is the last pair I got.
+DOCTOR: How long do they last you?
+PATIENT: They last me maybe I get two pair and they last me maybe four months, they’ll rip.
+DOCTOR: They’ll tear?
+PATIENT: They’ll tear.
+DOCTOR: Hmm.
+PATIENT: And I don't put them in the washing machine. I wash them by hand.
+DOCTOR: This is your second pair?
+PATIENT: Oh Hell no, I mean [REDACTED] tons of them.
+DOCTOR: Who were you getting them from?
+PATIENT: [REDACTED] prosthetics.
+DOCTOR: [REDACTED].
+PATIENT: Oh yeah.
+DOCTOR: Okay good, yeah I mean continue that.
+PATIENT: Well no I see other doctors.
+DOCTOR: You need a prescription for them?
+PATIENT: Oh yeah right.
+DOCTOR: So you need uh, let's see the last time was in four months we’ll sent that. So um are you checking your finger stick glucoses in the home?
+PATIENT: I don't even know what that is.
+DOCTOR: For your, with the diabetes.  You're taking the metformin for the diabetes.
+PATIENT: Yeah but nobody ever told me anything about sticks.
+DOCTOR: You're not checking your sugars?
+PATIENT: Oh no.
+DOCTOR: Oh okay.
+PATIENT: [REDACTED] oh yeah.
+DOCTOR: Alright.  Um I think it'd be a good idea to have you start.  @@ check it every other day, check your numbers.
+PATIENT: Uh-huh.
+DOCTOR: And it looks like your diabetes is a little worse.
+PATIENT: Uh-huh.
+DOCTOR: Um cholesterol is okay.
+PATIENT: And the diet, [REDACTED] diabetic so.
+DOCTOR: How’s your breathing been?
+PATIENT: Well, you know I took, you signed up for the test, how'd I do?
+DOCTOR: It looks like you have uncontrolled obstructive sleep apnea.
+PATIENT: Good.
+DOCTOR: [REDACTED].
+PATIENT: Cause they came back and said I [REDACTED], cause that's the worst diagnosis in the world.  I got every symptom [REDACTED].
+DOCTOR: Yeah.  They want to set you up with a machine to help you breathe.
+PATIENT: Yeah.
+DOCTOR: They probably want you on a CPAP.
+PATIENT: That's [REDACTED] oxygen.
+DOCTOR: It doesn't, I don't think that you needed oxygen uh intermittently to provide pressure.
+PATIENT: Yeah, yeah I [REDACTED] that.
+DOCTOR: CPAP.  Have you ever used it before?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I read about it [REDACTED].  And I went up there and talked to the gal up there and I read up on that and did some research.
+DOCTOR: Oh it was DOCTOR [REDACTED].  So have an appointment with DOCTOR on the 25th of this month.
+PATIENT: Yeah.
+DOCTOR: That's when they'll set you up with that.
+PATIENT: That's weird.  A psychiatrist can set you up with a breathing machine.
+DOCTOR: [REDACTED].
+PATIENT: Yeah she's my psychiatrist.
+DOCTOR: Oh yeah she can put that in.
+PATIENT: No she had [REDACTED].
+DOCTOR: [REDACTED] I don't see if she put in for that.  Who is DOCTOR?
+PATIENT:
+DOCTOR: my – she’s a social worker.
+DOCTOR: Okay.
+PATIENT: She’s right next door to Pulmonary.
+DOCTOR: Alright so you're gonna need a Pulmonary follow-up appointment.
+PATIENT: Yeah, she’s not a doctor, she’s a social worker.
+DOCTOR: Yeah, we can set it up for you.
+PATIENT: The last time [REDACTED] meds.
+DOCTOR: What's that?
+PATIENT: The last time you saw me you were supposed to have the meds so then [REDACTED] on the machine, uh the cell phone and then they said it wasn't orderable.
+DOCTOR: And what wasn't orderable.
+PATIENT: The inhaler.
+DOCTOR: Oh, you mean.
+PATIENT: So I don't know if you forgot to put it all in or what but it really screwed me up because then I had to go through hell to find a doctor or a pharmacist or somebody, finally got back to me and so [REDACTED].
+DOCTOR: Okay, so we're talking about your pump.
+PATIENT: [REDACTED] four different kinds.
+DOCTOR: Okay you want it mailed to you?
+PATIENT: Yeah, all the medications should be mailed.
+DOCTOR: Okay so I'll put in the albuterol.  Have you been out of these?
+PATIENT: The albuterol I was and I called them and went through a couple of hoops. [REDACTED]
+DOCTOR: Okay.
+PATIENT: They tell you one thing when you're on the phone and then you call up the Pharmacy oh no you can get it.
+DOCTOR: Okay. Sorry about that.
+PATIENT: That's alright.
+DOCTOR: And you're on the mometasone.
+PATIENT: Uh-huh.
+DOCTOR: You're on the formoterol and the albuterol.  Is there anything else that you're taking?
+PATIENT: Yeah, there’s one other thing.
+DOCTOR: There’s a fourth one?
+PATIENT: Yeah.  Let me ask you the fancy name [REDACTED] I can’t remember it. One is one you turn and it disperses the powder automatically every time you open it.
+DOCTOR: Right.
+PATIENT: The other two you have to pierce that capsule, [REDACTED] the other two are the ones you carry around albuterol and the other one. Although I think they tried to combine them.
+DOCTOR: The Combivent [REDACTED].
+PATIENT: Oh that's it.
+DOCTOR: Yeah. That’s terrible. I'm really sorry that you needed to go without it.
+PATIENT: Oh, it was – well, it is a big deal when you need it.  When I climbing the stairs, I'm on the second floor and it's got a third floor [REDACTED], I got to rest halfway up and sit down on the stairs.  There's no way I can get one of those walkers with a seat is there?
+DOCTOR: Um that's possible I think.  Do you feel like you need that?
+PATIENT: Yeah.
+DOCTOR: Do you get shortness of breath?
+PATIENT: No just like I said shortness of breath is one thing.  I get out of breath about a half a block to a block but it's the waiting for the buses, I take a lot of buses.
+DOCTOR: Yeah.
+PATIENT: And a lot of times there’s no seat there and I'll stay on my feet for 40 to 30 minutes and I'm telling you, it kills my legs really bad.
+DOCTOR: Hmm.  Are you taking Tylenol for your pain?  Does that help?
+PATIENT: Yeah.
+DOCTOR: Okay I'll renew that.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] you still having bedbugs?
+PATIENT: Oh yeah, we haven’t really [REDACTED].
+DOCTOR: And Dermatology gave you some stuff, does that help at all?
+PATIENT: Yeah it helps.
+DOCTOR: Okay.
+PATIENT: They gave me something for the itching I'd never heard of [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: But then he gave me this pink stuff [REDACTED].
+DOCTOR: Calamine?
+PATIENT: Yeah that's it.
+DOCTOR: Okay.
+PATIENT: And that helps a lot, especially after I just get them, I put it on and it doesn't itch at all [REDACTED].
+DOCTOR: Okay do you [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Do you still have those [REDACTED]?
+PATIENT: Uh I'm almost out.
+DOCTOR: Okay.  Your blood pressure's doing pretty good.
+PATIENT: Yeah I'm surprised because yesterday I took it, it was high and I had a slight fever, 99.1.
+DOCTOR: Hmm.
+PATIENT: I got a cold or something [REDACTED] yellowish gray, I got an infection, I guess.
+DOCTOR: Are you still smoking?
+PATIENT: Oh I [REDACTED].  I [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I’m sucking those hard candies.  [REDACTED] to try to cut down on the smoking.
+DOCTOR: Did it help?
+PATIENT: A bit but it's like giving me something to do [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  I just got over [REDACTED] from that.  [REDACTED].
+DOCTOR: Yeah [REDACTED].
+PATIENT: Yeah. [REDACTED]
+DOCTOR: Okay.  Have you been having episodes of chest pain?
+PATIENT: Uh only when I'm out of breath [REDACTED] you know something [REDACTED] hurts. Sucking air.
+DOCTOR: Uh-huh.  So we could give you some [REDACTED] mask thing.
+PATIENT: Uh-huh.
+DOCTOR: Would you use it?
+PATIENT: Yeah.
+DOCTOR: I think that'll help you to breathe.
+PATIENT: I [REDACTED] for the test and woke up and was half gasping for breath [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: So your A1C, which is a measure for your diabetes is a little bit higher since August. I'm gonna give a little bit more so I think we should increase your diabetes medication.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: I take two tablets now.
+DOCTOR: Right we could give you the 500.
+PATIENT: Yeah.
+DOCTOR: And we can give you a finger stick, a glucose meter for at home.
+PATIENT: Uh-huh.
+DOCTOR: Where you put the strips in the machine.
+PATIENT: Oh yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah, right I see.
+DOCTOR: Yeah definitely we need to have you um start doing that.  I'm not sure you haven't done it before.
+PATIENT: [REDACTED].  There is no such thing as a borderline diabetic according to DOCTOR.
+DOCTOR: There is.
+PATIENT: Is there?
+DOCTOR: Yeah there is.
+PATIENT: Oh cause that's what I was told [REDACTED].
+DOCTOR: But now you're at the point where you're definitely diabetic.
+PATIENT: Oh yeah, yeah.  [REDACTED]. I kinda figured that, but they never did tell me to take any kind of blood tests [REDACTED] I don't know.  I guess they were treating me with medications.
+DOCTOR: You're due for the TDAP vaccine are you gonna get that today?
+PATIENT: What's that?
+DOCTOR: Prevents tetanus, diphtheria, and pertussis.
+PATIENT: She asked me when the last time it was I got it and I said I don't know.
+DOCTOR: The last time you had it was in 2000. You’re supposed to get it every ten years.
+PATIENT: Oh okay.  Maybe if she'd have told me that, that I should get it.
+DOCTOR: Yeah she can give it to you today.
+PATIENT: Good.  Is it a long wait?
+DOCTOR: No.  Um what about a colonoscopy?
+PATIENT: Uh uh.
+DOCTOR: Still don’t want that.
+PATIENT: Not yet.
+DOCTOR: Okay.
+PATIENT: Why are my legs all puffed up?
+DOCTOR: It’s probably from, have you ever had tests done on your heart?  [REDACTED].
+PATIENT: Uh a couple of times.
+DOCTOR: Let's see when that was doine.  It could be from different reasons.  It could be from your kidneys or [REDACTED].
+PATIENT: Sure.
+DOCTOR: Um it could be from, it also could be from your heart if you have longstanding problems like diabetes and hypertension it can cause swelling in your legs, also the shortness of breath.  And [REDACTED] smoking and lung disease.
+PATIENT: Yeah I've been smoking a pipe, I never smoked [REDACTED].
+DOCTOR: Oh okay but still, it still um could be from that or it could be from the lungs or it could be from the heart.
+PATIENT: I see.
+DOCTOR: [REDACTED] the swelling.
+PATIENT: Oh [REDACTED].
+DOCTOR: [REDACTED].  So let me see when the last check-up you had was [REDACTED].
+PATIENT: And an EKG would be great.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: You had a stress test in 2003.
+PATIENT: [REDACTED] treadmill are they.
+DOCTOR: No [REDACTED].
+PATIENT: Yeah, right.
+DOCTOR: And I'll just [REDACTED].
+PATIENT: Hmm.
+DOCTOR: It’s probably worth repeating.
+PATIENT: Okay.
+DOCTOR: Um [REDACTED] echo [REDACTED].  Okay, have a seat up here.
+PATIENT: You don’t have any new legs back there, somewhere, do you?
+DOCTOR: What's that?
+PATIENT: You don’t have a pair of new legs back there somewhere? Pop them on?
+DOCTOR: New legs? I wish.
+PATIENT: Yeah.  That would be nice.
+DOCTOR: Um I referred you to the MOVE Clinic, the weight loss clinic. I didn’t see that you made that.
+PATIENT: I didn’t see anything on there.
+DOCTOR: Oh really.
+PATIENT: Nobody contacted me, nobody called me.
+DOCTOR: Hmm.
+PATIENT: I [REDACTED].
+DOCTOR: [REDACTED] deep breath okay.  [REDACTED] look here [REDACTED].
+PATIENT: I don't like [REDACTED].
+DOCTOR: [REDACTED].  You wouldn’t have gone if [REDACTED] referred.
+PATIENT: Yeah.
+DOCTOR: How are you going to lose weight then?
+PATIENT: I don't know.
+DOCTOR: Open your mouth, say ah.
+PATIENT: Ah.
+DOCTOR: Okay.
+PATIENT: I know when my legs swell; I'm real tender under the stomach here.
+DOCTOR: Really.
+PATIENT: Yeah you push down and it hurts.
+DOCTOR: Are you drinking alcohol?
+PATIENT: Uh I don't do that.  [REDACTED] I went to the ATP classes.
+DOCTOR: Really.  Take some deep breaths.  Again.  Your lungs sound pretty good.
+PATIENT: Yeah they do [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Usually I wheeze.
+DOCTOR: Okay.  Let me see when the last time you had an EKG was.
+PATIENT: Right.
+DOCTOR: It's probably been some time, right?
+PATIENT: Yeah, at least a year I think.
+DOCTOR: 2007.
+PATIENT: I know.  [REDACTED] the heart [REDACTED] heart rate was 50 [REDACTED] oh yeah.  I truly [REDACTED].
+DOCTOR: Hmm.  Your [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Alright let me go talk to my boss.  I'll be right back.
+PATIENT: Who's your boss?
+DOCTOR: DOCTOR.
+PATIENT:
+DOCTOR: .
+DOCTOR: [REDACTED].
+PATIENT: Very impressive.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Laughs.
+DOCTOR: I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  62:28  DOCTOR IN:  72:38)
+DOCTOR: Do you want to know the verdict?
+PATIENT: Alright doctor.
+DOCTOR: So um I took a look at some of your cardiac studies, to try to see the performance.
+PATIENT: Uh-huh.
+DOCTOR: We pulled it up and your echo looked okay.  I don't think, it's very unlikely to be coming from your heart.
+PATIENT: Okay.
+DOCTOR: Um it's probably from your combined asthma/obstructive sleep apnea.
+PATIENT: Okay.
+DOCTOR: The blood pressures in the pulmonary arteries that are in the lungs is pretty high.
+PATIENT: Oh okay.
+DOCTOR: And that makes me think it's coming from here.
+PATIENT: Oh okay.
+DOCTOR: So I think with the CPAP uh that should help you.
+PATIENT: Sounds good.
+DOCTOR: But we can definitely, we're gonna start you on medication to help with the swelling in your legs.
+PATIENT: [REDACTED].
+DOCTOR: Um and we also want to go up on your diabetes meds.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Did you ask her about that little chair?
+DOCTOR: Yeah we'll definitely look into that.
+PATIENT: Great, terrific.
+DOCTOR: Um.
+PATIENT: It'll help me out in three different ways.
+DOCTOR: You have to come back though for some blood work on this medication to help you pee and for the swelling because it can mess up your potassium and electrolytes and stuff.
+PATIENT: Okay yeah you gotta keep track of that.
+DOCTOR: We just have to follow it yeah.  Let's see here so.
+PATIENT: Want a piece of candy?
+DOCTOR: Oh no thanks I already had, I already ate.  I'm a diabetic too so.
+PATIENT: Are you really?
+DOCTOR: Yeah.
+PATIENT: So you do that blood test and all the time too.
+DOCTOR: Yeah I check my finger sticks three or four times a day.
+PATIENT: Alright.
+DOCTOR: So we're going up on the metformin.  So now you were taking 500 twice a day of the metformin for your diabetes.  Now you're gonna be taking twice that.  You're taking one gram.
+PATIENT: Okay.
+DOCTOR: Okay.  And let's see we are also going to start you on something called Lasix flushing the kidneys.  It helps to basically increase the amount of urine.
+PATIENT: Oh yeah.
+DOCTOR: It basically ups the urine.
+PATIENT: I pee all the time anyway.
+DOCTOR: I know but that might be because of the diabetes so if you get the blood sugars down then you might not pee as much.
+PATIENT: Alright, alright.
+DOCTOR: Now when you pee you'll actually.
+PATIENT: Get [REDACTED].
+DOCTOR: Be [REDACTED].
+PATIENT: Yeah okay.
+DOCTOR: So um but along with the pee, is it also [REDACTED] potassium.
+PATIENT: Oh yeah.
+DOCTOR: Magnesium, stuff like that can get low.
+PATIENT: Yeah.
+DOCTOR: Check your levels.
+PATIENT: Yeah.
+DOCTOR: Check your levels a little bit.  We'll start with um, I think we're gonna start with 20 mg twice a day.  This stuff works for around six hours, so when you take it you have to put your legs up and then all that water will be resorbed into your body and [REDACTED].
+PATIENT: I [REDACTED].
+DOCTOR: It [REDACTED].
+PATIENT: I do that now, I elevate my legs as much as possible and I don't, nothing seems to help.
+DOCTOR: Can you give us a urine test today too?
+PATIENT: Sure.
+DOCTOR: Okay.
+PATIENT: I'm a giving guy.
+DOCTOR: Great.
+PATIENT: How many gallons do they want?
+DOCTOR: As much as you can make, I guess.  Um let's see here, I’ll order the labs now.  You should come back in probably about two weeks to get your blood tests checked.
+PATIENT: Okay.
+DOCTOR: Then I'll follow up myself to let you know.
+PATIENT: Yeah.
+DOCTOR: If something's abnormal.
+PATIENT: And what about the compression stockings?
+DOCTOR: Yeah I'll order them now.  That, as you know, takes a little bit of time.  I'll give you a call and let you know if they're in.
+PATIENT: Oh they've got them up there all the time?
+DOCTOR: They, if you go up there immediately yeah.
+PATIENT: Yeah.
+DOCTOR: I'll put in the order.
+PATIENT: If it's in the computer they got them.  If it ain't in the computer they don't have it.
+DOCTOR: Let's see here and one of the notes has the size in there so let me see what your size was.
+PATIENT: I think it's like the second from the top.  Yeah I get these shooting pains all the way down to my toes right now.
+DOCTOR: Uh-huh.
+PATIENT: Yeah in my legs to my toe.
+DOCTOR: [REDACTED] walker.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Sure would help me out.
+DOCTOR: Are you gonna pick it up or how will we get it to you?
+PATIENT: Well it would be coming from Prosthetics.
+DOCTOR: Yeah.
+PATIENT: Yeah I'd go up and get it.
+DOCTOR: Okay.  Okay so we're gonna have you see the nurse in three weeks um.
+PATIENT: This stuff shows in the print-out, oh yes.
+DOCTOR: Yeah well they'll, I think they make the appointment for you and then they'll give you something to take home to remind you.
+PATIENT: Alright.
+DOCTOR: And then also I'll send you a letter when you're gonna see me next as well.
+PATIENT: Okay.
+DOCTOR: Okay.  So.
+PATIENT: Well I don't, I'll probably hear now.
+DOCTOR: And TDAP.
+PATIENT: Oh for what?  Keep that?
+DOCTOR: No TDAP vaccine.
+PATIENT: Oh that's right.  Do I just go to the nurse now and get it?
+DOCTOR: Yeah I think you, oh the pulmonary function; I'll put that in there now.
+PATIENT: You want it right now?
+DOCTOR: I think [REDACTED] regular [REDACTED] yeah over here and um.  You already have your appointment right?
+PATIENT: No.
+DOCTOR: You didn't have it right?
+PATIENT: All I know is I went overnight and I never heard back and that was it.  So I figured [REDACTED].
+DOCTOR: So I'll talk to them.  So the pulmonary appointment and [REDACTED] up front and we'll be able to see you back [REDACTED].
+PATIENT: Okay thank you.  Your name is DOCTOR?
+DOCTOR: Uh DOCTOR.
+PATIENT: Oh DOCTOR.
+DOCTOR: Yeah.
+PATIENT: Oh why does it say DOCTOR.
+DOCTOR: This is the name of the next patient I’m seeing
+[REDACTED].  Oh don't forget to go to the Lab so you can get those tests.
+PATIENT: Yeah I'll do that.
+DOCTOR: Great, okay we'll see you soon then okay.
+PATIENT: Okie dokey.
+DOCTOR: It was nice to see you again.
+PATIENT: Yeah.  I'm glad you're gonna be a permanent and not a part-time.
+DOCTOR: Uh-huh.  Take care.  Stay warm.
+PATIENT: Yeah I know it can really get cold this time of year.
+DOCTOR: [REDACTED].
+PATIENT: Oh okay.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I know I think this is blood pressure [REDACTED].
+DOCTOR: Right.
+PATIENT: 81:10.
+Time is 2:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300311
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,124 @@
+DOCTOR: How may I help you?
+PATIENT: I'm I'm here because my right knee is very painful. It looks kind of swollen and it's it's also a little bit warm so I'm just worried, I'm worried about it and I was wondering if you could look at it.
+DOCTOR: Yeah, certainly, um. So where are you feeling the the pain exactly?
+PATIENT: So it's where, so right in the middle of my knee. So just below the bone that, the big knee bone.
+DOCTOR: OK, so like underneath the kneecap, like below that?
+PATIENT: Yeah just just a little bit below.
+DOCTOR: OK, so slightly below the Patella. Sounds like somewhere in the region of the tibial through tuberosity.
+PATIENT: Right.
+DOCTOR: OK, and when did this pain start?
+PATIENT: It started about two weeks ago.
+DOCTOR: OK, two weeks ago when the pain started, was there any trauma or could you remember any movement that that caused the pain?
+PATIENT: Nothing like that, but I recently found out that I had some osteoarthritis on my left knee, so I was trying to put more pressure on my right knee one whenever I was doing like gardening work um and I think something something may have happened when I was doing that, something maybe, maybe I put too much strain on it.
+DOCTOR: OK, I see an. Alright, like are you doing a lot of kneeling on on or during the gardening work?
+PATIENT: I am.
+DOCTOR: OK. Um, and. How long has the pain been going on for, has it been constant over these two weeks?
+PATIENT: Yes, it has been.
+DOCTOR: OK, and how would you describe the pain, is it sharp, burning, achy?
+PATIENT: I would say mostly achy, but it can be sharp.
+DOCTOR: OK, and do you feel the pain radiate anywhere else?
+PATIENT: No, just it's pretty local.
+DOCTOR: OK, have you tried anything to make the pain better?
+PATIENT: I tried some topical like what are those like ice and fire gels. Those seem to help temporarily, but the pain comes back.
+DOCTOR: OK. And. Have you tried, has anything made the pain worse?
+PATIENT: I guess like when I kneel down on it, it gets painful or If I touch it or palpate it, I guess painful if I'm I'm flexing my knee too much that hurts as well. Kind of keeping it straight and not touching it makes it feel better.
+DOCTOR: OK, and. What would you say the severity of the pain is with 10 being the worst pain you've ever felt and one being the least pain?
+PATIENT: I give it about a 6.
+DOCTOR: OK, and have you had a pain like this in your right knee before?
+PATIENT: No, nothing like this and I have osteoarthritis in my left knee but it feels different.
+DOCTOR: OK, and um. OK, and have you had any fevers or chills?
+PATIENT: Uhm, no.
+DOCTOR: OK, and how about any night sweats?
+PATIENT: No.
+DOCTOR: OK, and have you had any unexpected weight loss over the last several months?
+PATIENT: No.
+DOCTOR: Have you had any headaches?
+PATIENT: No.
+DOCTOR: Have you had any changes to your senses like vision or hearing?
+PATIENT: No
+DOCTOR: Any changes to your sense of smell or taste?
+PATIENT: No.
+DOCTOR: OK, have you had any sore throat or cough?
+PATIENT: No.
+DOCTOR: Alright, have you had any shortness of breath?
+PATIENT: No.
+DOCTOR: Have you had any wheezing?
+PATIENT: No.
+DOCTOR: Have you had any chest pain?
+PATIENT: No.
+DOCTOR: Had any lightheadedness or dizziness?
+PATIENT: Um no.
+DOCTOR: Have you had any heart palpitations?
+PATIENT: No.
+DOCTOR: OK um an have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any diarrhea or constipation, or blood in the stool?
+PATIENT: No.
+DOCTOR: Have you had any pain with urination or frequency with urination?
+PATIENT: No.
+DOCTOR: OK, and have you had any like muscle aches or joint pains anywhere else?
+PATIENT: No.
+DOCTOR: OK, and have you had any neurological symptoms such as numbness or or tingling or reduced sensation?
+PATIENT: No.
+DOCTOR: OK, and how is your energy been recently have you had any fatigue?
+PATIENT: No, not really. It's been the same.
+DOCTOR: OK, and in the past have you been diagnosed with any medical conditions?
+PATIENT: Uhm I have Class 2 obesity. And then also arthritis in my left knee. As well as high blood pressure.
+DOCTOR: I see and. Do you take any medications?
+PATIENT: Currently I'm on Ramipril and I take some ibuprofen sometimes for the osteoarthritis in my left knee.
+DOCTOR: OK and, do you have any allergies to medications?
+PATIENT: No.
+DOCTOR: Have you had any surgeries before?
+PATIENT: Nope.
+DOCTOR: Or have you had any hospitalizations for any reason?
+PATIENT: No.
+DOCTOR: OK. And. Have you been pregnant in the past?
+PATIENT: Um I I have one, one child, she was born through c-section.
+DOCTOR: And are you currently sexually active?
+PATIENT: I am.
+DOCTOR: OK, could you tell me about your partner or partners?
+PATIENT: Yeah, so just with my husband of 10 years.
+DOCTOR: OK, any concerns for a sexually transmitted infection like vaginal discharge or or pain or itchiness?
+PATIENT: No.
+DOCTOR: OK. And could you tell me a little bit about your living situation currently, like who you're living with an whereabouts?
+PATIENT: Um I live in downtown London I live in a house with my husband and my daughter.
+DOCTOR: OK. And have you been around anybody who's been sick recently?
+PATIENT: No.
+DOCTOR: And have you traveled anywhere recently?
+PATIENT: No.
+DOCTOR: OK, are you currently working right now?
+PATIENT: I yes I am.
+DOCTOR: OK, well then what what do you do?
+PATIENT: I work as a full time gardener for a landscaping company.
+DOCTOR: OK, I see. So you're spending a lot of time doing kind of like repetitive kneeling type movements to do your job?
+PATIENT: Yes, that's right.
+DOCTOR: OK And do you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: Alright, and do you drink alcohol?
+PATIENT: I'll have a glass of wine every other night.
+DOCTOR: OK, and do you use any recreational drugs?
+PATIENT: No, I don't.
+DOCTOR: Have you used anything like that in the in the past.
+PATIENT: No
+DOCTOR: like IV drugs, no, OK. And in the family or is there a history of any musculoskeletal or neurological conditions?
+PATIENT: No.
+DOCTOR: OK. So next I just wanted to do the physical exam portion and ask you to have a look at the knee first and let me know if the if you're having any swelling, redness or warmth to the knee compared to the other side.
+PATIENT: Sure.
+DOCTOR: Sorry so you are having, having swelling, warmth and redness to the right knee?
+PATIENT: Yes.
+DOCTOR: OK and are you having pain to like palpation is there a specific spot you can press on that causes a sharp pain?
+PATIENT: Um so just below that kneecap area there is some swelling there and when I press down on that swollen area, it causes a bit of pain.
+DOCTOR: OK. And are you able to fully bend, bend and straighten the knee?
+PATIENT: I can do that, but when I bend my knee it really hurts.
+DOCTOR: OK. And are you able to walk normally or do you have a limp?
+PATIENT: Um I can walk normally, it just hurts.
+DOCTOR: OK. So that was a everything that I wanted to ask today on the history and and physical. Was there anything? That you maybe I forgot about you wanted to add?
+PATIENT: No, I don't think so.
+DOCTOR: OK, so right now it's sounding like this could possibly be a knee Bursitis. Or Prepatellar, or sorry, infra patellar bursitis or a prepatellar bursistis which are the kind of the more common types. One thing to make sure that we rule out would be a septic Bursitis. Although you're not having any fevers or chills so that makes it a little bit less likely.
+PATIENT: Mmmm
+DOCTOR: But if your symptoms are getting worse and you're developing a fever, it's becoming even more painful then certainly will have to rule out infection. And as well if things are not improving, potentially a structural disease and any, such as a meniscal injury, or like a ligamental injury from all of the like kneeling and and repetitive movements. But right now I think it's mostly sounding like a knee bursitis.
+PATIENT: OK.
+DOCTOR: OK, and treatment for that will be activity modification as well as using things like as um NSAIDS and icing to help with um the inflammation.
+PATIENT: OK, that sounds good, thank you.

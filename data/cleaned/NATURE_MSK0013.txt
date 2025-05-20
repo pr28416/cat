@@ -1,0 +1,138 @@
+DOCTOR: How may I help you?
+PATIENT: Hi, I'm here because I've had this numbness and tingling in my feet for awhile now and I started to notice these open wounds on my feet as well and I'm not feeling it, but it's there.
+DOCTOR: OK, and when did you first notice the numbness and tingling?
+PATIENT: It's been on going for the past like 2 years, but recently I've seen the past like 3 months it's gotten worse.
+DOCTOR: OK, and do you feel it in in both feet?
+PATIENT: Yes.
+DOCTOR: OK and, where about do you feel the numbness and tingling tingling. Do you feel like all the way up your up your leg, or is it only part way?
+PATIENT: It it goes right up until my ankles.
+DOCTOR: OK. And do you have wounds on your feet that like you, you don't notice them because you can't feel it?
+PATIENT: Yeah, I don't notice it because I can't feel it, but then I'll see them and they look bad.
+DOCTOR: OK, do you recall hitting your foot or off of anything or stepping on any objects that could have caused trauma to your feet?
+PATIENT: Um I mean it's possible um, but I didn't feel anything, so I'm not too sure about that. It is the summer, so I've been like going to the beach and when I'm at the park like I'll take off my flip flops.
+DOCTOR: OK, have you had any like muscle weakness, to your legs or feet?
+PATIENT: Hum, maybe a little bit of muscle weakness in my legs.
+DOCTOR: OK, have you had any problems with balance or have it you had any falls?
+PATIENT: No.
+DOCTOR: OK. Um and. Um OK, have you had any fevers or chills?
+PATIENT: No.
+DOCTOR: Have you had any night sweats?
+PATIENT: No.
+DOCTOR: And have you had any unexpected weight loss?
+PATIENT: No.
+DOCTOR: OK, have you had any headaches?
+PATIENT: No.
+DOCTOR: Alright, have you had any sensory changes like changes to your vision, hearing or sense of smell or taste?
+PATIENT: No.
+DOCTOR: Have you had any any sore throat or cough?
+PATIENT: Nope.
+DOCTOR: How about um any shortness of breath?
+PATIENT: No.
+DOCTOR: OK, have you had any wheezing?
+PATIENT: No.
+DOCTOR: Have you had any chest pain?
+PATIENT: No.
+DOCTOR: Any have you had any dizziness or lightheadedness?
+PATIENT: Nope.
+DOCTOR: Have you had any heart palpitations or feeling like your heart's racing?
+PATIENT: No.
+DOCTOR: Have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: How about any abdominal pain?
+PATIENT: No.
+DOCTOR: Have you had any changes to bowel movements like diarrhea or constipation?
+PATIENT: Nope.
+DOCTOR: OK. And have you had any urinary problems like frequency or painful urination?
+PATIENT: No.
+DOCTOR: OK, and have you had any rashes on your skin?
+PATIENT: No.
+DOCTOR: OK, and any muscle aches or joint pains?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and do you have any numbness or tingling to any other parts of your body?
+PATIENT: Maybe a little bit in my fingertips as well.
+DOCTOR: OK, and when did you first start noticing that?
+PATIENT: Um in the past year.
+DOCTOR: OK, and have you had any like like clumsiness or like dropping objects?
+PATIENT: Um yeah, definitely some of that like I'll find it hard to like open cans and bottles.
+DOCTOR: OK, any weakness in the hands?
+PATIENT: Um only when, only sometimes when I'm trying to grip things pretty hard.
+DOCTOR: OK, uh. And. Have you had any memory changes or any confusion?
+PATIENT: No.
+DOCTOR: OK, and have you had any any back pain?
+PATIENT: No.
+DOCTOR: OK, in the past have you been diagnosed with any? Or sorry before that and have you had any neck pain?
+PATIENT: No, no neck pain.
+DOCTOR: OK. And in the past, have you been diagnosed with any medical conditions?
+PATIENT: Um yeah, so I've been diagnosed with diabetes. Hypertension. Hypercholesterolemia. Obesity. And and I think, yeah, I think that's that's about it.
+DOCTOR: OK, and are you currently on any medications? Like do you have? Do you use insulin?
+PATIENT: I do so. I'm on insulin, short acting and long acting, I'm on Ramipril, I'm on Atorvastatin, yeah.
+DOCTOR: OK. an, and do you recall any like what your A1C has been in the past or, an have you had your eyes checked and kidneys checked?
+PATIENT: A1c has been pretty high. Especially recently I think it was eight point 8.1 or something. The last time I got it checked. I haven't had my eyes checked in awhile, and in terms of my kidneys, I think I did a urinalysis recently and everything came back normal.
+DOCTOR: OK. And do you have any allergies to medications?
+PATIENT: No.
+DOCTOR: Alright, and have you had any prior surgeries or hospitalizations?
+PATIENT: No, I don't believe so.
+DOCTOR: OK, and are your immunizations up to date?
+PATIENT: Yes.
+DOCTOR: OK, and. and. Can you tell me a little bit about where you're living currently and who you're living with?
+PATIENT: I live in a house downtown with my wife.
+DOCTOR: OK, and are you working currently?
+PATIENT: I am, I work from home though.
+DOCTOR: OK. So and, have you been around anybody who's been sick?
+PATIENT: Oh no, I don't think so.
+DOCTOR: OK, and have you traveled anywhere recently?
+PATIENT: No, not outside the province.
+DOCTOR: Alright, and do you drink alcohol?
+PATIENT: Um yeah, I'll have some alcohol every day.
+DOCTOR: OK, OK how many drinks per day would you have for and how many drinks per week?
+PATIENT: I'll have about 5 beers a day.
+DOCTOR: OK, do you feel as though that's a lot?
+PATIENT: Yeah, I. I'm hoping to cut down.
+DOCTOR: OK, that's good, and if at any point you need help or I would like to discuss that, just please let me know. OK, and do you smoke cigarettes?
+PATIENT: I do.
+DOCTOR: OK, how much do you smoke?
+PATIENT: Talk about half a pack a day.
+DOCTOR: And for how long have you been smoking for?
+PATIENT: For the past almost 20 years.
+DOCTOR: OK, have you thought about cutting down?
+PATIENT: Ah yeah again, that's something that I'm hoping to quit doing in the future as well.
+DOCTOR: Certainly OK. And are you currently sexually active?
+PATIENT: I am.
+DOCTOR: OK and. Could you tell me about your partners or partner?
+PATIENT: Yeah, just my wife. We've been together for the past five years.
+DOCTOR: OK, any concerns for a sexually transmitted infection at this time?
+PATIENT: No.
+DOCTOR: OK. And any a musculoskeletal or neurological conditions that run in the family?
+PATIENT: No.
+DOCTOR: OK, and how about any cancers that run in the family?
+PATIENT: No cancers that I know of.
+DOCTOR: OK, and how about heart conditions or or lung conditions?
+PATIENT: No, nothing like that.
+DOCTOR: OK, so next. Just wanted to move on to their physical exam piece of the appointment today, so just looking at your um, the, at your feet and at the joints of the ankle and toes are you seeing any swelling, redness, or yeah, any swelling or redness?
+PATIENT: Um no no swelling or redness.
+DOCTOR: All right, are there is there a temperature change to your feet or any of the joints? Are they feeling hot or cold?
+PATIENT: No.
+DOCTOR: OK. And is there any deformities or misalignment of any of the joints?
+PATIENT: No.
+DOCTOR: OK, and any scarring from any of the trauma?
+PATIENT: Uhm, there are like. Yeah, there's some scarring from like ulcers.
+DOCTOR: From previous ones that have that have healed?
+PATIENT: Healed. Yeah, that's right.
+DOCTOR: OK, and. And is there any pain to palpation over the um ankle joint, over the ankle joint?
+PATIENT: No.
+DOCTOR: OK, then how about over any of the joints of your toes?
+PATIENT: Um no not nothing like that. No pain, just um I can't feel it.
+DOCTOR: OK. And how is the range of motion of your feet and toes?
+PATIENT: Um pretty good. I can move them all.
+DOCTOR: OK, and then how about your knees?
+PATIENT: My knees are also the same.
+DOCTOR: OK, uh, an any ankle like instability with any special tests?
+PATIENT: No
+DOCTOR: OK, and and on walking is there any limp or does it appear, how does the walk appear?
+PATIENT: I'm pretty normal. I'm not limping.
+DOCTOR: OK. And. OK, so that was everything that I wanted to ask and and check today. Did you have any questions?
+PATIENT: Just what do you think is going on with my feet and how do I get some sensation back?
+DOCTOR: So it does sound like it could be related to diabetes where what happens is you get like a peripheral neuropathy overtime and you can lose sensation to your feet in a glove and stocking distribution, which sounds like the history history you're saying today with having sensation reduced on your feet and also your fingertips as well.
+PATIENT: Mmmm
+DOCTOR: Where you lose sensation and you can't feel pain. And so But other things to consider could be. Possibly like vitamin deficiencies or things like that, but I would be much much lower down on the differential. And. So to regain sensation I think. Really, the only thing that can be done now is to help prevent further damage to the nerves, and that would be to make sure that the diabetes is under good control and. Trying to monitor your feet as regularly as you can, making sure that the. There aren't any kind of open wounds or sores that are are not healing. If things are not healing, it will be important to check to see if there is an underlying infection such as osteomyelitis, which will prevent wound healing. And so if there are any, is anything like that it would be important to have that checked out. So feet hygiene is extremely important. As we're working on improving the diabetes control as well as things like cutting down alcohol could could also help as well.
+PATIENT: OK OK, thank you.

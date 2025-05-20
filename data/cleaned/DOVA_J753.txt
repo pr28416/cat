@@ -1,0 +1,171 @@
+DOCTOR: PATIENT?
+PATIENT: Yes sir.  Little aches and pains.
+DOCTOR: Yeah.  [REDACTED] behind you.
+PATIENT: Alright.
+DOCTOR: Have a seat.
+PATIENT: Alright.
+DOCTOR: How’s it going?
+PATIENT: Uh not too bad.  Where can I put my jacket, over there, okay?
+DOCTOR: Okay.  So what is new?  It's been what since October?
+PATIENT: Yeah, we had an appointment, they made an earlier appointment but uh somehow it got crossed up or something cause when I came in for the blood tests I asked them about the appointment and they go no, something got criss-crossed so they made me another appointment for now.
+DOCTOR: Okay.
+PATIENT: Which is alright.
+DOCTOR: How you been doing?
+PATIENT: Alright.  Last couple days I got a little bit of the chills.  I don't know what the, picked something up.  Well and I'm outside you know, when I'm inside I seem to feel alright.  Usually I'm working outside when I, I drop stuff off at constructions sites, you know materials and stuff like that for the.
+DOCTOR: Okay, okay.  Yeah what kind of work do you do?
+PATIENT: I drive a delivery truck and mostly right now I'm driving for an electrical company so I'm you know delivering electrical conduit, wiring and stuff like that.
+DOCTOR: Alright.  How's your diabetes been doing?
+PATIENT: Uh.
+DOCTOR: Do you check your blood sugar ever?
+PATIENT: No I usually don't do, I usually don't check it myself.  I was in for the blood test last week.  I don't know if the results came back.
+DOCTOR: They did.  Yeah I'll go through that with you.  You've been feeling well though as far as not having any trouble with nausea, vomiting?
+PATIENT: Uh, I did about a month ago.  I had it for like, I think I must have picked up some kind of a, ate something bad or something cause it was like a 24 hour thing.  But normally I've been doing pretty good and feeling pretty good.  Appetite's good.
+DOCTOR: Good.  How's your weight?
+PATIENT: Uh it's pretty steady.
+DOCTOR: Wow.
+PATIENT: Stays pretty much at the.
+DOCTOR: That's right, exactly the same.
+PATIENT: Yeah, for a long time.
+DOCTOR: Good.  I mean I'd like you to lose 10 pounds but as long as you're not going up.
+PATIENT: Yeah I should probably lose 20 at least.
+DOCTOR: Alright, what medicines are you taking, anything?
+PATIENT: Uh yeah I brought some of the stuff uh; well we're taking the metformin.
+DOCTOR: Yeah.
+PATIENT: They tell me to take two, usually I just take one.  Usually I've been averaging probably one a day.
+DOCTOR: So this one you take it twice a day so once in the morning and once at night.
+PATIENT: Yeah.
+DOCTOR: Alright.  Omeprazole, simvastatin.
+PATIENT: Yeah a doctor gave me something.  He said my cholesterol was a little high so he gave me something for the, for the cholesterol I guess.
+DOCTOR: Okay.  Do you still take an aspirin every day?
+PATIENT: Uh probably every other day.
+DOCTOR: Yeah.
+PATIENT: You know the low dose one I just take it like uh.
+DOCTOR: Any numbness or tingling in your hands or feet?
+PATIENT: No, no they're pretty good.
+DOCTOR: Okay.
+PATIENT: I always make toast in the morning and it always comes, you know it always comes out hot, I feel it when I pull it out.
+DOCTOR: [REDACTED].  Well, here's your blood tests, we can go through it.
+PATIENT: Okay.
+DOCTOR: Prostate test was normal.
+PATIENT: Really.
+DOCTOR: Yep.  We'll do a.
+PATIENT: Terrific.
+DOCTOR: Which helps to identify problems with the prostate.
+PATIENT: Wow.
+DOCTOR: Um kidney function is normal.  Your glucose was right at the borderline for what we could consider diabetes and we already know that was the case for your, so fine.  Liver function is good.  This was back in a little bit, even further back like in October where we had some urine tested for, showed some reflection of diabetes and then the cholesterol which was a little bit high back then.  So the things that we want to do now.  Now do you get your blood checked with that outside doctor?
+PATIENT: Uh, when I go to the office I think the last time I was probably there about a month and a half ago or so.
+DOCTOR: Okay.
+PATIENT: They did a blood test and it was like, I think he said it was like 130 or something like that.  Like my blood count.
+DOCTOR: Yeah.  Well, I want to avoid having too many cooks in the kitchen.
+PATIENT: Yeah.
+DOCTOR: But there's information that we need to share that that doctor and myself or.
+PATIENT: Yeah.
+DOCTOR: Or we'll have to have you repeat some of the blood tests here.
+PATIENT: Okay.
+DOCTOR: So if you have any blood work there, bring it into me.
+PATIENT: Okay.
+DOCTOR: Uh if you're willing though I'll get some blood tests here.
+PATIENT: Sure.
+DOCTOR: Okay.
+PATIENT: Well how did the blood test last week show up for the fasting?
+DOCTOR: Yeah that was good.
+PATIENT: It did.
+DOCTOR: Yeah now they didn't do um a cholesterol.
+PATIENT: Oh okay but they did the uh.
+DOCTOR: They did the prostate, the kidney and liver and um electrolytes.
+PATIENT: Hmm.
+DOCTOR: But no cholesterol and [REDACTED] since you started on that medication [REDACTED].
+PATIENT: Yeah he said it wasn't, I think he said it was around 202 or maybe it was 220, maybe it was 220.
+DOCTOR: It was 208 here.
+PATIENT: Oh okay.
+DOCTOR: But for you we want it significantly lower than that, particularly the LDL which is the bad cholesterol.
+PATIENT: Okay.
+DOCTOR: Come on up here, I'll take a listen to you.
+PATIENT: Okay.  I got the results of the CAT scan; I had the CAT scan done.
+DOCTOR: What for?
+PATIENT: Cause when I was here uh, doing an evaluation for the Agent Orange, they wanted me to take a chest x-ray and something showed up on the chest x-ray.
+DOCTOR: Oh yeah.
+PATIENT: So uh this is like the third CAT scan I've had and they've been pretty much unchanged I guess since the first one.
+DOCTOR: Can I make a copy of this?
+PATIENT: You can keep that.
+DOCTOR: Okay thanks.
+PATIENT: Yeah I had them make a copy so I could bring one here.
+DOCTOR: Okay.
+PATIENT: The other thing the doctor said that I had gallstones.
+DOCTOR: Yes you do.  A lot of people do.
+PATIENT: So it's you know and they says you know you got gallstones.  I'm like really.  I says you know.
+DOCTOR: A lot of people have them and they never have symptoms.
+PATIENT: Yeah.
+DOCTOR: They never cause problems and so we don't mess with them.  That's the problem you go looking for stuff and find stuff.
+PATIENT: Uh-huh.
+DOCTOR: Would you be able to roll this up for me?
+PATIENT: Sure.  I don't know if I can get it high enough or not.  I could take it off if you want.
+DOCTOR: [REDACTED].
+PATIENT: NAME gave me something for a research thing when I saw him today.  You know what I'm going to take this off.
+DOCTOR: [REDACTED] the Agent Orange thing.
+PATIENT: I've heard [REDACTED].  Something about the [REDACTED] monitor that.
+DOCTOR: Yeah.  Often when you have an infection in your lungs, you know you'll have a pneumonia at sometime in your life.
+PATIENT: Oh.
+DOCTOR: Or you might get some scar tissue in there and it builds up.  It looks funny on the x-ray, so we tell people, I don't know that that is, so we'll going to check, usually it's nothing.
+PATIENT: But the prostate was good, that’s something.  It's like you know, sometimes I get that a urinating during a lot of the...
+DOCTOR: Hold on a second. So you're telling me you have some urine symptoms?
+PATIENT: Yeah like uh, well the last couple of days I kind of had the chills and stuff a little bit and I've been going to the washroom quite a bit in the last couple days and I got uh.
+DOCTOR: Is it burning?
+PATIENT: No.
+DOCTOR: No blood in your urine?
+PATIENT: No I don't notice any blood.
+DOCTOR: Okay.  We'll do a urine test today.  Deep breath. [REDACTED].
+PATIENT: Whey they took my temperature, they said it was 97, so.
+DOCTOR: That’s good. That’s a little bit low, actually.
+PATIENT: Yeah that is low.  I figured 96.8 but its 98.6 isn't it?
+DOCTOR: Yeah.
+PATIENT: There you go, that's why I'm not a doctor.  [REDACTED].
+DOCTOR: Uh-huh.  Alright, well your blood tests were very good.  I think [REDACTED] I'll have you come in, the same thing like you did this time, maybe a week before you come in.
+PATIENT: Okay.
+DOCTOR: And we'll plan on doing that four months from now.
+PATIENT: But continue on with the metformin right?
+DOCTOR: Uh-huh, yeah.
+PATIENT: Like I said I been taking it, generally I'm taking like one a day.
+DOCTOR: I think you can stay on it.
+PATIENT: Is it working out that way though, doing the one?
+DOCTOR: We'll just do one blood test today and then I'll call you if there are any changes.  Do you want to do it on your way out?
+PATIENT: Sure.  Cause I remember at one time I think I was taking two of the metformin, I was taking some other medicine, it wasn't metformin it was something else and I was really getting like the sweats and constant urinating and stuff and they told me to stop taking the medicine.
+DOCTOR: Okay.  Well, that could be probably because the blood sugar was too high or too low with the sugar.
+PATIENT: Uh-huh.
+DOCTOR: I'm not quite sure though.   This test that we're going to do today will help us get a sense about that.
+PATIENT: Okay.
+DOCTOR: Have you seen an eye doctor in the last year?
+PATIENT: Yeah as a matter of fact I had the test here.
+DOCTOR: Well there you go.
+PATIENT: Yeah they said it was, they said it looked pretty good.  That's what she told me, I don't know.
+DOCTOR: Yeah it looks likes everything was okay too.
+PATIENT: She said, I told her I just use the readers you know for like reading the newspaper or something, small print stuff and she said that's fine.
+DOCTOR: Alright I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  69:02  DOCTOR IN:  82:13)
+DOCTOR: Alright sir.  I'm going to get those blood tests today.
+PATIENT: Alright.
+DOCTOR: And then um four months is when you're going to come see me.  I want you to get a fasting blood test about a week before.
+PATIENT: Okay.  I work for T. H. Ryan's Trucking.
+DOCTOR: Oh yeah.
+PATIENT: You're not related to them are you?
+DOCTOR: [REDACTED].
+PATIENT: Lot of Ryans.
+DOCTOR: Yeah this city's full of them.  So full of Ryans.
+PATIENT: Okay so just head down to the Lab?  Okay.
+DOCTOR: Check out in front first.
+PATIENT: Okay for the appointment?
+DOCTOR: They'll help you set that up and then you go down to the Lab and get the blood.
+PATIENT: Alright.
+DOCTOR: Happy New Year.
+PATIENT: Lab and the uh urine too?
+DOCTOR: Yeah.
+PATIENT: Okay, alright.
+DOCTOR: Take care.
+PATIENT: See ya now.
+PATIENT: 83:23
+Time is 5:20.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1246967
+TRANSACTION # 578-10-2-316-0103

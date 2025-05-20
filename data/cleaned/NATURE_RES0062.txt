@@ -1,0 +1,130 @@
+DOCTOR: What brings you in?
+PATIENT: Well, I've had this cough but the biggest issue is that I've been really short of breath.
+DOCTOR: OK, um, when did the cough start?
+PATIENT: I would say about 3 days ago.
+DOCTOR: Three days ago, OK, and uh, around that time did you also start feeling short of breath?
+PATIENT: Uh, the shortness of breath has come on, I don't know within the last day or so. It's come on after that, the cough started first.
+DOCTOR: OK, and the cough, is it a dry cough or is it a wet cough?
+PATIENT: Well, I've been bringing up some yellowish green, kind of like phlegm, so um I guess a wet cough.
+DOCTOR: OK, so yeah, yellowish green you said.
+PATIENT: Yeah.
+DOCTOR: OK, any blood in the sputum?
+PATIENT: I haven't noticed any blood.
+DOCTOR: OK, and how much sputum are you coughing up each time? Like is it kind of the size of your fingertip or does it fill your whole palm?
+PATIENT: Um, yeah, probably more like the size of like a thumb tip.
+DOCTOR: OK, OK um, and do you notice any, like pus or froth in the sputum?
+PATIENT: Nothing like that I noticed.
+DOCTOR: OK, and if you were to describe the sound of your cough, does it sound like it's barky or like a hacking cough?
+PATIENT: I don't know, I guess hacking.
+DOCTOR: Alright, and do you hear any wheezing at all?
+PATIENT: No, well, maybe I guess when I'm really short of breath, yeah, wheezing, yeah.
+DOCTOR: OK, and the shortness of breath, how severe is it? 1 to 10, 10 being the worst?
+PATIENT: Maybe a 7?
+DOCTOR: At seven OK, are you having issues sleeping because of your shortness of breath?
+PATIENT: Uh, well I can't tell if it's that or the cough. I mean between those two things it's been definitely interrupting my sleep.
+DOCTOR: OK, and do you find there are any triggers to your coughing like like um, a particular time of the day? Triggers like you know pollen or things in your environment like pets?
+PATIENT: No the cough has been kind of going on all day. Um, right when I get up in the morning and goes on all night, it's been getting worse to these last few days.
+DOCTOR: OK yeah, um yeah, that doesn't sound great in terms of your shortness of breath. Do you find that certain positions make it worse? Or like exerting yourself makes it worse?
+PATIENT: Um, not really.
+DOCTOR: OK, and have you ever experienced anything like this in the past?
+PATIENT: No, I haven't.
+DOCTOR: OK. And any other symptoms that you have along with your coughing and sputum?
+PATIENT: As soon as I breath, well, I just haven't felt good like, tired, kind of weakish.
+DOCTOR: OK yeah um, along with your fatigue and feeling weak, have you experienced any dizziness or fainting spells?
+PATIENT: No dizziness and I haven't fainted or anything like that.
+DOCTOR: OK, any confusion or memory loss?
+PATIENT: No concerns with my memory.
+DOCTOR: OK. And how about um, muscle aches or any sort of body aches?
+PATIENT: Alright, yeah, maybe a bit, kind of, and weak.
+DOCTOR: Yeah, alright, so let's go back to your shortness of breath. Do you have any chest pain associated with that?
+PATIENT: Uh, no.
+DOCTOR: OK, and do you ever feel like your heart's racing?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and how about changes to your bowel movements?
+PATIENT: No, those have been normal. I haven't had any diarrhea or constipation.
+DOCTOR: OK and no blood in your stool?
+PATIENT: I haven't noticed any blood, no.
+DOCTOR: OK, how about abdominal pains?
+PATIENT: Oh yeah, I don't know why, yeah, my belly's been a bit achy maybe.
+DOCTOR: OK, and how about a sore throat?
+PATIENT: No, my throat felt OK.
+DOCTOR: OK, good and have you experienced any loss of taste?
+PATIENT: No loss of taste, but I've noticed, yeah, my smell has been kind of funny.
+DOCTOR: Your smell has been kind of funny, like you can't smell or do things smell differently than you expect them to?
+PATIENT: Yeah, there was a candle on earlier today and I guess I couldn't really smell it, so I guess I haven't been able to smell.
+DOCTOR: Ok, do you have a runny nose or a blocked nose?
+PATIENT: No, I haven't had to blow my nose or anything.
+DOCTOR: OK, any changes in your vision or hearing?
+PATIENT: No, that's been normal.
+DOCTOR: OK, any discharge or pain in your eyes or ears?
+PATIENT: No, that's been OK.
+DOCTOR: OK, and then any changes to your urine?
+PATIENT: No, I haven't had any pain or anything like that.
+DOCTOR: OK, and are you otherwise healthy? Do you have any medical conditions?
+PATIENT: Yeah, I have atrial fibrillation. And I do take Metoprolol for that.
+DOCTOR: OK, how long have you had A. fib?
+PATIENT: It was like 4 years ago I think it was. It was having that like, felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation. So yeah, I've been on a beta blocker for three years now.
+DOCTOR: OK, four years, and when was the last time you had an ECG?
+PATIENT: Uh, maybe just a couple of months ago. I think every time that I come in to see my family doctor, they they do one.
+DOCTOR: OK, and the last time that it was done, was it normal?
+PATIENT: Yeah, they said yeah. My heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable.
+DOCTOR: OK, good. And then have you had any hospitalizations or surgeries in the past?
+PATIENT: I had an inguinal hernia repair about 15 years ago.
+DOCTOR: OK, any complications from that?
+PATIENT: Um no.
+DOCTOR: OK, and then besides the Metoprolol, are you on any other medications?
+PATIENT: Oh yeah, I take a statin and baby aspirin.
+DOCTOR: OK, and is that for the A. fib as well, the aspirin? Or is that just for other cardiovascular issues or some sort of preventative measure?
+PATIENT: Yeah, I heard it was good for people who have atrial fibrillation so I started taking it.
+DOCTOR: OK. and let's revisit your medications at the end of today's session. I just want to make sure that you're on the medications and I just want to make sure you're on the right dose.  Does that sound good?
+PATIENT: Yeah, certainly.
+DOCTOR: OK great. And ok, so we talked about your past medical history and medications. We will talk a little bit about any allergies that you have, if you have any.
+PATIENT: I think it's like a sulfa allergy. I received an antibiotic like that many years ago and had a rash.
+DOCTOR: OK, OK and have you had any reason to suspect that you may have taken any sulfas recently?
+PATIENT: No, I haven't had any antibiotics so no, really no changes.
+DOCTOR: OK, OK, good and are you up to date with all your immunizations?
+PATIENT: I am yeah. I've received the Zoster vaccine for shingles and also the one for pneumonia.
+DOCTOR: OK, good, good yeah, those two we definitely recommend if you're over 65. OK, and do you know of any family history of lung conditions or heart conditions?
+PATIENT: No, I think my aunt had lung cancer but she smoked her entire life.
+DOCTOR: OK, OK and how about other cancers?
+PATIENT: No other cancers.
+DOCTOR: And have you been in touch or do you think you've been in contact with any anyone sick recently?
+PATIENT: Well, I visited my mother at a long term care facility just this past weekend, so I guess about just over a week ago I visited there.
+DOCTOR: OK, and have there been any COVID outbreaks at the long term care?
+PATIENT: Yeah, there has been, I thought I was like away from those areas but I have heard about outbreaks there.
+DOCTOR: OK, OK and any travel history?
+PATIENT: No travel.
+DOCTOR: And do you smoke?
+PATIENT: I used to smoke a pack of cigarettes a day, but I quit about, uh, about five years ago. I know four years ago it was when I found out I had atrial fibrillation. I quit.
+DOCTOR: OK, OK, well that's good. Good for you for quitting. How about marijuana?
+PATIENT: No, I don't smoke it, but I'll use some edibles I buy from the Ontario stores a couple of times per week. Just the CBD stuff.
+DOCTOR: The CBD stuff OK. And how many milligrams?
+PATIENT: I'm not sure, I know it's their lowest dose though.
+DOCTOR: OK, OK if it's lowest dose, it might be 2.5 milligrams.
+PATIENT: Sounds familiar.
+DOCTOR: OK good. Is there a particular reason you take these CBD edibles?
+PATIENT: It helps me sleep.
+DOCTOR: OK, if it's specifically to help you sleep, we can actually try and see if there are other options for you. You know there are pills, like they are sleep aids. Or even things like melatonin that can help regulate your sleep so we can revisit other options for you if you're open to that as well.
+PATIENT: OK for sure. Yeah I will. Um, yeah we can talk about that later.
+DOCTOR: OK, that sounds good and do you do any other recreational drugs?
+PATIENT: I do not.
+DOCTOR: OK, how about alcohol?
+PATIENT: Uh, no, I don't drink anymore.
+DOCTOR: OK, and did you used to drink before?
+PATIENT: Yes, I just stopped a few years ago,
+DOCTOR: OK, and what's your living situation like right now?
+PATIENT: I live in a house with my wife.
+DOCTOR: In a house, OK. Any concerns for like old carpets, mold or asbestos in your house?
+PATIENT: No, we've renovated it over the years.
+DOCTOR: OK, good and I apologize, but I would like to clarify three more symptoms with you. Did you say you felt like you had a fever earlier?
+PATIENT: Um, maybe I've been feeling a little hot, but it's been really more the cough and shortness of breath that's been bugging me.
+DOCTOR: OK, well we can take a temperature today just to make sure. Have you been feeling like you have night sweats or chills?
+PATIENT: Um, not really. No, I haven't noticed that.
+DOCTOR: OK, and how about, um, any weight loss over the past few months?
+PATIENT: No, it's been been stable.
+DOCTOR: OK, alright good, so that brings us to the end. Do you have any questions or concerns that you would like to clarify before we end the interview?
+PATIENT: No, nothing today.  I was just really hoping to get, uh, whatever this is sorted out.
+DOCTOR: Yeah, you know, um, right now it looks like, it sounds like it could be an upper respiratory viral illness, so that includes COVID.  So we will do a swab for you and then send it off to the lab for PCR results. In the meantime, because you have symptoms that overlap with COVID symptoms, we do encourage isolation for 14 days. Until your symptoms are gone, sorry,  until your symptoms are gone, even if they're gone, we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID so we do encourage that, and that includes from your husband. If possible, we will get those results in a day or two. If they are positive, we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from. If it's not COVID, it could be other viral illnesses that are going around this time of year. And if your symptoms aren't getting better on their own, and there's reason to suspect you may have a bacterial infection or bacterial pneumonia, we will follow up with you and possibly prescribe antibiotics. How does that sound?
+PATIENT: Yeah, that sounds like a great plan.
+DOCTOR: OK, great so um, I will see you at the next appointment.
+PATIENT: Thank you.

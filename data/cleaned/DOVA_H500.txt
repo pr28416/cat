@@ -1,0 +1,237 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah DOCTOR.
+DOCTOR: What room are in?
+PATIENT: Well that's not the one you said I didn't require additional care.
+DOCTOR: Let me check your record though.  [REDACTED].
+PATIENT: They said that I don't need any.
+DOCTOR: [REDACTED].
+PATIENT: No, no, let's see [REDACTED].  I got to get this [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] second hand.
+DOCTOR: Normally yes but not now.
+PATIENT: What I need is like 24 hours, you think this is just a joke.
+DOCTOR: You can head that off.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  You're at 98.3.  [REDACTED] if you want something we'll order it.
+PATIENT: Yeah that's what I'm saying.
+DOCTOR: You stay here.
+SECOND PERSON H500
+No way [REDACTED].
+DOCTOR: Do you want to see DOCTOR?
+SECOND PERSON H500
+No.
+DOCTOR: [REDACTED] standard of care.
+SECOND PERSON H500
+I'm sure you can deal with it.  [REDACTED].
+THIRD PERSON H500
+We need to deal with the pain now.
+SECOND PERSON H500
+No way [REDACTED].
+PATIENT: [REDACTED].
+SECOND PERSON H500
+Okay you gained.
+PATIENT: Right.
+SECOND PERSON H500
+You say you gonna do it, holler at me, look like you gonna don't now correct it.
+PATIENT: [REDACTED].
+SECOND PERSON H500
+Now you making me mad, you're momma gonna have to bury you [REDACTED].
+PATIENT: What you all doing here?
+SECOND PERSON H500
+I won't do that.
+PATIENT: [REDACTED].
+SECOND PERSON H500
+[REDACTED] you stop me.
+PATIENT: I'm gonna talk to you later.
+SECOND PERSON H500
+You talk with me, you tell me cause you tell me, momma gonna go have to bury you, boy.
+DOCTOR: Yeah.
+SECOND PERSON H500
+So he told me he was gonna play a game and it gonna [REDACTED] and [REDACTED].
+Hell no, I can't play this game.
+DOCTOR: I don’t know what you mean, I don’t understand.  [REDACTED].
+SECOND PERSON H500
+I can't handle that game.
+THIRD PERSON H500
+As long as you can [REDACTED].  Hmm, hmm, hmm.  I can't even think about that.
+DOCTOR: [REDACTED] your blood pressure is high.  Let's check your other arm.  Did you take your blood pressure medications today?  [REDACTED].
+SECOND PERSON H500
+[REDACTED].
+DOCTOR: Yeah [REDACTED] okay.
+SECOND PERSON H500
+What [REDACTED].
+DOCTOR: [REDACTED].
+SECOND PERSON H500
+The last four.
+PATIENT: Now [REDACTED].
+DOCTOR: Yeah.  [REDACTED].
+SECOND PERSON H500
+[REDACTED].  Do I need to do a couple [REDACTED]?
+DOCTOR: No [REDACTED].
+SECOND PERSON H500
+[REDACTED].
+DOCTOR: I'll try it again.  [REDACTED].  Do you take an aspirin a day?  [REDACTED].
+PATIENT: Sometimes.
+DOCTOR: You should take it every day. Do you want me to send it to you?
+PATIENT: Last time I was here they put it in, for it but I never got it.
+DOCTOR: There was a problem?
+PATIENT: [REDACTED]
+DOCTOR: Oh that's probably why you ran out.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: I tried to tell them [REDACTED].
+DOCTOR: Okay.  How much [REDACTED] do you use?
+SECOND PERSON H500
+[REDACTED] this time what is it?
+DOCTOR: 150/72.  It's still high.  Alright sir.
+SECOND PERSON H500
+You gonna do another one in the room?
+DOCTOR: Already did one.
+SECOND PERSON H500
+Okay.
+DOCTOR: This one is better 150/72.
+SECOND PERSON H500
+Okay.  Alright, thank you so much.
+DOCTOR: Alright sir.  It’s important for you to talk all the blood pressure medicine.  I'll give you the refills of hydrochlorothiazide.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  You were taking 25 probably.
+PATIENT: Yeah and uh I still have some of the atenolol.
+DOCTOR: Okay and then I'm gonna give you the aspirin.
+PATIENT: Okay.
+DOCTOR: Pick it up at the window or do you want to.
+PATIENT: They can mail it.
+DOCTOR: Mail it okay.  Aspirin [REDACTED] and the hydrochlorothiazide.  Do you have a blood pressure cuff at home?
+PATIENT: No.
+DOCTOR: Okay.  Do you want to pick one up today?
+PATIENT: Uh well.
+DOCTOR: Or we can mail it.
+PATIENT: You can mail it sure just [REDACTED] mail it.
+DOCTOR: [REDACTED].  Okay so we're gonna have, I want you to get a blood pressure monitor.
+PATIENT: Uh-huh.
+DOCTOR: I want you to write down um your blood pressure okay every day.  Um and then I want you to come back in about two weeks.
+PATIENT: Uh-huh.
+DOCTOR: To recheck your blood pressure and see if you need to be started on any other medication or it may be that we need to go up on the atenolol and I wanted to also start you, you ran out of your cholesterol medications too. When did you run out of that?
+PATIENT: Almost a month.
+DOCTOR: Yeah you really really, I mean if you want all your, I mean you don't have that many medical problems.  You really want to.
+PATIENT: Take your medicines.
+DOCTOR: Yeah.  Otherwise and I mean you don't have that many problems.  I mean everything goes you know, you really [REDACTED].  And then I'm gonna give a multivitamin.  Do you have problems with your stomach?
+PATIENT: [REDACTED].
+DOCTOR: Yeah.  [REDACTED] problems any more or?
+PATIENT: Just constipation.
+DOCTOR: Do you need the acid reflux medication?
+PATIENT: The omeprazole.
+DOCTOR: Yeah.  And then are you still drinking a lot or?
+PATIENT: No I've tried to cut back.
+DOCTOR: How much have you tried to cut back?
+PATIENT: Uh I usually have a shot about two, three times a week now.
+DOCTOR: Okay.  A shot of what?
+PATIENT: Vodka and beer.
+DOCTOR: Uh-huh.
+PATIENT: Usually just when I'm watching sports.
+DOCTOR: Hmm okay.  Alright.  Well maybe some vitamins just so you don't have any problems because of the drinking.
+PATIENT: Oh yeah.
+DOCTOR: You should take those and the folic acid and the thiamine and um a multivitamin okay.
+PATIENT: Okay.
+DOCTOR: So three...
+PATIENT: That's what it does?
+DOCTOR: It's supposed to protect you from the drinking you know like sometimes whenever you drink you don't eat the green leafy vegetables or, you know.
+PATIENT: Uh-huh.
+DOCTOR: You know basically protect you from having problems with alcohol.  Okay now so you said one shot three times a week.
+PATIENT: Alright.
+DOCTOR: And one beer too?
+PATIENT: Yeah.
+DOCTOR: Alright.  Anything else been bothering you?  As far as you’re doing? Are you having any problems with your activities or?
+PATIENT: No.
+DOCTOR: No.  You’re just having problems with taking your medicines. Is that the problem?
+PATIENT: Yeah.  That’s a problem.
+DOCTOR: Is there any way you can pick up the blood pressure monitor today cause the problem is that if I have you come back to see the nurse you won't have a blood pressure monitor to write down okay.
+PATIENT: Uh I really need to see if a physical, [REDACTED] TB test.
+DOCTOR: Uh-huh.  A TB.
+PATIENT: So if I do the TB test I'll have to come back in later, right?
+DOCTOR: Yeah.
+PATIENT: In a couple of days.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Uh I know the last time I had one I think they didn't have that scheduled because nobody's here on the weekend.
+DOCTOR: Yeah.  Yeah and this is a problem again.
+PATIENT: Right.
+DOCTOR: Today's Thursday, Friday, Saturday, Sunday.
+PATIENT: So I'd probably have to come back Monday or Tuesday for the TB test.
+DOCTOR: Yeah.  Just come to see the nurse then.
+PATIENT: Okay.
+DOCTOR: Yeah.  I'll write the, you need to pick this up at Prosthetics.
+PATIENT: Okay.  Prosthetics.
+DOCTOR: Oh for the blood pressure monitor.
+PATIENT: Oh for the blood pressure.
+DOCTOR: So you should pick that up today or if you want to just wait until Monday that's fine too.  But either way I want you to come back and get your blood pressure checked by the nurse.  So I'll have you come back – two appointments.  One on Monday, can you come back Monday?  To do the TB and then number two is to get your blood pressure checked alright and I'm going to renew all your medications so we'll do that.  And are you having any problems with headaches, vision changes?
+PATIENT: No.
+DOCTOR: Cough, sore throat?
+PATIENT: Everything’s been fine.
+DOCTOR: [REDACTED] chest pain or anything? No.
+PATIENT: No.
+DOCTOR: Oh you just had a birthday, happy belated.
+PATIENT: Thank you, you noticed.
+DOCTOR: Yeah.  Um no problems urinating, no blood in your urine?
+PATIENT: No.
+DOCTOR: No peeing a lot at night or getting up to pee and all?
+PATIENT: No.
+DOCTOR: Anything else then, any problems with the joints?
+PATIENT: No.
+DOCTOR: You just really need to take care of your [REDACTED].
+PATIENT: [REDACTED] I can do that.
+DOCTOR: Today’s the 21st?
+PATIENT: Right.
+DOCTOR: I'll have you hop up on there.  Have you noticed are you having problems with your head like as far as headaches, vision changes? Hop up. Have you been able to get [REDACTED] hats.
+PATIENT: Hmm.
+DOCTOR: Have you noticed your head getting any larger? You’re still wearing the same hat? Have you noticed your shoe size getting larger?  Okay.  Deep breath good, out.  In, out, in.  Can you lay back for me?  Did you always have this [REDACTED] scar right here?
+PATIENT: That's a scar.
+DOCTOR: From what?
+PATIENT: When I hit my head [REDACTED].
+DOCTOR: Oh okay.  Did they have to, what happened there [REDACTED].
+PATIENT: Staples.
+DOCTOR: Oh [REDACTED].  Okay.  Sit up for me.  Any problems with numbness or tingling or anything?  [REDACTED] push, don’t let me pull [REDACTED]  Good, [REDACTED] on both sides, same on both sides. Take off your glasses. [REDACTED].  Okay.  Can you say ah.
+PATIENT: Ah.
+DOCTOR: Can you lift up your hips, don’t let me push down.  Now push out, push back good.  Alright.  [REDACTED].  I'll have you come back in a couple, your [REDACTED] sounds fine.  Have [REDACTED]  [REDACTED].  I think you should have that [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] I'll be right back.
+(DOCTOR OUT:  17:47  DOCTOR IN:  20:07)
+DOCTOR: Alright so I wanted to ask you um, you smoke at all?
+PATIENT: Yeah.
+DOCTOR: Oh you do?  How much do you smoke?
+PATIENT: Uh I'd say five cigarettes a week.
+DOCTOR: Five cigarettes a week alright.  Well do you think you can try less or what do you think?
+PATIENT: Hmm I'll work on it.
+DOCTOR: You'll work on it.
+PATIENT: I'll try.  Well it goes along with the drinking you know.
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: Okay.  I [REDACTED].
+PATIENT: Basketball.
+DOCTOR: Well do you think you can cut off on the drinking like five and cutting down [REDACTED] for one month and just see if you can do it.
+PATIENT: Yeah I know.
+DOCTOR: Cause you don't think you have a problem right?
+PATIENT: No.
+DOCTOR: Yeah.  Just see if you can cut it off for one month and then we'll talk about it next time and we'll see if the smoking will you know go along with that.  Some people are social smokers, okay.
+PATIENT: [REDACTED] buy them.
+DOCTOR: Yeah.  Yeah, bum off of other people okay, alright.  [REDACTED] so be compliant with your medications, check your blood pressure every day and get the monitor on Monday right and then make an appointment with the nurse, get the TB, here's your form back.  We'll just [REDACTED].  And take your medications.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yeah I think it'll be three days [REDACTED].
+PATIENT: [REDACTED] outside.
+DOCTOR: How much is that 243? Yeah, and that’s an accurate weight, too.
+PATIENT: Hmm.
+DOCTOR: Just try to cut down on everything okay.  If you're overeating, with the smoking and drinking okay.
+PATIENT: A bunch of pounds too.
+DOCTOR: Yeah alright?
+PATIENT: Okay.
+DOCTOR: Okay bye.
+PATIENT: Thanks a lot now.
+DOCTOR: Take care.
+PATIENT: Take care
+PATIENT: 23:20
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255174
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,282 @@
+DOCTOR: PATIENT?  How are you doing PATIENT?  I'm DOCTOR.
+PATIENT: Hi.
+DOCTOR: It's nice to meet you.  Do you want to come back with me?  Go ahead and have a seat right here for me okay.
+PATIENT: Okay.
+DOCTOR: So what you doing to see me today, what's going on?
+PATIENT: I got a cold.
+DOCTOR: A cold.
+PATIENT: A cold and the flu.
+DOCTOR: How long has this been going on for?
+PATIENT: Ooh, oh about four days.  [REDACTED] yellow and red streaks.
+DOCTOR: With a cough or?
+PATIENT: Cough.
+DOCTOR: What was the first symptom you had?
+PATIENT: Huh?
+DOCTOR: What was the first symptom you had?  What was the first problem that you had?
+PATIENT: Oh my throat [REDACTED].  Nose running.
+DOCTOR: That's the first thing was starting?
+PATIENT: Uh-huh.  Nose running, eyes running.  Then they was white I had to cough it up, fluid up was white and I’d cough it up and it was white and then yellow.  I was gonna come out here cause I can't take nothing unless the doctor say, so I can’t go to a drug store and get nothing.
+DOCTOR: Are you short of breath at all?
+PATIENT: Uh-huh.  Yeah I walked to the elevator [REDACTED].
+DOCTOR: How'd you get here?
+PATIENT: I [REDACTED].
+DOCTOR: Any chest pain?
+PATIENT: Uh uh.
+DOCTOR: Do you have emphysema?
+PATIENT: I don't know what that is, I don't know.
+DOCTOR: Any lung disease, emphysema?
+PATIENT: No.
+DOCTOR: Do you take inhalers because of your lungs?
+PATIENT: Uh uh.
+DOCTOR: Did you get a pneumonia shot ever?  The pneumonia vaccine?
+PATIENT: Uh the last one I take it uh, when I go to get a shot and they say I didn't need it, it was the pneumonia shot but that's been a year ago.
+DOCTOR: You got a flu shot right?
+PATIENT: Uh-huh.
+DOCTOR: Did you get both flu shots or just one?
+PATIENT: Just one.
+DOCTOR: The regular flu?
+PATIENT: Uh-huh.
+DOCTOR: Who do you live with?
+PATIENT: Uh me and my wife and my son.  I don't feel bad.
+DOCTOR: You don't.  [REDACTED].
+PATIENT: Yeah I do, that's what I do, try to heal this cold.  We got uh a hot drank hot tea, [REDACTED] in the feet, hot chocolate.
+DOCTOR: Do you have abdominal pain or symptoms at all?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Have been around anybody sick?
+PATIENT: Huh.
+DOCTOR: Have you been around anybody sick?
+PATIENT: Yeah.
+DOCTOR: Who was it?
+PATIENT: My son, both my son and my wife.
+DOCTOR: What are they sick with?
+PATIENT: Uh.
+DOCTOR: What are they sick with?
+PATIENT: Cold, same thing.
+DOCTOR: Do they have muscle aches and pains?
+PATIENT: I don't know but they cough a lot, cough that cold up.
+DOCTOR: What about you?
+PATIENT: I have aches and pains in the muscles, in the side, back.  I get that from coughing after so much.
+DOCTOR: Well is it all over, your legs and your arms?
+PATIENT: Really just my arms here and both sides of my muscles.
+DOCTOR: When you cough?
+PATIENT: Uh-huh.
+DOCTOR: What about your arms here or your legs?
+PATIENT: Uh uh.
+DOCTOR: Anything hurt?
+PATIENT: Just, I hurt right here, I don't know what you get but it [REDACTED].
+DOCTOR: Have you had fever?
+PATIENT: Uh-huh.
+DOCTOR: How high?
+PATIENT: I don't know.  I know I woke up sweats the night before last and last night and the night before that.  I wake up as wet and dripping in sweat.
+DOCTOR: [REDACTED] with you?
+PATIENT: Uh-huh.  Both of them.
+DOCTOR: Both of them [REDACTED].
+PATIENT: My grandson.
+DOCTOR: Have been all sick?
+PATIENT: Yeah they all got colds.
+DOCTOR: Are you all really sick with fevers too?
+PATIENT: Now I don't know about fevers, but they got that bad cough.
+DOCTOR: Do you have heart disease?
+PATIENT: Uh yeah I had a heart attack, [REDACTED] time ago.
+DOCTOR: Did you have bypass surgery?
+PATIENT: And they split me open and I was open from my naval all the way up to the throat.
+DOCTOR: Have you ever had heart failure?
+PATIENT: What?
+DOCTOR: Have you ever had congestive heart failure?
+PATIENT: Yeah I had, before I had the heart attack I had a little heart attack or something like that but that wouldn't [REDACTED].  They just told me to stop drinking and stop smoking and I didn't quit so I had the big, one. I quit then.
+DOCTOR: When was the big one?
+PATIENT: Oh [REDACTED].
+DOCTOR: Yeah when did you have that?
+PATIENT: Huh?
+DOCTOR: When did you have that?
+PATIENT: Oh.
+DOCTOR: Open heart surgery when was that?
+PATIENT: Oh, it was about seven years, about seven or eight years ago in Mississippi at the VA.
+DOCTOR: Your blood sugars doing okay?
+PATIENT: Yeah.
+DOCTOR: What are they running at home?
+PATIENT: Oh around 103, 104, 102 something like that.  I check it every once in a while [REDACTED].
+DOCTOR: Has it been higher or no?
+PATIENT: Uh uh.
+DOCTOR: And you take all these medications in here?
+PATIENT: Uh-huh.
+DOCTOR: So all of them?
+PATIENT: You bet.
+DOCTOR: There's a lot of them.
+PATIENT: Oh yeah.
+DOCTOR: Amlodipine, aspirin, carvedilol, Lantus, [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Lisinopril, omeprazole, simvastatin, spironolactone, terazosin, trazodone, bupropion.
+PATIENT: All that stuff.  [REDACTED].  There are about eight that I take [REDACTED].
+DOCTOR: Okay.  I'm gonna have you sit up here for me okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED] I want your shoes off, I need to go get an oxygen monitor, I'll be right back.
+PATIENT: Okay.
+(DOCTOR OUT:  39:07  DOCTOR IN:  39:46)
+DOCTOR: Are you on Coumadin?
+PATIENT: I'm on what?
+DOCTOR: You on Coumadin?
+PATIENT: Yeah.  Yes I am.
+DOCTOR: Have your numbers been okay?
+PATIENT: Uh-huh.
+DOCTOR: You take uh.
+PATIENT: [REDACTED].
+DOCTOR: Good.  Your lungs have a good sound.  I'm gonna have you cough for me a couple times.   Give me a good cough.
+PATIENT: Uh-huh. (coughs)
+DOCTOR: Okay.  [REDACTED] okay.
+PATIENT: Hmm.
+DOCTOR: Take a deep breath.  Out and up and in and out.  Deep breath, and out, and in and out, again.  Deep breath and out and in.  You never had an inhaler before?
+PATIENT: No.
+DOCTOR: You've never had an inhaler?
+PATIENT: Yeah but it was a long time ago.  What it read?
+DOCTOR: Say E for me.
+PATIENT: E.
+DOCTOR: Again.
+PATIENT: E.
+DOCTOR: Again.
+PATIENT: E.
+DOCTOR: Again.
+PATIENT: E.
+DOCTOR: Okay good.  [REDACTED]?  Do you feel short of breath right now?
+PATIENT: Uh-huh.  [REDACTED].
+DOCTOR: Do you need me to come in?
+PATIENT: What?
+DOCTOR: Do you need me to come in?
+PATIENT: No I don't feel like it, just a cough and cold.
+DOCTOR: I'd like to give you another inhaler okay.  I think I'd like to get a chest x-ray and let's take a look at your mouth.  Okay open your mouth real big.  Say ah.
+PATIENT: Ah.
+DOCTOR: Stick out your tongue.  Do you have dentures up there?
+PATIENT: I have partials, [REDACTED].
+DOCTOR: You don't have dentures right.
+PATIENT: No.
+DOCTOR: Do you ever choke when you swallow?
+PATIENT: Uh uh.
+DOCTOR: Any real pain?
+PATIENT: Uh uh.
+DOCTOR: Do you know how to use an inhaler?
+PATIENT: Uh-huh.
+DOCTOR: Who's your primary doctor?
+PATIENT: [REDACTED] so I don't know who, who it is.  I don't think I've been here in a good while.  I don’t know doctors.  [REDACTED] that brought me out here is this cold.
+DOCTOR: I don't see Coumadin on your medication list.  It's also called Warfarin.
+PATIENT: Yeah.
+DOCTOR: Do you take that?
+PATIENT: Uh-huh.
+DOCTOR: You're getting it here?
+PATIENT: Yeah.
+DOCTOR: I don't think you take that cause you’re last blood test.
+PATIENT: Oh they probably taken it off then, they probably take me off it.  I was taking it.
+DOCTOR: Yeah.  In the past you were but now you're off.
+PATIENT: Yeah, uh-huh.
+DOCTOR: Okay.
+PATIENT: I don't feel sick with this.  I [REDACTED] cough [REDACTED].
+DOCTOR: So it was mainly the coughing and the shortness of breath?
+PATIENT: Yeah that's all.  I was sore on both sides.
+DOCTOR: Are you smoking?
+PATIENT: Uh uh.
+DOCTOR: When did you quit?
+PATIENT: Oh, about two years ago.
+DOCTOR: How much did you smoke then?
+PATIENT: About a pack and a half a day.
+DOCTOR: For how long?
+PATIENT: Oh, man all my life, since I was about 10 years.  I'm 82 now.
+DOCTOR: Well they checked your lungs for emphysema in 2006 and it looks like you had emphysema.
+PATIENT: Oh I did.
+DOCTOR: Yeah.  So.
+PATIENT: They didn't tell me.
+DOCTOR: I think what we're seeing a little bit now is emphysema.
+PATIENT: Oh.
+DOCTOR: Sounds like we gotta get you tuned up okay.  I'll be right back okay.
+PATIENT: You gotta get me tuned up?
+DOCTOR: Yeah we're going to tune you up like a car, so we'll treat you better, I'll be right back okay.
+PATIENT: Alright.
+(DOCTOR OUT:  46:57  DOCTOR IN:  57:33)
+DOCTOR: Okay.  I was talking to DOCTOR, he's my attending okay.
+PATIENT: Uh-huh.
+DOCTOR: And you have to; I think what's going on with you more than anything is what we call and exacerbation of emphysema.  When they looked at your lungs in 2006, you had emphysema.  Do you know what emphysema is?
+PATIENT: Uh uh.
+DOCTOR: Emphysema is when people who smoke all their life, even though you quit a couple years ago your lungs don't work as well and they start trapping air and you have a hard time getting air out.
+PATIENT: Yeah.
+DOCTOR: And um when you start having productive sputum like you're having with shortness of breath you can get an exacerbation of COPD and I think that's what we're seeing with you.
+PATIENT: Hmm.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: So there’s a goal to treating that, number one when I listen to you I don't hear pneumonia but given that you've had a lot going on.
+PATIENT: Uh-huh.
+DOCTOR: I want you to get a chest x-ray on the way out.
+PATIENT: Uh-huh.
+DOCTOR: If there’s an abnormality, I will call you.
+PATIENT: Okay.
+DOCTOR: I'm still going to give you it's for part of COPD exacerbations,
+what works well is I want to try giving antibiotics for five days.
+PATIENT: Okay.
+DOCTOR: It's called azithromycin okay.  I'll also want to give you um, who gives you your medications at home?
+PATIENT: I take them myself.
+DOCTOR: Okay, so you're pretty good about your medications?
+PATIENT: Oh yeah.  [REDACTED].
+DOCTOR: Okay so, the antibiotic is going to be and these will all be in the instructions, its two pills the first day and then one pill the next four days okay.
+PATIENT: Okay.
+DOCTOR: The steroid is going to be similar, what I'm gonna do is I'm going to give you some steroids to decrease the inflammation in your lungs.
+PATIENT: Hmm.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: This other stuff, have you ever been on steroids before?
+PATIENT: No.
+DOCTOR: Steroids have side effects okay.  Usually in the short term there are not that many side effects.
+PATIENT: No.
+DOCTOR: But sometimes people can get a little anxious.
+PATIENT: You’re right.
+DOCTOR: And can cause some confusion and it can cause your blood sugar to go higher.
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: But it's gonna really help with your breathing I think.
+PATIENT: That's good.
+DOCTOR: It's a 9-day course where the first two days you take four pills, the next three days you take you know two pills, the next three days you take one pill.  It will all be on the instructions.
+PATIENT: Okay.
+DOCTOR: You take all of them and taper off, does that make sense?
+PATIENT: That makes sense.
+DOCTOR: And then I'm gonna start you on inhalers.  And inhalers are to help you breathe better.
+PATIENT: Uh-huh.
+DOCTOR: And you take two puffs of this inhaler every six hours and it's should open up your breathing a little bit.
+PATIENT: Yeah.
+DOCTOR: So we're doing three medications, steroid, antibiotic and inhaler and you're getting a chest x-ray on the way out.
+PATIENT: Uh-huh.
+DOCTOR: You normally see DOCTOR.  He's your primary doctor.
+PATIENT: Hmm.
+DOCTOR: And I think it's time you see him again for follow-up.
+PATIENT: Yeah.
+DOCTOR: You've had problems like this in the past.  DOCTOR we need to have you back within three or four weeks okay.  Now if you’re home and you're not doing better, the fevers persist and your breathing becomes harder, you got to come back to the Emergency Room.
+PATIENT: Oh.
+DOCTOR: Okay.  You can stop at the X-ray today okay.
+PATIENT: Uh-huh, okay.
+DOCTOR: And the Pharmacy today to pick up all the medicines I'm putting through.  Probably get your x-rays first to give the Pharmacy time to fill the medications.
+PATIENT: Okay.
+DOCTOR: And you'll take the steroids today, the antibiotic today and start using the inhalers today.
+PATIENT: Uh-huh.
+DOCTOR: Okay?
+PATIENT: Okay.
+DOCTOR: Do you have questions for me?
+PATIENT: No, no.  All the instructions will be on the bottle, I might forget.
+DOCTOR: Yep and [REDACTED] don't be shy to have your family help you out okay.
+PATIENT: Okay.
+DOCTOR: Cause this is a lot of new medications.
+PATIENT: Yeah.
+DOCTOR: The steroid might make your blood sugars go higher so keep checking your blood sugars and if they get high you have to call us and let us know.
+PATIENT: Okay.
+DOCTOR: I’m DOCTOR [REDACTED].  Just, I don't [REDACTED] so I'll give you an appointment card.  DOCTOR [REDACTED] doctor.
+PATIENT: Yeah.
+DOCTOR: And you can’t forget.
+PATIENT: Right.
+DOCTOR: You're gonna call me and let me know.  So you're going to [REDACTED] and then [REDACTED] stop on the x-rays on the first floor Radiology and the Pharmacy.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay thank you.
+DOCTOR: You're welcome.
+PATIENT: [REDACTED].
+DOCTOR: You're welcome.
+PATIENT: 62:51
+Time is 3 o'clock.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1235343
+TRANSACTION # 578-10-2-316-0103

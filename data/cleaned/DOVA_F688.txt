@@ -1,0 +1,395 @@
+DOCTOR: One second.
+PATIENT: Yes sir.
+DOCTOR:
+PATIENT: ?
+PATIENT: Yes sir.
+DOCTOR: You want to come with me?  How you doing?
+PATIENT: I'm a little irritable today.
+DOCTOR: Oh what's the problem?  We all get a little frustrated right?
+PATIENT: Yeah.
+DOCTOR: Now we've met before right.  I've seen you one time.
+PATIENT: Yes.
+DOCTOR: Okay.  Just take a seat here.
+PATIENT: No it's been a while though.
+DOCTOR: How long has it been?
+PATIENT: Uh I can't recall this second, pull it up let's see.
+DOCTOR: Having one of those days huh?
+PATIENT: One of those days, I got a skin problem and it's really.
+DOCTOR: A skin problem?
+PATIENT: Oh my goodness.
+DOCTOR: Okay.
+PATIENT: Um you know burning and it's itching real bad.  I can't even sleep, it's terrible.
+DOCTOR: Okay.  Um when did I, or have I ever seen you?
+PATIENT: Yes.
+DOCTOR: Let's see you, you're listed as a DOCTOR as your attending.
+PATIENT: Yeah I saw you one time.  I seen DOCTOR.
+DOCTOR: Was it in the Outpatient?
+PATIENT: Yes.
+DOCTOR: Or did I just see you like when you were in the hospital?
+PATIENT: I don't remember.
+DOCTOR: Did you see DOCTOR maybe?
+PATIENT: Yes.
+DOCTOR: Oh that's not me, I'm DOCTOR.
+PATIENT: Oh.
+DOCTOR: So maybe you were used to seeing DOCTOR.  Is that who your normal doctor is?
+PATIENT: No DOCTOR is my regular doctor.
+DOCTOR: Oh okay.  So you're just here for an acute visit probably.
+PATIENT: Yes.
+DOCTOR: Okay.  Now where's that, what's going on, what's been bothering you?
+PATIENT: Oh I have to show you.  I broke out.  I've been breaking out with rashes and I got this so irritated.
+DOCTOR: That looks like zoster.  Is it only on one spot?
+PATIENT: No, all over my body.  I broke out and it's on my neck and my shoulders.
+DOCTOR: Have a seat real quick.
+PATIENT: It's on my legs, it's in my scalp.
+DOCTOR: Oh really.
+PATIENT: Yes it's up in my arm pit.
+DOCTOR: What's new?
+PATIENT: All of it.
+DOCTOR: No I mean what have, has there been anything new that you've been, new medication or?
+PATIENT: No.
+DOCTOR: No okay.  Have you ever had this before?
+PATIENT: No.  This right here came on, it just happened in one week.  This back, everything just came on one week.  That came on one week the arm pits.
+DOCTOR: A week ago?
+PATIENT: I mean all.
+DOCTOR: Is it getting worse or better?
+PATIENT: It's getting worse.  The skin is burning.  I'm having heat flashes.
+DOCTOR: You had an abdominal rash in August.
+PATIENT: This right here.
+DOCTOR: You have a history of fungal infections?
+PATIENT: Uh no, this never happened before.  This came out and this won't go away.
+DOCTOR: Okay.
+PATIENT: It just won't go away and now the whole body, in the warm spots in my body is getting worse.
+DOCTOR: Now did you actually end up trying the statin powder?
+PATIENT: Yes.  [REDACTED] easing it, this right here.  It's helping the burns on the stomach but now this half is easing up.
+DOCTOR: Right.
+PATIENT: Everything else is just whoo.
+DOCTOR: Now what do you do for hygiene?
+PATIENT: Uh I take showers.
+DOCTOR: Okay.  Do you use, are you using a new soap or?
+PATIENT: I use soap.
+DOCTOR: But no changes with what you've been using in them?
+PATIENT: No.
+DOCTOR: So when did the abdominal rash start?
+PATIENT: It started about last Wednesday to be exact.  Uh I started to notice it.  I woke up with itching in the neck and a bump started and then I noticed in the back, it started with a few bumps and it just flamed up. And uh . . .
+DOCTOR: No fevers or chills right?
+PATIENT: Yes fevers and I get.
+DOCTOR: Did you measure it yourself?
+PATIENT: Huh?
+DOCTOR: Did you actually measure it?
+PATIENT: Measure the fever?
+DOCTOR: Uh-huh.
+PATIENT: No I just, I keep getting these hot flashes then it and ever day I get very hot.  My skin just gets very hot, very extremely hot.
+DOCTOR: Uh-huh.  So you haven't started any new medicines huh?
+PATIENT: Um no I can't think of none no.
+DOCTOR: Nothing was recently started?  Do you use the hydrocortisone cream at all?
+PATIENT: Yeah but I been using it before this skin problem.
+DOCTOR: What about this terbinafine cream?
+PATIENT: I been using that before too.
+DOCTOR: Does that work?
+PATIENT: Uh I use it, yeah it works sometimes.
+DOCTOR: Uh-huh.  Have you seen Dermatology before?
+PATIENT: No.
+DOCTOR: And you were also in the Emergency Room for it says back pain and then you also saw them for this panniculitis that they gave you [REDACTED].  Have you been taking the Nystatin powder?
+PATIENT: This right here?
+DOCTOR: What does that say on it?  Yeah Nystatin powder, is that helping?
+PATIENT: Oh it helps right here.  I haven't tried it on uh the rest of my body yet.  I just haven't been putting anything on here because it just itches, burns so bad.
+DOCTOR: You haven't been putting it anywhere?
+PATIENT: No.
+DOCTOR: Well your abdomen, do you put it on your belly?
+PATIENT: Yes.
+DOCTOR: Has it been helping?
+PATIENT: A little bit, just a little bit.  All it does is keeps it dry but it's, it leaks so much fluid I don't know what to do about it.  I try to keep something on it but it just leaks so much fluid.  I don't know what to do about it though.  I'm just breaking out everywhere from feet to head.
+DOCTOR: What else are you using on your skin?
+PATIENT: Nothing now.
+DOCTOR: Oh so you're not using the hydrocortisone?
+PATIENT: I put it on there but it's not doing any good.
+DOCTOR: Okay.
+PATIENT: I'm just itching beyond itching and burning and it just seems like every hour I just get this hot feeling and I just get hot, just completely hot and then I just itch all day.
+DOCTOR: Uh-huh.
+PATIENT: I just wish I could get something to stop me from itching.  It's just all day.
+DOCTOR: Have you tried Benadryl?
+PATIENT: No.  I haven't had any.
+DOCTOR: So you've never tried Benadryl?
+PATIENT: I've tried it before.
+DOCTOR: Did it not help?
+PATIENT: Yes but I never thought of that until right now.
+DOCTOR: Uh-huh.
+PATIENT: I'd like to have some if I can get it.
+DOCTOR: I'll have you come over there.
+PATIENT: Oh my God this itches so bad.  I mean this itching, the bumps are everywhere.  From top to bottom.
+DOCTOR: Well stop itching it for right now, let me take a look.
+PATIENT: Ooh.
+DOCTOR: Where do you live?
+PATIENT: I live on 68th and Woods.
+DOCTOR: In an apartment?
+PATIENT: Uh a house.
+DOCTOR: Who do you live with?
+PATIENT: My aunt.
+DOCTOR: And you've never had any issues with skin before in the past?
+PATIENT: It's been a long time.
+DOCTOR: Did you ever, were you ever told you had psoriasis?
+PATIENT: No.
+DOCTOR: The one on your back, have you been scratching it?
+PATIENT: Yes, just a little bit.  I've been trying to avoid it.  You know these dark spots.
+DOCTOR: Yeah I may just going to talk alook.  You haven't seen any bed bugs have you?
+PATIENT: Huh?
+DOCTOR: You haven't seen any bed bugs have you?
+PATIENT: No.
+DOCTOR: Who do you live with?
+PATIENT: My aunt.
+DOCTOR: Does she have a rash too?
+PATIENT: No.  The woman has just a daughter and two grandkids.  My armpits are real terrible too.
+DOCTOR: Now what’s up with your abdomen?  Lay down.  Pull down your pants a little bit, no where else, none in your groin?
+PATIENT: Huh?
+DOCTOR: Not in your groin?
+PATIENT: It itches in my groin.
+DOCTOR: I mean, it could very well could be, it could be all fungal.  Although I don't know what your risk factors are really.  Do you have any on your legs?
+PATIENT: Uh yes, I'm itching on my legs.
+DOCTOR: Lay down.  Do you have rash on your legs though?
+PATIENT: Yes.
+DOCTOR: Okay you can pull your pants up.  Where do you have them on your legs?  Actually take off your, you can keep your boxers on but pull.
+PATIENT: Okay.  It feels like it's in my knees, yeah it is.
+DOCTOR: Yeah I think this is all fungal cause it's mainly in the areas that are wet.  Let’s look at the other one.  You haven't [REDACTED] hepatitis see you?
+PATIENT: No.
+DOCTOR: Or HIV?
+PATIENT: No.
+DOCTOR: Put your arms up.  Lift up the other one.  So this is in your arm pits too?
+PATIENT: Yes.
+DOCTOR: Okay.  Hmm.  I don't know why you have the um, you're so easily getting fungal rashes.  Alright give me a little time okay.
+PATIENT: Okay.
+DOCTOR: Be right back.  Stay right there.
+PATIENT: Yes sir.
+DOCTOR: No keep your shirt off though cause I may have somebody come look.
+PATIENT: Okay.
+DOCTOR: Okay.
+(DOCTOR OUT:  47:40  DOCTOR IN:  57:15
+PATIENT: (Knock on the door)  Yes.
+DOCTOR: Hey.
+PATIENT: Hello.
+DOCTOR: Do you receive [REDACTED] health care?
+PATIENT: Yes.
+DOCTOR: You saw DOCTOR and had an appointment today?
+PATIENT: Yes.
+DOCTOR: He told me it was painful.
+PATIENT: Yes it is.
+DOCTOR: He told me it was itchy.
+PATIENT: It's itchy.  Actually it's burning and painful.
+DOCTOR: It's burning and painful.
+PATIENT: Yes.
+DOCTOR: The back is the area that looks similar to the stomach.
+DOCTOR: It's not shingles.
+DOCTOR: But even if they've healed, like they’ve.
+DOCTOR: Have you tried um hydrocortisone cream on the back here?
+DOCTOR: The main one is the neck and these ones don’t hurt you as much as the neck ones right?
+PATIENT: They all burn.
+DOCTOR: Let me see [REDACTED].  Oh boy.
+DOCTOR: Yeah.  [REDACTED].
+DOCTOR: Have you seen the dermatologist?
+PATIENT: No.
+DOCTOR: You've been really scratching here?
+PATIENT: Yeah [REDACTED].  Itches and burns so bad.
+DOCTOR: Yeah.
+PATIENT: Ooh.
+DOCTOR: How much, have you been scratching constantly at the stomach?
+DOCTOR: Does it look red do you think?
+DOCTOR: It looks red here.  Cause it looks like he's scratching right here.  We're going to put your legs up, hold up.
+DOCTOR: How long has it been here?
+PATIENT: About for three weeks.
+DOCTOR: You're more tender now?
+PATIENT: Yeah.
+DOCTOR: Wasn’t as tender.
+DOCTOR: Let me see here.  Do you put hydrocortisone on this area?  You don't put hydrocortisone anywhere?  Where do you put the hydrocortisone?
+PATIENT: I put it on my belly.
+DOCTOR: Here right?
+PATIENT: Yeah.
+DOCTOR: This is where you're putting Nystatin on.
+PATIENT: Yes.  Try to keep it dry.
+(Doctors are talking between themselves)
+DOCTOR: So you put clotrimazole on here and Nystatin on here and it did not work?
+DOCTOR: Or just the Nystatin.
+PATIENT: I just put the powder on here.
+DOCTOR: Did you put the clotrimazole?
+DOCTOR: Yes historically he has [REDACTED].
+DOCTOR: Oh for the same thing or something for different?
+PATIENT: I just put the powder on this keeps going through.
+DOCTOR: But the clotrimazole, where did you put that?
+DOCTOR: Historically.  You've had two medications.
+PATIENT: Yeah.
+DOCTOR: One the Nystatin historically but then you also had another one that was a cream.
+PATIENT: Yeah the cream.
+DOCTOR: That DOCTOR had given you.
+PATIENT: Yeah I stopped putting the cream.
+DOCTOR: Why?
+PATIENT: It kept it too moist and it kept it itchy.
+DOCTOR: Did it make it better?
+PATIENT: No.
+DOCTOR: No.  I don't think this is fungal. [REDACTED]I think we should try a little topical steroid and get him in to see Dermatology because they may need to biopsy this.
+DOCTOR: [REDACTED] for dermatitis from just.
+DOCTOR: Yes.
+DOCTOR: This kind of treat him like that.
+PATIENT: And there's just a lot of fluid that's been coming out of it.
+DOCTOR: So what I would do is I would give him like [REDACTED] cream 1%.
+DOCTOR: [REDACTED].
+DOCTOR: Apply that twice a day and right in the small of your back, is it itchy?
+PATIENT: It's burning and itchy.
+DOCTOR: Burning and itchy.
+PATIENT: Oh burning yeah.
+DOCTOR: Burning.  It's been right at his belt line right?
+PATIENT: Yes.
+DOCTOR: Yeah.
+DOCTOR: Oh.
+DOCTOR: [REDACTED] that's where it is. [REDACTED] in his pants line too and a little bit higher.
+DOCTOR: So let's, what so, even if it's diffuse if you're putting the medicine on it, I think it should have gotten better.
+DOCTOR: Yeah.
+DOCTOR: So I'm want to, or at least a little bit. We should have seen something. So, if you've only been putting the steroids [REDACTED] and does your back get better with the steroids [REDACTED]?
+PATIENT: Just a little bit.
+DOCTOR: Okay, let's put, I'm going to give you some different steroids for here and on your back twice a day.  I want to get you into Dermatology.
+PATIENT: Okay.
+DOCTOR: And ask them.  Now the problem that I see is that if it becomes infected.  Now see some of these lesions that are open and weeping and what happens is that bacteria comes in and causes infection.  Do you know what that feels like?  It will be stinky, fevers, chills.
+PATIENT: That's what I'm getting, fevers.
+DOCTOR: You're getting fevers, how high?
+DOCTOR: Well he's not; he says he feels like his skin feels hot.
+PATIENT: I just get very hot and it's like I get hot all over.
+DOCTOR: Yeah hot all over.
+DOCTOR: Let's um, yeah let's just try.  Looks like you're allergic to something.  I don't know what it is.
+PATIENT: I don't know either.
+DOCTOR: You're not; you said you're just using Dove soap which is not new.
+PATIENT: No.
+DOCTOR: You didn't add and you don't have any new detergents you said in your household either, nothing new that's come in contact with you.
+PATIENT: Not that I could think of.
+DOCTOR: Okay.
+DOCTOR: And you didn't switch homes; you didn't switch beds, nothing that corresponds to the timing of this?
+PATIENT: Uh I switched from the front room to the basement.
+DOCTOR: Is there anything different with is used, the bedding, the sheets that corresponds to the change?
+PATIENT: I'm using different sheets, I mean different blankets.
+DOCTOR: You wouldn’t it would just be here with blankets, it would be all over.
+DOCTOR: Yeah.  Okay.
+PATIENT: I'm going to investigate to see if something is different down there.
+DOCTOR: Do you think it you moved down there at the same time that this popped up?
+PATIENT: No.
+DOCTOR: Okay let me uh help you up.  Just 1%.
+PATIENT: Ooh.
+DOCTOR: [REDACTED] 1%.
+PATIENT: So this is not concerning that it keeps burning all over?  It just don't look like it but its burning.
+DOCTOR: Yeah.
+PATIENT: It doesn't look like the rest of them but it burns just as worse.
+DOCTOR: Yeah get him to dermatology.  How long has it been going on, three weeks?
+PATIENT: No this was going on for three weeks and this just happened, it just come along and the rest has been about a week.  It doesn't look as bad but my scalp seems to be itching too and it's just a little bit at a time this comes along.
+DOCTOR: [REDACTED] medicine, over-the-counter.
+DOCTOR: No fevers or chills?
+PATIENT: Uh it seems like a fever, I been getting fevers.  And it's coming up along my ears to my scalp it seems like.
+DOCTOR: [REDACTED]
+DOCTOR: I mean it looks like maybe he has been scratching but we can get some medicine for that right here.  Alright a little bit then, let me see right there.
+DOCTOR: And what did they look like when they were first on your back; did they look like a pustule?
+DOCTOR: To me it looked like you have old areas on your skin on your arms.  These look old.
+PATIENT: Well they come and seem like they just came and disappeared and over here they seem like they new.
+DOCTOR: Oh.  Is this something different?  Was this a different rash?
+PATIENT: This one.
+DOCTOR: This almost looks more like a dermatome right here.
+DOCTOR: Yeah.
+DOCTOR: But then.
+DOCTOR: But then it goes, kind of yeah.
+PATIENT: These is the little ones that started coming right here.
+DOCTOR: What's his other medical history?
+DOCTOR: He's also got.
+PATIENT: These just started coming right here.  These are new.  You see those little bumps, these are just coming right here.
+DOCTOR: He has a history of yeah.
+PATIENT: These are little so these are just, this started right here like these.
+DOCTOR: Yeah.  Now it says you were homeless at one point, well you're not homeless any more.
+PATIENT: No.
+DOCTOR: You don't have a history of HIV?
+PATIENT: No.
+DOCTOR: [REDACTED] hepatitis C, have you been tested for all of that?
+PATIENT: Yes.
+DOCTOR: Do you do IV drugs at all?
+PATIENT: No.
+DOCTOR: He has a history of alcohol but not IV drug use.
+PATIENT: No never.
+DOCTOR: So this is what it looks like when it starts?  These little.
+PATIENT: Huh?
+DOCTOR: Is that a fresh one?
+PATIENT: Yes.
+DOCTOR: That looks fresh.
+PATIENT: Yeah these are.  They start off like little bitty bumps.
+DOCTOR: But they've never done an HIV test on you.
+PATIENT: Yes I did a long time I had an HIV test done.
+DOCTOR: Where?
+DOCTOR: Well not here recently.  I can't pull it up on the computer.
+PATIENT: Hmm.  I remember having one.
+DOCTOR: It doesn't look like shingles, shingles really [REDACTED].
+DOCTOR: You know when I originally first just saw.
+DOCTOR: Let's look at the fresh ones here okay.
+DOCTOR: Yeah.
+DOCTOR: That looks to be a chemical dermatitis.
+DOCTOR: Yeah.
+PATIENT: There's some over here too.
+DOCTOR: You had a syphilis test done this year, that was negative.
+DOCTOR: He could have hepatitis.  Are you sexually active now?
+PATIENT: Off and on, but not regular.
+DOCTOR: Do you use protection?
+PATIENT: Yes.
+DOCTOR: All the time?
+PATIENT: All the time.
+DOCTOR: Condoms?
+PATIENT: Yes.
+DOCTOR: Every single time?
+PATIENT: Every single time, always.
+DOCTOR: Always alright. I think the steroid and the derm consult.
+DOCTOR: Derm consult.
+DOCTOR: Derm consult and if he's already having [REDACTED].
+PATIENT: I need to get something to stop this itching?
+DOCTOR: So he's on an H2 blocker.
+DOCTOR: Yeah right here, okay.
+PATIENT: If you get some Benadryl for me, I need something to stop the itching.
+DOCTOR: We'll give you, what's called [REDACTED] to help with the itching [REDACTED], that's what we're adding.
+PATIENT: What?
+DOCTOR: It'll help you with the itching.
+DOCTOR: It'll help you with the itching.
+PATIENT: Right.
+DOCTOR: Yeah.
+DOCTOR: Would you look and see if he [REDACTED] Emergency Room.
+DOCTOR: He got, he didn't get the flu.
+DOCTOR: [REDACTED].
+PATIENT: And something for pain please.
+DOCTOR: He was here July 28th but that was before.  He saw DOCTOR.
+DOCTOR: Have you started any new medications recently?
+DOCTOR: He said no.  He saw him in August, he said before when he went to the ED he didn't get one.  He got them in July so that was pretty recent.
+DOCTOR: [REDACTED].
+DOCTOR: So here's [REDACTED] 3.8%  So really um.
+PATIENT: I  haven’t been [REDACTED], so.
+DOCTOR: You already have Norco?
+PATIENT: Huh?
+DOCTOR: [REDACTED].  Give him something like ibuprofen or Naproxen and uh Benadryl and [REDACTED] and this one right here.
+DOCTOR: Okay sounds good.
+DOCTOR: Alright dear, I hope this works for you okay.
+PATIENT: Okay.
+DOCTOR: Alright [REDACTED].
+DOCTOR: Okay so what we're going to do is give you a medicine for the itching okay.
+PATIENT: And something for the pain please.
+DOCTOR: Yep.
+PATIENT: Oh goodness.  How long with this pain, itching.
+DOCTOR: You can put your shirt back on.
+PATIENT: How long with this itchy stuff, how long will it take to start working.
+DOCTOR: Hopefully real soon.
+PATIENT: Ooh wee.
+DOCTOR: I'll give you Benadryl but it’s just oral Benadryl okay.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Well antihistamines, we're going to give you loratadine, one or the other, it kind of goes [REDACTED]
+PATIENT: What's the other stuff you going to give me to put on the rashes?
+DOCTOR: A medication to help with the itching.
+PATIENT: A topical?
+DOCTOR: Uh-huh.  So take this four times [REDACTED].  You'll pick it up at the window.
+PATIENT: Okay.
+DOCTOR: And I am going to give you triamcinolone.  Try not to, I know it's itchy but not to, the more you itch it the worse it's going to get alright, so try to avoid it.  Okay and let me put in an order for a consult for Dermatology okay.
+PATIENT: Okay.
+DOCTOR: Okay come with me, do you have everything?
+PATIENT: Yes.
+DOCTOR: Okay and you'll go pick everything up at the window okay.
+PATIENT: Okay.
+DOCTOR: Come on over here.  [REDACTED] they'll give you the medicine okay.  Have a good one.
+PATIENT: Thank you.
+Time is 1:45
+DD: @@/@@/@@
+DT:@@/@@/@@
+INFOPRO/800511/JOB#  1238126
+TRANSACTION # 578-10-2-316-0103

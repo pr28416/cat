@@ -1,0 +1,291 @@
+DOCTOR: PATIENT?
+PATIENT: There's something wrong with my knee.  Where at?  Here?
+DOCTOR: Yep you got it.
+PATIENT: I sort of feel sleepy.  I didn't get enough sleep last night.
+DOCTOR: Oh really, what happened?
+PATIENT: Uh kids come over and stuff like that.  Oh.
+DOCTOR: [REDACTED].
+PATIENT: Uh huh?
+DOCTOR: Were you partying?
+PATIENT: No, kept me awake.
+DOCTOR: So anyway it's been a while.
+PATIENT: Yeah it has.
+DOCTOR: So what's new?
+PATIENT: My leg is hurting.  My arthritis is real bad.  I ran out of those patches.  You're not the one that gave me those patches are you?  The testosterone?
+DOCTOR: Uh [REDACTED] Endocrinology doctors.
+PATIENT: Oh okay.
+DOCTOR: Yeah.  And you're working?
+PATIENT: Yeah.
+DOCTOR: How's that?
+PATIENT: Um I'm making it.  I'm going through with the pain but that's alright.
+DOCTOR: Works good.
+PATIENT: Yeah it's working out okay.  It’s only for six months.  I couldn't work out in the private sector, I can forget about that.
+DOCTOR: Okay.
+PATIENT: I wouldn't make it.  Here they don't bother you, you know what I mean.
+DOCTOR: Yeah.
+PATIENT: They don't bother you.  Yeah I make mistakes and stuff but I go back and do it again, you know what I mean.  But I haven't been.
+DOCTOR: Where are you working again?
+PATIENT: Uh housekeeping.
+DOCTOR: Okay.
+PATIENT: Yeah.  So it doesn't really call for much you know.  But my knee gets hurting real bad, my knee gets puffed up.
+DOCTOR: Uh-huh.  Um, where are you living right now?
+PATIENT: Uh my apartment, it's just by the Midway Airport.
+DOCTOR: Good and did you drive here or how did you get here?
+PATIENT: I got a license yeah.
+DOCTOR: You have your own transportation?
+PATIENT: Yeah.  The train takes me though, right here.
+DOCTOR: Right here.
+PATIENT: Yeah Forest Park.
+DOCTOR: Uh-huh.
+PATIENT: I catch the 308 and the 308 comes right in front of the building.
+DOCTOR: Um, overall any major changes in your health since I last saw you?
+PATIENT: I've been having them damn sweats all the time.
+DOCTOR: Sweats, what do you mean?
+PATIENT: I mean all of a sudden I just start to sweat you know.
+DOCTOR: Like night sweats or?
+PATIENT: Yeah, I wake up and my whole body's all wet, sweating and everything.  And my pillow's all wet you know.  Like now look I'm sweating right now.
+DOCTOR: Are you hot?
+PATIENT: [REDACTED] you I'll be sitting real cool and then all of a sudden I can feel it coming.
+DOCTOR: Hmm.
+PATIENT: Like it’s inside just comes out and then I start sweating.  Everybody on the bus is real cool and I'm over there sweating like a pig, all wet and everything you know.  It's embarrassing.  [REDACTED] like that, try to cool off.
+DOCTOR: Hmm.
+PATIENT: I don't know what this is from.  But it sure is bothering me.
+DOCTOR: Have you had any um, any problems with managing your diabetes?
+PATIENT: No.
+DOCTOR: No okay.  Um any fevers or chills?
+PATIENT: No.
+DOCTOR: Chest discomfort?
+PATIENT: No.
+DOCTOR: Shortness of breath?
+PATIENT: I don't think so.
+DOCTOR: How about chest pain when you exert yourself?
+PATIENT: Not that I know of.
+DOCTOR: Any body pains?
+PATIENT: No.
+DOCTOR: Nausea or vomiting?
+PATIENT: No.
+DOCTOR: Okay.  How about um problems with your legs?
+PATIENT: Like what?
+DOCTOR: I don’t know, any problems.  Pain?
+PATIENT: My knee.
+DOCTOR: When did the knee start bothering you?
+PATIENT: A while back, about maybe three weeks ago.
+DOCTOR: Did you injure it at all?
+PATIENT: I don't know, I think I might have just got up you know, thought I was young again you know, just started doing something that I shouldn't have done and it hurt, you know like something happened and now it's really stiff.
+DOCTOR: You didn't have like a sudden pop or?
+PATIENT: No I don't think so.  Except when I get up it creaks and now days.
+DOCTOR: Swollen?
+PATIENT: Yeah I think it is.
+DOCTOR: Okay, let's take a look at it.
+PATIENT: Okay, do I have to take my pants off?
+DOCTOR: Yeah.  Are you having a problem getting around?
+PATIENT: Yeah.  I have problems sometimes putting on my own God damn shoes.
+DOCTOR: Okay.
+PATIENT: You know.  It's rough.  See how big it is there.
+DOCTOR: Let's take a look.
+PATIENT: Okay.
+DOCTOR: Just look straight ahead, stand up straight.
+PATIENT: Okay.
+DOCTOR: Then just stand up straight.
+PATIENT: Okay, trying to.
+DOCTOR: Uh-huh.  Now I'll take a look at it.
+PATIENT: Okay.
+DOCTOR: Why don't you hobble over there?
+PATIENT: Hobble?
+DOCTOR: Yeah.
+PATIENT: Okay.  Uh.
+DOCTOR: Does it hurt when you walk?
+PATIENT: Yeah.
+DOCTOR: How about is it worse when you walk up stairs or down?
+PATIENT: Well when I'm walking down I have to you know use this one more and I try to stay off of this, cause I might buckle and that'd make me fall.
+DOCTOR: Uh-huh.
+PATIENT: You know.
+DOCTOR: Keep it straight.
+PATIENT: Sure.
+DOCTOR: Any pain?
+PATIENT: No.
+DOCTOR: No.  Okay, let's see this one.  Can you lay down all the way?
+PATIENT: Sure, ah.
+DOCTOR: Actually why don't you take off your pants.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  I'll have you take off your socks and your shoes I need to check your feet.
+PATIENT: Uh-huh, I haven't even cut my nails because of that too.
+DOCTOR: [REDACTED].
+PATIENT: Because I couldn't reach [REDACTED].
+DOCTOR: Okay.
+PATIENT: You know and they look gross.
+DOCTOR: Yeah.
+PATIENT: Ooh I'm sorry, shouldn't have dropped my stuff.
+DOCTOR: It's okay.
+PATIENT: Oh shit, excuse me.  Oh damn it.  Okay.
+DOCTOR: Why don't you lie down flat?
+PATIENT: Flat?
+DOCTOR: Yep.
+PATIENT: Alright.  Thank you.  Okay.  Ah, ah, ah.
+DOCTOR: Pain in here?
+PATIENT: No.  It's not that one; you know I don't think you know, it's the other one, sure.
+DOCTOR: Does that hurt?
+PATIENT: Yeah a little.
+DOCTOR: Hurt?
+PATIENT: Uh uh.
+DOCTOR: No.
+PATIENT: No.  Um.
+DOCTOR: No.
+PATIENT: Uh uh.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Uh.
+DOCTOR: In your hip?
+PATIENT: Yeah right here.
+DOCTOR: Uh-huh.
+PATIENT: Uh-huh, it hurt.
+DOCTOR: Does that hurt?
+PATIENT: No, not at all.
+DOCTOR: Does the pain shoot down your leg or is it just localized over the kneecap?
+PATIENT: It's more just in the kneecap, inside, like I feel like it's in the bone.
+DOCTOR: Uh-huh.
+PATIENT: You know.
+DOCTOR: I think you've got a little bit of fluid around there.
+PATIENT: What'd I do injure it or something?
+DOCTOR: Um, I think you've got some arthritis.
+PATIENT: Yeah.  Around my elbows hurt a lot too.  They've been hurting.
+DOCTOR: [REDACTED] overall.
+PATIENT: Oh.  [REDACTED] work I do [REDACTED].  I don't pick up nothing I can't pick up.  I won't even try it.
+DOCTOR: Can you take off your socks for me?
+PATIENT: Sure, I'm sorry I should do it before.
+DOCTOR: That's okay, no problem.
+PATIENT: Here's the other thing I do, I forget.  You know it's a bad thing from doing drugs all my life I guess, stupid me.
+DOCTOR: You're not using anymore, totally clean?
+PATIENT: Well I do the methadone only but other than I've been totally legal.
+DOCTOR: Good.
+PATIENT: That is for the last couple years.
+DOCTOR: Smoking?
+PATIENT: Yeah about five cigarettes.
+DOCTOR: A day?
+PATIENT: Yeah, it's good but still I want to get off.
+DOCTOR: Uh-huh.
+PATIENT: Because you know it's awful.
+DOCTOR: Okay.
+PATIENT: You know.  My feet are gross.
+DOCTOR: Deep breath for me.  Breathe out, deep breath, deep breath.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Nothing?
+PATIENT: No I don't think so.
+DOCTOR: Any pain?
+PATIENT: No, no.
+DOCTOR: Any lumps or bumps on the rest of the part of your body?
+PATIENT: Not that I know, I don't think so.
+DOCTOR: Good.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: Can you feel that?
+PATIENT: Yeah.
+DOCTOR: Feel that?
+PATIENT: I feel it.
+DOCTOR: Good.  You can put back on your socks and shoes; we're all done with that.
+PATIENT: Okay.  Pants too?
+DOCTOR: Yep.
+PATIENT: Alright.  In other words get dressed.
+DOCTOR: You got it.
+PATIENT: Okay, thank you.  Do you think that's what it is then because you know like before, [REDACTED] and I can't do it no more.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  See that is another thing, I don't have a chair in my room, I got a bed.
+DOCTOR: Uh-huh.
+PATIENT: And you know it's not really made for getting dressed.
+DOCTOR: Yeah.
+PATIENT: You know.  I have a small apartment and things are hard to do uh.  Oh shit.  Oh, ah, ah.  Hmm.
+DOCTOR: Is the pain persistent [REDACTED]?
+PATIENT: Yeah.  It could be longer too, you know, there's some pain close to where it was.
+DOCTOR: Is it right over the top of it or in the inside, on the outside?
+PATIENT: What the pain?
+DOCTOR: Yeah.
+PATIENT: In the inside, the bone.  That's what it feels like to me.
+DOCTOR: But [REDACTED] inside.
+PATIENT: Oh yeah out here, right here.
+DOCTOR: Okay, I gotcha.
+PATIENT: Hmm.
+DOCTOR: Do you take anything to help the pain?
+PATIENT: I've been taking arthritis pills only.
+DOCTOR: Like Tylenol Arthritis?
+PATIENT: Uh, the other one, Aleve.
+DOCTOR: Aleve.
+PATIENT: Yeah Aleve.
+DOCTOR: Does it help?
+PATIENT: It helps for the rest of the body, you know what I mean but the stiffness, you know what I mean.
+DOCTOR: Give me a couple of minutes okay.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Anything else we need to do?  Have you had any constipation, diarrhea?
+PATIENT: Yeah.
+DOCTOR: Constipation?
+PATIENT: But I want to tell you about that too, can you give me something for the loosening up, cause that's been hard.  I've been having a hard time going potty.
+DOCTOR: Yeah.
+PATIENT: You know I mean real bad and it's really bothering me.
+DOCTOR: How many times do you go per week?
+PATIENT: [REDACTED] per week, I go like twice a day or something.  I go normal, but it just hurts, you know what I mean and it trickles out, [REDACTED].
+DOCTOR: Okay and then the other thing is.
+PATIENT: Huh.
+DOCTOR: Um any um fatigue?
+PATIENT: Yeah.
+DOCTOR: You do you find it hard to get out of bed?
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: I've been feeling sleepy and everything and I get to sleep and I still feel sleepy.
+DOCTOR: Yeah.
+PATIENT: Yeah right now I was falling asleep over there; you know what I'm saying.
+DOCTOR: I gotcha.
+PATIENT: And uh.
+DOCTOR: And you're not on any of the hormone patches just yet?
+PATIENT: Yeah I got one on right now but it's the last one.
+DOCTOR: Okay.  Well are you going to see the endocrinologist soon?
+PATIENT: I don't know, I hope so.
+DOCTOR: I'll take a look.
+PATIENT: Okay.
+DOCTOR: Give me a couple of minutes okay.
+PATIENT: Okie doke.
+(DOCTOR OUT:  65:04  DOCTOR IN:  72:40)
+DOCTOR: Almost done.
+PATIENT: Okay.
+DOCTOR: I just have a few things for you alright.
+PATIENT: Uh-huh.  Okay.
+DOCTOR: Okay I gave you a stool softener and your medications should be all squared away.  Let's see do you need any refills, looks like you do.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED], simvastatin, uh.  We'll just keep everything as is.  I'm also adding a stool softener and I gave you a cream that you can apply over your knees when you have pain.
+PATIENT: Uh-huh.
+DOCTOR: Apply it once a day when you have pain there, you can just see how it goes.  You know you can take Aleve you know periodically for the pain as well.
+PATIENT: Uh-huh.
+DOCTOR: I wouldn't take it more than two or three times a day though.
+PATIENT: I only take it every 12 hours.
+DOCTOR: Good and then um, so today I want to repeat some labs and I want to get an x-ray of this okay.
+PATIENT: When.
+DOCTOR: Any time.
+PATIENT: Any chance I could go over there the X-Ray.
+DOCTOR: Uh-huh.
+PATIENT: Alright, I'll try to do it tomorrow morning is that okay?
+DOCTOR: That's good.
+PATIENT: Thank you very much I appreciate it.
+DOCTOR: Okay so let me give you your papers.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: Do I uh go downstairs and uh, I mean what is this thing, see I forget, what I gonna tell you.
+DOCTOR: Oh you need to check out.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: I'll see you again?
+DOCTOR: You'll see me again.
+PATIENT: Oh that's what I was thinking, the medicine do I go pick it up?
+DOCTOR: Oh yeah it's gonna come to your house.
+PATIENT: Oh okay.
+DOCTOR: Is that perfect?
+PATIENT: Yeah.
+DOCTOR: Good.
+PATIENT: Thank you very much, take care.
+DOCTOR: [REDACTED].
+PATIENT: I'll see you again though?
+DOCTOR: You will, four months.
+PATIENT: Four.
+DOCTOR: Yep.
+PATIENT: Alright thank you.
+PATIENT: 77:19
+Time is 10:45.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238097
+TRANSACTION # 578-10-2-316-0103

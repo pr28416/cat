@@ -1,0 +1,9 @@
+You are a health communication analyst. Read the following patient-doctor transcript.
+Assess the patient's overall communication proficiency based on your general understanding of effective health communication.
+Assign a single holistic total score from 5 (very poor) to 20 (excellent).
+Output only the numerical total score. Example: 15
+
+Transcript:
+{{TranscriptText}}
+
+Total Score (5-20): 

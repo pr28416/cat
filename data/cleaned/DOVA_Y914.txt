@@ -1,0 +1,266 @@
+DOCTOR: Hi PATIENT.
+PATIENT: Hello.
+DOCTOR: I'm DOCTOR.  Nice to meet you.
+PATIENT: Okay nice to meet you.  Oh your shoes look nice.
+DOCTOR: Thank you.  How are you today?
+PATIENT: I'm getting there.
+DOCTOR: Good.  I know you usually see DOCTOR in the past but.
+PATIENT: Uh-huh.
+DOCTOR: He went over to Hines so he's no longer here.
+PATIENT: Okay.
+DOCTOR: So um it looks like you follow with the urologist pretty regularly.
+PATIENT: Yeah I do uh-huh.
+DOCTOR: And then you also have seen the endocrinologist in the past.
+PATIENT: Yes.
+DOCTOR: For the osteoporosis.  Okay.  Are you, you're just on the calcium and vitamin D for now?
+PATIENT: Well I take the vitamin D and then I take a multiple vitamin also.
+DOCTOR: Multivitamin too okay.  Um are you having any bone aches or pains?
+PATIENT: I get aches in my legs.
+DOCTOR: In your legs?
+PATIENT: Yeah when I'm trying to sleep.  It happens mostly at night when I'm going to sleep or trying to go to sleep, it'll start over here, then goes over here.
+DOCTOR: Okay.
+PATIENT: And then it'll stop and it'll move over here and here and uh.
+DOCTOR: Anything in your feet?  Any pain in your feet?
+PATIENT: Yeah, uh-huh, yeah but it feels like toe was turning back.
+DOCTOR: Oh that's not a good feeling.  How long has that been going on?
+PATIENT: Been going on for let's say the better part of this year.
+DOCTOR: For so over six months?
+PATIENT: Yes uh-huh.
+DOCTOR: Okay.  Uh it only occurs at night?
+PATIENT: Pretty much yeah.
+DOCTOR: Okay.  Do you have any back pain?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Um have you had issues with your back in the past?
+PATIENT: No uh uh.
+DOCTOR: No.  Let me see if there's been any imaging of your back before cause sometimes what can happen is um if you have some nerves being pinched in your back then that can cause the pain and the numbness in your lower legs.
+PATIENT: Oh really, uh-huh.
+DOCTOR: Yeah and sometimes that can happen the most when you're sleeping at night because of the way you are lying on your back.
+PATIENT: Okay.
+DOCTOR: So it looks like you've never really had imaging of your back before.  So I think it'd be worthwhile to least start off with an x-ray if not an MRI of the back to see if you're having any nerve issues back there.
+PATIENT: Uh-huh.
+DOCTOR: Um do you take anything for pain?
+PATIENT: No.
+DOCTOR: Now are you still on the methadone?
+PATIENT: No.
+DOCTOR: Or you stopped a while ago huh?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Alright.  Good, so now you're only, you're getting the Zoladex from the GU Clinic.
+PATIENT: Yes uh-huh.
+DOCTOR: Do you still take the Megace?
+PATIENT: Yes.
+DOCTOR: For the hot flashes okay.
+PATIENT: Uh-huh.
+DOCTOR: And is that helping you?
+PATIENT: Yes it does.
+DOCTOR: Okay.  That's good, most people I ask they say it's not helping.
+PATIENT: And you have to keep taking them and that's what I found out anyway so when I first started taking them I think it was, I don't know if it was last year or the year before last, I can't remember but anyway uh it didn't have an effect on me at first.
+DOCTOR: Okay.
+PATIENT: And then after about a week of taking them constantly all of a sudden I was having a [REDACTED].
+DOCTOR: Okay well that's good.  Is your appetite good?
+PATIENT: My what?
+DOCTOR: Your appetite?
+PATIENT: Oh my appetite.  Appetite's great.
+DOCTOR: Yeah.  You're not losing weight or anything?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No.
+DOCTOR: Any fevers, chills or anything like that?
+PATIENT: Um let's see now um I could say that you know I have chills but I uh, let's just say when it was real hot in July.
+DOCTOR: Uh-huh.
+PATIENT: So I can always put the air conditioner on in my house or my apartment for only a short period of time because when I leave it on too long I can get really cold.
+DOCTOR: Really cold okay.
+PATIENT: Uh-huh.
+DOCTOR: Alright.  Any other issues or concerns today?
+PATIENT: No, uh uh.
+DOCTOR: Uh I was just looking back and DOCTOR's note I guess you had talked about constipation with him at some point.  Is that still an issue?
+PATIENT: Uh it's uh, it starts and it stops you know just now and then.
+DOCTOR: Do you take any stool softeners or anything like that?
+PATIENT: Not anymore.
+DOCTOR: Okay.  Did those help when you were on them?
+PATIENT: They may have helped a little bit.
+DOCTOR: Okay.  Um do you want, uh, a prescription for them again?
+PATIENT: Sure, why not?
+DOCTOR: So you're drinking water?
+PATIENT: I drink plenty of water.
+DOCTOR: Okay and do you have fiber in your diet?
+PATIENT: Fiber in my diet?
+DOCTOR: A lot of grains?
+PATIENT: Uh.
+DOCTOR: Not really?
+PATIENT: Not a whole lot, not a lot of the time.  Every once in a while I get a really good grain diet [REDACTED] and I have it for dinner for about four or five days and then there won't be any more for a while.
+DOCTOR: Oh.
+PATIENT: Unless you count uh Cheerios.
+DOCTOR: A little bit.  Um okay and how's your breathing?  You have, it looks like very mild COPD.
+PATIENT: Uh yeah, uh as long as I don't try to do too much hustling.  If I try to walk fast get a [REDACTED] fast because if I do I have to stop.
+DOCTOR: Okay.  How far can you walk on a flat surface?
+PATIENT: How far can I walk?
+DOCTOR: Yeah before you get short of breath?
+PATIENT: Um I might be able to walk a mile or two.
+DOCTOR: Okay and you don't have any issues?
+PATIENT: No uh uh.
+DOCTOR: Any chest pain with that?
+PATIENT: No, no.
+DOCTOR: And you don't have any inhalers right now?
+PATIENT: No uh uh.
+DOCTOR: No have you ever used inhalers?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Alright and I know DOCTOR had talked to you in the past about getting um a colonoscopy.
+PATIENT: And I said no.
+DOCTOR: [REDACTED], you still don't want to do that okay.
+PATIENT: Uh uh.
+DOCTOR: Okay any blood in your stool?
+PATIENT: No uh uh.
+DOCTOR: Alright.  Um have you had a follow up with the endocrinologist at all?
+PATIENT: I haven't seen [REDACTED].
+DOCTOR: [REDACTED]
+PATIENT: I haven't seen Endo since [REDACTED].
+DOCTOR: Okay.  So I'd like to see you back and see them cause you know the repeat DEXA scan that you did in May still shows that you have osteoporosis.
+PATIENT: Yeah.
+DOCTOR: So I think we need to start you on something called Fosamax which is a pill that you take once a week.  Um it helps with the bones.
+PATIENT: Okay that's fine.
+DOCTOR: Uh [REDACTED].
+PATIENT: I may have had something like that or similar to that uh when I uh had, when I had the appointments with Endo.
+DOCTOR: Uh-huh.
+PATIENT: Uh one doctor gave it to me and it lasted for a week and they stopped.  I came back the following week I think.  Oh no that's not true, that's not true but you take it once a week.
+DOCTOR: Yeah.
+PATIENT: Yeah so uh I can't remember how many pills it was.
+DOCTOR: Was that for the vitamin D?
+PATIENT: Huh?
+DOCTOR: Was that for the vitamin D ergocalciferol?
+PATIENT: Yeah, yeah, uh-huh.
+DOCTOR: Yeah so you did that so that's the initial treatment we would do just to see if building up your vitamin D levels will help to kind of correct that osteoporosis.
+PATIENT: Okay.
+DOCTOR: But that's why they tried you on that and that's why you were on the calcium vitamin D.
+PATIENT: Uh-huh.
+DOCTOR: Um but on the repeat DEXA scan it still shows that your numbers are still within the osteoporosis range.
+PATIENT: Right, right.
+DOCTOR: And at this point we would actually treat you for osteoporosis.
+PATIENT: Okay.
+DOCTOR: With Fosamax, it's once a week and it's a little bit of a pain it's a medication you take only because you have to take it and you have to sit upright for 30 minutes.  You can still move around and stuff but you need to remain sitting upright cause one of the major risks with that medication is if it gets caught in your esophagus it can cause ulcerations in your esophagus.  Doesn't happen very often if you're taking it appropriately mainly you take it with plenty of water, you sit upright for 30 minutes and kind of let it go down in its own then you'll be fine.
+PATIENT: Okay.
+DOCTOR: Um and so do you have any teeth, dental work that needs to be done.
+PATIENT: Yes, yeah.
+DOCTOR: You do.
+PATIENT: Yes.  I start it, they need to finish.  I had started it uh before I found out that I had prostate cancer.
+DOCTOR: Okay.
+PATIENT: And they took out four teeth, they were starting this way and they were to come around here I think.
+DOCTOR: So you have more teeth to be pulled?
+PATIENT: Yeah, yeah, I have [REDACTED].
+DOCTOR: Okay so that should be done first before you start the Fosamax because the other side effect with the Fosamax is, it's rare and it doesn't happen very often but when it does it can be pretty detrimental.  You can get necrosis of your jawbone.
+PATIENT: Uh-huh.
+DOCTOR: Um but that only tends to happen when somebody's already been on the Fosamax for a while and then you go in and do you know extensive dental work which means you're pulling out multiple teeth.  It just gives you an increased risk for developing that.
+PATIENT: Okay.
+DOCTOR: But that doesn't mean that you'll necessarily get it but there is a risk.
+PATIENT: Uh-huh.
+DOCTOR: Um so if you ask any dentists or the oral surgeons will say you know we need to have all of this stuff done first before we can put you on the medication.
+PATIENT: Okay.
+DOCTOR: So what, are you going to be seeing the dentist soon to get the rest of the work done?
+PATIENT: I haven't, yes I want to make an appointment but I recently went up to the eye doctors.
+DOCTOR: Uh-huh.
+PATIENT: And uh I tried to make an appointment there and when I talked to the person that I talked to they told me and I hadn't been there in two years so I needed to talk to my doctor and have him or her uh okay it.
+DOCTOR: You have to get an appointment.
+PATIENT: To get an appointment to go back to the Optical.
+DOCTOR: Do you get it here?
+PATIENT: Yes uh-huh.
+DOCTOR: Okay.  That's weird cause usually we don't put in dental.  Oh let's see let me see if I can get into it cause typically I don't put in a dental consult.
+PATIENT: Okay well but I was going to ask you about okaying an appointment for the eye doctor anyway cause I think it's time for me to change my prescription.
+DOCTOR: The eye doctors.
+PATIENT: Yeah uh-huh.
+DOCTOR: Okay.  It's the bottom teeth that need to be extracted?
+PATIENT: No it's the top, all the top.
+DOCTOR: Are you getting dentures?
+PATIENT: I plan to yes.
+DOCTOR: Oh okay.
+PATIENT: Yes uh-huh.
+DOCTOR: And then you need an eye appointment you said.
+PATIENT: Uh-huh.
+DOCTOR: Just for routine.
+PATIENT: Routine check yeah.
+DOCTOR: Okay.
+PATIENT: And possible prescription change.
+DOCTOR: And are you nearsighted or farsighted, your glasses for distance?
+PATIENT: Uh I think probably farsighted.
+DOCTOR: Okay.  Alright the other thing we need to do is update your labs.  It's been over a year so we need to check your cholesterol, your sugars, your kidney function and all of that stuff so um did you eat breakfast this morning?
+PATIENT: No I didn't.
+DOCTOR: Okay perfect.  Do you mind going to the Lab today?
+PATIENT: Uh.
+DOCTOR: It depends.
+PATIENT: Uh now how long is that going to take?
+DOCTOR: Not long, you don't need an appointment or anything.
+PATIENT: Um okay.
+DOCTOR: Do you need refills on your vitamins or anything like that?
+PATIENT: No they're okay, they're okay right now.
+DOCTOR: [REDACTED] okay.  Alright and you want your TDAP shot today?
+PATIENT: Sure uh-huh.
+DOCTOR: Okay.  You can just sit up there for me and I'll take a listen to you.  Any smoking?
+PATIENT: Yeah.
+DOCTOR: Okay.  Have you thought about quitting?
+PATIENT: Yeah uh-huh.
+DOCTOR: What's stopping you?
+PATIENT: What's stopping me?
+DOCTOR: Uh-huh.
+PATIENT: I don't know, I couldn't answer that question.  It's just something that I do.
+DOCTOR: Are you interested in quitting?
+PATIENT: Well I'm working on it because see I used to drink and smoke more than a pack a day and then so now I'm down to about a half a pack so.
+DOCTOR: You're still [REDACTED] then?
+PATIENT: Yeah.
+DOCTOR: Have you ever tried the gum or lozenges?
+PATIENT: Uh-huh.
+DOCTOR: Doesn't work for you?
+PATIENT: Uh I especially don't like the lozenges because it takes them too long to dissolve.
+DOCTOR: Okay.
+PATIENT: And I'm like holding them under my tongue.
+DOCTOR: Oh I see okay.  Well the reason why I'm really pushing for it is because it doesn't help with your osteoporosis, two it's really bad for your lungs since you already have this mild COPD, it just makes it worse.
+PATIENT: Uh-huh.
+DOCTOR: Over the years and it looks like you're at risk for other type of cancer since you already have prostate cancer but it could put you at risk for other types um and it puts you at increased risk for heart disease and it's bad all the way around and you're [REDACTED] so.  Right now you're doing well without any inhalers and you don't require anything but.
+PATIENT: Yeah I know, it could happen.
+DOCTOR: Yeah and soon enough, you could get to the point where it's really bad COPD then you're having four or five inhalers that you need to take every single day.
+PATIENT: Okay.
+DOCTOR: Can you take your glasses off for me?
+PATIENT: Uh my what?
+DOCTOR: Your glasses.
+PATIENT: Glasses oh.
+DOCTOR: Look straight at me.  Say ah.  Open up your mouth.  No weakness are anything like that?  [REDACTED]
+PATIENT: Uh uh.
+DOCTOR: Deep breaths.  You do have a little bit of wheezing in your lungs.
+PATIENT: Uh-huh.
+DOCTOR: Any pain when I press on your back?
+PATIENT: Uh uh.
+DOCTOR: Here?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Let me have you actually lay down for me.  Hold on a second.  Alright I'm going to manipulate your legs a little bit here okay.
+PATIENT: Okay.
+DOCTOR: I'm going to lift here, any pain?
+PATIENT: No.
+DOCTOR: Here?  Any pain?
+PATIENT: No but I could feel that a little bit.
+DOCTOR: A little bit.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Alright go ahead and sit up.  Alright give me just a minute; I'll put in your medicine.
+PATIENT: Okay.
+DOCTOR: Thank you.
+(DOCTOR OUT:  32:02  DOCTOR IN:  35:40)
+DOCTOR: Alright.  Okay so what I would like for you to do is make an appointment with the Endocrinology doctors in about a month or so.
+PATIENT: Uh-huh.
+DOCTOR: You should also be able to see the dentist before then; do you think you'll be able to?
+PATIENT: Sure I can go and make an appointment.  I can go up there and ask for an appointment today.
+DOCTOR: Okay.  So do that and come down here to see Endocrine in the next four to six weeks because I want you to have all that dental work done before you see them cause they're gonna start you on that Fosamax that I was taking about.
+PATIENT: Okay.
+DOCTOR: So you should have that stuff done before you see them.
+PATIENT: Okay.
+DOCTOR: So we'll get that here and then I'll have them make you an appointment with the Eye Clinic.  Yeah the other thing is um the back x-ray um I don't know if you'll have time to do it today.  You don't have to but um I can put the order in and you could get it done when you have time.
+PATIENT: Okay.
+DOCTOR: Prior to the next appointment or something.  I just want to see if you have any herniated disks or any narrowing in the disks that could possibly explain your lower extremity issue.  Okay and then you can come back and see me in about five or six months okay.  In the meantime you should see the endocrinologist [REDACTED].
+PATIENT: [REDACTED] okay.
+DOCTOR: Okay.  Sounds good, so they can get you these appointments up front at the reception.  Any other questions today?
+PATIENT: Uh let's see, I think that's it.  I think I asked the questions that I wanted answered.  Um [REDACTED].
+DOCTOR: Yes.  Alright.
+PATIENT: Okay.
+DOCTOR: Okay no problem.  Don't forget your bag [REDACTED].
+PATIENT: See you.
+DOCTOR: Bye bye.
+PATIENT: 38:13
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286157
+TRANSACTION # 578-10-2-316-0103

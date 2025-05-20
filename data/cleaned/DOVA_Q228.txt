@@ -1,0 +1,239 @@
+DOCTOR: PATIENT?
+PATIENT: How you doing?  Alright.
+DOCTOR: How you doing?
+PATIENT: I am doing good.
+DOCTOR: Alright.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: If I don’t [REDACTED] I am not going to [REDACTED].  Alright.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: I get here on my appointment day, appointment time and it be an hour before I get seen and I got another appointment.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] bitching and I am just [REDACTED].  I missed the appointment. I missed a few appointments.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] I am feeling angry, [REDACTED] but I can’t see straight.
+DOCTOR: Right.
+PATIENT: I need my asthma medicine and some cold medicine.
+DOCTOR: Some cold medicine?  What’s going on?
+PATIENT: Everything.  I am coughing.  I am spitting up green, green and yellow [REDACTED].
+DOCTOR: Okay.  When did all this start?
+PATIENT: A couple of days ago and I know [REDACTED].
+DOCTOR: [REDACTED].  Any fevers at home?
+PATIENT: I been having hot and then I been getting cold.
+DOCTOR: Okay.
+PATIENT: All of this was happening last year when they put me back in.
+DOCTOR: Do you have any problems with breathing at all?
+PATIENT: Yeah, [REDACTED].  It is usually about this time of the year.
+DOCTOR: [REDACTED].
+PATIENT: I can’t move around.  I can’t get around that much without me stopping and I got [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Well I hope not.  You see I had pneumonia one time too.
+DOCTOR: Okay.
+PATIENT: And I hope that is not coming back.  [REDACTED] it only happens one time [REDACTED] but they say there is a possibility of me having it again.
+DOCTOR: Yea, did you get a flu shot this year?
+PATIENT: Yeah she just gave me a flu shot out there.  Yeah, uh huh.  Because the last one I had I don’t remember but it was done here.
+DOCTOR: Okay.
+PATIENT: Everything should be on my file.  And they were going to put me back on breathing machine and the lung machine and then [REDACTED].  Right now I need some, my inhalers and some cough medicine.
+DOCTOR: Yeah.
+PATIENT: Actually I need that now from the pharmacy.
+DOCTOR: Hold on there a second.
+PATIENT: [REDACTED] right?  I just [REDACTED].
+DOCTOR: I am checking on a couple of things right now.  [REDACTED].
+PATIENT: Oh, let me tell you doctor.  Listen here, they put a recording on me.
+DOCTOR: Oh yeah?
+PATIENT: Yeah.  Now like, they want to know how the doctor patient relationship is going and then I got to turn it back in when I get out of here.
+DOCTOR: Oh.
+PATIENT: I told them I was going to tell the doctors that I got it on me and I may be a little abusive in my language and whatnot, but they want to see how the doctor patient relationship is going and see what you all they are doing [REDACTED].  I told that [REDACTED].  I told him I ain’t going to hide from anybody.  That is not me.  I am going to let him know.[REDACTED]
+DOCTOR: [REDACTED].  Okay well this is [REDACTED].
+PATIENT: Right.
+DOCTOR: [REDACTED] suffering [REDACTED] cold, we’ll address that appropriately. The last time we got the cholesterol done you were high.
+PATIENT: Right and then [REDACTED] blood pressure went up.  I guess I was angry and [REDACTED].
+DOCTOR: It’s actually pretty good though. Your blood pressure is probably better than mine.
+PATIENT: Alright [REDACTED].
+DOCTOR: [REDACTED] right now.  Um, looking at your cholesterol is a little elevated.  I know we didn’t give you any medication last time but I think [REDACTED] remember talking to you about [REDACTED] lowering your cholesterol.
+PATIENT: I was supposed to come back in, but I rescheduled, I cancelled the appointment. I couldn’t down here.
+DOCTOR: Okay.
+PATIENT: [REDACTED].  Sometimes I don’t feel like I can travel that far.  I always be tired.
+DOCTOR: Okay did you change your diet at all?
+PATIENT: Not really.  I will be honest with you, no.
+DOCTOR: [REDACTED].
+PATIENT: Right.  I not supposed to be smoking.  I am not supposed to drink but I am still doing them things.
+DOCTOR: Okay.  How much do you smoke in a week now?
+PATIENT: [REDACTED].  I only smoke a little cigarette.  I only smoke a pack a day.
+DOCTOR: A pack a day?
+PATIENT: I only smoke a pack a week.
+DOCTOR: Okay.
+PATIENT: I [REDACTED] cut down on that a lot but my voice [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Sometimes I breathe heavy and I can’t get my words out.
+DOCTOR: Yeah.
+PATIENT: And you know.
+DOCTOR: Are you wheezing at all?
+PATIENT: I been wheezing at nighttime.  I been getting chills again.  From am hot, cold.
+DOCTOR: Right.  Have you [REDACTED] inhalers [REDACTED]?
+PATIENT: Well I ran out of all of them.
+DOCTOR: When did you run out?
+PATIENT: Couple of days ago.
+DOCTOR: Okay.
+PATIENT: Yeah, I need that.
+DOCTOR: [REDACTED].
+PATIENT: And I need you know [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Right.
+DOCTOR: I am going to give you a year supply on your inhaler.  Okay?
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Listen I couldn’t get back [REDACTED].
+DOCTOR: Oh I know, I know. Hold on.
+PATIENT: [REDACTED].
+DOCTOR: Yea.  We will give you an appointment to come back and see us [REDACTED].
+PATIENT: Okay.
+DOCTOR: And we will give you a full year on your inhaler because we don’t ever want you running out that okay.  [REDACTED].
+PATIENT: Right. And I [REDACTED] come back though [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: No, no I understand.  Okay.  Now other than [REDACTED] everything seems to be pretty up to date, colonoscopy [REDACTED].
+PATIENT: Right.  [REDACTED].
+DOCTOR: Um, actually, you didn’t have a colonoscopy last time huh.
+PATIENT: No, I keep cancelling that.
+DOCTOR: Why?
+PATIENT: [REDACTED] up my behind.  I don’t [REDACTED].  Every time they say you have to have somebody come with you.
+DOCTOR: Oh.
+PATIENT: I didn’t have no body to come with me and I [REDACTED].
+DOCTOR: Yeah.
+SECOND PERSON Q228
+[REDACTED] wife behind him now. I can [REDACTED]
+PATIENT: You can schedule all that. I’ll go through with that.
+DOCTOR: Yeah, we need to have that done.  Everybody got to get that done. [REDACTED].  Have you been losing weight at all?
+PATIENT: Yeah, I been losing a lot of weight.  I just had a [REDACTED] last week.
+DOCTOR: You been trying to lose weight?
+PATIENT: No I want to gain weight.
+DOCTOR: Yeah.
+SECOND PERSON Q228
+[REDACTED]
+DOCTOR: Well, the colonoscopy is important for a cancer screening.
+PATIENT: I know.  They told me that before.
+DOCTOR: I am [REDACTED].  You know.
+PATIENT: They said this time [REDACTED].
+DOCTOR: We don’t want you losing 20 years of your life because you didn’t go in for a colon cancer screening.
+PATIENT: I ain’t got that much time  [REDACTED].
+DOCTOR: You got more than that.
+PATIENT: Alright.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: No.
+DOCTOR: Why not?
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] any trouble breathing?
+PATIENT: Yeah, all the time.
+DOCTOR: Alright.  I don’t think you need to be hospitalized but I definitely think we need to get you [REDACTED].
+PATIENT: I been doing that for the last couple of weeks.
+DOCTOR: Yeah.
+PATIENT: I been doing [REDACTED]. She says I stop breathing at night but I think [REDACTED].
+DOCTOR: Let me just tap on your back here. So, when you do breathe, does it hurt anywhere?
+PATIENT: Sometimes in my chest and sometimes, I can’t really catch, my voice been changing and I really can’t catch my breath.
+DOCTOR: Yeah, yeah.
+PATIENT: She say I quit breathing when I go to sleep at night, but I can’t tell the difference.  She hits me and wakes me up and says you ain’t breathing.
+DOCTOR: Okay.
+PATIENT: When she wakes me up. I say, I am breathing.  I am breathing.
+DOCTOR: Has that been going on for a long time?
+SECOND PERSON Q228
+[REDACTED], the last couple of months.
+PATIENT: Like I said I canceled quite a few appointments.
+DOCTOR: Yeah.
+PATIENT: I was supposed to come in but I be too weak and tired traveling on the trains and whatnot.  I am just [REDACTED].  I can’t do [REDACTED] no more.
+DOCTOR: You get tired because you feel like your lungs aren’t catching up or like you are going [REDACTED]?
+PATIENT: Yea.  My airway is closing up and, they say I only got a little airway.
+DOCTOR: Yeah.  Let me see if I can pull up you last set of PFTs.  Remember those breathing tests.
+PATIENT: Yeah they put me on a breathing machine.  They put me on a heart machine, a lung machine.  They said I had irregular heartbeat at one time.
+DOCTOR: So let me write a couple of things down here.  Remember [REDACTED] so
+PATIENT: You going to put my medication in [REDACTED] I get at the pharmacy right?
+DOCTOR: Absolutely.  And then [REDACTED].
+PATIENT: Remember I got to go see somebody else.
+DOCTOR: I am not going to let you leave here without your medications.  [REDACTED].
+PATIENT: I ran out of all of it.
+DOCTOR: Yea, how much are you taking of it before, though?  You have [REDACTED].
+PATIENT: It says take one to two puffs?
+DOCTOR: Yea.
+PATIENT: I been taking eight or nine.
+DOCTOR: Eight or nine puffs every day?
+PATIENT: Right.
+DOCTOR: That’s a lot.
+PATIENT: Yea, because it don’t help me.  I take one puff and I can’t feel it.  I feel better when I take eight [REDACTED].
+DOCTOR: And your mometasone [REDACTED].
+PATIENT: I am out of all of that.  Everything they gave me.
+DOCTOR: And you were taking it twice a day.
+PATIENT: Right. I am out of everything.
+DOCTOR: And your [REDACTED].
+PATIENT: Right.  Out of everything.
+DOCTOR: Let me talk to my attending real quick.  Um, seems like you’re not moving air all that much.
+PATIENT: [REDACTED] everything [REDACTED].
+DOCTOR: Um you might have come down with a viral infection that [REDACTED] get some sort of exacerbation so.  The [REDACTED] give you a short course of antibiotic and maybe a short burst of steroids to help you get through all this, okay?  Again, I’m going to talk [REDACTED].
+PATIENT: When, now?
+DOCTOR: Yea.
+PATIENT: There going to be a long wait?
+DOCTOR: It won’t be that long.
+PATIENT: Because I got another appointment I got to go to and I am trying to get everything [REDACTED].  The main thing is my travel pay.  They always close up at 4 o’clock.
+DOCTOR: Yeah.
+PATIENT: I need money to get back home.
+DOCTOR: We are going to have you come in [REDACTED].
+PATIENT: Okay.
+DOCTOR: 48:55  DOCTOR IN:  58:40
+DOCTOR: Hey how you doing?
+PATIENT: [REDACTED].
+DOCTOR: You ran out of your medicine?
+PATIENT: I ran out of everything.  Now my question is, what are you going to tell me that he couldn’t tell me? (Laughs)
+DOCTOR: [REDACTED].
+PATIENT: I don’t mean to be vague with you but I just want to know from one doctor to another doctor [REDACTED].
+DOCTOR: Well he is the boss of the clinic.
+PATIENT: He is the boss?
+DOCTOR: Yea.  Alright.
+DOCTOR: So we don’t want you to run out of your medicines, if you’re getting low, you can come over here we can get you refills. You can tell the nurse.
+PATIENT: Right. I ran out about a couple of weeks ago, about three weeks ago, but I can’t get here [REDACTED] riding on the trains. I couldn’t move [REDACTED].
+DOCTOR: You can call us up and we can mail it to you.
+PATIENT: Well I forgot all about that option [REDACTED] about that [REDACTED].
+DOCTOR: We are here around the clock.
+PATIENT: Alright doctor I appreciate it.  I don’t mean to be vagrant but [REDACTED].
+DOCTOR: [REDACTED].  You going to pick everything up today?
+PATIENT: Yes, [REDACTED] pharmacy.  I am not going to come in.  She’s going to make me come in if I feel bad.  [REDACTED].
+DOCTOR: We are just here to help.  You don’t have to come in if you don’t want to.
+PATIENT: Right.  I keep putting it off. I cancelled a lot of appointments and [REDACTED].
+DOCTOR: Okay.
+PATIENT: I be too weak to travel.
+DOCTOR: You don’t want to wait until you have to go by ambulance.
+PATIENT: I did that a couple of times already.
+DOCTOR: You have refills already.
+PATIENT: I ain’t refilled them.
+DOCTOR: I know but you have them.
+PATIENT: Yeah but I didn’t have a refill.  I never refilled none of them.
+DOCTOR: You have a bunch of refills left.  You can go to the pharmacy and just pick them up.
+PATIENT: Well can you call down there so I can get them?
+DOCTOR: No you don’t need to call.  You just show up.
+PATIENT: I ain’t got no paperwork or nothing.
+DOCTOR: It doesn’t matter.  You just show up and tell them your name and then [REDACTED].
+DOCTOR: Do you have a computer?
+PATIENT: I don’t have no computer, no.
+DOCTOR: No?  Okay.
+PATIENT: I was wondering if I can just go from here to the pharmacy. I got to have some paperwork to them.
+DOCTOR: [REDACTED] you don’t need.
+PATIENT: But okay, [REDACTED].
+DOCTOR: [REDACTED] a year [REDACTED].  Order the refills [REDACTED] wants to pick them up.
+PATIENT: [REDACTED].  I don’t have anything going on [REDACTED].
+DOCTOR: [REDACTED] your appointment.  [REDACTED] your medications too alright.
+PATIENT: When I go down there they going to ask me what I need.  I said it supposed to be on the computer because I ain’t got no paperwork.
+DOCTOR: They are there.
+PATIENT: Okay.  So you going to reschedule me for another appointment?
+DOCTOR: Yeah.  I will see you again [REDACTED] okay?
+PATIENT: Alright we want [REDACTED].
+DOCTOR: I will put it in.
+PATIENT: [REDACTED] on my phone.
+DOCTOR: Yea.
+PATIENT: You got my phone.  [REDACTED] and schedule my appointment.
+DOCTOR: Okay.  Alright buddy.
+PATIENT: Alright thanks a lot man.
+DOCTOR: Okay.
+PATIENT: Yeah, yeah.
+PATIENT: 62:40
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300287
+TRANSACTION # 578-10-2-316-0103

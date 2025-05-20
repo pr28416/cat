@@ -1,0 +1,182 @@
+DOCTOR: PATIENT?
+PATIENT: [REDACTED].
+DOCTOR: How you been?
+PATIENT: [REDACTED].  Just relaying [REDACTED].
+DOCTOR: [REDACTED] sir.
+PATIENT: Yes.
+DOCTOR: They couldn’t find you.  What happened?
+PATIENT: Oh, in the washroom [REDACTED].
+DOCTOR: Oh, okay.  We couldn’t find you.
+PATIENT: I, you know, should have asked.
+DOCTOR: Okay.  How are you doing otherwise?
+PATIENT: Okay.  [REDACTED].
+DOCTOR: [REDACTED].  Did you [REDACTED] appointment at Hines already or not yet?
+PATIENT: Not yet.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: [REDACTED] right.  [REDACTED].
+DOCTOR: You have been going to Neurology.
+PATIENT: Neurology, yes.
+DOCTOR: [REDACTED].
+PATIENT: The Eye Clinic.
+DOCTOR: Hm hmm.
+PATIENT: I haven’t gotten any appointment, I haven’t been up there yet.
+DOCTOR: [REDACTED].
+PATIENT: Yes.
+DOCTOR: Okay.  [REDACTED] sugars been?
+PATIENT: [REDACTED] a little high.
+DOCTOR: A little high?
+PATIENT: Hm hmm.
+DOCTOR: Okay.  Do you have your log?
+PATIENT: I usually bring it.
+DOCTOR: [REDACTED].
+PATIENT: Blood pressure seems to be staying okay. It’s just the sugars.
+DOCTOR: [REDACTED].  Do you follow up with the pharmacist?
+PATIENT: Yes, I’m back with the pharmacist.
+DOCTOR: Okay.  Tell me what’s going on with your sugars. [REDACTED] your sugars are uncontrolled [REDACTED].
+PATIENT: Mostly, uh, eating and that’s about .
+DOCTOR: Eating?
+PATIENT: Yea.  [REDACTED] but I am not eating on a regular basis [REDACTED].  I was with the dietician and she told me not to skip breakfast.  I usually don’t eat breakfast.
+DOCTOR: [REDACTED].  What do you take for diabetes?
+PATIENT: Okay I am on insulin.
+DOCTOR: Taking regular insulin?
+PATIENT: NPH.
+DOCTOR: How much?
+PATIENT: Um, 55 and 52.  One 55 in the morning and 52 in the evening.
+DOCTOR: You take any other medications?
+PATIENT: Um, diabetes?  No.
+DOCTOR: [REDACTED].
+PATIENT: Just the insulin.
+DOCTOR: Okay.  Your blood pressure, looking on the lower side.
+PATIENT: Hm hmm.
+DOCTOR: Do you feel dizzy at all?
+PATIENT: Sometimes.
+DOCTOR: What happens?
+PATIENT: I just sit down and relax a few minutes until it goes away.
+DOCTOR: Okay.  What do you think [REDACTED]?
+PATIENT: I am not sure.  Um, you think it is too low?
+DOCTOR: It is on the low side.
+PATIENT: [REDACTED].  I take the hydrochlorothiazide and lisinopril.
+DOCTOR: Hm hmm.   And are you taking the nifedipine as well?
+PATIENT: Yeah, nifedipine, yes.
+DOCTOR: Okay.  How much nifedipine are you taking?
+PATIENT: One a day.
+DOCTOR: One a day?  What’s the strength?
+PATIENT: [REDACTED].  I am not sure.
+DOCTOR: Do you get any [REDACTED] this [REDACTED] or [REDACTED]?
+PATIENT: Uh, I have been taking the same ones that I was given.
+DOCTOR: Oh, okay.  [REDACTED] pharmacy looks like in the end of April.
+PATIENT: April, right.
+DOCTOR: [REDACTED] had changed the dose.
+PATIENT: The dose, yea.
+DOCTOR: Alright, so which one are you taking?
+PATIENT: That’s the one I am taking.
+DOCTOR: The new one.  You picked that one up on.
+PATIENT: Yea the 20th, 20th of April I think.
+DOCTOR: The 21st of April.  So that is the one you are taking?
+PATIENT: Yes.  Uh huh.
+DOCTOR: [REDACTED] a little bit on the lower side.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: So we are going to just back off it a little bit more.  Are you losing weight?
+PATIENT: Yes.
+DOCTOR: Are you trying to lose weight?
+PATIENT: Ah, yes and no.
+DOCTOR: [REDACTED].
+PATIENT: So I really never paid it any attention.
+DOCTOR: You lost some weight since September.  It is the lowest it has been a year [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] good.  You can lose weight [REDACTED] if you have some [REDACTED] couple [REDACTED].  So maybe you can try to eat [REDACTED] descrease.
+PATIENT: Okay, thank you.
+DOCTOR: Um, you follow with the psychiatrist?
+PATIENT: Yes, I do.
+DOCTOR: Okay.
+PATIENT: DOCTOR.
+DOCTOR: Okay and what do they give you?
+PATIENT: Ah, the quetiapine, the nortriptyline, and [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED] take that twice a day and now that I take [REDACTED] bedtime.
+DOCTOR: Is that helping?
+PATIENT: Yes, it is helping.
+DOCTOR: Okay.  Alright so the main thing that we are going to work on are the diabetes control.
+PATIENT: Yes, yes.  That’s the main thing.
+DOCTOR: Yea, so I will see have to see what the number comes up as today and then we will go from there.
+PATIENT: Yes.
+DOCTOR: Now your blood pressure, I am going to decrease your medications and you are going to follow up with Hines [REDACTED] the time [REDACTED].
+PATIENT: Yes, yes.
+DOCTOR: When was the last time you changed your diabetes medications?
+PATIENT: It has been a while, um, I was with the pharmacist and, and I was taking 55 and [REDACTED].  So she told me to stay with that.
+DOCTOR: The [REDACTED].
+PATIENT: Hm hmm.
+DOCTOR: Anything else [REDACTED], any problems, [REDACTED]?
+PATIENT: Just like you said, the dizzyness.
+DOCTOR: [REDACTED].
+PATIENT: No, no.
+DOCTOR: [REDACTED].
+PATIENT: Yea, I did [REDACTED] now, no.
+DOCTOR: Okay.
+PATIENT: I know my limitations.  Stay out of the heat when I get overheated, I go somewhere and get cool or sit down and.
+DOCTOR: Can I have you up here?
+PATIENT: [REDACTED].  That was a big scare to me.
+DOCTOR: Yeah.
+PATIENT: I go back on the 7th [REDACTED] I’m not going as much as I should.
+DOCTOR: Okay.  Deep breath.  Deep breath.  Okay.  Okay, open your mouth.
+PATIENT: [REDACTED].
+DOCTOR: Alright.  [REDACTED].  Okay.  Hard as you can.  [REDACTED].  Okay.  [REDACTED].  Now push to me.  Relax.  [REDACTED].  Can you [REDACTED] up?  [REDACTED].  Lift up.  Some weakness there huh?
+PATIENT: Yes.
+DOCTOR: Okay, have a seat.  Let me go talk to DOCTOR.
+PATIENT: Okay.
+DOCTOR: Did you see the foot doctor yet, you said already?
+PATIENT: No, I haven’t.  No. [REDACTED].
+DOCTOR: What about the eye doctor.
+PATIENT: Eye doctor, yes, once a year.
+DOCTOR: Okay, when was the last time you saw them?
+PATIENT: Um, it had to be February.
+DOCTOR: [REDACTED] anything [REDACTED] diabetes in your eye.
+PATIENT: Not other than [REDACTED] the cataracts.
+DOCTOR: Oh, okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay, they said that you had mild diabetes changes.
+PATIENT: Yes.
+DOCTOR: Um, [REDACTED] the foot doctor, you said you were going to do that.
+PATIENT: Yes.
+DOCTOR: Do you know how to do that?
+PATIENT: No I don’t.
+DOCTOR: [REDACTED] Podiatry Consult in June so that is okay.
+PATIENT: Okay.  It is coming up soon.
+DOCTOR: Okay.  I will be back.
+(DOCTOR OUT:  87:25  DOCTOR IN:
+DOCTOR: [REDACTED].  Um, this one, I have had a [REDACTED] 64 [REDACTED], happened at that time, do you know?
+PATIENT: No I don’t.  No, I just, that is the lowest I have ever had.
+DOCTOR: Okay.  Then there was a 41 one  right here.
+PATIENT: Right. No, that’s a “hi.”
+DOCTOR: Oh, okay, it is “hi.”  Okay.  Alright.  So the 64, do you remember if you ate that day or?
+PATIENT: Hm, no I don’t.
+DOCTOR: Okay do you know what happens when your sugar low?
+PATIENT: [REDACTED].
+DOCTOR: How you feel when you sugar gets low?
+PATIENT: No.  I used to, like I said, if I get a little dizzy or something, I sit down.  So I am not sure [REDACTED].
+DOCTOR: Okay.  Here is what we are going to do.  We are going to stop the nifedipine, the blood pressure medication, and then [REDACTED],  another kind of insulin, to your regimen.
+PATIENT: Okay.
+DOCTOR: Um, it is called [REDACTED].  So you take NPH right now and then you are going to take [REDACTED].
+PATIENT: [REDACTED].  Okay.
+DOCTOR: Five units that we are going to add.
+PATIENT: Okay.
+DOCTOR: The [REDACTED] sugar [REDACTED] for about eight hours.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: And the way to do it is you draw up the 5 units of the [REDACTED] insulin and then you draw up the rest of the NPH and inject.
+PATIENT: Oh okay.  In one.
+DOCTOR: One shot.  [REDACTED].
+PATIENT: Okay.
+DOCTOR: [REDACTED] show you how to do it [REDACTED].  [REDACTED] you’re going to see the nurse [REDACTED].
+PATIENT: Okay.
+DOCTOR: And you need to keep checking your sugars. If you drop again [REDACTED] We need [REDACTED] don’t do that. Okay?
+PATIENT: Okay.
+DOCTOR: And then, stop your nifedipine because of the dizziness and because of the [REDACTED] blood pressure, that will get better.  Okay?
+PATIENT: Okay.
+DOCTOR: Any questions [REDACTED]?
+PATIENT: No.
+DOCTOR: Okay, let me just [REDACTED] and I will put the medicines in.
+PATIENT: 99:20
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300329
+TRANSACTION # 578-10-2-316-0103

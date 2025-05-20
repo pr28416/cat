@@ -1,0 +1,275 @@
+DOCTOR: PATIENT.
+PATIENT: Yeah.
+DOCTOR: Come on back.  I'm DOCTOR.  [REDACTED].  How are you feeling?  Did you used to see DOCTOR?
+PATIENT: What?
+DOCTOR: Did you used to see DOCTOR [REDACTED].  I've been looking at your plan there.  [REDACTED].  Is that not who you used to see?
+PATIENT: I don't remember him.
+DOCTOR: No?  Let's see.  You saw DOCTOR.
+PATIENT: Yeah.
+DOCTOR: Last April right?  Oh actually in December you saw him too.  Okay.  Great, so how have you been feeling?
+PATIENT: Good.
+DOCTOR: Good.  Just a regular old check-up?
+PATIENT: Yes.
+DOCTOR: No complaints?  Alright, it looks like the last time you were here you had some dizziness right?  When you would stand up or wake up in the morning.
+PATIENT: Yeah but I, the prescription that I, the doctor before DOCTOR gave me, what was it, lisinopril.
+DOCTOR: Uh-huh.
+PATIENT: It, the medication shows that take two pills a day.
+DOCTOR: Okay.
+PATIENT: But I was taking one in the morning and one at night.
+DOCTOR: I see.
+PATIENT: And then I was also taking the other one, you know.
+DOCTOR: Okay.
+PATIENT: And one time, I don't know, the blood pressure was way too low in the morning.
+DOCTOR: Yeah.
+PATIENT: That's why I was dizzy, you know [REDACTED].
+DOCTOR: Oh okay.
+PATIENT: Yeah so now I take them both in the morning.
+DOCTOR: And it's alright?
+PATIENT: Yeah.
+DOCTOR: Good.  Then it's okay.
+PATIENT: No that is good, the reason for this dizziness was my blood pressure was too low and then I was taking one of those at night, so.
+DOCTOR: [REDACTED].
+PATIENT: Yeah that's gone.
+DOCTOR: Uh how have your blood sugars been?  Okay?
+PATIENT: Kind of okay.
+DOCTOR: There were like 120s, 140 in the morning, about the same?
+PATIENT: Yeah except this morning it was 119, okay.
+DOCTOR: Okay.
+PATIENT: Yeah, I see the blood pressure here.
+DOCTOR: Very good.
+PATIENT: Yeah.  And it was a little less when I got here.
+DOCTOR: Good.  Are you still feeling your hands are a little shaky?
+PATIENT: No.
+DOCTOR: They do okay.
+PATIENT: No I got [REDACTED].
+DOCTOR: Oh I see.
+PATIENT: Oh yeah.
+DOCTOR: Um alright how's your diet, I know that's hard to work with.
+PATIENT: It's probably the same, nothing crazy, like.  Sometime I work all night sometimes.
+DOCTOR: So what do you do?
+PATIENT: I have like property.
+DOCTOR: Good for you.
+PATIENT: Well my son is running it but at times.
+DOCTOR: You do that okay.  I understand, I understand.  Um.  Okay um.  You still have some kind of numbness in your right arm?
+PATIENT: It's only the, not in the arm, it's just in the pinky and a little bit here you know.
+DOCTOR: Okay.
+PATIENT: So it's, either it's less noticeable to me now or it's beginning to come back.  I mean the feeling is beginning to come back.
+DOCTOR: Right.
+PATIENT: Or I guess I'm used to it you know.
+DOCTOR: Yeah.
+PATIENT: I don't even know about it any more.
+DOCTOR: It doesn't change you that much okay.  Um let's see.  I think you had a history of some skin cancer so you saw the dermatologist.
+PATIENT: Yeah.
+DOCTOR: In the clinic.
+PATIENT: Yeah.
+DOCTOR: Very good.  Um, no colonoscopy huh?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: I’ll pass.
+DOCTOR: You'll pass okay.  Um think about it sometime.
+PATIENT: I did yeah.  My much younger sister had it done two weeks ago you know but I.
+DOCTOR: Oh and she did okay?
+PATIENT: Yeah she's an RN so.
+DOCTOR: Oh perfect.
+PATIENT: So retired but she was a RN.
+DOCTOR: Perfect.  Um I think you're due for a tetanus shot.  Is that something that you'd be okay with?  It's the one you get just like once every ten years.  Um it prevents you from getting tetanus you know if you scrape with any dirty metals, that kind of thing.
+PATIENT: Yeah.  I, you know I got it here but I don't remember when.  I know.
+DOCTOR: I think it must have been past the ten year deadline cause it's showing up that you're due.
+PATIENT: Okay yeah, okay.
+DOCTOR: Yes.
+PATIENT: Now I'm seeing when I got it.
+DOCTOR: Oh.
+PATIENT: I think, I know one time I stepped on a board or a nail at the Home Depot and it was my outside doctor gave it to me.
+DOCTOR: Oh okay, okay.
+PATIENT: It probably was ten years ago.
+DOCTOR: Probably was that long then okay.  Still smoking?
+PATIENT: No.
+DOCTOR: When was the last time you smoked.
+PATIENT: Oh you don't smoke okay.
+DOCTOR: Drink?
+PATIENT: A little bit.
+DOCTOR: A little bit okay.  And no drugs.
+PATIENT: No, no, no.
+DOCTOR: Good.
+PATIENT: I take all the drugs you're giving me.
+DOCTOR: Oh yeah.  You're like isn't that enough.
+PATIENT: No, nobody in my family uses drugs.  Smoked or drugs.
+DOCTOR: Alright.  Well let's see how the diabetes is doing.  So it looks those numbers that we monitor your diabetes okay and it was 7.1 in April of last year and 7.3.  So the goal is to get you under 7, that's the goal.
+PATIENT: Okay.
+DOCTOR: So right now the only thing you're taking is the Actos.  The what is, the um the diabetes medication is that the only one right?
+PATIENT: No the glyburide.
+DOCTOR: The glyburide.  Looks like that's expired.
+PATIENT: Well I mean it expired, you need to put the prescription in.
+DOCTOR: Just renew the prescription.
+PATIENT: I think the glyburide and metformin, I just the last one DOCTOR was, the first ones that are crossed off there.
+DOCTOR: Uh-huh.  Pioglitazone.
+PATIENT: Right.
+DOCTOR: Okay.  Are you still taking that or no?
+PATIENT: Yeah I'm taking it.
+DOCTOR: Still taking it.
+PATIENT: I got, I don't know I have a couple refills, but the other pill is less than that but uh the glyburide and the metformin I need a prescription for those.
+DOCTOR: Okay.
+PATIENT: And lisinopril.
+DOCTOR: So are you, so just the lisinopril and the metformin um and no more hydralazine then, you don't take that anymore or you do?
+PATIENT: Yeah I'm still taking it.
+DOCTOR: Still taking it and you're doing okay with that?
+PATIENT: Yeah.
+DOCTOR: Let me see what your, your cholesterol actually looks pretty good um.  In December like last year so it's probably time to do that, let's see.  Um, the prostate let's see when was that cause I think.  Okay and they did that in December and that number was good as well.  Okay and otherwise you don't have any chest pains, shortness of breath, problems breathing, shortness of breath or anything?
+PATIENT: I'm fairly active still.
+DOCTOR: Still active okay.  No vomiting, diarrhea, fevers, chills, things like that.  Oh Accu-Cheks.
+PATIENT: Yeah.  Because [REDACTED].
+DOCTOR: Do you have swelling in your legs?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: It depends on how long I stay up you know.  I never wear them to come here but I wear them on long trips.
+DOCTOR: When you go out okay.
+PATIENT: And stuff and I'll take them.
+DOCTOR: Sure if you're sitting in a car or something for a while, sure.  Let me take um a quick look at you.  Go ahead and take off your glasses.  Look straight ahead at me.
+PATIENT: Yeah I had uh an implant here.
+DOCTOR: Okay.
+PATIENT: Uh.
+DOCTOR: What did they implant?
+PATIENT: That's my eye surgery, uh cataract removed.
+DOCTOR: Oh cataract removal, sorry about that.
+PATIENT: And I have the plastic lens in there.
+DOCTOR: Oh perfect, perfect.
+PATIENT: [REDACTED] shines, you know.
+DOCTOR: Yes, they usually turn out okay.  So look straight at me.  Say ah.
+PATIENT: Ah.
+DOCTOR: You can put your glasses on.  [REDACTED], sorry my hands are cold.  I'll listen to your back real quick.
+PATIENT: My back.
+DOCTOR: Yes your back.  You can take off your jacket yeah.  [REDACTED].
+PATIENT: I was born and raised in Italy.
+DOCTOR: Oh.
+PATIENT: It's a Polish name.
+DOCTOR: Oh really okay.
+PATIENT: Yeah, I was raised on [REDACTED].
+DOCTOR: I was born and raised here but my family's from Pakistan.
+PATIENT: Okay my outside doctor of 20 years, he's from India.
+DOCTOR: Oh okay.
+PATIENT: DOCTOR.
+DOCTOR:
+DOCTOR: that's an Indian name.
+PATIENT: Yeah husband and wife are both MDs.
+DOCTOR: Oh good for them.  Yeah everybody's from somewhere it seems like right.  Take a deep breath.  Just breathe normally.  Any pain?  Let's see, is that painful at all?
+PATIENT: No.
+DOCTOR: No nothing, okay.  Sometimes swelling can be a little painful.  So we'll get.
+PATIENT: [REDACTED] take my shoes off and it'll just move from my [REDACTED] or something [REDACTED] over this foot and I still get a lot of sensitivity, I'm very ticklish.
+DOCTOR: Oh very ticklish.
+PATIENT: My nerves are just too good, I guess that's good.
+DOCTOR: No that is good.  I'm trying to see if um DOCTOR checked, let's see it looks like you've had.  Are you talking about one of these things, little pokey things? You know.
+PATIENT: The what?
+DOCTOR: This is just to um.
+PATIENT: Oh for checking yeah.
+DOCTOR: Yeah, I actually that's a good point.  Would you mind taking off your shoes for a second, I don't think we checked it last time.  Have you seen the eye doctor in the last year?
+PATIENT: Uh probably a year ago.  I cancelled my appointment because I went to surgery.
+DOCTOR: Okay.
+PATIENT: And I completed everything there.
+DOCTOR: Okay.
+PATIENT: And everything was.
+DOCTOR: Yeah we should probably.  Oh you can go ahead and take your socks off.
+PATIENT: I mean, both feet or?
+DOCTOR: Yes please.  We should probably have you see the eye doctor um.  You know [REDACTED] you know, once a year, they can just kind of dilate your eyes; it makes it look really big but uh.  Okay give me your foot, close your eyes.  Okay tell me when you feel the prick okay.
+PATIENT: Yes.
+DOCTOR: Which toe?
+PATIENT: The big one.
+DOCTOR: Okay.
+PATIENT: Little one.  [REDACTED].
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Give me the other foot.
+PATIENT: Big toe.  Little, next to the little left, middle, right side.
+DOCTOR: [REDACTED].  Let me go run this by DOCTOR, he's my boss.
+PATIENT: Okay.
+DOCTOR: And I'll come back in and we'll get your new prescriptions.
+PATIENT: Okay can I put my shoes on?
+DOCTOR: Yes, yes, you're done.
+(DOCTOR OUT:  22:12  DOCTOR IN:  29:47)
+DOCTOR: Hi, sorry for your wait.
+PATIENT: Uh-huh.
+DOCTOR: So um we'll go ahead and refill your medicines and um.  You don't have pain in your legs just when you're at rest do you?
+PATIENT: No.
+DOCTOR: Good cause your pulse is a little bit hard to feel but um I just wanted to make sure that uh.
+PATIENT: No problems.
+DOCTOR: You're not having any symptoms of that.  Now this will be for you to take to the front.  So you'll see the Eye Clinic the next available appointment that they have just to, you know just to check that your eyes are doing okay because of your diabetes.
+PATIENT: Yeah I've got a, have them make it in July.
+DOCTOR: Oh so yeah that's fine.
+PATIENT: Cause next month I'll be out of town.
+DOCTOR: Sure alright no problem.  Um and we will get your tetanus shot.
+PATIENT: I get that today?
+DOCTOR: Uh-huh.  They'll just give it to you.
+PATIENT: Yeah I'm not worried about it.
+DOCTOR: You'll get your compression stockings.
+PATIENT: [REDACTED].
+DOCTOR: We'll get all the repeat of your labs; you don't have to get them today but just sometime before your next appointment.
+PATIENT: The what?
+DOCTOR: Repeat blood draw, labs.  But then your kidney numbers look a little bit worse so we just have to check them you know every once in a while to kind of make sure.  They're not terrible but they just, you know what I mean and it's because of the blood pressure and diabetes and stuff that these things happen.
+PATIENT: Okay when will they get the blood drawn?
+DOCTOR: Um you can get it today, you can go tomorrow.  I mean it doesn't have to be immediately now, but just like in the next month.  You could get it today if you want it.
+PATIENT: Yeah I'll do it today.
+DOCTOR: You'll do it today okay, that's fine.
+PATIENT: Cause the next month I'm not gonna be around here.
+DOCTOR: Oh perfect yeah then I would just do that.  Um okay and then which medications do you need today?  Glyburide, do you want them to mail these to you or have you pick them up here?
+PATIENT: The what?
+DOCTOR: Medications.
+PATIENT: Uh just mail them out to me.
+DOCTOR: Mail them to you okay.
+PATIENT: Unless I'm short of something then I'll wait for it but.
+DOCTOR: Sure, sure.  Which ones do you need today?
+PATIENT: Uh [REDACTED] and metformin.
+DOCTOR: Uh-huh.
+PATIENT: The lisinopril and glyburide.
+DOCTOR: Okay.
+PATIENT: I'm not out of them either you know but its.
+DOCTOR: I know.  Just to make sure you've got it.
+PATIENT: That's just to renew the prescription.
+DOCTOR: Exactly.  Okay sir I think you're set.
+PATIENT: Okay uh so I'm gonna see you from now on then or?
+DOCTOR: If you're okay with that yes.  I mean there's tons of other doctors here but if you're okay with that I can be your primary care.
+PATIENT: Yeah I don't care, I don't.
+DOCTOR: Perfect.
+PATIENT: Good uh [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Good.
+PATIENT: [REDACTED].
+DOCTOR: Looks good.
+PATIENT: And uh is it DOCTOR.
+DOCTOR: Uh-huh.
+PATIENT: Your last name is DOCTOR.
+DOCTOR: Right.
+PATIENT: Yeah.
+DOCTOR: Yeah there's, I know someone who lives in St. Louis and there's NAME there.
+PATIENT: My last name is just PATIENT.
+DOCTOR: Uh-huh.
+PATIENT: It's [REDACTED] Polish, Russian.
+DOCTOR: Oh, so how did you end up with a Polish name?
+PATIENT: I lived in northern Italy so [REDACTED].
+DOCTOR: Oh yeah.
+PATIENT: Moved south you know.
+DOCTOR: That's true.
+PATIENT: I guess, I mean.
+DOCTOR: It's so funny that you mention that because tonight I am eating tiramisu.
+PATIENT: Yeah.
+DOCTOR: Yeah.  My mom always made it for us.
+PATIENT: To you have a phone number too?
+DOCTOR: Yeah, let me get a phone number for you.  [REDACTED] off the top of my head.
+PATIENT: Okay.
+DOCTOR: Okay, alright sir, so this is the number you can go ahead and call and they'll find a way to get in touch with me.
+PATIENT: Alright.  I mean I never call.
+DOCTOR: That's just if you.
+PATIENT: Anybody but I know sometimes I can go through them and the patient will want the doctor to call and it's not that I'm you know like.
+DOCTOR: In case you need, of course.
+PATIENT: I'm not gonna bug you with anything.
+DOCTOR: No, no, not, no that's what we're here for.  Um and we'll get your shot.
+PATIENT: Okay, I'll get the shot now.
+DOCTOR: Uh-huh.
+PATIENT: And then you'll put the things in for the blood.
+DOCTOR: Uh-huh.
+PATIENT: And you got it all over with.
+DOCTOR: We got it all.  Good.
+PATIENT: 37:13
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286145
+TRANSACTION # 578-10-2-316-0103

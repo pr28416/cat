@@ -1,0 +1,451 @@
+DOCTOR: PATIENT.
+PATIENT: Hi.
+DOCTOR: Good to see you.
+PATIENT:
+DOCTOR: are you?
+DOCTOR: I'm okay.  (Doctor on phone)  Hi, how are you today?
+PATIENT: Okay.
+DOCTOR: So let me just, see if I can find this.  [REDACTED]  So I wondered if [REDACTED], looks good.  Well since I last saw you what's been going on?
+PATIENT: Well you know not much.
+DOCTOR: Okay.
+PATIENT: Except there's three things.  One is I have some postnasal drip and sore throat.
+DOCTOR: Uh-huh.
+PATIENT: And I just finished antibiotics, my wife's doctor I went to.
+DOCTOR: Oh okay.
+PATIENT: Cause it's out there but I have a history of sinus infections.
+DOCTOR: What did you take?
+PATIENT: Uh he gave me something called Septrabs, have you heard it?
+DOCTOR: No actually, I'm gonna take a look at that name.
+PATIENT: Just called her and asked her.
+DOCTOR: That's alright.
+PATIENT: Some kind of antibiotic.
+DOCTOR: Sometimes you know.
+PATIENT: Maybe I spelled it wrong.
+DOCTOR: Yeah.
+PATIENT: Yeah it was a generic actually.  Big white pills.
+DOCTOR: Hard to swallow.
+PATIENT: Hard to swallow.
+DOCTOR: Could you, can I see that again?
+PATIENT: Yeah, maybe I spelled it wrong.
+DOCTOR: Okay.
+PATIENT: Maybe there was something different on the end.  I know it's a B or maybe it's a D.
+DOCTOR: Oh Bactrim.  That's an interesting drug for uh.  Do you have any allergies?
+PATIENT: Yeah I've got a history of.
+DOCTOR: Okay.
+PATIENT: Seasonal allergies.
+DOCTOR: Okay but not to medications.  Hmm.  That does, it's just not a the first line drug I would use for sinusitis.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Well I just finished it on, what was it, Sunday.
+DOCTOR: Okay.
+PATIENT: But I've got the sore throat back again and that postnasal.
+DOCTOR: Oh okay.
+PATIENT: That's why it's coincidental to this visit but that's always my history.  Throat starts getting sore and I got postnasal.
+DOCTOR: Yeah.
+PATIENT: It's.
+DOCTOR: And then you start getting the headache again.
+PATIENT: Yeah and the headache.
+DOCTOR: Any fevers or chills?
+PATIENT: No, never had any.
+DOCTOR: Anything productive like a green sputum or anything?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yellowish, green and I was really get rid of a lot of it with blowing the nose a lot and cleaning a lot of it out.
+DOCTOR: Yeah.
+PATIENT: But it just kept coming you know.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: And no fever?
+PATIENT: No.
+DOCTOR: No chills, night sweats, no fevers.  Any headache now?
+PATIENT: Just a little, it's here and it's right at the top at the crown of the head.
+DOCTOR: Okay.  Okay and any cough?
+PATIENT: It doesn't seem to be in the chest no.  It's just a sore throat.  A cough because of the stuff in the throat.
+DOCTOR: Okay.  Okay and otherwise what's going on, anything else?
+PATIENT: Well there's two other things.  One I've noticed, this elbow aches.
+DOCTOR: Okay.
+PATIENT: Periodically and I think it's related to, I'm doing a lot of stuff on the computer.
+DOCTOR: Could be.
+PATIENT: And so I'm sitting right on the edge of the desk and this edge would be right on the elbow.
+DOCTOR: Uh-huh.
+PATIENT: And then it kind of aches when it starts almost like a numb feeling.
+DOCTOR: Yeah.
+PATIENT: In the thumb.
+DOCTOR: That's where the ulnar nerve.
+PATIENT: That I've been noticing.
+DOCTOR: [REDACTED].
+PATIENT: I feel like it's a nerve.
+DOCTOR: To your elbow right here.
+PATIENT: Yeah.
+DOCTOR: Um arm and when you cup it like this.
+PATIENT: Uh-huh.
+DOCTOR: You get like shooting [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] actually kind of avoid that, maybe put some pad.
+PATIENT: Well I did put a padding on it.
+DOCTOR: Or something, did that seem to be helping?
+PATIENT: Well what helps is if I keep it straighter or if I don't put pressure on it but it aches all the way down like through here.
+DOCTOR: Even if you don't put pressure?
+PATIENT: Well after it starts aching it aches.
+DOCTOR: Okay.
+PATIENT: For a period of time.  Excuse me um I'm trying to avoid doing that on the computer but I'm left-handed so I.
+DOCTOR: So it [REDACTED] okay.
+PATIENT: So I predominantly use that.
+DOCTOR: It's not unusual okay.  It's fairly a simple [REDACTED].
+PATIENT: I think it is related to that computer thing.
+DOCTOR: Yeah and it's definitely, it sounded like it's your ulnar nerve, the nerve that curves around the elbow and then it supplies basically this part of the hand.
+PATIENT: Yeah cause I can.
+DOCTOR: So let me see what's there.
+PATIENT: That little finger every once in a while gets a little numbish.
+DOCTOR: Okay, let me take a look here.  So what was the third thing?
+PATIENT: Third thing was I just got, it's an injury I just got on Thursday.
+DOCTOR: Okay.
+PATIENT: I play soccer.
+DOCTOR: Oh okay.
+PATIENT: And when I was in the service I had a blunt trauma injury to this leg.
+DOCTOR: Okay.
+PATIENT: And it actually, what'd they call it, a herniated rectal [REDACTED].
+DOCTOR: Oh okay.
+PATIENT: The muscle underneath was popping up.
+DOCTOR: Okay.
+PATIENT: It was bubbling up.  Now over time and strengthening that has gone back down.
+DOCTOR: Okay.
+PATIENT: But I didn't get hit or anything but it started right like here and now it's just.
+DOCTOR: Acting up again?
+PATIENT: Now its right up into this area and it's tender.
+DOCTOR: Uh-huh.
+PATIENT: And I don't, it's not bruised.
+DOCTOR: And you haven't recently injured it?  When was the first injury?
+PATIENT: Well it would have been probably 1969.
+DOCTOR: Oh.
+PATIENT: When I was in Vietnam.
+DOCTOR: That's like a femoral.
+PATIENT: Herniated [REDACTED] femoris.
+DOCTOR: Rectus femoral okay.
+PATIENT: Yeah that's in the record somewhere.
+DOCTOR: [REDACTED].  Now it is acting up?
+PATIENT: Yeah and it's pretty.
+DOCTOR: Do you think that physical therapy would help?
+PATIENT: I don't know.  I just, I just, maybe I just need to lay off of it.
+DOCTOR: Yeah have you been and you said this was, playing soccer just recently.
+PATIENT: Well it just happened on Thursday.
+DOCTOR: Okay.
+PATIENT: And towards the end of the game all of a sudden I felt the pain here, it's like right above the knee but when I got up, yesterday I was bent down on my knees on the ground and when I got up it was just shooting pain all the way through here.
+DOCTOR: Okay.
+PATIENT: But um.
+DOCTOR: And no specific trauma that you remember?
+PATIENT: There was no trauma from it when uh.
+DOCTOR: Okay.  And then do you usually play soccer?  You play soccer all the time.
+PATIENT: I play twice a month, twice a week.  So that wasn't unusual.
+DOCTOR: Yeah.
+PATIENT: It wasn't like.
+DOCTOR: Okay.
+PATIENT: But what's funny is I can almost feel, I can feel that lump.
+DOCTOR: Uh-huh.
+PATIENT: Coming back here where it was.
+DOCTOR: Oh you can.
+PATIENT: I've got shorts on if you want to.
+DOCTOR: Yeah, yeah.
+PATIENT: Take a look at it.
+DOCTOR: I will definitely, definitely.
+PATIENT: Yeah.
+DOCTOR: Let me shut the door and I'll have you.
+PATIENT: Well I've actually got gym shorts on.
+DOCTOR: Oh good okay.
+PATIENT: Cause I.
+DOCTOR: Figured that.
+PATIENT: Figured you might want to take a look at it cause it wasn't uh, you can see there's no bruising but when I do this and it might just be the muscle.
+DOCTOR: Okay.  Let's see what it's doing here.  Now do that with this side, yeah.  The seem about the same.
+PATIENT: Yeah.
+DOCTOR: The pain is just.
+PATIENT: The pain is right in this vicinity right here.
+DOCTOR: Okay.  What about when I push down, do you feel the pain?
+PATIENT: No.
+DOCTOR: Okay so it's more when you move it.
+PATIENT: It's more when I stretch it.
+DOCTOR: This way, or when you bend your knee.  I mean it definitely seems like a musculoskeletal thing.
+PATIENT: Yes.
+DOCTOR: For now I can do like ibuprofen and hot packs.
+PATIENT: And I have been doing that.
+DOCTOR: Has that helped?
+PATIENT: Alternating cold and hot.
+DOCTOR: Okay.
+PATIENT: And it does seem to help and I think I just need to probably lay off of it.
+DOCTOR: Yeah that's what I would do.  I mean if it seems musculoskeletal, I'm hoping that'll go away soon, if it doesn't.
+PATIENT: Initially it felt like it was in the bone.
+DOCTOR: Oh really.
+PATIENT: Now that sounds strange but it felt deep, the pain.
+DOCTOR: Right.
+PATIENT: And so I laid off for two days, Thursday was when it happened.  Thursday night I didn't play again until Sunday afternoon, then I started to play and it just goes like a real sharp, tearing pain in here.
+DOCTOR: Okay.
+PATIENT: So it's fairly recent I've laid off of it.  I just wanted to make sure that um you know.
+DOCTOR: Yeah.
+PATIENT: Get your opinion on it.
+DOCTOR: And absolutely.  And then I would definitely lay off of it, do the hot packs.
+PATIENT: Okay.
+DOCTOR: And ice and we'll go from there.  If it doesn't get better.
+PATIENT: Sure.  How long do you think this should take?
+DOCTOR: Give it a few weeks.
+PATIENT: Couple weeks at least.
+DOCTOR: Sometimes muscle injuries are bad.
+PATIENT: I used to have hamstrings so.
+DOCTOR: Yes.
+PATIENT: So toes and ankles but.
+DOCTOR: Yeah sometimes it's just.
+PATIENT: Something's bizarre again.  It came out of no where, it was at the end of the game.  So maybe I was tired though and I just strained something.
+DOCTOR: [REDACTED].
+PATIENT: This is the only things that I can think of.
+DOCTOR: (Someone comes to the door)  Sorry about that.
+PATIENT: Uh-huh.
+DOCTOR: Um so yeah and the other thing yeah so for this I'd probably just stay off of it, hot packs, cold packs, sometimes it takes 3-4 weeks for this all, so lay off of it and let's kind of see how it goes.
+PATIENT: I can do that.
+DOCTOR: If you persistently have pain then we can talk about imaging and that kind of thing.
+PATIENT: Yes.
+DOCTOR: Now your elbow, so let's see here, does this cause some of the symptoms at all?  Any numbness here at all?
+PATIENT: I can feel it here on the little finger.
+DOCTOR: Does it do it all the time or do you feel it when I’m.
+PATIENT: No just uh, not when you're pushing.
+DOCTOR: Okay.
+PATIENT: It was doing it before I came in here today.
+DOCTOR: And anything when I do that?  Okay can you go like this?  Okay.  So actually, so it's called an ulnar nerve entrapment basically.  Like an ulnar neuropathy where when you're having, just exactly what you're saying.
+PATIENT: Yeah.
+DOCTOR: It's getting spastic when you're leaning like this.
+PATIENT: Yeah.
+DOCTOR: And you are irritating this nerve and then you start to get numbness.
+PATIENT: Uh-huh.
+DOCTOR: All along this area.
+PATIENT: Uh-huh.
+DOCTOR: So there's, you know there's conservative therapy.
+PATIENT: Just stop doing that?
+DOCTOR: Yeah basically.  Conservative management is stopping leaning on that elbow.  There's also surgical management but I don't think that at this point we need to do it.
+PATIENT: Uh-huh.
+DOCTOR: Sometimes people get it really severe where this muscle will be wasting away and this finger will actually physically get smaller than the other fingers.
+PATIENT: Uh-huh.
+DOCTOR: Um I don't think you're at that point yet but I would really just avoid.
+PATIENT: I can do that, consciously do that.
+DOCTOR: Cause you're at risk and I would just you know, try to just be cognizant of it um.
+PATIENT: Okay.
+DOCTOR: Yeah.  It's probably like an ulnar nerve entrapment basically and it seems like.  I can show you this picture actually.
+PATIENT: So the nerve runs close to that bone and I'm putting pressure on it.
+DOCTOR: Exactly.  So let me just, oh that's not what I want.  I wanted to show you the elbow; oh this is not what I want.  It's actually this nerve but it goes around your elbow.
+PATIENT: Well somewhat, I'm guessing it's somewhat similar to the sciatica if you.
+DOCTOR: Very similar.
+PATIENT: I've had that.
+DOCTOR: Right very similar.
+PATIENT: I've pulled that before.
+DOCTOR: Here we go, this is the ulnar nerve root.  If you look.
+PATIENT: Nerve root.
+DOCTOR: I just lays behind your elbow going right there and then like you can imagine.
+PATIENT: Yeah.
+DOCTOR: If you're kind of leaning on it you're gonna impinge it right here and then everything down here, it supplies mainly it supplies your pinky and then your ring finger.
+PATIENT: Yeah and that's where I feel it.
+DOCTOR: You're having numbness there.
+PATIENT: And outside of the palm.
+DOCTOR: But that's kind of what we're seeing right now.
+PATIENT: So stay away from that pressure okay.
+DOCTOR: And then can I have you have a seat up here sir and we'll check everything to make sure.
+PATIENT: Yeah my throat is really my biggest.
+DOCTOR: Have a seat right there.  Okay can you open your mouth and say ah?
+PATIENT: Ah.
+DOCTOR: Okay.  And do it one more time.
+PATIENT: Ah.
+DOCTOR: Okay.  So I didn't see exudate or anything like that.
+PATIENT: A who?
+DOCTOR: No exudates, no um like mucous or anything there.
+PATIENT: Oh you don't see anything.
+DOCTOR: Any ear pain at all?
+PATIENT: Uh uh.  Just wax.
+DOCTOR: Hmm.  Now this side, looks good.
+PATIENT: It's predominately my right side.
+DOCTOR: Where you're feeling it?
+PATIENT: Uh-huh, that's where.
+DOCTOR: This [REDACTED].
+PATIENT: Things just start yeah.
+DOCTOR: Yeah.  Right now it actually seems like more of a viral syndrome.
+PATIENT: Uh-huh.
+DOCTOR: And you've had the Bactrim so I actually wouldn't add on any antibiotic unless you really are having a lot more symptoms and I might add something like Augmentin or something like that but [REDACTED], that would probably just.  I think it really seems more viral at this point.
+PATIENT: Yeah it was twice a day, 10 days.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: So yeah, I had, like whatever it was it should treat it.
+PATIENT: Okay.
+DOCTOR: And we'll go from there.
+PATIENT: What about the throat, just some lozenges?
+DOCTOR: Yeah lozenges, that kind of thing and it's just kind of a symptomatic kind of thing.
+PATIENT: Uh-huh.
+DOCTOR: Sorry about that someone paging.  Deep breath please.  And the only other thing, I want to recheck your blood pressure.  It was 138/80 before which is a little high.
+PATIENT: That's higher than normal yeah.
+DOCTOR: Yeah so let's take it uh, sometimes you know when people are in here and it's like cuff sizes we use are different.
+PATIENT: A couple of times in the last three weeks, four weeks maybe.
+DOCTOR: Uh-huh.
+PATIENT: When I stand up, I get a little, little dizzy.
+DOCTOR: Okay.
+PATIENT: Which might just.
+DOCTOR: Really okay.
+PATIENT: I've had that before.
+DOCTOR: Okay.
+PATIENT: But um.
+DOCTOR: You could maybe dehydrated?
+PATIENT: Yeah it's a possibility; I don't drink probably enough water.
+DOCTOR: You're pretty active.  You've just got to remember to kind of keep hydrated.
+PATIENT: Yeah, especially outside because.
+DOCTOR: Now especially with the weather getting warmer.
+PATIENT: Yeah.
+DOCTOR: And how's the ankle?  I know last time that was bugging you.
+PATIENT: No I just, ice it when I need it.
+DOCTOR: Do you exercise it?
+PATIENT: I sit when I need to.  It’s getting much better.
+DOCTOR: Well 140/80.  It's still a little high actually.  I'm getting high too.
+PATIENT: Well what size of this do you have?
+DOCTOR: Well you know one of the.
+PATIENT: I've heard that before but it's usually in the 130s.
+DOCTOR: Okay.
+PATIENT: 133, 134.
+DOCTOR: Let me see what it was the last time you were here.  Yeah I mean it was like 132/74 last time you were here too, but I wasn't inclined to start any medications.  Let's see so, you really aren't on any medicines.
+PATIENT: Uh uh.  The only thing I'm taking is Allerest.  I was doing that statin, what was it?
+DOCTOR: Oh yeah are you still taking that?
+PATIENT: Oh yeah, until I run out.
+DOCTOR: Okay.
+PATIENT: I've got about another five weeks worth.
+DOCTOR: Here you are, so I'm just looking at your labs from today.  No diabetes.
+PATIENT: Well that's good news.
+DOCTOR: You're white count is good.  You know that lump on your chest as well, is that?
+PATIENT: Oh I had, I went and had the mammogram.
+DOCTOR: Yeah I remember.
+PATIENT: And they called me back and think its fatty tissue.
+DOCTOR: Yeah, so there's really nothing to do about that.
+PATIENT: Nope, nope.  That one's fine.
+DOCTOR: You just kind of monitor it.  Sometimes.
+PATIENT: I found out incidentally my uncle has had several.
+DOCTOR: Oh those fatty cysts?
+PATIENT: Fatty things and they always thought it was some sort of tumor but it wasn't.
+DOCTOR: Yeah.
+PATIENT: Yeah on his stomach and his back.
+DOCTOR: You know it's really harmless unless it's bugging you and you know a some people do get it surgically removed.
+PATIENT: No it's not a problem.
+DOCTOR: Um but you know, it's one of those things if it bugs you and that kind of thing.  Well okay, good so your labs actually look pretty good.  Your lipids look good.  I don't even think we need to start you on anything.
+PATIENT: And this, I've been doing fairly well.  I exercise is there anything diet-wise or anything that can change it?
+DOCTOR: Yeah I mean the one thing that I would say, as far as your blood pressure.
+PATIENT: I don't eat any red meat.
+DOCTOR: That's good.  Um what about like increasing vegetable intake and what's your alcohol use like?
+PATIENT: Oh I have a glass of wine at dinner.
+DOCTOR: Okay.
+PATIENT: Red wine.
+DOCTOR: Okay.
+PATIENT: Somebody said that's supposed to be good for you.
+DOCTOR: Yeah I think that’s fine.  Um.
+PATIENT: On occasion I'll have a couple of beers but.
+DOCTOR: Yeah I mean, nothing concerning.  You seem like a pretty healthy guy.  You're active.
+PATIENT: Yeah.
+DOCTOR: You know and sometimes you know lifestyle changes don't do enough.  I mean let's see; now you play soccer a couple times a week.
+PATIENT: Uh-huh.
+DOCTOR: What else um.
+PATIENT: That's probably about the extent of the physical stuff cause I'm retired now so.
+DOCTOR: Good.
+PATIENT: Now in with summer coming I will be outside more.
+DOCTOR: Okay.
+PATIENT: And.
+DOCTOR: And it might just help and I would say, I'm gonna wait.  I'm gonna have you come back and we'll check your blood pressure again.
+PATIENT: Uh-huh.
+DOCTOR: I mean if [REDACTED] I want get this down [REDACTED] to kind of more activities.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] you know play soccer maybe you can do another activity like the other days maybe walk on the treadmill or take a walk outside.
+PATIENT: My wife wants to start walking now that the weather's nice.
+DOCTOR: Yes.
+PATIENT: So we're going out a couple of miles treks.
+DOCTOR: Good.
+PATIENT: Every day so that should help.
+DOCTOR: Good.  And then we'll recheck your blood pressure and we'll kind of see where you can go from there.
+PATIENT: Do I have to come down here to get this blood pressure checked?
+DOCTOR: You know we can actually set you up and they can check it manually.
+PATIENT: Okay cause it's like an hour and a half drive.
+DOCTOR: I know, I know.  So you can even call in uh with your blood pressure readings in a couple weeks and just let me know what they've been.
+PATIENT: Okay.
+DOCTOR: And that kind of let's me see this.
+PATIENT: Okay.
+DOCTOR: And then we can go from there.  So I'll order you a blood pressure cuff and I think you can pick it up today while you're here uh let's see here.
+PATIENT: Now this blood pressure cuff is different than what you're doing?
+DOCTOR: Oh no, it's the same except it'll be.
+PATIENT: Does it itself.
+DOCTOR: Be a manual reading.
+PATIENT: Okay.
+DOCTOR: Yeah you don't have to read it.  You don't need a stethoscope.  It's kind of like the ones at the supermarket.
+PATIENT: Oh yeah, I’ve done those machines.
+DOCTOR: Yeah it's very similar to that.
+PATIENT: Okay.
+DOCTOR: It'll give you a visual reading.  It'll give you your heart rate as well.
+PATIENT: Are those pretty accurate?
+DOCTOR: Uh yeah they should be.  Sometimes they [REDACTED].
+PATIENT: Thinking of the one I go with is a jewel.
+DOCTOR: Yeah.  As long as you're doing it right and you're not moving and you stay still.
+PATIENT: Okay.
+DOCTOR: And you're sitting down and your arm is like kind of like a table like this.
+PATIENT: Yeah sitting on something.
+DOCTOR: Bent like this and you have the cuff it should be pretty accurate.
+PATIENT: Okay.
+DOCTOR: Whenever you move around and stuff it's not gonna work but if it's in the correct spot above your elbow.
+PATIENT: Uh-huh.
+DOCTOR: Make sure you're rolling up your sleeves, no clothes under it then it should be working just fine.
+PATIENT: Well that might be the problem in the store because.
+DOCTOR: Yeah if you always have your long sleeves on it's kind of.
+PATIENT: Sweatshirt and something like that.
+DOCTOR: It's not as accurate as it can be.
+PATIENT: Okay.
+DOCTOR: So okay um otherwise.  So what I will do now is I look on your labs um and you're on a daily aspirin sir?
+PATIENT: Yes low dose.
+DOCTOR: Okay.  And then let's see so you got your tetanus shot and then did you get your flu shot this year?  We didn't even have them available.
+PATIENT: No I didn't.
+DOCTOR: Okay.
+PATIENT: I've never had the flu shot.
+DOCTOR: Oh okay.  So I will go talk with my attending and I'll be right back.  Otherwise, and then really today we'll just probably have you get the blood pressure cuff but everything else.
+PATIENT: Okay.
+DOCTOR: I think you're doing good.
+PATIENT: We're good and then the question now, when I go back, lay off a couple of weeks on the leg.
+DOCTOR: Yes I would.
+PATIENT: Okay, uh any idea when I go back if it hurts I just.
+DOCTOR: Yeah I mean if it's still hurting when you stop and I mean if it's really getting severe we need to get like a MRI or some kind of imaging and see what's going on.
+PATIENT: But a couple of weeks should give it.
+DOCTOR: Sure a couple of weeks should give it.
+PATIENT: Now if we're out walking during the day.
+DOCTOR: Yes.
+PATIENT: Like I say with my wife that shouldn't.
+DOCTOR: That shouldn't affect it.
+PATIENT: I don't need to wrap it or anything?
+DOCTOR: I don't think so.  I mean it may help.  If you wanted to go to Walgreens and get one of those wraps I mean.
+PATIENT: I've got plenty of those yeah.
+DOCTOR: Maybe at some point.  I mean if it helps, if you feel like it helps use it.
+PATIENT: Oh I'll try that.
+DOCTOR: But no because it's more muscle pain, it doesn't seem like it’s a joint I don't know if it'll be that helpful.
+PATIENT: Yeah I think it's all in the soft tissue up here.
+DOCTOR: Yeah exactly.
+PATIENT: Okay.
+DOCTOR: Alright, well I will be right back.
+PATIENT: Super, thanks.
+DOCTOR: No problem.
+(DOCTOR OUT: 71:07  DOCTOR IN:  84:44)
+DOCTOR: Alright sir, you're all set but I should be able to tell you where to go.  I think it's on the third floor where you can pick up a blood pressure cuff um but I'll have you follow-up in six months.
+PATIENT: Uh-huh.
+DOCTOR: If you can call in two weeks and just let us know what your blood pressure is.
+PATIENT: I can give you a call.
+DOCTOR: That would work.  Um they'll give you the number outside.
+PATIENT: Oh okay.  That's probably where I came in.
+DOCTOR: Yeah where you check out.
+PATIENT: Oh I have to check out?
+DOCTOR: Uh-huh.
+PATIENT: I didn't know that.
+DOCTOR: Yeah so you check out uh right around here.  Just so they know when to schedule you.
+PATIENT: Okay.
+DOCTOR: And everything.
+PATIENT: And I have to tell you I'm really impressed that you remembered my ankle.
+DOCTOR: Oh yeah.
+PATIENT: That's pretty good detail.  I totally forgot about it.  Oh this is what I give to them.
+DOCTOR: Yeah this is for you and I just need you to go around this corner.
+PATIENT: Thanks a lot.
+DOCTOR: Oh no problem.
+PATIENT: Bye now.
+PATIENT: 85:41
+Time is 10:40.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255112
+TRANSACTION # 578-10-2-316-0103

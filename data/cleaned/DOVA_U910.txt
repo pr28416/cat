@@ -1,0 +1,520 @@
+DOCTOR: PATIENT? Hello.  How are you today?
+PATIENT: Pretty good.
+DOCTOR: Good to see you again.  Come on back.  Have a seat right there.  So I haven't seen you since the holidays, how have things been going?
+PATIENT: Going down the toilet.
+DOCTOR: Going downhill, what's going on?
+PATIENT: Uh I [REDACTED] shortness of breath.
+DOCTOR: Yeah.
+PATIENT: Even just minor exertion.
+DOCTOR: How long has it been going on for you?
+PATIENT: Been going a few months.
+DOCTOR: A few months okay.  Next time that happens call me and we can get you in sooner okay.  I don't want you to wait that long if you feel.
+PATIENT: You know I don't even know when I'm supposed to be seeing the cardiologist again.
+DOCTOR: Yeah so you saw them in September it looks like, is that right?
+PATIENT: Uh somewhere around there.
+DOCTOR: DOCTOR. [REDACTED] appointment. You don’t have anything in the books.
+PATIENT: Not a heck of a lot.
+DOCTOR: It says four months, so September, October, November, December, January, so you should have already had a follow-up with them.  We'll get you in to see them.  But first let's talk about this shortness of breath, what's going on?  It started four months, or then four months ago?
+PATIENT: It's, I'm convinced that it's the blockage.
+DOCTOR: Yeah.  How far can you walk before you get short of breath?
+PATIENT: Believe it or not, walking it comes and goes.  I might get a little off, I don't know somewhere.  The pain wipes out the shortness of breath.
+DOCTOR: Like in your calves?
+PATIENT: In here.
+DOCTOR: Okay.  Do you get like shin splints or.
+PATIENT: That’s what it feels like.
+DOCTOR: Okay.
+PATIENT: Whether it’s not...
+DOCTOR: Yeah.
+PATIENT: [REDACTED]
+DOCTOR: Yeah.
+PATIENT: But uh, trying to tie my shoes.
+DOCTOR: Yeah.
+PATIENT: That type of exertion and then in terms of not even exertion just sleeping.
+DOCTOR: Okay.
+PATIENT: Getting into bed, curled on my side.
+DOCTOR: Yeah.  Do you feel more short of breath when you're laying flat at night?  Do you wake up short of breath at all?
+PATIENT: It happens.
+DOCTOR: You have woken up short of breath.  Okay and laying flat is okay.
+PATIENT: Well I don't usually.
+DOCTOR: You usually don't okay.
+PATIENT: I don't usually.
+DOCTOR: Okay that's fine and did you park your car out there and walk in today or do you valet?
+PATIENT: I parked and walked in, I didn't have any problems.
+DOCTOR: Not this time.
+PATIENT: If I can take my time I'm alright.
+DOCTOR: Okay, it's when you're kind of walking a little bit faster?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: If you can call it a little bit faster.
+DOCTOR: Okay and then um how is that different from where you were when I last saw you?  Cause this obviously is new.  What were you able to do before that for a comparison?
+PATIENT: I wasn't getting short of breath.  The only thing that was bothering me then was the pain.
+DOCTOR: The pain.
+PATIENT: In the legs.
+DOCTOR: Yeah.  And they said that was a neuropathy is that what, okay yeah.
+PATIENT: That's what they said.
+DOCTOR: Yeah.
+PATIENT: Uh I wasn't that short of breath.
+DOCTOR: That was never an issue.  It was the pain that made you stop.
+PATIENT: No.
+DOCTOR: And now it's like a little bit of both.
+PATIENT: Right.
+DOCTOR: Any chest pain with any of this?
+PATIENT: Occasionally.
+DOCTOR: Occasional.  What is it, is it kind of in the middle of your chest?  Does it go anywhere?  Where do you feel it?
+PATIENT: It's kind of down in the ribs.
+DOCTOR: It feels like it down here?  On both sides?
+PATIENT: [REDACTED].
+DOCTOR: Like a tightness or what does it feel like?
+PATIENT: It's uh, that's why I did the [REDACTED].  It's a, it's almost like the inside, the pain against like my ribs.
+DOCTOR: Like a pressure?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: And it's there for a while and then it'll subside.
+DOCTOR: Okay.  And how long does it take for it to go away when you stop?
+PATIENT: A minute or two.
+DOCTOR: A minute or two.  So it does resolve after you stop and then it kind of goes away?
+PATIENT: Yes.
+DOCTOR: Okay and then if you're just sitting and not doing anything else, do you ever feel any symptoms or are you just only when you're moving and exerting yourself?
+PATIENT: No, no, not that I'm aware of.
+DOCTOR: Okay.  Do you, have you noticed more fluid on your legs?
+PATIENT: Today yeah.
+DOCTOR: Today or over the last couple months?
+PATIENT: It's been a couple months.
+DOCTOR: Over the last couple months okay.  And you're still taking the Lasix twice a day the 40 and 40?  Okay.  Are you still having the same amount of urine output when you take the Lasix?
+PATIENT: This might sound stupid, and maybe it’s not even possible, I think I’ve developed a kind of…
+DOCTOR: Like a tolerance.
+PATIENT: Tolerance.
+DOCTOR: Yeah that happens sometimes.
+PATIENT: That's what I was thinking.
+DOCTOR: Yeah, yeah.
+PATIENT: Only sometimes when I really need to go.
+DOCTOR: Yeah.
+PATIENT: Other times it's like I never took it.
+DOCTOR: Uh-huh.  Are you eating more salt, salty food?
+PATIENT: No, no, not really.
+DOCTOR: Nothing like that.
+PATIENT: I don't eat salt, I hate salty food.
+DOCTOR: Okay, okay.  So you're kind of aware of eating more salt makes you swell up more okay.  Do you remember the last time we did like an echo of your heart that's imaging where they do an ultrasound of your heart?  The last one I found was in 2010, do you remember doing anything [REDACTED]?
+PATIENT: Was that where they give [REDACTED] the chest?
+DOCTOR: No it's, it's just like.
+PATIENT: [REDACTED].
+DOCTOR: It's just like a little machine, an ultrasound machine over your chest.  It's not like an x-ray.
+PATIENT: I didn't.
+DOCTOR: [REDACTED] okay and then you had a CABG back in 2001, a open heart surgery and then you had stents placed in 2005 and nothing since then, okay.
+PATIENT: Nothing since then.
+DOCTOR: Okay, okay.  Oh in 2007.  You had something since then?
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] okay.
+PATIENT: As far as that is because I lost my job and [REDACTED].  I had that done before I lost my job.
+DOCTOR: Okay and then when you saw DOCTOR in September, in his note now correct me if I'm wrong; he wanted you to cut down your Lasix in half.
+PATIENT: Right.
+DOCTOR: What were you taking before?
+PATIENT: I was taking it twice a day.
+DOCTOR: Uh-huh.
+PATIENT: One pill twice a day.
+DOCTOR: Uh-huh.
+PATIENT: He wanted me to cut it down.
+DOCTOR: Yes.
+PATIENT: I did that.
+DOCTOR: Did not go well.
+PATIENT: Did not go well.
+DOCTOR: Okay.
+PATIENT: I added.
+DOCTOR: You added it back okay and then after that you probably felt back to normal and then something happened.
+PATIENT: Right.
+DOCTOR: Where it got worse.
+PATIENT: And now it's, I'm retaining the fluids.
+DOCTOR: Retaining the fluids okay.  And you said how long exactly this has been going on for?
+PATIENT: I don’t know, four months, five months I don't know.
+DOCTOR: Four months, okay so it's been a little while okay.  Um and then your blood pressure, how has that been doing?  Have you been checking it at all at home?
+PATIENT: Blood pressure, no. But it was taking today.
+DOCTOR: Yeah it was really good today. I just saw that.  Okay and then your diabetes, what's been going on?  Have you been checking your sugars?
+PATIENT: I check my sugars.
+DOCTOR: How we doing?
+PATIENT: It bounces back and forth.
+DOCTOR: Yes.
+PATIENT: [REDACTED] I’m very displeased about that here.
+DOCTOR: What is that?
+PATIENT: Uh I don't want anything to do with this whatever [REDACTED] is.  [REDACTED] DOCTOR.
+DOCTOR: Okay.
+PATIENT: I'm just.  I get really angry sometimes.
+DOCTOR: Okay.
+PATIENT: You know I've been told they were going to send me a letter and I said you can call me on this date.
+DOCTOR: Yeah.
+PATIENT: And then I get here a half an hour early [REDACTED].
+DOCTOR: Yes.
+PATIENT: And then you know, I didn't get called for an hour to an hour and a half later.
+DOCTOR: Yeah.
+PATIENT: I've got things I got to do and I'm working at night, I got to get some sleep.
+DOCTOR: Yeah.
+PATIENT: And that really ticks me off.
+DOCTOR: Uh-huh did you explain that to her?
+PATIENT: No I didn't because they tell me I was wrong last time.  She called one day and I didn't have any notice of an appointment.
+DOCTOR: Uh-huh.
+PATIENT: Oh just be here, uh-huh.
+DOCTOR: Hmm.
+PATIENT: No I didn't.
+DOCTOR: Yeah.
+PATIENT: And then she thinks [REDACTED] time and its like, look we talk about it here and then she goes and makes a change which I don’t like.
+DOCTOR: Yeah. Well it's good to let us know if there is a complaint.
+PATIENT: Well she was planning, and she'd been constantly on this uh I think we need to change you to, the other type of insulin.
+DOCTOR: Okay.  Was it long-acting?  What are you on now?  [REDACTED].
+PATIENT: I don't know, it's different.  I'm on the long-acting.
+DOCTOR: You're on the long-acting.
+PATIENT: Right.
+DOCTOR: Hmm.  Are you taking more with meals?
+PATIENT: She wants me to take it at every meal.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].  Sometimes I get it and other times I'd be eating like five and six times a day.
+DOCTOR: Yeah.
+PATIENT: That doesn't fit in with my lifestyle at all.
+DOCTOR: Right.  Okay.
+PATIENT: So, I'm just a little irritated.
+DOCTOR: Okay.  That’s understandable.  What have your blood sugars been running?
+PATIENT: They'll go anywhere from 80 to uh about 160.
+DOCTOR: Okay and when do you check your blood sugars?
+PATIENT: Usually at night.
+DOCTOR: Before you go to bed?
+PATIENT: Before I go to bed.
+DOCTOR: So that's like morning to you right?
+PATIENT: That's morning.
+DOCTOR: Okay so you're sleeping kind of all day and then you wake up, you check it and then you go to work.
+PATIENT: Right.
+DOCTOR: Okay.  Do you ever check it after you eat a meal?
+PATIENT: It's rare.
+DOCTOR: It's rare.  But when you do where are we sitting on that?
+PATIENT: Oh after a meal I'll shoot up to about in the 200s uh after dinner I'll check it, two hours.  At two hours it might be down to 180 which frequently is the case.
+DOCTOR: Uh-huh.
+PATIENT: I don't go back to normal after two hours.  In three hours I'm back.
+DOCTOR: Uh-huh.
+PATIENT: Well, what I consider normal, 140 or less.
+DOCTOR: Right, right.
+PATIENT: She doesn't like that 140.
+DOCTOR: Well um and what are we doing like your maintenance stuff, have you seen the eye doctors in the last year?
+PATIENT: Yeah, they were okay.
+DOCTOR: Right and then do you follow with Podiatry or no?  Do you ever have issues with your feet?
+PATIENT: No, no.
+DOCTOR: Ulcers or anything like that?
+PATIENT: No
+DOCTOR: Okay.  Just make sure you keep an eye out for that stuff just because you know, with neuropathy sometimes you don't feel it in your feet.
+PATIENT: Oh the other thing I told the nurse when she checked my feet today.
+DOCTOR: Yeah.
+PATIENT: She mentioned about going barefoot, even in the house and I said well, you got me on that one.
+DOCTOR: Yeah.
+PATIENT: But uh I have a teensy little nick on the ball of my feet.
+DOCTOR: Yes.
+PATIENT: It hurts, for quite a while.
+DOCTOR: Yeah.
+PATIENT: And our feet are so connected with.
+DOCTOR: Yeah.
+PATIENT: And I make sure it was going away, heal.
+DOCTOR: Uh-huh.
+PATIENT: It took quite a while.
+DOCTOR: Yeah.
+PATIENT: Maybe two or three weeks just for a little.
+DOCTOR: Yeah.
+PATIENT: Teeny thing.
+DOCTOR: And that's what's really concerning because of the diabetes and it's a slow healing process of wounds and a lot of people, unfortunately that have poorly controlled diabetes get a cut like that and that leads to developing like a bone infection and it gets worse and worse and.
+PATIENT: I keep a close eye on that.
+DOCTOR: It's very important and if things like you feel are getting all out of hand or a little out of your control then you've got someone to call and we'll get you in to see somebody.
+PATIENT: What was my record and here's [REDACTED].
+DOCTOR: Yeah.
+PATIENT: I was told I'll call you and let you know the results and nobody called.
+DOCTOR: Okay.
+PATIENT: What my A1c?
+DOCTOR: The one in earlier April we checked?
+PATIENT: Correct.
+DOCTOR: Okay that one was 8.2.
+PATIENT: Oh then that's pretty high.  [REDACTED] was a lot better than those.
+DOCTOR: And then the one in January was 8 and then you had 8.6 in August is when I saw you last.
+PATIENT: I thought it was up in the teens.
+DOCTOR: And then before that I think you were really up there and then before that, that's when you had a high number.
+PATIENT: Okay.  But it was 8.2.  Oh the next thing, I got to say this before I forget.
+DOCTOR: Yeah.
+PATIENT: Uh I had blood work today.
+DOCTOR: Yes.
+PATIENT: I just had it on the 6th.
+DOCTOR: Yeah um she didn't order all the tests that I wanted to see.
+PATIENT: Oh so you did know I did.
+DOCTOR: Yeah I did, I did.  I just wanted other, like other tests as well.
+PATIENT: That's fine.
+DOCTOR: And then along with that is to check your A1c today.
+PATIENT: I just. What was it today?
+DOCTOR: We want to have it here and it was 8.4.  8.4, this is really not that [REDACTED].
+PATIENT: So I'll just okay, I was curious whether.
+DOCTOR: So I mean, you know the A1c checks it over three months so checking it [REDACTED] you know.  But like said the more recent A1c we have the more we can then make changes to your medications.
+PATIENT: Well it’s supposed to go 6 or below.
+DOCTOR: 7 or below is my goal for you to have.  I think 6 or below um I was, with 6.5 or below you'd be technically not diabetic but for a diabetic I want you below 7 and ideally around 6.5 but that would be our target.
+PATIENT: I think the main problem is my weight.
+DOCTOR: Yeah so.
+PATIENT: But I can't lose it.
+DOCTOR: Well I know you work late so it's hard uh.  Yeah this is back in like 2010 you were like 12.7 and you were like 9.8 and then we kind of hung around the 8 region for a long time and that's why they sent you to the Pharm D [REDACTED].  So tell me what, I know it's hard for you to gauge it so what is your diet usually consist of?  Do you know what's healthy to eat and what's not healthy to eat for diabetes?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Stay away from carbs.
+DOCTOR: That’s the first step.
+PATIENT: Stay away from carbs, starches, greasy.
+DOCTOR: Uh-huh.
+PATIENT: And the sugar.
+DOCTOR: Yeah.  Definitely.  You know okay so that's like one step and then I know you're kind of on the go it seems like.  Are you usually eat out most of the time?
+PATIENT: I've been more lately.
+DOCTOR: Yeah.
+PATIENT: But even then it's not always bad, well what I get it'll still be fast food but you know I'll have a fish sandwich, [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Tuna.  [REDACTED].  I cook up a lot of chicken and it lasts for three or four days.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: What time is your biggest meal usually?
+PATIENT: Right about now.
+DOCTOR: Right about now okay and that's when you're like getting home from work?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: But the thing I can't do without is, the uh, kinda like, [REDACTED] instant mashed potatoes.
+DOCTOR: Yeah that you make pretty quickly, yeah.  Do you remember the last time we did a stress test on you?
+PATIENT: You haven't that I know of.
+DOCTOR: Okay.
+PATIENT: But that's in the [REDACTED].
+DOCTOR: Why is that?
+PATIENT: That's last time I had one.
+DOCTOR: Oh my goodness.
+PATIENT: I even remember when I it was.
+DOCTOR: Yeah.
+PATIENT: It’s been quite a while.
+DOCTOR: Yeah.  Uh-huh.
+PATIENT: And I only lasted like 30 seconds.
+DOCTOR: Okay, but did you get the treadmill?  You got a treadmill?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: They started me on the main going a high speed.
+DOCTOR: Right.  We don't, we don't have to do a treadmill, we could do like where we give you a medication and that's your stress test.  What I mean it stresses your heart enough to maybe push it and we monitor it.  People that can't get up on a treadmill and run we have other ways to do the stress test.
+PATIENT: That's fine.
+DOCTOR: Yeah.  That’s what I’m saying.
+PATIENT: And I just can't do it because of the pain in my legs.
+DOCTOR: Yes.  So I don't think your treadmill was here.  [REDACTED].
+PATIENT: [REDACTED].  As a matter of fact I'm pretty sure it was before I had the last stent.
+DOCTOR: Oh okay.
+PATIENT: Cause I tried to talk the doctor out of doing it.  I said look, it’s a waste of time.
+DOCTOR: Okay and then do you also, did you get your Lasix when you saw him.  You stopped the niacin and the Zetia.  Did you stop those two?
+PATIENT: Yes.
+DOCTOR: Okay but the Lasix you kind of went back to that.
+PATIENT: [REDACTED].
+DOCTOR: What were you having, you were just swelling more or short of breath or what?
+PATIENT: Both.
+DOCTOR: Okay.
+PATIENT: Mainly the shortness of breath because I could feel the fluid, feel the fluid in my lungs.
+DOCTOR: Okay, yeah.  That’s uncomfortable.
+PATIENT: Is it a different type?  Right now I'm taking Lasix that I had.  [REDACTED].  Might be generic.
+DOCTOR: Oh the furosemide.
+PATIENT: [REDACTED].
+DOCTOR: Yes.
+PATIENT: Is there a difference?
+DOCTOR: There isn't but we have room to go up on your Lasix, you have a lot of room.  The max dose of Lasix is like 400 a day [REDACTED].  So what we could do is I'll talk to DOCTOR and see what her plan is but I would probably want to get you an echo and see how much your cardiac function has changed.  I'd probably get an ultrasound of your heart.
+PATIENT: Okay.
+DOCTOR: Um I'd maybe do a stress test on you too.  I'll see what she has to say about it and I'd definitely increase your Lasix, at least for now because you've become symptomatic so we need to figure out what's going on okay.  But let me just type in a couple of notes to get the ball rolling.  And then do you need refills on any medications do you know?
+PATIENT: When I was getting, write it down, uh let's see.  Carvedilol expires, I got five left until August.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: That’s Plavix.
+PATIENT: Cause I've only got one refill left.
+DOCTOR: Okay I'll refill that one too.
+PATIENT: Furosemide I got three refills left.  Glipizide only one.
+DOCTOR: Okay.  What are you on for glipizide is it 10?
+PATIENT: I take two tablets by mouth twice a day.
+DOCTOR: Okay.  And you're on the max dose of that.
+PATIENT: 10 mg.
+DOCTOR: I'll refill that one.
+PATIENT: Uh insulin two refills left before July.
+DOCTOR: Okay I've got the metformin.
+PATIENT: Metformin three refills left before July.
+DOCTOR: [REDACTED].  And you're still taking the rosuvastatin, that's for the cholesterol?
+PATIENT: Correct.
+DOCTOR: Okay.  And that's going okay, no muscles aches or pains or anything?
+PATIENT: No nothing.  How's the [REDACTED] these days?  Did you get me the statins?
+DOCTOR: Oh yeah I did.  We'll go over that [REDACTED].
+PATIENT: And I do have one other unrelated question.
+DOCTOR: Yes, we’ll address them all. The Lasix, let's see maybe we'll go 60 twice a day.  Do you have 20 mg tablets or are they 40's?
+PATIENT: Uh.
+DOCTOR: Do you take just one pill or do you take two pills in the morning.
+PATIENT: It's one twice a day.
+DOCTOR: Just one pill okay.
+PATIENT: I take one.
+DOCTOR: [REDACTED].
+PATIENT: So take two of them twice?
+DOCTOR: Yeah I'll let you know a final decision, we'll write everything down.
+PATIENT: Oh yeah.
+DOCTOR: Okay so, let's go over your labs.  The A1c we talked about before.  This is your white blood cell count.  Your hemoglobin here is 14.5 that's normal for a male your age.  Um your white blood cell count is 9 and that's a sign of infection.  Um your platelet count is 193 and that's also elevated.  This is your electrolyte count and also your kidney functions and your cholesterol levels.  So this is what I wanted.  I wanted to check your cholesterol and your liver enzymes since you were on statins a long time, so we check like your liver so I wanted to make sure nothing was going on with that.  Okay so your electrolytes, your potassium is actually a little bit low and that's probably from your Lasix so what we'll probably have to do is give you some potassium tablets to take.
+PATIENT: Uh-huh.
+DOCTOR: Cause if that drops too low your heart can go into like arrhythmias it's just [REDACTED].  So that's why we do that um, this is a test of your kidney function and it was 1.08 and that's kind of in your baseline so your kidney function is kind of in the normal range.  Your urea nitrogen is your BUN.  It's another measurement of your kidneys um but that was consistent for you.  Let's see you were 6.7, nothing has changed and that's kind of what we look for in the test.
+PATIENT: But is is high.
+DOCTOR: It is high.  Minimally at high risk um and then the magnesium this is another one that is concerns me. So your potassium and your magnesium are two electrolytes that are very important to watch.  Your magnesium is also low.  So we'll probably have to start you on supplements and I may even want to give you some IV stuff here today before you go home and I know you're tired and you want to go home and sleep.
+PATIENT: I want to eat.
+DOCTOR: [REDACTED].  And then these are your triglycerides so those are the fats.  So that's what you were taking niacin for [REDACTED].  Yeah you were much better [REDACTED] on the niacin.  Do you know why she didn't want you on it?  No.
+PATIENT: I don't know.
+DOCTOR: No? Were you tolerating it okay?  You weren't getting real hot or night sweats.
+PATIENT: Didn’t get a flash, rashes or itches.
+DOCTOR: Well I would probably restart that for you, if that's okay with you.
+PATIENT: It's okay with me.
+DOCTOR: Those numbers, I think I don't like this number.  I definitely want you like closer to 200 and also [REDACTED], let's just do that.  So I [REDACTED].
+PATIENT: It wasn't just the niacin, what was the Zetia for?
+DOCTOR: So Zetia is also kind of a affects your of cholesterol um and your fats.
+PATIENT: Triglycerides.
+DOCTOR: Yes.
+PATIENT: Because I was controlled with triglycerides under the doctor before.
+DOCTOR: Yeah.
+PATIENT: Uh and he specifically put me on those to get the triglycerides down.
+DOCTOR: Yeah.  So the only problem with Zetia is that like they haven't really proven that it does a lot, like it maybe minimally helps with your triglycerides.  It also causes a lot of GI upset.  So I would prefer we would start back on the niacin first and you know test this in like three months and see if it's helping.  If that's not helping, then we can add back the Zetia but with the side effects I'd rather you just do the niacin if you tolerate that well if it controls it.  Okay.
+PATIENT: That’s fine. I've never had any side effects on any of the medications.
+DOCTOR: Yeah, that's good.  Your medicines.  Your cholesterol.  So there's good cholesterol and there's bad cholesterol.
+PATIENT: The good is always low.
+DOCTOR: Your good cholesterol is the HDL and the niacin also helps with that actually.  It'll help bring it up just a little bit but the way you get your HDL up is exercise.  Physical exercise, which I know right now is kind of hard because of what’s going on but your LDL [REDACTED] good. That’s great we want you below 70; you're at 58, that's excellent.  You’re diabetic with heart disease and we want you below 70 for your bad cholesterol.  So the LDL is where we want it.  The HDL is a little bit low um, we'll work on kind of symptomatically relieving your issues so you can do a little more exercise but we mainly covered that.  Your [REDACTED] are your liver function tests, all the liver functions, but these usually [REDACTED] when you're on a statin and then they'll [REDACTED].
+PATIENT: [REDACTED] high?
+DOCTOR: No that's low, 0.4 is low.  4 is high it looks like you've never had levels that high [REDACTED] around that range.  Yeah you've even down from the last [REDACTED].  So [REDACTED] go back on niacin.  Do you want to do a 90-day supply or do you want a 30-day supply?
+PATIENT: 90 is fine. That will be sent?
+DOCTOR: Yes sent in the mail.  Okay let me just uh examine you and then we'll come up with a game plan and I'll write everything down for you.  Where do you work security?
+PATIENT: I work uh in Burr Ridge.
+DOCTOR: Okay.  That's [REDACTED] right yeah.
+PATIENT: Right.  South.  About.
+DOCTOR: Take a deep breath.
+PATIENT: About 17 miles I guess.
+DOCTOR: Oh okay.  Do you live there too?
+PATIENT: Yeah.  [REDACTED] North [REDACTED].
+DOCTOR: Just look straight ahead for me I just want to check your eyes first.  Open up wide for me, say ah.
+PATIENT: Ah.
+DOCTOR: Okay. Perfect. Can I have you hold your breath for a minute?  Okay perfect.  Deep breath for me.  So are some days worse than others?  Is today probably a good day for you?  I don't hear much fluid in your lungs.
+PATIENT: Oh no, as far as that goes, it’s a good day.
+DOCTOR: So with the exertion the shortness of breath you're getting.
+PATIENT: [REDACTED].
+DOCTOR: Yeah, yeah. Today wasn’t as bad. Is it days on days off kind of a thing [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: Okay.  But you said you've noticed more fluid huh?
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And that's the way you can.
+DOCTOR: Yeah.
+PATIENT: You know it's not down in my feet, it's always there.
+DOCTOR: Here.  [REDACTED] all right here.  You can tell that by pushing down and if it leaves an indent.  You usually don't have that.
+PATIENT: [REDACTED].
+DOCTOR: The swelling.
+PATIENT: Yeah, that's what I've been having for about.
+DOCTOR: For the last four months.  But before I'm saying you didn't have any fluid on there, okay.  Wonderful.  Check this side.
+PATIENT: Since [REDACTED].
+DOCTOR: Why is this one red?  Is it where they took the veins for your surgery, do you know?
+PATIENT: Uh.
+DOCTOR: When they do cardiac surgery sometimes they take a vein from your legs for the graft, do you remember?
+PATIENT: I don't remember.
+DOCTOR: Yeah a lot of people are like that.  Okay, uh just have a seat right there.  I'm going to talk to DOCTOR.  I'll be back in just a couple minutes okay.
+(DOCTOR OUT:  58:14  DOCTOR IN:  69:09)
+DOCTOR: Okay.  So we've come up with a game plan.  Do you have that little med sheet they gave you when you came in, let’s write down on that, then you can keep that and I'll take this one okay.  So I'm just going to write on the back of this one if that's okay.  So we'll do the changes.  We're going to do your Lasix, we're going to do 60 mg twice a day.  You can cut your pills in half; do you have a pill cutter?
+PATIENT: [REDACTED].
+DOCTOR: Oh okay that's fine too yeah so just cut them in half until you get the new ones.  The new ones will probably just be 20's and you'll take three.
+PATIENT: What am I taking?
+DOCTOR: You're taking 40 mg twice a day.
+PATIENT: Okay.
+DOCTOR: Now it's going to be 60.
+PATIENT: So 1 1/2 okay.
+DOCTOR: Yeah it goes to 1 1/2.  Um and then we're starting the niacin, okay, and then I'm starting you on some potassium.  Your potassium and magnesium are low.  I'm not going to make an IV I know you want to go home and sleep but I want you to take so we're going to give you magnesium it's going to be 420 mg three times daily.
+PATIENT: [REDACTED].
+DOCTOR: For one week yeah and then you just take it twice a day.
+PATIENT: Three times a day for a week.
+DOCTOR: Just one week and then after that just take it twice a day and then potassium, that's potassium chloride and that's 20 mg and you'll take that twice daily.  So we're increasing your Lasix, your potassium [REDACTED].
+PATIENT: What's the difference, just out of curiosity?
+DOCTOR: Sure.
+PATIENT: This is salt isn't it?
+DOCTOR: No.
+PATIENT: It's not.
+DOCTOR: Sodium is salt.
+PATIENT: Oh.
+DOCTOR: Right, potassium is something else yeah.
+PATIENT: Okay.
+DOCTOR: It's another electrolyte.  It's like inside of your cells, it's the thing it has the most of is potassium.
+PATIENT: Okay.
+DOCTOR: And it stabilizes your cardiac membranes if you have enough potassium.  It if doesn't then you can have like arrhythmias and that's probably not good for your heart [REDACTED].
+PATIENT: Yeah and when you were checking me I could feel, I could feel the heart.
+DOCTOR: Yeah.
+PATIENT: Doing weird stuff in there.
+DOCTOR: Yeah, yeah.  So we'll keep an eye on that stuff.  We'll do the electrolytes and that might help.  If you continue to feel like palpitations and stuff like that then we can put you on a Holter monitor.  It hooks up to you and kind of watches your rhythm for a little while but we'll adjust that when we cross that bridge.  Um and I'm gonna schedule you to see Cardiology.  Cardiology appointment they'll schedule you when you're leaving just take the next available if you can.  We're gonna do an echo. That's an ultrasound of your heart and that'll tell us how much your blood is pumping, your ejection fraction I don't know if you've heard that before so you know.  If it's low.
+PATIENT: I don't remember when I had it but the last time I had it, it was not this cardiologist, the one before.
+DOCTOR: Okay.
+PATIENT: Had me do it and [REDACTED].
+DOCTOR: Your ejection fraction was low.  It was 40% at that time.
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: And he said he was a little concerned about it, but not.
+DOCTOR: Right so if it's, on this echo so if you're a lot worse then we would worry and would probably send you to do a stress test.  But I would do the chemical one for you so the treadmill wouldn't be an issue okay.  We want to see how your heart's doing when it's under stress.
+PATIENT: Okay.
+DOCTOR: And if your echo looks find and I'll call you when I get the results.  It might take like a week to kind of get that back so uh if your echo looks fine then I wouldn't worry, then we'll just do the Lasix dosing and then we'll see how you do.
+PATIENT: So when am I doing this echo?
+DOCTOR: It's going to be scheduled.  When you check out they'll schedule you.
+PATIENT: Okay.
+DOCTOR: Uh and then I want you to come back for labs in one week.
+PATIENT: Again?
+DOCTOR: Yes.  I want to make sure your potassium and magnesium are coming back to normal.  I don't want to stress your heart any more than we have to, so it's really important.
+PATIENT: Well I've got to get this today then.
+DOCTOR: Yeah do you want to pick those up downstairs?
+PATIENT: I can.
+DOCTOR: I'd prefer you do.  I know you want to go home and sleep but I'd prefer you just pick them up.  Especially because they're new, let me just sign this and get all this stuff ordered and then I want you to see, I know you don’t like the Pharm D and that didn't work out and that's totally fine.  I want to actually see an endocrinologist.  They manage diabetes a lot better.
+PATIENT: Than this.
+DOCTOR: Yeah so, we'll set you up with one.
+PATIENT: [REDACTED].
+DOCTOR: Let's just go to endocrine, your A1c has been 8 for like a while so we're not really making headway so.  Endocrinology means like the doctors look at the glands in your body and the pancreas is like a gland so they deal with it a lot so they're very good.  Okay, is this pretty clear?
+PATIENT: Yeah.  Furosemide 1 1/2 twice a day.
+DOCTOR: Uh-huh.
+PATIENT: Start the niacin, start the, restart the niacin.
+DOCTOR: Uh-huh.
+PATIENT: Magnesium, new one three times a day.
+DOCTOR: You can restart it whenever you get it, it's not.
+PATIENT: Oh okay.
+DOCTOR: You know it's not urgent you start it today.
+PATIENT: Magnesium, potassium start today or tonight.  Magnesium three times a day for a week then twice a day and potassium chloride twice a day, Cardiology appointment, echo appointment, labs in one week.  [REDACTED]. Yeah, good.
+DOCTOR: Okay wonderful.  Okay so I ordered those two for the windows so they should be there um and those other two I ordered the niacin, I ordered your echo.
+PATIENT: And endo, Cardiology, do the echo and endocrinologist but they, you just ordered the echo right?
+DOCTOR: Uh-huh.  But they'll have to schedule you. I have no control over when they’ll schedule you and if things get worse I want you to call and if they tell you come in for an @@ visit I want you to do that.  That means we're going to take [REDACTED].  Even if you don't see me you need to be seen by somebody.  I don't want you to go through or suffer for three months before somebody sees you, do you know what I mean?  Usually, they'll be able to get you in with me but if they don't.
+PATIENT: Don't close out.
+DOCTOR: Don't close out?
+PATIENT: Don’t close out, I got another question.
+DOCTOR: Okay.
+PATIENT: Just one.
+DOCTOR: Hmm.  Okay and then when are you due to see the eye people again?  September okay, next September.
+PATIENT: Well I'm still confused if the furosemide, at least to me doesn't seem like its working then why am I depleting my potassium and magnesium?
+DOCTOR: Because it's still making you urinate and potassium and Lasix actually wastes potassium.  So even if you're on a low dose sometimes people can be wasting potassium.  Some people are sensitive to it differently um because the higher you go on a dosage the more potassium you're gonna lose so that's why it's important.  So no matter how much Lasix you're going to lose potassium.  Some people their bodies adjust to it and they kind of you know just absorb more potassium and your body kind of regulates itself but when you're on a higher dose of it it can't keep up and so you're better just to take oral.  It's not uncommon.
+PATIENT: No [REDACTED].  What foods might include?
+DOCTOR: Bananas, very high in potassium.
+PATIENT: Oh good I like bananas.
+DOCTOR: Yeah eat a banana every morning if you can or every night whenever you're going to work.  Okay, what was the other questions?
+PATIENT: Oh yeah I see on TV and I also see you have the documentation out here in the Waiting Room.
+DOCTOR: Yes.
+PATIENT: Should I get that?
+DOCTOR: The shingles.  So you are 62, so we recommend vaccination usually around you know after 60.  Um have you had the chicken pox as a child?  You have okay.  Do you know what shingles is?
+PATIENT: I guess it's some sort of a neuro…herpes.
+DOCTOR: Yeah [REDACTED].  Exactly it's a herpes [REDACTED] so.  Chicken pox is a herpes virus.  You get chicken pox and you break out everywhere and it goes away but it actually stays in your body, it's dormant and then one day when you're older and your immune system's down and especially if you're a diabetic sometimes.
+PATIENT: That's why…
+DOCTOR: [REDACTED] it can flare, it can flare-up and then when it flares up it kind of is like, it flares up like in a distribution of one side of your body.
+PATIENT: I've seen it.
+DOCTOR: And it's like pretty, it's pretty painful.
+PATIENT: Yeah.
+DOCTOR: Some people sometimes can have residual neuropathy so I mean if you're not adverse to getting it we'll do it today.
+PATIENT: That fine.
+DOCTOR: Okay.
+PATIENT: That's what I wanted to know.
+DOCTOR: Sure, sure.
+PATIENT: If you recommended it.
+DOCTOR: It's a great thought; it's a great thought yeah.
+PATIENT: I don't need any more pain.
+DOCTOR: Okay, let's walk you out.  Okay so labs in a week okay.
+PATIENT: Okay.
+DOCTOR: I think we have everything all set.  I want you to come back to see me in a little shorter interval this time is that okay?
+PATIENT: Sure.
+DOCTOR: Okay.  So we'll see you in two months.  That's to check your cardiac enzymes.
+PATIENT: Are you getting close to leaving?
+DOCTOR: No I'm just starting so you'll see me in two months.
+PATIENT: Does it take that long?
+DOCTOR: Yeah three years [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: So I've got two more.  So we'll get to know each other a lot better.  [REDACTED] workout and then I'll take a look at your lab and I'll call you when we get the echo, the labs in a couple of weeks.  Thank you.  Take care sir.
+PATIENT: You too.
+PATIENT: 82:16.
+Time is  3:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255131
+TRANSACTION # 578-10-2-316-0103

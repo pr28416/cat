@@ -1,0 +1,178 @@
+DOCTOR: PATIENT.
+PATIENT: Right here.
+DOCTOR: How are you sir?  Come on in.  How are you feeling?
+PATIENT: Uh, tired.
+DOCTOR: Tired.
+PATIENT: Seen better things.
+DOCTOR: I was looking at your chart.  I saw you got [REDACTED] uh at that time you were kind of going back and forth on whether you wanted cystoscopy.
+PATIENT: Uh.
+DOCTOR: We referred you back to the GU doctors, looks like you saw them and you actually did have that.
+PATIENT: Okay I have [REDACTED] right?
+DOCTOR: Yes, yes exactly.
+PATIENT: I went uh 2010 mostly I'm [REDACTED] on the medicines but uh I'm [REDACTED].
+DOCTOR: Uh-huh, uh-huh.
+PATIENT: [REDACTED] otherwise.
+DOCTOR: Terazosin, yep.
+PATIENT: And then this year sometime in November December, I started out on, I have, recently, no [REDACTED].
+DOCTOR: Yeah [REDACTED].
+PATIENT: Yeah I want some of that [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah how's that working for you?
+PATIENT: It's uh, real good.
+DOCTOR: Yeah so you're not having a problem? I know there were some issues with all the other medications but this one's working real good huh?
+PATIENT: Uh I will say yeah, [REDACTED].
+DOCTOR: Yes.
+PATIENT: It's [REDACTED] initial side effects, right.
+DOCTOR: Right, right yeah.
+PATIENT: No problem.
+DOCTOR: Good, good I'm glad to hear it.  They did the cystoscopy where they you know give you the washings in your blood and everything looked good with that, so that was good.
+PATIENT: They did?
+DOCTOR: Yeah.  When they did it.
+PATIENT: They did something yeah.
+DOCTOR: Yeah, everything looked good.  Um so yeah they wanted you to be on that one finasteride um otherwise how's everything going for you.  I've know that you have the left-sided weakness correct?
+PATIENT: Yeah.
+DOCTOR: From the prior stroke.  Any changes with that or is that the same?
+PATIENT: Uh no, but I used to when I [REDACTED] into things, that's probably not much medicine [REDACTED].
+DOCTOR: [REDACTED]. Exactly, exactly.  Um.
+PATIENT: Since the last time I talked to you my concern was I want [REDACTED].
+DOCTOR: Physical therapy?
+PATIENT: Physical therapy [REDACTED].
+DOCTOR: Yeah.
+PATIENT: I want to [REDACTED].
+DOCTOR: Right.
+PATIENT: Not that [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah that  [REDACTED].
+DOCTOR: It probably won't recover.
+PATIENT: Yeah it probably won’t.
+DOCTOR: This far out, they usually don’t so you see [REDACTED] exercises at home.  Um but the main problem last time I saw you was and you were getting up at night to pee at times.
+PATIENT: Well, you know it got so good that, well I mean last night was an [REDACTED] amount I don't know why.  Maybe it was nerves, that was nerves.  [REDACTED].  Um I did urinate [REDACTED].
+DOCTOR: Okay.  But normally how many times at this point are you getting up?
+PATIENT: Hmm once, twice.
+DOCTOR: Wow.  So you're more rested.
+PATIENT: Well one of the times yeah.  Let's say for X reason other than [REDACTED] I couldn't skip this thing.
+DOCTOR: Okay.
+PATIENT: And uh but like I say it was nothing to do with medicine.
+DOCTOR: [REDACTED].  Good, good.  Do you need any medication refills?
+PATIENT: All of them.
+DOCTOR: All of them sure.  Do you want them mailed to your house or do you want uh, do you want to pick them up here?
+PATIENT: Well let's see, I did run out of the blood pressure medicine.
+DOCTOR: Then why don't we have you pick it up.  Do you have time to wait here?  How long does it take to get to your house?
+PATIENT: No yeah it takes about a half hour.
+DOCTOR: Okay.  So.
+PTIENT J087
+I can do that but I was wondering if I could get that flunisolide it comes once a month.  I don't know if you've got them, [REDACTED] the month.
+DOCTOR: Let's see finasteride five tablets, [REDACTED].  You take it once a day right?
+PATIENT: Yeah it lasts one month.
+DOCTOR: Yeah, oh do you want three months’ worth?
+PATIENT: If I could get three months, [REDACTED].
+DOCTOR: Okay.  What are you on for blood pressure?  I don't even see you being on any medications for blood pressure and your blood pressure looks fantastic.
+PATIENT: Right.  I didn't take the medicine today.
+DOCTOR: But do you want to be taking?
+PATIENT: Uh I have been taking it.
+DOCTOR: Oh the lisinopril and the amlodipine.
+PATIENT: Lisinopril and amlodipine.
+DOCTOR: Okay.  Uh and how long have you been out of it?
+PATIENT: I been taking it every day.
+DOCTOR: But did you run out?  You didn't run out?
+PATIENT: Oh hmm, I just got one pill for each one left.
+DOCTOR: Okay then I will refill both of those, that's fine.
+PATIENT: And I got them there.
+DOCTOR: Oh okay, okay.
+PATIENT: Well the [REDACTED].
+DOCTOR: And you have the aspirin, yeah good, perfect.  So alright.
+PATIENT: Uh let's see.  If I can get the amlo.
+DOCTOR: Uh-huh.
+PATIENT: And lisinopril.
+DOCTOR: Uh-huh.
+PATIENT: And finasteride.
+DOCTOR: Uh-huh.
+PATIENT: For three months.
+DOCTOR: Uh-huh.  Uh okay, so you know that the lisinopril in the pack, you should only be taking half a tablet.
+PATIENT: I'm taking a half yeah.
+DOCTOR: Okay and then the amlodipine the whole tablet and the finasteride a whole tablet.
+PATIENT: Right, it's a small little pill.
+DOCTOR: Are you still needing a medication for a cream?
+PATIENT: No.
+DOCTOR: No okay then we won't worry about it okay.  Um it's just those three and then that's it, that's all you need.
+PATIENT: Uh-huh that's all.
+DOCTOR: Perfect so I'll put that in.
+PATIENT: And I can pick them up today uh.  Yeah that way in about three months I can make another round.
+DOCTOR: Yeah, that works for you? Okay, yeah let's do that.  Um let me just check a couple things I need to do.  So last time we checked your cholesterol was recently, no it was about a year ago.  I'm gonna order labs for you.  You do not have to get them done today.
+PATIENT: Well I might as well get it cause I.
+DOCTOR: Cause you're here you'll get them.
+PATIENT: I haven't eaten nothing.
+DOCTOR: You haven't eaten?
+PATIENT: Since 3 o'clock yesterday in the afternoon.
+DOCTOR: Why not?
+PATIENT: I'm getting ready for [REDACTED].
+DOCTOR: [REDACTED] smart.
+PATIENT: Maybe you wanted to uh.
+DOCTOR: Alright I.
+PATIENT: Blood tests.
+DOCTOR: Yes I do but I didn't think you'd go this long.  Okay let's check some labs; I'll refill your meds.  Um and you had a flex sig in 2006 that showed some diverticulosis.  Are you interested at all in doing a colonoscopy where they go up through the bottom and they take a look for colon cancer?  The test you had in the past was sort of an incomplete test.
+PATIENT: It was incomplete cause.
+DOCTOR: It was uncomfortable.
+PATIENT: It was real uncomfortable.  They could at least put uh a local.
+DOCTOR: Yeah I agree.  So the one that I want you to get is more complete and they completely knock you out.
+PATIENT: Well I don't need a complete knock out.
+DOCTOR: But they sedate you so that you don't remember it.  You can respond like when they're asking you questions you can respond but you won't remember it so it's not painful or anything.
+PATIENT: That's what mine was, that's where I got the [REDACTED].
+DOCTOR: You want to do that okay.
+PATIENT: I don't think they found anything unusual but they.
+DOCTOR: No, no, they didn't.  It just wasn't a complete study so I just wasn't sure if you.
+PATIENT: I've been going on the [REDACTED] to work on the stomach.
+DOCTOR: Oh okay, okay.  Well think about it.  If you decide you want to change your mind and do it we can set you up okay.  Um otherwise everything is looking pretty good.  You're doing a real good job.  Your blood pressure looks great.  You're taking your aspirin.  Um sounds like all the GU stuff and your urology stuff has gotten.
+PATIENT: Right, no problem.
+DOCTOR: Good well let me go talk to the boss.  Let me take a listen to you, then I'll talk to the boss and we'll get you out of here.  We'll send you to the Lab; we'll send you to the Pharmacy.
+PATIENT: Okay.
+DOCTOR: Alright.  Go ahead and lean forward just a little bit.  Forward, there you go.  Big breath.  Another one.  Good you can breathe normal, I'm gonna listen to your heart.  Good.  Let me go talk to the boss and we'll get you out of here.
+(DOCTOR OUT: 30:11  DOCTOR IN:  36:42)
+DOCTOR: Alright sir.
+PATIENT: You know I was thinking, I want to mention something.  I did go to the doc, some kind of growth.
+DOCTOR: Yeah.
+PATIENT: That needs to come out, on the side here.
+DOCTOR: Uh-huh.
+PATIENT: And also on the side here.
+DOCTOR: Uh-huh.
+PATIENT: But it kind of like condensed.
+DOCTOR: Okay.
+PATIENT: And got smaller and smaller and it's gotten better but a little harder.
+DOCTOR: Okay.
+PATIENT: Than what they originally were.
+DOCTOR: Okay.
+PATIENT: Another one.
+DOCTOR: This one right here.
+PATIENT: This one here, I don't know what.
+DOCTOR: We can send you over to the Dermatology Clinic.  This is a little growth like you said.  But they're usually not too bad.  Does it bother you?
+PATIENT: It uh.  No, it's a little reddish and a little swollen at one time.
+DOCTOR: Okay.
+PATIENT: But uh it went away, like it's right now.
+DOCTOR: Okay, okay.  Um let's keep an eye on it.  If it changes in size, changes in color you come back and let me know okay.
+PATIENT: Uh-huh.
+DOCTOR: Um cause then I will send you over to the skin doctors.
+PATIENT: Right, dermatologist.
+DOCTOR: Yes, you got it.  Amlodipine 30 day supply.  So I changed your finasteride medication to be a three month supply, cause the way Urology wrote it out it was only 30 pills um otherwise I restarted your amlodipine and your lisinopril.  I'm going to put in for your labs now and you can just go get it.  Let's see.  And then why don't you come back and see me in three months, does that sound good?
+PATIENT: Yeah.
+DOCTOR: And that's the Blue Clinic and [REDACTED] you're all set to go.  And your meds should be waiting for you at the Pharmacy.  Everything's in the Lab.
+PATIENT: Yeah I'll come back in May, more or less about the same 13th, 16th.
+DOCTOR: Yeah they'll send you a letter with the date.  It'll be a Wednesday afternoon that I can promise you.  That's the only day I'm here.
+PATIENT: Okay.
+DOCTOR: Okay.  So let me know if anything, you know you need to change anything or you can come back earlier.  Okay.
+PATIENT: Well, that’s all.
+DOCTOR: Okay.
+PATIENT: Okay help me [REDACTED].
+DOCTOR: Well you can take this if you'd like it, it's [REDACTED] your med list on it, but you don't need it for anything.
+PATIENT: She said I could give it.
+DOCTOR: [REDACTED] it’s yours [REDACTED].  Okay sir.
+PATIENT: Okay I got to go back here uh.
+DOCTOR: Yes, yes.  You might want to stop at the Pharmacy first and take a number cause I know that line can get really long.
+PATIENT: Oh yeah okay.
+DOCTOR: Bye sir.
+PATIENT: Uh-huh.
+PATIENT: 40:53
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286132
+TRANSACTION # 578-10-2-316-0103

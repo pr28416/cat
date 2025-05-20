@@ -1,0 +1,124 @@
+DOCTOR: How are you?
+PATIENT: I'm doing OK. Thank you. How are you?
+DOCTOR: I'm well thanks. What brings you in today?
+PATIENT: So, usually we go to my favorite pizza spot for lunch and these last couple of days I've noticed I just can't taste it.
+DOCTOR: OK, when you say the past couple of days, do you mean two days, three days, four days?
+PATIENT: I would say the last two days, yeah, just yesterday and today.
+DOCTOR: OK, so loss of taste, so you can't taste anything or you can only taste some things or you're just not getting the full depth of your taste?
+PATIENT: Yeah, I really noticed it with the pizza, but with like other things too, it's just a yeah, really plain, it doesn't  really have any flavor with the food that I'm eating.
+DOCTOR: OK, so it kind of tastes like cardboard.
+PATIENT: Yeah, kind of, and I think, like, I mean part of that is that I maybe not smelling it as well either.
+DOCTOR: Yeah, OK. Umm, did you have any trauma to the area like the mouth area or the nose area in the past couple of days or days leading up to that?
+PATIENT: Umm, no, not at all, no.
+DOCTOR: OK and do you have a fever at all?
+PATIENT: Umm, I don't think so no.
+DOCTOR: OK, you have a cough?
+PATIENT: Yeah, I've had a cough.
+DOCTOR: OK, a similar timeline?
+PATIENT: Yeah, that's when the cough started, maybe three or four days ago.
+DOCTOR: OK. And is it a dry cough or a wet cough?
+PATIENT: Yeah, it's a dry cough.
+DOCTOR: OK, so no sputum, no blood?
+PATIENT: No sputum and and no blood.
+DOCTOR: And do you feel wheezy at all?
+PATIENT: No wheeziness.
+DOCTOR: How about shortness of breath?
+PATIENT: Umm, maybe after coughing, I've had a hard time catching my breath.
+DOCTOR: OK, sure, yeah. And how about any fatigue? Do you feel like you're more tired than usual?
+PATIENT: Yeah, these past few days I have definitely. I felt more tired, I've been sleeping a lot more throughout the day and just I don't know, kind of lazy.
+DOCTOR: Yeah, and I know you mentioned you're having a hard time tasting. How about your appetite though? Do you feel like you've lost appetite?
+PATIENT: I think appetite's been OK. I've been hungry.
+DOCTOR: Yeah, OK umm, how about muscle aches?
+PATIENT: Umm, no, just tired.
+DOCTOR: OK and chest pain?
+PATIENT: No chest pain.
+DOCTOR: Alright, do you have a feeling like your heart's racing?
+PATIENT: No, nothing like that.
+DOCTOR: OK, any changes in your bowel movements?
+PATIENT: Umm, yeah, well, I had diarrhea this morning actually.
+DOCTOR: OK, so some diarrhea this morning.
+PATIENT: None before that though. It was just the one or kind of two times, but it hasn't happened since then.
+DOCTOR: OK, no constipation?
+PATIENT: No.
+DOCTOR: No blood in your stool?
+PATIENT: I know I didn't see anything red.
+DOCTOR: OK, how about your stool seeming like it's very dark? Almost to the point where it looks black?
+PATIENT: Oh no, it it wasn't dark like that.
+DOCTOR: OK, good, any abdominal pain?
+PATIENT: No.
+DOCTOR: Any issues swallowing food?
+PATIENT: Umm, no issues swallowing food. My throat has felt a bit itchy. I mean I've been coughing alot.
+DOCTOR: Does it feel sore as well?
+PATIENT: Not really or just kind of yeah, kind of scratchy.
+DOCTOR: OK, have you had a runny nose or a blocked nose?
+PATIENT: Umm, not really.
+DOCTOR: No, OK, any rashes?
+PATIENT: Umm, no. I haven't noticed any rashes.
+DOCTOR: OK, and are things normal with your urine?
+PATIENT: Yeah they are.
+DOCTOR: How about dizziness or fainting spells?
+PATIENT: Umm, a little bit dizzy I when I got out of bed this morning, but we sat back down for a couple of minutes. I felt better.
+DOCTOR: OK, good good. Do you think that this morning you were dizzy because you were dehydrated? Or is this like a normal thing for you?
+PATIENT: I mean, I guess I could have been dehydrated. I didn't even think of that, but I mean, since the food didn't taste so great, I don't know. I probably didn't eat as much yesterday or the last couple of days. Maybe I haven't eaten as much.
+DOCTOR: OK, Yep. OK, do you feel weak?
+PATIENT: I don't know, maybe. Maybe a little weak, but umm, just way more tired.
+DOCTOR: OK, any confusion or memory loss?
+PATIENT: Umm, no, I have been able to do some of my school work.
+DOCTOR: OK, good. And you mentioned no rashes, right?
+PATIENT: No rash.
+DOCTOR: OK, any weight loss over the past couple of months?
+PATIENT: : Nothing like that. No weight change, it's been the same.
+DOCTOR: OK, how about umm night sweats or chills?
+PATIENT: I felt a bit, umm, hot but not sweaty, just hot.
+DOCTOR: OK, so kind of like you have a fever?
+PATIENT: Yeah, I guess so, maybe.
+DOCTOR: Sure any muscle aches?
+PATIENT: Umm, no muscle aches.
+DOCTOR: Have you been around anyone who's been sick recently?
+PATIENT: Yeah there is this guy in my class who was sick in class last week.
+DOCTOR: What kind of symptoms did he have?
+PATIENT: Well, he had a cough and fever. Yeah, I think he had a cough and a fever and somebody said that. Maybe a sore throat or something like that.
+DOCTOR: OK, so yeah, some symptoms overlap with yours I guess. Have you traveled anywhere recently?
+PATIENT: Oh no, I've been at home. We just started back at going in person to school again.
+DOCTOR: OK, that's good. And are you otherwise healthy?
+PATIENT: Yeah, I haven't been diagnosed with any medical conditions in the past.
+DOCTOR: Oh good, OK. And do you have any allergies?
+PATIENT: Possibly cats but we don't have any pets at home.
+DOCTOR: OK, good have you been around cats recently?
+PATIENT: No.
+DOCTOR: OK and then any hospitalizations or surgeries in the past?
+PATIENT: I did have my appendix taken out like 4 four years ago. Yeah, at the beginning of high school, but that was the only surgeryand everything went well.
+DOCTOR: OK, are you up to date with all your immunizations?
+PATIENT: I am, yeah. I have my immunization card here actually.
+DOCTOR: OK, good. Any family history of lung conditions or heart conditions that you know of?
+PATIENT: I know my grandfather had lung cancer, but he smoked his whole life also. Also diabetes but don't know if he had any heart problems though.
+DOCTOR: OK, I'm sorry I forgot to ask you, are you on any medications?
+PATIENT: Umm, I'm not.
+DOCTOR: OK, and do you smoke?
+PATIENT: Umm, I don't.
+DOCTOR: OK, how about marijuana?
+PATIENT: Uh, no. Oh, but I guess I use a vape every once in a while..
+DOCTOR: With like marijuana?
+PATIENT: No, it's like those flavored ones.
+DOCTOR: Oh OK, yeah. How often do you use that?
+PATIENT: It's like a few times a day.
+DOCTOR: OK, and is there any tobacco in there or nicotine?
+PATIENT: I think there might be, but umm, I don't know. I usually just buy the flavored ones.
+DOCTOR: OK, well, you should probably look into if it has tobacco or nicotine, because neither of those are good for your health. And so we can, you know, have a discussion later on trying to cut down or quitting completely if you are open to that.
+PATIENT: Yeah, sure.
+DOCTOR: I'll just continue on asking you some other questions. Do you drink alcohol?
+PATIENT: Umm, no.
+DOCTOR: And who do you live with?
+PATIENT: I live with my mom, my step dad, and then my younger sister.
+DOCTOR: OK, do you guys live in a house?
+PATIENT: We live in a townhouse.
+DOCTOR: OK, in the city you said?
+PATIENT: Yeah, yeah, I live close. I go to high school not too far from here.
+DOCTOR: Oh, that's nice. And any concerns with the living arrangements in terms of you know, like it being an old building, old carpets, mold, anything like that?
+PATIENT: No, I live in a nice place. It's usually like really clean.
+DOCTOR: OK, good, umm alright, so those are all the questions I had for you. Did you have any questions or any concerns that you wanted to bring up?
+PATIENT: I guess the only thing that I was concerned about was possibly having COVID.
+DOCTOR: Yeah, you know, that's probably top on my list of things to investigate you for, so I would say COVID or other viral illnesses that could be going around this time of year. That would have less of a similar presentation, and so we will do a COVID swab for you. And in the meantime, if you could isolate for 14 days, regardless of whether the swab comes back positive or negative, and that would be great. If the swab comes back positive, we will notify public health and they'll try to trace where you could have caught this from and if it turns out it's not a viral illness, we will try to work you up for any bacterial infections which can be treated with antibiotics. So that's where we will start, does that sound good?
+PATIENT: Yeah, that makes sense.
+DOCTOR: OK great, well have a great day.
+PATIENT: Yeah, thank you.

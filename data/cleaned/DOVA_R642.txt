@@ -1,0 +1,248 @@
+DOCTOR: PATIENT.
+PATIENT: Yes.
+DOCTOR: Okay, just take a seat over here.  My name's DOCTOR.  How are you today?
+PATIENT: I [REDACTED].
+DOCTOR: Are you here for a follow-up appointment?
+PATIENT: Um yeah.
+DOCTOR: You think so okay.  They told you to come in.
+PATIENT: Yeah they um, used to be in the Pain Clinic and they sent me back over here so, that's [REDACTED] prescribed medications but I didn't get anything.
+DOCTOR: Yeah I saw that DOCTOR called in some morphine for you.  I work under DOCTOR so.
+PATIENT: Yeah.
+DOCTOR: Anything else bothering you other than pain today?
+PATIENT: Hmm.
+DOCTOR: No headaches, dizziness, no chest pain, palpitations, no stomach aches, no black stools, bloody stools, no pain when you pee, no blood in your urine, no [REDACTED]?
+PATIENT: Um I got some stomach pain and um the sinuses have been acting up.
+DOCTOR: Is your stomach pain chronic pain? Is that what you take the morphine for?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  For the pancreatitis [REDACTED]?
+PATIENT: Uh-huh.
+DOCTOR: No nausea or vomiting though?
+PATIENT: Not lately.
+DOCTOR: Okay.  No fevers, chills?
+PATIENT: Not recently.
+DOCTOR: Did you get your flu shot today?
+PATIENT: Yes.
+DOCTOR: And [REDACTED] other medicines that you said you didn't have to do [REDACTED].
+PATIENT: I need refills.
+DOCTOR: [REDACTED] good.  Does she just do a one month prescription?
+PATIENT: Uh yeah I go back in a month.
+DOCTOR: Okay.
+PATIENT: The last time it worked for me.  They sent me an appointment and then I got the letter saying to call in for an appointment [REDACTED].  And that's [REDACTED].
+DOCTOR: Okay.  You're taking six tablets a day, three tablets every 12 hours correct?
+PATIENT: Yeah that's correct um slow release.
+DOCTOR: Let me see what.  Okay they think you’re good with that as sort of a pain medication kind of [REDACTED].  Okay.  Huh?
+PATIENT: [REDACTED].
+DOCTOR: You can pick that up here.
+PATIENT: Okay.
+DOCTOR: Oh it's not yours?
+PATIENT: Yeah it is but [REDACTED].
+DOCTOR: [REDACTED].  Have you decided that you don't want to go to the Psych place, the [REDACTED] Clinic?
+PATIENT: I got to get up there I just haven't you know.
+DOCTOR: You haven't made the time yet.
+PATIENT: Yeah.
+DOCTOR: Yeah it looks like you've been going to the Recreation Therapy so that looks good.  How is that going?  The exercise program?
+PATIENT: It's alright.
+DOCTOR: It's alright okay.
+PATIENT: [REDACTED].
+(Someone knocked on the door. Doctor spoke with person briefly)
+PATIENT: I go there for two day or three days.  I have a follow-up appointment and they said to just walk-in.
+DOCTOR: Yeah you can just walk in and they can check it.  Um how's your diabetes going, your blood sugars?  Is your blood sugar okay? Do you check them at home?
+PATIENT: Uh-huh.
+DOCTOR: What have they been?
+PATIENT: Maybe between [REDACTED] and 160.
+DOCTOR: Okay what do you take for your diabetes?  Is it just diet-controlled?
+PATIENT: Nothing.  I used to take glyburide but it was so well-controlled.
+DOCTOR: Yeah.  Okay um then I think that's it.  The only thing is um we'd like for you to go to the Psych Clinic – you can take a seat up here.  We'd like to get a goal and get established in there.  Um it looks like also that you had urine studies that were positive for drug use in the past.  Are you still using any kind of drugs?
+PATIENT: Uh uh.
+DOCTOR: No?  Okay.  When was your last use and what did you use?
+PATIENT: Yeah that was cocaine.
+DOCTOR: Cocaine.  How long ago in the last use?  Would you say?
+PATIENT: Last [REDACTED] when I was in the Pain Clinic.
+DOCTOR: Oh in March.
+PATIENT: Hmm before that.
+DOCTOR: Oh okay so.  Yeah we have clinics that can help you with those things.  It would be through the Psych Addiction Program.
+PATIENT: Yeah I used to be a patient in the Alcohol Treatment Program.
+DOCTOR: Yeah so if you're interested we could send you there too okay.  When you're ready but I would like and I also have to tell you, you know no more cocaine, it’s bad for you, okay.  Anything for us?  No.  Did you get your flu shot today?
+PATIENT: Uh-huh.
+DOCTOR: And you are smoking?
+PATIENT: Uh-huh.
+DOCTOR: You are smoking?  How much are you smoking a day?
+PATIENT: Probably a pack.
+DOCTOR: How long have you been doing that for sir?
+PATIENT: Hmm a long time.
+DOCTOR: A long time.  Are you interested in quitting any time soon?
+PATIENT: It's something I need to do but I don't know.
+DOCTOR: Not ready yet?
+PATIENT: [REDACTED].
+DOCTOR: The reasons why we um like patients to not be smoking is first of all it's you know bad for you.  It can cause cancer, increases your risk for every cancer, not just lung cancer. If you have any kind of cancer in your, you know your family you definitely don't want to be a smoker.  Um the longer you smoke the worse it is for you and you know there are patients that you see on oxygen with COPD, you don't want to be one of them right.  So we recommend that you stop smoking and we have cessation aids and we have a clinic that you can go to too to help you with it, stop smoking but first things first you have to be ready to quit or else it's not gonna work.
+PATIENT: I know.
+DOCTOR: And I want you to think hard about it and we'll talk about it next time okay.
+PATIENT: Uh-huh.
+DOCTOR: Um if you want assistance we have the gum and the lozenges.  If you want the patch you have to go through the clinic okay.  So let me know if you're interested in any of that okay.
+PATIENT: You got to go through them in order to.
+DOCTOR: The Smoking Cessation Clinic.
+PATIENT: If I did the patch?
+DOCTOR: Yeah.
+PATIENT: And the gum and the.
+DOCTOR: Lozenges you can get here.
+PATIENT: [REDACTED]
+DOCTOR: Okay.
+PATIENT: I'd be willing to give those a shot, give that a shot.
+DOCTOR: What would you be willing to give a shot?
+PATIENT: The gum and the.
+DOCTOR: The gum.
+PATIENT: Yeah.
+DOCTOR: Okay you have either gum or the lozenges.  The gum you put it in your mouth, you chew it and you tuck it in the back of your mouth and then every time you get a craving you chew it again.  It's dangerous to chew the gum and smoke and if you need to smoke you just spit it out and then smoke okay.
+PATIENT: And what about the.
+DOCTOR: The lozenges same thing, you just suck on the lozenges.
+PATIENT: You know the lozenges.
+DOCTOR: You'd rather have the lozenges?  Okay I can give you some but remember no um lozenges and smoking at the same time.
+PATIENT: [REDACTED] want to quit [REDACTED].
+DOCTOR: Sure, sure.
+PATIENT: I'm thinking about trying to um go without it and see what happens.
+DOCTOR: Okay.  Alright [REDACTED].  It looks like all of your labs are up-to-date, everything looks good okay.  So let me just [REDACTED] okay.  Do you take all of your medicines, your blood pressure medicines?
+PATIENT: Uh-huh.
+DOCTOR: Cause that's the one thing that's kind of high.  Did you take your medicines today?
+PATIENT: Yes.
+DOCTOR: You took the lisinopril?  Half a tablet.
+PATIENT: Yes.
+DOCTOR: You did or you didn't?
+PATIENT: No I took it.
+DOCTOR: If you didn't we could just keep you on the same medicine but if you did take it we'll have to increase it.
+PATIENT: I took it.
+DOCTOR: Okay.
+PATIENT: I took it this morning.
+DOCTOR: So I think what you would benefit from is um, are you trying to eat a low salt diet?
+PATIENT: No.
+DOCTOR: No okay.  Well you could try to just eat a low salt diet to see if that'll help the blood pressure but we can always increase your medicines just to help it.
+PATIENT: It usually be.
+DOCTOR: Pretty good.
+PATIENT: [REDACTED].
+DOCTOR: Hopefully [REDACTED].
+PATIENT: Well I been carrying a big bag and I did a lot of walking to get here.
+DOCTOR: Okay.  If you want let me check it again how's that, before we go ahead and increase your medicine.
+PATIENT: Okay.  I got refills on?
+DOCTOR: Well I can make sure before you leave I'll refill everything and I'll mail everything to your home okay.
+PATIENT: Okay.  I need to get multivitamins.
+DOCTOR: I can give you some.
+PATIENT: Okay.  [REDACTED] sinuses.
+DOCTOR: Oh you're sinuses.  What do you normally do for your sinuses?
+PATIENT: Uh I'm taking this [REDACTED].
+DOCTOR: I could just give you regular normal saline, sort of a salt spray [REDACTED].  You're right; I think it was because you  were walking around.  No it's still high.  It was 150/90, a little lower.
+PATIENT: [REDACTED] and we might have to increase it [REDACTED].
+DOCTOR: Does that hurt at all?
+PATIENT: Uh uh.
+DOCTOR: Is this okay?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Alright I will be right back okay.
+PATIENT: Okay.
+(DOCTOR OUT:  46:08  DOCTOR IN:  54:54)
+DOCTOR: Alright sir, this is what we're gonna do.  Um I’m gonna increase your medicine, the lisinopril to 40 cause your blood pressure is still high on it uh and then the low salt diet.  We're going to check your urine today to make sure , my boss wants to make sure that we keep getting consecutive tests that are negative for cocaine.
+PATIENT: Uh-huh.
+DOCTOR: And then um I'll give you those lozenges.  And for your pain medicines, so I know you're taking three in the morning and three at nighttime [REDACTED] same release of the morphine.
+PATIENT: Uh-huh.
+DOCTOR: The thing is the prescription lasted you for three months now so uh kind of what we want to know is how much are you really taking every day um that way we can prescribe what you need.
+PATIENT: It depends on how bad the pain is that I’m in, if it ain't too bad then I don't take it but.
+DOCTOR: Oh I see so when they get bad you take them.
+PATIENT: Uh-huh.
+DOCTOR: Okay well.  [REDACTED] down here.  So um you take it like the three in the morning and three at night when he has the pain but he doesn't have the pain he doesn't take it at all.
+PATIENT: No I take them on a regular basis.
+DOCTOR: Okay.
+PATIENT: But the other one I take when the pain really bad.
+DOCTOR: Okay.
+DOCTOR: Sir the reason I asked is because you have um, I'm DOCTOR by the way um.
+PATIENT: Hmm.
+DOCTOR: Back on July 29th you got enough medicine to last you 30 days where you took three in the morning and three at night.
+PATIENT: Uh-huh.
+DOCTOR: But that prescription has lasted you until October now so you're not taking it every day.
+PATIENT: Uh-huh.
+DOCTOR: Which I'm happy with that you're not taking it.
+PATIENT: [REDACTED].
+DOCTOR: That's what I’m trying to figure out, how often you're taking it.
+PATIENT: No, I'm still in a lot of pain right.
+DOCTOR: But you don't take the morphine every day right, is that correct?
+PATIENT: Yes [REDACTED].
+DOCTOR: Okay how about the immediate acting? There’s a long-acting medicine and a short-acting medicine.  How often are you taking the short-acting medicine?  You're not taking that at all or?
+PATIENT: Yeah whenever it's hurting.
+DOCTOR: You need to help us out here.  First of all no more cocaine, that's number one off the bat.
+PATIENT: Okay.  But I thought they brought me back to see the doctor because of the medication.  You know, ran out, it was running out and I was just holding on to the last one.
+DOCTOR: Okay.
+PATIENT: As long as I could and then you know the last two weeks have been.
+DOCTOR: Three months! I mean, three months was the last time I filled that prescription.
+PATIENT: Uh-huh.
+DOCTOR: So somehow you made 30 days of medicine last for three months.  You must not need medicine that much.
+PATIENT: It wasn't hurting all that bad and then some pain really, if it ain't really severe.
+DOCTOR: Okay.
+PATIENT: I can do.
+DOCTOR: How long have been doing that?  I don't want you taking morphine every day if you don't need it.
+PATIENT: Uh-huh.
+DOCTOR: You got it?
+PATIENT: Uh-huh.
+DOCTOR: I don't you to rely on it, you’re already using cocaine and doing cocaine, I don't want you to get addicted to this medication okay.  Got it?
+PATIENT: Yes ma'am.  I [REDACTED].
+DOCTOR: We'll go ahead and give you a prescription, the same prescription as the last time and then don’t use it if you don’t need it, okay.
+PATIENT: Uh-huh.
+DOCTOR: And seriously I'm going to check [REDACTED] if you keep having problems with cocaine, you're violating our Narcotic Treatment Program and I can't give you narcotics so please don't use cocaine.  Not only I can't give you the medicine, it's bad for your heart, it causes heart attacks.
+PATIENT: Uh-huh.  Well I had told them when I did it, if possible and um it came back clean.
+DOCTOR: Okay.
+PATIENT: It probably got about half and half.
+DOCTOR: Okay try not to. It’s tempting [REDACTED] to people that are [REDACTED].
+PATIENT: It ain't gonna be me.
+Doctors talk among themselves.
+DOCTOR: And then um you can always call if you're running low on your morphine and let me know okay.
+PATIENT: Yeah okay.  Yeah it bothers me sometimes, I'm maybe thinking that.
+DOCTOR: So I know, I know.
+PATIENT: If you don't need it, you know when the pain kicks in.
+DOCTOR: No you, definitely we will give you medicine when you need it, just call in for it but I guess I'm not even allowed to give you more than one month at a time anyway.
+PATIENT: That's what the last one; I'm just stretching as long as I could see.
+DOCTOR: Yeah.
+PATIENT: Because they hadn’t give me another appointment, and send me a letter saying call me and make an appointment.  Which is retarded.  Cause they still have to send you the appointment after you make it?  Now I'm just saying [REDACTED] you know it's a particular kind of pain might not be that bad and [REDACTED] not necessarily that day.
+DOCTOR: Uh-huh.
+PATIENT: [REDACTED] sign this.
+DOCTOR: This is for you um, let me give you the smoking lozenges in the mail or do you want to pick them up?
+PATIENT: Uh they can mail and mailing the others is fine because the vitamins and stuff will be fine.
+DOCTOR: And these are actually the month's worth, all you do is call us for the refills okay.
+PATIENT: Uh-huh.  Call in for refills.
+DOCTOR: Yeah you just call the number that's on the bottle.
+PATIENT: Uh-huh.
+DOCTOR: And then um tell the number that's on the bottle, the prescription number.
+PATIENT: Uh-huh.
+DOCTOR: And they'll give you your medicines in the mail.  So call like a week before you run out.
+PATIENT: Uh-huh.
+DOCTOR: Call in for refills because it'll take a little bit.
+PATIENT: Uh-huh.
+DOCTOR: Now let me get this, so the medicines are renewed, your lozenges are on their way and we'll increase the medicine and send them out.  Actually you know what, is it okay if you pick this one up?
+PATIENT: Yeah I'll pick it up.
+DOCTOR: Okay.
+PATIENT: Pick up all my medicine.
+DOCTOR: Oh you want to pick it up?
+PATIENT: Yeah.
+DOCTOR: Okay let me change it to pick up then.
+PATIENT: Multivitamins, I need some multivitamin.
+DOCTOR: Okay so what you're gonna do is you're start taking your new medicine um then you're gonna come back in three weeks with the nurse here and then they'll recheck your blood pressure on the increased medicine okay.
+PATIENT: Okay.
+DOCTOR: Uh then I'll see you back in three months.
+PATIENT: [REDACTED].  What's this?
+DOCTOR: Um oh yeah it'll be the nurse here.
+PATIENT: Only the nurse.
+DOCTOR: Yeah and then once you, if you run out of medicine for your pain meds just call the clinic and DOCTOR will give you some more okay.
+PATIENT: I call the clinic.
+DOCTOR: Yeah you can call the clinic okay.  And we know that, we're not gonna say that you know say that you don't have pain cause we know you have pain but since this prescription has lasted you for a month or three months we'll see how long it lasts.  If it doesn't then we definitely will give you more okay.
+PATIENT: Uh-huh.
+DOCTOR: So you can call in any time okay.
+PATIENT: Okay.
+DOCTOR: Alright take care, so we'll see you in three months.
+PATIENT: Yeah I ain't that sick you know.
+DOCTOR: Yeah well [REDACTED].
+PATIENT: I have to call and then [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And being real sick so you know schedule, come here and [REDACTED] didn't make it.
+DOCTOR: Yeah.
+PATIENT: My medicines [REDACTED] for an appointment and I got to make it last.
+DOCTOR: Yeah, don't forget to get your urine today okay.
+PATIENT: Okay, I'm going to [REDACTED].  Okay, thanks.
+PATIENT: 68:37
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275433
+TRANSACTION # 578-10-2-316-0103

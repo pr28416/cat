@@ -1,0 +1,249 @@
+DOCTOR: Alright, come on back.  Are we there?  [REDACTED] a little three point turn?
+PATIENT: Does a duck have webbed feet?  Do bears do do in the woods?
+DOCTOR: Laughter.
+PATIENT: Laughter.
+DOCTOR: I'll have you, no you okay?
+PATIENT: I'll turn here.
+DOCTOR: There you go.  Stay right there, so we can get you out of here.
+PATIENT: Outstanding.
+DOCTOR: So, first things first.  How do think the [REDACTED] doing in terms of your blood sugars?
+PATIENT: Uh it seems like its doing alright.
+DOCTOR: Yeah.  Okay, so we'll get to this in one second I just want to take a look at the leg.
+PATIENT: I'm sure this is better.
+DOCTOR: Oh.
+PATIENT: Let me just move this chair [REDACTED].
+DOCTOR: About right?  Um.
+PATIENT: It’s been down most of the day.
+DOCTOR: Until you sat kind of up?
+PATIENT: Yeah.
+DOCTOR: Any redness up there on the thigh?  No okay.
+PATIENT: No.
+DOCTOR: Yeah it's not warm, it looks good.  Did you taking the antibiotics?
+PATIENT: Yes.
+DOCTOR: Antimycin.  Okay.  Any fevers, any chills?
+PATIENT: No.
+DOCTOR: Okay.  So it's probably from the sugars.  Are you feeling like your baseline?
+PATIENT: Yes.
+DOCTOR: Okay.  Now the sugars, okay let's go on.
+PATIENT: Okay.
+DOCTOR: What's going on?
+PATIENT: I'll tell you a little story about that.
+DOCTOR: [REDACTED].
+PATIENT: When I did – discharge that day.
+DOCTOR: Uh-huh.
+PATIENT: They forgot to give me this uh, [REDACTED], it's a smaller bottle of uh, smaller vial of . . .
+DOCTOR: Yeah, Novolin R?
+PATIENT: Novolin R.
+DOCTOR: They didn't give it to you?
+PATIENT: Right.  So I came yesterday and I picked it up cause they forgot to give it to me.
+DOCTOR: Oh.
+PATIENT: So.
+DOCTOR: Uh.
+PATIENT: I've been going with the Lantus all morning.
+DOCTOR: Okay.
+PATIENT: But I did those injections; you know the other two injections throughout the day.
+DOCTOR: Which ones?
+PATIENT: The Lantus.
+DOCTOR: So how you taking the Lantus right now?
+PATIENT: Well I'm taking, well I was taking it just before yesterday, I was taking it 10, 10 and 30.
+DOCTOR: That’s what you were doing prior to coming to the hospital?
+PATIENT: No.
+DOCTOR: Oh you were taking the Lantus as if it was.
+PATIENT: As if it was the Novolin or whatever they call it.
+DOCTOR: So it's 10 units in the morning, 10 units in what time in the afternoon?
+PATIENT: In the afternoon.
+DOCTOR: And then you're hopping to 30 at bedtime?
+PATIENT: Right.  That's what I was taking and the blood sugar didn't seem to go down.
+DOCTOR: I got it.
+PATIENT: Okay.
+DOCTOR: Then what'd you do?
+PATIENT: Well uh when I got the other stuff I started on that 10, 10 and 30 of the other as well as Lantus and the blood sugar seemed to go down a little bit.
+DOCTOR: Okay.
+PATIENT: And as you can probably see on my chart there.  But it got my uh device says ketones,
+what does that mean?
+DOCTOR: Uh it means that your sugars are so high you're getting some acid in your body.
+PATIENT: Oh.
+DOCTOR: Alright now.  What are these two different numbers up high and down low?
+PATIENT: Okay.  Where at, like the 1st?
+DOCTOR: Oh this is the time of the day?
+PATIENT: That's the date and then the time.  The time was across the shaded area.
+DOCTOR: Okay.
+PATIENT: And then the readings are in the open area.
+DOCTOR: So today or yesterday your blood sugar was 292 in the morning.
+PATIENT: Okay.
+DOCTOR: 402 at 10 o'clock.
+PATIENT: Uh-huh.
+DOCTOR: 6:15p.m. it was 394.
+PATIENT: Uh-huh.
+DOCTOR: Are you checking before or after you eat?
+PATIENT: Uh sometimes before, sometimes after, it'll be more you know towards the evening.
+DOCTOR: Oh so you write it later, after?
+PATIENT: After right.
+DOCTOR: Okay.  And what were you doing before the whole hospitalization; remind me what you were doing at home?
+PATIENT: Uh just taking uh.
+DOCTOR: Lantus?
+PATIENT: Lantus in the evening.
+DOCTOR: Okay.
+PATIENT: At bedtime.
+DOCTOR: Okay and how much?
+PATIENT: Uh I always take 17.
+DOCTOR: Okay.
+PATIENT: And then uh I had my metformin, my glipizide, all the regular meds that are on the list but I took only two uh times a day.  In other words when I got up in the morning and when I went to bed.  I didn't have anything in between as far as uh.
+DOCTOR: And then when we discharged you we held the metformin right?
+PATIENT: Yeah you stopped the metformin.
+DOCTOR: Okay but you are taking glipizide?
+PATIENT: Yes I am.
+DOCTOR: Okay perfect.  Did you get the labs drawn today?
+PATIENT: No I did not.
+DOCTOR: Okay so we'll have to do that before you leave.
+PATIENT: Okay.
+DOCTOR: On the 1st floor.
+PATIENT: Okay.
+DOCTOR: And they're already in the chart here.
+PATIENT: Alright.  I can do that.
+DOCTOR: Where do you live?
+PATIENT: Arlington Heights, IL
+DOCTOR: How far is that from here?
+PATIENT: Uh about a 45 minute drive.
+DOCTOR: Okay.  Your phone number is PHONE NUMBER?
+PATIENT: Yes.
+DOCTOR: Okay.  Are you still taking the Lasix?
+PATIENT: Yes.
+DOCTOR: Furosemide.
+PATIENT: Once.
+DOCTOR: Once a day. So how do you think your fluids doing?  You said leg may be a little better?
+PATIENT: Yes.
+DOCTOR: Okay are you taking the quetiapine every day?
+PATIENT: Yes I do, in the evening at bedtime.
+DOCTOR: The fenofibrate?
+PATIENT: Right.  I try to split up the calcium and the uh and the magnesium.
+DOCTOR: Uh-huh.
+PATIENT: Away from the clindamycin.  In other words if I got both of them at the same dosing time okay, then I wait two or three hours before I take one or the other.
+DOCTOR: Good.  Okay.  And we gave you a total of 6.8 of clinda.
+PATIENT: Yes.
+DOCTOR: And you know you've got to finish that right?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: And there's no refills.
+DOCTOR: Now we also gave you the Levaquin.
+PATIENT: Yes.
+DOCTOR: And you're taking that?
+PATIENT: Yes.
+DOCTOR: Okay.  You have [REDACTED] okay, alright.
+PATIENT: Okay, do you need a script?
+DOCTOR: For what?
+PATIENT: For uh the compression stockings.
+DOCTOR: Stockings, okay.  Do you want to try those?
+PATIENT: Uh I had them in the past but my script ran out of course you know.
+DOCTOR: Okay.
+PATIENT: It's been over two years apparently since the last time they refilled it.
+DOCTOR: Did you go through Prosthetics?
+PATIENT: Yes.  Actually Orthotics, uh they're the ones that.
+DOCTOR: Do want to have them sent to you?
+PATIENT: Uh.
+DOCTOR: In the mail?
+PATIENT: Yeah, you can have them sent to me in the mail.
+DOCTOR: Do you know what size you were, was there a special size?
+PATIENT: Yeah, they were uh extra-large.
+DOCTOR: Okay.
+PATIENT: And could you get me uh, I don't know how they issue them now.  They used to issue them as two pairs but uh I feel with all the changing I have to do on that maybe four pairs would do for you know.
+DOCTOR: [REDACTED] let's try to split the middle and do three cause I know how they are on they’ll freak out.
+PATIENT: Okay.
+DOCTOR: Let's try three pairs of your size.
+PATIENT: Alrighty.
+DOCTOR: Now did you have an appointment with DOCTOR?
+PATIENT: Right.
+DOCTOR: Good.  I want you to get you back.
+PATIENT: She won't be back for another couple of weeks I guess.
+DOCTOR: Right.  Well hopefully it [REDACTED] today; things like this on you will come up.
+PATIENT: Right.
+DOCTOR: So this is smart that you're here.  I think your leg looks better uh.  Let me take a listen to your lungs and see how you sound.  I'll have you lean forward for me.
+PATIENT: Alrighty.
+DOCTOR: Take a big deep breath.  Again.  Again.  Again.  Okay now relax and breathe normally.  Have you had problems breathing at all?
+PATIENT: Not now.  I had the shortness of breath before coming to the hospital.
+DOCTOR: Yes.  Are you taking the metoprolol every day?
+PATIENT: Yes.  Everything that's on there that I need to have I'm following the regimen.
+DOCTOR: Good, I'm just making sure.
+PATIENT: Yeah.
+DOCTOR: Okay.  So we got that, got that, got that.  The amlodipine.  Blood pressure looks fairly good today, you're afebrile, okay.  You need some refills.  Okay.  And I don't like your blood sugars where they are but we're gonna get a handle on those okay.
+PATIENT: Okay.
+DOCTOR: Alright.  I'm gonna come back, I'm going go [REDACTED] my attending and we're gonna have to go up on the insulin regimen I imagine.
+PATIENT: Alrighty.
+DOCTOR: I'm not sure; um I'll be right back.
+PATIENT: Alrighty.  I'll be right here.
+DOCTOR: Be right back.
+(DOCTOR OUT:  151:4  DOCTOR IN: 164:42)
+DOCTOR: Okay.  I'm going over with my attending DOCTOR with regard to the level of your blood sugars; pretty carefully I'll grab that.
+PATIENT: Okay.
+DOCTOR: And uh you know I was going to be a little more aggressive.  I tend to agree with him, I think the key for you; we need to take one of them at a time and see what we go.  You that's what really happening and I don't want you to make you keep coming in and out um if we uh don't have to.  So why don't we um, why don't we go to 15 units on the insulin [REDACTED], that's twice a day so your totals will be going up by 10 units right.  Its 5 extra in the morning, 5 extra at night, you follow?  So we want 15 twice a day on the regular insulin, keep the Lantus at 30 and then in four or five days if you're still high, give the Gen Med Clinic a call, say DOCTOR told me four days ago he wanted my blood sugar numbers, can I give them to you and you send them to DOCTOR, then they can write these down in the computer.
+PATIENT: Okay.
+DOCTOR: Send me a note, I call you and we can adjust them over the phone.
+PATIENT: I see okay.
+DOCTOR: Does that sound good to you?
+PATIENT: Yes it does.
+DOCTOR: That's for you.  We're gonna go up to 15.  You're gonna stop at the Lab on the way out.
+PATIENT: And get my.
+DOCTOR: And get your blood work done.
+PATIENT: Blood work done.
+DOCTOR: And that's all in the computer.
+PATIENT: Will this also be sufficient for the blood work, Naw, I'm gonna have a fasting when I come and see DOCTOR right?
+DOCTOR: Yeah.  I'm gonna let her, right cause you didn't fast today and she's going to want your cholesterol, but today we've just got to check your kidneys okay.  Cause as I say your kidneys aren't doing so hot.
+PATIENT: Uh-huh.
+DOCTOR: And with your blood sugar the way it is, so we'll still have you and uh I'm going to change it in the computer.  You'll have to change it at home, [REDACTED].
+PATIENT: Yes, yes I do.
+DOCTOR: You load it up, do you got enough?
+PATIENT: Uh-huh.
+DOCTOR: I want to make sure you've got enough right here so I'm gonna change that to 15 units, that should be [REDACTED].
+PATIENT: You might have them send me another vial.
+DOCTOR: Okay.  And I'm going to put lots of refills in here so.
+PATIENT: Okay.
+DOCTOR: So there are no issues okay.
+PATIENT: Alrighty.
+DOCTOR: And you can finish off the antibiotic and then.
+PATIENT: Uh-huh.
+DOCTOR: You're good to go my fellow.  Uh and you have your appointment with DOCTOR already.
+PATIENT: Oh yeah, should be in there.
+DOCTOR: Take a look.
+PATIENT: Sometime in the middle of January or February.  I think its January.
+DOCTOR: So you can give this to them up front um when you check out.
+PATIENT: Right.
+DOCTOR: When you check out, we'll need to see if you uh, what the day is.  Your GMC3 DOCTOR.
+PATIENT: What day was that.
+DOCTOR: January 29th.
+PATIENT: Uh February 29th?
+DOCTOR: January 29th.
+PATIENT: Oh January 29th.
+DOCTOR: Have you seen her before?
+PATIENT: No.
+DOCTOR: I don't know why you have that appointment um.
+PATIENT: I don’t either.  I've never heard that name before.
+DOCTOR: Well, it might have been because they got that when they were trying to get my, before they tried to get my appointment.
+PATIENT: I see.
+DOCTOR: So why don't you try to re, so January 29th, DOCTOR, try to reschedule because you have a good relationship with DOCTOR right?
+PATIENT: Yes.  She's taking real good care of me.
+DOCTOR: No I can tell.  I can tell.  So why don't you try to get in to see her.
+PATIENT: Okay.
+DOCTOR: Next available.  That way you have an appointment and if you do you can get rid of this other appointment.  I think they just did that before they knew I'd see you.  I just added you on today.
+PATIENT: Okay.
+DOCTOR: Because I didn't want you to wait that long.
+PATIENT: Plus they probably didn't know that DOCTOR would be back.
+DOCTOR: Yes exactly.
+PATIENT: In the clinic within.
+DOCTOR: So try to get in.  And now I know, you're always welcome to see me.  I don't want to steal you from her.
+PATIENT: (Laughter).
+DOCTOR: So we're just doing this to help you out.
+PATIENT: Well thank you very much doc.
+DOCTOR: No you're very welcome.
+PATIENT: And uh this year, check in and check out.
+DOCTOR: [REDACTED] know you.  [REDACTED] discussion will come about um after you know.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] okay.  Will you be able to maneuver this?
+PATIENT: I hope so.
+DOCTOR: [REDACTED].  Take care, great to see you.
+PATIENT: Thank you.  Take care [REDACTED].
+DOCTOR: Alright take care.
+(Patient leaves 168:4)
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235336
+TRANSACTION # 578-10-2-316-0103

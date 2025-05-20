@@ -1,0 +1,545 @@
+DOCTOR: PATIENT.
+PATIENT: How you doing?
+DOCTOR: I'm DOCTOR, nice to meet you.
+PATIENT: Who.  Oh I thought it would be DOCTOR.
+DOCTOR: Oh, is that who you usually see?  So do have to usually wear the oxygen?
+PATIENT: Oh I’m supposed to have it on it when I walk.
+DOCTOR: Yeah I know.  So what do you usually do, take it off?
+PATIENT: Yeah.
+DOCTOR: Oh okay.
+PATIENT: Yeah they want me to wear it every time I move.
+DOCTOR: Oh.
+PATIENT: Even in the house.
+DOCTOR: Do you get short of breath if you don't or?
+PATIENT: You know sometimes I do, sometimes I don't.
+DOCTOR: Uh-huh.  When you usually go through a flight of stairs or just when?
+PATIENT: Oh stairs, the stairs kill me.
+DOCTOR: Yeah.
+PATIENT: I'm moving out.  I'm staying with my son now.
+DOCTOR: Uh-huh.
+PATIENT: But I'm getting ready to move somewhere there ain't no stairs, the stairs are killing me.
+DOCTOR: Okay.
+PATIENT: But uh.
+DOCTOR: Um.
+PATIENT: If I walk around real slow I'm alright.
+DOCTOR: Okay.  And when you have your oxygen on are you fine usually?
+PATIENT: No, still the same.
+DOCTOR: Still a little short of breath when you move.
+PATIENT: Still, it ain't no difference you know.
+DOCTOR: Okay.  Okay.
+PATIENT: It still hurts right up in here.  The pain, it hurts right up in here.
+DOCTOR: Uh-huh.
+PATIENT: You know something, dropping it's something a little bit more.  This is mild pain.  There's some a little bit more complicated than what uh what the doctors think it is cause it's been there five years.
+DOCTOR: Yeah.
+PATIENT: And it's been the same thing.  It's the same thing.
+DOCTOR: Uh-huh.
+PATIENT: It ain't getting no worse but it ain't getting no better.
+DOCTOR: Okay, okay.
+PATIENT: You know I can't walk upstairs.
+DOCTOR: Yeah.
+PATIENT: Can't walk a long distance.
+DOCTOR: Uh-huh.
+PATIENT: And it's steady and it's constant.
+DOCTOR: Okay.
+PATIENT: If I was 25 or 30 years younger I'd ask to do exploratory surgery cause.
+DOCTOR: You don't want that, trust me, you don't want that.
+PATIENT: No, I don't want that.
+DOCTOR: You've had, I mean you've had like heart work up before because besides your lungs, your heart sits right there, if I remember correctly looked fine right?
+PATIENT: Yeah.
+DOCTOR: Yeah.  So that's good in that respect um.  It's a combination of things.  It's your lung disease, the COPD um combined with the obstructive sleep apnea you have.  Are you using the CPAP still at night?  Do you use it every night or half a night?
+PATIENT: Every night.  When I'm sleeping but when I sleeping light.  I'll go to sleep at 9 or 10 o'clock and I'll wake up at 2 in the morning.
+DOCTOR: Uh-huh.
+PATIENT: And then I'm up until 8, 9 or 10 o'clock the next night.
+DOCTOR: Okay.
+PATIENT: You know sometimes I take a nap, sometimes I don't.
+DOCTOR: Okay.  Is it the breathing that keeps you from sleeping well or what is it or you just never have been a good sleeper, or what?
+PATIENT: Uh you know it's hard to you know, it's hard to say.  It is hard to pinpoint because.
+DOCTOR: Uh-huh.
+PATIENT: I been like that ever since I uh came from Vietnam.  You know I couldn't get a good night's sleep and this carried on over the last four years because for that one year I was over there.
+DOCTOR: Uh-huh.
+PATIENT: I was up at all different times of the night.  You know I never got no more than three, four hours sleep.  Maybe five some nights if it was that much and it just carried over, over the years.
+DOCTOR: Do you find yourself dozing off during the day sometimes?
+PATIENT: No.
+DOCTOR: You don't doze off?
+PATIENT: No, you know that lady, that doctor up in the hospital had me, made me admit to that but you know what I don't doze off during the day.
+DOCTOR: You don't.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: But see I was up there, I was up there and they had me on so many different type of drugs, I don't know what I was doing up there or what I was saying.
+DOCTOR: What do you do for your blood pressure right now?
+PATIENT: Um carvedilol.
+DOCTOR: Uh-huh.
+PATIENT: Losarin.
+DOCTOR: Uh-huh.
+PATIENT: And it start with a d, what is that?
+DOCTOR: Diltiazem?
+PATIENT: [REDACTED] that.
+DOCTOR: They had increased some of your stuff.  Have you taken the higher doses?
+PATIENT: Right.
+DOCTOR: You have been?  Cause your blood pressures are a little bit high so do you?
+PATIENT: This morning.
+DOCTOR: Did you take it this morning?
+PATIENT: This morning I forgot to take my carvedilol.
+DOCTOR: Okay, okay, sure.
+PATIENT: I forgot to take it.
+DOCTOR: Sure, yeah uh that happens a lot um.
+PATIENT: And because you know I take it, I took it last night at 10 o'clock.
+DOCTOR: Uh-huh.
+PATIENT: So at 5 o'clock that was too early.
+DOCTOR: Uh-huh.
+PATIENT: To take it again.
+DOCTOR: Uh-huh.
+PATIENT: But see I'm up every night at 5 in the morning.
+DOCTOR: Right.
+PATIENT: I want to take all my medication at 5 in the morning but if I take it at 7 or 8 at night you know that ain't 12 hours.
+DOCTOR: Yeah and I mean it doesn't have to be 12 hours on the dot.  If it's between not taking it at 12 hours on the dot or.
+PATIENT: Taking it.
+DOCTOR: Taking it then we'd rather you just take it at like eight hours than not taking it at all so.
+PATIENT: And uh since they increased that carvedilol I got, like water or something is in my ear you know.
+DOCTOR: Oh.
+PATIENT: Yeah you know, it does it just like a 300 gram of aspirin do me.  I can't take a high volume aspirin.
+DOCTOR: Oh.
+PATIENT: Cause I do this, you know I feel something like a echo.
+DOCTOR: Okay.  Does it affect your hearing?
+PATIENT: No.
+DOCTOR: It doesn't affect your hearing okay.
+PATIENT: Just uncomfortable.
+DOCTOR: Okay, alright.  Do you check your blood pressure at home by any chance?
+PATIENT: Uh I don't have a machine.
+DOCTOR: You don't, oh we can get you one.
+PATIENT: And they uh, they wanted me to get one of those oxygen monitors.
+DOCTOR: Yeah that actually wouldn't be a bad idea either.
+PATIENT: But uh.
+DOCTOR: [REDACTED].
+PATIENT: But I don't uh, at home, like here, I feel pretty good but see at home I got some carpet on the floor.  I think I'm allergic to that carpet where I stay at.
+DOCTOR: Why do you say that, what is it?
+PATIENT: You see I can't breathe sometimes.  But when I leave it, when I leave it.
+DOCTOR: Does it stop when you're gone?
+PATIENT: Sometimes.  When I leave the house I'm good.
+DOCTOR: Okay um.  How old is this where you're staying?
+PATIENT: Oh it's a new place.  Could be how cheap is the carpet right.
+DOCTOR: It's new?  Yeah or if it's had mold on your carpet but it's brand new.
+PATIENT: I have no, the carpet ain't brand new.
+DOCTOR: Okay.
+PATIENT: And you know what, you're probably right because when my son moved in to the apartment, see I stay with my son now.
+DOCTOR: Uh-huh.
+PATIENT: The apartment, the carpets looked like it was dirty but they say they had cleaned it so it was probably what you said mold on those carpets.
+DOCTOR: It's possible and that can really aggravate your lung disease.
+PATIENT: Yeah.  My son will be walking around sniffling.
+DOCTOR: Yeah.
+PATIENT: He don't know, he don't know nothing about it now.
+DOCTOR: Yeah.
+PATIENT: He ain't figured it out yet.
+DOCTOR: Yeah.
+PATIENT: But I done figured out about that carpet.  He better off not having it.
+DOCTOR: Yeah that's true actually.  Would you rather pick it up or would you rather it sent to your house?
+PATIENT: What's that?
+DOCTOR: The blood pressure cuff and the O2 machine?
+PATIENT: Well I'll be back down this Thursday the 10th.
+DOCTOR: Okay.
+PATIENT: I could pick it up.
+DOCTOR: Do you know where to pick it up?
+PATIENT: Yeah.
+DOCTOR: Okay.  I'll have it ready for you so it's there um.
+PATIENT: And uh other than that you know I don't know why you increased that carvedilol on me uh.
+DOCTOR: What was the reason?  It looks like your blood pressure was pretty high while you were in the hospital.
+PATIENT: They made it that high.
+DOCTOR: Because they aggravated you?
+PATIENT: I ain't gonna say that, I ain't gonna say a word.
+DOCTOR: Well you know it's, I mean.  Stick with the increased dose.
+PATIENT: Yeah.
+DOCTOR: You keep checking your blood pressure at home, if they're low or if you're getting nauseated or dizzy, then certainly we should back off a little bit okay.
+PATIENT: I don't get nauseated.  I don't get dizzy.
+DOCTOR: Yeah, yeah.  Those are usually the side effects that we see with if the carvedilol dose is too high.
+PATIENT: Oh okay.
+DOCTOR: I mean if you get those and your blood pressures are low, lower than normal, um cause your blood pressure usually runs high so if you start getting blood pressures like 100, 110, then maybe that's a little bit too aggressive and we can back off a little.
+PATIENT: That's what I was getting.
+DOCTOR: Yeah.
+PATIENT: I missed the two tablets this morning.
+DOCTOR: Uh-huh.
+PATIENT: And it's at 147.
+DOCTOR: Yeah.  Well what 147 is still considered high.
+PATIENT: But see some doctors say they like to see my blood pressure at 130.
+DOCTOR: Yeah less than 130.
+PATIENT: Yeah less than 130.
+DOCTOR: Yeah it's higher than 130.
+PATIENT: Right but.
+DOCTOR: Uh-huh.
+PATIENT: That worries me but anybody say well 147's alright for you.  You know I say what you know what can I say?
+DOCTOR: The goal is less than 130.  If it's running in the 140s then we can be okay with it but we would prefer not cause you're 62, you're still young.
+PATIENT: (Laughter)
+DOCTOR: Relatively.  With all the Veterans that we see.
+PATIENT: Oh yeah I know.
+DOCTOR: So.
+PATIENT: Yeah.
+DOCTOR: So you still have a lot of years left.
+PATIENT: Yeah.
+DOCTOR: So you have your blood pressures all crazy now, that's gonna cut years off of your life.
+PATIENT: Right, right.
+DOCTOR: So we might as well be a little more aggressive if we can.
+PATIENT: And there's something else I be wondering too.  They gave me these two things up there, where you know you inhale them.
+DOCTOR: Yeah, yeah.
+PATIENT: One got a capsule.
+DOCTOR: Uh-huh.
+PATIENT: And the other one got a counter.
+DOCTOR: Uh-huh.
+PATIENT: What is that with the one with the counter?  I don't see nothing in there.
+DOCTOR: Is it?
+PATIENT: Is it liquid or what?
+DOCTOR: The, do you put anything in it?
+PATIENT: One of them you don't put nothing in it you just take the cap off.
+DOCTOR: Uh-huh.
+PATIENT: And the counter goes, you know there's a counter on it, it's 60 doses.
+DOCTOR: Uh-huh.
+PATIENT: And the counter goes there and you inhale it.
+DOCTOR: And you like push the lever or whatever and you inhale it real quick?  Is there a lever or anything that you push?
+PATIENT: You talking about the one with the capsule.
+DOCTOR: Yeah let me see which ones you're on.
+PATIENT: You talking about the one with the capsule.
+DOCTOR: Okay.
+PATIENT: Now that's the only one that I can feel when I can inhale it.
+DOCTOR: Uh-huh.
+PATIENT: But uh that other one.
+DOCTOR: You don't feel like there's anything in it?
+PATIENT: I don't feel like nothing's coming out, that's what I say uh.
+DOCTOR: Oh.
+PATIENT: I even took it one time and turned it over upside down.  I didn't see nothing come out.
+DOCTOR: You know the best thing to do in that instance is probably to bring it to the Pharmacy next time you're here and ask them about it and say hey look at this is it really working.
+PATIENT: Yeah.
+DOCTOR: So yeah, bring it in.
+PATIENT: But I'm trying to say do I really need it?
+DOCTOR: You do for your lung disease.  One's called mometasone.
+PATIENT: Right.
+DOCTOR: And that is supposed to be twice a day.
+PATIENT: Right.
+DOCTOR: And what's the other one they have you on, let's see.  Do you take albuterol, does that sound familiar?
+PATIENT: I got some albuterol.  I got that which is use as needed.
+DOCTOR: How often are you using that?
+PATIENT: Well I used it last night.  It seemed to work.
+DOCTOR: It does?
+PATIENT: I feel like, you know after I used the two powders.
+DOCTOR: Uh-huh.
+PATIENT: Uh I be stopped up.  Something's happening down there with them two powders and uh you know I can't breathe after using those two powders.  I believe that's what it is.  See I mean, I know you doctors like to order medication but.
+DOCTOR: Formoterol, that's what it is.
+PATIENT: That's what I got?
+DOCTOR: Uh-huh.
+PATIENT: But that's the powder.
+DOCTOR: You're on formoterol.
+PATIENT: What about the other powder though?
+DOCTOR: You only have two medicines for your lungs disease right, besides the albuterol.  Albuterol is the one you use.
+PATIENT: Correct.
+DOCTOR: The formoterol and mometasone are the two that you have.
+PATIENT: Okay.  One of them is a little capsule.
+DOCTOR: Yeah.
+PATIENT: That's the one you drop in the little machine.
+DOCTOR: And then you inhale it.
+PATIENT: Squeeze it.
+DOCTOR: Uh-huh.
+PATIENT: And inhale it.
+DOCTOR: Uh-huh.
+PATIENT: Now I feel that.
+DOCTOR: Yes.
+PATIENT: That other one, you just screw the cap off and a counter, I don't feel nothing coming out of that.
+DOCTOR: The best thing to do is just bring it into the Pharmacy and let them look at it.
+PATIENT: What does that do though?  Do I need them both?
+DOCTOR: You do need them both cause they do different things.  One is, one is to make your airways bigger.
+PATIENT: Right.
+DOCTOR: So more air can come in and one is to decrease the inflammation that you have going in there.  So they work differently.
+PATIENT: Oh okay.
+DOCTOR: Yeah cause we can make your airways bigger but if you have a ton of inflammation then it's not going to do anything right?
+PATIENT: It'll clean it out huh?
+DOCTOR: Right or we can get rid of the inflammation but if your airway is still teeny tiny that's not gonna help either.
+PATIENT: Right.
+DOCTOR: So that's why you need both to kind of work together.
+PATIENT: Okay.
+DOCTOR: Um the albuterol, I know you're saying helps you, you seem to feel like it but the albuterol is supposed to be only as needed and we try to make it so that you're other medications control your breathing so that you only need albuterol maybe once or twice a month if even.
+PATIENT: Right.
+DOCTOR: Cause albuterol is not supposed to be like a daily or even weekly thing.  We try to keep it to a minimum cause if you're having to use it every day or you know almost every day that means you're not well controlled enough with your other stuff.
+PATIENT: Okay now do they have anything that you can get a breathing treatment with at home?
+DOCTOR: Yeah, I think so.  You like the breathing treatments you get in the hospital?
+PATIENT: Yeah sometimes.  Yeah they work.
+DOCTOR: With the humidifier.
+PATIENT: Yeah they got something you can take that at home.
+DOCTOR: Yeah I think so, let me find out for you.
+PATIENT: Okay.
+DOCTOR: I'm pretty sure there is yeah.
+PATIENT: And uh.
+DOCTOR: What is your um, have you been checking your um blood sugar?
+PATIENT: Oh yes, it's uh I'm starting to get it back under control now, but when I went into the hospital they would give, all they would give me is short-acting insulin.
+DOCTOR: Yeah.  Unfortunately you know the hospital.  So what are you taking right now?
+PATIENT: 15.
+DOCTOR: Uh-huh.
+PATIENT: Of long-acting.
+DOCTOR: Okay, once a day or twice a day?
+PATIENT: Twice a day.
+DOCTOR: Twice a day.
+PATIENT: And 15 of fast-acting.
+DOCTOR: Okay with each meal.
+PATIENT: Right.
+DOCTOR: Okay and what are your morning sugars looking like?
+PATIENT: I got them back down to 90 or 120.
+DOCTOR: Good, wonderful.
+PATIENT: You know uh anytime it's above 90 and 120, that mean I don't woke up eating something.
+DOCTOR: Oh okay.
+PATIENT: (Laughter)
+DOCTOR: At least.
+PATIENT: With eggs then I wake up in the morning and I'll check and maybe 160.
+DOCTOR: Yeah do you write them down?
+PATIENT: No I don't.
+DOCTOR: Okay.  Well, do you think you can start writing them down and then we'll set you up with our pharmacists so they can take a good look at it and see if there's room to go up because your A1c which is the number we use to follow your diabetes.
+PATIENT: Right.
+DOCTOR: Shot way up.
+PATIENT: Oh yeah.
+DOCTOR: Yeah it was, its 9., let me make sure so I'm not lying to you what it is, it is 9.3 when you had lab work done last week.
+PATIENT: Okay.
+DOCTOR: It was 7.4 in July.
+PATIENT: So it went up 2 points.
+DOCTOR: So way, way off in the wrong direction.
+PATIENT: Well why would it, why would it made it do that?
+DOCTOR: It's probably a combination of a lot of different things.  I think because you were in and out of the hospital a lot since July.
+PATIENT: Maybe it's been since July once or twice.
+DOCTOR: Yeah, yeah, in September or whatever.  So usually there's not too terribly good control there and then um I don't know what else has been going on, I don't know if you've been having missing meals or eating too much sweets or this and that, little things can always do it.
+PATIENT: Oh okay.  Well that's a task; I'll get it back down.
+DOCTOR: Yeah.
+PATIENT: That last one was just a little score right?
+DOCTOR: The 7 yes, 7 is the goal, if we get it down to 7 for the A1c.  Um so why don't, if you can why don't you or actually does your monitor keep um.
+PATIENT: The date and time.
+DOCTOR: Does it keep track of it?
+PATIENT: Yeah.
+DOCTOR: So you don't even need to write down.
+PATIENT: I brought it into her last week.
+DOCTOR: Oh you did?  Did you bring [REDACTED]?
+PATIENT: Yeah, I seen them once a week.
+DOCTOR: For the warfarin .
+PATIENT: For the blood thinner, right.
+DOCTOR: And did they check your?
+PATIENT: She checked it.  She told me just what you said keep a log.
+DOCTOR: Oh okay, okay.
+PATIENT: Keep a log and write down what I eat.
+DOCTOR: Good, good.
+PATIENT: You know cause.
+DOCTOR: Yeah I mean for you, I mean you come in and seem them like once a week right?
+PATIENT: Yeah they adjust my warfarin.
+DOCTOR: Okay, okay, so then it seems like they kind of check on your diabetes as well.
+PATIENT: That too.
+DOCTOR: Good.
+PATIENT: They do that.
+DOCTOR: Good okay.
+PATIENT: They uh, you know they do all that, you know.
+DOCTOR: Good, good.
+PATIENT: Are you gonna be my permanent doctor or?
+DOCTOR: We're gonna try.  We can try to make it that way um, we kind of switch around a lot.  So we try to keep seeing the same patient over and over but every now and then it, we have to.
+PATIENT: Yeah cause I had one doctor he left.
+DOCTOR: Yeah.
+PATIENT: He was my doctor for almost a year.
+DOCTOR: Uh-huh.
+PATIENT: And uh you know he, you know we had a rapport.
+DOCTOR: Yeah.
+PATIENT: And we ended up having a little thing you know and then I got another friend, he spoke good of that doc too with his doctor.
+DOCTOR: Uh-huh.
+PATIENT: So you know, he was alright, I hate to see him go.
+DOCTOR: Yeah.
+PATIENT: But uh another thing I want to ask you too now.
+DOCTOR: Uh-huh.
+PATIENT: This oxygen, they got more modern stuff than this but the VA they won't give it to you.  They got some equipment that keep you out, where you can stay out for eight hours.
+DOCTOR: Oh okay.
+PATIENT: But they won't give it to you at the VA, they talk about too expensive all this crap.
+DOCTOR: Yeah uh-huh.
+PATIENT: But I do have uh, what do they call that insurance with the government, SSI or.
+DOCTOR: Uh the Social Security?
+PATIENT: Yeah type uh A and type B.
+DOCTOR: Yeah.
+PATIENT: That will pay for this specialty stuff.
+DOCTOR: Uh-huh.
+PATIENT: The guy told me he needs a doctor's name and my doctor's phone number here at the VA and he said that he could hook me up.
+DOCTOR: Who is he?
+PATIENT: With the guy that sell this stuff, Indigene, Indigene, that's the name of the place.
+DOCTOR: Uh-huh.
+PATIENT: That's the name of the company I get Indigene where you know they got modern equipment where you can take this and stay gone all day.
+DOCTOR: Uh-huh.
+PATIENT: And it's lightweight; you ain't got to have a heavy tank.
+DOCTOR: Uh-huh.
+PATIENT: And he say that he can get it, all he needs is a phone number and a doctor's name at the VA and he gonna call the doctor.
+DOCTOR: Okay.  Well you know, we don't have direct lines here and Idwon't know what he's talking about, I've never heard of that.
+PATIENT: I know but he said he's did it before.
+DOCTOR: Is he a dealer?
+PATIENT: [REDACTED] uh you never seen that on TV?
+DOCTOR: Oh I wouldn't, honestly I wouldn't trust those.
+PATIENT: Uh let's see I got that insurance why not?
+DOCTOR: There's a lot of scamming but.
+PATIENT: [REDACTED].
+DOCTOR: I mean we can try to see what we can work out.  Are you still smoking?
+PATIENT: No.
+DOCTOR: How long ago did you quit?
+PATIENT: I have one a day.
+DOCTOR: So you are still smoking.
+PATIENT: No.
+DOCTOR: If you have a cigarette.
+PATIENT: I bought [REDACTED] pack of cigarettes in over a month.
+DOCTOR: Uh-huh.
+PATIENT: Other than that I haven't had a cigarette in two months.
+DOCTOR: Okay, alright um.
+PATIENT: I won't buy nobody no more cigarettes.
+DOCTOR: Okay.
+PATIENT: I don't even put them in my hand.
+DOCTOR: Yeah.
+PATIENT: You know that's the first thing I did when I went out and bought those cigarettes.
+DOCTOR: Uh-huh.
+PATIENT: Got back in the car, opened them up and smoked it.
+DOCTOR: Yeah [REDACTED].
+PATIENT: Those things are the devil.
+DOCTOR: Yeah, and don’t smoke around the oxygen either.
+PATIENT: Yeah well I don't have it on, you know I ain't crazy.
+DOCTOR: Either way, I mean there could be like a small leak that you don't know about I mean.
+PATIENT: Don't you know that can happen to me before?
+DOCTOR: Right, you're increases your changes.
+PATIENT: But I don't do that no more, with those cigarettes, back to those cigarettes.
+DOCTOR: Okay.
+PATIENT: That's the hardest thing I ever had to do, quit smoking cigarettes.
+DOCTOR: Yes, yeah no I can understand.  Alright, I'll be back.
+(DOCTOR OUT:  85:58  DOCTOR IN: 98:24)
+DOCTOR: Okay.  So you can get those nebulizers at home, I can order it.  So the actual medication you pick up from the Pharmacy but the actual equipment to do a nebulizer.
+PATIENT: Uh-huh.
+DOCTOR: You can get from Prosthetics.
+PATIENT: Okay.
+DOCTOR: So let me put this in.  You'll probably like those better anyway huh.
+PATIENT: Yeah.
+DOCTOR: That seems to work better for you.
+PATIENT: Well you know it makes it seem like it do how.
+DOCTOR: No I mean it works differently.
+PATIENT: Yeah.
+DOCTOR: So um it's called Combivent and it's a brand name but it's a combination of albuterol and ipratropium.  I don't know what the name is.
+PATIENT: Oh that's what this supposed to be?
+DOCTOR: Yeah that's what the nebulizer treatment is.
+PATIENT: Then you do it once a night, at night before you go to bed.
+DOCTOR: Three times a day.
+PATIENT: Three times a day.
+DOCTOR: Yeah uh-huh, uh-huh.  Yeah if you want um I mean if you go and leave the house a lot I can prescribe the nebulizer and the inhaler then you can do nebulizers only at night and do the inhalers during the day.
+PATIENT: Yeah.
+DOCTOR: How would that sound?
+PATIENT: That's alright.
+DOCTOR: Okay.
+PATIENT: Cause I don't want to sit up in the house.
+DOCTOR: Okay.  So why don't we, um we'll plan on um doing the inhalers um during the daytime.
+PATIENT: Alright.
+DOCTOR: And do the nebulizers at night.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: But usually we like to say like every six hours or so but you know I mean people are busy.  I doubt anyone ever gets every six hours but if you can get it in three or four times a day that'd be ideal.
+DOCTOR: Okay.  So let make sure you get that and then continue the mometasone.  Do you need refills on that?
+PATIENT: The who now?
+DOCTOR: Mometasone, that's the new one that you got.
+PATIENT: The powder?
+DOCTOR: Uh-huh.
+PATIENT: Oh no, I'm alright with that.  I think I need some more.
+DOCTOR: Do you get it sent in the mail or pick it up at the window?
+PATIENT: You can mail it.
+DOCTOR: Mail it okay.
+PATIENT: Uh you know I think I'm out of Losartan, they were supposed to send me some but I ain't got it yet.
+DOCTOR: Okay.
+PATIENT: Well, for your blood pressure.  I think I'm running low on that and I haven't gotten it yet but I've moved.
+DOCTOR: Okay.
+PATIENT: And maybe it got twisted in the mail.
+DOCTOR: Yeah it's possible.  Let's see what’s your address.
+PATIENT: And another thing I need a, a disabled plaque for disability.
+DOCTOR: Uh-huh.
+PATIENT: How do you go about to get that?
+DOCTOR: Um that.
+PATIENT: You know it has to be filled out by a doctor.  What you know what do I do?  You know.
+DOCTOR: I'm not sure where you pick that, pick up those forms from.
+PATIENT: But who fills them out, I mean what I can't just come in here and knock on your door and say here you go doc fill it out or give it to you then you know you ain't gonna mail it to me, that other doctor.  He was I hated to see him go.  He was so easy to deal with.
+DOCTOR: Uh-huh.
+PATIENT: You know, he'd mail it to you so I'm dropping it in the mail and mail it to you.
+DOCTOR: Are you still, where are you living right now?  What's your address?
+PATIENT: In the Highland area.
+DOCTOR: The Tanglewood Court.
+PATIENT: Right.
+DOCTOR: It looks like the address is temporary.  Were you, for just this time can you pick it up at the window?
+PATIENT: Tonight?
+DOCTOR: Yeah cause they're not um, right now your addresses, aren't it's showing up as your temporary address.
+PATIENT: Is it temporary, it is temporary.
+DOCTOR: Yeah so but when they mail stuff out they mail it to your permanent address.
+PATIENT: Okay.
+DOCTOR: So for now we'll have to do medicines.
+PATIENT: You can send it to my permanent address, the one before Tanglewood.
+DOCTOR: Yeah.
+PATIENT: Yeah you can send it there.
+DOCTOR: Your address listed is [REDACTED].
+PATIENT: Right you just send it right to that address.
+DOCTOR: Okay.
+PATIENT: I'll get it.
+DOCTOR: That's where all your medicine is going.
+PATIENT: Okay.
+DOCTOR: So your other medicine that you needed is probably there.
+PATIENT: It might be.  It might be, I'm gonna check on my way home tonight.
+DOCTOR: [REDACTED].
+PATIENT: But as far as me going to the hospital the last time I think all I had was a little bitty cold you know and I had to.  They could've probably, I wished I of went to Walgreens and bought me some you know some sugar free cough medicine.
+DOCTOR: Oh you [REDACTED].
+PATIENT: I didn't need to be in the hospital.  I'm worse than when I was when I got out.
+DOCTOR: Yeah.
+PATIENT: After they gave me some pills up in there, I was on the 4th floor; they gave me some pills that I didn't know where I was for two days.
+DOCTOR: Uh-huh.
+PATIENT: You know and I think all I had was a little indigestion and that's what I had was a little cold.  Every time I come here.
+DOCTOR: Do you ever check your blood sugar after you eat, about two hours after you eat?
+PATIENT: I've started.
+DOCTOR: Okay, alright, yeah.  So why don't we um the next time you have an appointment with the um, with the pharmacist for your um Coumadin check or whatever.
+PATIENT: Yeah.
+DOCTOR: If you bring your log in and let them look at some of your fasting and some of your two hour after meal numbers.
+PATIENT: You know what; I'm gonna be dedicated to that so next week when I come in.
+DOCTOR: Yeah, uh-huh.
+PATIENT: I'm gonna have that.
+DOCTOR: Okay good then we can see.  Maybe we can titrate your insulin a little bit.
+PATIENT: Yeah.
+DOCTOR: It'll give us a little bit of a better picture.
+PATIENT: See I know what it be you know two hours after I eat, it'd be below 200.
+DOCTOR: Yeah, well it should be.
+PATIENT: It's below 200.
+DOCTOR: It should definitely be.
+PATIENT: After I eat.
+DOCTOR: Yeah we don't ever want it that high,so.
+PATIENT: But then it goes down, it eases on down.
+DOCTOR: Okay.  And do you remember when you went and when you did pulmonary function tests, do you remember doing those?
+PATIENT: Sit in that little box.
+DOCTOR: Uh-huh.
+PATIENT: Yeah.
+DOCTOR: When you go, I'm gonna try to get you set up to go and do that again just to see where your status is right now on your lung function um so let me see.  So I'll get that set up and I think they um, I think they'll call you with an appointment.
+PATIENT: They'll send me a letter.
+DOCTOR: Yeah they'll send you a letter.  Yeah so I'll fill this out and they'll just send you a letter with an appointment.
+PATIENT: Now how do I go about to get the license plates plaque, if I get an application what must I do cause I probably won't see another doctor here for what.
+DOCTOR: You can bring it up to the front and just tell them to drop it off or to give it to your primary care doctor and they'll get it to us.
+PATIENT: So my primary doctor is.
+DOCTOR: You can tell them to drop it off either with me or with DOCTOR and somehow.
+PATIENT: So what is it, you or DOCTOR?
+DOCTOR: Well I always talk to her all the time.
+PATIENT: Okay.
+DOCTOR: So if you get to her then she can get it to me.
+PATIENT: You are, you are a physician right?
+DOCTOR: Yeah uh-huh.
+PATIENT: Okay.
+DOCTOR: Yeah okay.
+PATIENT: Alright no problem.
+DOCTOR: Alrighty well we'll get that all done.  So just stop by or stop by Prosthetics when you get a chance to pick up all that stuff.
+PATIENT: I'll be here on the 10th.
+DOCTOR: Okay, okay sure that's not a problem.
+PATIENT: I'll be here on the 10th.
+DOCTOR: Okay.
+PATIENT: And I got, I missed my other appointment.  I had another 2 o'clock appointment.  That makes it, that means somebody do something at the desk.
+DOCTOR: Uh-huh.
+PATIENT: Because I been here since 10 o'clock this morning.
+DOCTOR: Oh okay.
+PATIENT: Now I got to walk all the way up to the sixth floor to get some oxygen.
+DOCTOR: Oh okay.
+PATIENT: (Laughter)  That gonna hurt but that's alright.  So what do I get another form to see?
+DOCTOR: Oh they'll send you a letter cause they won't let you make appointments that.
+PATIENT: For the doctor.
+DOCTOR: Yeah uh-huh.  So they'll just sent you a letter sending you the appointment.
+PATIENT: I bet you guys see a whole lotta people huh.
+DOCTOR: Yeah, we sure do.
+PATIENT: Alright.  See if you can have a nice one.
+DOCTOR: Okay thank you, same to you.  See you later.
+PATIENT: Alright.
+PATIENT: 106:3
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286113
+TRANSACTION # 578-10-2-316-0103

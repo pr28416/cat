@@ -1,0 +1,157 @@
+DOCTOR:
+PATIENT: on back.  Hi how you doing?
+PATIENT: Hi.
+DOCTOR: [REDACTED].  Have a seat sir.  Put this over here [REDACTED].  Sorry for the wait.  So DOCTOR was telling me that you usually to see her but with the morning scheduled the way it was uh we're just gonna to see you now.
+PATIENT: Okay.
+DOCTOR: And yeah she can come in and sort of give her input too and seat here, up to you [REDACTED].  Yeah it looks like the last time you were here was November.  At that time did you get a flu shot in November?  Okay.  And how have you been since then?
+PATIENT: Uh the only problem I had was I was taking the anti-[REDACTED], cholesterol [REDACTED] and I ran out of it and they wouldn't refill it because I had some problems with VA finance.
+DOCTOR: Yeah.
+PATIENT: Coordinated.
+DOCTOR: Did they refill it eventually?
+PATIENT: No.
+DOCTOR: You still don’t have it?  Okay.
+PATIENT: Uh I don't need this, as far as I know, because when I was here the last time she said all of the.
+DOCTOR: The labs looked good.
+PATIENT: Everything seems to be within normal range so uh.
+DOCTOR: Yeah.
+PATIENT: I have no side effects and no problems from not taking it and uh it was a hyper cholesterol situation.
+DOCTOR: Yeah when you got the labs this morning um did you eat beforehand at all or no?
+PATIENT: No.
+DOCTOR: Okay.  Sorry one second.  So it's a little elevated, your LDL is 161 and we want to see it under 120 um so and it's been a couple weeks or months would you say since you've been off of that cholesterol medication?
+PATIENT: Oh I'd say two months.
+DOCTOR: Two months okay.
+PATIENT: But at 161, as opposed to be 120 I don’t think it’s substantive [REDACTED].
+DOCTOR: Right, right, yeah.
+PATIENT: [REDACTED].
+DOCTOR: You know we'll talk to her, just looking at your you know history of high blood pressure, things like that, you know you're at a little more risk for things to happen so um.
+PATIENT: Well I'm using kind of a diet and exercise program uh.
+DOCTOR: Hmm.
+PATIENT: Maybe more of a vegetarian diet.
+DOCTOR: Uh-huh.
+PATIENT: And uh.
+DOCTOR: When you were on the statin, did you have any muscle pains, aches, anything like that?  Not really okay.  The other labs look good.
+PATIENT: I may have had muscles pains or aches but I don't think they were induced by the statin.
+DOCTOR: Okay, it's a real short things [REDACTED].
+PATIENT: I exercise, I lift weights.
+DOCTOR: Yeah, okay.
+PATIENT: I'm accustomed to pain.
+DOCTOR: Gotcha.
+PATIENT: But I didn't have any chronic.
+DOCTOR: Yeah, yeah, taking your medicine all the time okay.  Blood count looks good.
+PATIENT: What was the uh 120 today or 160 today?
+DOCTOR: Uh the cholesterol was 160.
+PATIENT: Yeah so I'm 40 off.
+DOCTOR: It's still big enough that you know.
+PATIENT: Yeah cause my blood pressure isn’t [REDACTED].
+DOCTOR: Yeah the blood pressure looks uh.
+PATIENT: 130.
+DOCTOR: 139/96, yeah I wouldn't change anything based on that, for that.
+PATIENT: Okay, the 96 dropped, they took it twice.
+DOCTOR: Okay.  (Someone knocks on the door)  She's over [REDACTED] sorry.  And your blood count looked good.  Your PSA was 0.
+PATIENT: Well my PSA is 0 because I had a prostatectomy [REDACTED].
+DOCTOR: Okay there you go, [REDACTED].
+PATIENT: But it is nice.
+DOCTOR: Nothing's coming back or okay.  Uh any urinary complaints at all or?  Not really.  And uh what about back pain, any problems with that?
+PATIENT: The only back pain I get is when I lift weights.
+DOCTOR: Okay.
+PATIENT: I mean I do a rather strenuous kind of weightlifting exercises.
+DOCTOR: Any worsening of that back pain when you're doing your exercises or not really.
+PATIENT: It diminishes it.
+DOCTOR: Okay.  So you don't have any [REDACTED].  Yeah you're not really taking anything for pain right?
+PATIENT: No I don't.  Aspirin I don't take because uh the [REDACTED] cause all I got to do is hit myself.
+DOCTOR: And you get bruises, okay.
+PATIENT: Uh I tried all of the other [REDACTED]. So I just.
+DOCTOR: Yeah you know if it's not bothering you, you know why do anything but if it becomes more of an issue we can [REDACTED] you know.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Any issues with constipation?
+PATIENT: No.
+DOCTOR: I think you were [REDACTED] before.
+PATIENT: No.
+DOCTOR: And no chest pain, shortness of breath, anything like that?
+PATIENT: No chest or shortness of breath.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] dentist takes your blood pressure.
+DOCTOR: Right, right, right, yeah.
+PATIENT: And uh my blood pressure was elevated so he couldn't perform anything.
+DOCTOR: Uh-huh.
+PATIENT: So I had to come over to Cook County and get my blood pressure checked.
+DOCTOR: Yeah cause they know how to.
+PATIENT: And uh, no I had it, he took it but it was still elevated and he said I can't do anything.
+DOCTOR: Right, right.
+PATIENT: The instructor from the Dental Clinic said no you can't do anything as long as there's such an elevated blood pressure.
+DOCTOR: Right, right.
+PATIENT: So uh I went, he walked over to Cook County with me, yeah actually [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: And it cost $1000 for me.
+DOCTOR: Geeze.
+PATIENT: Yeah see dentists don't know anything about blood pressure.
+DOCTOR: Yeah, yeah, yeah, yeah.
+PATIENT: [REDACTED].
+DOCTOR: Or how much it costs.
+PATIENT: So uh that was how I wound up with.
+DOCTOR: The diagnosis yeah.  But I mean honestly you look pretty good,  [REDACTED].
+PATIENT: Well, that’s nice of you to say.
+DOCTOR: Yeah, yeah.
+PATIENT: You mean my health is good.
+DOCTOR: Yeah, yeah.  Oh yeah, I’ll go with that. Um but uh so I don't feel [REDACTED] do anything for your medications.
+PATIENT: Okay and I don't need anything then I'm all set.
+DOCTOR: Yeah I'm just gonna take a listen to you and then I might have DOCTOR you know pop her head in to say hi.  Deep breaths and out, again, again, again.  Um this right here, have you had this a while?
+PATIENT: Yeah this is from [REDACTED].
+DOCTOR: Yeah how long ago was that?
+PATIENT: Week.
+DOCTOR: Weeks okay.  Anything new of concern?
+PATIENT: No the only reason, I know how it happens, so all I got to do is take one aspirin.
+DOCTOR: And you get those yeah.
+PATIENT: I hit the back of my hand and I have this huge hematoma.
+DOCTOR: And then with the psoriasis, where does it usually affect you?
+PATIENT: Psoriasis is pretty much gone.  Uh I switched over to a pretty you know, I don't know what, oh I know what I need is the sunscreen.
+DOCTOR: Sunscreen.
+PATIENT: Yeah, it's uh the Derm Clinic gave it to me but the sunscreen should be in there.
+DOCTOR: Yeah I'll check, it might have just fallen off.
+PATIENT: And uh I could use some of that since [REDACTED].
+DOCTOR: Let me check your [REDACTED] here.  Any pain when I do that?
+PATIENT: No.
+DOCTOR: Good.  I'll go talk to DOCTOR [REDACTED].
+PATIENT: Yeah, fine, [REDACTED].
+DOCTOR: I'll be just one second.
+(DOCTOR OUT:  80:44  DOCTOR IN:  88:21)
+DOCTOR: So, I talked to her about everything that’s going on. Um we both think that you know because that level of fasting and because it looked like your cholesterol was under better control with that medication, I would highly recommend restarting it.
+PATIENT: Fine, restart it, [REDACTED].
+DOCTOR: Um but now if you start noticing muscle aches or anything like that then tell us.
+PATIENT: I've been taking that [REDACTED].
+DOCTOR: Okay so you know we'll restart that um and then um do you want to pick it up here or I can have them mail it to you?
+PATIENT: Yeah they can mail it to me.
+DOCTOR: Yeah I'll do it.
+PATIENT: But the um, if you can get the uh.
+DOCTOR: The sunscreen?
+PATIENT: Yeah.
+DOCTOR: Yeah okay, so I'll do that right now.  Okay.
+PATIENT: If you could just add that, it should be on the Derm.  I as at the Derm Clinic.
+DOCTOR: I think it fell off yeah so I can just renew it.  I can have that mailed to you or you can pick it up.
+PATIENT: Yeah just mail it to me.
+DOCTOR: Okay, okay.
+PATIENT: You can do that.
+DOCTOR: Okay um so basically we think that you know since you're doing really well you know you can come back to see me and DOCTOR in five to six months um but for just like with the cholesterol we're gonna send a letter out to get labs in the next two months basically, six to eight weeks.
+PATIENT: Okay.
+DOCTOR: So and then if there's anything off with that then you know we'll contact you and [REDACTED].
+PATIENT: Well see as she pointed out the last trip and I can keep this?
+DOCTOR: Um you can just give that to the clerk uh so they'll schedule you.
+PATIENT: Oh I see.
+DOCTOR: Yeah.
+PATIENT: Alright so I give the whole thing to the clerk.
+DOCTOR: Yeah, yeah.
+PATIENT: And then she keeps it.
+DOCTOR: Yeah.
+PATIENT: Alright, thank you.
+DOCTOR: Good to meet you.
+PATIENT: Nice to see you again.
+DOCTOR: [REDACTED] do with that weather [REDACTED].  If anything happens just make an appointment.
+PATIENT: Okay.
+DOCTOR: Take care.
+PATIENT: 90:23
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300327
+TRANSACTION # 578-10-2-316-0103

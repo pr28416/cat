@@ -1,0 +1,290 @@
+DOCTOR:
+PATIENT: [REDACTED]
+DOCTOR: [REDACTED]
+PATIENT: Well I don’t know [REDACTED] I’ve been here.
+DOCTOR: I know, they’ve…[REDACTED]
+PATIENT: Yeah.  They didn’t [REDACTED]
+DOCTOR: [REDACTED] vital signs [REDACTED]
+PATIENT: Yeah, they didn’t, I was sitting out there for awhile.
+DOCTOR: Oh, they didn’t.
+PATIENT: Yeah.
+DOCTOR: Alright, so how old are you then?
+PATIENT: Same story. Same thing.
+DOCTOR: Your blood pressure is little bit higher than it’s been.
+PATIENT: Yeah, well I really didn’t have any medicine here because you told me take one of ‘em, but they don’t come, you didn’t change it I think.  You just uh…
+DOCTOR: Which medication?
+PATIENT: It’s for the blood pressure there.
+DOCTOR: Okay.
+PATIENT: I’m trying to find it now.
+DOCTOR: [REDACTED] Yes.  (looking in EMR) The Lasik?
+PATIENT: No not the Lasik, I got plenty of that.
+DOCTOR: Okay.  Lisinopril?
+PATIENT: Uh, yeah.  Lisinopril, yeah.
+DOCTOR: Okay, so you’re taking a full tablet.
+PATIENT: A full tablet, yeah, [REDACTED] yeah…
+DOCTOR: [REDACTED]
+PATIENT: Yeah.
+DOCTOR: [REDACTED]
+PATIENT: Yeah.  An uh, yeah.
+DOCTOR: Hang on, I’ll make sure you got refills for that. so why don’t you pick up downstairs today.
+PATIENT: Alright.
+DOCTOR: If you are running out…
+PATIENT: I’m out.
+DOCTOR: Oh, you’re out.  How long have you been out?
+PATIENT: I’ve been out for a while.
+DOCTOR: Oh you have?
+PATIENT: Yeah.  Whenever I take them, I don’t know that half a tablet, I think it’s every two months they send it to me.
+DOCTOR: Okay, well next time just give me a call about the blood pressure medications, let me know you ran out.
+PATIENT: Well, when I was here to pick up my medicine [REDACTED] the head guy…
+DOCTOR: Um-hm.
+PATIENT: He made me sign some sheets and everything…
+DOCTOR: Okay.
+PATIENT: And initial things for doing a drop [REDACTED] before he gave me my medicine.
+DOCTOR: Uh-huh.
+PATIENT: So I don’t know if you know, if you are aware of this, but I was supposed to get copies and a telephone number.  And I, so you could....he told me that all I have to do now is call.
+DOCTOR: Um-hm.
+PATIENT: A number, and they would…there would be all uh, …
+DOCTOR: Yeah, you can just call the GMAC clinic, you don’t have to come…
+PATIENT: The 3800 number?
+DOCTOR: It’s uh, just a second, [REDACTED] 27304
+PATIENT: [REDACTED] 2734
+DOCTOR: 27304 um-hm
+PATIENT: 27304.
+DOCTOR: And if that doesn’t work try 27301.
+PATIENT: 27301.
+DOCTOR: 1, um-hm.
+PATIENT: 27301. Okay.
+DOCTOR: That’s the number, you can order [REDACTED]
+PATIENT: Yeah, thank you.  What did I sign??
+DOCTOR: [REDACTED].
+PATIENT: Sign this one here, initial that, initial that this one here say you know, they rushed me out of here.
+DOCTOR: It’s a pain contract to insure that you’re going to follow the rules.
+PATIENT: [REDACTED] I don’t know.
+DOCTOR: To promise that you aren’t going to ask for additional medications [REDACTED] at a clinic visit. That if we recommend physical therapy or any other options that you’ve complied with physical therapy Occupational therapy [REDACTED] um, but these are better, [REDACTED] um, that you [REDACTED] or that there’s not going to be phone calls or
+PATIENT: Another words, you don’t want me coming here once a month [REDACTED].
+DOCTOR: It’s to basically set up some kind of organization here, because obviously [REDACTED] taken care of or other patients
+PATIENT: Yeah.
+DOCTOR: [REDACTED] exactly the [REDACTED] distracting [REDACTED] it’s time consuming and we have to deal with a patient [REDACTED] because of…
+PATIENT: Yeah, right.
+DOCTOR: Just to insure a plan of care basically.
+PATIENT: I uh, when I call off what, what did you do?   Do you tell ‘em to just pick it up or [REDACTED] or what [REDACTED]?
+DOCTOR: Well, so there is probably a certain date that you come pick up the medication…
+PATIENT: They didn’t tell me to…
+DOCTOR: When did your medications specifically run out.
+PATIENT: I don’t remember.
+DOCTOR: Okay, well, whenever they ran out.
+PATIENT: [REDACTED].
+DOCTOR: Okay, so you could call like ten days before then, on the seventh of every month, tell them I am going to be at the pharmacy on the 17th to pick up my medications.
+PATIENT: Yeah.
+DOCTOR: My doctor requests that I remind them that a prescription  be placed at the pharmacy.  So I will go to the pharmacy [REDACTED] so the [REDACTED] medications [REDACTED] my doctor prescribed some medications.
+PATIENT: Um-hm.
+DOCTOR: I think they prefer…
+PATIENT: What happens if you’re not here at all?
+DOCTOR: If I’m not here, then they should call DOCTOR who
+PATIENT: [REDACTED].
+DOCTOR: No, but forward the message to me [REDACTED].  Okay, so the pain is still the same?
+PATIENT: Well, I probably – this is what’s going on here.
+DOCTOR: Um-hm.
+PATIENT: Uh, really from what you call Oxycodone.
+DOCTOR: Um-hm.
+PATIENT: Yeah, it works but that doesn’t work all day.
+DOCTOR: Because it wasn’t [REDACTED]
+PATIENT: No, no… it…I [REDACTED] of course.
+DOCTOR: Right.
+PATIENT: Uh…
+DOCTOR: Well, what we need to do is increase the dose.
+PATIENT: Yeah.
+DOCTOR: Of the oxycodone, so that [REDACTED] 20 mgs. [REDACTED]
+PATIENT: Yeah.
+DOCTOR: It has to [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Because over time you are probable developing …
+PATIENT: [REDACTED].
+DOCTOR: We can’t just start you on the higher dose…
+PATIENT: Yeah, [REDACTED].
+DOCTOR: And the goal is to get you off of the Vicodin.
+PATIENT: Yeah.
+DOCTOR: You’ve taken a lot of Vicodin two pills every six hours, pretty much.
+PATIENT: Yeah.
+DOCTOR: Is that what you take?
+PATIENT: Yeah, you know now when I take those, when I first started taking those.
+DOCTOR: Umhm.
+PATIENT: When I first started taking it, I was down to only taking one.
+DOCTOR: Okay.
+PATIENT: Every other day or so?
+DOCTOR: The Vicodin?
+PATIENT: Yeah.
+DOCTOR: Oh good.
+PATIENT: Then all of a sudden, this stuff over here, you know, I’m taking the pill and it seems like it isn’t working as long.
+DOCTOR: Yeah, I saw.
+PATIENT: [REDACTED].
+DOCTOR: How many Vicodin are taking?
+PATIENT: Two a day.
+DOCTOR: Two a day?
+PATIENT: Yeah.
+DOCTOR: Okay.  So…
+PATIENT: I tried to cut it down [REDACTED] about two a day.
+DOCTOR: Okay, so the oxycodone [REDACTED]
+PATIENT: Sometimes three instead of . . .
+DOCTOR: [REDACTED]
+PATIENT: [REDACTED]
+DOCTOR: And then you will be able cut down on the Vicodin.
+PATIENT: Yeah.
+DOCTOR: Um, once you take the Vicodin…
+PATIENT: Because the Vicodin works fine.
+DOCTOR: Um-hm.
+PATIENT: You know?  [REDACTED], you know.  Some days it’ll, you know, are real hard, you know.
+DOCTOR: Um…
+PATIENT: It doesn’t seem like could walk as fine [REDACTED] no more.  Uh, you know.  It seems like when I walk or do any kind of exercise, it seems like everything in my body just gets stiff.
+DOCTOR: Okay, [REDACTED] at most you take one of these pills three times a day.
+PATIENT: Yep.
+DOCTOR: [REDACTED] and some days you don’t even really that much?
+PATIENT: Yeah, I [REDACTED].
+DOCTOR: Okay, we’ll cut back on the Vicodin and uh,…
+PATIENT: What are you going to cut down to?
+DOCTOR: Well right now, a lot more pills prescribed than what you need. [REDACTED] one pill every six hours, [REDACTED].
+PATIENT: Well, you have some…you know, when those other ones over there don’t work, then I wind up taking more.
+DOCTOR: Okay, so we’re going to increase the oxycodone…
+PATIENT: Yeah
+DOCTOR: [REDACTED] so you are not going need as much Vicodin.
+PATIENT: (unintelligible)
+DOCTOR: Okay.  Um, so your other issues. The diabetes, have you still been checking your blood sugars at home?
+PATIENT: Yeah, they’re fine.
+DOCTOR: You are due for a [REDACTED]?
+PATIENT: Uh?
+DOCTOR: What have your sugars been at home?
+PATIENT: Uh, they’ve been around 111 or so.
+DOCTOR: Okay.
+PATIENT: Hmmm.
+DOCTOR: Alright.  The cholesterol was good last time we checked it.
+PATIENT: Hmmm.
+DOCTOR: [REDACTED] kind of stuff there.
+PATIENT: Yeah.
+DOCTOR: Are you fasting today?  Or did you eat this morning?
+PATIENT: No, I’m fasting.
+DOCTOR: Oh, you are. We can um,…
+PATIENT: [REDACTED]
+DOCTOR: Okay. So haven’t eaten anything since last night? You haven’t even had coffee or anything?
+PATIENT: Yeah, coffee.
+DOCTOR: You did. Let’s just check your diabetic labs. Next time you come we can check your cholesterol and all that.
+PATIENT: Yeah.
+DOCTOR: [REDACTED].  Um, say you use the Bipap at night?
+PATIENT: Yeah, [REDACTED]
+DOCTOR: Good.
+PATIENT: They took me off the oxygen.
+DOCTOR: Good.  Good.
+PATIENT: They stopped giving uh, you know, I…I am not receiving any more strips for these guys.
+DOCTOR: Which strips?
+PATIENT: For the diabetes.  They took me off the medicine.
+DOCTOR: What medicine?
+PATIENT: For diabetes.
+DOCTOR: Uh,…
+PATIENT: They took me off that.
+DOCTOR: Because your diabetic control was so good.
+PATIENT: Yeah, [REDACTED] I lost all that weight and everything, and they…
+DOCTOR: Okay.
+PATIENT: They took me off of the you know, they told me that I if I want the strips, I would have to go out and buy them on my own.
+DOCTOR: Um, I see.
+PATIENT: Yeah.
+DOCTOR: Because you are no longer on the metformin.
+PATIENT: Right, right.
+DOCTOR: Okay.  [REDACTED] I see on here that.
+PATIENT: Um.
+DOCTOR: Yeah, you probably [REDACTED] your diabetic control is well good.
+PATIENT: Yeah.
+DOCTOR: You know I can reason why they decided you don’t need that or any medication, you don’t need to check your blood sugars any more.
+PATIENT: Yeah.  The medicine was hurting me.
+DOCTOR: Um-hm.
+PATIENT: It had dropped a week ago or something.
+DOCTOR: You started taking a daily aspirin then?
+PATIENT: Yeah.
+DOCTOR: Are you [REDACTED] the mental health clinic?
+PATIENT: Yep.
+DOCTOR: How’s that been?
+PATIENT: [REDACTED] fine.
+DOCTOR: Do you feel like your moods are under control?
+PATIENT: No.
+DOCTOR: No? What do you mean?
+PATIENT: No.  You know, they go up and down, you know, and it’s like everything else you know?  You have good days, and some days you have bad days.  You know?
+DOCTOR: Um-hm.
+PATIENT: It depends on what triggers your emotion on that days.  You know, like [REDACTED] sometimes you know I can’t sleep at night.
+DOCTOR: Um-hm.
+PATIENT: It’s [REDACTED].
+DOCTOR: You have anxiety or…
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I’ve been getting up here uh, and fighting with myself in bed and [REDACTED] you know?  Rolling off the bed and stuff like. I’m scared I’ll hit my head on the table and I had to move everything.  And I don’t remember it.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] you, um…
+PATIENT: [REDACTED] group meeting every Thursday.
+DOCTOR: You do? Does that help?
+PATIENT: Yeah, it helps.  It may be [REDACTED].
+DOCTOR: Okay, yeah.  We don’t need labs today [REDACTED] diabetes, you really don’t have that anymore.
+PATIENT: No, no.
+DOCTOR: So we don’t need to check that and then before the next visit, come in for the fasting labs for all of that [REDACTED] cholesterol
+PATIENT: [REDACTED]
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED]
+DOCTOR: That is simvastatin.
+PATIENT: Oh yeah.
+DOCTOR: It looks like [REDACTED] all your shots and everything like that.
+PATIENT: Yeah, I did all that stuff [REDACTED] to that pneumonia shot [REDACTED]
+DOCTOR: [REDACTED]
+PATIENT: Ten years or something?
+DOCTOR: Well, normally [REDACTED] …
+PATIENT: Yeah.
+DOCTOR: So uh, our records show 2004, [REDACTED] after age 65.
+PATIENT: Oh.
+DOCTOR: That’s when you are supposed to [REDACTED] how old are you?
+PATIENT: 63.
+DOCTOR: Um,…
+PATIENT: [REDACTED]
+DOCTOR: If you are 63, [REDACTED].
+PATIENT: I am 62, I’ll be 63 in August.  I am pushing my age a little bit.
+DOCTOR: [REDACTED] I can…
+PATIENT: How much of the Vicodin are you giving me now.
+DOCTOR: So you still have enough for um, you should have enough for on average two to three pills every day which you said [REDACTED]
+PATIENT: Yeah.
+DOCTOR: So, [REDACTED] after that.  And they will probably, [REDACTED]
+PATIENT: Yeah.
+DOCTOR: So the next time you come to fill the prescription, just know that it’s for a higher dose.
+PATIENT: Yeah.
+DOCTOR: You could have [REDACTED].
+PATIENT: Yeah, …
+DOCTOR: [REDACTED].
+PATIENT: It does work.
+DOCTOR: We are going to continue to keep you on that.  Okay, well let’s see you back at about four to five months.
+PATIENT: Oh!  [REDACTED].
+DOCTOR: Okay, take care.
+PATIENT: Alright.
+DOCTOR: See you.  Bye.
+PATIENT: Bye.  Don’t make myself a stranger huh?
+DOCTOR: Okay.
+PATIENT: Are you going to be a permanent resident here or what?
+DOCTOR: No, I’m [REDACTED] in July.  You’ll probably see me a couple more times – one more time.
+PATIENT: Yeah, July is the [REDACTED].
+DOCTOR: New doctor[REDACTED].
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: I go through a lot of them.
+DOCTOR: Yeah, I know.
+PATIENT: Alright bye.
+DOCTOR: Bye.
+PATIENT: Bye.  Oh, uh, they wanted… it was supposed to be on the computer that I was supposed to a consultation here for a dietician.
+DOCTOR: Oh.
+PATIENT: Is it on there?
+DOCTOR: Sure.  Why do you want a…
+PATIENT: Well, because I need to lose some more weight.  I am gaining the weight back now.
+DOCTOR: So you [REDACTED] um…
+PATIENT: Yeah.
+DOCTOR: Yes, you have been gaining weight.
+PATIENT: Yeah.
+DOCTOR: Okay, I’ll put in a consultation to see the dietician.
+PATIENT: Alright thank you.  Alright bye.
+DOCTOR: BYE.
+(DOCTOR OUT:  31:57)
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/801000/JOB#  1238084
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,148 @@
+DOCTOR: How may I help you?
+PATIENT: Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here to kind of figure out what it is.
+DOCTOR: OK alright are you feeling this pain on the lateral side of the elbow, on the or on the medial side of the elbow?
+PATIENT: It's on the medial side.
+DOCTOR: OK and sorry, when did this pain exactly start?
+PATIENT: So it's been on going for like the past three months. But it's gotten worse over the last, I'd say three weeks.
+DOCTOR: OK, and. Has the pain been getting worse, any better?
+PATIENT: Oh the pains been getting worse.
+DOCTOR: Yeah, OK. Was there any triggers or precipitating events to the pain, such as like a fall or any types of trauma to the elbow?
+PATIENT: No, no, not that I can think of.
+DOCTOR: Have you had any pain or injury to the elbow in the past?
+PATIENT: No.
+DOCTOR: Could you describe the character of the pain. Is it sharp, achey or dull?
+PATIENT: It's usually achey, but it can be sharp.
+DOCTOR: OK. Does the pain radiate anywhere?
+PATIENT: No, it's pretty. It's pretty much in that one area.
+DOCTOR: OK, just on the medial side of the left elbow?
+PATIENT: Yeah.
+DOCTOR: OK, and is there anything that you've done to help make the pain go away, or any alleviating factors?
+PATIENT: I am taking some NSAIDs that helps with the pain temporarily.
+DOCTOR: OK. And uh. Are there any factors that make the pain worse?
+PATIENT: Um when I. I. I guess when I like extend my elbow out it gets worse.
+DOCTOR: OK, so it's a movement OK, and straightening the elbow?
+PATIENT: Yeah.
+DOCTOR: OK, I mean, what is the severity of the pain on a scale of 1 to 10, with 10 being the worst pain you've ever felt.
+PATIENT: I'd say about 5.
+DOCTOR: OK. And um. So did you have any other symptoms associated with the elbow pain?
+PATIENT: Um no, um not really I. I'm otherwise pretty healthy.
+DOCTOR: OK, so have you had any fevers or chills?
+PATIENT: No.
+DOCTOR: Have you had any night sweats
+PATIENT: No
+DOCTOR: Or any any weight loss?
+PATIENT: No.
+DOCTOR: OK, have you had any any headaches?
+PATIENT: No.
+DOCTOR: Any sensory changes like changes to your vision or or hearing or even your smell or taste?
+PATIENT: No.
+DOCTOR: OK, have you had any eye redness or eye discharge or your ear pain?
+PATIENT: No.
+DOCTOR: OK. Have you had a runny nose or sore throat?
+PATIENT: No.
+DOCTOR: Have you had a cough or shortness of breath?
+PATIENT: No.
+DOCTOR: Have you had any wheezing?
+PATIENT: No.
+DOCTOR: OK. Have you had any chest pain?
+PATIENT: No.
+DOCTOR: Any lightheadedness or dizziness?
+PATIENT: No.
+DOCTOR: Have you had any heart palpitations?
+PATIENT: No.
+DOCTOR: OK, and have you had any nausea or vomiting?
+PATIENT: No.
+DOCTOR: Have you had any abdominal pain?
+PATIENT: No.
+DOCTOR: Any diarrhea or constipation.
+PATIENT: No.
+DOCTOR: Have you had any urinary problems?
+PATIENT: No.
+DOCTOR: OK. Have you had any skin rashes?
+PATIENT: No, no.
+DOCTOR: OK, have you had any numbness or tingling?
+PATIENT: No.
+DOCTOR: And how about any muscle weakness?
+PATIENT: No.
+DOCTOR: OK, and any joint pains anywhere else?
+PATIENT: No.
+DOCTOR: OK, and any changes to your memory or or any confusion?
+PATIENT: No.
+DOCTOR: OK, and have you had any fatigue?
+PATIENT: No.
+DOCTOR: OK and, have you had any changes to your appetite?
+PATIENT: No.
+DOCTOR: OK. Are an have you been diagnosed with any medical conditions in the past?
+PATIENT: No.
+DOCTOR: OK, so do you take any medications, either prescribed or over the counter?
+PATIENT: Um no, I just take some multivitamins.
+DOCTOR: OK, and do you have any allergies to medications?
+PATIENT: Um no.
+DOCTOR: OK, and have you had any hospitalizations or prior surgeries?
+PATIENT: I I had a fracture when I was younger. It was in my humerus bone on the right side.
+DOCTOR: OK, so it's the to the fracture was on the other arm?
+PATIENT: Yes.
+DOCTOR: OK, and did that heal OK?
+PATIENT: Yes.
+DOCTOR: Alright then. Can you tell me about your living situation? Currently, like whereabouts and who you're living with?
+PATIENT: I live with my partner of five years. We live in an apartment together.
+DOCTOR: OK, and are you working currently?
+PATIENT: I am.
+DOCTOR: And what do you do?
+PATIENT: I work on the assembly line for Chrysler.
+DOCTOR: OK, uh, and uh. Do you do repetitive tasks at work?
+PATIENT: I do.
+DOCTOR: OK, yeah, do you notice this, uh pain after, more so after a shift or after after a long day?
+PATIENT: Yes, definitely.
+DOCTOR: OK, and what types of hobbies do you have, like do you play golf or tennis or or any kind of like, sports I guess?
+PATIENT: Yeah, I used to play golf before this pain in my arm and my elbow, so I haven't played it in the past like six months.
+DOCTOR: OK, um OK and um do you smoke cigarettes?
+PATIENT: I don't.
+DOCTOR: And do you drink alcohol?
+PATIENT: Um I'll have a glass of wine every other day.
+DOCTOR: OK, and how about the use of any recreational drugs like cannabis or or anything else?
+PATIENT: I'll smoke a joint once a week.
+DOCTOR: OK, alright and. Is there any family history of any heart or lung problems?
+PATIENT: No.
+DOCTOR: Any musculoskeletal or neurological diseases?
+PATIENT: Um no.
+DOCTOR: OK, I got any autoimmune diseases like thyroid disease or diabetes?
+PATIENT: No.
+DOCTOR: OK, um and so next I wanted to walk through a physical exam, so when you look at the elbow yourself, do you see any swelling or redness?
+PATIENT: No.
+DOCTOR: OK, does it look like there is any muscle atrophy either in the forearm or the biceps or triceps?
+PATIENT: No.
+DOCTOR: OK, and how about any misalignment or joint deformity?
+PATIENT: No, I don't see any of that.
+DOCTOR: OK, and are there any scars?
+PATIENT: No.
+DOCTOR: OK, and when you press on the medial part of the the elbow, do you feel pain?
+PATIENT: I do.
+DOCTOR: How about over the olecranon or the, yea any pain over the olecranon?
+PATIENT: Um a little bit.
+DOCTOR: OK, and is there any pain over the lateral part of the elbow?
+PATIENT: No.
+DOCTOR: OK, an any pain over the forearm, or biceps, or triceps muscles?
+PATIENT: No.
+DOCTOR: OK, and does the joint feel like it's hot?
+PATIENT: No.
+DOCTOR: OK, and any pain with shoulder or elbow movements?
+PATIENT: No.
+DOCTOR: OK.
+PATIENT: Actually, sorry with the elbow when I straighten it out all the way it hurts a little bit.
+DOCTOR: OK, when are you straightening it out all the way OK, But no pain with shoulder movements and full range of motion?
+PATIENT: No, no pain with shoulder.
+DOCTOR: OK. And how about pain with pronation and supination?
+PATIENT: With pronation it hurts.
+DOCTOR: OK, at the medial side?
+PATIENT: Yes.
+DOCTOR: OK and how about with wrist. So with resisted uh, yeah, wrist flexion?
+PATIENT: Wrist flexion yeah. That hurts too.
+DOCTOR: OK, and then how about if you passively extend your your wrist as far down as as you can go?
+PATIENT: Down uh yes. That hurts too.
+DOCTOR: OK. And is there any numbness or tingling anywhere?
+PATIENT: No, no, no numbness or tingling.
+DOCTOR: OK. OK, so that was everything that I wanted to ask about today. Was there anything else that you wanted to mention?
+PATIENT: No, that was that. What do you think I have and how can I fix it?
+DOCTOR: Yeah, so it. It's certainly it it sounds like with the medial aspect of your elbow having pain there over the last several months and some of the physical exam maneuvers, such as like passive wrist extension, resisted wrist flexion as well as pronation and the point tenderness over the medial elbow this could be a medial epicondylitis or a tendinopathy in that area. And so this is typically treated with activity modification, so this could be trying to avoid repetitive movements that that cause pain. And using medications such as Advil and Tylenol and doing strengthening and stretching exercises, which you can learn from a physiotherapist or or on your own as well. And also other things that that the medial side of the elbow that it could be is an ulnar ligament injury. Um or yeah, or the other thing to be considering is and ulnar ligament injury and so if the pain isn't going away, then we might consider an ultrasound or something to look at the structures there.
+PATIENT: OK, that sounds great. Thank you.

@@ -1,0 +1,163 @@
+DOCTOR: PATIENT?
+PATIENT: Hello.
+DOCTOR: Just have a seat.  Hi I'm DOCTOR.  I'll be seeing you today.
+PATIENT: Okay.
+DOCTOR: Um I think you saw DOCTOR.
+PATIENT: Yes.
+DOCTOR: But he graduated.  You'll be having me from now on.
+PATIENT: Okay.
+DOCTOR: How are you doing today?
+PATIENT: Well I'm doing fine so far.
+DOCTOR: Any complaints or anything out of the ordinary?
+PATIENT: No.
+DOCTOR: No complaints okay and um I see that you're following with Cardiology and the Coumadin Clinic pretty regularly.
+PATIENT: Oh yeah.
+DOCTOR: You saw Cardiology earlier this summer.
+PATIENT: Yes.
+DOCTOR: And um they basically said you were pretty good, just to keep going with what you were doing.
+PATIENT: Uh-huh.
+DOCTOR: Um, no chest pain right now, no shortness of breath?
+PATIENT: No, no chest pain.
+DOCTOR: That's good.  And you're taking all your medications that you're supposed to?
+PATIENT: Yeah.  I'm taking.
+DOCTOR: So you're taking the Coumadin?
+PATIENT: Coumadin.
+DOCTOR: Are you taking the Digoxin?
+PATIENT: Digoxin.
+DOCTOR: The finasteride?
+PATIENT: Right.
+DOCTOR: The omeprazole?
+PATIENT: Yes.
+DOCTOR: The amlodipine?
+PATIENT: Uh-huh.
+DOCTOR: The flunisolide for your allergies?
+PATIENT: Yeah now that's, well I guess it helps but you know I still do a lot of sneezing.
+DOCTOR: Yeah, yeah.  How about the loratadine are you taking that too?
+PATIENT: Yeah I take that yes.
+DOCTOR: Uh-huh.  And the losartan?
+PATIENT: Losartan that's the.
+DOCTOR: And the sublingual nitroglycerin?
+PATIENT: Yeah.
+DOCTOR: And the simvastatin?
+PATIENT: Simvastatin yeah.
+DOCTOR: And the terazosin and carvedilol?
+PATIENT: Yes.
+DOCTOR: Okay.  Any other medicines that I'm missing?
+PATIENT: No.
+DOCTOR: Okay and um uh do you smoke?
+PATIENT: No.
+DOCTOR: Have you ever smoked?
+PATIENT: Uh I smoked in '85, I stopped smoking.
+DOCTOR: You quit in '85 and then how much were you smoking before then?
+PATIENT: A half a pack a day.
+DOCTOR: And for how many years?
+PATIENT: Oh that was like 25 years.
+DOCTOR: Okay and then alcohol use or drug use?
+PATIENT: No, never.
+DOCTOR: Okay.  Have you ever had history disease in your family at all?
+PATIENT: No.
+DOCTOR: Okay and I'm just going to go through a bunch of different symptoms.  If you've had any of these symptoms then stop me and let me know okay.
+PATIENT: If I had any symptoms?
+DOCTOR: Any of these symptoms right now.
+PATIENT: Oh now.
+DOCTOR: I'm just going to go through a bunch of them.  Just let me know.
+PATIENT: Oh okay.
+DOCTOR: Fevers, chills, weight loss, weight gain, headaches, changes in your vision, changes in your hearing?
+PATIENT: No.
+DOCTOR: Runny nose, stuffy nose, sore throat, cough, coughing up blood, um chest pain, shortness of breath, shortness of breath with exertion um feeling your heart beating faster in your chest, have swelling in your legs.
+PATIENT: No.
+DOCTOR: Um not being able to breathe when lying flat.
+PATIENT: No.
+DOCTOR: Uh any nausea, vomiting, vomiting up blood, trouble with swallowing your food, stomach pain, diarrhea, constipation, blood in your stool, either bright red or dark black, blood in your urine, pain when you urinate, urinating more than normal, um any rashes, ulcers or lesions on your skin um any back pain, neck pain, joint pain or muscle pain at all?
+PATIENT: No.
+DOCTOR: Okay so.
+PATIENT: Now you know, you know like when I had the.
+DOCTOR: [REDACTED].
+PATIENT: Yeah but when I sneeze when I.
+DOCTOR: And all, you're only taking the nasal spray and how often are you taking the Claritin or the losartan?
+PATIENT: I take it every day.
+DOCTOR: Every day and it's not really helping much?
+PATIENT: I was gonna say it might be helping.
+DOCTOR: Have you ever.
+PATIENT: [REDACTED].
+DOCTOR: You haven’t been taking it as much?
+PATIENT: I take the same yeah.
+DOCTOR: You take the same okay.  Maybe, have you ever been to an allergist?  Can you please sit up here?  We can try something else to try to control it.
+PATIENT: Okay.
+DOCTOR: How many times are you using the sprays?
+PATIENT: The spray I'm supposed to use it every day but I know some days I miss.
+DOCTOR: Can you breathe in and out?  Again.  Okay lay back.  Does it hurt when I press here?
+PATIENT: No.
+DOCTOR: Can you sit up.  Do you still spray these every day as well?
+PATIENT: Do what?
+DOCTOR: The sprays.
+PATIENT: I spray yes.
+DOCTOR: How often, many times a day?
+PATIENT: Most of the time I only use once a day.
+DOCTOR: Oh just once a day?
+PATIENT: Yeah.
+DOCTOR: You can use it twice a day.
+PATIENT: Twice a day.
+DOCTOR: I will double check because that might help with your symptoms.
+PATIENT: Okay.
+DOCTOR: Take a look at me and take your hat off for a second.
+PATIENT: Oh okay.
+DOCTOR: And just look straight at me, open your eyes a little and you had surgery right on your eyes.
+PATIENT: On my eyes yeah.
+DOCTOR: Can you open the left one really wide please?  Okay so just follow my finger like this okay good.  Okay open your mouth, stick your tongue out, okay good.  And no swelling anywhere?
+PATIENT: No.
+DOCTOR: Okay I'm gonna go talk to my boss and then I'll be back okay.
+PATIENT: Alrighty.  Okie doke.
+DOCTOR: I'll be right back.
+(DOCTOR OUT:  37:37  DOCTOR IN:  47:01)
+DOCTOR: Hi.
+PATIENT: Okay, hi.
+DOCTOR: You’re doing pretty well.
+PATIENT: Okay.
+DOCTOR: And we'll see you back in six months.
+PATIENT: Alright.
+DOCTOR: Do you need any refills on any medicines?
+PATIENT: Uh the Coumadin.
+DOCTOR: The Coumadin okay.
+PATIENT: Yes.
+DOCTOR: How much are you taking?
+PATIENT: I take that once a night.
+DOCTOR: How many milligrams?
+PATIENT: Oh it's 5.
+DOCTOR: 5 mg a night?
+PATIENT: I think.
+DOCTOR: Let me check, 4.
+PATIENT: Oh uh.
+DOCTOR: Do you want it mailed to you?
+PATIENT: I want it mailed yeah, yeah.  I've got enough of that when I ain't got enough of that so I'll come back.
+DOCTOR: Yeah I'll mail it to you right now.  Okay [REDACTED].
+PATIENT: Oh carvedilol, carvedilol get me some of that.
+DOCTOR: Okay.
+PATIENT: Alright.  I have some but I may not have enough to make it.
+DOCTOR: Okay.
+PATIENT: If I can get that.
+DOCTOR: So are you still taking the carvedilol?
+PATIENT: Carvedilol yes.
+DOCTOR: You're still taking it?
+PATIENT: I take that twice a day, half pill.
+DOCTOR: Do you want them to mail it to you then?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Okay.
+PATIENT: Okay.
+DOCTOR: That's it.
+PATIENT: Thank you.
+DOCTOR: Okay, nice meeting you.
+PATIENT: Okay.
+DOCTOR: And that should be all.
+PATIENT: Okay.
+DOCTOR: And they will [REDACTED] an appointment for you so they should send you a letter about when it's gonna be.
+PATIENT: Oh okay they'll send me a letter okay.
+DOCTOR: Okay, take care.
+PATIENT: Alrighty thank you.  You want this closed?
+DOCTOR: Yeah.
+PATIENT: Hmm okay.  Okay.
+PATIENT: 49:42.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1275423
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,462 @@
+DOCTOR: Patient?
+PATIENT: Yes.
+DOCTOR: Hi.
+PATIENT: How you doing?
+DOCTOR: Good.  How are you patient?
+PATIENT: I'm doing fine.
+DOCTOR: Good.  You had a bit of a sun burn huh?
+PATIENT: Right.  Oh I play a lot of golf yeah.
+DOCTOR: Were you outside?  Oh, do you put sunscreen on?
+PATIENT: Yes I do.
+DOCTOR: Oh good.  Your skin is fair so you should probably put sunscreen on, lots of it.
+PATIENT: Yeah.
+DOCTOR: What SPF do you use?  Have a seat for me.  Have a seat.
+PATIENT: Okay.
+DOCTOR: SPF, do you use 30 or 15 or what?
+PATIENT: I don't know what it is; it's called Sports Block or something.
+DOCTOR: Okay.
+PATIENT: I see a dermatologist here too.
+DOCTOR: Oh good.
+PATIENT: I go in this month too.
+DOCTOR: Oh good, alright.
+PATIENT: It's on.
+DOCTOR: What can I help you with today sir?
+PATIENT: Uh let's see well uh, um, I wanted to check on my medications.
+DOCTOR: Okay.
+PATIENT: You know what I've been having trouble with my back and my shoulder and my wife takes Celebrex so we tried, I used some Celebrex and it went away and then I quit taking it and it came back and then I used a few more and it went away.
+DOCTOR: Celebrex huh.
+PATIENT: Yeah.
+DOCTOR: You're not taking that here?
+PATIENT: No I'm not.
+DOCTOR: Okay.
+PATIENT: And so I wanted to find out if I could, if I could get my own Celebrex.
+DOCTOR: Sure um.
+PATIENT: And.
+DOCTOR: Is it arthritis pain or just.
+PATIENT: Well it must, it must be.
+DOCTOR: Is it a new kind of pain?
+PATIENT: Well.
+DOCTOR: Is it a new kind of pain or just like before?
+PATIENT: I used to take it occasionally, I mean I would take Aleve before I'd play golf and it would help.
+DOCTOR: It would help?
+PATIENT: And now I haven't taken any Aleve since I take the Celebrex.
+DOCTOR: Okay.
+PATIENT: So it has to, my shoulder and my back it must be and I do see a chiropractor.
+DOCTOR: Uh-huh.
+PATIENT: On a regular basis, every six to eight weeks and so I wanted to find out about that and you know a lot of times my blood pressure's still high and it probably, let's see today it was like 140 I think and uh.
+DOCTOR: Yeah.
+PATIENT: And in the afternoons my ankles have been swollen up.
+DOCTOR: Are you on your ankle, are you on your feet every day or?
+PATIENT: I walk.
+DOCTOR: Yeah.
+PATIENT: I walk every morning about a mile and a half.
+DOCTOR: Is it worse at the end of the day?
+PATIENT: I play golf.  I'm on my feet a lot.
+DOCTOR: Okay.  Do you, have you tried elevating them?
+PATIENT: I put my feet up in the evenings and it.
+DOCTOR: So does it help?
+PATIENT: It seems to go away.
+DOCTOR: Oh good.
+PATIENT: And when I wake up in the morning they're normal but I've been sitting a lot now out there.  I've been here since 8 o'clock.
+DOCTOR: Okay.  Any numbness, tingling?  Your appointment is 10:30 though.
+PATIENT: I know but they called and told me to go to the Lab very early.
+DOCTOR: Okay, okay.
+PATIENT: And uh traffic wasn't as bad as I thought it would be.
+DOCTOR: Yeah.
+PATIENT: So I know since I, well I got to the Lab about 20 to 9.
+DOCTOR: Okay, okay.  Any numbness, any tingling, any weakness in the legs?
+PATIENT: No.
+DOCTOR: Or is it just the swelling?
+PATIENT: No it's just, it started happening I think in January we noticed it started happening.
+DOCTOR: Uh-huh.
+PATIENT: And I was looking at my list of medications and I don't, I don't know what this one is.  I don't think I have any of that.
+DOCTOR: Lisinopril?
+PATIENT: Yeah what is that?
+DOCTOR: It's for blood pressure.  Do you still take it?
+PATIENT: I take uh; I take the pink one in the morning which is hydro something.
+DOCTOR: Okay.
+PATIENT: And um and then a half of meta something.
+DOCTOR: Metoprolol?
+PATIENT: Yeah.
+DOCTOR: Yeah.
+PATIENT: Yeah I take a half of that and then at lunch I take here I didn't take them today cause I'm fasting.  Uh I take this pill which is nifedipine.
+DOCTOR: Nifedipine yeah.
+PATIENT: Yeah at lunch.
+DOCTOR: Okay.
+PATIENT: This is the one I take at breakfast along with the half of that and then and then at night I take another half of the meto.
+DOCTOR: Metoprolol.
+PATIENT: Yeah, yes.
+DOCTOR: Yeah so.
+PATIENT: Along with the simvastatin.
+DOCTOR: Yeah it would be good um, it would be good for you to bring the bottle cause I don't, cause when you bring it like that I'm not sure.
+PATIENT: Well I know what they are but yeah.
+DOCTOR: Okay.
+PATIENT: But this one I haven't been taking this one.
+DOCTOR: You haven't?
+PATIENT: No I don't know what it is.
+DOCTOR: It's for blood pressure.
+PATIENT: Okay so.
+DOCTOR: Lisinopril yeah.
+PATIENT: For some reason they haven't been.
+DOCTOR: Oh you still have refills on it.  Have you been calling them and ask them to. (Someone knocks on the door and the doctor visits with another person for a few minutes)  Sorry about that sir.
+PATIENT: Oh that's no problem.  Um so the lisinopril I probably should be taking that and I don't.
+DOCTOR: Yeah, right, right.
+PATIENT: I don't even know what it looks like.
+DOCTOR: Oh.  Okay it looks like you have two refills left so it must have been that when you called them to ask them to ship your, maybe you didn't ask for that.
+PATIENT: Uh some of them they automatically come.
+DOCTOR: [REDACTED].
+PATIENT: And then if I running low and I'm gonna go out of town or something I call and order it.
+DOCTOR: Okay hmm.  I wonder what happened.
+PATIENT: So I have to order that lisinopril uh-huh.
+DOCTOR: Yeah.  Do you still take cetirizine?
+PATIENT: I'm sorry?
+DOCTOR: For allergies?
+PATIENT: Yeah, yeah I do, yeah.
+DOCTOR: Okay.  How long have you been on the hydrochlorothiazide?
+PATIENT: Hydro oh the pink pill?
+DOCTOR: Yeah the blood pressure pill.
+PATIENT: Since the beginning.
+DOCTOR: So a long time.
+PATIENT: Yes.
+DOCTOR: Years?
+PATIENT: Well you're the first person I've seen.
+DOCTOR: For almost a year.
+PATIENT: Well I mean it's worth taking.  [REDACTED] or something before.
+DOCTOR: Oh yes.
+PATIENT: It was all in one?
+DOCTOR: I remember.
+PATIENT: And then we split it to the hydro and the metro or whatever they call it.
+DOCTOR: Yeah.
+PATIENT: I can't, metoprolol tartrate, they split with that and uh hydrochlorazine.
+DOCTOR: No leg cramps, muscle cramps or anything?
+PATIENT: I get a, uh once in a while I get a muscle cramp you know in here but I don't think it uh.
+DOCTOR: No okay.
+PATIENT: It's nothing that happens all the time.
+DOCTOR: Yeah.
+PATIENT: You know it's like.
+DOCTOR: And you're taking the um, you're taking doxycycline.  Is that for the rosacea?
+PATIENT: Yes.
+DOCTOR: Okay.  You see Dermatology here correct?
+PATIENT: Yes I see her in about another ten days.
+DOCTOR: Okay and you let's see, you're not doing any, do you still see DOCTOR for the lung problems?
+PATIENT: Uh yes.  Actually my lungs are getting a little better.
+DOCTOR: Great, great.
+PATIENT: The last time it was about 15% better.
+DOCTOR: Great, great.  Um what about your heartburn is that better or the same?
+PATIENT: I don't have heartburn ever since I started taking a pill.
+DOCTOR: Omeprazole?  Great.
+PATIENT: Well I take uh; I started off with actually years and years and years ago when it first came out, the Prilosec.
+DOCTOR: Yeah.
+PATIENT: And now I take the omeprazole which is cheaper.
+DOCTOR: Yeah and it works better.
+PATIENT: And it works just as fine, actually every three years I have a scope done with my.
+DOCTOR: Outside doctors.
+PATIENT: Uh outside doctor.
+DOCTOR: Looks like you're due in [REDACTED]@ so next year you'll get that.
+PATIENT: Yeah he'll probably call me and I put it off for a while.
+DOCTOR: Yeah.  No weight loss?
+PATIENT: It's getting better.
+DOCTOR: It's getting better.  No weight loss, no fevers, no chills, no night sweats?
+PATIENT: No night sweats or anything, no nothing.
+DOCTOR: Nausea, no vomiting, no belly pain?
+PATIENT: No.  I just, I'm still concerned about my blood pressure though because like I take it at home.
+DOCTOR: Yeah.
+PATIENT: And I have a machine.
+DOCTOR: Yeah.
+PATIENT: This morning I took it, it was 140 something over 66.
+DOCTOR: So you didn't take your meds yet right?
+PATIENT: No I hadn't taken any meds but I took it this morning just to compare with what would happen here.
+DOCTOR: Uh-huh.
+PATIENT: You know it's 139/70.
+DOCTOR: Uh-huh.
+PATIENT: And uh you know.
+DOCTOR: That's, that's borderline.  You don't have heart disease, you don't have diabetes right?
+PATIENT: No.
+DOCTOR: So what's the goal for you.  The goal for you is to be less than 140/80.  You're borderline.
+PATIENT: Yeah I want to be.
+DOCTOR: Right so I would rather you be in the 130s.
+PATIENT: So would I.
+DOCTOR: So the fact that you didn't take your medicine today.
+PATIENT: Yeah but.
+DOCTOR: And if that's the.
+PATIENT: I don't usually take my blood pressure early.  I usually take it in the afternoon.
+DOCTOR: Right, right and the fact that you haven't been taking the lisinopril, cause the lisinopril will drop your blood pressure too.
+PATIENT: Okay.
+DOCTOR: So that could be the reason.
+PATIENT: When should I take, when should I take the lisinopril?
+DOCTOR: In the morning, take it in the morning.
+PATIENT: With the other pill too?
+DOCTOR: Uh-huh.  Take the lisinopril and if you feel lightheaded or dizzy check your blood pressure and if it's too low like too low.
+PATIENT: But it'll never be low.
+DOCTOR: Less than 100s then you can call me and I'll have you come back in about two weeks okay uh for blood pressure checks and we'll see where we are.
+PATIENT: Uh can I do that on the 19th?
+DOCTOR: Sure.  Do you have an appointment then?
+PATIENT: Cause I have an appointment with the dermatologist.
+DOCTOR: Why don't you, fine.  You come on the 19th uh for a blood pressure check and then get your labs too.  I want to check one more thing.  I know you had it this morning.  Your cholesterol was fine.
+PATIENT: Everything's fine?  Blood sugar.
+DOCTOR: Your cholesterol was fine.  Your blood sugar is okay.  The only thing is I need to know your BNP, your kidney function and everything which was not checked today.  So you'll come back the 19th, you'll get lab draws.
+PATIENT: Oh okay.
+DOCTOR: Now do you see a primary care doctor on the outside too or is it just the chiropractor?
+PATIENT: No I mean, no I haven't needed to, I could if I wanted to but I.
+DOCTOR: Ah.
+PATIENT: Ah, ah.
+DOCTOR: No cough, no postnasal drip?
+PATIENT: No.
+DOCTOR: No.  Your hearing is okay?
+PATIENT: With my hearing aids.
+DOCTOR: Alright.
+PATIENT: Hearing is fine.
+DOCTOR: With the hearing aids.
+PATIENT: Yeah.
+DOCTOR: Okay.  Do you think the rosacea is better with the cream?
+PATIENT: Yes.
+DOCTOR: [REDACTED]
+PATIENT: Yes.  I don't use the cream.
+DOCTOR: You don't use the cream.
+PATIENT: I haven't had to.  I only take one pill.
+DOCTOR: Okay.  Deep breath in and out.  Do you have pain?
+PATIENT: No.
+DOCTOR: Pain?
+PATIENT: No.
+DOCTOR: Any constipation, diarrhea?  Go ahead and lay down for me.
+PATIENT: Lay down?
+DOCTOR: Diarrhea, constipation?
+PATIENT: No thank God.
+DOCTOR: Black tarry stools, blood in your stools?
+PATIENT: What was the first one?
+DOCTOR: Black stools, black diarrhea.
+PATIENT: No.
+DOCTOR: No.  Any pain?
+PATIENT: No.
+DOCTOR: Oh no, well how did you scrape yourself?
+PATIENT: Oh.
+DOCTOR: Your knee is bleeding.
+PATIENT: Oh I uh, I scratched something on it, it’s okay.
+DOCTOR: Oh dear.
+PATIENT: It'll quit.
+DOCTOR: Now do you think your swelling is getting worse to the point that you want some stockings?
+PATIENT: Uh no.
+DOCTOR: No?  No numbness right?
+PATIENT: No.
+DOCTOR: Alright.  Go ahead and sit up.  Your strength is pretty good?
+PATIENT: Yes.
+DOCTOR: You said you have back pain huh and your hips?
+PATIENT: Well I had some pain, every once.  I got hurt when I was a kid and I got uh, um, so I go to the chiropractor uh quite often.
+DOCTOR: Does it help?
+PATIENT: And I think it's getting a little arthritic.
+DOCTOR: Uh-huh.
+PATIENT: So I was trying to um keep my golf game going.
+DOCTOR: Uh-huh.
+PATIENT: And then I uh and I got uh to where I've had to take Aleve.
+DOCTOR: Yeah.
+PATIENT: Oh I scratched a thing there.
+DOCTOR: Yeah.
+PATIENT: There was a little spot there and I was sitting here and I scratched it.
+DOCTOR: Yeah, go ahead and sit up.
+PATIENT: So I did the um so I, my wife said why don't you try one of my Celebrex.
+DOCTOR: Uh-huh.
+PATIENT: So I took.
+DOCTOR: Okay.
+PATIENT: I took it for two days.
+DOCTOR: And it really helped you?
+PATIENT: And it helped so then I thought well, so I went off.
+DOCTOR: Okay.
+PATIENT: And then it came back.
+DOCTOR: Yeah right.
+PATIENT: And then I took it again and it went away.
+DOCTOR: Okay.  So we have the hip pain right here, where is it?
+PATIENT: It's back in here, back here, right about in here.
+DOCTOR: Okay alright.  Does it go anywhere or does it stay there?
+PATIENT: It stays there.
+DOCTOR: Okay.  No numbness, no tingling in the legs?
+PATIENT: No.
+DOCTOR: No pain traveling down your legs?
+PATIENT: No.
+DOCTOR: No weight loss?
+PATIENT: Well you know I used to drive a lot when I was in uh when I was working.  I had, I worked a lot in the car.
+DOCTOR: Uh-huh.
+PATIENT: So my leg would get sore.
+DOCTOR: Yeah.
+PATIENT: So I, this might all be related you know but uh when I gave up my sales, I had to drive for sales and when I stopped doing that it kind of went away.
+DOCTOR: Okay.  No bowel, no bladder incontinence like trouble, no nothing like that.
+PATIENT: No.
+DOCTOR: No um kind of numbness in the genital area, nothing like that?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No I'm good.
+DOCTOR: Okay alright.  So it's the same kind of pain that you've had for years but it's just like you were taking Aleve.
+PATIENT: I was taking Aleve or um Advil.
+DOCTOR: But [REDACTED] more.
+PATIENT: That kind of stuff and.
+DOCTOR: Okay.
+PATIENT: And uh.
+DOCTOR: Alright.
+PATIENT: Now I haven't been taking any Aleve, no Advil.
+DOCTOR: Have you, have you been checking um or has anyone gotten like an x-ray of that area?
+PATIENT: Well my chiropractor.
+DOCTOR: Okay.
+PATIENT: Oh yeah, yeah cause he works on it.
+DOCTOR: Okay.
+PATIENT: I think it's something that uh um when I was a kid I had a bout with some railroad ties, lifting railroad ties and that part of my back went out.
+DOCTOR: Umm okay.
+PATIENT: And every once in a while if I turn the wrong way I can hurt it.
+DOCTOR: Yeah.
+PATIENT: I mean it's just like if you're off balance and you lean some way, you know and it goes right back to that same spot.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Okay.
+PATIENT: But I think that because of all this, it's probably become arthritic.
+DOCTOR: Hmm.
+PATIENT: So you think the uh, this lisinopril or whatever might, might help the swelling down too?
+DOCTOR: The what, the lisinopril?
+PATIENT: Yeah.
+DOCTOR: No, no.
+PATIENT: What's causing the swelling in the ankles?
+DOCTOR: You know um I don't, I mean.  Sometimes one of your medicines can, the nifedipine can do it, nifedipine might do it.
+PATIENT: It just seems like it didn't start for uh till about I don't know.
+DOCTOR: It's new.
+PATIENT: Last December or January.
+DOCTOR: You know it should not, I don't know, it shouldn't.
+PATIENT: Okay.
+DOCTOR: Yeah um.  Alright what else do you need, so we'll get labs?
+PATIENT: You need one more lab huh?
+DOCTOR: Yeah June 19th you can come back for a blood pressure check to when you're taking the lisinopril okay.
+PATIENT: Okay.
+DOCTOR: Do you want to pick up the lisinopril today in the Pharmacy so you can start taking it?
+PATIENT: Will they have it ready for me or?
+DOCTOR: I'm not sure, I'm not sure.  Are you in a hurry today?  If you are.
+PATIENT: I'm not in that big of a hurry I mean.  I mean we can just, you can just.
+DOCTOR: Send it to you.
+PATIENT: Or it could be sent to me.
+DOCTOR: Yeah.
+PATIENT: You know I mean it's not like that critical I don't think.
+DOCTOR: Yeah.  No, no, it should be okay.
+PATIENT: Just have it, you're gonna have it sent to me then okay.
+DOCTOR: I'll have it sent to you.
+PATIENT: Can we try some?
+DOCTOR: And you come back on the 19th.
+PATIENT: Could we try some uh?
+DOCTOR: Yeah we can try some Celebrex.
+PATIENT: Uh are you gonna get me a prescription for that?
+DOCTOR: Yes.  Do you want me to send it to you to?
+PATIENT: Yeah have them send that to me.
+DOCTOR: How often are you using it?
+PATIENT: I wouldn't take more than one a day and I probably wouldn't take one every day if I didn't have to.
+DOCTOR: Okay.
+PATIENT: You know I mean.
+DOCTOR: Right.
+PATIENT: I would probably take it.
+DOCTOR: It's worse when you move around right?  When you walk and you move around when you're golfing?
+PATIENT: Um mostly golfing or uh then my, you know I do a lot of, I do a lot of woodworking and I keep very busy.  I do painting, I do all kinds of stuff so uh my shoulder was bothering me and then I had a shot last year um, a cortisone shot.
+DOCTOR: And it helped?
+PATIENT: And it helped.
+DOCTOR: Good.
+PATIENT: And then all of a sudden it come back and then I started taking the Celebrex and it went away.
+DOCTOR: Where did you have that shot?  Was it on the outside that you had it?
+PATIENT: Outside yeah.
+DOCTOR: Oh okay.
+PATIENT:
+DOCTOR: think his names is DOCTOR or something like that.
+DOCTOR: Yeah okay.
+PATIENT: And my wife has uh osteoarthritis so she's had joints replaced, two knees, a shoulder and two thumbs.
+DOCTOR: Umm okay.
+PATIENT: And she's ready for another shoulder.
+DOCTOR: Okay, sorry to hear that.  Let me go get stuff for you.
+PATIENT: What are we getting?
+DOCTOR: Um I'm going to get an appointment, next time appointment for you, get labs for you when you come on the 19th.
+PATIENT: Okay.
+DOCTOR: And hopefully you'll get that medicine.
+PATIENT: I think my appointment on the 19th is.
+DOCTOR: Dermatology right?
+PATIENT: Around 10:30.
+DOCTOR: Okay you can do it after or before, whichever you prefer.
+PATIENT: Okay fine, fine.
+DOCTOR: I'll be right back.
+DOCTOR: 118:58   DOCTOR IN:  129:49
+DOCTOR: Alright.
+PATIENT: I got to remember not to wear shorts when I come back.  It's too cold in here.
+DOCTOR: Yeah.  Um, um so one thing is um, I'll send you the lisinopril.  Unfortunately I was asking one of the doctors who's worked here for a longer time than I did.  I am um; they say that Celebrex we have to get special approval because it's expensive and you know how.
+PATIENT: Okay.
+DOCTOR: Especially at the VA.  So let me, let me try to get that for you okay.  I can put in a consult through the system.  They'll review it and they'll let me know if you can get it for you.  Some patients are on it, I can make sure that you know.
+PATIENT: Yeah.
+DOCTOR: In your case it's indicated which I think it is, but I'll let you know but if not you can always ask your outside doctor to prescribe it for you too.  But I'll let you know though.
+PATIENT: Yeah I'd rather get it through.
+DOCTOR: I know.
+PATIENT: The VA because its.
+DOCTOR: Yeah let me, let me work on that for you.
+PATIENT: Okay.
+DOCTOR: I want to get you and come back on the 19th for a blood pressure check okay.
+PATIENT: Blood pressure check yeah.
+DOCTOR: And then lab.
+PATIENT: And then lab.
+DOCTOR: Yeah so that would.
+PATIENT: Now that's for the kidney right?  Does that also test liver functions too?
+DOCTOR: I can get yeah; I'll check liver function at that time too.
+PATIENT: Yeah.
+DOCTOR: So I'm gonna yeah I'm gonna do, this is June 19th okay.
+PATIENT: Yes.
+DOCTOR: I'll put in the labs and then you can see me in six months.  Obviously if you [REDACTED] need to.
+PATIENT: Uh-huh.
+DOCTOR: And then.
+PATIENT: So what I shouldn't worry about my ankles then unless they've started getting numb or something?
+DOCTOR: Yeah if you start, again if you start, if you start to feel that you know propping them up isn't helping as much or if you have any numbness or tingling and you think it's getting bigger, call me and let me know.  I think it's a little bit of that medicine that you're on.  Nifedipine, it can give you a little bit of swelling so.
+PATIENT: The one I take after lunch?
+DOCTOR: I just don't know which one, nifedipine that's the and uh.
+PATIENT: It's uh yeah it's uh.
+DOCTOR: The calcium channel blocker.
+PATIENT: Yeah I have the.
+DOCTOR: So let me, I mean let me know, I mean since the medicine is working for you let's continue it but if it's getting to the point where it's getting worse and you want to switch medicines, then we can do that too.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah.  I mean um you know they, I was only taking a half dose of the nifedipine.
+DOCTOR: Nifedipine 60 mg.
+PATIENT: Yeah and now they doubled that.
+DOCTOR: 60?
+PATIENT: Yeah to 60.  It was 30.
+DOCTOR: Okay.
+PATIENT: And they went to.
+DOCTOR: That might have been why.
+PATIENT: Maybe that's when it started.
+DOCTOR: Well we can maybe, well did I do that?  I doubled it to 60 right when you saw me?
+PATIENT: Yeah I saw the uh, your assistant, what's the name?
+DOCTOR: Oh okay.
+PATIENT: The young lady.
+DOCTOR: NAME?
+PATIENT: NAME.
+DOCTOR: Yeah.
+PATIENT: Yeah NAME yeah.  I saw her and one time after I saw you and then.
+DOCTOR: Okay.
+PATIENT: I told her, they said my blood pressure is still too high so they doubled it.  Maybe that's when that started, I'm not.
+DOCTOR: I think yeah it might have been, so let's take the lisinopril.  If the lisinopril is controlling your blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: Then we'll go easy on the nifedipine, how's that?
+PATIENT: It's a deal.
+DOCTOR: Okay.  Lab on the 19th okay?
+PATIENT: Lab on the 19th and I can come anytime I want?
+DOCTOR: Yes, yes.
+PATIENT: Okay.
+DOCTOR: I'll put in the order and you should not need to call for your set-up here okay.
+PATIENT: And you're gonna check the kidney and liver?
+DOCTOR: I'm gonna check your kidneys, your liver and your blood cells.
+PATIENT: Okay.
+DOCTOR: And your blood.
+PATIENT: I think I asked what nationality you were.
+DOCTOR: Yeah.
+PATIENT: What are you?
+DOCTOR: You don't remember?
+PATIENT: No I don't.
+DOCTOR: I'm Vietnamese.
+PATIENT: Oh okay.
+DOCTOR: So.
+PATIENT: I'm here now huh.
+DOCTOR: Yeah.
+PATIENT: What do I do here?
+DOCTOR: Yeah or you know I'll just come here and they'll help you.
+PATIENT: Okay.
+DOCTOR: Alright we'll see you in six months alright.
+PATIENT: 134:10.
+Time is 11:17.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38216
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,413 @@
+DOCTOR: Patient?
+PATIENT: Hi, how are you?
+DOCTOR: Good how are you?
+PATIENT: Good.
+DOCTOR: [REDACTED] right?
+PATIENT: No that's just my list [REDACTED].  But I fit the blood type.
+DOCTOR: Okay, we need to talk about your blood type.
+PATIENT: Yeah, yeah.
+DOCTOR: How have you been?
+PATIENT: Okay.
+DOCTOR: Okay.  Right here.  Everything okay?
+PATIENT: Uh yeah I've had uh, just another sort of sinus headaches the last two weeks but that ain't why I'm here today.  I'm here because I was here in March.
+DOCTOR: Uh-huh.
+PATIENT: Something with my uh, anyway since winter I've had a sinus issue but I had to go to the ENT Clinic.
+DOCTOR: Here?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: But in March I had this feeling in here.
+DOCTOR: Chest pain?
+PATIENT: Not a pain, it was like um I think you better take me to the Emergency Room kind.
+DOCTOR: You did.
+PATIENT: I did.
+DOCTOR: Did they admit you?  Did they send.
+PATIENT: No.
+DOCTOR: Send you up to the hospital?
+PATIENT: I saw them there.  No they kept me and I think they hooked me up to whatever they do when they think it’s your heart.
+DOCTOR: In March?
+PATIENT: I believe it was, March, April it should be.
+DOCTOR: Okay you said you [REDACTED] palpitations.
+PATIENT: Yeah and I didn't know why and since then I had it once.  About three days ago I woke up in the morning but I think it's something to do with my sinuses, I swear.
+DOCTOR: Hmm.
+PATIENT: When they're draining, I woke up right out of a dead sleep with a quick, went away and I'm fine.
+DOCTOR: Do you feel like your heart is racing yeah.
+PATIENT: The anxiety.
+DOCTOR: Possibly, it could be.  Um tell me how long does it last?
+PATIENT: Not long.
+DOCTOR: Not long.
+PATIENT: Uh-uh.
+DOCTOR: Just seconds.  No pain associated with it?  No pain going down the arm or like the jaw, anything like that?  No okay, [REDACTED].
+PATIENT: Sure.
+DOCTOR: Sweating, shortness of breath.
+PATIENT: And they hooked me up to whatever they hook you up to and they said.
+DOCTOR: Yeah.
+PATIENT: Everything looked fine.
+DOCTOR: Did they send home.
+PATIENT: I went home.
+DOCTOR: Did they send you home?
+PATIENT: I went home.
+DOCTOR: Did they send you home with a device or not?
+PATIENT: No.  But I was here.
+DOCTOR: Right.
+PATIENT: Whatever they hooked here, they put something on your finger and watched it.
+DOCTOR: Oh a pulse ox?
+PATIENT: Probably.  I was here, they waited two, three hours and said everything's fine.
+DOCTOR: Yeah.
+PATIENT: I guess they could tell.
+DOCTOR: Yeah did they and they said no more caffeine and decrease stress, did that help?
+PATIENT: I don't.
+DOCTOR: No, not really.
+PATIENT: I had a cup of coffee today.  Here's what I'll tell you, what I really need from you today is something for heartburn cause it's driving me crazy.
+DOCTOR: Do you think you have heartburn every day?
+PATIENT: Okay here's what I ate last night for dinner cause I didn't eat nothing since 6 o'clock because of the blood tests, I had three bottles of Bud Lite cause somebody stopped over but wait.
+DOCTOR: Three bottles goodness.
+PATIENT: Well I had friends stop over and that's not a lot.
+DOCTOR: Oh it's not.
+PATIENT: Not really I mean.
+DOCTOR: Oh, not for you.
+PATIENT: Yeah I won't have another drink now until whatever.
+DOCTOR: Oh goodness.  Alright go on.
+PATIENT: I ate spaghetti with a salad.
+DOCTOR: That's the spaghetti sauce would do it.
+PATIENT: It's really, very mild.
+DOCTOR: Tomatoes.
+PATIENT: I didn't like, I'm gonna tell you, I didn't have heartburn.
+DOCTOR: Uh-huh.
+PATIENT: But I didn't eat nothing.  Got up this morning, all I had was water.  I just had breakfast here, two scrambled eggs.
+DOCTOR: Uh-huh.
+PATIENT: Toast with jelly and corn beef hash.  Why?  What is it?
+DOCTOR: Did you get ketchup with the corn beef?
+PATIENT: No, what's with the deal?  What's with the heartburn?
+DOCTOR: Yeah.
+PATIENT: And then some night I'll, I'll deliberately sit up straight, I'll want to lay down but I won't cause I read an article you know if you eat and lay down right away well that could.
+DOCTOR: Exactly.  When did you start having heartburn?
+PATIENT: I thought it was.  In the last two years it's just been terrible.
+DOCTOR: Yeah.  And every day or just intermittently or with certain foods?
+PATIENT: Every day sometimes so I've been taking um.
+DOCTOR: Zantac or Tums?  You been taking Tums?
+PATIENT: Tums.  Cause one of the doctors here prescribed me, I was taking omeprazole.
+DOCTOR: Yeah.
+PATIENT: But he said quit taking it.
+DOCTOR: Why?
+PATIENT: Cause it gave me pneumonia.  That's what he said so.
+DOCTOR: You've been taking ranitidine?
+PATIENT: I took it.
+DOCTOR: Twice a day.
+PATIENT: It did not help, ranitidine.  So I did try uh Pepcid, I don't know what's in Pepcid.
+DOCTOR: It's the same thing as omeprazole.
+PATIENT: So why won't that give me.
+DOCTOR: It will.  Long term chronic will do it but if you're having heartburn now, okay so in a way that is something good right.  Risks of getting daily heartburn right, you're eroding the lining right.
+PATIENT: I know.
+DOCTOR: Your esophagus, you can get Barrett's that leads to cancer.  You need to a) be on the right diet, doing all the right stuff.  We call it lifestyle modification and you need to be on medicine.  With time it might get better if you don't have to be [REDACTED].  What he's talking about is over the years, over the years of being on omeprazole.
+PATIENT: Well they had prescribed up to three, four years ago for me.  I took it, I quit, it came back.  I took it, I quit taking it, it came back.  I took it, it quit.
+DOCTOR: Yeah.
+PATIENT: So how long would you recommend I should stay on this I mean is it gonna be forever?
+DOCTOR: No, let's try, let's try both, let's try you know cutting down on the spaghetti, cutting down on the mints, the citrus stuff.
+PATIENT: I'm a V8 juice guy every morning, will that bother you?
+DOCTOR: Does it have tomato in it?  It has tomato.
+PATIENT: Okay I mean, yeah.
+DOCTOR: Yeah. Yes.
+PATIENT: The tomato juice but I've been drinking it for 30 years every day a glass of V8 juice.
+DOCTOR: Does it give you heartburn right after you drink it?
+PATIENT: Nope.
+DOCTOR: Well you're probably good.  Then when do get [REDACTED]?
+PATIENT: I feel I do and my coffee I take it two cups in the morning, that's it.
+DOCTOR: Okay uh you need to cut it down to one cup yeah see if it does anything.  But I can definitely put you back on the omeprazole, did it work?
+PATIENT: Yeah.
+DOCTOR: Yeah so we'll do it.
+PATIENT: And what would be the ranitidine, what's the difference?
+DOCTOR: It's the same thing.  It's just; it works on different pathways to slow down the acid production in your stomach.  So both of it, the PPI, the omeprazole works better.  Ranitidine, if it works at all, it works a little bit faster but omeprazole over the long term it works better.
+PATIENT: Okay, alright.
+DOCTOR: What other medicines do you need?  Do you need the nasal spray?
+PATIENT: The doctor still has me on that, the ENT he's got it.
+DOCTOR: Good.
+PATIENT: I got it, I've been using that.
+DOCTOR: So just two sprays right, do you use that?
+PATIENT: One.
+DOCTOR: Just one, the flunisolide or the sodium chloride?
+PATIENT: Oh okay so flunisolide is the spray, the sodium chloride is a rinse.
+DOCTOR: Okay, okay.
+PATIENT: I got it, that's fine.
+DOCTOR: You got those okay and then what do you take the sildenafil for, oh erectile dysfunction.
+PATIENT: How which?
+DOCTOR: Um erectile dysfunction you take.
+PATIENT: I haven't had that.
+DOCTOR: Okay.
+PATIENT: But if you could prescribe it I'll use it.
+DOCTOR: Okay.  Any other medicines that you're taking do you know?  Over-the-counter or anything else?
+PATIENT: [REDACTED], nope, nope, nope, nope.
+DOCTOR: Nothing else, so just the heartburn huh?
+PATIENT: Yeah that's just the only thing.
+DOCTOR: Okay.  How's your psoriasis?
+PATIENT: Okay, not a problem, it's uh you know.
+DOCTOR: Good.
+PATIENT: So they had me come and see you because of the fact that of the issue I had with uh.
+DOCTOR: Yeah follow-up.
+PATIENT: This is an earlier appointment than normal.
+DOCTOR: That's fine you can keep this one and we'll just count this as a routine check-up.  You don’t have to see me for another six months, okay?
+PATIENT: Okay.
+DOCTOR: If you had another episode I wonder if I should send you home with a Holter, set you up with a Holter monitor.
+PATIENT: What's that?
+DOCTOR: It's uh; it's also like a device where you go home with it.  You pick it up downstairs, go home with it.  They monitor your electrical activity for 24 hours.  The next day you come back and you return it, they record all of your things and um if there's any abnormalities I would let you know.
+PATIENT: Okay.
+DOCTOR: You said, the first thing you said this happened once and then it happened again two days ago.  Did it happen right after you drank caffeine?
+PATIENT: I was sleeping.
+DOCTOR: And you were sleeping and [REDACTED] it just woke you up?
+PATIENT: I don't know what woke me up.
+DOCTOR: Or this one woke you up?
+PATIENT: This one woke me up it was just a quick one.
+DOCTOR: Alright.
+PATIENT: But you know I thought they had me down as agoraphobia but I suffer from anxiety.
+DOCTOR: Yeah.
+PATIENT: They just switched the classification I don't know the difference.
+DOCTOR: Did you?  Are you on any medicines for anxiety?
+PATIENT: They were giving me uh for years I took uh Valium I'm off it now.  Then they were giving me, they have me on nothing right now.  I've been doing more uh, I see him the end of this month uh, Ultraline I think they had me on.
+DOCTOR: Sertraline yeah.
+PATIENT: Yeah.
+DOCTOR: Yeah previously.
+PATIENT: I had taken it and he recommended trying to do what I'm doing.  I've been doing more therapy when I know it’s coming.
+DOCTOR: Oh okay.
+PATIENT: I have it every Sunday when I go to church.  I can get it, I get worked up because all of those people.
+DOCTOR: Were you anxious when this happened?
+PATIENT: I was sleeping.
+DOCTOR: Yeah.
+PATIENT: I could of been dreaming, I don't know.
+DOCTOR: Could have been. Do you remember anything?
+PATIENT: That I don't know, whatever.
+DOCTOR: Alright so.
+PATIENT: So the omeprazole will be fine, it's only on the long term use okay.
+DOCTOR: Yeah.  Like I said I mean you stop if it's well controlled but obviously you're not controlled if you're having it every day.
+PATIENT: Yeah it could happen you know.
+DOCTOR: Right.
+PATIENT: And there's sometimes even after I make a bowel movement.
+DOCTOR: Yeah.
+PATIENT: I get heartburn.
+DOCTOR: Any belly pain?
+PATIENT: No.  What does that tell you?
+DOCTOR: I don't know.
+PATIENT: It's craziness.
+DOCTOR: Um, [REDACTED]blood pressures good, okay.  Lightheadedness, dizziness?
+PATIENT: Uh uh.
+DOCTOR: Okay.
+PATIENT: I had my eye exam.
+DOCTOR: You did good.
+PATIENT: And she told me that, the doctor a female doctor when I say she, I should say the doctor, she found a wiggly spot in one of my eyes but she said, you got high blood pressure, I said not yet well she said usually this would be a spot on both sides so she just said remember what I said and I thought that was strange but.
+DOCTOR: Umm.  Alright.  Any numbness or tingling in your feet or hands or anything?
+PATIENT: Uh uh.
+DOCTOR: Okay.
+PATIENT: The other day I did wake up but I never had this, maybe just never, right here, a cramp so bad out of a dead sleep, right here.
+DOCTOR: Yeah.
+PATIENT: My wife gets them all the time but she said it's because she don't eat the, I'm always eating bananas.  She said maybe I'm low on potassium.
+DOCTOR: Last time your potassium was fine.
+PATIENT: That's what I thought.
+DOCTOR: Um.
+PATIENT: That could of just been something.
+DOCTOR: Right.  Do you have varicose veins?
+PATIENT: Oh yeah and I have them.
+DOCTOR: Yeah.
+PATIENT: Look at this yeah.
+DOCTOR: Yeah there you go, especially at this place.
+PATIENT: Right here.
+DOCTOR: I'll bet yeah.
+PATIENT: I never have a [REDACTED] though.
+DOCTOR: Oh.
+PATIENT: They don't hurt me.
+DOCTOR: Do you think they got bigger?  The varicose veins?
+PATIENT: Probably.
+DOCTOR: Sometimes with enlargement or worsening varicose veins can do that.
+PATIENT: And I walk.
+DOCTOR: Good.  Stay hydrated, stay hydrated.
+PATIENT: I do.
+DOCTOR: Good.  Are your immunizations up-to-date?
+PATIENT: I think.
+DOCTOR: Flu shot last year?  Pneumonia vaccine, tetanus?
+PATIENT: Pneumonia uh you gave me the uh shingles.
+DOCTOR: Good.
+PATIENT: The pneumonia.
+DOCTOR: I did something right.
+PATIENT: I know you did.  The pneumonia shot.
+DOCTOR: Yeah.
+PATIENT: I had uh four or five years ago.
+DOCTOR: Okay.
+PATIENT: Which I thought was early.
+DOCTOR: Yeah sometimes um that is pretty early.
+PATIENT: They made a mistake on my age.
+DOCTOR: [REDACTED].
+PATIENT: I'm just now 63.
+DOCTOR: Oh okay.
+PATIENT: They put it, but it should've been after.  So whenever you think it's time for another one.
+DOCTOR: Look straight.  Any coughing, fevers, chills, night sweats, weight loss?  Say ah.
+PATIENT: Ah.
+DOCTOR: How's your sinus pressure, now today it's better?  Pain?  Pain?
+PATIENT: Uh-huh, but that’s where I get the headache.
+DOCTOR: Here?  Okay, okay.
+PATIENT: Oh God.
+DOCTOR: That's okay yeah.  But not any today?
+PATIENT: A little today.  At least today I'd say I've had it just kind of and I don't know what to take for it so I end up taking a Tylenol.
+DOCTOR: You can take Tylenol yeah.
+PATIENT: Does it have to be sinus or could it just be Tylenol pain relief?
+DOCTOR: Uh sometimes sinus would be better, it has a different agent in there, in addition to the Tylenol especially with that.  Any headaches other than here?
+PATIENT: Uh uh.
+DOCTOR: Okay.  Chest pain, shortness of breath?  Your heart sounds fine.  Deep breaths in and out, deep breath, deep breath again.  Good.  One more, great, you're not hyperventilating are you?
+PATIENT: I don't think so.
+DOCTOR: Pain?
+PATIENT: No.
+DOCTOR: Why do you have this divot here?
+PATIENT: What's a divot?
+DOCTOR: Oh no here it's going away.  Any pain?
+PATIENT: Uh uh.
+DOCTOR: Go ahead and lay back.  Good.  No urinary symptoms or like?
+PATIENT: Uh the urinary deal I've noticed a change but it's uh.
+DOCTOR: Uh-huh, like frequency, going a lot at night?
+PATIENT: After a couple bottles of Bud Lite I have to go but I don't go a lot at night.  I do drink a little sip of water at night.
+DOCTOR: Uh-huh.
+PATIENT: But like before I go to bed.
+DOCTOR: Uh-huh.
+PATIENT: But the first thing in the morning, when I get up, I have to go to the washroom.
+DOCTOR: Okay.  Any accidents?  Incontinence?
+PATIENT: Sometimes, it depends, it doesn't want to notify me, I just go on my own now at home.
+DOCTOR: Oh.
+PATIENT: Does that make sense?
+DOCTOR: Yeah.
+PATIENT: Is that normal?
+DOCTOR: Do you have an enlarged prostate or no?
+PATIENT: I, how would I know?
+DOCTOR: Okay.  But you've never been to the urologist?  Nobody's ever told you?
+PATIENT: Oh I've been to a urologist.
+DOCTOR: Yeah did they say anything, go ahead move your.
+PATIENT: But I haven't been to one in five years.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Any like, any change in your urinary symptoms?
+PATIENT: As to?
+DOCTOR: Like worsening, going more often, blood in your urine?
+PATIENT: I go more often and it seems like I really gotta you know, it’s like, how can I explain it.
+DOCTOR: Urge?
+PATIENT: The urge, but there ain’t that much water.
+DOCTOR: Right okay.
+PATIENT: Is that normal?
+DOCTOR: Uh, depends if you have an enlarged prostate that can happen and with older, again as you get older um that can happen.  Your prostate starts growing more because of age um.  Let me check your PSA.
+PATIENT: I know you give me that every year and it's been the same.
+DOCTOR: Yeah.  I mean I don't think it's ever been high [REDACTED].
+PATIENT: Now if I don't drink liquids I'm fine.
+DOCTOR: Oh okay.  So it's related to the amount of water that you take?
+PATIENT: Oh yeah.
+DOCTOR: Yeah your PSA last year, six months ago was fine.
+PATIENT: I uh can hold the water longer than I can hold a cup of coffee though.
+DOCTOR: Okay, alright.
+PATIENT: Does that make sense?
+DOCTOR: Makes sense cause there's a diuretic effect in caffeine, makes you want to go a lot more.
+PATIENT: Just the urgency is there.  It never used to be before.
+DOCTOR: Oh you're fine um.  What else, okay so immunizations. You got it, yeah 65 is there.  Your colonoscopy is just fine.  Stress test is good.  Were you ever a smoker?
+PATIENT: Oh in the past yes.
+DOCTOR: Yeah.  Okay at 65 we check an ultrasound just to make sure that your blood vessels are okay.
+PATIENT: Okay.
+DOCTOR: So next time we'll check that out.  Um are you taking anything over-the-counter?
+PATIENT: For?
+DOCTOR: Anything like herbal medicines, things like that?
+PATIENT: No if I get sinus whatever, I take a Tylenol but um or I take [REDACTED] or I'll take a Benadryl just to, I don't know I think they all do the same thing.
+DOCTOR: Oh yeah.  The next time you get labs in six months you'll see me.
+PATIENT: Okay.
+DOCTOR: Um before that you know same thing, same drill today, you get labs before you see me, that way I can go over your results with you um and um then I can get yeah.  HIV test, this is something new that you take [REDACTED].
+PATIENT: I don't care, I don't care.  That's it.  They were giving them out free; I just didn't want to stop before.  I think the stigma of an insurance company finding out, I'll be on it, is over.  I just never did it before because I could be honest with you; I have nothing to hide for any reason but the least you tell an insurance company the better you are.
+DOCTOR: Yeah.
+PATIENT: I've been talking car insurance, life insurance, health insurance; I just think it's a lot of.
+DOCTOR: Right, okay well.
+PATIENT: A lot of hooey.
+DOCTOR: I see yeah.
+PATIENT: That's probably why I never did it before.  I think a lot of people don't do it cause they're afraid the insurance companies if you're out there looking for help they'll say well why did you get an HIV test, is that kind of a question, no.  I mean they may say well why did you get, 20 years ago they might of asked you.
+DOCTOR: Yeah.
+PATIENT: But now I know, I think it's pretty prevalent that people get them.
+DOCTOR: Yeah.  Yeah.
+PATIENT: Am I the only one that would ask that question?
+DOCTOR: I ask everybody.
+PATIENT: No but I mean that kind of response, how does everybody?
+DOCTOR: I mean I’ve had people say no, it's not, I mean I've had the same partner for you know three years, why would I need one so you say no.
+PATIENT: But I mean what they're saying is because.
+DOCTOR: Insurance you think?
+PATIENT: I think the government's too nosey on everything.
+DOCTOR: Yeah, probably, probably.
+PATIENT: I just, I could go into stories I should think.  I think they know way too much now.
+DOCTOR: Yeah.
+PATIENT: I'm not on Facebook.  I don't think I ever will be cause if I want to talk to you I'll call you and if I want to tell you that I won the lottery, I certainly ain't gonna put it on Facebook.
+DOCTOR: Right, why would you okay.
+PATIENT: People just say that's my age and I said no but I can't believe that I mean millions of people sit there and waste there, idle their time away.
+DOCTOR: Yeah.
+PATIENT: And what do I do, I might watch TV, Jeopardy, who knows.
+DOCTOR: Yeah.  So um well I'll give you the omeprazole.  Do you want to pick it up or do you want me to send it to you?
+PATIENT: You could send it to me, cause if I pick it up I think it'll be a.
+DOCTOR: Longer wait cool, alright.  And your labs before you see me, your lipids um with the exception of your HDL it was fine.
+PATIENT: What's the HDL?
+DOCTOR: The HDL is your protective cholesterol, as we call it.  It's your good cholesterol that helps you protect against heart attacks and strokes and it's 26.  Sometimes that can be hereditary, from your family it runs low um but sometimes you know um you know, it’s not.  It doesn't affect it.  It’s not affected by what you eat, per se.  A lot of its genetics.  Sometimes it can be brought up by exercising more.  The treadmill, you're walking around, it can boost it up okay.  Um and if it's persistently low we can talk about putting you on something called niacin but I think exercise is better, it can help.  It is 26. I think in the past it's been that low too.
+PATIENT: And what should it be?
+DOCTOR: 40.
+PATIENT: Oh.
+DOCTOR: Female it should be 50, males it should be 40.  Yours is at 26.
+PATIENT: Oh.
+DOCTOR: You know we can consider that.  Last time it was 32.
+PATIENT: Okay now what's my cholesterol on the whole?
+DOCTOR: 142, which is wonderful.
+PATIENT: Oh.
+DOCTOR: It needs to be less than 200 and triglycerides you're just about where it should be, 150 and LDL which is your bad cholesterol that I want it less than 100 and yours was 86 so the only thing is that good cholesterol to boost it up if with exercise.
+PATIENT: Okay.
+DOCTOR: Okay.  Give me some time okay I'll be right back.
+PATIENT: Okay.
+---DOCTOR OUT:  62:33  DOCTOR IN:  70:10 ---
+DOCTOR: Alright um do you want try the test just to make sure there's nothing?
+PATIENT: Yeah I will.
+DOCTOR: Okay.
+PATIENT: What is it a day deal or?
+DOCTOR: No so they'll send you something.
+PATIENT: In the mail?
+DOCTOR: Um you may have to pick it up when they notify you.
+PATIENT: Okay.
+DOCTOR: And then you pick it up okay.  So let me um, Holter monitor, let's see.
+PATIENT: And how long does the thing last or what do you do?
+DOCTOR: A day cause they hook you up and you go home with it um for a day.  The next day you come back.
+PATIENT: Oh you come here and they hook you up on that.
+DOCTOR: Yeah I think so.
+PATIENT: How big?
+DOCTOR: They put it in, it's small but.
+PATIENT: Oh okay.
+DOCTOR: Yeah.
+PATIENT: So I know what I'm walking around with.
+DOCTOR: Yeah just for one day and um if they can set you up.  I put in the order so I'll let my nurse know uh.  If this can be hooked up today it would be great then you wouldn't have to make a trip back.  So you wear it for a day, you come back and you return it to the same place you got it.
+PATIENT: Okay.
+DOCTOR: And then the cardiologist will then look at it and at the end if everything's okay we've got this, this, this, or it was normal.
+PATIENT: Okay.
+DOCTOR: So that we can rule out bad stuff like arrhythmia.
+PATIENT: Okay.
+DOCTOR: I mean we can, I can very easily attribute that to anxiety but then what if it's not so let's rule out the bad stuff.
+PATIENT: Alright.
+DOCTOR: And if it's ruled out then I can say hey it's probably anxiety.
+PATIENT: Alrighty, okay.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: Six months you'll see me.  You'll be getting that omeprazole in the mail.
+PATIENT: Okay, okay.
+DOCTOR: Okay.  This, for some reason, two weeks or four weeks later if you don't feel any improvement.
+PATIENT: Oh I'm sure I will feel better in two days.
+DOCTOR: Okay.  Okay.
+PATIENT: Cause it worked before.
+DOCTOR: It worked before great then.
+PATIENT: That ranitidine just never.
+DOCTOR: Didn't work.
+PATIENT: I didn't know what it was doing yeah.
+DOCTOR: Alright and remember labs before you see me okay and I'll see you in six months.
+PATIENT: I'll do it.  And usually like they called yesterday and told me to come in earlier.
+DOCTOR: Yeah, yeah.
+PATIENT: So I'll come in earlier then, I know they open at 7.
+DOCTOR: Okay.  Let me walk out with you.  Do you have time?
+PATIENT: Okay thank you.
+DOCTOR: Okay.  Holter monitor.  I put him on it; do you have to call or anything?
+PATIENT: Uh yeah I think I need to pick it up before the appointment.
+DOCTOR: Were you gonna call someone?
+PATIENT: Yeah I'll pick it up.
+DOCTOR: Okay.
+PATIENT: Thank you doctor, you have a good day.
+DOCTOR: Bye.
+Time is 9:58.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38215
+TRANSACTION # 578-10-2-316-0103

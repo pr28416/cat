@@ -1,0 +1,201 @@
+DOCTOR: PATIENT?
+PATIENT: That's me.  How you doing?
+DOCTOR: How are you?
+PATIENT: Good.
+DOCTOR: Here we go.  Okay.  Alright.  How you doing today?
+PATIENT: Real good.  I had another appointment up there but they was taking so long I just came down here, back down here.
+DOCTOR: Oh which one was it?  Pulmonary?
+PATIENT: Yeah.
+DOCTOR: [REDACTED].
+PATIENT: Yeah, that was at 1:40.
+DOCTOR: That's probably more important than ours cause they easy to reschedule.
+PATIENT: They don’t act like it, they had people out there sitting there, they didn't call nobody.
+DOCTOR: Okay.
+PATIENT: That's not right.
+DOCTOR: How you doing today?  Anything bothering you?
+PATIENT: No uh, I need some uh breathing medication like uh to put in that, what do you call that little machine?
+DOCTOR: The nebulizer?
+PATIENT: Yeah.
+DOCTOR: [REDACTED].  That's what you were up there for.  That was the lung doctors but that's fine.  You said that you were [REDACTED] that was the problem.
+PATIENT: Yeah.  Every time, what 1:30.
+DOCTOR: Okay.
+PATIENT: Then I come down here and went back up there.
+DOCTOR: Okay.
+PATIENT: Uh yeah uh.  Those little plastic capsules, not capsules tubes really, they're tubes.  Know what I'm talking about?  You put in the medicine container yeah.
+DOCTOR: Yeah.  Yeah they help.  Has that been helping you?
+PATIENT: Yeah it helps.
+DOCTOR: Good.  So let's see um.  When was the last time we saw you here?
+PATIENT: A couple of months ago.
+DOCTOR: January, I see.  At that time, you had a cough right?  Has that improved at all?
+PATIENT: No.
+DOCTOR: The cough is not?
+PATIENT: It just stay the same.  I had surgery since I saw you.
+DOCTOR: Yeah how's that going?
+PATIENT: Oh man.  My arm is all bruised up and I said well what's that bruise, this bruise for?  Well we made that move just a little error, that's what they told me, you know.
+DOCTOR: Did they tell you that it had been an error [REDACTED]?
+PATIENT: Yeah that's what she told me.
+DOCTOR: Because of the bruising?
+PATIENT: Bruise.
+DOCTOR: Okay.  And then um has that resolved?
+PATIENT: Uh uh.  She said it's gonna go away in time.
+DOCTOR: Maybe we'll take a look at it afterwards okay.
+PATIENT: Well.  Oh then DOCTOR explained to me about my elbows.  It's the first time somebody ever explained to me about it since I had the surgery on it.
+DOCTOR: Okay.
+PATIENT: Those doctors disappear.  I never could see the ones who did the surgery.
+DOCTOR: Who did the surgery?
+PATIENT: Yeah and she told me that they took all the metal out but they had implanted at first.
+DOCTOR: Yeah.
+PATIENT: And they took it back out.  I never did [REDACTED] explained everything.  [REDACTED].  Got a lot of arthritis in it.  [REDACTED].  I might have to have another surgery though.
+DOCTOR: [REDACTED].
+PATIENT: Yeah although I got a prescription they got going up there but I didn't see [REDACTED] surgery.  It was a Christmas time. Before Christmas.
+DOCTOR: [REDACTED].
+PATIENT: Oh no that's different [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Those doctors are gone somewhere else.
+DOCTOR: Oh you know what sometimes it's the residents that they need to use [REDACTED].
+PATIENT: [REDACTED] what the hospitals?
+DOCTOR: Hospitals, emergencies.
+PATIENT: Well.
+DOCTOR: I know it's frustrating.
+PATIENT: [REDACTED].  See that bruise, right over there.
+DOCTOR: [REDACTED].
+PATIENT: Yeah that's all it is and the surgery was up here.
+DOCTOR: Okay.
+PATIENT: Right up here.
+DOCTOR: I’m not sure [REDACTED].
+PATIENT: She said it was the bleeding on the inside.
+DOCTOR: No that's not what happens.  There's like a [REDACTED].
+PATIENT: It don't hurt me none but.  What I'm saying, she wasn't there.
+DOCTOR: Uh-huh.
+PATIENT: She [REDACTED] now.  [REDACTED]  You know what I'm saying?  I've been working with the other doctors.  That kind of stuff ain't right you know.  I don't know the metal was gone.  I was thinking it's still in there.
+DOCTOR: Have you seen Physical Therapy?  Did they recommend anything?
+PATIENT: No.  [REDACTED] she want it to heal up.  I'm gonna go to them [REDACTED] to see the doctor.
+DOCTOR: Did they explain anything [REDACTED]?
+PATIENT: Well I'm gonna see them Thursday.  I don't need it now.  [REDACTED] but uh she told me [REDACTED] and Physical Therapy.
+DOCTOR: Okay.
+PATIENT: For my elbow.
+DOCTOR: Okay.
+PATIENT: [REDACTED] rotator cuff.
+DOCTOR: Okay.  [REDACTED] activity [REDACTED].
+PATIENT: Yes.
+DOCTOR: Now have you been following with Infectious Disease?
+PATIENT: [REDACTED] see me in June I think.
+DOCTOR: [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: And then now that we were done with the surgeries will you follow up with the liver docs?
+PATIENT: Yeah.
+DOCTOR: Yes?
+PATIENT: Yeah.
+DOCTOR: You don't need us to send a new referral cause you saw them.
+PATIENT: A what?
+DOCTOR: You don't need a new referral from us cause you've seen them.  You saw them in January, do you remember?
+PATIENT: Yeah.
+DOCTOR: So we need to schedule a follow-up appointment okay.
+PATIENT: Uh-huh.
+DOCTOR: Yeah.
+PATIENT: So can I go up there?
+DOCTOR: Go up there and or you can uh call them, that's the Liver Clinic.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I can call that number on the phone?
+DOCTOR: Yeah.
+PATIENT: Oh okay.
+DOCTOR: Okay.  Nothing to update.  So we can proceed, remember you had the ultrasound that had that abnormality and postponing [REDACTED].
+PATIENT: Yeah.
+DOCTOR: So it sounds like maybe you're a little bit better than when I saw you last time.
+PATIENT: Yeah.
+DOCTOR: How's that rash?
+PATIENT: It's still there.
+DOCTOR: It's still there.
+PATIENT: Yeah.
+DOCTOR: Is it bothering you?
+PATIENT: [REDACTED].  Still got a little rash, a little red rash here and one over here.  What do you call it, it's another name for rash?  Uh.
+DOCTOR: Dermatitis?
+PATIENT: No.
+DOCTOR: [REDACTED].
+PATIENT: No.  I don't know.
+DOCTOR: Plaque?
+PATIENT: Anyway.  She didn't give me nothing but some Vaseline.
+DOCTOR: Yeah that's [REDACTED].
+PATIENT: And it's still there.
+DOCTOR: How about the gabapentin?  Have you been using that?
+PATIENT: Oh man I been, I had been taking that.  They ain't got nothing to do with that.
+DOCTOR: Okay.  Yeah that's true.
+PATIENT: You see, that's what she did.  She looked over my medications and gave me some of the same stuff you know.
+DOCTOR: But they were thinking that maybe the nerve [REDACTED].
+PATIENT: I don't know.  I ain't have [REDACTED].
+DOCTOR: [REDACTED]?
+PATIENT: No.
+DOCTOR: That's good.
+PATIENT: And she's telling me to buy some soap with lotion in it.  Anyway.  It is coming from dry skin sure enough.
+DOCTOR: Yeah.
+PATIENT: But, but uh I wanted her to see that, then it break out [REDACTED].
+DOCTOR: Right.  You know if you need to follow up with them, you can always do that.  Actually they did want to see you again you know and maybe they'll go a different route [REDACTED] okay.
+PATIENT: Uh-huh.
+DOCTOR: They probably think, if it comes down to it, what they can do is take a sample, like a you know a small biopsy and review it under the microscope.
+PATIENT: Why they have to do all that?
+DOCTOR: No sometimes.  They, that's why they didn't do it yet but if its something that's really bothering you and it's not getting better you know we can, do you know what I mean?
+PATIENT: Yeah.
+DOCTOR: Okay.  Uh yeah they actually wrote in their note that they want to see you end of this month. They scheduled you
+PATIENT: Yeah.
+DOCTOR: You actually have an appointment with them, March 22nd.  Oh I see you have an appointment with GI too on the 18th, which is tomorrow.  Actually just show up for that, you don't have to call them.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Do you have a list of all these appointments?
+PATIENT: Yeah.
+DOCTOR: So in Pulmonary they were gonna see you today um.
+PATIENT: I'll go back up there when I leave here, see what they say.
+DOCTOR: Okay, see if they can, you might have to reschedule that one, though.  Can I do a quick exam?
+PATIENT: Uh-huh.
+DOCTOR: Take a look and see your heart and lungs.  Can you lift up your shirt?  Do you get short of breath?
+PATIENT: No.
+DOCTOR: Are you smoking still?
+PATIENT: Yeah.
+DOCTOR: How much?
+PATIENT: Same amount, a pack a day.
+DOCTOR: Pack a day.  Want to quit?
+PATIENT: Yeah that's why; I [REDACTED] want to take this medicine with the nebulizer.
+DOCTOR: Uh-huh.
+PATIENT: Get rid of this cough and then use the patches I got.
+DOCTOR: You have the patches already?
+PATIENT: Yeah.
+DOCTOR: I think you should try using them.
+PATIENT: Yeah.
+DOCTOR: And you don't have to wait until the cough is gone.
+PATIENT: Yeah.
+DOCTOR: If anything that's probably a good time because the smoking is probably going to make the cough worse.
+PATIENT: Yeah but that's [REDACTED].
+DOCTOR: Take a deep breath.  Is there anything new about the cough or is it just [REDACTED]?  Are you coughing up junk?  You got any mucous?
+PATIENT: It’s the same. Yeah.  It's not a whole lot but it's.
+DOCTOR: Yeah.
+PATIENT: Still comes up.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  [REDACTED].
+DOCTOR: Yeah I'm just going to go talk to DOCTOR and I'll be right back okay.
+PATIENT: Thank you.
+(DOCTOR OUT:  76:29  DOCTOR IN:  82:35)
+DOCTOR: PATIENT?
+PATIENT: Yeah.
+DOCTOR: What I'll do is, we can everything looks good today.  I think you’re set up with all the right people in terms of follow-ups and.
+PATIENT: Uh-huh.
+DOCTOR: Specialists.  We'll refill your medications, including the nebulizers which, I think, is the main thing that you wanted.
+PATIENT: Yes.
+DOCTOR: And I do want you to follow up with Pulmonary though.
+PATIENT: I'm gonna go up there.
+DOCTOR: Okay.
+PATIENT: I'll go see them.
+DOCTOR: Stop in, but you have to reschedule uh just go ahead and do so.
+PATIENT: Okay.
+DOCTOR: And uh we'll go from there okay.
+PATIENT: Yeah.
+DOCTOR: Make sure [REDACTED].
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Okay.  See you later.
+DOCTOR: Okay, take care.
+PATIENT: 83:32.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255197
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,197 @@
+DOCTOR: How are you?
+PATIENT: How you doing today?
+DOCTOR: Can you make it in?
+PATIENT: Yeah.
+DOCTOR: Let me move this for you.  Okay.  I'm DOCTOR, how you doing?
+PATIENT: Pretty good so far.
+DOCTOR: Okay.  What brings you in today?
+PATIENT: I had an appointment.
+DOCTOR: Anything bothering you today?
+PATIENT: Yep.
+DOCTOR: What's that?
+PATIENT: Knees.
+DOCTOR: Your knees?  What's wrong with your knees?
+PATIENT: Well one of them had to be replaced; this here is doing what it was doing, slipping out of placed voluntarily.
+DOCTOR: Oh you one of them replaced so now you just have a lot of arthritis?
+PATIENT: Yep and I got bad feet.
+DOCTOR: What have you been taking for the pain?
+PATIENT: I'm taking Tylenol.
+DOCTOR: Tylenol with gabapentin?
+PATIENT: Haven't had any.
+DOCTOR: You haven't had any.  You have refills, why don't you get it refilled?
+PATIENT: I didn't know I had to.  I didn't even know I had the refills.  Probably misplaced it.
+DOCTOR: Oh okay, your knees are just the regular arthritis pain?
+PATIENT: No this is.
+DOCTOR: Can you walk at all or [REDACTED]?
+PATIENT: Yes but the.
+DOCTOR: You're able to walk okay?
+PATIENT: No I can't do prolonged standing and no.
+DOCTOR: Has it been getting worse recently or just the same old?
+PATIENT: Well we replaced that one.
+DOCTOR: Yeah.
+PATIENT: And this one is getting worse.
+DOCTOR: It's getting worse?  Do you think it needs to be replaced?
+PATIENT: This one.
+DOCTOR: Huh.
+PATIENT: Just this one.
+DOCTOR: You think that one needs to be replaced?
+PATIENT: That one's already been replaced.
+DOCTOR: I know what about this one?
+PATIENT: I been trying to avoid it but um.
+DOCTOR: You haven't had your knees x-rayed in a couple years.  We might want to get that redone today.  Everything else okay today?
+PATIENT: I need to get.
+DOCTOR: Do you need refills on the other medicines then?
+PATIENT: Yeah my Dilantin and my uh.
+DOCTOR: Dilantin and your hydrochlorothiazide?
+PATIENT: Yes.
+DOCTOR: And your Tylenol.
+PATIENT: Yeah cause I haven't had any of that in a long time.
+DOCTOR: What's your Dilantin dose?  100 mg?
+PATIENT: Right.
+DOCTOR: Two tablets?
+PATIENT: I have four a day.
+DOCTOR: You do two tablets in the morning and two tablets in the evening?
+PATIENT: Right.
+DOCTOR: Okay and um you have hepatitis C?
+PATIENT: Yeah.  I had that about 30 years now.  Cause I quit drinking too.
+DOCTOR: Yeah.
+PATIENT: I quit drinking ten years ago.
+DOCTOR: Okay good.  Um your blood pressure's okay today, a little high um.
+PATIENT: I know why, these socks.
+DOCTOR: Oh.
+PATIENT: See the way they was cutting out the circulation here?
+DOCTOR: Now have you seen the neurologist recently because uh, weren't they supposed to um change your dose?  Neurology.
+PATIENT: They did, well they did.
+DOCTOR: Cause they, you want to be um 300, not 400 right?  Did you make that change?
+PATIENT: No they put me on uh; last time I was here they put me on two in the morning and two in the evening.
+DOCTOR: Who did?  The neurologist?
+PATIENT: The doctor that I saw.
+DOCTOR: In Urgent Care?
+PATIENT: Yeah cause I come in, I had had a seizure and what happened I [REDACTED].
+DOCTOR: Yeah you need to see Neurology.  You haven't seen them, it's been too long. Let me see when you’re due to see them next.  Yeah you don’t even have another appointment.  But you need to see the neurologist.  You didn't go?
+PATIENT: I didn't have an appointment yet.
+DOCTOR: You don't even have one scheduled.  Have you had any seizures?
+PATIENT: Yeah.
+DOCTOR: When?
+PATIENT: When I headed to Urgent Care?
+DOCTOR: No but since then.
+PATIENT: And one was threatening.
+DOCTOR: But have you had one since then?
+PATIENT: I jumped on it [REDACTED].
+DOCTOR: No.
+PATIENT: Cause I felt it coming, I saw the signs coming and [REDACTED].
+DOCTOR: So the last time you had one was when you were in Urgent Care that day?
+PATIENT: That's when I really had one, it woke me up.
+DOCTOR: So that was in March?
+PATIENT: Uh-huh.
+DOCTOR: Cause they don't say that you had a seizure at that time, oh you had one in February but nothing since then.
+PATIENT: None since then no.  I felt one coming but I stopped it, I took the medicine right quick.
+DOCTOR: Okay so you never saw.
+PATIENT: I haven't been to Neurology yet.  He had mentioned uh scheduling me for an MRI.
+DOCTOR: Yeah but thing is you never, you need to see the neurologist.  Did you ever get the MRI done?  No.
+PATIENT: No they didn't schedule it yet.
+DOCTOR: But you got the EEG.
+PATIENT: Uh-huh.
+DOCTOR: Did you ever see the podiatrist, the foot doctor?
+PATIENT: No.
+DOCTOR: Oh yeah you did, in August. Let's see.
+PATIENT: But not since then though.
+DOCTOR: Oh okay.  Did you have the colonoscopy?
+PATIENT: No I chickened out.
+DOCTOR: You chickened out, you don't want it then?
+PATIENT: I didn't want it, no.  The whole idea just threw me backwards.  I guess if I get up enough courage whenever they schedule me for one again, I might get up enough courage to do it, I don't know.
+DOCTOR: Okay and you take simvastatin?  No.
+PATIENT: No.
+DOCTOR: You don't take anything for your cholesterol?
+PATIENT: I was taking something but they discontinued it.
+DOCTOR: Why?
+PATIENT: That's what I'd like to know.
+DOCTOR: LDL 80, oh wow it looks like you may not need one.  Uh and you need your blood pressure medication?
+PATIENT: Oh yeah.
+DOCTOR: Okay.
+PATIENT: And my Dilantin, I only have four capsules left.
+DOCTOR: Okay.
+PATIENT: What kind of Tylenol is this you were telling me about?
+DOCTOR: Tylenol?
+PATIENT: It's a pain medication you was telling me.
+DOCTOR: Yeah just Tylenol.  Gabapentin, that one?
+PATIENT: Yeah.  Are you gonna prescribe some of that for me today?
+DOCTOR: I can give that to you.
+PATIENT: Yeah.  I know what brought on that other seizure though.
+DOCTOR: It brought on seizures?
+PATIENT: No I say I know what brought it on.
+DOCTOR: What did?
+PATIENT: Had sort of a earth shattering event.
+DOCTOR: Huh?
+PATIENT: Had sort of a earth shattering event.
+DOCTOR: Oh what happened?
+PATIENT: Uh my youngest daughter, she's you know 35 years of age.  She called me up from home and told me that she'd been diagnosed with MS.
+DOCTOR: Oh, I'm sorry.
+PATIENT: That threw me upside down and I.
+DOCTOR: So you were taking the medicine.  It wasn't that you weren't taking it?
+PATIENT: Yeah I was taking the medicine but that.
+DOCTOR: So then you just had another, like a big emotional event?
+PATIENT: Yeah I had a, that threw me off, way off.
+DOCTOR: So you have access to the medication though?
+PATIENT: Yeah.
+DOCTOR: It's never been a problem for you to get it?
+PATIENT: No, no.
+DOCTOR: Okay.
+PATIENT: No no problem.  Some things, see it starts up with an anxiety attack, you get this sick feeling in the stomach with the anxiety attack.
+DOCTOR: Yeah.
+PATIENT: You start feeling cartwheels with different colors and uh if I don't take some medicine right away it gets me blind temporarily.
+DOCTOR: Oh no.
+PATIENT: And then comes the seizure.  The whole left side just trembles out of control and I'm standing.
+DOCTOR: Now your right leg you have some infection on it?
+PATIENT: Yes.
+DOCTOR: Or earlier.  Is that all taken care of, all done?
+PATIENT: Yeah I had uh.
+DOCTOR: Can I see it?
+PATIENT: This is uh, it was uh I need to loosen [REDACTED].
+DOCTOR: You need some lotion.  But there's no fever or chills, nothing like that?
+PATIENT: No, no, it was what do you call that thing uh, um.
+DOCTOR: Oh like an ulcer?
+PATIENT: That's the word, what I'm looking for.  It was like an ulcer.
+DOCTOR: Okay but that's all gone now?
+PATIENT: Yeah.  I got lotion I just didn't use this morning.
+DOCTOR: Okay, I'll be back in a second okay.
+PATIENT: Alright.
+DOCTOR: I need to check this with the attending.
+PATIENT: Uh-huh.
+DOCTOR: I'll be back in a minute.
+(DOCTOR OUT:  110.0  DOCTOR IN:  117:50)
+DOCTOR: Okay.  Alright you need to see the neurologist.
+PATIENT: When?
+DOCTOR: I want you to go up to the front and make an appointment right now before you go.
+PATIENT: Alright.
+DOCTOR: Are you taking all your blood pressure medications?
+PATIENT: I take it yes.  That one uh, every six.
+DOCTOR: And I want to get some labs, I want to get some labs done today, will you go to the Laboratory before you leave?
+PATIENT: Oh you mean do a blood draw?
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: I need a blood draw.
+PATIENT: So go make the appointment for the neurologist right now?
+DOCTOR: Yeah they'll make it for you right up front okay and then I want you to come back and see me in one month cause then I want to see what the neurologist says.
+PATIENT: When do I see the neurologist?
+DOCTOR: You're gonna make an appointment up front right now okay.
+PATIENT: Uh-huh.
+DOCTOR: They're gonna give you an appointment.
+PATIENT: Oh.
+DOCTOR: You need your um and you need your medications refilled?
+PATIENT: Yes.
+DOCTOR: Okay so take this to the front and make the appointment right now before you go.
+PATIENT: Right.
+DOCTOR: I'll meet you up there okay and I'm gonna get your medications done and then I'll meet you up there and find out when the appointment is.
+PATIENT: Okay.
+DOCTOR: And then you have to go to the Lab.
+PATIENT: I go to the Lab and then I can go home.
+DOCTOR: Then you can go home.
+PATIENT: Okay.
+DOCTOR: But uh I'll meet you up there in the front in just a minute okay.
+PATIENT: Okay.
+PATIENT: 121:00
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275384
+TRANSACTION # 578-10-2-316-0103

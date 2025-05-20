@@ -1,0 +1,215 @@
+DOCTOR: How are you?
+PATIENT: Fine doctor.
+DOCTOR: Good morning how are you?
+PATIENT: I'm doing fine except for high blood sugars.
+DOCTOR: Your sugars are running high?
+PATIENT: Yes and I'm watching it carefully.
+DOCTOR: Uh-huh.
+PATIENT: And it's still high.
+DOCTOR: How high are we talking here?
+PATIENT: Well I got everything here with me.  Going back, I keep two log books.
+DOCTOR: Well let me see it.
+PATIENT: That's why I just stopped it.
+DOCTOR: Hmm.  How long have you noticed that the sugars have been high?
+PATIENT: About, off and on, for the past two months.
+DOCTOR: Two months they've been higher.  And you had 186 today when we got labs.  Your hemoglobin A1c was a little, let me see what's it's been in the past first.  I'm going to have to look it up.
+PATIENT: Right.
+DOCTOR: But it was considerably running a little bit higher.  Right?
+PATIENT: Yeah.
+DOCTOR: And they asked when I called you and saw you in the ED, were you in the Emergency Department?
+PATIENT: Right.
+DOCTOR: What was the story about that?
+PATIENT: That was a racing heart.
+DOCTOR: Racing heart.  How has that been?  Have you had that anymore?
+PATIENT: No because they told me I was dehydrated.
+DOCTOR: Okay.
+PATIENT: And uh so I'm drinking more water.
+DOCTOR: Yeah.
+PATIENT: And my record from here.
+DOCTOR: Oh so you've been keeping track of your pulse and everything.
+PATIENT: Yeah.
+DOCTOR: That's good.  You haven't had any more high, since you've got, you've been drinking more water, you get out of the.
+PATIENT: Right.
+DOCTOR: Do you feel fine?
+PATIENT: Yes.  There it is there from there down to [REDACTED] so it's pretty good.
+DOCTOR: You can have a seat here.
+PATIENT: Yeah oh.
+DOCTOR: Have you been urinating more frequently?
+PATIENT: A lot.
+DOCTOR: Okay.
+PATIENT: Yeah.  And that's still [REDACTED] very frequent,  you know.
+DOCTOR: And that's been going on for about two months you say?
+PATIENT: Yes.  I didn't pay that much attention to it until like one day that I came in to the ER.  I woke up and I was kind of dizzy.
+DOCTOR: Uh-huh.
+PATIENT: And uh my pulse was 123.
+DOCTOR: Uh-huh.
+PATIENT: So I called the nurse and she told me to come in to the ER and have it checked out.  That's when they said that I was dehydrated.
+DOCTOR: Let's see what [REDACTED].  What medicines you're on metformin you're taking?
+PATIENT: Right.
+DOCTOR: And then the glipizide.
+PATIENT: Glipizide yeah.
+DOCTOR: You're just taking 5 mg of that?
+PATIENT: Right.
+DOCTOR: Okay, so we [REDACTED].
+PATIENT: Yeah.
+DOCTOR: How long have you been on the glipizide, that dose?
+PATIENT: Oh I've been on for quite a while, a year easily I suppose.  Yeah the doctor down there was suggesting I increase the glipizide maybe.
+DOCTOR: No they didn't do it, did they tell you to increase it there or no?
+PATIENT: No, no, she didn't no.  But she said maybe I should.
+DOCTOR: When do you take your sugars?  Do you tend to take them after, in the mornings or after you eat or?
+PATIENT: The metformin?
+DOCTOR: No the sugar, what time do you check your blood sugars during the day?
+PATIENT: Oh uh just at different times.
+DOCTOR: All different times okay.
+PATIENT: Yeah, I take them first thing in the morning.  I take them two hours after breakfast.
+DOCTOR: After you eat.  Have you noticed was one time higher than the others?
+PATIENT: No I haven't noticed really no.
+DOCTOR: Okay.  And no chest pain, shortness of breath?
+PATIENT: No I didn't that day, I had was a little bit of shortness of breath.
+DOCTOR: You had a little shortness of breath.
+PATIENT: Yeah.  But nothing since.
+DOCTOR: Good.  Had you been doing anything more strenuous before that day outside, doing work?
+PATIENT: No.
+DOCTOR: Nothing, no.
+PATIENT: No, no.
+DOCTOR: Um and no swelling in the legs or anything like that?
+PATIENT: No, no, no, nothing like that.
+DOCTOR: No pain with urination, you're just going more?
+PATIENT: No going more yeah.
+DOCTOR: Have you been felt more thirsty?  Do you feel thirsty?
+PATIENT: No I don't really no.
+DOCTOR: Did you feel that day, when you, do you feel like your heart was beating fast or racing?
+PATIENT: I did yes.
+DOCTOR: You did.  Did it come on all of a sudden or did it come on kind of gradually.
+PATIENT: Well it was when I got up.
+DOCTOR: As soon as you got up you noticed it?
+PATIENT: As soon as I got up yeah.
+DOCTOR: Had you ever had anything like that, feeling like that before?
+PATIENT: I had.  I had uh I think once before I had that but I didn't pay any attention to it.
+DOCTOR: You didn't.
+PATIENT: It doesn't last, you know it goes away.
+DOCTOR: Yeah, so how long did you have it that day cause when you got to the ED it looks like the heart rate was back to.
+PATIENT: Right.
+DOCTOR: Near normal.
+PATIENT: Yeah.  Right.  That's how it's been, that's how it was.  Uh, it would last maybe half hour, an hour.
+DOCTOR: And then go away?
+PATIENT: And then go away yeah.
+DOCTOR: How fast was it going?  Did you check it when you woke up that morning?
+PATIENT: Yeah it was 123.
+DOCTOR: Yeah you were definitely [REDACTED]@ dehydrated when you came in.
+PATIENT: Right.
+DOCTOR: It looks like your orthostatic you recall when they did the tests.
+PATIENT: Now the other thing that uh, I get Prilosec and I know that the side effects of Prilosec is a fast heart rate.
+DOCTOR: It can, yeah.
+PATIENT: Uh DOCTOR prescribed it.
+DOCTOR: How long ago?
+PATIENT: I've been on them for the past year.
+DOCTOR: Okay.  It shouldn't, I wouldn't expect it to uh.
+PATIENT: To do that.
+DOCTOR: Do that.  No the way it sounds, it sounds like more like you were possibly be dehydrated more than anything.
+PATIENT: Right.
+DOCTOR: Since you responded well with just the fluids and especially with all this urinating and stuff.  You're probably losing some glucose out your urine.
+PATIENT: Right.
+DOCTOR: Which is why you're peeing in your urine.
+PATIENT: Yeah they told me that yeah, right.
+DOCTOR: Um so that's probably what’s going on here, yeah.  But no fevers, chills?
+PATIENT: No.
+DOCTOR: No belly pain [REDACTED]?
+PATIENT: No nothing, nothing at all no.
+DOCTOR: Nothing like that.  Let me look you over here once, just sit over here for me.  Some deep breaths for me.  Open your mouth for me.  You didn't have any episodes of low blood sugars have you?
+PATIENT: No.
+DOCTOR: No low.
+PATIENT: No I haven't, no.
+DOCTOR: Okay.  What's the lowest reading you had would you say?  [REDACTED]?
+PATIENT: Yeah I think on that, I was under 100 yeah.
+DOCTOR: Under 100 okay.
+PATIENT: 87.
+DOCTOR: 80s okay but nothing like low 60s.
+PATIENT: No, no, nothing like that.
+DOCTOR: Nothing like that okay.  Let me have you lay back here.  I'm going to push on your belly a little bit.  No pain there?
+PATIENT: No.
+DOCTOR: Sit you back up.  Go ahead and have a seat back over here.  Just looking to see if there are bulges in here and I just want to make sure, yeah [REDACTED].  Did they do an EKG when you were in there?
+PATIENT: They did.
+DOCTOR: Let me look at that real quick.  I'm going to go chat with one of the attending doctors here.
+PATIENT: Okay.
+DOCTOR: And we'll come up with a plan for you okay.
+PATIENT: Alright.
+(DOCTOR OUT:  39:20  DOCTOR IN:  48:50)
+DOCTOR: So when you urinate do you feel like you're totally emptying when you do go?
+PATIENT: Yes I do.
+DOCTOR: Okay, so it doesn't feel like it's a prostate problem.  Cause I didn't know if you were feeling like you're fully emptying it.
+PATIENT: No I have no problem area.
+DOCTOR: Do you see the urologist here?
+PATIENT: Yes I do yeah.
+DOCTOR: And your prostate level is going up.  I know that you've had biopsies and all that before so I'll just let them follow up with that.
+PATIENT: Right.
+DOCTOR: When you see them the next time.  Um so I think two things I want to do today.  They didn't do a urine sample?  Did they do a urine sample on you?
+PATIENT: No they didn't do that.
+DOCTOR: So I think just because, I don't think you have a urinary tract infection but urinary infections can cause you to go to the bathroom a lot.
+PATIENT: Right.
+DOCTOR: So I think you should go down to the Lab and just give a urine sample and make sure you don't have infection.
+PATIENT: Oh okay.
+DOCTOR: That's causing it.  Um and then otherwise I think it's probably likely due to the sugars so we're going to start going up, you're taking 5 of glipizide in the morning only, we're going to start take 5 in the morning and 5 at night.
+PATIENT: Okay.
+DOCTOR: You keep track and see where your sugars are you know and kind of keep track of them and a couple weeks of doing that if you're still going a lot, urinating real frequently and having higher, I want to have you actually call in and talk to the nurse and kind of let her know what you've been doing.
+PATIENT: Right, right.
+DOCTOR: Um and then if that's still high we still have some room and we can go up a little bit more.
+PATIENT: Okay.
+DOCTOR: On the medication but we'll start, you kind of go slowly up with this cause you can have low blood sugars if you go up too fast.
+PATIENT: I see.
+DOCTOR: We'll go up to 5 now in the morning and 5 at night.
+PATIENT: Five before I go to bed?
+DOCTOR: Yeah, evening.
+PATIENT: Evening yeah.
+DOCTOR: You know whenever you take your pills.
+PATIENT: Oh okay yeah.
+DOCTOR: That would be before you go to bed; it can be you know whenever.
+PATIENT: Yeah okay.
+DOCTOR: Sometime when you feel on schedule anyway.
+PATIENT: Right.
+DOCTOR: And then stop down to the Lab today and get a urine [REDACTED].
+PATIENT: Okay.
+DOCTOR: And if there is an infection I'll call you and we'll put you on antibiotics.
+PATIENT: Right.
+DOCTOR: But [REDACTED] if it's not.
+PATIENT: Right, yeah.
+DOCTOR: Medicine.
+PATIENT: Okay.  Um, how do I get a pair of diabetic shoes?
+DOCTOR: Oh diabetic shoes?
+PATIENT: I have them at home but I've had them for two years and they're worn down in the back.
+DOCTOR: Sure.
+PATIENT: You know so, the heels, I don't wear them anymore.
+DOCTOR: So, let's see.  You got them through the VA?  Did you get them through the VA before, the shoes?
+PATIENT: No I paid for myself.  I got it from uh Medicare.
+DOCTOR: Medicare.
+PATIENT: Yeah.
+DOCTOR: I could send you to the Prosthetics Division here that.
+PATIENT: Oh okay.
+DOCTOR: Let me put it in and just check your medications.  Also if you have anymore of those episodes where you have the real fast heartbeat, let us know that.
+PATIENT: Okay.
+DOCTOR: And keep on the fluids you know.  Stop down today and get that and the medications, I changed it in here but you have the same pills.  You can just take them and you should get more.
+PATIENT: Okay.
+DOCTOR: I'll do the refills.  Uh and then I'll follow up with you if you need to be put on antibiotics or something.
+PATIENT: Okay.
+DOCTOR: And then I think you are scheduled like to come back before, I recall in a year, in April.
+PATIENT: April yeah.
+DOCTOR: They will set you back up, we can have you follow up in one year, I'll have you set up and make sure you're up-to-date on everything okay.
+PATIENT: Okay. Yeah.
+DOCTOR: I'll walk you out here.
+PATIENT: Okay.  Oh uh Prosthetics, do I need to see them?
+DOCTOR: No they'll have to call you.  I put in a consult.
+PATIENT: Oh.
+DOCTOR: So they'll probably call you.
+PATIENT: Oh good.
+DOCTOR: To schedule that yeah.
+PATIENT: Yeah.
+DOCTOR: I think he is already scheduled to see me again in April, so a recall in April so you can just follow up with that schedule.
+PATIENT: Okay thank you doctor.
+DOCTOR: So let me know how you're doing okay.
+PATIENT: Uh I will yeah okay.
+PATIENT: 55:30.
+Time is [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255121
+TRANSACTION # 578-10-2-316-0103

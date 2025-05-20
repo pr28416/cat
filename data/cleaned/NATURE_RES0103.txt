@@ -1,0 +1,69 @@
+DOCTOR: What brings you in here today?
+PATIENT: Yeah, I'm just bringing in my old daughter who's really been complaining about having a runny nose and has been sneezing a lot over this past over this past week. I think the symptoms maybe started three or four days ago.
+DOCTOR: OK, and what symptoms started first?
+PATIENT: I think the runny nose is what, what started first. And like kind of the nasal congestion. She was telling you that she felt that there was like pressure or congestion in her nose.
+DOCTOR: OK, and then this, when did this sneezing start?
+PATIENT: Surely after that probably maybe the same day or or the next day.
+DOCTOR: OK, does she have any coughing at all?
+PATIENT: Yeah, so she she did start to cough actually after that so that the cough has been there for the last, for the last maybe two to three days. It's a dry cough.
+DOCTOR: OK, for the last two to three days. OK, is she at all, coughing up any green or yellow material or any blood at all?
+PATIENT: No, nothing like that.
+DOCTOR: OK. So, and are her symptoms constant? Or do they come and go?
+PATIENT: They've been pretty constant, and they've gotten a little bit worse since they started. Three or four days ago, I I think now yeah, her symptoms are at her, at the worst right now. Just not feeling very well.
+DOCTOR: OK, and have you been in contact with anyone at home or at school? If she's going to school versus at home for the pandemic right now, but any ill contacts at all?
+PATIENT: Well, she has been going to school. There hasn't been any Covid cases where she goes and they've been cautious, but she is going to school right now.
+DOCTOR: OK. Any, anything that you've tried that has helped her like any over the counter cold medications?
+PATIENT: Uhm, uh, no.
+DOCTOR: OK. Any other symptoms like fevers, chills, shortness of breath, um, anything like that?
+PATIENT: Uh, she did feel a bit warm to touch and has looked a bit flushed in her face. Just doesn't look like herself.
+DOCTOR: Does she behave like herself Like is she more tired at all? More irritable, anything like that?
+PATIENT: Yeah, she's been a, maybe a bit more, maybe a bit more tired and and a bit more irritable, but not not too bad. She, she missed school today but went yesterday.
+DOCTOR: OK. Any recent travel at all?
+PATIENT: No, we've been at home.
+DOCTOR: Any headaches, nausea or vomiting?
+PATIENT: Uhm, no.
+DOCTOR: OK, any chest pain that she's described?
+PATIENT: No chest pain.
+DOCTOR: OK. Any changes in her bowel movement, constipation, diarrhea?
+PATIENT: No, that's been normal.
+DOCTOR: OK. Any urinary problems?
+PATIENT: No, she had a urinary tract infection when she was like little but hasn't had any since.
+DOCTOR: OK, any issues with their sleep or appetite?
+PATIENT: She has been a bit a bit fussy, but she's been sleeping OK.
+DOCTOR: OK. Uhm, has she lost any weight recently?
+PATIENT: No, no no. She's been gaining weight well.
+DOCTOR: OK, any exposure to any allergens or like fumes, dust animals?
+PATIENT: No, I can't think of anything like that. We don't have any pets at Home and she's she's been hasn't been going anywhere else.
+DOCTOR: OK, has she been diagnosed with any medical conditions in the past?
+PATIENT: No, she just said, ah, just yeah had a urinary tract infection when she was younger and that's about it.
+DOCTOR: OK. Any allergies to medications that you know of?
+PATIENT: Not that I'm aware of.
+DOCTOR: Is she on any medications?
+PATIENT: No.
+DOCTOR: OK, any hospitalizations or surgeries in the past?
+PATIENT: No.
+DOCTOR: OK, any family history of any lung or heart conditions or anything else?
+PATIENT: Uhm, I I have high cholesterol but, and ah, and I'm taking a, a medication for it, but no, nothing else.
+DOCTOR: OK, does, has she lost a sense of taste or smell at all?
+PATIENT: No, she hasn't said any anything like that, just the nasal congestion.
+DOCTOR: OK. Did you feel any pressure in around her face at all?
+PATIENT: Uh, yeah, well yeah, I think so. She doesn't say, well, no pain but does feel like a bit of pressure with the congestion, I think.
+DOCTOR: OK, uhm any issues developmentally as she was growing up like to meet are all our milestones at an appropriate age?
+PATIENT: She did yeah, she has met she was walking at the appropriate times and able to talk and does work really well in school and is social with with her classmates and peers.
+DOCTOR: So no, no issues or no complaints at all?
+PATIENT: No, there hasn't been any concerns. I feel that she's been developing normally.
+DOCTOR: OK. In our immunizations up to date?
+PATIENT: They are, yeah.
+DOCTOR: OK and were there any complications at all during your pregnancy with her or after the pregnancy?
+PATIENT: No, it was a vaginal delivery at 38 weeks and she was a normal weight. We were able to go home right away with with no complications. So yeah, things were good.
+DOCTOR: OK, and currently who does she live with?
+PATIENT: So myself and my, and my husband.
+DOCTOR: OK, and does anyone smoke in the house?
+PATIENT: Uhm, my husband does smoke, but uh, I mean he smokes outside usually and and he smokes, I don't know, maybe a half a pack a day.
+DOCTOR: And I think that's all all the questions I have. Do you have any questions or concerns?
+PATIENT: Nothing else right now.
+DOCTOR: OK. So yeah, based on her symptoms, she does seem to have some just a cold like symptoms, viral symptoms. And it's been, it's been you said three or four days in total, right?
+PATIENT: Yeah yeah.
+DOCTOR: Yeah, and so most likely it's just caused by a viral infection like common cold perhaps, it she doesn't have any worrying signs of any systemic things going on right now, so and no signs of like a bacterial infection that I would be concerned about that I would give antibiotics for right now. But definitely if her symptoms get worse at home and if she starts having any kind of shortness of breath, increased coughing with producing, more yellow or green material and if she gets more feverish, so will also do a physical exam and take her temperature today as well. But yeah, some of these things you just look out for, but yeah, so that that we'll do the physical examination and go from there.
+PATIENT: Alright, thank you.
+DOCTOR: Hey, you're welcome. Take care.

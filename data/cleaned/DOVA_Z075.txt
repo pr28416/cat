@@ -1,0 +1,145 @@
+DOCTOR: PATIENT?  How you doing?
+PATIENT: Good.
+DOCTOR: [REDACTED].  Did you enjoy Thanksgiving?
+PATIENT: Huh?
+DOCTOR: Did you enjoy Thanksgiving?
+PATIENT: Oh yes.
+DOCTOR: Yeah.  Good.
+PATIENT: Too much.
+DOCTOR: Too much.
+PATIENT: Yeah I ate too much.
+DOCTOR: Story of the world right.
+PATIENT: Yeah.
+DOCTOR: Everything going well?  How you feeling?
+PATIENT: Yeah everything's going.
+DOCTOR: Good.
+PATIENT: Pretty good so far.
+DOCTOR: Um I looked up a few things and your blood pressures were still pretty high when we saw you in August.
+PATIENT: And they're still high.
+DOCTOR: They're still high?
+PATIENT: I ain't [REDACTED].
+DOCTOR: Yeah okay.  So what are we gonna do?  You know how much he's giving you?  So the last time you thought maybe he wasn't giving you enough?
+PATIENT: Yes.  Uh he gave me 40 of one and I think 40 of the other one too.
+DOCTOR: So you get, one is the 40 that you take for the whole day and then there's some that you take right before lunch?
+PATIENT: Right.  I just started taking that just before lunch.
+DOCTOR: Okay.
+PATIENT: Uh the last, the last time I been here the [REDACTED].
+DOCTOR: Okay.
+PATIENT: That's [REDACTED] and I check it 2 1/2 hours and the other one supposed to be 24 hours.
+DOCTOR: Okay.  Um do you ever, does your blood sugar ever get real low?
+PATIENT: Yeah it has gotten real low once.
+DOCTOR: When was that?
+PATIENT: Uh huh  [REDACTED] I can’t even tell you which day it was [REDACTED]. It was about 60 something.
+DOCTOR: Okay.  Was that recently?
+PATIENT: [REDACTED] so I think [REDACTED].  The last time [REDACTED].
+DOCTOR: Okay.  Let’s get a look at your blood test today.  I would go up on your insulin but it's a little hard if you don't know what your numbers are.
+PATIENT: Well they've been about 180, 190s.
+DOCTOR: Uh-huh.
+PATIENT: 120s.
+DOCTOR: And those are the morning ones?
+PATIENT: Those are the ones period.  I don't [REDACTED] morning and the afternoon and in the evening. [REDACTED]
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Um so you've been getting it lately.
+PATIENT: Yes, I've been doing it regularly.
+DOCTOR: Okay.  Um did you take your blood pressure medicines today?
+PATIENT: Yes.
+DOCTOR: Okay.  Your blood pressure's high too.
+PATIENT: It was?
+DOCTOR: Uh-huh.  160/75.
+PATIENT: Oh yeah you told me it was and it's been high every time that I come here but usually it goes down.
+DOCTOR: At home?
+PATIENT: No here.
+DOCTOR: When we recheck it.
+PATIENT: Yes.
+DOCTOR: Okay.  Do you ever check it at home?
+PATIENT: Yes I do sometimes.
+DOCTOR: Do you know what it runs at home?
+PATIENT: One… one… I can't tell you exactly.
+DOCTOR: Okay.  Let's see, you know it's been kind of high.  It needs to be below 130 because of your diabetes um.  I think we could probably [REDACTED].  Yeah we could go up on some of your medications.  On all of your medications.  [REDACTED].  Do you want to try that?
+PATIENT: Yeah we can.
+DOCTOR: Okay.  Um and I want to get some blood tests today.
+PATIENT: Some tests.
+DOCTOR: Yeah is that okay?  Yeah.
+PATIENT: Okay.
+DOCTOR: Did you get your flu shot?
+PATIENT: Yeah [REDACTED].
+DOCTOR: Okay.
+PATIENT: The last time I was here.
+DOCTOR: Okay.  Can you hop up here real quick so I can take a listen?  I'll have you pull up your sweatshirt.  Uh I'm just going to listen to your back up here okay.
+PATIENT: Okay.
+DOCTOR: Take a deep breath.  Again.  Okay.  Any pain in your belly.
+PATIENT: Uh uh.
+DOCTOR: No.
+PATIENT: [REDACTED].
+DOCTOR: Any swelling in your legs?
+PATIENT: No.
+DOCTOR: Oh they're looking great.  You can hop down.
+PATIENT: Okay.
+DOCTOR: Are you in any pain?
+PATIENT: No.  No pain at all.
+DOCTOR: Okay.  Alright [REDACTED].
+PATIENT: Okay.  Oh yeah, [REDACTED] uh my stool has thinned out and [REDACTED] because I was taking the iron pills.
+DOCTOR: Okay.
+PATIENT: And [REDACTED] keep taking.
+DOCTOR: Uh-huh.
+PATIENT: Taking.
+DOCTOR: Did it get better?
+PATIENT: Yeah it got brown and then black again.
+DOCTOR: Okay.
+PATIENT: But it's a lot better; I don't have the runny bowel like I did.
+DOCTOR: Okay.  So it's not like just runny?
+PATIENT: No.
+DOCTOR: Okay.  Hmm.  Okay I'll be right back okay.
+PATIENT: Alright then.  Can you give me [REDACTED].
+DOCTOR: Yeah sure, will you bring it with you next time?
+PATIENT: Yes I promise I'll bring it with me.
+DOCTOR: Okay.
+PATIENT: I promise.
+DOCTOR: Then I'll give you one.
+PATIENT: I'll take care of it now.
+(DOCTOR OUT:  40:13  DOCTOR IN:  41:30)
+DOCTOR: [REDACTED] in a second [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Um let me talk to, adjust the Lantus, hmm.  So I'm gonna send you home um, lisinopril that's one of the blood pressure medicines that you're taking.
+PATIENT: Uh-huh.
+DOCTOR: Uh I'm gonna increase it okay.
+PATIENT: Okay.
+DOCTOR: So I need the medication list that you have and then I'll write down which one we’re changing.  So we're going take 40 miligrams, so you usually take 1/2 tab, so you're going to take one tab okay.
+PATIENT: Okay.
+DOCTOR: And then we'll have you come back and see the pharmacist.  Do you want me to have them mailed to you then?
+PATIENT: Yes.
+DOCTOR: Okay.  So then I'll have you come back for a blood pressure check okay.
+PATIENT: Okay.
+DOCTOR: In like two weeks.
+PATIENT: Alright.
+DOCTOR: And then we'll have you come back and see the pharmacist in a month and then you can come every two months.
+PATIENT: Okay.
+DOCTOR: Um do you think you could get some blood tests done today, is that okay?
+PATIENT: Yes I guess so.  [REDACTED].
+DOCTOR: Yeah okay.
+(DOCTOR OUT:  44:54  DOCTOR IN:  47:37)
+DOCTOR: So you need to bring your medications [REDACTED] okay.
+DOCTOR: Don’t forget to bring your blood sugar sheet, PATIENT, your blood pressure sheet, okay?
+PATIENT: Okay.  [REDACTED].
+DOCTOR: And bring all your medicines [REDACTED].
+PATIENT: Okay. I’m going to bring it next time.
+DOCTOR: [REDACTED] make sure you’re taking [REDACTED] dose, okay?
+DOCTOR: [REDACTED] okay.  Alright.  Okay so I wrote down the [REDACTED].  You still have some at home, you can just start taking instead of half a pill, take a whole pill.
+PATIENT: Okay.
+DOCTOR: Okay.  Uh we'll see you back in two weeks to get a blood pressure check with the nurse.  Okay so you just take that to the front and then they'll contact you about the pharmacist visit and then we'll see you back in three months in the clinic.
+PATIENT: Okay.
+DOCTOR: Okay and if you can get those blood tests done today.
+PATIENT: Yeah.
+DOCTOR: That'll be great.
+PATIENT: I'll get them done today.
+DOCTOR: Alright.  So I'll see you back.
+PATIENT: Okay.
+DOCTOR: Enjoy your Christmas.
+PATIENT: You too.
+DOCTOR: Bye.
+PATIENT: 48:33.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1255154
+TRANSACTION # 578-10-2-316-0103

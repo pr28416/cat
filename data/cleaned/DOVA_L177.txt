@@ -1,0 +1,300 @@
+DOCTOR: PATIENT?
+PATIENT: What's up doc?
+DOCTOR: Hi how are you?
+PATIENT: Fine.  You?
+DOCTOR: Good.
+PATIENT: I just seen you in August.
+DOCTOR: Huh.  I know.
+PATIENT: And.
+DOCTOR: But you've had some movement since then right?
+PATIENT: Uh.
+DOCTOR: You've been busy since then?
+PATIENT: Well I was in the hospital.
+DOCTOR: Yeah that's what I mean.
+PATIENT: This is supposed to be a follow-up from that I guess.
+DOCTOR: Uh-huh.  To see how you're doing.  So you were kind of dizzy and things were going on and then you went to the hospital.
+PATIENT: Vertigo, dehydrated.
+DOCTOR: Yeah you were pretty dehydrated.
+PATIENT: Yeah um.  They said my blood and creatinine was way off.
+DOCTOR: Yeah.  That's probably because of the dehydration.
+PATIENT: Yeah.
+DOCTOR: Um.  They stopped some of your meds and I know Cardiology restarted one of them.  How have you been doing since then?
+PATIENT: Okay.
+DOCTOR: Okay.  You were discharged end of August right?
+PATIENT: Should have been like in September I think it was.
+DOCTOR: See September yeah somewhere around.
+PATIENT: Third or fourth.
+DOCTOR: Third or fourth.  Yeah it looks uh it looks like it may be the end of August I'm not sure.
+PATIENT: End of August.
+DOCTOR: You had been admitted on the 28th.
+PATIENT: Right.
+DOCTOR: How has it been since then, your dizziness and everything?
+PATIENT: Well it's gone away.
+DOCTOR: Okay.
+PATIENT: I lost three more pounds.
+DOCTOR: Oh good.  But maybe in a bad way right?
+PATIENT: No.
+DOCTOR: You've been actively trying right?
+PATIENT: Yes.
+DOCTOR: Okay good.  I don't want to lose it because you're in the hospital.  Let's see.  Okay so your pressure is a little better.  You've been doing okay at home right?
+PATIENT: Yeah.
+DOCTOR: I know you were low so you're probably running, you know what are you running at home?
+PATIENT: Uh, I wasn't, gee back then I was running 90 over like 60 something.
+DOCTOR: Okay.
+PATIENT: But the vertigo was so bad that I just lied in bed for like three days before I even came in here.
+DOCTOR: Right now?
+PATIENT: No way back then.
+DOCTOR: Oh back then okay.  Okay.  Um.
+PATIENT: I couldn't eat nothing.  I was nauseated all the time.
+DOCTOR: You're still taking 80 and 90 of Lantus morning and evening?
+PATIENT: Uh-huh.
+DOCTOR: Okay and then are you still on 60 three times a day?
+PATIENT: Yes.
+DOCTOR: Of the.
+PATIENT: Yes.
+DOCTOR: Uh Aspart and you're still on the [REDACTED]?
+PATIENT: Yeah.
+DOCTOR: Okay and you're not sure which one you're on, if you're on the placebo or the uh?
+PATIENT: I tell you the way it's been working I have seen where my sugars have been and it even went [REDACTED], it's the real thing I think.
+DOCTOR: When were you due to see Ophthalmology?
+PATIENT: Did.
+DOCTOR: You saw them.
+PATIENT: Last week.
+DOCTOR: You saw them yeah.  You saw them on the 7th.
+PATIENT: Yeah everything's good.
+DOCTOR: Everything looked good back there?
+PATIENT: Yep.
+DOCTOR: Okay.  You see Podiatry too right?
+PATIENT: Um I'm still following up with the nail thing all the way from February.
+DOCTOR: Okay so they check your, they saw you in August?
+PATIENT: Yeah.  Plus they checked me with my gout too.
+DOCTOR: Okay.
+PATIENT: Cause they say I'm a strange person.  I have it in a weird spot.
+DOCTOR: Yeah.  Did they repeat any echo or imaging on you?
+PATIENT: Uh coming up.
+DOCTOR: You're coming up for a repeat okay.  So you'll get those and no increased shortness of breath, increased swelling in your legs?
+PATIENT: Still having a little problem when I overdo it with fluid.
+DOCTOR: Okay.
+PATIENT: And I can tell when I'm having, I'm being orthopneic at night is because maybe I'm sleeping on maybe three, four pillows.
+DOCTOR: And is that your baseline?
+PATIENT: If I overdo it with the fluids.
+DOCTOR: You know more.
+PATIENT: Yeah.
+DOCTOR: You've got to be careful about the fluid.
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.
+PATIENT: Yes.
+DOCTOR: You got, you're getting an ultrasound of your thyroid again?
+PATIENT: I guess yes.
+DOCTOR: And that is.
+PATIENT: It's coming up.
+DOCTOR: That should of been coming up right?
+PATIENT: Yeah October some time, 2nd.
+DOCTOR: Yeah it's coming up.  I think you can get it any time.  They just ordered it a day or two ago so.
+PATIENT: Okay.
+DOCTOR: I think you can get it whenever now.  Um, losing the weight which is good.
+PATIENT: What you told me to do.
+DOCTOR: Uh-huh.  Things are gonna get better and they're already getting better okay.
+PATIENT: Yeah.  What was it back in May you and DOCTOR almost read me the riot act.
+DOCTOR: I think you have PTSD from that.  Sorry.
+PATIENT: And then who and then when I get admitted that day, who's down there?
+DOCTOR: Uh was she your attending?
+PATIENT: No.
+DOCTOR: In oh she was on first?
+PATIENT: Yeah.
+DOCTOR:
+DOCTOR: .
+PATIENT: Yeah.
+DOCTOR: I saw, I got an alert and I saw DOCTOR admit you and I was like.
+PATIENT: Yeah.
+DOCTOR: What is he doing in the hospital?  I was looking at your thing and I was like but yeah, I was looking at it seeing what they were doing.
+PATIENT: Believe it or not I came in to see DOCTOR uh for my follow-up for refractory cardiac and.
+DOCTOR: Uh-huh.
+PATIENT: What it was is I was in the office there and they said you don't look good.
+DOCTOR: Oh.
+PATIENT: Over there in building one where my telehealth is.
+DOCTOR: Uh-huh.
+PATIENT: And they said you don't look good and they're the ones that put me in.  They told me to go to the Emergency Room and the Emergency put you in.
+DOCTOR: And put you in because your numbers didn't look good either.
+PATIENT: Cause I tried to be good this year.  I tried to stay out.
+DOCTOR: Yeah I mean I think your renal function is improving.  You got it done on the 30th.  It was 1.58, it was 4-ish I think when you were admitted.  All your other labs look good.  I mean your cholesterol is looking better but I think the last time that was whatever we had last time.
+PATIENT: Yeah.
+DOCTOR: You're still on the niacin right and the?
+PATIENT: Yes.
+DOCTOR: Do you see NAME at all for your anything?  NAME.
+PATIENT: She told me that uh now that I'm in this program okay.
+DOCTOR: Which program?
+PATIENT: The Excel Program for the diabetes.
+DOCTOR: Okay.
+PATIENT: She says that.
+DOCTOR: She can't mess with them.
+PATIENT: She's taken off and so is my uh.
+DOCTOR: Okay.
+PATIENT: My diabetic doctor which is DOCTOR.
+DOCTOR: DOCTOR.  So who sees you?
+PATIENT: That.
+DOCTOR: The one doctor who does your?
+PATIENT: Uh doctor yeah.  That's who.
+DOCTOR: What are you on, let me see, you're on the niacin, fish oil you take 3000.
+PATIENT: Yeah I called in.
+DOCTOR: Fenofibrate.
+PATIENT: The other night because I was filling my pills and there's a couple on there that you have to refill I think.
+DOCTOR: Okay, I'll renew them.  No problem.
+PATIENT: Have them sent please.
+DOCTOR: Okay in the mail okay.
+PATIENT: Yeah.
+DOCTOR: I saw your A1c was 9.
+PATIENT: Down from almost 11.
+DOCTOR: Yeah.  We can probably get it checked out.
+PATIENT: She's got me going for an INR today.
+DOCTOR: Okay.
+PATIENT: So if you want to put something in.
+DOCTOR: Let's see.  It's only been a month.
+PATIENT: I don't see you until like Christmas or something around there again.  Right?
+DOCTOR: Yeah.
+PATIENT: For my six month annually?
+DOCTOR: Yeah we're annually.
+PATIENT: Or January uh semi-annual.
+DOCTOR: Semi-annual yeah.  I'll probably see  you a few times a year to try to keep you out of the hospital.
+PATIENT: Yes.
+DOCTOR: So they stopped your Aldactone and they stopped your.
+PATIENT: Whatever it was.
+DOCTOR: Metolazone.
+PATIENT: Yeah.
+DOCTOR: And you just restarted metolazone.
+PATIENT: Right.
+DOCTOR: And the dizziness is better right?
+PATIENT: Yes.
+DOCTOR: And then you're checking your blood pressure okay.  Let me take a listen to you.
+PATIENT: Okay.  You need the shirt off, what?
+DOCTOR: No you're fine.  Okay.  Same amount of pillows though, same amount of distance walking that you can tolerate?  Good, better?
+PATIENT: The distance is getting better.
+DOCTOR: Okay.
+PATIENT: Because I.
+DOCTOR: You're losing the weight too.
+PATIENT: Yeah.
+DOCTOR: It's gonna get better you know the more active you are so.
+PATIENT: But uh the sleep thing, because I've been having trouble sleeping at night because of the back pain.
+DOCTOR: The back pain that you're having?
+PATIENT: Yeah but I'm having, I have an epidural scheduled for the 18th of October.
+DOCTOR: Okay.  Take some deep breaths.  You can breathe normally, I'm just gonna listen to your heart.  Any swelling?
+PATIENT: Just the normal.
+DOCTOR: Just the normal amount.
+PATIENT: Yeah.
+DOCTOR: Just by your sock line and everything.
+PATIENT: Yeah.  Nothing gross.
+DOCTOR: Have a seat.  Alright we'll probably gonna need to repeat your lipids before we see you next time.  Um and then I'll do the A1c at that time too okay.  But um I'll be right back okay.
+PATIENT: Sure.
+DOCTOR: Cause it looks like your friend, DOCTOR.
+PATIENT: Oh gosh.
+DOCTOR: Oh yeah.
+DOCTOR: 33:31  DOCTOR IN:  50:54
+DOCTOR: Alright.  We think you're doing okay okay.
+PATIENT: Alright.
+DOCTOR: Um I want to see you probably, let's see now is, saw you in October right, we'll see you in two months, we'll have you back.
+PATIENT: Alright.
+DOCTOR: Um.  Get your A1c and fasting lipid and you're going to all your appointments for like the echo and the ultrasound.  You know to get all those done okay.
+PATIENT: Yes.
+DOCTOR: And I'm gonna renew your medications and you just want them mailed.
+PATIENT: Yep.
+DOCTOR: Right okay.  If you need anything else from us besides that, we'll see you soon okay and we'll get this.
+PATIENT: Question.
+DOCTOR: Yeah.
+PATIENT: Uh.  I seem to be having a GI problem again.
+DOCTOR: What kind?
+PATIENT: Uh.
+DOCTOR: What's going on?
+PATIENT: Is it alright to have bowel movements four or five times a day?
+DOCTOR: So what are you having like loose bowel movements or just.
+PATIENT: No.
+DOCTOR: Regular bowel movements?  How long have you been doing that?
+PATIENT: I mean even with the morphine too.  I should be having it be a slow GI.
+DOCTOR: Yeah.  How long has it been going on?
+PATIENT: Uh for about the last three months now.
+DOCTOR: Any blood or mucous in the stool?
+PATIENT: Just if I go a lot you know during the day I think it's just the ring around there it's irritated, that's it because it's bright red.
+DOCTOR: So you have bright red blood?
+PATIENT: Yeah around the rectum.
+DOCTOR: And it's bright red too.
+PATIENT: No, no, just when I wipe.
+DOCTOR: When you're wiping?
+PATIENT: Yeah.
+DOCTOR: Do you have hemorrhoids?
+PATIENT: Yeah.
+DOCTOR: So [REDACTED].
+PATIENT: No fistula.  They said I had a fistula before.
+DOCTOR: No pain there?
+PATIENT: No.
+DOCTOR: Uh-huh.  No abdominal pain, no nausea or vomiting?
+PATIENT: Not like before I had the colonoscopy done.  I had [REDACTED].
+DOCTOR: When did you have your colonoscopy?
+PATIENT: Not the colonoscopy.
+DOCTOR: You had a hemicolectomy.
+PATIENT: Hemicolectomy, I had a sigmoidectomy you mean.
+DOCTOR: When they took part of it out right?
+PATIENT: Yeah.
+DOCTOR: Cause you had the.
+PATIENT: So I can eat popcorn again.
+DOCTOR: [REDACTED].  So they're normal formed bowel movements but you're just having multiple ones?
+PATIENT: Flat.  They're not round they're kind of.
+DOCTOR: Like runny kind of?
+PATIENT: No flat.
+DOCTOR: Okay.
+PATIENT: Like the intestine the ziggy collapsed like.
+DOCTOR: Like a pencil thin kind of?
+PATIENT: Like a ribbon.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: I wonder if you're gonna need another colonoscopy again.
+PATIENT: Check it out.
+DOCTOR: No pain though?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Okay.  About the only other problem I noticed.  I got a thing coming up with the urologist.
+DOCTOR: And you feel like you can't completely go to the bathroom?
+PATIENT: I go but it's you know, it's like its inadequate and I go four, five, six times a day.
+DOCTOR: Okay maybe you're not completely going those times that you do go.
+PATIENT: I mean.
+DOCTOR: Have you been.  I mean it might be because.
+PATIENT: And sometimes when I do have a bowel movement it's like I cannot control it.  I mean when it says go now it means go now because or else you're gonna fill your pants.
+DOCTOR: Okay.
+PATIENT: Alright.
+DOCTOR: And that's been recent?
+PATIENT: Yeah.
+DOCTOR: Okay.  Let me go talk to, let me go talk to DOCTOR and see if we might need to set you up right now with a colonoscopy or if there's something.
+PATIENT: Okay.
+DOCTOR: We can try okay.
+PATIENT: Yes ma'am.
+DOCTOR: 55:09    DOCTOR IN:  57:33
+DOCTOR: Okay.  I think we're gonna, it looks like it might be like you're not completely going is my, what the issue is.  I think we need to bulk up your stool a little bit more.  It could still be from the morphine.  It might be just presenting differently in you, you know.
+PATIENT: Okay.
+DOCTOR: Um I'm gonna give you some fiber to take okay.  Why don't you take it for the next uh whatever month or so and see if that helps with your stool okay.  I'll mail it to you okay.
+PATIENT: Yes ma'am.
+DOCTOR: Um and then if that, you know whether or not it works what not I'm gonna see you in ten weeks anyways okay.
+PATIENT: Okay.
+DOCTOR: See if that works.  Alright and then if we have to go and do a colonoscopy then we'll do that but let's see if we can figure out what it is.  I mean it's like a motility problem or whatever it is okay.
+PATIENT: Okay.
+DOCTOR: And I'm gonna put in labs for you okay.
+PATIENT: Yes.
+DOCTOR: In two weeks, in about two months sorry.  Getting all messed up okay.
+PATIENT: Why you getting all messed up?  Rough day?
+DOCTOR: It’s always a rough long day.
+PATIENT: You're only here one day a week ain't you?
+DOCTOR: I'm doing other things.
+PATIENT: Oh I know you gotta do your rounds here.
+DOCTOR: I'm here the whole week.
+PATIENT: Yeah but I mean you're clinic is just on Wednesday.
+DOCTOR: Every five weeks we're in clinic yeah.
+PATIENT: Yeah.
+DOCTOR: There you go, you're all set okay.
+PATIENT: Yes ma'am.
+DOCTOR: Call if you have any questions okay.
+PATIENT: I'll see you in two months.
+DOCTOR: Yeah.
+PATIENT: Okay.
+PATIENT: 59:11.
+Time is 4:05.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38301
+TRANSACTION # 578-10-2-316-0103

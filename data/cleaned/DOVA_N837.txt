@@ -1,0 +1,271 @@
+DOCTOR: PATIENT?
+PATIENT: Yeah hi.  Hi how you doing?
+DOCTOR: Right on time huh.
+PATIENT: Right on time, right on the button.
+DOCTOR: Have a seat in there.
+PATIENT: Okay.
+DOCTOR: How you doing?
+PATIENT: Good.
+DOCTOR: So when was the last time I saw you, do you remember?
+PATIENT: No I don't remember any of that.
+DOCTOR: It's been a while?
+PATIENT: Uh been a while yeah.  I was thinking like six months.
+DOCTOR: Almost a year, June.
+PATIENT: June, wow that long.
+DOCTOR: What can I do for you?
+PATIENT: Uh I'm in for a regular check-up I guess.
+DOCTOR: Uh-huh.
+PATIENT: Uh I wanted to tell you that on the pills, that last pill that I was taking, that varmazine or what it is.
+DOCTOR: Hmm, it's call valsartan.
+PATIENT: Valsartan, whatever that is.
+DOCTOR: Yeah.
+PATIENT: I never could get enough of those.  I'd always run out so consequently what I did is I switched back to taking only one pill.  So I've only taken one pill instead of the pill and a half.
+DOCTOR: Let me look [REDACTED].  How much were you taking before?
+PATIENT: Before I was taking one pill and then you bumped it up to a pill and a half.
+DOCTOR: Yeah.
+PATIENT: And I took it for a while, then I couldn't get the dag gone pills and uh so I just switched back to spread them out to one pill.  But here's a listing of my blood pressures I took.
+DOCTOR: This is on one pill.
+PATIENT: This is all on one pill.
+DOCTOR: Yeah there's a couple of high ones.
+PATIENT: If you say so I'll go back to a pill and a half.
+DOCTOR: Yeah.  Cause I want it at 140 or below.
+PATIENT: Okay.
+DOCTOR: You have a couple that uh 126, 140, so you didn't have enough huh?
+PATIENT: Yeah, I keep running out and I am.
+DOCTOR: How many days behind were you?  Uh how many days could you.
+PATIENT: I think for a period there I was out of pills for about two weeks.
+DOCTOR: Really.  If it's at 1 1/2 really.
+PATIENT: 1 1/2, so I spread it out to one pill and then I started using what I had, I went back to one pill and then since then I haven't changed it.  I just kept going with it.  [REDACTED].  But if you're thinking the blood pressure's still too high and you want it down, I can, I got pills now but I wanted to tell you.  If they're going to get them to me, they got to give me more than what they've been sending.
+DOCTOR: Yeah.  They'll have to do that.  Cause I'm thinking you have a 90 day supply.
+PATIENT: Yeah, if they want me on a pill and a half they're going to have to kick up the number by 50%.
+DOCTOR: I can't do math, alright.  You need 90 pills, so 90 pills will give one pill for three months.  If you also need a half.
+PATIENT: Yeah.
+DOCTOR: Half a tablet for, so it would be a half tablet x3 x30.
+PATIENT: If it would be 90 for three months then a pill and a half would be then another 45 wouldn't it?
+DOCTOR: Yeah.  It works out to be 135 pills.  Should be enough wouldn't it?
+PATIENT: I don't know, I been taking them uh.  I might have some left cause the problem I had is its feast or famine.  Either I have no pills or all of a sudden I got a bunch of them.  I got enough now, I got in that bottle, I think that would last me a little bit.
+DOCTOR: Okay.
+PATIENT: But uh how long, what I really have to be able to do is uh, when I run out, before I run out I figure about a week or so and then I turn in my prescription for that.
+DOCTOR: Okay.
+PATIENT: And then I get them on time.
+DOCTOR: How active are you right now?
+PATIENT: I'm very active.
+DOCTOR: Are you, so do you exercise at all?
+PATIENT: Oh yeah, every morning.
+DOCTOR: What do you think you do?
+PATIENT: I do about 20 minutes.  I got uh.
+DOCTOR: Do you walk?
+PATIENT: I walk but I got a regimen of uh exercises that I do.  They take about 25 minutes.
+DOCTOR: What kind of exercises?
+PATIENT: Mostly stretching.  Stretching and just limbering up.
+DOCTOR: Okay.
+PATIENT: And then I walk the dog, I walk her every day, about at least two, a couple of blocks. So, I’m out. But I'm active.  I'm putting brakes in the car right now.
+DOCTOR: Okay.
+PATIENT: And so I'm up and down you know.
+DOCTOR: Any problems at all or anything else?  Anything that's concerning you?
+PATIENT: Uh nothing except what I wanted to ask you.
+DOCTOR: Yeah.
+PATIENT: When I sleep at night.
+DOCTOR: Uh-huh.
+PATIENT: You know I've been taking guitar lessons.
+DOCTOR: Yeah.
+PATIENT: So when I take guitar lessons it's hard on your fingers.
+DOCTOR: Yeah.
+PATIENT: It really hurts like hell, so anyway as I been sleeping at night, when I lay on my belly I feel tingling in my hand here.
+DOCTOR: Hmm.
+PATIENT: And I keep thinking that tingling is coming from pressing on the.
+DOCTOR: [REDACTED].  Sometimes you can injure your carpal tunnel down here.
+PATIENT: Yeah.  I don't know but anyway.  I do, I do feel that tingling and then it goes away if I roll over and I get on my back it seems to disappear but then it'll come back again and it's like a tingling situation and I keep thinking it's coming from those fingers but I thought I'd pass it by you to see what you thought.
+DOCTOR: Where's the tingling?
+PATIENT: It just goes up my arm right here?
+DOCTOR: Anywhere and do your fingers tingle at all?
+PATIENT: Yeah.
+DOCTOR: Which fingers?
+PATIENT: All of them, they just.
+DOCTOR: Any fingers worse than the others?
+PATIENT: Yeah these are the ones that I use for the cords.
+DOCTOR: The three here.
+PATIENT: You're supposed to use four for the cord but I don't use that pinky much.
+DOCTOR: How bad is it?
+PATIENT: No it's just very mild.
+DOCTOR: And it goes away if you.
+PATIENT: Yeah it goes away, yeah it isn't, it's not enough to wake you up or anything it's just a little.  It's irritating.  Like you, have you ever slept on your arm?
+DOCTOR: Uh-huh.
+PATIENT: You sleep on your arm and you get up and you feel a little tingling.
+DOCTOR: Yeah.
+PATIENT: That's it.
+DOCTOR: Okay.  How's your knee doing?
+PATIENT: Knee is okay and I had a question on that.
+DOCTOR: Yeah.
+PATIENT: There's a newspaper ad that says they got a new concoction a pill that lubricates the joints and it does it within a week and I didn't, I saved that article but I wanted to ask there, is there a pill on the market that is good for the joints that I might be taking?
+DOCTOR: Well there's some controversy.  A lot of the pills for arthritis have like glucosamine or chondroitin.
+PATIENT: Yeah, yeah.
+DOCTOR: Have you tried using those in the past before?
+PATIENT: No.
+DOCTOR: So they have those over-the-counter.  Some studies show that it helps; some studies show that it doesn't so I can't say for sure.  It's supposed to like help lubricate your joints, help [REDACTED].
+PATIENT: They say take gelatin.  Is that Jell-O, is Jell-O gelatin?
+DOCTOR: Yeah, Jell-O is a gelatin.
+PATIENT: If you eat a lot of Jell-O would that help?
+DOCTOR: Uh.  [REDACTED].  Typically those have chondroitin, glucosamine and gelatin.
+PATIENT: Okay.
+DOCTOR: And some studies show it helps, some studies show it doesn't so I can't, you know.  I don't know if it helps or not.  It can be expensive.  And [REDACTED] bottle costs like $20-$30 for a bottle.
+PATIENT: That kills it right there.
+DOCTOR: Yeah and some people say it helps and some people say it doesn't.
+PATIENT: Okay.
+DOCTOR: So I don't know if it really does [REDACTED].
+PATIENT: Well my, as long as I keep active and I keep my knee.  When it gets damp out.
+DOCTOR: Uh-huh.
+PATIENT: I've got a support that they gave me.
+DOCTOR: Okay.
+PATIENT: A knee support and I put that on and it's the heat from that that seems to help the most and as long as I do that I can get through day [REDACTED].
+DOCTOR: Do you smoke at all?
+PATIENT: No.
+DOCTOR: Ever smoke before?
+PATIENT: I smoked uh when I was first in the service maybe oh, I might have been maybe about 25 years old so it's been a long time since I.  But I never smoked cigarettes.  I smoked a pipe.
+DOCTOR: Okay.
+PATIENT: And I smoked cigars, then cigars got too expensive.  A good cigar ran about 75 cents.
+DOCTOR: You live pretty far from here don't you?
+PATIENT: Yeah Arlington Heights.
+DOCTOR: What if I want you, I need you to come back to get lab work done.  When's your next appointment here do you know?
+PATIENT: I have no idea.  Well wait a minute I got one with uh an eye doctor.
+DOCTOR: Do you know when that is?
+PATIENT: Uh seemed to me that's coming up.  If you could break into that you might be able to check it.
+DOCTOR: This doesn't list any other appointments other than [REDACTED].
+PATIENT: No I can't tell you because I don't remember because I complained I'm having trouble reading and they told me last time I was there in three months they were gonna have me in for cataract surgery and I never heard from them again.  So I asked them what the heck was happening and they said well you got an appointment coming up within a month or two.
+DOCTOR: [REDACTED].
+PATIENT: And so I said well I'll just wait for that.
+DOCTOR: When was the last time you saw them?
+PATIENT: Oh God I wish you wouldn't ask me these questions.  Uh I should keep a record on that but it's been a while.
+DOCTOR: August. (provider looked in EMR)
+PATIENT: August, that long wow.
+DOCTOR: You should just stopped by on your way out of here and scheduled an appointment with them.
+PATIENT: I got one.  I don't know when it is though.
+DOCTOR: [REDACTED].
+PATIENT: They told me I had one.
+DOCTOR: It's not listed in here.  You can stop by the Eye Clinic on the way out.
+PATIENT: I will.  They told me I had one coming up.
+DOCTOR: And you saw the skin doctor right?
+PATIENT: Yeah I just saw them.
+DOCTOR: Not too long ago.
+PATIENT: Yeah.
+DOCTOR: And they took a biopsy alright.
+PATIENT: Yeah they took a biopsy on my nose right and that was clear.
+DOCTOR: Okay.
+PATIENT: But I have trouble with my eyes cause they water a lot and I keep thinking its, they say when you're having trouble reading that's the time you should get these things removed and uh they said it wasn't the right time.
+DOCTOR: Back in August they wanted you to come back in about 9-12 months.
+PATIENT: Yeah.
+DOCTOR: It should be around now from this summer.
+PATIENT: Yeah.
+DOCTOR: Just stop by on the way out of here.
+PATIENT: Yeah, okay I'll double check.  If you could then we could make that appointment at the same time.
+DOCTOR: Yep.  Just have a seat up here.  Is it a big hassle for you to come up here?
+PATIENT: What's that?
+DOCTOR: Is it a big hassle for you to come to the VA?
+PATIENT: No not if it's necessary no.  I come here, but I like to double up on appointments if I can.  You know it takes me an hour to get here.
+DOCTOR: Where did they do the biopsy?
+PATIENT: Right there on the nose, right about there.
+DOCTOR: The nose okay.  [REDACTED].
+PATIENT: They did find some stuff before.
+DOCTOR: Yeah I saw that yeah.
+PATIENT: And then they did uh, they did some cutting.
+DOCTOR: Open your mouth, say ah.
+PATIENT: Ah.
+DOCTOR: Okay, yeah I saw their note.  Yeah they did a little bit huh.
+PATIENT: Yeah and they were concerned because they did remove some before that was cancerous.
+DOCTOR: Deep breath in and out.  I'll have you lie back here.  No chest pain or shortness of breath?
+PATIENT: Nope.
+DOCTOR: Or stomach pain?
+PATIENT: Nope.  Those pills were uh, were uh I call them antacids.
+DOCTOR: Uh-huh.
+PATIENT: They work great.
+DOCTOR: Okay that's good.  Any pain at all?
+PATIENT: Nope.
+DOCTOR: You need to sit back up here.  Who do you live with?
+PATIENT: I live alone.  I got a dog, me and the dog.
+DOCTOR: [REDACTED].
+PATIENT: My wife died about 20 years ago.
+DOCTOR: Oh wow.
+PATIENT: So and I have [REDACTED].  My kids are all gone.
+DOCTOR: Things are okay at home?
+PATIENT: Yeah.  My dog wasn't feeling too good.  I think she's got epilepsy.
+DOCTOR: Really, that's not [REDACTED].
+PATIENT: I see that she fell over and she had went into like a fit.
+DOCTOR: Yeah.
+PATIENT: And in about three minutes it was over so I got some dog books from the library and they said yeah that breed can have epilepsy.
+DOCTOR: [REDACTED].
+PATIENT: And uh I said well at 10 years old you know, maybe she's to that point where she can't.
+DOCTOR: [REDACTED].
+PATIENT: Yeah she's getting pretty old.
+DOCTOR: Let me talk to my attending I'll be right back okay.
+PATIENT: Sure.
+(DOCTOR OUT:  119:2  DOCTOR IN:  123:02)
+DOCTOR: Alright, so we'll just change it back to the 1 1/2 I hope they send you enough this time.  They may have miscounted.
+PATIENT: Okay, okay.
+DOCTOR: Let me renew actually all of your regular meds have been renewed except for the valsartan.  Okay I'll renew the valsartan.
+PATIENT: Okay.
+DOCTOR: And um.
+PATIENT: It seemed like there was a limit on the number of valsartan I could get and I would run they would tell me that there's no more available.  Is all that heart medicine, is that all the same as rat poison?
+DOCTOR: No why would you say that?
+PATIENT: I heard that.  Heart medicine is usually rat poison.
+DOCTOR: (Laughter) I don't know where you heard that um.  Okay so what we will do I'll have you come back here in about six months.
+PATIENT: Okay.
+DOCTOR: Um unless something major goes on.
+PATIENT: Okay.
+DOCTOR: Then you need to come back sooner than that.
+PATIENT: Okay.
+DOCTOR: I want to check lab work, well, the thing is like, I should probably have you come back to see the nurse to make sure your blood pressure is okay.
+PATIENT: Okay.
+DOCTOR: Okay for a nurse appointment.
+PATIENT: Okay.  Well can you call the Eye Clinic to find out if I have an appointment that they don't show on the books?
+DOCTOR: There's nothing in there so what you need to do is on your way down, just walk on in.
+PATIENT: I know but then it can help you right now.
+DOCTOR: For the.
+PATIENT: To make another appointment.
+DOCTOR: We'll see how your blood pressure is though.  I don't think you need to see the nurse.
+PATIENT: Okay.
+DOCTOR: Cause you can check your blood pressure at home.
+PATIENT: Yeah.
+DOCTOR: So if there is any problems in your blood pressure and if it gets higher then when you take 1 1/2 a day if you see it getting any higher than 145.
+PATIENT: Yeah.
+DOCTOR: Call in here, let the nurse know and they'll just let me know.
+PATIENT: I hear you.
+DOCTOR: Okay.
+PATIENT: Okay I'll do that.  Cause it sure seems like it isn't bad.  You know it gets down to 132 something and that's pretty good.
+DOCTOR: It's just less than, but I think that over 145 a lot.
+PATIENT: Okay, okay.
+DOCTOR: Okay.  Well I would like the lab work in like 1-2 weeks or so, whenever you go to get your eye appointment.
+PATIENT: When I come in to the eye appointment can I automatically go down and get my blood and then.
+DOCTOR: Just tell them that your doctor ordered the lab work.
+PATIENT: Great.
+DOCTOR: Okay.
+PATIENT: That'll take care of it.
+DOCTOR: But I would like to get it done within the next month or so.
+PATIENT: Okay cause right now I'm without a car.  My car has bad brakes and we're working on it and uh so now I got a driver driving me in.
+DOCTOR: Okay.
+PATIENT: And I think I just lost a friend, I don't think he'll drive me down again.
+DOCTOR: And now I need to have you come back in about six months.
+PATIENT: Okay.
+DOCTOR: Um so I'm finishing up in the program in June.
+PATIENT: Oh bummer, that's great for you.
+DOCTOR: So when you come back you'll probably be with a different resident.
+PATIENT: Okay.
+DOCTOR: Um I'm actually staying around, I'll be in Cardiology.
+PATIENT: Okay.
+DOCTOR: So I'll be around it just won't be here.
+PATIENT: Okay.  Good luck to you.
+DOCTOR: Yeah.
+PATIENT: Great, it's been nice working with you.
+DOCTOR: Yeah, yeah.
+PATIENT: Every thing’s working good.
+DOCTOR: Yeah you look pretty good huh.
+PATIENT: Yeah.
+DOCTOR: Alright.  Good luck on that lab work okay.
+PATIENT: Yeah I will, thank you.  Now I just turn this in and that's it?
+DOCTOR: Yeah and then just stop in the Eye Clinic on your way out.
+PATIENT: Okay thank you.
+PATIENT: 126:4
+Time is 3:55.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238104
+TRANSACTION # 578-10-2-316-0103

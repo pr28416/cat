@@ -1,0 +1,197 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.  How are you today?
+DOCTOR: I'm DOCTOR.
+PATIENT: Just a jacket.
+DOCTOR: Come on in.
+PATIENT: So how you doing?
+DOCTOR: Fine.  How you doing?
+PATIENT: Fine.  What's happening or you know.
+DOCTOR: Yeah well um, this is the first time [REDACTED] for a while and yeah.
+PATIENT: Oh yeah you're new.  I need a regular check-up.
+DOCTOR: Okay great.  Any problems or concerns today?
+PATIENT: Eye medicine.
+DOCTOR: Eye medicine.
+PATIENT: Yeah they put less in the bottle now so it doesn't last the full three months duration.
+DOCTOR: Okay.
+PATIENT: Can I get four instead of three?
+DOCTOR: Okay.  Let me just take a look here.  Which one are you talking about?  [REDACTED].
+PATIENT: No, no uh.
+DOCTOR: [REDACTED].
+PATIENT: Uh I think it's kind of a, let me check my, what'd I do with it.  The one I put in once, I only put it once a day.
+DOCTOR: Okay um.
+PATIENT: So you can get three bottles, but they put less in the bottles now.
+DOCTOR: Okay.  Well what I can do is I can give you 12 refills um.
+PATIENT: Yeah but last time [REDACTED] said they only give it to me every three months, it's supposed to last three months when it doesn't last three months.
+DOCTOR: Let me try, let me see here.  [REDACTED]
+PATIENT: It's less in the bottles now.
+DOCTOR: [REDACTED] Pharmacy [REDACTED].
+PATIENT: Yes.
+DOCTOR: We'll see if this works.  I increased the amount they put in the bottle.
+PATIENT: Uh-huh.
+DOCTOR: I hope that works.  Otherwise you’ll have to take it up with the pharmacy.
+PATIENT: Okay, they won’t pay any attention to me.  And uh I put in for a prescription, could I pick it up today?
+DOCTOR: What's that?
+PATIENT: My eye medicine.
+DOCTOR: Uh did you call and they said they'd mail it?
+PATIENT: Yeah.
+DOCTOR: Um, you might be able to go down there and get it but they probably have already mailed it.
+PATIENT: Right.  Okay.  Because I don't have anymore.  I'll see my eye doctor this afternoon, maybe he can give me.
+DOCTOR: Yeah.
+PATIENT: Yeah.  Cause I ran out the first of last week, towards the end of the month so.
+DOCTOR: And what eye problems do you have?
+PATIENT: Uh glaucoma in both eyes.  Can't see in the right, just peripheral vision.
+DOCTOR: Any other medical problems?
+PATIENT: Uh let's see no.  No.
+DOCTOR: Now I understand you've been off the Coumadin correct?
+PATIENT: I've been off that for a long time.
+DOCTOR: Any problems since that?
+PATIENT: Nope.  I've been off Coumadin since February.
+DOCTOR: Uh-huh.  Okay good.  Um do you smoke?
+PATIENT: Yep.
+DOCTOR: How much do you smoke?
+PATIENT: Maybe six to eight cigarettes a day.
+DOCTOR: Okay.
+PATIENT: But I quit.
+DOCTOR: You quit?
+PATIENT: Yeah.  I'm quitting.
+DOCTOR: Okay.  Any alcohol use?
+PATIENT: Nope.
+DOCTOR: Never, rarely, occasionally?
+PATIENT: Occasionally.
+DOCTOR: Any illicit drugs?
+PATIENT: No.
+DOCTOR: Who do you live with?
+PATIENT: My son, me and my wife.
+SECOND PERSON K792
+[REDACTED] doctor.
+DOCTOR: Um family history, mom and dad, any medical problems that you know of?
+PATIENT: Uh my father's deceased.  My mother's 88.  She uh, not really medical problems.
+DOCTOR: Okay.
+PATIENT: Normal for somebody in.
+DOCTOR: Any heart disease?
+PATIENT: No.
+DOCTOR: High blood pressure or anything like that?
+PATIENT: Uh maybe high blood pressure.
+DOCTOR: And your dad what did he pass from?
+PATIENT: I forgot.
+DOCTOR: Okay.  Did he have any heart problems or diabetes that you know of?
+PATIENT: No.  He's dead so he's not in the system anymore right?
+DOCTOR: Um I wouldn't be allowed to look him up anyway.
+PATIENT: Oh.
+DOCTOR: Okay.  Any fevers, chills, changes in your weight?  Uh do you exercise on a regular basis?
+PATIENT: Oh yes.
+DOCTOR: Okay good.  What kind of exercise do you do?
+PATIENT: Well I go to the gym.  I'm not running because my knees have arthritis.
+DOCTOR: Oh okay.
+PATIENT: You can't cure my arthritis.
+DOCTOR: Well, the only way to really cure it is what you're doing [REDACTED].
+PATIENT: I don’t think so.
+DOCTOR: What do you take for the pain when you get it?
+PATIENT: I don't actually.  Well, I don't have much pain.
+DOCTOR: Okay good.
+PATIENT: The other doctor told me I had arthritis.
+DOCTOR: Okay.
+PATIENT: So I just stopped running because of that.
+DOCTOR: Okay.  Well you can always do like some.
+PATIENT: Yeah I workout at the gym you know, upper body.
+DOCTOR: Biking is good for your knees [REDACTED].
+PATIENT: Yeah.  I do a lot of walking.
+DOCTOR: Good.  Let me just pull up all of my little reminders here and we'll go through these real quick and then.
+PATIENT: I have to go give blood?
+DOCTOR: [REDACTED].  Um is there anything [REDACTED].
+PATIENT: No.
+DOCTOR: Have you eaten today?
+PATIENT: No.
+DOCTOR: Drink anything?  Coffee, orange juice?
+PATIENT: Juice.
+DOCTOR: So I'd like to get a fasting cholesterol level for you.
+PATIENT: Uh-huh.
+DOCTOR: But you have to be like literally fasting so I can order it and if you don't mind coming back for it.  Are you coming back anytime soon?
+PATIENT: Wasn't planning on it.
+DOCTOR: Okay.
+PATIENT: What do you consider soon, couple days?
+DOCTOR: Well within the next month or two, [REDACTED].
+PATIENT: Fasting, so how long would I have to fast?
+DOCTOR: Um well like the night before when you go to bed.
+PATIENT: Yeah.
+DOCTOR: Like 10 or 11 o'clock.
+PATIENT: Yeah.
+DOCTOR: Then that whole morning until you get there and get your labs drawn, only water.  You can take your medicines with the water, that's fine and then you come in first thing in the morning um and then we draw them.[REDACTED]
+PATIENT: Do you want me to do that?
+DOCTOR: If you could that'd be wonderful.
+PATIENT: So when would you like me to do it, tomorrow?
+DOCTOR: It doesn’t matter.  Like I said I can just put in the order and then you can come back and get it whenever it's convenient.
+PATIENT: Oh, okay, okay, so.  I'll try and do that this week.  So I just need to fast from midnight till whenever I come here.  No problem, just snap the whip on me for sure, if you push the button I come a strutting.
+DOCTOR: Alright.  And then I would like to get some other basic labs along with the.
+PATIENT: Uh [REDACTED].  Cause I been in China and I had a [REDACTED].
+DOCTOR: Okay.  So you don't need to give any blood today, we might as well just do all of that when you come in, okay.
+PATIENT: Okay.
+DOCTOR: So it'll all be in here.
+PATIENT: But I could do it today though?
+DOCTOR: Um, no you have to be fasting.
+PATIENT: Oh okay.  For all the tests I need to fast?
+DOCTOR: Not all the tests but they're not going to know the difference at the lab.
+PATIENT: Okay.
+DOCTOR: So they'd probably draw all the tests and I’d have to reorder.
+PATIENT: Okay.  I'll fast and plan on coming in tomorrow.
+DOCTOR: That's fine.  Have a seat up here.
+PATIENT: She wants you.
+SECOND PERSON K792
+No.
+PATIENT: Hold this.
+DOCTOR: I heard you coughing on the way in. Alright open up for me ah.  Any cough, nausea?
+PATIENT: No, just a little cough from a cold that's it.
+DOCTOR: Okay.  Any chest pains?
+PATIENT: No.
+DOCTOR: Big deep breath in and out.  Good.  Just breathe normal.  Any swelling in your legs?
+PATIENT: No.
+DOCTOR: Good. Want to lay back for me.  Any pain where I push?
+PATIENT: No.
+DOCTOR: Good.  Alright you can sit up.  Alright everything looks good.
+PATIENT: Okay.
+DOCTOR: No your lungs sound good.  Your heart sounds good and everything else looks okay.  Your blood pressure looks great.
+SECOND PERSON K792
+Oh really.
+DOCTOR: Um any questions for me?
+PATIENT: No.
+DOCTOR: Hopefully I fixed the meds but we'll see.
+PATIENT: Yeah.
+DOCTOR: Alright give me five minutes; I just have to run everything by my boss.
+PATIENT: Okay.
+DOCTOR: And then we'll get going okay.
+PATIENT: Sure, alright.  [REDACTED].
+(DOCTOR OUT:  58:44  DOCTOR IN:  63:33)
+DOCTOR: Alright.  So the only other thing to do, you said you'd traveled to China?
+PATIENT: Yes.
+DOCTOR: Recently, or?
+PATIENT: Yeah why?
+DOCTOR: Well I was just curious because we'd like you to be immunized when for those, when you’re going to those [REDACTED].  Have you ever had a [REDACTED].
+PATIENT: Yes the first time I went.
+DOCTOR: So I'll just double check your blood work.
+PATIENT: Yeah and uh I have [REDACTED] for every year there too.
+DOCTOR: Okay great.
+PATIENT: Yeah the first year I took, I was inoculated.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Oh okay.  Alright and I'll go ahead and set that up for you at the Lab.
+PATIENT: And I'll get it tomorrow.
+DOCTOR: Okay.  And then I probably don't need to see you for another six months or so unless something comes up okay?
+PATIENT: Yep okay.  It's been fun.
+DOCTOR: So I'll let you know if anything on your labs comes up.
+PATIENT: Yeah.  Good seeing you [REDACTED].
+DOCTOR: Oh yeah.  You don't like doctors?
+PATIENT: You like doctors NAME?
+SECOND PERSON K792
+I like doctors, I like her.
+DOCTOR: Something [REDACTED].
+PATIENT: Are you still drinking that?  Drinking it for hours now [REDACTED].  So do I give this to the check out?
+DOCTOR: Yeah.
+PATIENT: Thank you.
+DOCTOR: You're welcome, take care.
+PATIENT: Alright.  [REDACTED].
+PATIENT: 66:14
+Time is 9:35.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249426
+TRANSACTION # 578-10-2-316-0103

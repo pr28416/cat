@@ -1,0 +1,443 @@
+DOCTOR: PATIENT?
+PATIENT: Hello doctor.
+DOCTOR: Hi.
+PATIENT: How are you?
+DOCTOR: Good.  How you feeling, you okay?
+PATIENT: Good.  Good to see you.
+DOCTOR: Good to see you.  Everything you need.
+PATIENT: Finally after all of another year is gone.
+DOCTOR: Remind me how to say your last name?
+PATIENT: PATIENT.
+DOCTOR: PATIENT.  Alright.  Come on back and have a seat.
+PATIENT: Sure.
+DOCTOR: I can take your jacket if you like.
+PATIENT: Oh I'll just leave it here on the chair.
+DOCTOR: Okay.
+PATIENT: Because I got my cell phone in there and it falls out sometimes.
+DOCTOR: Gotcha.
+PATIENT: Yeah.
+DOCTOR: Well how have you been?
+PATIENT: Uh not too bad, not too good.
+DOCTOR: Okay.
+PATIENT: One of the things that's really uh, a larger source of aggravation in the past.
+DOCTOR: Uh-huh.
+PATIENT: Is my arthritis.
+DOCTOR: Okay.
+PATIENT: I know that I was prescribed diclofenac I believe it is.
+DOCTOR: Uh-huh.
+PATIENT: Uh the dosage is twice a day, I believe its 7.5 mg.
+DOCTOR: Uh-huh.
+PATIENT: I don't know if its enough and I don't if it's even the right drug.
+DOCTOR: Right.
+PATIENT: By the way I've run out of it, two days ago and they won't refill it downstairs because there's not a standing prescription.
+DOCTOR: Hmm, yeah it's expired that's right.  So why do you think you don't know if it's the right drug.  Has it been helping enough with your pain?
+PATIENT: It didn't.
+DOCTOR: Okay.
+PATIENT: In fact I was in Emergency here about a month and a half ago.
+DOCTOR: Uh-huh.
+PATIENT: With severe pain.
+DOCTOR: Uh-huh.
+PATIENT: And basically the doctor who attended to me at the time just said hey you know there's nothing more I can do.  He says you know, he was a sufferer as well.
+DOCTOR: Uh-huh.
+PATIENT: With back pain.
+DOCTOR: Uh-huh.
+PATIENT: He says you know there's nothing that even I can take for myself otherwise I'd give it to you but I think its two different conditions.  Ones arthritis, is there something else?
+DOCTOR: Okay.
+PATIENT: But you know, all the same uh basically I walked away with nothing.
+DOCTOR: Okay and your pain is mostly in your back?
+PATIENT: It's right above my right hip.
+DOCTOR: Okay.
+PATIENT: And then it radiates all the way down, all the way down my thigh, all the way down the outer thigh.
+DOCTOR: Uh-huh.
+PATIENT: Okay all the way down into my calf, up through my neck right to the base of the skull.
+DOCTOR: Okay.
+PATIENT: It's like a ribbon.  I mean it literally feels like it's a hot ribbon.
+DOCTOR: Okay.
+PATIENT: In my body.
+DOCTOR: So you're having the pain, also it shoots all the way up your back to your neck or just through your neck?
+PATIENT: It goes all the way up through my neck right to the base of the skull.
+DOCTOR: Okay.
+PATIENT: Okay.  It's a very narrow.
+DOCTOR: Uh-huh.
+PATIENT: Type feeling.  I don't know, it feels like somebody.  I don't know how else to describe it other than like it's a ribbon that's been heated up and just placed from my neck all the way down to my ankle.
+DOCTOR: Okay and how long has it been getting worse for?
+PATIENT: Uh probably a few months.  Ever since the episode with the TIA back in October.
+DOCTOR: Okay.  Alright and anything make it better?
+PATIENT: No nothing.  In fact, um.
+DOCTOR: Is the.
+PATIENT: I'll use Tylenol sometimes at night.
+DOCTOR: Uh-huh.
+PATIENT: When it's worse.
+DOCTOR: Okay.
+PATIENT: And I only get about four hours of sleep till it wakes me up.
+DOCTOR: Did the diclofenac.
+PATIENT: Yeah.
+DOCTOR: That's a mouthful, does that make it better?
+PATIENT: Well that's what I was initially prescribed that medication after my TIA.
+DOCTOR: Uh-huh.
+PATIENT: By an outside physician.
+DOCTOR: Uh-huh.
+PATIENT: A physician that I had used for years.
+DOCTOR: Okay.
+PATIENT: Um.
+DOCTOR: Are you still seeing that outside physician?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No in fact I had to drop my Blue Cross/Blue Shield insurance.
+DOCTOR: Hmm, sorry to hear that.
+PATIENT: Yeah uh well that's just the financial fact.
+DOCTOR: Yeah.
+PATIENT: Especially for myself and my wife.
+DOCTOR: Uh-huh.
+PATIENT: I maintained hers.
+DOCTOR: Uh-huh.
+PATIENT: Because that's all I could afford.
+DOCTOR: Okay so.
+PATIENT: Uh but he switched me off the meloxicam.
+DOCTOR: Uh-huh.
+PATIENT: To go to that.
+DOCTOR: Yeah.
+PATIENT: I have been complaining of a lot more severe pain and he says okay, this is, you know this is a little more intense so maybe this will work.  Well it did work for a short period of time and now it's not working.
+DOCTOR: Okay.  Alright.
+PATIENT: But I need something.  I mean its gotten way out of hand.
+DOCTOR: Anything make the pain worse?
+PATIENT: Yeah too much activity, especially with the pets.  You know I've been doing some work in the yard.
+DOCTOR: Uh-huh.
+PATIENT: You know trimming hedges and things like that.
+DOCTOR: Uh-huh.
+PATIENT: There's a lot of bending and stooping.
+DOCTOR: Uh-huh.
+PATIENT: And that does aggravate it.
+DOCTOR: Okay.
+PATIENT: Very much so but I can't not do that.
+DOCTOR: Right.
+PATIENT: Number one, I like it.
+DOCTOR: Right.  Any other problems other than the pain that you've been having?
+PATIENT: Uh no.  Uh I ran out of Plavix so I just went to baby aspirin.
+DOCTOR: Okay.
+PATIENT: Uh they won't renew that.  There's a lot of the drugs they just won't renew them for me.  I don't know why I mean.
+DOCTOR: So I never got, they usually send me an alert that uh you're out of meds and will I renew them for you.  So you called the Pharmacy and they just wouldn't renew them?
+PATIENT: No I called the Pharmacy and they said oh you gotta come in so I made a trip in.  I talked to the pharmacist.
+DOCTOR: Uh-huh.
+PATIENT: And he said oh there's not a prescription for it that's all, you got to get a prescription and so I made the appointment with you today because that's getting out of hand as well.
+DOCTOR: Yeah I know. The neurologist wants you and I want you on the Plavix so I'm renewing that right now.
+PATIENT: And uh another question that I've had.
+DOCTOR: Uh-huh.
+PATIENT: And I meant to ask you the last time I was here, so actually two more questions uh.
+DOCTOR: Do you want them to mail this or pick it up at the window?
+PATIENT: I'm gonna pick it up at the window.
+DOCTOR: Okay.
+PATIENT: You know because I'm out of it.  I mean I've got nothing.
+DOCTOR: Yeah.
+PATIENT: You know.  The other medication that I'm taking for diabetes is pravastatin.
+DOCTOR: Uh-huh and that was actually for cholesterol.  Pravastatin?
+PATIENT: Uh pravastatin is for cholesterol, correct I'm sorry.
+DOCTOR: No that's alright.
+PATIENT: Uh I read in uh, on a medical website.
+DOCTOR: Uh-huh.
+PATIENT: That's actually put up by one of the universities, Northwestern University puts it up.
+DOCTOR: Uh-huh.
+PATIENT: Um that that statin drug should be considered uh for switching off of it for a time period.  I've been on it for five or six years.
+DOCTOR: Uh-huh.
+PATIENT: And the article informed me to the point of saying that after about four years it's not a bad idea to talk to your physician and find out if you should be taken off of that and put on something else.
+DOCTOR: Uh-huh.
+PATIENT: So that's what I'm doing now.
+DOCTOR: Okay.  Um are you, have you been taking them?  When was the last time you took the pravastatin?
+PATIENT: Oh last night.
+DOCTOR: So you still have some.
+PATIENT: Oh yeah uh-huh.
+DOCTOR: Let's look at your lipids panel.
+PATIENT: Yeah that was the other thing.  I never got results back from the two tests that they did the last time.  The urine and the uh blood draws.
+DOCTOR: Well let's look at these first and then we'll look at that.  So.
+PATIENT: I can't see that you know.
+DOCTOR: Oh okay.  So your LDL cholesterol which is the bad cholesterol is 105.  For you, you have a lot of risk factors.  You've already had one stroke or TIA.
+PATIENT: Uh-huh.
+DOCTOR: So I think your goal should be more strict so less than 100 to even less than 70.
+PATIENT: Uh-huh.
+DOCTOR: So I would say that your cholesterol is not well controlled yet.  So I would be hesitant to let you have a break from the statin.
+PATIENT: Okay.
+DOCTOR: When we don't even have your cholesterol under great control.
+PATIENT: I understand okay.
+DOCTOR: I mean if the article is very reasonable and that sometimes we just keeping pressing renew, renew, renew and then people have more and more meds and sometimes they needed one but now they don't um but.
+PATIENT: Well that's exactly why I'm speaking to you about it.
+DOCTOR: Yeah, no I think its important cause to make sure you really need what you're taking.
+PATIENT: Right.
+DOCTOR: Right.
+PATIENT: Exactly.
+DOCTOR: I think you do.
+PATIENT: Okay.  No that's fine as long as your opinion is that, that's what we'll go with.  Um another thing that I wanted to bring up.
+DOCTOR: Uh-huh.
+PATIENT: Is while I was still on Blue Cross/Blue Shield, Blue Cross/Blue Shield paid their part of my hospital bill.
+DOCTOR: Uh-huh.
+PATIENT: Okay.  Now one of the reasons I wound up in the Elmhurst Hospital is because it was three minutes away from my home and I was having a stroke.
+DOCTOR: Uh-huh.
+PATIENT: I said I was a veteran and I had hospitalization here at the VA but they wouldn't drive me here.
+DOCTOR: Uh-huh.
+PATIENT: They just took me right there and started on me.
+DOCTOR: Yep.
+PATIENT: Um I spoke recently to a collection agency that I was turned over to because there was a nonpayment of $1500 on that bill.
+DOCTOR: Uh-huh.
+PATIENT: And I said well, you know I've heard that the VA may take up a percentage of that which would lessen my cost.  I says number one I didn't even know I still owed you money.
+DOCTOR: Right.
+PATIENT: And the guy was very polite and very genuine as a human being.  He said well I'm gonna get you a detail of what the $1500 is going for.
+DOCTOR: Uh-huh.
+PATIENT: I want to know I owed Anesthesiology, was it you know Emergency Room, whatever.
+DOCTOR: Uh-huh.
+PATIENT: And he said it could be just a bunch of combined things.
+DOCTOR: Uh-huh.
+PATIENT: Where you know they got 80% from the insurance company on everything and then they just sort of reassessed it and said you know okay this adds up to this.
+DOCTOR: Right.
+PATIENT: Uh do you know the route that I have to take to inquire with the VA if they would pick up some of that?
+DOCTOR: I do not, but I think uh maybe a social worker would be the place to start.
+PATIENT: Okay.
+DOCTOR: Alright but let me talk with my attending and see if he has a different idea.  If not we'll set you up with the social worker and see if she can point you in the right direction.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: That would be great.
+DOCTOR: Alright.  I wanted to go over what meds you are still taking.  Like are you taking the Timolol for glaucoma?
+PATIENT: I need that too.
+DOCTOR: Okay.
+PATIENT: Thanks for bringing that up because I would've walked out of here forgetting.  Yeah I've got three or four drops left in the bottle.
+DOCTOR: Okay.
+PATIENT: So about three or four days worth.
+DOCTOR: And how about the metformin?
+PATIENT: Metformin yes, I've been on that, that's my diabetes medicine.
+DOCTOR: Are you taking that currently?
+PATIENT: I am.
+DOCTOR: Okay.
+PATIENT: Twice a day.  I believe the total dose is 500 mg or about 1000.
+DOCTOR: Yeah twice a day of the 500 for 1,000.  Um what about the Wellbutrin or the bupropion?
+PATIENT: I need that.
+DOCTOR: You need that.
+PATIENT: Yes if you could do that.
+DOCTOR: How is the depression doing?
+PATIENT: Actually it's a very, very strange type of [REDACTED].  Uh there's some days that I find myself crying over joyful things.
+DOCTOR: Uh-huh.
+PATIENT: Uh but that's not depression.  I don't know what they call it.
+DOCTOR: Okay.
+PATIENT: You know I it's, it's so bizarre.
+DOCTOR: Yeah.
+PATIENT: You know if I see something that I'm really happy about I just start crying.
+DOCTOR: So maybe some emotional uh labile emotions.
+PATIENT: Oh that could be you know I mean.
+DOCTOR: That can happen with depression.
+PATIENT: Yeah I'm not saying that uh you know I've had a horrible road to hoe.
+DOCTOR: Uh-huh.
+PATIENT: I've had a more difficult road to haul of late.
+DOCTOR: Yeah.
+PATIENT: You know losing my eyesight in 2009 and then you know my daughter's still a teenager, she's 19 and she moved to Florida.  Uh my wife's had two heart attacks.
+DOCTOR: I know it's very tough.
+PATIENT: And so you know I can see where I'd be a little pent up.
+DOCTOR: Uh-huh.
+PATIENT: Legitimately I mean without making it some grander problem but as I was going into therapy uh I had to leave for Florida because my daughter fell into some really bad times there in Florida.
+DOCTOR: Uh-huh.
+PATIENT: So I left for Florida and I missed several appointments and when I got back I just never bothered to reappoint because what was being accomplished was very little um.  I think the psychologist wanted to, let's say take it from the beginning.  You know he wanted to try and delve into my life as from what I remember.
+DOCTOR: Uh-huh.
+PATIENT: All the way up to the present and so he of course is looking for triggers that might be going on now that relate to something in the past but I'll be very honest with you and I was very honest with him I says you know what, other than being in the military I've never had a traumatic experience.
+DOCTOR: Yeah.
+PATIENT: You know.  My mom was a stay-at-home mom.  My dad worked, he'd come home, we'd all eat dinner together.  I'd go out and play you know.  I mean I had such a normal childhood that it's not even funny.  It's just plain simple normal.
+DOCTOR: Yeah.
+PATIENT: You know and we were uh, we weren't impoverished, but we were definitely not middle class either you know we were just above impoverished.
+DOCTOR: Yeah.
+PATIENT: Okay.  Uh but that made no difference to me.  I mean I started working when I was 16 and anything that I wanted I bought.
+DOCTOR: Yeah.
+PATIENT: You know.  A couple times my mother had to sign for me; my dad had to sign for me like when I bought my first car.
+DOCTOR: Uh-huh.
+PATIENT: And even though I had the money you still needed a co-signer at that time because of my age.
+DOCTOR: Yeah.
+PATIENT: So that was done but you know before the military there was no traumatic experiences.  In the military there was traumatic experiences but they weren't the type that uh, I don't feel like I have that syndrome.
+DOCTOR: PTSD?
+PATIENT: Yeah I don't feel I have that.
+DOCTOR: Okay.
+PATIENT: I don't know.  I mean I think that's what this guy was trying to get after.
+DOCTOR: Yeah.
+PATIENT: And just maybe that was something going on to, I have no idea but I just sort of lost my interest.
+DOCTOR: Alright well.
+PATIENT: Seriously.
+DOCTOR: You know I'd encourage you that uh you keep up with the Mental Health okay, if you need it um and maybe if there's someone else that you can see.  But definitely if you're getting crying more, losing interest in activities, lack of appetite, can't sleep, any of those symptoms, let us know okay.
+PATIENT: Yeah.
+DOCTOR: Okay.  I'm gonna take a look in your eyes.
+PATIENT: [REDACTED].
+DOCTOR: They're good.
+PATIENT: You're not going to very successful on it.
+DOCTOR: Hmm, there's a little [REDACTED] that's alright.  Um.
+PATIENT: Most people can't see my pupils anyway that's why I.
+DOCTOR: I know.
+PATIENT: My eyes just sort of.
+DOCTOR: Are you still smoking?
+PATIENT: Yeah.
+DOCTOR: Any interest in quitting?
+PATIENT: There's always an interest in quitting.  It seems as though my interest wanes.  I had actually physically stopped for a week.
+DOCTOR: That's good.
+PATIENT: Um and that's exactly when I started the uh generic Wellbutrin.
+DOCTOR: Uh-huh.
+PATIENT: You know it helped a lot.
+DOCTOR: Yeah.
+PATIENT: Suppress the urge.
+DOCTOR: It does uh-huh.
+PATIENT: Uh but then all these things started to break loose of course.  You know this always happens.
+DOCTOR: Yeah.
+PATIENT: Um my daughter got all crazy in Florida and I went out there and she's a heavy smoker.
+DOCTOR: Uh-huh.
+PATIENT: And the person that she's living with a heavy smoker so I just, go right back up.
+DOCTOR: Yeah.
+PATIENT: By the time I got home six weeks later I was smoking again.
+DOCTOR: Well you know what my advice is gonna be right?
+PATIENT: Well of course I do.
+DOCTOR: Okay.  And what I'm saying alright.  Deep breath in, good again.  Alright excellent.
+PATIENT: Yeah and it's really funny because I think the, probably the biggest psychological issue with smoking.
+DOCTOR: Uh-huh.
+PATIENT: And I have this every battery of test that I've had one on since October 4th of last year.
+DOCTOR: Uh-huh.
+PATIENT: Certainly would've brought out even the slightest little defect in the lung capacity, in the heart, carotid artery.  I mean they did everything and it all came back great.  And it's that, my attending physician at the hospital said that he couldn't believe the condition I was in internally for what I'm doing to myself.
+DOCTOR: Yeah.
+PATIENT: So she says it's luck.
+DOCTOR: Well I wouldn't take the risk.
+PATIENT: I know there's always a shot there that's gonna.
+DOCTOR: Alright.
+PATIENT: Jump up and grab you.
+DOCTOR: Well I'd like to get some lab work on you.
+PATIENT: [REDACTED].
+DOCTOR: At your convenience.  Did you get some today?
+PATIENT: No not today.
+DOCTOR: No.
+PATIENT: But uh again the lab work that was performed the first time I thought we were going to meet which was all the way back last year.
+DOCTOR: Uh-huh.
+PATIENT: Um you did say see you in three months or because I came in October so I scheduled an appointment and then I came in and [REDACTED].
+DOCTOR: No.
+PATIENT: And so but I never got results over the phone either.  All of the lab that they did at that time was probably back in November.
+DOCTOR: Uh-huh.
+PATIENT: Maybe December.
+DOCTOR: Okay.  Well I've looked over your labs.  It's hard for me to get back to those exact ones.
+PATIENT: Uh-huh.
+DOCTOR: Um but I want to redo some lab tests again today.  It looks like liver function hasn't been done in almost a year.  Uh and you [REDACTED] and your lipid profile your creatinine we'll pick up and look at, something like your electrolytes and kidney function.
+PATIENT: Okay well now that the weather's broken up and what it is, I'm gonna start walking again.  I don't know if I told you but I was walking on an average of six miles a day.
+DOCTOR: Uh-huh.
+PATIENT: And I had actually taken down 15 pounds.
+DOCTOR: That would be very good.
+PATIENT: Yeah.  I just got to restart now cause everything's south.
+DOCTOR: Yeah.  I know you can do it. It will be good.
+PATIENT: Yes it’s my nature [REDACTED] down the line.  Like that one [REDACTED] very light.  One reason why I want to lose weight.
+DOCTOR: Uh-huh.
+PATIENT: And I didn't have a girlfriend and gained weight.
+DOCTOR: Not [REDACTED].  Well let me go talk with my attending.
+PATIENT: Alright.
+DOCTOR: And we'll talk about what uh, what to do for this pain okay.
+PATIENT: Sure.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: See you back in just a few minutes.
+PATIENT: Okay.  If he doesn't have any other suggestions you know the diclofenac would just have to be.
+DOCTOR: Trust me, we've got a few more things we can try.
+PATIENT: Good, as long they're not nonsteroidal.
+DOCTOR: They are not steroids.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Cool.
+(DOCTOR OUT:  35:19  DOCTOR IN:  39:33)
+DOCTOR: Alright.  So we're gonna try a medicine called tramadol.
+PATIENT: Okay.
+DOCTOR: It's um a medicine that, it's a little bit stronger.
+PATIENT: Uh-huh.
+DOCTOR: But it's not a narcotic.
+PATIENT: Good.
+DOCTOR: And it's not an NSAID and it's not uh a steroid.  It's just kind of it's only little.
+PATIENT: Only little creature.
+DOCTOR: Own little niche.
+PATIENT: Okay.  Well that's fine.  As long as it's not a steroid or a narcotic I'll take it.
+DOCTOR: Okay.
+PATIENT: I would have a debate with you otherwise.
+DOCTOR: Sounds good.
+PATIENT: Such as, if I'm suffering from depression and you really think I need a narcotic in my body, no.
+DOCTOR: Agreed and talking with my attending he would like to get you established the Eye Clinic since I can't monitor the pressures in your eyes.
+PATIENT: Uh-huh.
+DOCTOR: I'm not refilling the Timolol for you okay.
+PATIENT: Uh-huh.
+DOCTOR: So uh I'm gonna have, refer that to the ophthalmologist, that way they can monitor it okay.
+PATIENT: Sure.
+DOCTOR: And then I'm gonna put in a consult to the social worker.
+PATIENT: Okay.
+DOCTOR: And you should get a phone call about telling them, what you can talk to them about.
+PATIENT: Okay is that.
+DOCTOR: The medical bills.
+PATIENT: That's good.  Because it just comes out [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Yeah again.  Had I been transported here.
+DOCTOR: Yeah.
+PATIENT: Uh, you know if it was something else.  Let's say I slipped and fell and broke my hip and they take me to the hospital well they would have brought me here but because of a stroke.  I guess they're directed to take you to the nearest facility.
+DOCTOR: They are.
+PATIENT: And since I live a mile exactly from Elmhurst Hospital.
+DOCTOR: Alright.
+PATIENT: Now these prescriptions now will be available downstairs?
+DOCTOR: Yes.
+PATIENT: And they're right?
+DOCTOR: I hope.  We'll see you again in six months.
+PATIENT: Are you gonna be here six months from now?
+DOCTOR: Yep.
+PATIENT: Okay.
+DOCTOR: I'll be here for two more years.
+PATIENT: Oh really.
+DOCTOR: Yep.
+PATIENT: Oh wow.  I must have been on the back end of the last doctor's.
+DOCTOR: Yep.
+PATIENT: Run.
+DOCTOR: Run, yeah.  Alright oh and then the other thing for the pain I think, would you be willing to do physical therapy?
+PATIENT: I would be willing to.  I don't know if it's going to do anything but I'd be willing to sure.
+DOCTOR: Let's do a trial of that and see if that helps you.
+PATIENT: Yeah, why not?  I mean anything that'll help is well worth it.
+DOCTOR: I like the attitude.
+PATIENT: Yeah physical therapy, well yeah you know the physical therapy I was basically doing my own all my life until I had a baby.  My wife slimmed down and I just kept picking up.
+DOCTOR: Yeah.
+PATIENT: Once the baby was born, that was it, I don't know.  Cause I was working 16 hours a day most of the time and.
+DOCTOR: It's hard isn't it?
+PATIENT: Oh yeah.  And I was in upper level management so you know I was sitting on my butt for 14-16 hours every day.
+DOCTOR: Yeah.
+PATIENT: And I was eating junk food like it was going out of style.
+DOCTOR: That'll do it.
+PATIENT: Yeah.
+DOCTOR: Do it for you won't it.
+PATIENT: Yeah cause I was a body builder for many years.
+DOCTOR: Oh yeah.
+PATIENT: It was more of a hobby but still.  I was in superb shape.
+DOCTOR: Right, they should be calling you with this physical therapy appointment.
+PATIENT: Okay so I got two calls to look forward to.
+DOCTOR: Yep.
+PATIENT: Alrighty, that sounds good.
+DOCTOR: And lab work to do at your convenience.
+PATIENT: Okay.
+DOCTOR: And we'll be sure to send you a letter this time.
+PATIENT: Okay.  So I think what I'll do is when I get a phone call from either of those two entities and they establish an appointment with me I'll just do my labs on the day of the appointment with them.
+DOCTOR: That sounds like a plan.
+PATIENT: And eat at the Commissary and do that.
+DOCTOR: That sounds good.
+PATIENT: Yeah, that's how I'll work it.
+DOCTOR: Great.
+PATIENT: Alright doctor, well I thank you very much.
+DOCTOR: Good to see you again.
+PATIENT: Good to see you and you have a great day.
+DOCTOR: Hope the pain improves.
+PATIENT: Right.
+DOCTOR: Let me know if it doesn't okay.
+PATIENT: Yeah well that's really up to you right now you know that.
+DOCTOR: It's up to me?
+PATIENT: Yeah.
+DOCTOR: And you.
+PATIENT: Well.
+DOCTOR: And the attending.
+PATIENT: And the attending.
+DOCTOR: And the attending.
+PATIENT: You know you [REDACTED].
+DOCTOR: Yep.
+PATIENT: And he said okay.  I said I'll take that.
+DOCTOR: Well alright.
+PATIENT: [REDACTED] do I need any of this?
+DOCTOR: Nope you need to take this out front.
+PATIENT: Okay.  Where's that the check-out?
+DOCTOR: Yep.
+PATIENT: Okay I can do that.  I got the technology on that side of it.
+PATIENT: 45:05
+Time is 4:50.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1269057
+TRANSACTION # 578-10-2-316-0103

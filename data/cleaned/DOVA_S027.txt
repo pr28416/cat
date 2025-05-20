@@ -1,0 +1,633 @@
+DOCTOR: Oh PATIENT.
+PATIENT: Yeah.  Hi how are you?
+DOCTOR: Hi.  Good, how are you.  DOCTOR.
+PATIENT: You know what I gotta find out; I was expecting some old man.
+DOCTOR: Oh yeah.
+PATIENT: Yeah I'm pleasantly surprised.  Actually I was expecting a young man probably.
+DOCTOR: Oh yeah.
+PATIENT: How you doing?
+DOCTOR: Doing very well, how about you?
+PATIENT: Good uh I'm doing, I guess you know alright for my age.
+DOCTOR: Yeah, good.
+PATIENT: Yeah.
+DOCTOR: Have a seat.
+PATIENT: Okay.
+DOCTOR: Enjoying this nice weather?
+PATIENT: Trying to yeah, yeah.
+DOCTOR: Good.
+PATIENT: Anxious to get out, back out there this afternoon.  I had an appointment here this morning so I left early this morning so, go drink coffee, revive me.  You live in Chicago or where?
+DOCTOR: Yeah I do.
+PATIENT: You know where Viagra Triangle is?
+DOCTOR: Uh yes.
+PATIENT: I go down there and drink coffee a lot cause I'm an old man.
+DOCTOR: Oh.
+PATIENT: I'm looking forward to just stopping by there on the way home and having a cup of coffee out in the sun.
+DOCTOR: Uh-huh.
+PATIENT: Catching some sun.  So, how did my tests all come out?
+DOCTOR: Sure we can.
+PATIENT: Do I have another year?
+DOCTOR: I think so, I think so.  Let's get to your latest up.  This is your CBC which is your blood count.
+PATIENT: Okay.
+DOCTOR: Your infection-fighting cells, white blood cells are normal.  So is your hemoglobin.  Those are your red cells and your platelets, all normal.
+PATIENT: Okay.
+DOCTOR: Your electrolytes and normal, potassium is on the high end of normal but fine.
+PATIENT: It was on the high end of normal?
+DOCTOR: Uh-huh.
+PATIENT: Is that, should be more toward normal or?
+DOCTOR: Nope.
+PATIENT: Oh okay, alright.
+DOCTOR: Normal, fine.  Uh creatinine is uh 1.04, we'll compare that to the last one but that's fine and this is a measure of your liver function, it was within normal limits.
+PATIENT: Good.
+DOCTOR: And these are the lipid panel.
+PATIENT: Yeah.
+DOCTOR: For your cholesterol and your triglycerides.  Let’s look at the trend for those so we'll look at your past ones as we look at this.  So today your triglycerides are 293.  Ideally we would like them less than 150, so they're high.
+PATIENT: Yeah.
+DOCTOR: And in the past they've been better.  The last time it was 160, 180, down to 94 here.
+PATIENT: What was that?
+DOCTOR: They have been worse.  Back in 2004 you were at 368.
+PATIENT: Yeah.
+DOCTOR: So.
+PATIENT: That was the good life.
+DOCTOR: Uh, total cholesterol we only go up to 200, you're at 188.
+PATIENT: Uh-huh, okay.
+DOCTOR: Good work.  HDL cholesterol, that's the one that's called the good cholesterol.
+PATIENT: Yeah they said really it doesn't matter that much anymore.  The news account on it but.
+DOCTOR: Well I think.
+PATIENT: You know yeah.
+DOCTOR: You know it's still not as.
+PATIENT: Yeah.
+DOCTOR: Especially the ratio between the good and the bad cholesterol.
+PATIENT: Yeah.
+DOCTOR: In your good the higher the better.  You're at 37; we like to see it above 40.
+PATIENT: It's always been a little low on that.
+DOCTOR: Uh-huh.
+PATIENT: And on the LDL I've been normal haven't I, or have I been a little?
+DOCTOR: Yeah it's still less than 100 is what we consider good.
+PATIENT: Yeah okay.
+DOCTOR: And you're at 92, so good job.  The last time it was 55 so it was even better.
+PATIENT: Uh-huh.
+DOCTOR: Down here it was 150 so you weren’t going so good back then but these are pretty good numbers.
+PATIENT: Yeah okay.  Alright.  Yeah I never have been able with this uh, is it niacin that I take to get the.
+DOCTOR: Uh-huh.
+PATIENT: That thing, it's like I'm going through menopause.  I get hot flashes, I can't take it, I can't handle it.
+DOCTOR: Yeah.
+PATIENT: I've tried it twice and man I'll be sitting there and I'll just, hot all over, burn.
+DOCTOR: Have you taken aspirin with it?
+PATIENT: No.
+DOCTOR: No.  That's something that can help but I, with this uh, with these tests I wouldn't want to start you on anything new.
+PATIENT: Yeah, yeah okay.
+DOCTOR: So.
+PATIENT: So uh.  I keep hoping that my elbow here, right elbow.
+DOCTOR: Uh-huh.
+PATIENT: And my left shoulder and maybe a little bit of my elbow, really bother me.  I think its arthritis or something.  I sleep on my side and I always have my arm up under my uh hand and can't really do that now because it starts bothering me if I do that so sometimes when I'm just sitting this one will bother me.  The elbow will start aching.  I don't know if there's anything I can take for that or do for that or.
+DOCTOR: Yeah so how long has this been going on?
+PATIENT: It's probably been going on a couple months now.
+DOCTOR: And you notice it at night?
+PATIENT: At night and the daytime, when I'm walking or something, sometimes too.  You know it can happen in any position really.  I notice it more at night when I try to put my arm down and put my head on it, it'll go uh no.
+DOCTOR: And where exactly on the elbow?
+PATIENT: Well about right here.
+DOCTOR: Right there.
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.
+PATIENT: Yeah I can feel it there when you push on that.
+DOCTOR: Push on it.
+PATIENT: Yeah right there.
+DOCTOR: Any new activities?
+PATIENT: No, me?  At my age?
+DOCTOR: Yeah you.
+PATIENT: Yeah I do skydiving and I got a trampoline the other day and I.
+DOCTOR: How do.
+PATIENT: Um.
+DOCTOR: Press down against my, good.
+PATIENT: Underwater basket-weaving.
+DOCTOR: And then lift your palm up.
+PATIENT: I been doing some of that.
+DOCTOR: Lift this palm up right here and push up.  Does that aggravate it at all?
+PATIENT: No, no, that's fine in that hand.
+DOCTOR: Anywhere okay.  How about with movement?
+PATIENT: Uh not that way no but if I go to reach to my back.  Like if my belt gets twisted.
+DOCTOR: Uh-huh.
+PATIENT: Now it's not doing it now, it's okay now.
+DOCTOR: But if you're reaching.
+PATIENT: But normally it would be yeah, I wouldn't be able to do that and the same way with this one, I get it right through there.
+DOCTOR: Right through here?
+PATIENT: Yeah just sort of catawampus when I go to like go back like that uh it bothers me a lot.
+DOCTOR: Okay.  Alright.
+PATIENT: Amputation?
+DOCTOR: No, we'll not do that first, we'll know the reason [REDACTED].
+PATIENT: Okay alright the second.
+DOCTOR: We'll do that second.
+PATIENT: Give me a shot huh.
+DOCTOR: Yeah just a little shot.
+PATIENT: Now I uh, I don't know.
+DOCTOR: How much is it bothering you?
+PATIENT: Uh enough that it's very, very, very annoying and it probably is, I don't know if it's stopped any of my activities.  It may have slowed me down from uh reading some because sometimes when I hold the paper or a book it might bother me slightly.  Right now, cause it squeaked all the way here.  You know when you go to the garage and you get there it doesn't squeak.
+DOCTOR: Uh-huh.
+PATIENT: But uh, probably if I had to say on scale of 1 to 10, probably um 4 to 5.  I mean it doesn't, it sort of keeps me from sleeping a little bit but not, if I get tired I'll go to sleep you know.
+DOCTOR: Okay.
+PATIENT: I'll sleep through it so yeah.
+DOCTOR: Um and then on the, so I think this pain is probably more elbow pain but up through here on the other side.
+PATIENT: It's like a shoulder I mean.
+DOCTOR: It's more of a shoulder thing?
+PATIENT: Yeah uh-huh.
+DOCTOR: Okay, okay.  Did they start about the same time?
+PATIENT: Yeah they did uh-huh yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Uh let me see your range of motion, lift both your arms up over your head.
+PATIENT: Yeah now this starts hurting when I get up to there.
+DOCTOR: Okay.
+PATIENT: This one doesn't.
+DOCTOR: And then reach back behind your head that's good, a little less over here, very good.
+PATIENT: Uh-huh.
+DOCTOR: Stand up for me.  Raise just the uh left arm.
+PATIENT: Ooh.  That bothers me like that yeah.
+DOCTOR: Up all the way above your head.
+PATIENT: Yeah that.
+DOCTOR: Now lower it slowly, no problems with that?
+PATIENT: No that feels better when I lower it.
+DOCTOR: Yeah.
+PATIENT: Like when I hold it up yeah.
+DOCTOR: What is this scar from?
+PATIENT: That's from where they took a vein for my heart.
+DOCTOR: Oh, oh okay.  Alright.
+PATIENT: Not shrapnel or war wound.
+DOCTOR: One or the other.
+PATIENT: Yeah.
+DOCTOR: Alright.  Any tenderness?
+PATIENT: No.
+DOCTOR: Let me know.
+PATIENT: No, brings up something else that have.  I remember all my ills, I have this [REDACTED] about a years worth of ills.
+DOCTOR: Year's worth of what?
+PATIENT: Ills, to lay on you.
+DOCTOR: Ills?
+PATIENT: [REDACTED] oh I ought to mention that to the doc, tell me what that is, yeah, yeah you know.
+DOCTOR: Okay.  Alright and the pain goes right through here.
+PATIENT: Yeah and it's back, it's sort of on the whole shoulder there yeah.
+DOCTOR: Uh-huh.  Any tenderness?
+PATIENT: No, no.
+DOCTOR: Just gonna have you rotate your arm for me.  So keep the elbow in.
+PATIENT: Okay.
+DOCTOR: And we're just gonna rotate the shoulder out.
+PATIENT: That's okay.
+DOCTOR: It's okay.
+PATIENT: Uh-huh.
+DOCTOR: Okay, let's check on the tendons, good.  Alright just going to feel the shoulder.  Go ahead and have a seat.
+PATIENT: Okay.
+DOCTOR: So that elbow the spot that you're.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: Yeah.
+DOCTOR: So that's the.
+PATIENT: Right there is where it is.  I can feel it, right there.
+DOCTOR: Yeah.  Cause that's the lateral uh point where there's an attachment there um, where your muscles attach to your elbow.
+PATIENT: Uh-huh.
+DOCTOR: To your arm bone here uh so then they call that tennis elbow.  Have you ever heard that term?
+PATIENT: Oh certainly.
+DOCTOR: Yeah so, the attachment point just gets inflamed a little bit and I think that's what's going on.
+PATIENT: I think that's what both of them are, just some.  But I thought maybe they'd go away and I can't not sleep on my arm.  I just couldn't, try to go to sleep laying straight and it doesn't work.
+DOCTOR: Yeah.
+PATIENT: But it seems like that might aggravate it I don't know, uh I don't know.
+DOCTOR: It goes.
+PATIENT: But I think the arm is just temporary, uh little bits of pains you get you know and discomforts you get as you go through life.
+DOCTOR: Yeah so anti-inflammatories can help with that um.  The shoulder is you know a little bit different.  It's not really that one focus you know.
+PATIENT: Uh-huh.
+DOCTOR: It's the pain here, we're having pain here.
+PATIENT: Uh-huh.
+DOCTOR: And there are lots of muscles that could be uh involved.  You could have like a minor tear in the shoulder uh.  Both of the injuries though are usually repetitive injuries so um, tennis.
+PATIENT: Yeah.
+DOCTOR: The repetitive hitting.
+PATIENT: Yeah.
+DOCTOR: And with older folks and I know you said you're not doing any [REDACTED].
+PATIENT: I have a friend that goes out and hits a thousand tennis balls a day and he's 83.
+DOCTOR: Wow.
+PATIENT: He doesn't like to play tennis with anyone.
+DOCTOR: Is this his.
+PATIENT: He likes to hit the ball.
+DOCTOR: Yeah.  Anything with repetitive motion so.
+PATIENT: Sure.
+DOCTOR: Writing.
+PATIENT: Yeah I don't do.
+DOCTOR: Reading.
+PATIENT: The only thing I do is type on the keyboard and that's about, maybe reading you know some but.  I don't read the same, I read some newspapers and some books and then some Kindle and you know so, it's nothing where I'm always holding it the same way you know.
+DOCTOR: [REDACTED] yeah.
+PATIENT: Yeah.
+DOCTOR: Uh have you tried Tylenol?
+PATIENT: No.  I can do that.  That's not a bad you know.
+DOCTOR: I think that would be the first thing that I would try.
+PATIENT: Yeah.
+DOCTOR: Uh I mean we could give you something stronger.
+PATIENT: They gave me a steroid but that would, after a couple weeks it'd probably come back and uh.
+DOCTOR: Yeah so.
+PATIENT: I don't need that done.  Tylenol is fine.
+DOCTOR: Okay.
+PATIENT: If it gets so bad that I need a steroid I'll come back and see you yeah.
+DOCTOR: Sounds good.
+PATIENT: Alright.
+DOCTOR: I like it.  Um any other problems?
+PATIENT: Sure.  Now this is gonna seem minor but it is, but I live alone so I have nobody to tell me what is going on with spots I can't see.
+DOCTOR: Yes.
+PATIENT: And my shoulders just get, for a little while I had a, I get these, still get it on my shoulders, both sides and it doesn't seem to go away.  I guess I just scratch at the scabs.  I don't know if you can see but I can feel it all the way up here.
+DOCTOR: Oh there are lots of scratches yeah.
+PATIENT: All rough and uh I don't know what I, should I put something on them or should I, is it one of those there where I don't scratch it, you know like a cat.  [REDACTED].
+DOCTOR: No let's not do that yet.
+PATIENT: But I think it's just something that's irritated and I scratched and then I just kept scratching it.
+DOCTOR: Yeah.
+PATIENT: But I still, I think, scratch it at night.  Sometimes it’s like a pin prick somewhere you know.
+DOCTOR: Uh-huh.  Anywhere else that you.
+PATIENT: No, this is the only spot yeah.
+DOCTOR: Okay.  It looks like you have some just dry irritated skin that you've been scratching.
+PATIENT: Yeah I kind of figured that.
+DOCTOR: Scratching that.
+PATIENT: Put some cream or something on it?
+DOCTOR: Yeah.  You could use some actually uh steroid cream until it goes away and then just some lotion.
+PATIENT: Okay.
+DOCTOR: If you're able to not scratch it I think these could.
+PATIENT: Well I'll certainly try that.
+DOCTOR: Okay.
+PATIENT: I hate to bother you with that but I don't have anybody to tell me what it looks like.
+DOCTOR: No.
+PATIENT: Cause I can't see in the mirror very well.
+DOCTOR: [REDACTED].
+PATIENT: Right.
+DOCTOR: So just have a seat over here, let me take a listen to your heart and lungs and.
+PATIENT: Okay.  Take my hat off [REDACTED].
+DOCTOR: Oh [REDACTED].  Just breathe normal.  Okay, deep breath in alright breathe alright. I'm going to listen to your arteries.  I'll have you take a deep breath in and hold it okay.  And breathe.  Take a deep breath in and breathe.  Alright.  Just feeling your thyroid.  [REDACTED].  Good.  Any problems with chest pains, pressure?
+PATIENT: Uh-huh.  Yeah.
+DOCTOR: Yeah.
+PATIENT: We better go into that when like I sit down, it's a long story.
+DOCTOR: It's a long story.
+PATIENT: Yeah.  We're not gonna figure it out.  Cardiology says there's nothing wrong with you PATIENT.  I don't know what it is that's doing that but it ain't anything to do with your heart.
+DOCTOR: Okay.
+PATIENT: And if I tell you.
+DOCTOR: Turns out to be.
+PATIENT: If I tell you, you'll mention it to your attending and they'll say well you should go down and have your heart checked you know and do some tests.  I've been that route about three times and open heart surgery and I still got a slight.  I can walk from here to there.
+DOCTOR: Uh-huh.
+PATIENT: And I'll get a burning across in my chest.
+DOCTOR: Okay.
+PATIENT: Or I could walk from here to I live at Irving Park and Pine Grove and I wouldn't feel anything you know and do perfectly fine.  But walked and the knot it bothers me so I'll have to stop walking a few blocks away.
+DOCTOR: Uh-huh.
+PATIENT: I may have to stop twice on the way and just stop for maybe 30 seconds and then you know.
+DOCTOR: Yeah.
+PATIENT: Sort of let it go down and sort of walk along a little more and then it'll start up again uh after I walk just a little bit. I don't know what it is.  Nobody's been able to determine what it is I have three or four angiograms and open heart surgery and I keep saying I'm gonna lose weight and if it doesn't go away after I've lost my weight then I'm gonna start rattling cages and saying you know we better find out what this is.  Cause it's really debilitating.  I can't, lot of things I can't do.  You know a lot of times I'll just go out and walk.
+DOCTOR: Uh-huh.
+PATIENT: But I can't because and I'm sure you’re top notch but I know we're not gonna come up with any solution at Hines right away.
+DOCTOR: Let me rephrase my question.
+PATIENT: Okay.
+DOCTOR: Any changes, any changes in that.
+PATIENT: Any trends.
+DOCTOR: Yeah.
+PATIENT: Uh no, it's pretty much just the same thing.
+DOCTOR: Okay.
+PATIENT: And it was there before I had heart surgery.  After I had the surgery it went away for a month and then it came back and uh it comes and goes [REDACTED].  I got to find out some reason for it cause it's just really, disrupts my life.  You know I can't, I like to sail, and I can’t go out and do that.
+DOCTOR: Uh-huh.
+PATIENT: But I got to work on that.  When I come back and see you, I'm 160 pounds and I still have it.
+DOCTOR: We'll get more aggressive.
+PATIENT: Yeah very aggressive but in the meantime I can just say well I got to lose weight you know.
+DOCTOR: Hmm.
+PATIENT: I don't know, I had a doctor once when I was oh this was back in the [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Uh, told you're fat, you're overweight.
+DOCTOR: Uh-huh.
+PATIENT: You're just fat, right uh and your diaphragm, your stomach and gut won't let you breathe that well so that's why you have no stamina.  Now that wasn't necessarily what would give me this burning across here but what I get is the same as if you were, were out of breath you know when you were running or something.
+DOCTOR: Uh-huh.
+PATIENT: So I always thought maybe he was the one that came closest to getting what the real problem was, I don't know.
+DOCTOR: Well I want to go over your meds with you.
+PATIENT: Yes.  We need, I want to change almost all of those prescriptions that I still am gonna have to Walmart cause I can get them at $4 a month.
+DOCTOR: Okay.
+PATIENT: As opposed to $9 a month through the VA.
+DOCTOR: Alright.  [REDACTED]?
+PATIENT: Yep and DOCTOR gave me three for what she thought was her three.
+DOCTOR: Okay.
+PATIENT: But I've got you know, do you have a list of my meds there?
+DOCTOR: I do.
+PATIENT: Okay now bupropion I gave up on it.
+DOCTOR: Discontinuing that.
+PATIENT: Yeah I'm not taking that anymore.
+DOCTOR: Okay.
+PATIENT: And I'm not seeing Mental Health.
+DOCTOR: And you're doing okay?
+PATIENT: Uh.
+DOCTOR: Mood wise?
+PATIENT: Uh yeah I'm doing about the same as before yeah.
+DOCTOR: Okay.
+PATIENT: I get, I'm kind of starting to do some stuff now that uh I hope will uh help me a little bit.  You know get out of depression and I haven't been doing anything really at all except sitting around and reading and going to Starbucks and.
+DOCTOR: Okay.
+PATIENT: Uh that's probably not good for me you know.
+DOCTOR: Yeah.
+PATIENT: Maybe if I were 95 but I'm not.
+DOCTOR: A little more active.
+PATIENT: Yeah so uh I don't know how you've got them listed there.  We've got finasteride and I need that for Walmart.  She did glipizide.
+DOCTOR: Hold on, [REDACTED].
+PATIENT: Okay, oh okay, yeah I'm sorry.
+DOCTOR: You want 90 day supplies or 30 day supplies?
+PATIENT: Uh 90, you might as well.
+DOCTOR: Okay next.
+PATIENT: Um isosorbide mononitrate.
+DOCTOR: Okay and these are all ones that you have been taking correct?
+PATIENT: Yeah uh-huh, they're down on the list.
+DOCTOR: Okay.  Alright next.
+PATIENT: Lisinopril.
+DOCTOR: Okay.
+PATIENT: I'll tell you a story about all this when we're done and I'm not sure.
+DOCTOR: Uh-huh.
+PATIENT: Uh, I don't know if simvastatin is on Wal-Mart's list or not.  I don't, let's see.
+DOCTOR: It should be.
+PATIENT: Uh.
+DOCTOR: No. Hold on.
+PATIENT: Anything like that?
+DOCTOR: I used to know these.
+PATIENT: Oh right?
+DOCTOR: Yeah when I did more outpatient medications through the VA.
+PATIENT: Uh-huh.
+DOCTOR: The pravastatin is similar to the simvastatin.
+PATIENT: Oh okay, well we could, if that's suitable we can do that.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Let's see how much you were on on simvastatin.
+PATIENT: Uh.
+DOCTOR: Oh you were on simvastatin 80 um.
+PATIENT: And this is what 40?
+DOCTOR: Yeah.  So it's not quite equivalent.  Let's stay on the simvastatin if that's okay with you.
+PATIENT: Okay yeah we'll keep that at the VA.
+DOCTOR: Okay.
+PATIENT: And then uh sitagliptin.
+DOCTOR: Uh-huh.
+PATIENT: Uh I don't think I see that on here either what's that on, that's diabetes?
+DOCTOR: Diabetes yeah.
+PATIENT: And that's not, that's not on here.
+DOCTOR: I don't think it would be.
+PATIENT: Yeah.
+DOCTOR: So did you get a script for that already or not?
+PATIENT: Uh no I need one for that.
+DOCTOR: You need one for that okay.
+PATIENT: So you're doing that's VA, VA okay, then there's a couple I want to add.  So I called up.  I got a Walmart Express up by me and I started going there after they opened and then.
+DOCTOR: Uh-huh.
+PATIENT: The Pharmacy looked nice so I hey give me your sheet, do you think you can save money for me.
+DOCTOR: Uh-huh.
+PATIENT: Yeah here's our sheet, shows you the prices you know.
+DOCTOR: Yeah.
+PATIENT: Just have your doctor there at the VA call me you know or send it over.
+DOCTOR: Uh-huh.
+PATIENT: So I called out here to the Pharmacy and told them what I wanted to do and they said well you have to go to your doctor to get scripts re-written you know and of course my doctor GP was gone and I hadn't seen you.
+DOCTOR: Yeah.
+PATIENT: But what they did at the Pharmacy, being the nice people they are, they just cancelled all my prescriptions.
+DOCTOR: At the VA they did?
+PATIENT: Yeah and I came out here they said okay we'll give you ten days you know.
+DOCTOR: Uh-huh.
+PATIENT: That'll get you up to where you can see your doctor but they just said you know said okay if you're gonna go to Walmart and your doctor will be writing them we'll just cancel them Jesus, a little harsh.
+DOCTOR: Yeah.
+PATIENT: But anyway I lived through it.
+DOCTOR: You did.
+PATIENT: Yeah and I want to add a couple too if I can.
+DOCTOR: What do you want to add?
+PATIENT: I'd like to add, I used to get Omega 3 through the VA.
+DOCTOR: Uh-huh.
+PATIENT: And it's cheaper than uh I can buy it at the store that stuffs getting expensive.  So if you could write that.
+DOCTOR: Do you want it through the VA or written at Walmart?
+PATIENT: Uh VA.
+DOCTOR: Okay.
+PATIENT: And then uh the same with uh.
+DOCTOR: Omega 3.
+PATIENT: Omega 3 and then well I was on 3000 a day of that.
+DOCTOR: I doubt if we'll be able to do 3000 a day here, 2000 a day.
+PATIENT: Oh really?
+DOCTOR: Uh-huh.
+PATIENT: Wasn't I on 3 at one time?  You can't tell.
+DOCTOR: Um I can look back and see.
+PATIENT: I think NAME at Cardiology put me on that.
+DOCTOR: I don't even see that you were on Omega 3 here.
+PATIENT: Really?
+DOCTOR: Yeah.
+PATIENT: Hmm.
+DOCTOR: Omeprazole, [REDACTED].
+PATIENT: Omeprazole, what's that now?
+DOCTOR: That's your PPI, it looks like did you have like an EGD that showed gastritis?  Yeah, so a PPI for gastritis.
+PATIENT: I don't remember that but anyway.
+DOCTOR: No problems with heartburn?
+PATIENT: Uh well I was getting a little bit at night but it's gone away now.  I think it's you know.
+DOCTOR: Okay.
+PATIENT: It comes once in a while.
+DOCTOR: Alright.
+PATIENT: I just take some Tums and uh, well do the Omega 3.  Do you think 2000 a day would be enough?
+DOCTOR: I do.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: I'll do that, you're the doctor.
+DOCTOR: Okay.  What else?
+PATIENT: I think that oh, can you do the vitamins prescription VA?
+DOCTOR: Uh do you want a multivitamin or what vitamin?
+PATIENT: A multivitamin yeah.
+DOCTOR: A multivitamin yeah we have those.
+PATIENT: $9 a month is cheaper I think than I can buy them at the store.
+DOCTOR: Really.
+PATIENT: I think.  Man some of these things that I look at them, they get expensive like 17, 18 bucks for a bottle.
+DOCTOR: For just a month though?
+PATIENT: Yeah.
+DOCTOR: Whoa, okay.
+PATIENT: I don't know, yeah.
+DOCTOR: I take a multivitamin and it's.
+PATIENT: What do you pay?
+DOCTOR: I think.
+PATIENT: You just steal them at a pharmacy?
+DOCTOR: Yeah.
+PATIENT: You like uh.
+DOCTOR: [REDACTED].
+PATIENT: You know Nurse Jackie, you never watch that?
+DOCTOR: Uh uh.
+PATIENT: Oh.
+DOCTOR: No I think it's like $10 and it lasts me 2 1/2-3 months.
+PATIENT: Oh well don't put it down then.
+DOCTOR: Okay.
+PATIENT: I'll just find out where you shop.
+DOCTOR: Dominic's.
+PATIENT: Dominic's.  Oh that's too expensive for me, I can't afford that stuff.
+DOCTOR: Oh, just get generic.
+PATIENT: I know.
+DOCTOR: I don't get.
+PATIENT: No I buy generic everything.
+DOCTOR: Okay.
+PATIENT: I look lower shelf you know.
+DOCTOR: Okay.
+PATIENT: Alright, I'll find them along with the Omega 3.
+DOCTOR: Oh I put the Omega 3 in there.
+PATIENT: Oh okay, alright, you have, okay okay that's fine.
+DOCTOR: But no vitamins.
+PATIENT: That's fine.  Alright now I got into, this is too much for me to keep track of all these different places.  I wish, you know the VA should publicize this a lot more, $4 a month is much better than $9 a month.
+DOCTOR: Oh yeah.
+PATIENT: I mean and these are $4 a month.
+DOCTOR: Yeah.
+PATIENT: Well.
+DOCTOR: The VA should get more competitive, they should match Wal-Mart's price $4 a month.
+PATIENT: All our [REDACTED] tell people go to Walmart and get your drugs you know.
+DOCTOR: Well yeah but it's nice to have everything, all your medications from one spot.
+PATIENT: It is, that's what's you know getting confused here yeah.
+DOCTOR: Yeah like probably scripts should price matching.  If I were in charge that's what we would do.
+PATIENT: Yeah I don't know why if Walmart can do that I would think that the VA's probably buying almost as much as Walmart, maybe not quite as much but Wal-Mart's pretty big.
+DOCTOR: Yeah, we could see.
+PATIENT: Yeah they should be just about the same though.  Anyway they're not gonna change that on account of our suggestion I don't think are they?
+DOCTOR: No.  No I don't think so either.
+PATIENT: I was thinking I had one other thing that I wanted to lay on you.
+DOCTOR: So metformin and okay, 15 mg alright.
+PATIENT: I know I hope they take it with that.  Is that what yours says too?
+DOCTOR: No, it says two weeks only VA Pharmacy [REDACTED].
+PATIENT: I know.
+DOCTOR: I don't show what it was.
+PATIENT: I know she got crossed that out on one.  If it doesn't work I'll have them call her.
+DOCTOR: Okay or you can call me.
+PATIENT: Okay.
+DOCTOR: And use that [REDACTED].
+PATIENT: Okay.
+DOCTOR: Let me just try and enter these.
+PATIENT: Yeah sure.
+DOCTOR: Anything else you need?
+PATIENT: I'm trying to think of uh um can I call you from the bus home cause that's when I'll think of it.  No I think we pretty well covered everything I could lay on you.
+DOCTOR: Alright.
+PATIENT: I didn't want to keep you laying awake at night wondering about patient PATIENT whether he got.
+DOCTOR: I know.
+PATIENT: He got, how long you been here?
+DOCTOR: A year.
+PATIENT: You like it?
+DOCTOR: I do, I do.  I do have some reminders that they want me to do with patients every time so.
+PATIENT: Sure.
+DOCTOR: One of them is.
+PATIENT: I don't smoke.
+DOCTOR: One of them is falls, have you had a fall?
+PATIENT: You know I was talking to the guy there you know the nurse.
+DOCTOR: Uh-huh.
+PATIENT: And uh the past, maybe a year or more in six months.
+DOCTOR: Uh-huh.
+PATIENT: I seem to stumble once in a while, even if there's just a little uh height difference in the sidewalk, I'll catch on it sometimes.  It's like almost I have dropsy with my feet you know.  I'll be walking along and my foot will sort of you know uh sort of drag my foot.
+DOCTOR: Uh-huh.
+PATIENT: Not so someone would but notice, you know I notice it because I'm, I'm doing I don't know I think it may be my glasses as much as anything.  Plus I have a lot of trouble going downstairs.  Not a lot of trouble but I have to be very careful cause I can't really judge.  I don't want to go to therapy though so if that's what you're asking.  Somebody suggested that this morning and I'm not agreeing.
+DOCTOR: Okay.
+PATIENT: I'm not a I'll just have to put up with it.
+DOCTOR: Alright.
+PATIENT: You can't give me some medicine that'll cure that.
+DOCTOR: No.
+PATIENT: No.  Is that something that's normal?
+DOCTOR: You know I wouldn't say normal but I'd say.
+PATIENT: Not abnormal.
+DOCTOR: It's common with age or when people get less active.
+PATIENT: Yeah I need to get.
+DOCTOR: Your muscles aren't as strong and they stumble and you know.
+PATIENT: Yeah.
+DOCTOR: [REDACTED] and have more problems.
+PATIENT: Okay yeah.
+DOCTOR: Than they were when they were younger.
+PATIENT: That's a good thing to tell me when you're not active and yeah I need to hear that.
+DOCTOR: It's [REDACTED].
+PATIENT: Yeah uh.  I thought of something else I was gonna ask you about, oh memory.
+DOCTOR: Uh-huh.
+PATIENT: They didn't give me much help at Mental Health on this; they just said well that's life PATIENT.  I really seem to have a lot of memory problems lately.  They're not long term, they'll be common things that I won't be able to remember at all and that I'll.
+DOCTOR: Like what?
+PATIENT: Uh the name of a singer or.
+DOCTOR: Uh-huh.
+PATIENT: The name of a town or the name of uh, I wouldn't say a close friend but an acquaintance.
+DOCTOR: Uh-huh.
+PATIENT: Uh they'll just; you know I can't get it.
+DOCTOR: Yeah.
+PATIENT: And maybe in five minutes it'll come to me, maybe at night it'll come to me.  But that happens; of course I think about things like this a lot.  I don't know, maybe other people don't but that seems to happen to me a lot and I can be working on the computer and think I've got to do something and I'll look at this on this, I should go to this website or look at this page and I'll put my head down and when I bring it back up I won't remember what it was.
+DOCTOR: Yeah.
+PATIENT: You know what I'm saying.  What the hell was I gonna look at I can't remember.
+DOCTOR: So that's pretty common, those things that you're describing.
+PATIENT: You're no fun.
+DOCTOR: With aging.
+PATIENT: You're supposed to say I've got something.
+DOCTOR: No, the ones that are you know the medical reasons.  Like Alzheimer disease, the most common cause of memory problems due to a medical diagnosis uh those people think that they have - they're memory is just fine.  They're doing great.
+PATIENT: So
+DOCTOR: So you.
+PATIENT: If I tell my friends I'm really having you know a day of I don't get a hole, gee I can't remember, I'll say oh I have no trouble with my memory, I'll say ah you're sick.
+DOCTOR: Yeah well they don't basically don't feel that their memory but then things start happening like they didn't turn off the stove.
+PATIENT: Yeah.
+DOCTOR: They can't find their way home.
+PATIENT: Yeah.
+DOCTOR: So then they won't say that they're lost, they’ll just keep.
+PATIENT: Yeah okay.
+DOCTOR: I mean I had a patient who was out biking for 16 hours straight because he couldn't find his house but wouldn't say that he couldn't find his house.
+PATIENT: God that's sad.
+DOCTOR: Those are things that are just red flags.
+PATIENT: Yeah.
+DOCTOR: I can't remember.
+PATIENT: I don't do bicycling.
+DOCTOR: So having an acquaintance name that comes to me at night and those things, those things are not worrisome.
+PATIENT: Yeah well I suspected that but you still worry.  When it happens to you, you're just gonna worry about it until you know you can say no I know that's common.
+DOCTOR: Well no, okay, I'll say I'm glad I realized that I’m forgetting. [REDACTED]. So [REDACTED].  And actually HIV screening, would you like to be screened for HIV?
+PATIENT: I have no reason to be.
+DOCTOR: Alright.
+PATIENT: I was seen once in my younger days.  This girl, insisted I be screened.  I got screened and then she laughed well I was just kidding.  Anyway I didn't tell you what I called her.
+DOCTOR: Alright.  Well let me, give me a few minutes and I'll be right back.
+PATIENT: Okay, alright.
+DOCTOR: I'm gonna talk to my attending okay.
+PATIENT: Sure.
+DOCTOR: Alright.
+(DOCTOR OUT:  71:03  DOCTOR IN:  77:02)
+PATIENT: Yes.
+DOCTOR: Alright. He agrees with the plan.
+PATIENT: They okayed it huh, good.  Yeah I had one other thing.
+DOCTOR: Okay.
+PATIENT: You can just throw me out of here.
+DOCTOR: [REDACTED].
+PATIENT: Um I call him NAME but that was my other GP.
+DOCTOR: Uh-huh.
+PATIENT: He was gonna refer me to some [REDACTED] where the VA wants to mess with this and this thing bothers me, a little skin tag I got here.
+DOCTOR: Oh.
+PATIENT: It just bothers me, no like there's one, a little one there and one there.
+DOCTOR: Uh-huh.
+PATIENT: Would the VA do anything about that or should I just go to my Medicare people and say take it off?
+DOCTOR: Uh how does it, how does it bother you?
+PATIENT: Uh I keep rubbing it and sort of pulling on it and.
+DOCTOR: So Derm usually considers things like that just cosmetic.
+PATIENT: Okay yeah that's fine.  I understand that yeah.
+DOCTOR: So.
+PATIENT: Cause I got, I keep I'm paying a hundred and some dollars a month for Medicare and I never have used it so why not go and have them do it?
+DOCTOR: Why not?
+PATIENT: Get a breast reduction and some collagen.
+DOCTOR: You'll be a whole new man when I see you.
+PATIENT: Yeah woman maybe.
+DOCTOR: Oh.
+PATIENT: Woman or man.  Now uh you got a card with your uh.
+DOCTOR: I do.
+PATIENT: And if that other, if Walmart says I can't take those other ones, have them call you?
+DOCTOR: Yep.
+PATIENT: Okay.
+DOCTOR: Leave a message with my nurse NURSE best way to reach me.
+PATIENT: NURSE.
+DOCTOR: Yep it's on there.
+PATIENT: Oh okay.
+DOCTOR: NURSE.
+PATIENT: I don't know why they don't use e-mails.  I did that, I used to go to the [REDACTED] Clinic and the nurse practitioner there and I e-mailed and it was so much easier.  She used e-mail.  I don't think she told them she was doing that but it worked out really well.  Why don't they use it?  Encourage that.
+DOCTOR: Uh they do have, it's not really e-mail it's like a website that you can use so.
+PATIENT: Yeah.
+DOCTOR: They, for health protection information laws, the HIPPA Rule.
+PATIENT: Oh I know all that yeah.
+DOCTOR: So you can't use e-mail.
+PATIENT: See I thought I put the fear of God in them you know.
+DOCTOR: Oh me.
+PATIENT: I tell my friends, I said I can put a suit on and walk in any hotel and any hospital in the United States at 8 o'clock in the morning and they'll say oh hello, now we'll have an office over here.  My daughter works there in the Media Department so she gave me that.
+DOCTOR: Oh.
+PATIENT: But I have to try it out you know.
+DOCTOR: That's fun.
+PATIENT: Well thank you, I'll see you again when, do I need to?
+DOCTOR: How about six months.
+PATIENT: Six months.
+DOCTOR: Or sooner if you need it.
+PATIENT: I don't, sooner is probably not you know.
+DOCTOR: Yeah.
+PATIENT: No if I need it I'll just call you right.
+DOCTOR: Yep.
+PATIENT: Alright, thank you very much.
+DOCTOR: You're welcome.
+PATIENT: It was a pleasure meeting you and I hope that uh we can have a long and prosperous relationship.
+DOCTOR: Very good.  Check out.
+PATIENT: Oh okay where it says check out.
+DOCTOR: [REDACTED].
+PATIENT: Alright thanks.  Huh.
+DOCTOR: Check out is this way.
+PATIENT: Oh that check out okay.
+PATIENT: 80:14
+Time is 1:00 p.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255141
+TRANSACTION # 578-10-2-316-0103

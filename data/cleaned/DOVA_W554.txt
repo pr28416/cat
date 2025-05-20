@@ -1,0 +1,382 @@
+PATIENT: How you doing today?
+DOCTOR: Good, how you doing?
+PATIENT: Find.
+DOCTOR: Yes.  How's everything going?
+PATIENT: Good, good.
+DOCTOR: I tried calling you a couple weeks ago, to try to let you know about um the study that you had at Jesse Brown.
+PATIENT: Oh yeah.
+DOCTOR: Well I guess, I couldn't get an answer.
+PATIENT: When did you call?
+DOCTOR: Um, last week sometime.
+PATIENT: Probably still in Florida because I got back on Sunday.
+DOCTOR: Oh okay.  Yeah it was uh the 2nd.
+PATIENT: Oh yeah.
+DOCTOR: Last week.  Um, so what they saw on the study was that they didn't, they didn't see any source of bleeding at all.
+PATIENT: Oh.
+DOCTOR: Which was good and no, nothing that, I think from their notes it was a little bit of a bad prep, meaning you weren't totally clean.
+PATIENT: Uh-huh.
+DOCTOR: So they couldn't see everything um but you know the whole reason that we were doing it was because your hemoglobin, cause your red blood cell count was low.
+PATIENT: Yeah.
+DOCTOR: And we thought maybe you were bleeding from somewhere.
+PATIENT: Uh-huh.
+DOCTOR: But the most recent labs we have look great.
+PATIENT: Yeah.
+DOCTOR: So I don't think that we need anything else more done, we'll just keep watching it.
+PATIENT: Uh-huh.
+DOCTOR: To make sure you don't go down again.  Um and if, you know if that starts to happen again then we could probably get the study done again.
+PATIENT: Uh-huh.
+DOCTOR: So that's good news.
+PATIENT: Yeah.
+DOCTOR: Okay.  Um any problems today?
+PATIENT: No.
+DOCTOR: No problems okay.  Are you checking your blood pressure at home?
+PATIENT: Uh-huh.
+DOCTOR: Okay what was it normally at home?
+PATIENT: Uh I ain't checked it lately though.
+DOCTOR: Okay.  When you last checked it what was it?  Do you remember?
+PATIENT: I can't remember.
+DOCTOR: Okay.  You don't remember the top number.  Was it ever in the 140s?
+PATIENT: Mmm no.
+DOCTOR: 130s?
+PATIENT: The 130s yeah.
+DOCTOR: Okay.  So a little bit higher than where we want it to be.  I think we can go up on one of your medications um.  And we need, you're just a half a tablet of the lisinopril is that right?
+PATIENT: Half a tab of what?  Blood pressure pills?
+DOCTOR: That's one of the blood pressure pills yes.
+PATIENT: Yes.
+DOCTOR: We just um.
+PATIENT: But I need some more of that.
+DOCTOR: You need more of which one?
+PATIENT: Blood pressure.
+DOCTOR: Okay.  Which ones are you out of?
+PATIENT: Well I'm only taking one now.
+DOCTOR: Okay.  Do you have your list with you?  [REDACTED].
+PATIENT: Maybe I should take, I'm only taking one pill, maybe I should get more from.
+DOCTOR: Uh-huh.  Cause I have two listed here.
+PATIENT: Okay well that's, I take the two then.
+DOCTOR: Okay.  Are you taking everything that's on this list?
+PATIENT: Yeah.
+DOCTOR: You sure about that?  How many, how many tablets do you first take in the day?
+PATIENT: I'm just only taking two.  One for the blood and one more, I'm only taking two.
+DOCTOR: Two pills every day?
+PATIENT: Uh-huh.
+DOCTOR: Okay I need to check this list though.  Do you know if the, I know that you're taking the iron right?  That's for the blood, a big pill.
+PATIENT: Blue pill?
+DOCTOR: It's pretty big.
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.  So you're taking this um.  See we have three medications for blood pressure on here.
+PATIENT: Uh-huh.
+DOCTOR: Do you know which one you're taking?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: I should of brought em with me.
+DOCTOR: Yeah.  So I have three here, are you taking a full tablet or half of one?
+PATIENT: Half.
+DOCTOR: Half of a tablet and those are the only two pills that you take every day?
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Well it's got to be this one, not taking this, not taking that okay.  Did you just run out of these?
+PATIENT: Yeah.
+DOCTOR: Okay.  Well it doesn't like you need too much more.
+PATIENT: And more I have shingles on my back.
+DOCTOR: Uh-huh.
+PATIENT: So maybe I need something to rub it down with it or something.
+DOCTOR: Okay do you feel, you were using the capsaicin cream right?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Let's see.  Are you using the eye drops?
+PATIENT: Uh-huh, oh yeah.
+DOCTOR: Okay.  Both of the eye drops um.  Do you take any pain pills for the shingles?
+PATIENT: Uh uh.
+DOCTOR: No.  And what about the pill for your stomach?
+PATIENT: Uh uh.
+DOCTOR: Not taking that anymore either?
+PATIENT: No I don't have no problem with my stomach anymore so.
+DOCTOR: Okay.  So all we have is, are you taking anything at all for pain?
+PATIENT: No.
+DOCTOR: No.  Would you rather have your medications mailed to you or do you want to pick them up?
+PATIENT: I'll pick it up.
+DOCTOR: Okay.  [REDACTED].  Um, how's your appetite now?
+PATIENT: Real good.
+DOCTOR: Very good.
+PATIENT: Yeah too good.
+DOCTOR: Okay.  Are you gaining a little bit of weight back?
+PATIENT: Yeah.
+DOCTOR: Okay.  Um have you eaten today?
+PATIENT: Uh yeah.
+DOCTOR: You have okay.  Cause I'd like to check your um, your cholesterol.
+PATIENT: Okay.
+DOCTOR: But I need you to not have eaten for the night before.
+PATIENT: Oh okay.
+DOCTOR: Do you come back here pretty often?  Is this a big drive for you to come to the VA?
+PATIENT: No I live close.
+DOCTOR: Okay so you can come back another day in the morning and get it drawn?
+PATIENT: Oh yeah, uh-huh.
+DOCTOR: Okay good.  And then I can check your blood [REDACTED] just to make sure we're on the same track.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Uh-huh.
+DOCTOR: Um, so you're not having any problems with your stomach anymore?
+PATIENT: No.
+DOCTOR: Okay.  Um and your eyesight's doing okay?
+PATIENT: Well yeah this, this has been getting dimmer every day.
+DOCTOR: Uh-huh.
+PATIENT: You know.
+DOCTOR: Uh-huh.  Do you see your ophthalmologist?  I think you saw him back in July?
+PATIENT: Uh-huh.
+DOCTOR: Are you supposed to see him again soon?
+PATIENT: Mmm, I think so.  He want to operate on this eye, but I don't know about this just you know.
+DOCTOR: [REDACTED].
+PATIENT: I want to wait till the last minute you know.
+DOCTOR: Okay.  I see.  You had an appointment with him in January.
+PATIENT: Yeah I know.
+DOCTOR: I guess you cancelled it?
+PATIENT: Yeah.
+DOCTOR: Okay, you don't want to see him again?
+PATIENT: What you mean the eye doctor?
+DOCTOR: Yeah.  Cause this says you had an appointment in January but it was cancelled.
+PATIENT: I think, I was there not too long ago.
+DOCTOR: Yeah it was back in July.
+PATIENT: So he say he gonna send me a letter.
+DOCTOR: Uh-huh.
+PATIENT: To come back.
+DOCTOR: I don't know this says cancelled.  We can check it out, we'll see okay.
+PATIENT: Okay.
+DOCTOR: Um and how are your drugs doing, are you having any problems with your drugs?
+PATIENT: No.
+DOCTOR: Well you're too healthy right?
+PATIENT: (Laughter).
+DOCTOR: Now that we've got the study done and we know that you're not bleeding from anywhere, I feel pretty good about it okay.
+PATIENT: Uh-huh.
+DOCTOR: Um we just need to get your blood pressure a little better controlled okay.  I, let's see, do you want the capsaicin cream downstairs here too?
+PATIENT: Yes.
+DOCTOR: The cream for your, are you having a lot of pain? Or is it just uncomfortable.
+PATIENT: Uncomfortable.
+DOCTOR: Okay.  Alright I've got those two done for you.  They'll be downstairs okay.  You want to hop up here for me?
+PATIENT: What you mean the two uh?
+DOCTOR: One the blood pressure medication that you'll start taking in a whole tablet instead of a half of one.
+PATIENT: Uh-huh.
+DOCTOR: And then the other one is the cream for your shingles.
+PATIENT: Oh okay.
+DOCTOR: Okay.  Can you show me where it is on you?  You're all bundled up under there?
+PATIENT: Yeah.  This here.
+DOCTOR: All the way around to the back.  Does it hurt to touch?
+PATIENT: Uh uh.
+DOCTOR: This aggravates you?
+PATIENT: It's just sore you know.
+DOCTOR: Okay.
+PATIENT: Yeah sometimes it itch.
+DOCTOR: It itches you?  Have you had the shingles vaccine?
+PATIENT: Vaccine?
+DOCTOR: Uh-huh.
+PATIENT: I don't think so.
+DOCTOR: Okay.  Cause even though you've had shingles you do have the possibility of getting it again.
+PATIENT: I had it once and uh it went away.
+DOCTOR: Uh-huh.
+PATIENT: But then it came back again.
+DOCTOR: You got it again?
+PATIENT: Yeah and now I've been like this for about three months now.
+DOCTOR: Okay, so we can see if you can get the shingles vaccine today okay.
+PATIENT: Uh-huh.
+DOCTOR: You got your flu vaccine right?
+PATIENT: Yeah.
+DOCTOR: Okay.  Deep breath for me.  In and out.  Okay.  No chest pain?
+PATIENT: No.
+DOCTOR: No shortness of breath?
+PATIENT: Uh uh.
+DOCTOR: Can you lean back for me here.  I just some powder all over my floor.
+PATIENT: [REDACTED].
+DOCTOR: Any belly pain?
+PATIENT: No.
+DOCTOR: Okay.  And no swelling in your legs at all?
+PATIENT: No.
+DOCTOR: Are they under here somewhere?
+PATIENT: Uh-huh.  They just hurt you know when I walk or stand up you know.
+DOCTOR: What hurts?
+PATIENT: My legs.
+DOCTOR: Just from your joints or where?
+PATIENT: Yeah it starts here.
+DOCTOR: In your feet?
+PATIENT: No it gets in my ankles.
+DOCTOR: In your ankles.
+PATIENT: Uh-huh.
+DOCTOR: Have you had that for a while?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Well I mean, that was shingles, DOCTOR give me uh some kind of pill I was taking, she said that dries it up.
+DOCTOR: It dries it up?
+PATIENT: Yeah that what she said.
+DOCTOR: I know you were on something for the pain before.
+PATIENT: Yeah but I don't have no pain this, it just just sore.
+DOCTOR: Okay.  Yeah I mean this doesn't help with the soreness too.
+PATIENT: Oh, yeah okay.
+DOCTOR: We can try the gabapentin, is that what it was the gabapentin?
+PATIENT: I think so.
+DOCTOR: Before.
+PATIENT: Yeah.
+DOCTOR: Yeah we can try it again.  Open up for me.  Say ah.
+PATIENT: Ah.
+DOCTOR: Okay.  And you don't smoke right?
+PATIENT: No.
+DOCTOR: Never smoked?
+PATIENT: I used to a long time ago.
+DOCTOR: Okay.  Deep breath for me.  A deep breath and hold it for me okay?  Okay.  Okay, well I think you're doing great.  We can get you the stuff for the shingles and also for your blood pressure okay.
+PATIENT: Uh-huh.
+DOCTOR: Uh, let me put that one in too.  This will be a pill that you take three times a day okay.
+PATIENT: Three times a day?
+DOCTOR: Yeah.
+PATIENT: Yeah okay.
+DOCTOR: Is that what; is that the one that you were talking about?
+PATIENT: Yeah right, yeah.  Well DOCTOR she ain't here any more?
+DOCTOR: She's not.  She's working over at Loyola now.
+PATIENT: Oh, okay.
+DOCTOR: Yeah.  Yeah.  Do you miss her?
+PATIENT: Yeah.
+DOCTOR: Well I'll take good care of you okay.
+PATIENT: (Laughter)  Okay.  (Laughter) So when you been to Georgia?
+DOCTOR: I'm going home next Friday.
+PATIENT: Oh yeah?
+DOCTOR: Yeah.
+PATIENT: Well alright.
+DOCTOR: I'm very excited; I'm going home for Christmas.
+PATIENT: Oh yeah?
+DOCTOR: Yeah.
+PATIENT: Well oh.
+DOCTOR: How long were you in Florida?
+PATIENT: Uh I been here about two weeks.
+DOCTOR: Uh-huh.  Where'd you go?
+PATIENT: Pensacola.
+DOCTOR: Very nice.  [REDACTED] there huh.
+PATIENT: Oh yeah.
+DOCTOR: You go out on the beach?
+PATIENT: Yeah.
+DOCTOR: Awesome.  Okay.  Um.
+PATIENT: So you'd rather be here than be in Georgia, it's pretty warm there.  It's cold here.
+DOCTOR: I know.
+PATIENT: Then why you'd come here then?
+DOCTOR: [REDACTED].
+PATIENT: (Laughter).
+DOCTOR: You know, I'm chasing some boy.
+PATIENT: Oh yeah.
+DOCTOR: Yeah.  He lives up here.
+PATIENT: Oh yeah.  So you getting married?
+DOCTOR: Nope.
+PATIENT: Well I don't see why you should have to chase him.
+DOCTOR: (Laughter).
+PATIENT: That's when.
+DOCTOR: He should be chasing me right.
+PATIENT: Right that's not good to chase him.
+DOCTOR: I know.
+PATIENT: No that's no good.
+DOCTOR: Hopefully between now and the last time I see you three years from now we'll, we'll be a little further along.  Like I say, well sure I'm getting married, so we'll see.  Gotta put some pressure on him right?
+PATIENT: Yeah.
+DOCTOR: Okay.  Give me just a second I'm gonna go talk with DOCTOR and then we'll come back in okay.
+PATIENT: Okay.
+(DOCTOR OUT:  29:50  DOCTOR IN:  37:49
+SECOND DOCTOR:
+Hey how's it going?
+PATIENT: Fine and you?
+DOCTOR: Hanging in there.
+PATIENT: Hanging in there.
+DOCTOR: Hello.
+PATIENT: Hi how ya doing?
+DOCTOR: This is DOCTOR.
+DOCTOR: Hello.
+DOCTOR: So it looks like all that we're doing is pretty good, is that right?
+PATIENT: Yeah, yeah.
+DOCTOR: So you stopped many medications.
+PATIENT: Oh yeah?
+DOCTOR: Looks like you take a few but you've not been taking some of the other medicines, is there a reason you stopped taking the gabapentin and these other medicines?
+PATIENT: No.
+DOCTOR: Do you have any trouble with memory at all?
+PATIENT: Uh-huh.
+DOCTOR: You're able to do your daily activities fine, [REDACTED] lost memory, gotcha.  Now this pain that you get, where you have the shingles.  How often do you get that pain?
+PATIENT: Umm, maybe a couple of times a day.
+DOCTOR: So it's every day?
+PATIENT: Uh-huh.
+DOCTOR: So when you take the gabapentin and the cream that will help you at that time?
+PATIENT: It helps a little bit yeah.
+DOCTOR: It helps you okay.  Well then we'll give those medicines back to you.
+PATIENT: Okay.
+DOCTOR: Okay and we'll see how you do.
+DOCTOR: So we'll order the gabapentin?
+DOCTOR: Um, if you go to the medicines, then go to actions and new medications, yeah, then go to criteria [REDACTED].  Here then go to [REDACTED].  Alright sir.
+PATIENT: Okay then, thank you.
+DOCTOR: Thank you too.
+DOCTOR: And you said you wanted to pick it up here right?
+PATIENT: Yeah.
+DOCTOR: Okay.  (Doctor working on computer)  Um, so I know that you were on the medicine for your stomach before.
+PATIENT: Uh-huh.
+DOCTOR: And that was when everything, you know, everything was concerned about bleeding and everything.  So when they did the scope and saw, it looks like you may have had some ulcers in the past.
+PATIENT: Uh-huh.
+DOCTOR: So I'd like to keep you on that medication.
+PATIENT: Oh okay.
+DOCTOR: Um, I'm gonna circle one here, which one you're gonna be taking um.  As far as the big iron pills.
+PATIENT: Uh-huh.
+DOCTOR: You can stop taking those.
+PATIENT: I have stopped taking already.  You mean the blue pill?
+DOCTOR: The big one.
+PATIENT: Yeah, yeah, yes.
+DOCTOR: Okay so we can stop those.  Um and then, so what's the other pill that you take then?  You said you take two pills.
+PATIENT: Yeah a blood pressure pill and uh, a half pill for the headache but that's gone now so.
+DOCTOR: Okay so you're only taking one a day?
+PATIENT: One a day.
+DOCTOR: Okay.
+PATIENT: And I, them drops I use them twice a day in my eyes.
+DOCTOR: Okay.  So let me get the ones that I want you to take.
+PATIENT: Uh-huh.
+DOCTOR: Um the gabapentin is for your, your shingles pain, the lisinopril will be a new one downstairs, it's the same pill that you've been taking but twice the amount.
+PATIENT: Uh-huh.
+DOCTOR: Um the pantoprazole was for your stomach; just in case you get an ulcer again we want to keep that from happening.
+PATIENT: Okay.
+DOCTOR: Okay.  Um and then the other one is the cream for your shingles okay.
+PATIENT: I can get all that at the Pharmacy?
+DOCTOR: Yes.
+PATIENT: Yeah okay.  So you going on vacation.
+DOCTOR: I sure am, for a whole week.
+PATIENT: Yeah, oh.
+DOCTOR: (Laughter).
+PATIENT: The guy you chasing, he going with you?
+DOCTOR: No, he's going to his home.
+PATIENT: Where he live?
+DOCTOR: Uh he's actually from South America.
+PATIENT: Oh yeah?
+DOCTOR: Yeah, Columbia.
+PATIENT: Oh.
+DOCTOR: Pretty far.
+PATIENT: Does he speak English good?
+DOCTOR: Yeah.
+PATIENT: Oh yeah?
+DOCTOR: Pretty good.  (Laughter)
+PATIENT: He a doctor too?
+DOCTOR: He is, sure is.  Okay.  So I want you to get labs done um in about a month.
+PATIENT: Uh-huh.
+DOCTOR: And then I'll see you back in about six months, as long as you're doing okay um.
+PATIENT: Okay.
+DOCTOR: We can stretch it out a little bit okay?
+PATIENT: Yeah.
+DOCTOR: Um and just make sure you haven't eaten when you get your labs done.
+PATIENT: Oh okay.
+DOCTOR: Okay.  Sound good?
+PATIENT: Uh-huh.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: I'll let you go.
+PATIENT: Alright.  Do I need this?
+DOCTOR: Yeah you can take this with you.  I just circled the ones that you're actually supposed to be taking okay.
+PATIENT: Yeah okay.
+DOCTOR: So there'll be three of them by mouth now.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Thank you.
+DOCTOR: Now you just have a Merry Christmas.
+PATIENT: Yeah you too.  I'll see you in six months.
+DOCTOR: Have a good afternoon.  Alright.
+PATIENT: Yeah and uh, quite chasing that guy okay (laughter).
+DOCTOR: I'll try hard.
+PATIENT: Bye bye.
+(Patient leaves 43:54)
+Time is 10:30.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235296
+TRANSACTION # 578-10-2-316-0103

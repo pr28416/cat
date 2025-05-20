@@ -1,0 +1,364 @@
+DOCTOR: PATIENT?  Hi, nice to meet you.
+PATIENT: I don't why but they gave me this thing right here.
+DOCTOR: Okay. Oh, good.
+PATIENT: I don't know why but I cooperate with them.
+DOCTOR: Come on in.  I'm DOCTOR, it's nice to meet you.
+PATIENT: Thank you.
+DOCTOR: I guess you met with DOCTOR before.
+PATIENT: Yeah I know, don't remind me.
+DOCTOR: Oh okay.
+PATIENT: Don't remind me.
+DOCTOR: We won't.  Um how you doing today?
+PATIENT: Fine.  Except for one thing that I got to itemize to start on Hospice.
+DOCTOR: Say that again?
+PATIENT: Hospice, I might not be pronouncing it right she's going to die.
+DOCTOR: Oh Hospice.
+PATIENT: Hospice okay I got it wrong.  Uh she's [REDACTED].
+DOCTOR: Oh.
+PATIENT: And she's [REDACTED] year. so what's going on.  I've been over the last few days; I'll probably more than likely go over there after I leave here.
+DOCTOR: Sure.
+PATIENT: So that's what’s going on.  Oh I know I need to lose more weight cause see I've got prostate cancer.
+DOCTOR: Yeah.
+PATIENT: So for it's surgery I got to have.
+DOCTOR: Yeah.  They said they want, so you're opting to take it all out right?
+PATIENT: Yeah.  I’m not going to play with [REDACTED].
+DOCTOR: I can tell you I think that's a good choice.
+PATIENT: See the only reason I put it off is because, see I thought I was gonna get a chance to work at the census a while but.
+DOCTOR: Uh-huh.
+PATIENT: I only got four days of training and then they canned me. Let's just say uh I accept a little responsibility but we just had one loud mouth that just would not be quiet and she can't put me with him.  They let's just say they was slightly bias on that.
+DOCTOR: Yeah.
+PATIENT: So okay, okay, so I didn’t get it because I was scared to come and have the surgery but when that opportunity came up, uh they it had not spreaded.
+DOCTOR: Yeah, right.
+PATIENT: But um, as a matter of fact after I leave from seeing you I'm going by the girlfriend and accept the appointment.
+DOCTOR: Good, good, perfect, perfect.
+PATIENT: But I don't know what they said in order to get my medication again.
+DOCTOR: Yeah so let's talk about your medicines.
+PATIENT: Yes ma'am.
+DOCTOR: What medicine.
+PATIENT: Oh as a matter of fact, oh I'm sorry, not to cut you off.
+DOCTOR: Yeah.
+PATIENT: Okay um I receive two things.  Now in order, what happened was I applied for the little hundred dollar stipend that they give.  I was only getting food stamps but I applied for SSI back in March of last year.
+DOCTOR: Okay.
+PATIENT: Okay they told me while I applied for SSI that I can go apply for the little hundred dollar spiker and the medical card.  I said I don't need the medical card I go to the VA but they said you got to apply for both.  So while I'm applying for SSI, [REDACTED] hundred dollar stipend and I applied for that.  They denied me, I applied in May of last year and they denied me in about October or November and I appealed, and they said that I need to have this filled out.  I think this was.
+DOCTOR: Yeah let’s take a look at it.
+PATIENT: And when I talked to the Legal Aid uh she said that she need for you to make sure that you put down that I'm taking the three blood pressure medicines, that I'm taking the medicine for diabetes, I don’t know the cholesterol one.
+DOCTOR: Yeah.
+PATIENT: And albuterol, uh even though I only occasionally have it mess up on me for asthma.
+DOCTOR: Uh-huh.
+PATIENT: I guess that's about everything I can think of.
+DOCTOR: Okay.  Alright so um we'll fill this out, okay.
+PATIENT: Okay no problem.
+DOCTOR: It's just we'll talk about your other stuff first.
+PATIENT: Uh-huh yes ma'am.
+DOCTOR: So tell me what blood pressure medicines are you taking right now?
+PATIENT: Lisinopril.
+DOCTOR: Uh-huh and do you remember the dose on that one?
+PATIENT: No ma'am.
+DOCTOR: Does 40 sound right to you?
+PATIENT: It's [REDACTED].
+DOCTOR: Let's see what they've got you on.
+PATIENT: Right, it might be in the neighborhood.
+DOCTOR: [REDACTED].
+PATIENT: I'll have to be honest I just take it, I don't pay no attention.
+DOCTOR: That's okay.
+PATIENT: Atenolol.
+DOCTOR: Uh-huh.
+PATIENT: I take amlodipine.
+DOCTOR: Okay amlodipine.
+PATIENT: Amlodipine okay.
+DOCTOR: Uh-huh.
+PATIENT: Yes that's the three medications.
+DOCTOR: And then the atenolol.
+PATIENT: And I take the cholesterol pill.
+DOCTOR: Yes.
+PATIENT: Sim uh.
+DOCTOR: Simvastatin?
+PATIENT: Yeah I take that and I take a.
+DOCTOR: You take half of it right?
+PATIENT: Right, I like once in a while I'll take a full one but most of the time I split it and that's when I get lazy when I take a full.
+DOCTOR: Uh and then um now for your diabetes you're taking the metformin.
+PATIENT: Metformin.
+DOCTOR: Metformin so it's 1000 mg twice a day right?
+PATIENT: Right.
+DOCTOR: Okay.
+PATIENT: Sometimes I do, not do what I'm supposed to and take only one but that's not [REDACTED].  What's the best time to take the metformin?
+DOCTOR: So once in the morning and then once in the evening.
+PATIENT: Okay.
+DOCTOR: Whatever you want to do it.
+PATIENT: So I'll make a point of that.
+DOCTOR: Yeah.  Just take it before you know like once before breakfast and once before dinner.
+PATIENT: Alright.
+DOCTOR: That's the best way and then um you still taking the baby aspirin?
+PATIENT: Yes for the blood thinner?
+DOCTOR: Uh-huh.
+PATIENT: Okay.
+DOCTOR: Good.  So there is a couple things we ought to work on and um a lot of it is just to update some stuff you know.  Like we don't have a recent cholesterol on you so we should get it.
+PATIENT: Okay.
+DOCTOR: Okay and we don't have a recent, do you remember what a A1c is, the hemoglobin A1c?
+PATIENT: No, the only people who have been taking blood.
+DOCTOR: For the Urology huh?
+PATIENT: Right.
+DOCTOR: Yeah.  So the hemoglobin A1c, what it is is it's a measure of um what your average blood sugar is over a three month period so it's a little bit better than just checking the blood with the Accu-Cheks okay.
+PATIENT: Okay.
+DOCTOR: Um the lab shows, anybody with diabetes their goal is less than 7.  The last time we checked it on you was back in June of last year and it was 6.6.  I want to make sure that you're still doing okay with that okay.
+PATIENT: Okay.
+DOCTOR: So we can check another one okay.
+PATIENT: Okay.
+DOCTOR: In your blood.
+PATIENT: No problem.
+DOCTOR: And then the other thing I want to talk to you about is that do you feel like you're having any blurry vision or?
+PATIENT: Well I need to wear glasses.  I'm not going to sit there and lie to you.
+DOCTOR: Okay.
+PATIENT: It's just that uh I [REDACTED] not the best, I look like Dr. Clyde, that's not an excuse so when I get the ones they say get it.
+DOCTOR: That's fine.  I want you to see the eye doctor anyway because the diabetes can affect your eyes you know and we got to make sure that it hasn't affected your okay.
+PATIENT: Okay.
+DOCTOR: So um we'll put you in to see the eye doctor, the same thing is diabetes affects your feet as well so we'll get you in.
+PATIENT: My feet?
+DOCTOR: Uh-huh.
+PATIENT: In what way?
+DOCTOR: So uh what it's called, it's called peripheral neuropathy.  It could be tingling in your feet.  It could be where you're running into things and you're bumping into things and.
+PATIENT: No.
+DOCTOR: I'm sure [REDACTED] on it but I didn't want um.
+PATIENT: Well not when I might get up in the morning and I'm halfway groggy I'm like.
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.
+PATIENT: But I don't know.
+DOCTOR: That's good um and then, let's see one other thing.  So we'll get you in to see all those fun folks.
+PATIENT: Uh-huh.
+DOCTOR: It's just one of those things where you know you kind of have to keep up with it.
+PATIENT: Okay.
+DOCTOR: And then the other thing is you know why don't, your potassium every once in a while, there's been a little bit on the lower side.
+PATIENT: What do I need to do, banana?
+DOCTOR: Bananas help.
+PATIENT: I just can't eat bananas.  I.
+DOCTOR: You don't like them?
+PATIENT: No put it this way, they don't like me.
+DOCTOR: Don't like you okay.
+PATIENT: Yeah cause I remember when I was younger, what happened was when I was back in my late teens, yeah cause I wasn't in my 20s yet, uh I worked at a chain of restaurants called Chicken Unlimited.
+DOCTOR: Okay.
+PATIENT: And I would eat [REDACTED] like they going out of style.
+DOCTOR: Okay.
+PATIENT: It got to the point where my stomach said I don't think so.  So I had to I mean and then if I wanted a lemon meringue pie, once I was eating watermelon and a stack of shrimp, uh the bananas.
+DOCTOR: Uh-huh.  Okay, okay.  Well there's pills we can give you, we can give you potassium pills.
+PATIENT: Okay.
+DOCTOR: Okay.  Now my other question to you is um you were, have you ever had a colonoscopy?  Do you know what that is?
+PATIENT: Refresh my memory.
+DOCTOR: So it's where we basically, we're screening for colon cancer.
+PATIENT: Wasn't that with a card?
+DOCTOR: So that's for your stools to check for blood.
+PATIENT: Okay, no okay, okay.
+DOCTOR: This one is where we give you some medicine, makes you a little sleepy and then what we do is we take a camera and we take a look up your bottom and we take a look all the way through um and if we see anything we can go ahead and just right there and then we can take off the polyp.
+PATIENT: I'm not gonna say no but I'm not so sure cause I never.
+DOCTOR: You have all your stuff done here right?
+PATIENT: Yes I don't go no where else.
+DOCTOR: Okay and I don't see a referral for that so.
+PATIENT: And it hasn't been any time recent.
+DOCTOR: Yeah so um we recommend it to everybody over the age of 50.
+PATIENT: Okay.
+DOCTOR: Now is that something you're okay with?
+PATIENT: I don't know.
+DOCTOR: Okay.
+PATIENT: You say that you're gonna have me on my side or on my stomach you gonna look up a rectum.
+DOCTOR: Uh-huh.
+PATIENT: And then worse come to worse what?
+DOCTOR: So there's a couple things.  Usually for most people you look up there and you don't find anything.
+PATIENT: Okay.
+DOCTOR: And you just repeat it in ten years.  You're good for ten years.
+PATIENT: Okay.
+DOCTOR: Some people they can have what are called polyps or little growths.
+PATIENT: Okay.
+DOCTOR: And uh some of those polyps can turn into cancer.
+PATIENT: Okay.
+DOCTOR: It's a very slow growing cancer so the reason we do it is that we take a look, we can take out the polyp and we can just look under the microscope.  If its cancer then you know we have lots of options, if it's not then we repeat it in five or ten years.
+PATIENT: Okay.
+DOCTOR: Yeah.
+PATIENT: I'll try it.
+DOCTOR: So we'll do that.  You know, it's nothing that urgently needs to be done over the next few months you know.
+PATIENT: Well should I have it done before or after my prostate cancer surgery?
+DOCTOR: Uh that's up to you.  That's up to you.
+PATIENT: Oh okay.  Alright, probably then I'll have it, let's see I should get the blood thinner thing uh well hmm.
+DOCTOR: But if you want to wait till after that's fine too.
+PATIENT: Okay so that's one of the other things you let me think about it.
+DOCTOR: Okay why don't you think about it and then you can tell me next time okay.
+PATIENT: Okay, that's good enough.
+DOCTOR: Um and then yeah we should maybe check your cholesterol and what not.  Alright so let me take a listen to you and see how you sound.  Are you having any fevers, any chills, any pain?
+PATIENT: No ma'am.
+DOCTOR: Chest, back, breathing troubles?
+PATIENT: No.
+DOCTOR: Nothing like that.
+PATIENT: Uh the only time my asthma acts up is when I get some change of weather here.
+DOCTOR: Yeah.
+PATIENT: It's very similar, exactly [REDACTED].
+DOCTOR: Good.  Deep breath.  Good now just breathe normal okay.  Now um has anybody told you about our MOVE Program here?
+PATIENT: [REDACTED] refresh [REDACTED].
+DOCTOR: No, so it's basically um a program that helps you with diet and exercises and losing weight.  Um now.  A couple of the patients that I've had have had excellent success with it.  Like one guy lost like 40 pounds, another one lost almost 100 pounds.
+PATIENT: How long did it take him to lose?
+DOCTOR: So, uh I think I'd say they lost the majority of their weight within the first like six months or so.
+PATIENT: Okay.
+DOCTOR: Yeah alright so um let me go find.
+PATIENT: Alright.
+DOCTOR: I could go show you, actually.
+PATIENT: Is it a nutritionist?
+DOCTOR: Um well it's a nutritionist who like will give you like the first appointment and then they'll set you up for the class.  I think it's worth checking out.
+PATIENT: Okay.
+DOCTOR: Okay, alright.  We can do that, alright.  Let me talk with my boss and see if she’s got anything to add and I'll be right back okay.
+PATIENT: No problem.
+DOCTOR: Alright.
+(DOCTOR OUT:  18:19  DOCTOR IN:  28:35)
+PATIENT: Yes.
+DOCTOR: Hi there.  I think we've slightly, we met this year.
+PATIENT: Yes ma'am.
+DOCTOR: When I was working for DOCTOR.  Nice to formerly meet you, I'm DOCTOR.
+PATIENT: Yes ma'am.
+DOCTOR: So DOCTOR was telling me that you were diagnosed with prostate cancer recently.
+PATIENT: Uh last year.
+DOCTOR: Last year okay.
+PATIENT: Yeah.
+DOCTOR: And they're just wanting to watch, they don't want to be aggressive about it at this point or?
+PATIENT: Uh I think they caught it early.
+DOCTOR: Okay.
+PATIENT: Uh they wanted me to go on, like I said I put off.
+DOCTOR: Having your prostate removed.
+PATIENT: I put off the surgery earlier this year.  In fact [REDACTED] I put it off. It’s the second time I’ve put it off.
+DOCTOR: You know, I was just telling DOCTOR we were talking and you're such a young person that you really should get that.  If I were you or if you were my relative I would say you should have the surgery.
+PATIENT: I'm gonna have the surgery.
+DOCTOR: Yeah.
+PATIENT: As a matter of fact I'm going to the urologist after I get through here.
+DOCTOR: Okay.  So you have an appointment already?
+PATIENT: Not with them yet, I had it but I didn't go through with it.
+DOCTOR: Okay.
+PATIENT: I was scheduled for the surgery.
+DOCTOR: Okay.  Well I would say you know now.
+PATIENT: I'm going back to have it done.
+DOCTOR: Okay good because um you've got a lot of living to do.
+PATIENT: I hope so.
+DOCTOR: Usually the watching is fine, especially with older gentlemen because it's a slow growing cancer but you're a young person so you know it's better to be more aggressive early when you catch it because we don't want, you've got a lot of time left on this earth so uh I think yeah and you were just gonna talk to him about the potassium thing.
+DOCTOR: Yeah.
+DOCTOR: Um so no for colonoscopy right?
+DOCTOR: Uh next time, next time sorry.
+DOCTOR: Well it looks like you're in good hands.
+PATIENT: Thank you ma'am.
+DOCTOR: Just wanted to make sure to introduce myself, take care.
+PATIENT: Okay.
+DOCTOR: It's nice to see you.
+PATIENT: Alright you too.
+DOCTOR: Alrighty.  First things first um let's talk about your diabetes okay.  So what we're gonna do with the diabetes, we're not gonna change anything uh as far as your medicines.  But we are gonna check to see where you're at right now with it okay.
+PATIENT: Okay.
+DOCTOR: So that includes the blood tests that we're checking of the A1c.
+PATIENT: Okay.
+DOCTOR: Uh and that's just a blood test so we'll do that and then we'll set you up to see our eye doctors.
+PATIENT: Okay and then what's that other one that the nutritionist?
+DOCTOR: Yeah I'll get you there just one second.
+PATIENT: [REDACTED].  Is it possible to do all this within this month huh?
+DOCTOR: I think that's more on your schedule than anything else.
+PATIENT: I don't know.  Only reason I say that I get reimbursed for my bus fare now they said you have to have, quote-unquote within the calendar month.
+DOCTOR: Uh-huh.
+PATIENT: So if I'm gonna do it I'd rather do it when I get reimbursed for it cause if I spread to like May.
+DOCTOR: Yeah.
+PATIENT: They probably say well you got x amount for April but you have four for May, I mean the four for April.
+DOCTOR: Well you know it might not be, but I think you might be able to get it; there are so many clinics over here okay, so we'll do that for your diabetes.  We'll check your blood tests.  We'll go to the eye doctor; we'll go to the foot doctor.
+PATIENT: Okay.
+DOCTOR: Next is your potassium.  It is a little low right, just like we talked about and since bananas do not agree with you.
+PATIENT: Naw.
+DOCTOR: What I'd like to do is start you on just some potassium pills okay.
+PATIENT: Good enough.
+DOCTOR: Um so what it is it's called potassium chloride and it's a tablet and we're gonna start you off with a small baby a dose of just 20 that you take once a day.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Okay.
+DOCTOR: And you take it daily and then next time you see me we'll give you um about three months’ worth okay and then when you see me uh we'll check your potassium.
+PATIENT: You gonna be here for a while?
+DOCTOR: Yeah.
+PATIENT: Good enough, so like I say check on when I want to see you again.
+DOCTOR: I'll be here for a while okay.  Um do you want to pick these up at the window?
+PATIENT: Yes ma'am I'll pick them up and then I think that the last blood pressure one.
+DOCTOR: Yeah.
+PATIENT: I am down to zippo.
+DOCTOR: Which one?
+PATIENT: Amlodipine.
+DOCTOR: Amlodipine?  How long have you been out of it?
+PATIENT: No I'm, well when I came the last time to the Pharmacy and they gave me, since I got a doctor's approval.
+DOCTOR: Uh-huh.
+PATIENT: I got 30 days worth if I remember correctly so that has ran out as of today.
+DOCTOR: What now, oh you ran out today?
+PATIENT: Yeah as far as the 30 today, in fact I had 30 days till I got to get to the doctors.
+DOCTOR: Okay so you didn't actually miss a dose of it?
+PATIENT: No.
+DOCTOR: Okay, okay.  So here's the thing.  We've got to go up on something.
+PATIENT: Okay.
+DOCTOR: Because your blood pressure's high.  So how much of the Atenolol are you on?
+PATIENT: Uh oh, see that's the bad thing.
+DOCTOR: Are you on 75 or are you on 100, are you on 50?
+PATIENT: Doc I'd be lying if I said I know the number the only thing I know is that I take them every day.
+DOCTOR: Is it one pill you're taking?
+PATIENT: One pill a day for atenolol, one pill a day for.
+DOCTOR: Yeah.
+PATIENT: Uh lisinopril and one pill a day for amlodipine.
+DOCTOR: Yeah.  I think that you know when you came to up in the clinic.
+PATIENT: But that was in August.
+DOCTOR: With the nurse yeah, did you uh I know they wanted to increase it but did you actually do the increase though?
+PATIENT: I'm like a zombie you know, I just say whatever.
+DOCTOR: Yeah you're on 75 so let's bump you up to 100 and you can get those at the window.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Uh I take [REDACTED] cause remember the metformin.
+DOCTOR: The metformin, yeah we'll refill all of them so don't worry about it.
+PATIENT: Okay.
+DOCTOR: Um.
+PATIENT: And uh if I don't need it, the albuterol.
+DOCTOR: Got those, got those.  Got these [REDACTED].  Um and change your cholesterol one too.
+PATIENT: I'm gonna try to exercise.
+DOCTOR: We'll help you out with that.  Okay so, okay so this is that's what we'll do and then what I want you to do is I want you to come back and see me in about two months okay.
+PATIENT: Okay.
+DOCTOR: And then at that time we can take a look at all of your tests again, see if there's anything else that needs to change okay.
+PATIENT: Okay.
+DOCTOR: But I want you to come back to see the nurse in about two to four weeks just to get your blood pressure checked okay.
+PATIENT: Okay.
+DOCTOR: Make sure it's better and then lastly what is the best phone number to reach you at in case there's some issues?
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER.
+DOCTOR: Uh-huh.
+PATIENT: NUMBER that's my cell phone.
+DOCTOR: NUMBER okay.  Now if you don't hear from me that means that your blood work looks good, just keep going as is okay.  But I do, a couple of things that we need to do for you, I’ll put this here [REDACTED].  So um if you [REDACTED] about five minutes or so [REDACTED].
+PATIENT: I got an appointment there I can wait no it's just basically I heard you talking to her outside the door but basically, the only thing is that you filling it out.
+DOCTOR: Yeah.
+PATIENT: Or you don't know based on my case just reading is you know let these people know that I'm taking these different medications for.
+DOCTOR: Yeah for something yeah.
+PATIENT: Right.
+DOCTOR: Um and so why don't we walk you over to the MOVE Program.
+PATIENT: Okay.
+DOCTOR: So that that way they can get you started.
+PATIENT: Okay.
+DOCTOR: And then on your way back, stop here, knock on my door and we'll [REDACTED].
+PATIENT: Okay sound like a winner.
+DOCTOR: So you got everything?
+PATIENT: I think so; I didn't do nothing else but this.
+DOCTOR: Alright [REDACTED].  We'll get you a head start on this.
+PATIENT: Okay.
+DOCTOR: In the MOVE Program.  [REDACTED].  Okay.  And then you're supposed to come back to see me [REDACTED].  This is a hot spot so I'll [REDACTED].
+PATIENT: Okay.  No it can stay on, it won't bother me.
+DOCTOR: No I'm okay now.
+PATIENT: It wouldn't bother me.
+DOCTOR: I could leave it on 24 hours a day.
+PATIENT: It wouldn't bother me at all.
+DOCTOR: Uh-huh.
+(Patient visits with MOVE Program person)
+PATIENT: Yeah she just had me sign up for her class.
+DOCTOR: Oh good, good.
+PATIENT: I'm sorry.
+DOCTOR: Alright here you go.
+PATIENT: Okay.
+DOCTOR: Alright take care okay.
+PATIENT: Now we're going to where I go to draw blood?
+DOCTOR: Yes uh-huh.
+PATIENT: Okay.
+DOCTOR: Get your blood [REDACTED].
+PATIENT: Okay thank you.  Have a good one.  Uh doc did you have down here that I take all these different medications?
+DOCTOR: Yes uh-huh.
+PATIENT: I just wanted to make sure I have the record on it.  Thank you.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275386
+TRANSACTION # 578-10-2-316-0103

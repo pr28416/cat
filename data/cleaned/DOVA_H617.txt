@@ -1,0 +1,127 @@
+DOCTOR: PATIENT?
+PATIENT: Hi.
+DOCTOR: Okay now I'm seeing you for the first time, I'm DOCTOR, nice to meet you.
+PATIENT: Yeah nice to meet you.
+DOCTOR: Alright so um I was looking at your chart briefly.  It looks like you have uh high blood pressure and diabetes.
+PATIENT: Yes.
+DOCTOR: Okay.  When was the diabetes diagnosed?
+PATIENT: Uh July 26th 09.
+DOCTOR: Okay and since then you've been on glipizide?
+PATIENT: Yeah.
+DOCTOR: Okay and you take 2.5 daily, is that twice a day?
+PATIENT: Yes.
+DOCTOR: Okay.
+PATIENT: Well metformin, yeah I got my meds.
+DOCTOR: Right and how is that?
+PATIENT: Uh, uh I was on metformin but.
+DOCTOR: Uh-huh.
+PATIENT: Hang on, the doctor took me off.
+DOCTOR: Why is that?
+PATIENT: I they said I don't need it.
+DOCTOR: Okay.  So you were on two medications.
+PATIENT: I was till like last month.
+DOCTOR: Who was your doctor who was taking care of the diabetes?
+PATIENT: Um DOCTOR, uh no uh the nurse practitioner NAME.
+DOCTOR: What [REDACTED]?
+PATIENT: I don't know, she [REDACTED] I don't know you know.
+DOCTOR: They're not bad.  But I need you to get some blood work done today.
+PATIENT: Oh okay.
+DOCTOR: Okay and uh.
+PATIENT: Uh can I ask you something?
+DOCTOR: Uh-huh.
+PATIENT: Like I'm uh [REDACTED] disability.
+DOCTOR: Uh-huh.
+PATIENT: Uh for my diabetes and hypertension.
+DOCTOR: Uh-huh.
+PATIENT: And depression.
+DOCTOR: Uh-huh.
+PATIENT: Can they access the information on the computer [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: Can they get the information off the computer?
+DOCTOR: You’ll have to bring us a form, sir.
+PATIENT: A form from who?
+DOCTOR: Wherever you were applying to [REDACTED].
+PATIENT: That's going to the Regional Office.
+DOCTOR: Yeah but you're gonna have some form [REDACTED].
+PATIENT: I think I signed the form for Freedom of Information.
+DOCTOR: Where is that?  No no I mean like who needs this?
+PATIENT: Uh.
+DOCTOR: Are these people at the VA?
+PATIENT: Yeah.
+DOCTOR: Oh no they can look up those things.
+PATIENT: Is it in the Regional Office?
+DOCTOR: Yeah they can look it up in the computer.
+PATIENT: Oh okay.
+DOCTOR: So they don't need that yeah.  If they're in the VA they can look it up in the computer.
+PATIENT: Oh okay.
+DOCTOR: If they're outside they're gonna need the form.
+PATIENT: Oh no they're not outside.
+DOCTOR: And have you seen the eye doctor recently for the diabetes?
+PATIENT: No.
+DOCTOR: Okay so we need to schedule that.  I'm going to make an appointment for that okay.
+PATIENT: Alright, okay.
+DOCTOR: A foot doctor?
+PATIENT: Nope.
+DOCTOR: We need to make that appointment too alright.
+PATIENT: My phone's been cut off for a while.
+DOCTOR: Yeah that's, you can make the phone call from here or whatever you know.  You have to schedule an appointment.
+PATIENT: Uh-huh.
+DOCTOR: Either from your cell or from here.
+PATIENT: Okay.
+DOCTOR: Your blood pressure is high today.
+PATIENT: What 133/72?
+DOCTOR: Uh well the first reading.
+PATIENT: Well I smoked a cigarettes, I told them.
+DOCTOR: Okay give me a second.  Let's see.
+(DOCTOR OUT: 11:01  DOCTOR IN:  15:00)
+DOCTOR: Alright, sorry about that, that was my [REDACTED].  Okay um, we're starting [REDACTED].  Okay.
+PATIENT: You know I need a consultant so I can go to the gym.
+DOCTOR: Yes we can do that, that's good; yeah I can do that for you.  We'll take care of that.  Anything else?  So when did you have a colonoscopy?
+PATIENT: Oh it had to be November.
+DOCTOR: Last year?  Last year?
+PATIENT: Wait a minute, wait a minute, February uh something like that.
+DOCTOR: Is it last year?
+PATIENT: No this year wasn't it?
+DOCTOR: Uh I can’t see it, was it here?
+PATIENT: Yeah.
+DOCTOR: And you said November?
+PATIENT: I think it was between November and February one of them.
+DOCTOR: Hmm, okay.  Alright.  Well.
+PATIENT: Do you see it on there?  When was it?
+DOCTOR: I can’t see but I'll take your.
+PATIENT: I think they told me to come back in five years unless I'm having problems.
+DOCTOR: Yeah I think you're good for it um, I’ll take your word for it.  Okay so I will give the orders [REDACTED].  You can get your labs done  [REDACTED].
+PATIENT: Okay.
+DOCTOR: And um I put in the consult for the Wellness Clinic okay.
+PATIENT: The Wellness Clinic for the eye?
+DOCTOR: No for the gym [REDACTED].
+PATIENT: Yeah, yeah the Wellness Center.
+DOCTOR: Wellness Center right.  You take an aspirin and [REDACTED]
+PATIENT: Yeah for the stomach and aspirin for my circulation.
+DOCTOR: That's right.
+(There was no conversation between doctor and patient from 18:21 to 28:42)
+DOCTOR: Okay so, get your labs done today.
+PATIENT: Hmm.
+DOCTOR: Alright and we'll see, the RN is going to see you in a few weeks and uh.
+PATIENT: What, for diabetes?
+DOCTOR: Uh-huh.  And um with me in one month okay.
+PATIENT: Okay but I got to call for the foot doctor and the eye.
+DOCTOR: Yes, yes.
+PATIENT: I got to call for that.
+DOCTOR: Exactly.
+PATIENT: You gave me [REDACTED].
+DOCTOR: Uh no you have it.
+PATIENT: [REDACTED].
+DOCTOR: I don't have anything.
+PATIENT: Yeah it's in there alright.
+DOCTOR: Thank you.
+PATIENT: Okay.  Supposed to give it to the desk?
+DOCTOR: Thank you so much.
+PATIENT: Thank you.
+DOCTOR: And [REDACTED] also a consult.
+PATIENT: So you put that on the, out in the front, [REDACTED].  Oh thank you, thank you so much.
+PATIENT: 29:47.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1275397
+TRANSACTION # 578-10-2-316-0103

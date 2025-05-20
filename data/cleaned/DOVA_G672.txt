@@ -1,0 +1,205 @@
+DOCTOR: PATIENT?  How are you?
+PATIENT: Not well.
+DOCTOR: Thank you for waiting.  Good to see you.  Let me help you up here.
+PATIENT: Let me get my junk here.
+DOCTOR: [REDACTED].
+PATIENT: I got a problem.
+DOCTOR: Right this way.  Have a seat right here for me.  What are the problems today?
+PATIENT: Well, I'm not [REDACTED].
+DOCTOR: I hear that you're not doing well.
+PATIENT: No I'm not uh.  I don't quite know how to explain it but I got a general feeling of malaise.
+DOCTOR: Yeah.
+PATIENT: That I've had for some time, for months I would say.
+DOCTOR: Hmm.
+PATIENT: Uh it's like pins and needles.  I think it might be called, I don't know but what is that called you know uh.
+DOCTOR: Neuropathy?
+PATIENT: Yeah peripheral neuropathy.
+DOCTOR: Yeah, yeah it could be.  So where are you having this feeling?
+PATIENT: Um mostly all over.
+DOCTOR: Any place uh worse than others?
+PATIENT: Yeah in my hands, fingers.
+DOCTOR: And how long has this been going on?
+PATIENT: Feet, ankles.
+DOCTOR: How long have you had this?
+PATIENT: Oh I've had this for I'd say six months now.
+DOCTOR: So this has been going on for six months and its worse in the fingers, the toes.
+PATIENT: Arms, legs.  It can be anywhere, stabbing pains.
+DOCTOR: Alright.
+PATIENT: Like needles going into my legs, arms, my face and scalp.
+DOCTOR: And when does this happen, every day?
+PATIENT: Yeah just about every day.
+DOCTOR: Okay.  And are there things that make it worse?
+PATIENT: Um I guess mainly when I'm lying down.
+DOCTOR: Is it worse at night or?
+PATIENT: Yeah I think it's worse at night although it can occur at any time.
+DOCTOR: Okay, worse at night and it's causing you a lot of discomfort?
+PATIENT: Yes very much.
+DOCTOR: Okay.
+PATIENT: Very much.
+DOCTOR: And to the best of my knowledge you are not a diabetic is that right?
+PATIENT: That's right.
+DOCTOR: You don't have diabetes.
+PATIENT: Not that I know of, although one of my tests was borderline they said.
+DOCTOR: The glucose or your sugar?  Your sugar was borderline huh?
+PATIENT: I think so.
+DOCTOR: Yeah I don't know if you were fasting during these but you've had some that were slightly high.
+PATIENT: Blood sugar.
+DOCTOR: Yeah.  Yeah.  Let's see, let’s check to see if they did another test on you.  Have you ever had this problem with the tingling before?
+PATIENT: No.
+DOCTOR: No okay.
+PATIENT: No I think in the last six months or so, maybe longer.  But it's a very weird feeling.  Just I can't relax.  I never feel relaxed.  It's just a general feeling of malaise.
+DOCTOR: Okay.
+PATIENT: It's pretty bad.
+DOCTOR: And how are you feeling since getting that tumor resected?
+PATIENT: That didn't seem any different you know.
+DOCTOR: Did you do okay with the surgery?
+PATIENT: Yeah the surgery was good.
+DOCTOR: But you're still feeling tired is that right?
+PATIENT: Tired yeah.  Yeah I do feel tired.
+DOCTOR: Let's see.  I'm just looking back to see when we last saw the endocrine doctors.
+PATIENT: Yeah DOCTOR.
+DOCTOR: Yeah, let's see here they checked your thyroid.
+PATIENT: I'm taking all these medicines.
+DOCTOR: Yeah you're on a bunch.
+PATIENT: I wonder could some of those be causing a problem?
+DOCTOR: Hmm.  Are you having any other problems?
+PATIENT: Um, well the last, yesterday I came down with this illness.  A very uh, almost like a flu, flu-like symptoms and it came yesterday.  Today I felt so bad I didn't know if I was going to be able to drive to the hospital you know.
+DOCTOR: Okay what kind of symptoms like, you’re sick to your stomach, do you have fevers?
+PATIENT: No fever I don't think but uh.  Yeah my stomach was upset this morning.  I had some nausea.
+DOCTOR: Stomach's upset alright.  Nausea and did you vomit?
+PATIENT: No.
+DOCTOR: Okay do you have fevers?
+PATIENT: I don't think so no.
+DOCTOR: Chills?
+PATIENT: I had the sweats.  I was sweating then it went away then it came back.  I was just sitting down here in that chair and then it went away.
+DOCTOR: Okay.  Alright and what about um like muscle aches, muscle pains, those kind of problems?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No no muscle pains.
+DOCTOR: Okay.  So are you feeling better now or worse?
+PATIENT: I think at the moment I feel better although I'm achy like flu symptoms.
+DOCTOR: Yeah.
+PATIENT: Which I've had since yesterday.
+DOCTOR: Yeah.
+PATIENT: Yeah kind of achy.
+DOCTOR: Uh-huh.  Let's see, I'm just looking here about when you saw the neurologist last time.
+PATIENT: Quite a while ago.
+DOCTOR: So you saw them in January and.
+PATIENT: Yeah she gave me gabapentin.
+DOCTOR: Yeah.
+PATIENT: I don't know if that does any good or not.
+DOCTOR: Um, gabapentin can work really well if you're on the right amount.  How much are you taking now?
+PATIENT: I'm taking two.
+DOCTOR: You're taking two at night?  Uh do you want.
+PATIENT: I changed it to three; I went up to three at night.
+DOCTOR: Okay and is that helping at all?
+PATIENT: I don't think it's any better than it was when I was taking one.
+DOCTOR: Oh okay.  You don't think it's any better huh?
+PATIENT: I beg your pardon?
+DOCTOR: It's not any better?
+PATIENT: No, I don't think so.
+DOCTOR: Okay.  Alright.  Let's see.
+PATIENT: I just taking that new one.  I just started taking the [REDACTED].
+DOCTOR: Let's see, okay.  How's your vision?  Has it gotten better since they took that, removed the tumor?
+PATIENT: Yeah it has.  My peripheral vision is better in my good eye.  I've only got one good eye.
+DOCTOR: Alright.  So that did get better.
+PATIENT: Yes.
+DOCTOR: Good.
+PATIENT: Yeah.
+DOCTOR: Alright.  Are you still seeing a cardiologist outside of here?
+PATIENT: Uh no, no I'm not.
+DOCTOR: You see cardiology here.
+PATIENT: I haven't seen a cardiologist for quite a while.  I don't remember when my last appointment was uh.
+DOCTOR: Okay.
+PATIENT: My blood pressure is good.
+DOCTOR: You probably do have, you're just right on the borderline of diabetes and uh right now it's not really bad enough that we would probably treat it.
+PATIENT: Uh-huh.
+DOCTOR: But we do want to keep an eye on it.
+PATIENT: Okay.
+DOCTOR: Let's see.  Are you urinating okay?  You're following with Urology how's that?
+PATIENT: Yeah I'm taking that new medication.  I just started that a couple days ago, tolterodine and that helps.
+DOCTOR: It does.
+PATIENT: Yeah because I was having to go every hour or so.
+DOCTOR: Okay.
+PATIENT: And now I'm only about two or three times a night.
+DOCTOR: Okay.
+PATIENT: So that seemed to help.
+DOCTOR: Let's see.  Your cholesterol looks good.  Check the CBC alright.  So we can help you out with this numbness and tingling a little bit, that would.
+PATIENT: Oh that would be great.
+DOCTOR: That would be the best thing.
+PATIENT: Yes.
+DOCTOR: Have a seat up here for me.
+PATIENT: I really hate that feeling.
+DOCTOR: Well how's your wife doing?
+PATIENT: She's doing great.
+DOCTOR: Sometimes she's here with you.
+PATIENT: I beg your pardon?
+DOCTOR: Some days I've seen her here with you.
+PATIENT: Yeah.
+DOCTOR: How is like your memory and everything like that doing?
+PATIENT: Good, I think.
+DOCTOR: Slip off your glasses for me.  Look straight ahead.  Open your mouth.  Okay.  [REDACTED].  Are you uh doing most things on your own, like your day to day stuff, or does your wife help you out?
+PATIENT: Oh yeah.  I do most things on my own.
+DOCTOR: Okay take some big breaths, again alright, relax.  Stomach is okay?
+PATIENT: Yeah.
+DOCTOR: Any blood in the stool?
+PATIENT: No.
+DOCTOR: Black stool?
+PATIENT: No.
+DOCTOR: Okay.  Alright.
+PATIENT: Do you think that anything can be done for that feeling I have?
+DOCTOR: I don't know.  I mean that can be a tough thing to treat.  I mean gabapentin can be a good drug but the problem is you have to get it up to a high enough dose or it doesn't do much.
+PATIENT: Oh.  Okay, well I'm taking three presently.
+DOCTOR: I know.  Let me go chat with one of my bosses back here.  I'll be right back in okay.
+PATIENT: Okay.
+(DOCTOR OUT: 95:45  DOCTOR IN:  98:41)
+DOCTOR: Thank you sir.  Taking a nap there?
+PATIENT: Yeah.
+DOCTOR: You know, if you want to, I'm waiting for one of the attendings, one of my bosses back there.  He's in the middle of something.
+PATIENT: Uh-huh.
+DOCTOR: Um so if you don't mind I can go ahead and have you kind of get the check-out process started.  Um just don't leave um.  After you check out, you know the Waiting Room up front?
+PATIENT: Yeah.
+DOCTOR: You know what I'm talking about?  Can you just wait there until I come and talk to you?  Um I don't you to, I feel bad you having to sit here um.
+PATIENT: Yeah.
+DOCTOR: Um you know I think it might speed it up a little bit you getting out of here and getting home uh.
+PATIENT: Yeah.
+DOCTOR: Uh I guess he's in the middle of admitting a patient to the hospital.
+PATIENT: How long do you think it'll be?
+DOCTOR: Five minutes.
+PATIENT: Oh okay.
+DOCTOR: But I just hate for you to have to sit here so I was thinking, what I'm thinking about doing is uh you know you're due for some blood testing uh, just to check the sugar and the cholesterol.
+PATIENT: Yeah.
+DOCTOR: Um and I'm gonna talk to him about the neuropathy pain to see if he agrees with.  See part of the thing is you're also seeing Neurology, who are kind of helping manage that so I don't want to step on their toes and change what they were doing but I think we may be able to help you out somewhere.  Uh.
+PATIENT: Yeah.
+DOCTOR: Let's uh, if you want, as long as you promise me that you're not gonna escape on me before I talk to you, this may just help speed things up.  So if you want to go check out okay and uh then I'll come find you in the Waiting Room.
+PATIENT: In the Waiting Room okay.
+DOCTOR: Yep, sound good?
+PATIENT: Okay there's one thing that I was supposed to, the nurse left me a note here.
+DOCTOR: Oh yeah what's this?
+PATIENT: I see that the lisinopril, the lisinopril is not on the list.
+DOCTOR: [REDACTED] list.  So it looks like lisinopril needs to be added to your online prescription list.  You've been taking this [REDACTED] since your tumor surgery and your blood pressure is stable.
+PATIENT: Yeah she uh, she orders it on the internet and she says it's not on the list.
+DOCTOR: Where do you get it?  Do you get it from the VA or you get it from somewhere else?
+PATIENT: No, from the VA.
+DOCTOR: Cause I don't think you've been getting it from us.  Did they give it to you at Loyola?
+PATIENT: Uh I'm pretty sure I've been getting it from the VA.
+DOCTOR: It says since your tumor surgery, so I wonder if they put you on that at Loyola.
+PATIENT: Oh maybe.
+DOCTOR: Hmm.
+PATIENT: You know what I think it's on my list.
+DOCTOR: I don't think it's on your list.  [REDACTED] potassium, [REDACTED].
+PATIENT: Oh I guess not.
+DOCTOR: So you must be getting it from somewhere else.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Can you add that to the list cause she wants to order all my medications.  She usually gets it from the VA on the internet yeah.
+DOCTOR: Alright and your blood pressure was good today huh?  Yeah.
+PATIENT: [REDACTED].
+DOCTOR: I'll make sure it's okay with my boss alright.
+PATIENT: Okay.  I'll get checked out okay.  Hmm.  I'm going to check out.
+PATIENT: 103:10.
+Time is 5:44.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238105
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,271 @@
+DOCTOR: PATIENT?
+PATIENT: How are you today?
+DOCTOR: [REDACTED].
+PATIENT: Just let me know where I can set my stuff.  [REDACTED].
+DOCTOR: I saw that.
+PATIENT: I'm 74.
+DOCTOR: I saw that.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Ever since I had my knee [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Yeah.  [REDACTED] many years ago.
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yeah I saw [REDACTED].  Does the tramadol help?  [REDACTED] help?
+PATIENT: I've got to pick it up.  I wasn't able to wait for it.
+DOCTOR: Oh I see.
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Cause it's only [REDACTED].
+DOCTOR: Okay, so you want to pick it up now.
+PATIENT: [REDACTED] one of those questions I had for you.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Woo, [REDACTED].
+PATIENT: Okay.  [REDACTED] so I tried to make an appointment in audiology.
+DOCTOR: Okay.
+PATIENT: I tried [REDACTED], I called for an appointment they said I hadn't been here in over two years so.
+DOCTOR: Okay.
+PATIENT: They told me [REDACTED] recommended again.
+DOCTOR: I will do that [REDACTED].
+PATIENT: Okay.  [REDACTED].
+DOCTOR: What else?
+PATIENT: And uh I've been noticing my pulse rate.
+DOCTOR: Yes.  Okay.
+PATIENT: You [REDACTED] for the last two weeks.
+DOCTOR: How [REDACTED] okay.
+PATIENT: So it’s been rising, the one of them.
+DOCTOR: Right I see that.  The high, the 100s, what was going on when they're in the 100s.
+PATIENT: It doesn't seem to matter.
+DOCTOR: Nothing [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Sometimes they're up and sometimes they're down.
+DOCTOR: Okay.  Um well you've been taking the Digoxin, correct?
+PATIENT: Uh.
+DOCTOR: Excuse me, you stopped Digoxin [REDACTED] and the atenolol.
+PATIENT: [REDACTED].
+DOCTOR: The atenolol.
+PATIENT: [REDACTED].
+DOCTOR: Are up to 50 millgrams?
+PATIENT: No.
+DOCTOR: No.
+PATIENT: I don't have any pills.
+DOCTOR: Okay [REDACTED] your blood pressure is 110/74 okay.  Um, let me think about it because again, I think it’s a good thing that you’re off of the Digoxin.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um and so the question is do we go up on the atenolol a little more, [REDACTED] 37.5.
+PATIENT: Uh-huh.
+DOCTOR: And just monitor your blood pressure.  Have you been feeling dizzy at all?
+PATIENT: No.
+DOCTOR: Um because if you were feeling dizzy then I'd be hesitant to raise the dose but if you're not then let's go up on it slowly.
+PATIENT: Uh-huh.
+DOCTOR: Okay so instead of doubling the dose we'll go up [REDACTED].
+PATIENT: Okay [REDACTED].
+DOCTOR: Okay, alright sounds good.  Um and the appointment for Audiology is for hearing adis?
+PATIENT: For the hearing aid.
+DOCTOR: For your hearing aids.
+PATIENT: I've been missing things you know.  I don’t know if it’s the hearing aids, my own hearing.  I just need an adjustment.
+DOCTOR: Okay.  Could you go today?
+PATIENT: No.  Wish I could but I can't.
+DOCTOR: Okay.  How long have you been wearing the hearing aids?
+PATIENT: A couple of years.  [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: No problem.  Okay.  Besides the pulse, we're gonna go up on the atenolol, the hearing I'm gonna make sure that you get to see Audiology, I'm putting in a consult right now.
+PATIENT: Uh-huh.
+DOCTOR: Anything else you want to discuss today?
+PATIENT: No I just, I can wear [REDACTED].
+DOCTOR: Yeah.  [REDACTED].
+PATIENT: I [REDACTED].  My wife I’ve been living in Elmhurt for [REDACTED] for [REDACTED] It helps a little, but not much.
+DOCTOR: [REDACTED].
+PATIENT: You know [REDACTED].
+DOCTOR: [REDACTED].  Are you sure that's not for um, have you ever had [REDACTED] before?
+PATIENT: [REDACTED].
+DOCTOR: Hmm.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].  Just keep talking and I'll look it up.
+PATIENT: Okay.  Uh.  [REDACTED] and that helps but not much.
+DOCTOR: Okay.
+PATIENT: And I probably get some my lower back and that's probably contributing too.
+DOCTOR: Hmm, yeah.
+PATIENT: [REDACTED] recommend it [REDACTED] they have me – 20 minutes .
+DOCTOR: [REDACTED].
+PATIENT: I feel good for about five minutes after.
+DOCTOR: Uh-huh.
+PATIENT: And then [REDACTED] all day.
+DOCTOR: Right.  So why did [REDACTED] if you feel like this, okay.
+PATIENT: Okay.
+DOCTOR: Okay.  Um have you tried Icy Hot or Ben Gay?
+PATIENT: Uh I used to use Ben Gay many years ago. I’ve never tried Icy Hot.
+DOCTOR: I would recommend that.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.  That can help the muscular pain, if you get that.
+PATIENT: [REDACTED] yeah.
+DOCTOR: Just use that on your back.  As far as other pain medications, anything [REDACTED].  You know something that, I would try, avoid taking ibuprofen um, Advil and Motrin.
+PATIENT: Oh ibuprofen I’m not supposed to take anyway.
+DOCTOR: Right because of the other medications.
+PATIENT: Because of all the medications.
+DOCTOR: Because of the Coumadin that you're on.
+PATIENT: Right.
+DOCTOR: The Tylenol [REDACTED].  The tramadol that they gave you, you can take that as you need it and your muscles [REDACTED], something right now while you're so sore.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] heating pad or Icy Hot.
+PATIENT: Okay, [REDACTED] without any problem.
+DOCTOR: Okay great.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Oh my blood pressure and it's going down.
+DOCTOR: It is good.
+PATIENT: [REDACTED].
+DOCTOR: I'm glad to see that.  I'm glad to see that.  [REDACTED].  How come you still have your?
+PATIENT: Cause I check my pulse every now and then and checking that too.
+DOCTOR: Absolutely, no it looks good.  I'm happy to see that.  Why don't you have a seat here.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: [REDACTED].  I'll examine [REDACTED].  Did you have a good holiday?
+PATIENT: Yeah it was quiet but good.
+DOCTOR: Well quiet [REDACTED] good.
+PATIENT: [REDACTED] easy.  [REDACTED].
+DOCTOR: Well good.
+PATIENT: And we had a very good dinner and.
+DOCTOR: Good.  The company [REDACTED].
+PATIENT: My daughter [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: She [REDACTED].
+DOCTOR: Oh my goodness.
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh.  I can only imagine.  [REDACTED].  Deep breath.  How about you, [REDACTED].
+PATIENT: [REDACTED].  I live with my daughter.
+DOCTOR: Right.  Let me look at the other one.
+PATIENT: 12-year-old granddaughter [REDACTED].
+DOCTOR: You can put your glasses back on.
+PATIENT: Okay.
+DOCTOR: Um [REDACTED], push out against me, good.  Face me and we're going to [REDACTED].  Good now on this side good.  Now kick out against me, [REDACTED].  Good, good, good.  Okay can you go up anymore, yeah, okay.  Can you lie back sir?
+PATIENT: Oh sure.
+DOCTOR: Okay.  Go ahead and [REDACTED].
+PATIENT: It hurts to do that.
+DOCTOR: It hurts you to lay okay.  Lift this leg up straight, can you do that?  The right leg lift it like this?  Don’t let me push it down.
+PATIENT: It hurts a lot.
+DOCTOR: Okay.  Can you lift this one?
+PATIENT: Yeah it really hurts a lot.
+DOCTOR: Okay well I'm going to raise it okay.
+PATIENT: Okay.
+DOCTOR: So you won't do anything.
+PATIENT: [REDACTED].
+DOCTOR: Just let me do this okay.  There, is that good.
+PATIENT: Uh-huh. That smarts.  Oh.
+DOCTOR: That's fine um.  Did they get x-rays of your [REDACTED].
+PATIENT: Yeah they took a bunch.
+DOCTOR: Okay.  I'm gonna have you sit up and so, so did you go here [REDACTED].
+PATIENT: It doesn’t shoot down any more.
+DOCTOR: You had them done here.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] today?
+PATIENT: Uh [REDACTED].
+DOCTOR: Okay.  I want to see your feet.
+PATIENT: Okay.  [REDACTED] but not like this.
+DOCTOR: Uh you do have swelling a little bit.  [REDACTED] here?
+PATIENT: No [REDACTED].
+DOCTOR: Here?
+PATIENT: I felt a little.
+DOCTOR: Here?
+PATIENT: Not really.  [REDACTED].
+DOCTOR: Here?
+PATIENT: [REDACTED].
+DOCTOR: Here?
+PATIENT: Okay now.
+DOCTOR: But mostly here.
+PATIENT: [REDACTED].
+DOCTOR: Do you feel anything here?
+PATIENT: [REDACTED] all kinds of things.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: Huh?
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].  Trying to keep myself informed.  [REDACTED].
+DOCTOR: Oh.  Well you need to come to the doctor.
+PATIENT: [REDACTED].
+DOCTOR: Well, so remind me gout wise, when was the last time you had a gout flare?
+PATIENT: Oh years.  Uh [REDACTED] I used to take a medicine for gout [REDACTED] I was just on nonsteroidals.
+DOCTOR: Right.
+PATIENT: So I don't have to take any medicine for gout anymore.
+DOCTOR: I see okay.
+PATIENT: And I haven't had a flare-up since.
+DOCTOR: Uh-huh.  So you're due for some shots, do you know that.
+PATIENT: What?
+DOCTOR: You're due for some immunizations.
+PATIENT: Oh this year yeah.
+DOCTOR: Did you get the flu shot?
+PATIENT: Oh yes. [REDACTED].  I get them.
+DOCTOR: [REDACTED] beautiful.  And your atenolol, can you cut those pills in half?
+PATIENT: Sure.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Alright and so the only your only taking 5.
+PATIENT: And my eye drops.
+DOCTOR: [REDACTED].  I got the Coumadin, [REDACTED] vitamin.
+PATIENT: [REDACTED] the vitamin.
+DOCTOR: Okay, so for your back pain I would recommend tramadol, the Icy Hot and stretching is gonna help.
+PATIENT: Uh-huh.
+DOCTOR: And if it doesn't, [REDACTED] call me.
+PATIENT: Okay.
+DOCTOR: Let me know and then we'll order an MRI of the back.  [REDACTED] looks good.
+PATIENT: Uh-huh.  Cause they must have taken at least 16 xrays.
+DOCTOR: Yeah [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yeah.  For your heart rate for your afib.  You have the Coumadin and I see that you follow in the Coumadin Clinic and your INRs [REDACTED] and the [REDACTED].  If you feel lightheaded go back down to 25 mg and give me call and le tme know..
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: And um Audiology.  They should be calling you for an appointment.
+PATIENT: Yeah usually they send a letter.
+DOCTOR: Or send a letter.
+PATIENT: Yeah.
+DOCTOR: And.
+PATIENT: For me to call.
+DOCTOR: Okay, sounds good.
+PATIENT: Okay.
+DOCTOR: Alright then, let me step out and I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: Alright.
+(DOCTOR OUT:  25:41  DOCTOR IN:  29:52)
+DOCTOR: Alright sir.  So all set.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Absolutely.
+PATIENT: [REDACTED].
+DOCTOR: Oh sure in the Atenolol yeah, 37.5.
+PATIENT: Pardon?
+DOCTOR: The Atenolol yeah. In half. So in the computer I have that you're taking 50 mg, but you're definitely taking the 25.  Is that correct?
+PATIENT: Uh-huh.
+DOCTOR: Okay.
+PATIENT: I was just taking the [REDACTED].
+DOCTOR: The pill is.
+PATIENT: [REDACTED].
+DOCTOR: 25, not 50.  It's not a 50 pill okay.
+PATIENT: Cause I was taking a half pill before, [REDACTED].
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: Yes I did.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh.
+PATIENT: I know I was parked and then I put it into the car and [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: [REDACTED] paper.
+DOCTOR: Have a great one too.
+PATIENT: [REDACTED].
+DOCTOR: Oh you need to.  [REDACTED].
+PATIENT: [REDACTED] blood work though.
+DOCTOR: No problem.  [REDACTED] okay.
+PATIENT: [REDACTED].
+DOCTOR: Alright sir [REDACTED].
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Take care now.
+PATIENT: at 31:59
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1235341
+TRANSACTION # 578-10-2-316-0103

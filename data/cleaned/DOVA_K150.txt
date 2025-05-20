@@ -1,0 +1,329 @@
+DOCTOR: [REDACTED].
+PATIENT: Yes I know.
+DOCTOR: How have you been?
+PATIENT: When I take the medications I'm fine.  The reason why I cancelled the last time was.
+DOCTOR: Do you have your medicine list?
+PATIENT: Yes.  When I cancelled the last appointment was because I had uh my diet was a little bit, left a lot to be desired and uh.
+DOCTOR: You had diarrhea?
+PATIENT: Well it was a five roll toilet paper day.
+DOCTOR: Hmm.
+PATIENT: Um since we had not seen each other once before, when I called to reschedule the appointment I said I have not seen this doctor before, schedule me with anybody.
+DOCTOR: Okay.
+PATIENT: Because since I've been here, I think I've seen four.
+DOCTOR: Different doctors?
+PATIENT: Absolutely.
+DOCTOR: Oh my gosh, oh my gosh.
+PATIENT: So now you're the fifth.
+DOCTOR: Well you gave us.
+PATIENT: So I said please, give me somebody.  I don't wait da da da and obviously that didn't seem to mean a hill of beans.  I've also been waiting here about three hours so I am not really a happy camper.
+DOCTOR: Three hours?
+PATIENT: I understood that, I understood that you started at 1 o'clock.
+DOCTOR: Yeah.
+PATIENT: I hear you, I didn't know but I just figured if I get here early.
+DOCTOR: Oh no.
+PATIENT: Yeah right, well that is never gonna happen again.
+DOCTOR: Unfortunately yes, unfortunately because everyone has like their time slot.
+PATIENT: Yeah, well it isn't gonna happen again.
+DOCTOR: Okay.  Alright let's go over the medicines that you're taking so I know what you're on.  You're still on the Combivent inhalant right?
+PATIENT: I'm on everything.
+DOCTOR: Okay.
+PATIENT: I take it religiously.
+DOCTOR: That's good.
+PATIENT: If I take something a little bit lightly or lighter it's the inhalers and the reason then is because they open me up but unfortunately being a smoker I'm just going to have to cigarette probably 15-20 minutes so I don't think it opens me up.
+DOCTOR: Are you still smoking?
+PATIENT: Unfortunately.
+DOCTOR: How many packs?
+PATIENT: One.
+DOCTOR: A day?
+PATIENT: Yes.
+DOCTOR: Trying to cut back?
+PATIENT: I've given up on that one.  I've failed.
+DOCTOR: How many times have you tried?
+PATIENT: 2 hard core times.
+DOCTOR: Okay, so it's never too late right?
+PATIENT: I don't lie to myself.
+DOCTOR: Have you tried like any smoking cessation programs?
+PATIENT: I think I did the patch once.
+DOCTOR: Uh-huh.
+PATIENT: I failed.  I tried twice hard core.
+DOCTOR: What if you try to cut back slowly to like half a pack a day?
+PATIENT: Yeah.
+DOCTOR: Do you think you might be open to try that?
+PATIENT: I don't lie to myself.
+DOCTOR: You don't want to try but you do know your lungs could get worse right?
+PATIENT: Of course.
+DOCTOR: Okay.  Just want to make sure.  Any shortness of breath though?
+PATIENT: Of course.
+DOCTOR: When do you usually get that?  When you're sitting down, not doing anything, when you're walking on an incline?
+PATIENT: No.  Yeah I got to walk upstairs or I'm gonna you know if I exert myself I just know that it's not a great idea and uh doesn't help your lungs.
+DOCTOR: Uh-huh.  Do you feel like you're using the albuterol more than usual?
+PATIENT: No.
+DOCTOR: Okay.  How often are you using albuterol?
+PATIENT: When necessary.
+DOCTOR: How many times a week?
+PATIENT: Once or twice.
+DOCTOR: Okay.  Do you drink?
+PATIENT: I should but I don't.
+DOCTOR: I'm glad you don't.  How long have you been smoking though?
+PATIENT: Since I've been in the Marines.
+DOCTOR: Hmm.  Do you live alone?
+PATIENT: Yes.
+DOCTOR: Family around in the Chicago area?
+PATIENT: Yes.
+DOCTOR: Do you have children?
+PATIENT: Yes.
+DOCTOR: Pretty supportive or do you see them?
+PATIENT: I am supportive for them, yes for them.
+DOCTOR: Okay.  Okay.  Alright let me look at the labs you had done and then we can go from there.  Blood pressure is on the high side today.
+PATIENT: Yes because I was aggravated.
+DOCTOR: Do you check your blood pressure at home?  Okay.  Do you check your blood pressure at home?
+PATIENT: I like the VA.  I'm a happy camper with the VA.
+DOCTOR: Do you even know what time your appointment was?
+PATIENT: This place has always been class act to me, I enjoy it.
+DOCTOR: Okay.
+PATIENT: The economics are outstanding.  But if I had to come here and pay, I’d kiss this place off in a heartbeat.
+DOCTOR: It's not a bad place, you know that right?
+PATIENT: Let us please move on.
+DOCTOR: Okay.  Let me look at your labs and then we'll go from there.  So the labs you had done last year were not that bad.  Your cholesterol was a bit on the high side.
+PATIENT: So they gave me this whatever it is and I take a half a pill a day.
+DOCTOR: Okay, looks good.
+PATIENT: Until I run out.
+DOCTOR: I can refill your medicines, it's not a problem.  Have you ever had.
+PATIENT: When I was here, well I guess it was two weeks ago.
+DOCTOR: Uh-huh.
+PATIENT: I came through and filled everything for them.
+DOCTOR: Okay.  Have you ever had a colonoscopy?
+PATIENT: Colonoscopy.
+DOCTOR: Uh-huh.
+PATIENT: Tell me what it is.
+DOCTOR: You lay down, they give you like a bowel prep so you are having diarrhea constantly for like a day.
+PATIENT: Is that something where they stick something in here?
+DOCTOR: Through the rectum.
+PATIENT: Never ever.
+DOCTOR: You've never had it?
+PATIENT: No nor am I going to.
+DOCTOR: Why is that?
+PATIENT: It just isn't gonna happen.
+DOCTOR: Usually the reason why we recommend that.
+PATIENT: Don't care.
+DOCTOR: Let me explain first.
+PATIENT: No.  No.  I don't want anything stuck in my rectum.
+DOCTOR: Well you're aware of preventing colon cancer [REDACTED] right?
+PATIENT: It isn't gonna happen.
+DOCTOR: You have increased risks.
+PATIENT: It isn't going to happen.
+DOCTOR: Any history.
+PATIENT: It has been brought up before.
+DOCTOR: Okay.
+PATIENT: It isn't gonna happen.
+DOCTOR: Any history of like cancers in your family?  No?
+PATIENT: Not that I'm aware of.
+DOCTOR: Okay.  So another screening that we do, because you're a smoker and you're age 65 is to screen for your large artery which is your aorta being enlarged.
+PATIENT: I know.  It was suggested that I take…
+DOCTOR: Uh-huh.
+PATIENT: Uh the baby aspirin and I do.
+DOCTOR: You do take the baby aspirin but at age 65, between age 65 and 75, we do have to do an ultrasound of the aorta to make sure the size is not enlarged.  Is that something you'd be interested in?  What do you think?
+PATIENT: Uh when I was in the hospital I think five or six years ago, some kind of clogged blah, blah, blah and they did all that stuff.  They looked at the heart.
+DOCTOR: So that was probably an ultrasound of the heart.  This one is an ultrasound of like the large vessels, also of the heart, mainly like an abdominal ultrasound looking for that.
+PATIENT: Oh I know they showed me a picture, you know I was looking at it.
+DOCTOR: Uh-huh.
+PATIENT: Do you think it is necessary at this point in time?
+DOCTOR: We could talk about it the next time I see you.
+PATIENT: Fine.
+DOCTOR: Sounds good.  Okay.  So today you ate already.  When do you think you have time to come back so maybe we can recheck the cholesterol?
+PATIENT: How is it that you're gonna recheck it?  Is it a blood thing?
+DOCTOR: Yeah.  But you would have to not eat.  I'm sure you did already today right?
+PATIENT: Well uh when did uh.
+DOCTOR: I’m sorry you have to wait.
+PATIENT: No, no, no, no.  I think I had a plan.
+DOCTOR: Huh?
+PATIENT: I think I have a [REDACTED].
+DOCTOR: Which is?
+PATIENT: Uh what is your schedule on the 7th of June?
+DOCTOR: Well I don't need to see you.  You can just go down to the lab and get it done.  Yeah and then I follow up on it.
+PATIENT: Then I'm for that.
+DOCTOR: Huh?
+PATIENT: Tell me what they're gonna do.
+DOCTOR: It's just a blood draw.
+PATIENT: Oh they're gonna take blood.
+DOCTOR: And usually its better that you get that in the morning so the night before you won't eat, you would stop eating as of like 6:00 p.m. and then you get it done and then I'll follow up on it.  Now let me see.
+PATIENT: One of the things they do good here.
+DOCTOR: Which is?
+PATIENT: Takes blood boom, [REDACTED].
+DOCTOR: Okay.  So your blood pressure has been on the higher side.  I'll recheck it again today but it's something you need to keep a close eye on.
+PATIENT: It was rechecked then.
+DOCTOR: I'll recheck it myself.
+PATIENT: Fine.
+DOCTOR: Last year it was still up in the 140s, which around what it is right now.  Were you not really too happy the day last year when you had it done.  Do you remember?
+PATIENT: No.
+DOCTOR: Maybe that was the problem.
+PATIENT: No there was no problem.
+DOCTOR: Okay.  So we'll keep an eye on that.
+PATIENT: It's higher today.
+DOCTOR: Huh?
+PATIENT: It was higher today.
+DOCTOR: Yeah.  So you would like to come back in June to get that done, do the cholesterol?
+PATIENT: Yeah.  It's not a big thing.
+DOCTOR: It's up to you.  Okay.
+PATIENT: Uh make it on the 7th.
+DOCTOR: Of June right?
+PATIENT: Yeah.  I will live.
+DOCTOR: Really far?
+PATIENT: 60 miles one way.
+DOCTOR: Oh gosh.  That's really far.
+PATIENT: So I cruise.
+DOCTOR: Do you have any other appointments during that time?
+PATIENT: Yes.
+DOCTOR: Okay you have an appointment on June 7th okay perfect.  Perfect, I didn't know that.  Okay, have a seat up here.
+PATIENT: June 7th is a Tuesday and that's right.  So if you can set that thing up before I get, of course it doesn't take that long.  I guess at 1 o'clock.
+DOCTOR: Yeah you can get it done whenever.  It doesn't matter.
+PATIENT: All you do is schedule it, schedule the day.
+DOCTOR: Uh-huh.
+PATIENT: Fine.
+DOCTOR: And you can come at whatever time you choose.
+PATIENT: Okay thank you.
+DOCTOR: You can have a seat up here.  So we'll check your cholesterol and get all that blood work then.  Any problems peeing, losing urine on yourself, not feeling like you've properly completely emptied your bladder?
+PATIENT: No the only time I had was the last time I had to cancel the appointment and it was probably because I wasn't eating right or whatever.  So I backed off the medications, did a lot of water, cleared the system out.
+DOCTOR: Hmm.
+PATIENT: Probably about three days later got back on the medications, started eating properly and everything has been fine since.
+DOCTOR: Uh-huh.  Chest pain, shortness of breath, feeling like your heart is pounding, beating really fast?  Just hold still for me if you can.
+PATIENT: Okay.  In theory, let's see.
+DOCTOR: Yeah.
+PATIENT: Probably going to be 147 over.
+DOCTOR: Because you're worked up.  I'm working you up.
+PATIENT: No I'm working myself down.
+DOCTOR: (Laughter).
+PATIENT: 147 over whatever it is 80s or something or less than that, 90 or something.  Am I close?
+DOCTOR: You're close.  I got 148 over about 100.
+PATIENT: You know I don't have a clue what that means.
+DOCTOR: Any leg swelling at all?
+PATIENT: I'm sorry, say it again?
+DOCTOR: And any leg swelling?
+PATIENT: No.
+DOCTOR: Okay.  And no chest pain either right?
+PATIENT: Thank goodness.
+DOCTOR: And you know your smoking could do that.
+PATIENT: That's bad enough.
+DOCTOR: Any problems with your vision?
+PATIENT: Uh well it's not 20/20.
+DOCTOR: Do you wear glasses or contacts?
+PATIENT: No.
+DOCTOR: Do you feel like your vision is gradually worsening?
+PATIENT: Manageable, manageable.
+DOCTOR: Do you wear reading glasses?
+PATIENT: It's gradually you know worsening.
+DOCTOR: Do you want to see the Eye Clinic here?
+PATIENT: No.
+DOCTOR: Why?
+PATIENT: I don't look for problems.
+DOCTOR: You just don't want to know if there's something going on.
+PATIENT: That is correct.  You know I don't want any invasive surgeries, anybody sticking anything you know.  It's just that they've taken blood here and they do it.
+DOCTOR: So let me ask you this, let's say you never have a colonoscopy, you come in maybe 5-10 years from now very constipated, very bloated, having weight loss and we say hmm we think it may be maybe colon cancer or something like that.
+PATIENT: I would tell you to do what they did when I was in Vietnam.
+DOCTOR: Which is what?
+PATIENT: Take this [REDACTED] peragoric and eat a lot of peanut butter.
+DOCTOR: That may not help.
+PATIENT: If I'm alive in five to ten years from now I'm gonna be a happy camper.
+DOCTOR: With cancer?
+PATIENT: I'll be a happy camper.  If I make it another five, ten years, I'm gonna be a happy camper.
+DOCTOR: So let's say at that stage you can't eat anything, you can't keep anything down because there's cancer in the colon backing things up and we can't really feed you right?
+PATIENT: And I die? It happens to everyone.
+DOCTOR: At that point, let me ask you would you decide on having part of your colon taken out?
+PATIENT: No invasive surgery.
+DOCTOR: Nothing.  Nothing.
+PATIENT: I have all the parts that I'm gonna need that can last me.
+DOCTOR: Okay.
+PATIENT: They've taken a few parts out. I still have a bunch in.
+DOCTOR: What parts did they take out?
+PATIENT: Spleen.
+DOCTOR: Why?
+PATIENT: Motor accident.
+DOCTOR: No heart surgeries ever?
+PATIENT: No I've been very fortunate.
+DOCTOR: That's good.
+PATIENT: I know they cleaned my lungs out one time.
+DOCTOR: Why?
+PATIENT: Cause they were all clogged up.
+DOCTOR: Okay.  Okay.  [REDACTED].
+PATIENT: You know where they stick the hose down you and clear everything out.
+DOCTOR: Yeah.  Alright.  Lift up your shirt here.  Alright a deep breath for me.  Everything seems to be cleaned out.  When was the last time they had an x-ray.  Do you want me to give you over-the-counter Debrox, it's more like a drop you put in your ears.
+PATIENT: Yes.
+DOCTOR: Okay.  Open your mouth; stick out your tongue ah.  [REDACTED] protuding in and out.  Around your cheeks.
+PATIENT: This side?
+DOCTOR: Yeah.
+PATIENT: Cause they pulled three teeth probably three weeks ago.
+DOCTOR: Okay.
+PATIENT: So.
+DOCTOR: They pulled them here?
+PATIENT: No, I don't have dental
+DOCTOR: I thought they did.
+PATIENT: Yeah well they have it, I don't qualify.
+DOCTOR: Oh.  This is cold.
+PATIENT: Warm heart.
+DOCTOR: What's this over here?
+PATIENT: Uh well I've been told it's supposedly a piece of fat.
+DOCTOR: Yeah.  Is it bothering you at all?
+PATIENT: Uh cosmetically but I can't see back there so I don't worry about it.
+DOCTOR: Okay.  I was going to offer something for you but I guess not.
+PATIENT: There's a way to do it without cutting it?
+DOCTOR: Yeah.
+PATIENT: You have to cut it?
+DOCTOR: Yes.  Alright lay on your back for me.  We'd have to cut it.
+PATIENT: [REDACTED].
+DOCTOR: Uh-huh, [REDACTED] pain.  Just go ahead and sit up for me.  Have a seat right here.
+PATIENT: Right where?
+DOCTOR: Have a seat.  Alright so the main concern is the blood pressure.  We could do a couple of things.  Hold off on starting you on anything, have you follow up with the Pharmacy.
+PATIENT: There is one thing on the blood pressure.
+DOCTOR: What?
+PATIENT: In my coffee this morning late.
+DOCTOR: Uh-huh.
+PATIENT: I did have a double shot of Espresso.
+DOCTOR: Okay.  They can send you a blood pressure cuff to your house and you can do that.
+PATIENT: I'm just wondering if that was the reason why the blood pressure was high.
+DOCTOR: It may or may not be but smoking does it too.  They can send you a blood pressure cuff, you can keep a log of, maybe checking it a couple times a week, I'll hold up on starting you on something right now.  I'll have you see the pharmacist, the registered pharmacist on June 7th if they can get an appointment, to see what the blood pressure has been.  If it's still high then we'll have to start you on something.
+PATIENT: I'm started on everything.
+DOCTOR: Not blood pressure medicine.  Okay.  So I just wanted to let you know about that.
+PATIENT: You mean none of those things?
+DOCTOR: No, it's none of them.
+PATIENT: I thought at least one or two of those things were supposed to.
+DOCTOR: No.
+PATIENT: Just no.  Mellow me out a little bit.
+DOCTOR: There is medicine for anxiety, there's one for the inhaler and then the cholesterol and that's it.  Let me order these things and then you should be done.  So you said June 7th is the date.
+PATIENT: Yes.  Correct, correct.
+DOCTOR: June 7th.  I'm going to order you a blood pressure cuff to the house.
+PATIENT: What is this?
+DOCTOR: Huh?
+PATIENT: What is it?
+DOCTOR: What is a blood pressure cuff?  What do you mean what it is?
+PATIENT: Yes, yes, yes.
+DOCTOR: Oh it's similar to that but its manual.  It's automatic so you can at least keep a log of your blood pressure to try to decide on what to do.
+PATIENT: Don’t send it.
+DOCTOR: Okay.  Do you want to see; do you want to have like a nurse visit on the 7th when you come, have one of the nurses up here check your blood pressure?
+PATIENT: They can't do it while they're taking blood, don't they?
+DOCTOR: Yeah I mean they can't do it in the lab downstairs.
+PATIENT: Oh.
+DOCTOR: Your choice.
+PATIENT: Yeah that's fine, fine.  For me to check my blood pressure every third day or every fifth day…
+DOCTOR: No maybe once a week.
+PATIENT: Once a week, just what I need, I'll get more nervous.
+DOCTOR: [REDACTED] June 7th, let me see.  Okay.  Now give me a couple minutes okay.
+(DOCTOR OUT:  179:10  DOCTOR IN:  185:04)
+DOCTOR: Alright we're all set.  So you'll come in on June 7th to get your labs done on June 7th and then we'll go from there.  And you need to work on the smoking and keep it in the back of your mind if it's still high we'll have to start something if you want.  Okay?
+PATIENT: I really tried that hard core once.
+DOCTOR: What?
+PATIENT: [REDACTED].
+DOCTOR: Well let's see when you come back.  [REDACTED].
+PATIENT: Why don't you just [REDACTED] order for the patches?
+DOCTOR: It's a start.  But starting the patch is good.  Alright I'll see you back in six months, nurse visit.
+PATIENT: I give that to them?
+DOCTOR: Yeah it's all yours.  Okay.
+PATIENT: Hey thank you.
+DOCTOR: Thank you.
+PATIENT: You're very thorough.
+DOCTOR: Thank you.
+PATIENT: Check out.
+PATIENT: 186:10
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249443
+TRANSACTION # 578-10-2-316-0103

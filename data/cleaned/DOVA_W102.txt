@@ -1,0 +1,383 @@
+DOCTOR: PATIENT?  How you doing today?
+PATIENT: Will [REDACTED].
+DOCTOR: [REDACTED].  [REDACTED] came from.  Perfect, exactly.  Well nice to meet you.
+PATIENT: Yeah nice to meet you too.
+DOCTOR: Good job.  I haven't been to the VA too much in the past but uh.
+PATIENT: Oh really.
+DOCTOR: Yeah.
+PATIENT: Wow, man I just.
+DOCTOR: You spent some time in 228?
+PATIENT: Uh I spent more time in ATC.
+DOCTOR: Oh really.
+PATIENT: I was in ATC.
+DOCTOR: Oh really.  Op.  Where are you in uptown?
+PATIENT: I had snapped a tendon.
+DOCTOR: Oh yeah.
+PATIENT: In my ankle with it and had that all reattached and everything else.
+DOCTOR: Yeah.
+PATIENT: Uh but eventually uh one of the screws backed out.
+DOCTOR: Oh really.
+PATIENT: So they had to go back in and take all the hardware out.
+DOCTOR: Okay.
+PATIENT: You know but yeah that's what that was all about.
+DOCTOR: Okay.  Alrighty uh well let's see.  Let me pull up your record here.  Um it doesn't look like you've ever really established care with anybody here at the VA before right?
+PATIENT: Well I was.
+DOCTOR: In the Medicine Department.
+PATIENT: Well I was with DOCTOR for quite some time.
+DOCTOR: Okay, alright.
+PATIENT: Uh after my stroke.
+DOCTOR: Okay.
+PATIENT: But now the last [REDACTED]
+DOCTOR: But when was that stroke again?
+PATIENT: Uh 06/06, I think it was.
+DOCTOR: Okay and then also you have heart disease?
+PATIENT: I had a heart attack.
+DOCTOR: You had a heart attack.
+PATIENT: Yeah.
+DOCTOR: Do you remember when that was?
+PATIENT: That was in October of 98.
+DOCTOR: Okay and did they do anything like a bypass, did you have a stent?
+PATIENT: I have a stent.
+DOCTOR: You have a stent.
+PATIENT: In my left descending.
+DOCTOR: Okay.  Uh and did you take Plavix after.
+PATIENT: Uh I take lovastatin.
+DOCTOR: Lovastatin.
+PATIENT: Yeah.
+DOCTOR: Okay were you ever on a medicine called clopidogrel or Plavix for that?  No.
+PATIENT: I don't think so.
+DOCTOR: That's alright.
+PATIENT: I may have.
+DOCTOR: You may not have been back then but that's okay, that's fine.  Um let's see.
+PATIENT: Now I took, at one point, let me see what.  I keep calling it metoprolol.
+DOCTOR: Yeah, yeah [REDACTED].
+PATIENT: Is that right?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: What medicines are you taking right now though?
+PATIENT: Right now lovastatin uh, fluoxetine, trazodone.
+DOCTOR: Okay.
+PATIENT: Aspirin.
+DOCTOR: Okay.  Do you remember what doses you're on?
+PATIENT: No.
+DOCTOR: Okay.  Um and where do you get that medicine from?
+PATIENT: Here.
+DOCTOR: Um okay.  So we have our records as actually taking simvastatin.  Does that, does that?
+PATIENT: Yeah.
+DOCTOR: Okay so the records show you get all your medicines here.
+PATIENT: Yeah my medicines come from here.
+DOCTOR: That would be accurate okay good.
+PATIENT: I've got like stockpiles of them in the last couple days.  Not that, in the past couple weeks uh.
+DOCTOR: Yeah you've just been getting more of them.
+PATIENT: Yeah and so.
+DOCTOR: [REDACTED] needing it.
+PATIENT: All of a sudden I got all these uh.
+DOCTOR: Yeah.
+PATIENT: Pharmaceuticals coming in you know.
+DOCTOR: Yeah [REDACTED].  Okay.
+PATIENT: Uh it's straightened out, I mean I know it's hard but.
+DOCTOR: How have you been feeling lately?
+PATIENT: Right now my allergies are beating me up.
+DOCTOR: Do you get allergies every year around this time?
+PATIENT: No.
+DOCTOR: So this is kind of new.
+PATIENT: Yeah.
+DOCTOR: What type of problems are you having?
+PATIENT: Oh just uh sneezing and sore throat and headache.  You know my sinuses are of course all clogged up.
+DOCTOR: Okay and are you taking any over-the-counter medicines for that?
+PATIENT: Yeah I've been taking Zyrtec is that right?
+DOCTOR: Yeah.  Is that working for you?
+PATIENT: Eh.
+DOCTOR: Okay.
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: You know.  But that's not the only problem I; at the house we redid the kitchen.
+DOCTOR: Yeah.
+PATIENT: So there's no dry wall.
+DOCTOR: Right, right, right.
+PATIENT: Demo, yeah.
+DOCTOR: You tore it up a lot.
+PATIENT: Right, on top of the allergies it's you know so.
+DOCTOR: Alright um, sounds good.  We can see if we can do anything for that.  We have a medicine I think would be a little stronger that Zyrtec you could maybe try.
+PATIENT: Yeah I talked to the pharmacist there at Walgreen’s.
+DOCTOR: Yeah.
+PATIENT: And I told him what I was taking.
+DOCTOR: Yeah.
+PATIENT: And he said here, try the Zyrtec.
+DOCTOR: Yeah.  We can just keep going on that then; hopefully it will get better once the dust settles.
+PATIENT: But like I said if I could get something stronger I'd sure [REDACTED].
+DOCTOR: It's the same medicine.  You don't know dose your taking do you?
+PATIENT: Uh I'm taking one every 24 hours so.
+DOCTOR: So probably [REDACTED] would change is what we can offer for now so keep you going with what your doing.
+PATIENT: Yeah that's fine.  If you're not going to change it.
+DOCTOR: Yeah.
+PATIENT: There’s no sense in it.
+DOCTOR: Okay um just because this is required that you see me; I got a couple questions for you.
+PATIENT: Uh-huh.
+DOCTOR: Um previous surgeries you had your foot surgery in 2008 anything else?
+PATIENT: Heart.
+DOCTOR: Oh then you had a heart surgery stent okay.  Okay.
+PATIENT: And I had a cancer taken off my back.
+DOCTOR: Okay what; I don't have any record but what was done there?
+PATIENT: No it was done here.
+DOCTOR: Okay.
+PATIENT: Uh it's kind of [REDACTED] cancer you know like.
+DOCTOR: It was like a [REDACTED].
+PATIENT: Yeah, yeah.
+DOCTOR: A mole or something?
+PATIENT: It was more like a pimple.
+DOCTOR: Okay.
+PATIENT: That just wouldn't heal.
+DOCTOR: Okay.
+PATIENT: And uh, yeah but it was like a kids cancer.
+DOCTOR: And when was that removed?
+PATIENT: Uh a couple years ago, last year I think, maybe the year before.
+DOCTOR: Okay.  Alright.
+PATIENT: But that was nothing, it was all outpatient.
+DOCTOR: Okay.  2007.
+PATIENT: Right.
+DOCTOR: Right yeah.
+PATIENT: And uh yeah I was in and out of Hematology for quite a while too.  Uh my red blood platelets were like off the charts.
+DOCTOR: Platelets were off yeah.
+PATIENT: Okay you got that.
+DOCTOR: Right, got that.  And now they're doing okay as far as you know?
+PATIENT: As far as I know yeah.
+DOCTOR: Okay.  Do you remember when the last time you had it checked was?
+PATIENT: Uh my understanding it's every time they draw blood uh they get it.
+DOCTOR: So it was back in December they took a look at it.
+PATIENT: Okay.
+DOCTOR: It looked good okay, good.  Alright that's it.  Um I'm looking through your chart.  It looks like family history wise your mother had a stroke?
+PATIENT: My mother had a heart attack.
+DOCTOR: She had a heart attack.
+PATIENT: Numerous.
+DOCTOR: Yeah.
+PATIENT: Three or four.
+DOCTOR: Did she not have a stroke then?
+PATIENT: No my mom never had a stroke.
+DOCTOR: Okay, alright.
+PATIENT: And my dad either died of a heart attack or a stroke, they don't know what.
+DOCTOR: And then your brother has hypertension and high blood pressure?
+PATIENT: Uh one of my brothers.
+DOCTOR: One of your brothers does.
+PATIENT: Well it's not hypertension, its more cholesterol related.
+DOCTOR: Anything else run in the family, cancers or anything like that?
+PATIENT: No uh it's all like heart.  They all drop dead.
+DOCTOR: Do you know how old your parents were when they had heart attacks?
+PATIENT: Oh my mother was young uh, probably in her late 40s her first one and she's had like three or four.  I think she's had three bypasses, separate you know.
+DOCTOR: Okay.  Then your dad.
+PATIENT: He never saw a doctor in his life but he died at 52 of either a heart attack or a stroke; they don't know what killed him.  But he got that taking his pants off.
+DOCTOR: Um I have also in the records that you are currently smoking.  Are you still smoking?  Okay.
+PATIENT: Yeah and it's less.
+DOCTOR: About one pack a day?
+PATIENT: You know I kind of laid off.
+DOCTOR: Great.
+PATIENT: Okay uh.
+DOCTOR: But previously you were a lot more, about two packs a day?
+PATIENT: Yeah I was way up there.
+DOCTOR: Okay.
+PATIENT: I was a smoking fool.
+DOCTOR: And then you've had problems with alcohol in the past too?
+PATIENT: Yes.
+DOCTOR: And have you quit?
+PATIENT: Yeah.
+DOCTOR: When did you quit?
+PATIENT: Oh, in the last ten years I've been sober a lot more than I've been drunk really but uh.  I haven't had a drink since January now.
+DOCTOR: Okay.  Alright great.  Um let's see and what branch of the military were you?
+PATIENT: I was in the Navy.  I was a heavy equipment operator in the Seabees.
+DOCTOR: Alright.  Um are you living with anybody right now?
+PATIENT: I live with my sister.
+DOCTOR: You do okay.  Anything else bothering you besides the allergies we need to talk about?
+PATIENT: My ankle right now, it's not the ankle itself, so much - everyday aches and pains.  But the skin.
+DOCTOR: Yeah.
+PATIENT: Okay and that’s where, sometimes okay but now [REDACTED] that’s where there we're doing all that digging.
+DOCTOR: Okay.  What's the specific symptom that you have a complaint about today?  Is it like itchiness, dryness?
+PATIENT: Yeah.
+DOCTOR: Of the skin or is it something else?
+PATIENT: No it does hurt from time to time.
+DOCTOR: Okay.
+PATIENT: I mean it'll get so dry it'll bleed.
+DOCTOR: Okay.
+PATIENT: Uh I don't know like once a month.
+DOCTOR: Okay.  You know it looks; it does look definitely really dried out down there.
+PATIENT: Yes.
+DOCTOR: And kind of where it is, it's in a bad spot and you tend to rub it up against [REDACTED].
+PATIENT: Right.
+DOCTOR: I'd try just having some lotion on it.
+PATIENT: Yeah.
+DOCTOR: But um, that [REDACTED] stuff or something.  Probably a jar like a emollient or whatever you can get at Walgreen’s or something.  It's kind of like a moisturizer but it's not, it doesn't come in a bottle, a can of it almost.
+PATIENT: Okay.
+DOCTOR: Like an oil product.
+PATIENT: Okay.
+DOCTOR: Try that. Apply that twice a day.
+PATIENT: Yeah.
+DOCTOR: Uh it should help.  [REDACTED] will help you out a lot.
+PATIENT: Okay.
+DOCTOR: A lot of times for a scars too, it seems to be like having a lot of problems, it helps healing, helps it really to stay like stay healthy so.
+PATIENT: Yeah that's kind of been a small concern.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Okay.  Your blood pressure is a little bit low today.
+PATIENT: Yeah.
+DOCTOR: Is that normal for you?
+PATIENT: Yep.
+DOCTOR: Okay, sounds good.  And otherwise um.  Like I told you before your platelets all looked fine.  The rest of your electrolytes back in December when we looked at them all looked fine.
+PATIENT: Uh-huh.
+DOCTOR: Um I don't know if there's a whole lot more to talk about outside of having getting down to uh making sure that you're as healthy as you can be and it looks like you're doing pretty good right now.
+PATIENT: Yeah I think I you now.  Beside the allergies I feel fine.
+DOCTOR: Okay.
+PATIENT: You know.
+DOCTOR: Alright.  Let's see you had a colonoscopy back in 2007.
+PATIENT: Uh-huh.
+DOCTOR: Make this look a little prettier um and they didn't find anything?
+PATIENT: As far as I know.  I never heard anything.
+DOCTOR: No polyps or anything.  [REDACTED].  It showed they found some hemorrhoids but.
+PATIENT: Oh.
+DOCTOR: But that's nothing to be concerned about obviously okay.
+PATIENT: Uh-huh.
+DOCTOR: Alright.
+PATIENT: That turned out to be expensive if that's all that fine; in some ways I could have told them there were hemorrhoids.
+DOCTOR: Have you ever had your prostate levels checked?
+PATIENT: Uh no.
+DOCTOR: Um it is a test that we can do for you.
+PATIENT: Yeah.
+DOCTOR: So you have had the test before whether you know it or not.
+PATIENT: Okay.
+DOCTOR: It’s bascially, it's a blood test that uh that we can look to see if there is any elevation in it we can be a little more aggressive to see if there's any prostate cancer.
+PATIENT: Right.
+DOCTOR: Your tests have been normal in the past; we don't need to repeat anything.
+PATIENT: Okay.
+DOCTOR: If you want to, it's just something that's followed yearly.
+PATIENT: Uh you're in charge here alright so.
+DOCTOR: I will tell you there are pros and cons to checking the prostate levels, sometimes it can elevate for no reason whatsoever.
+PATIENT: Uh-huh.
+DOCTOR: It’ll lead to down the road getting a biopsy.
+PATIENT: Uh-huh.
+DOCTOR: That has its own complications.
+PATIENT: Right.
+DOCTOR: Um but then you don't get the, if we're not checking it you don't get the benefits of early detection so.
+PATIENT: Hmm.
+DOCTOR: Uh but no prostate cancer in your family history, I could go either way.  I would say if.
+PATIENT: You're calling the shots.
+DOCTOR: If you're the kind of guy that would be really concerned about that, otherwise if uh we want to check it then we can go ahead and check it.
+PATIENT: Yeah.
+DOCTOR: If you really don't care too much or.
+PATIENT: Right now I'm not worried about it.
+DOCTOR: Okay, so we'll hold off on checking it.
+PATIENT: Alright.
+DOCTOR: Okay.  Okay and then cholesterol.  Have you had that checked?
+PATIENT: Oh yeah.
+DOCTOR: Okay.
+PATIENT: And it goes up and down I mean.
+DOCTOR: It looks like you're doing pretty good actually so.
+PATIENT: Yeah.
+DOCTOR: Uh your.
+PATIENT: Is that something to check?
+DOCTOR: Your last cholesterol test was back in February.  I think you're probably due for another check.
+PATIENT: Okay.
+DOCTOR: As well as the thiamine and the blood sugars, making sure those all look good as well.
+PATIENT: Uh-huh.
+DOCTOR: You've never had a problem with those before.
+PATIENT: No.
+DOCTOR: I don’t expect there to be a problem.  Do you remember when your last tetanus shot was?
+PATIENT: Um it was a few years back but it was here, it should be on record.
+DOCTOR: Yeah 2007, good.  Alright.  [REDACTED]
+PATIENT: Whatever you got to do buddy.
+DOCTOR: Alright um, also you're taking the fluoxetine for depression is that right?
+PATIENT: Uh-huh.
+DOCTOR: How's that going?  Are you having any symptoms?
+PATIENT: No I'm doing alright.
+DOCTOR: [REDACTED].
+PATIENT: Yeah I'm doing okay with it you know.  Knock on wood.
+DOCTOR: Sounds good.
+PATIENT: You know.
+DOCTOR: Um some of the things they ask us to ask you about are about risk factors for sexually transmitted infections um, you're not having any unprotected sex or anything?
+PATIENT: I'm not having any sex period so.
+DOCTOR: Oh you're not, alright.  Um and then do you have any tattoos?
+PATIENT: Yeah I have a tattoo.
+DOCTOR: Have you ever been checked for hepatitis C before?
+PATIENT: I don't know, I don't think so.  Uh but actually that's something we probably should look at.
+DOCTOR: Okay.
+PATIENT: Cause the last uh partner I had uh she died of Hep C.
+DOCTOR: Yeah that's been tested; it looks like back in 2007.
+PATIENT: Okay.
+DOCTOR: Uh and it was normal.
+PATIENT: And she died, when did she die, shortly after my stroke.
+DOCTOR: Let me see, have you ever had the HIV test done?
+PATIENT: Yeah, yeah, more than one occasion yeah.
+DOCTOR: Great well, it appears to me that you're a pretty healthy fellow right now um.  I'd say keep taking that Zyrtec for the allergies and do the moisturizer on your ankle.
+PATIENT: Yeah.
+DOCTOR: We'll make sure everything else is doing well.  We'll check some blood tests.  I'm assuming you've eaten today?
+PATIENT: Yes.
+DOCTOR: So uh when you get a chance to get some fasting blood draw for us, just stop down at the first floor Laboratory.
+PATIENT: Okay.
+DOCTOR: Um we'll check your cholesterol, we'll check your electrolytes and check your platelets again to make sure everything looks okay uh and then following that, you've got my clearance for doing whatever you have been doing.
+PATIENT: Well I want this [REDACTED].
+DOCTOR: Hop up here.
+PATIENT: Alright.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: And what I need, is a little help with a [REDACTED] back there.
+DOCTOR: Okay.  Take a look up here.
+PATIENT: Uh-huh.
+DOCTOR: Couple deep breaths.  Good, again, good.  Again, good, one more, alright.  Breathe normal.  Deep breathe in and hold it.
+PATIENT: Okay.
+DOCTOR: Lift that chest, again deep breath in and hold it.  Great.  It sounds very good.  Now you've never had any chest pain or any trouble breathing?
+PATIENT: I didn't have any uh chest pains even with my heart attack.
+DOCTOR: What kind of symptoms were you having then?
+PATIENT: That was right through here.
+DOCTOR: You had an arm pain?
+PATIENT: Oh yeah.  I mean it's like, kind of like you cut it off okay.  You know.  Okay here's what it is.  This is, okay this was what I received from the VA.
+DOCTOR: Okay.
+PATIENT: For my non-service-connected.
+DOCTOR: Right.
+PATIENT: Which is 100%.
+DOCTOR: Okay.
+PATIENT: But the state needs, if you could just fill this out.
+DOCTOR: Um so.  You can fill this part out.
+PATIENT: Oh I can fill that out.
+DOCTOR: Um, so actually just the physical part. I know there are classes.  If I'm not mistaken here for the form I fill out, I think you'd be a 1 or a 1A.  Let's see here.  Um let's see.
+PATIENT: Yeah.
+DOCTOR: I think that should do it.
+PATIENT: Alright thank you doctor.
+DOCTOR: Alright this should do it.  Alright.
+PATIENT: I turn off; when you say just go down to the lab uh, like I'm going to be here Tuesday.
+DOCTOR: Great.  Tuesday morning.
+PATIENT: Just swing in the lab and.
+DOCTOR: Before you eat anything.
+PATIENT: Okay.
+DOCTOR: Just go down to the first floor and Lab has the orders [REDACTED] computer systems.
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] and uh they'll be able to do a quick blood draw and [REDACTED].
+PATIENT: Yeah.
+DOCTOR: Okay, I will call you with the results, good or bad.
+PATIENT: Alright.
+DOCTOR: And if it changes then I will uh, I'll let you know when I call you but I don't think I need to see you probably unless any thing’s off for another year or so okay.  Um why don't you wait in here for a little bit.  I have to talk to one of my supervisors for the clinic real quick.
+PATIENT: Okay.
+DOCTOR: But we'll get you out of here soon okay.
+PATIENT: Uh-huh.
+DOCTOR: Alright.
+PATIENT: Alright.
+DOCTOR: Wait right here I'll be right back.
+PATIENT: Yeah sure.
+(DOCTOR OUT:  32:54  DOCTOR IN:  41:31)
+DOCTOR: Okay, so you're good to go okay.  Nothing new.  Stop by and get those labs for us.
+PATIENT: Uh-huh.  Like I say I'll be here Tuesday.
+DOCTOR: Should be good.
+PATIENT: Okay doctor alright.
+DOCTOR: Pleasure to meet you.  Let me do that.
+PATIENT: Yeah, okay I was going to say [REDACTED]  Like next time I'm walking around [REDACTED].
+DOCTOR: Got it.  Holler if you need anything okay.
+PATIENT: Okay thank you doctor.
+DOCTOR: Drop those off up front.
+PATIENT: Okay.
+DOCTOR: I'll see you later alright, take care.
+PATIENT: Thanks man.  Alright.  To the left alright.
+DOCTOR: Yeah to the left and then take a right then all the way out.
+PATIENT: Alright thanks doctor.
+PATIENT: 42:11
+Time is 12:56.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1238107
+TRANSACTION # 578-10-2-316-0103

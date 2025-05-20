@@ -1,0 +1,273 @@
+DOCTOR: PATIENT.  How you doing?
+PATIENT: Pretty good.
+DOCTOR: [REDACTED]  My name is DOCTOR.  I'm one of the clinic doctors.  You haven't been seen in like a year?
+PATIENT: Yeah, it’s been a while.
+DOCTOR: Any issues since then?
+PATIENT: Yeah my hand shakes.
+DOCTOR: Okay which hand?
+PATIENT: The right hand.  Sometimes I’ll just be sitting and it just starts shaking.
+DOCTOR: Is it, are you, is it worse when you're doing stuff with your hands?
+PATIENT: Um.
+DOCTOR: Or when it's just resting.
+PATIENT: When it's just resting.
+DOCTOR: And it gets better when you do stuff?
+PATIENT: Yeah if I'm working on something I don't have no problem with it.
+DOCTOR: Uh-huh.
+PATIENT: But when it's just like sitting sometime [REDACTED] would be alright and then it will just start.
+DOCTOR: It will start shaking?
+PATIENT: Right.
+DOCTOR: Any tremor in your upper extremities?
+PATIENT: No.
+DOCTOR: Alright any um dizziness upon standing?
+PATIENT: I'm a little lightheaded, not real heavy like but enough to be concerned at the least.
+DOCTOR: Yeah cause your blood pressure is really low.
+PATIENT: Low yeah I know.  It's normally not like that.
+DOCTOR: Yeah.  Okay.
+PATIENT: Plus I need some metformin too.
+DOCTOR: Well let's get your labs.  You haven't had labs in a year.  We can't give you metformin if we don't know what your labs are.
+PATIENT: Okay.
+DOCTOR: Um how long have you been feeling lightheaded with standing?
+PATIENT: It's just every once in a while.
+DOCTOR: Okay.  Is it right now?
+PATIENT: No.
+DOCTOR: Okay.  Okay any headaches, changes in your vision?
+PATIENT: Nope.
+DOCTOR: Okay.  Any um you know falling?
+PATIENT: No.
+DOCTOR: Or anything or any instability?
+PATIENT: No.
+DOCTOR: Okay um let's see um so you have high blood pressure um you have high cholesterol.
+PATIENT: Right.
+DOCTOR: And an elevated PSA right?
+PATIENT: Uh-huh.
+DOCTOR: Have you had any problems urinating?
+PATIENT: No.
+DOCTOR: Like having um [REDACTED] you haven't completely emptied your bladder?
+PATIENT: No.  [REDACTED] pretty good with the belt on so.
+DOCTOR: Okay.  What a weak stream?
+PATIENT: Yeah.
+DOCTOR: Any blood in your urine?
+PATIENT: No.
+DOCTOR: Or burning when you pee?
+PATIENT: No.
+DOCTOR: Okay.  Any constipation?
+PATIENT: No.
+DOCTOR: Anything change in the quality of your stool like seeing pencil thin stools?
+PATIENT: No.
+DOCTOR: Any blood in your stool?
+PATIENT: No.
+DOCTOR: Any abdominal pain?
+PATIENT: No.
+DOCTOR: Okay.  Any history of Parkinson in your family?
+PATIENT: No.  That's the stuff I was kind of worried about with my hand.
+DOCTOR: Yeah.  Any seizures or that kind of thing?
+PATIENT: No, no.
+DOCTOR: Um diabetes?
+PATIENT: Yeah I got diabetes.
+DOCTOR: In your family?
+PATIENT: Yeah.
+DOCTOR: High blood pressure?
+PATIENT: Yeah.
+DOCTOR: Stroke?
+PATIENT: Uh not really with the strokes but high blood pressure a lot.
+DOCTOR: What about heart attacks?
+PATIENT: No.  You know [REDACTED] so far.
+DOCTOR: In your family?  Like your father and your mom?
+PATIENT: Uh my father died from a heart attack.
+DOCTOR: At what age?
+PATIENT: He was uh let's see he was about 55, 55, 57 years old.
+DOCTOR: Okay.  What about you mom, any heart attacks?
+PATIENT: No.
+DOCTOR: Alright and then the medications you’re taking, you're taking uh you are taking, are you still taking glyburide 5 mg twice a day?
+PATIENT: Uh-huh oh yes.
+DOCTOR: Lisinopril 40 mg.
+PATIENT: Once a day.
+DOCTOR: Once a day.
+PATIENT: Yes.
+DOCTOR: And then that's it?  You're not taking anything else?
+PATIENT: Uh simvestin.
+DOCTOR: Simvastatin?
+PATIENT: Yeah for cholesterol.
+DOCTOR: Okay you take 40 mg?
+PATIENT: I take one a day, half of one a day.
+DOCTOR: Yeah.  You take let's see metformin 1000 mg twice a day?
+PATIENT: Right.
+DOCTOR: Metoprolol 100 mg twice a day.
+PATIENT: Right.
+DOCTOR: Okay.  Um and then sildenafil, it's Viagra I believe, the sildenafil?  For ED.
+PATIENT: That was about [REDACTED].
+DOCTOR: Sexual stuff, do you take that?
+PATIENT: Not really cause I haven't had anything in over a year.
+DOCTOR: Okay.  Do you take aspirin?  Maybe one baby aspirin?
+PATIENT: Yeah that's what I've been using yes.
+DOCTOR: Okay.
+PATIENT: A baby aspirin.
+DOCTOR: Alrighty so let me go through [REDACTED] and you don't [REDACTED] okay.  And do you smoke?
+PATIENT: Uh, no.  Uh I have a question for you.
+DOCTOR: Uh-huh.
+PATIENT: Okay like my blood pressure was low today.
+DOCTOR: Uh-huh.
+PATIENT: What causes that?
+DOCTOR: So it could be some of your medicine that you take for blood pressure.
+PATIENT: Yeah.
+DOCTOR: And what it could be is you're just not drinking enough fluid.
+PATIENT: I drink a lot of water.  I drink a lot of water.
+DOCTOR: Okay.
+PATIENT: And I be thirsty.
+DOCTOR: Yeah all the time?
+PATIENT: Oh yeah I'll be thirsty all the time.  While I'm at work I drink water all day long.
+DOCTOR: Um.
+PATIENT: And I got another question.  What might cause those hand tremors?  Well nobody in my family has anything like that.
+DOCTOR: Alright so that could be um I mean you're already, you've had it for how long the tremor in the hand?
+PATIENT: Oh about uh two months now it's been.
+DOCTOR: Uh-huh.
+PATIENT: Um.
+DOCTOR: It started a couple months ago?
+PATIENT: No it's been longer than a couple of months.
+DOCTOR: So when did it first start?
+PATIENT: It's hard to remember.
+DOCTOR: Like how years ago?
+PATIENT: Oh maybe a year.
+DOCTOR: And it's gotten worse?
+PATIENT: Yeah it's gotten worse.  That's why I wanted to come down here and see what's going on with that.
+DOCTOR: Yeah.
+PATIENT: If there's anything else I can do to stop it.
+DOCTOR: Well I mean the thing is you're already on a beta blocker.  Beta blockers stop that.
+PATIENT: Uh-huh.
+DOCTOR: Um we'll probably send you to Neurology most likely.
+PATIENT: Okay.
+DOCTOR: The Neurology clinic.
+PATIENT: I got another question too.
+DOCTOR: Uh-huh.
+PATIENT: Um [REDACTED].  Oh man I forgot it.  It is shaking now.
+DOCTOR: Uh-huh yeah I see.  Have you seen the eye doctor recently?
+PATIENT: Um I don't know.
+DOCTOR: Diabetic Eye Clinic.
+PATIENT: Yeah it's about.
+DOCTOR: When was the last time?
+PATIENT: I think that was last year I think.
+DOCTOR: Okay.  You need another one.
+PATIENT: Yeah.
+DOCTOR: And was it here?
+PATIENT: Yes.  Yeah I came here.
+DOCTOR: Can you take your shoes off for me; I want to check your feet.
+PATIENT: Take socks off too?
+DOCTOR: Uh-huh.  And there are so many things to click [REDACTED].
+PATIENT: Uh-huh.
+DOCTOR: [REDACTED] reminders.
+PATIENT: Oh in the computer?
+DOCTOR: So we can find your yeah.
+PATIENT: Yeah.
+DOCTOR: I mean it's very irritating.
+PATIENT: I can imagine.  I'm not good with computers though.  Anything get done on the computer I go to my grandkids.
+DOCTOR: Oh yeah.  How tall are you?
+PATIENT: I’d say about 5 8.
+DOCTOR: So you're 5 8.
+PATIENT: I think I weigh about 172 pounds.  I've been trying to do a little exercising.  I like get up every day and I walk for like about an hour.
+DOCTOR: Uh-huh.  That's good.
+PATIENT: To see if that's okay.  That's what I was gonna ask you is that good?
+DOCTOR: Yeah.
+PATIENT: I wasn't trying to.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] I eat.
+DOCTOR: Uh-huh.
+PATIENT: What um, what should I eat?  I mean I like a lot of salads and stuff like that.
+DOCTOR: That's perfect.  Salad and lean meat and fish.
+PATIENT: No fried stuff.
+DOCTOR: No fried.  You get high cholesterol.
+PATIENT: Yeah.
+DOCTOR: Also cut out sugar.
+PATIENT: Hmm.
+DOCTOR: You know you can eat brown rice and stuff.  Cut out white rice especially.
+PATIENT: White rice?
+DOCTOR: Uh-huh, it’s sugar.
+PATIENT: Huh. I didn’t know that. So eat the brown rice.
+DOCTOR: It actually tastes better.
+PATIENT: Yeah brown rice is pretty good.  I buy that [REDACTED].
+DOCTOR: Uh-huh.  Any pain here?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: Toenails is [REDACTED].
+DOCTOR: Okay you need to go to Podiatry then.  Okay take my fingers squeeze hard as you can okay.  Don't let me pull you forward, don't let me push you back.  Okay.  Put your hand out like this okay.  Don't let me push your fingers together.  Okay.  Don't let me [REDACTED] that side, go like this.  Don't let me push you back; don't let me push you forward.  Okay relax this arm [REDACTED].  Okay.  Let me test your reflexes.  Good.  Deep breath, deep breath, deep breath, deep breath, deep breath.  Okay.  I'm gonna listen to your heart.  Okay.
+PATIENT: (Patient's cell phone rang) Let me call you back.
+DOCTOR: Any pain when I press here?
+PATIENT: Uh uh.
+DOCTOR: Let's take your glasses off.  Follow my fingers with your eyes.  Have your eyes always kind of been like that?  Like.
+PATIENT: Yeah.
+DOCTOR: Prominent, okay.
+PATIENT: Yeah I was called bug-eye.
+DOCTOR: Oh sorry.
+PATIENT: I don't know, I don't want no problem.
+DOCTOR: That's what I mean.
+PATIENT: Yeah but you get over it.  I can't worry about it cause they gonna do it anyway.
+DOCTOR: That's true.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] ah.
+PATIENT: Ah.
+DOCTOR: Okay so your tremor starts when you're resting and when you put your hand out.
+PATIENT: No.
+DOCTOR: It doesn't, do it again.
+PATIENT: Yeah like you know, it looks like I.
+DOCTOR: No tremor.
+PATIENT: The tremor will be.
+DOCTOR: Yeah.
+PATIENT: If I put my hand out like it's [REDACTED].
+DOCTOR: Yeah.
+PATIENT: [REDACTED].
+DOCTOR: Touch your finger to your nose and then touch to my finger, as fast as you can.  Again, keep going, keep going.  Follow it.  If I keep doing it.
+PATIENT: Okay, okay.
+DOCTOR: Yeah.  Okay [REDACTED] anywhere?  Good.  So you have a tremor a little when you're reaching.
+PATIENT: Uh-huh.
+DOCTOR: Alright so.  Yeah I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: 57:45  DOCTOR IN:  63:02
+DOCTOR: Hello.
+PATIENT: Uh-huh.
+DOCTOR: I'm gonna check your blood pressure again.
+PATIENT: Okay.
+DOCTOR: It was low.  We don't want it to be low.  Let me see your arm.
+PATIENT: [REDACTED].
+DOCTOR: So sit up.  And your arm is not skinny so that's good.
+PATIENT: Uh-huh.
+DOCTOR: It's not fat either.
+PATIENT: No.
+DOCTOR: So this is too big.  On this side.
+PATIENT: Uh-huh.
+DOCTOR: Oh that's good.  [REDACTED].  I'm gonna actually have you see and you know what we're gonna, your feet should be on the ground.
+PATIENT: On the ground.
+DOCTOR: Yeah.  I'll still have you sit up here.  Lift up your arm, down by your side, good.  Relax, relax the arm.  Just relax.
+PATIENT: Uh-huh.
+DOCTOR: I'll have you sit up.  Just stand up.  And we'll check it there okay.
+PATIENT: Uh-huh.
+DOCTOR: Put your arm down by your side okay.  Relax.
+PATIENT: I have a question for you.
+DOCTOR: Oh.
+PATIENT: [REDACTED].  But I wanted to ask you another thing.
+DOCTOR: Um.
+PATIENT: When it gets low like that should I keep a piece of candy.
+DOCTOR: What for your blood pressures?
+PATIENT: Yeah.
+DOCTOR: No it's not candy.  Probably just need to cut back on [REDACTED].
+PATIENT: Oh okay.
+DOCTOR: And you've been taking, you've been taking metoprolol and lisinopril .
+PATIENT: Right.
+DOCTOR: You need to cut back on the dose.
+PATIENT: Okay.  [REDACTED].  Only I can't remember a time when it was low like this.
+DOCTOR: Uh-huh.  Oh we'll just cut back on your medicine, your lisinopril and your metoprolol dose.
+PATIENT: Okay.
+DOCTOR: Okay.  Alright so your blood pressure is too low, we need to send you to the ER.
+PATIENT: Uh-huh.
+DOCTOR: Okay.  Um so we're not going to give you any medicines today since we're gonna send you to the ER.  I'm gonna call them.  So now that make sense.  No dizziness, headaches?
+PATIENT: No [REDACTED].  I take [REDACTED] at home.
+DOCTOR: Uh-huh.  (Doctor makes a phone call)  So we're gonna take you to the ER okay.
+PATIENT: Okay.
+DOCTOR: Um so um I want you to, when you go out there give this to the clerk.
+PATIENT: Uh-huh.
+DOCTOR: So [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Right.
+PATIENT: [REDACTED].
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  38311
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,269 @@
+DOCTOR: PATIENT?
+PATIENT: Right here.  So how you doing?
+DOCTOR: Doing well.
+PATIENT: Thank you.  Appreciate it.
+DOCTOR: I am doing well.  On the right side, here. [REDACTED]
+PATIENT: [REDACTED].
+DOCTOR: I am taking over for DOCTOR.  I know you saw in the past.
+PATIENT: Okay.
+DOCTOR:
+DOCTOR: here.
+PATIENT: Okay.
+DOCTOR: So what brings you here today?
+PATIENT: Huh?
+DOCTOR: What brings you here today?
+PATIENT: Oh yes, I need an appointment to see a foot doctor and uh, let me see if I can get some Viagra.
+DOCTOR: Okay.
+PATIENT: And I was scheduled for [REDACTED] but when I didn’t [REDACTED], do I need a, uh, [REDACTED] when you get up to 50 years old?
+DOCTOR: Colonoscopy?
+PATIENT: Colonoscopy,  [REDACTED] yeah.  [REDACTED].  Yeah, colonoscopy.  I think I had one before.
+DOCTOR: Okay.
+PATIENT: But I think I need another one.
+DOCTOR: They said one in 2007.  That was the last time.  Let’s see what they said.
+PATIENT: Okay.
+DOCTOR: In 2007 they found that everything looks normal.  You had biopsies taken.  There were diverticula which are like outpouches in the wall of the colon.  Um, everything was normal.  They did take biopsies.  Let me look at the results.  Um, let’s see what else they did.  Upper GI.  So, let’s see what the results showed.  You had a catheterization done after that.
+PATIENT: Um hmm.
+DOCTOR: And chronic diarrhea.  Is your diarrhea better?
+PATIENT: It is about the same.
+DOCTOR: About the same, okay.  So the biopsies were actually normal.  Okay.  So you had a return appointment, okay, so then what did they say about the biopsies.  So with this chronic diarrhea, work up was negative.  Stool cards were negative.  So they said followup in GI Clinic.  Are you losing weight?
+PATIENT: Ah no.
+DOCTOR: Okay.
+PATIENT: I have gained weight in fact.  [REDACTED].
+DOCTOR: Okay.  Good.  Um, so it looks like all the stool studies were negative.  So what did they decide to do?  Did they say?
+PATIENT: No, they didn’t say.
+DOCTOR: Okay.  So I don’t think we need to repeat colonoscopy.  You had it in 2007.  So you really don’t need one for another couple of years.
+PATIENT: Okay, so you have it every seven years or something like that?
+DOCTOR: You have it every ten years unless there’s reasons to get it earlier.  If you had, like abnormalities, you know maybe if you have like polyps, if you have abnormal pathology then they would want to see you sooner.
+PATIENT: Okay.
+DOCTOR: But from the way it looks like they didn’t comment that they want to see you done sooner.  Let me see if in the notes if they actually want to [REDACTED].  Any other questions?
+PATIENT: Uh no.  [REDACTED] about colonoscopy?  [REDACTED].  Should I have another one?
+DOCTOR: When should you have another one?  Since everything looked okay I think, the biopsies were normal, I think you probably should have one about 2017.
+PATIENT: 17?  That long?
+DOCTOR: Um hm.
+PATIENT: Okay.  Alright.  Other than that, my foot hurts, that started back in 2008 or 2007.
+DOCTOR: For your foot?
+PATIENT: Uh huh.
+DOCTOR: What was wrong with the foot?
+PATIENT: They said they might have to operate on my right foot, [REDACTED] stairs, and I never came back, where I was living had stairs so I never did return.
+DOCTOR: Okay.  So let’s see.  You had an appointment back in 2007.  Let’s see.  Oh I see you had the bony, the [REDACTED].
+PATIENT: The [REDACTED].
+DOCTOR: From the joints, right.  Like a little bony [REDACTED].
+PATIENT: Right.
+DOCTOR: Okay.  And they said, did they want to do something about it?
+PATIENT: They wanted to before it gets worse, but they told me I couldn’t climb the stairs, no, after the operation.  So I said I can’t do that so I was just wondering.  It starts back hurting worse so that is why I asked you about it.
+DOCTOR: Okay.  Alright.  Yeah then we can definitely send you back to the clinic.  Let me put in another request.
+PATIENT: Okay.
+DOCTOR: Any other complaints?
+PATIENT: Ah, that is about it.  That and the colonoscopy and [REDACTED].  Uh, I spittin’ a little more but I been doing that for years.  I don’t know what caused that.  I been mucous.  But it comes and goes.
+DOCTOR: Have you had x-rays done?
+PATIENT: [REDACTED].
+DOCTOR: Of your feet?
+PATIENT: Ah, no.
+DOCTOR: No?  Do you think we can get x-rays? Can I see your feet?
+PATIENT: [REDACTED] feet. I am sorry about that.
+DOCTOR: That’s okay.  Oh I see.  Okay.  You know the best thing – I would see the foot doctors for that.  Okay?
+PATIENT: Okay.
+DOCTOR: Um, [REDACTED] because [REDACTED] um [REDACTED].
+PATIENT: Okay, thanks.
+DOCTOR: I see your blood pressure is actually well-controlled.  Any problems?
+PATIENT: Uh uh.  I been taking my pills regularly.  I haven’t been missing my doses.  A while back I used to but I am taking it regularly about it, you know taking it.
+DOCTOR: [REDACTED].  For the foot, we are going to get an x-ray of your foot today.
+PATIENT: Okay.
+DOCTOR: So the podiatrist can actually take a look at it and see if there is something that they need to look into further.
+PATIENT: Okay.  Okay. That sounds good.
+DOCTOR: And then when was the last time you had blood work done?
+PATIENT: Ah, this year.  I don’t [REDACTED].
+DOCTOR: I will take a look and [REDACTED] the only thing I would be concerned about is because we have you on medications.  Sometimes it affects the kidneys and also sometimes it affects your electrolytes.  So we should check that.
+PATIENT: Okay. Okay.  I got, my ibuprofen I got one left.  I got one left of that.
+DOCTOR: One?  How long have you been taking that?
+PATIENT: Ah I take them, hmm, well I got pain but I don’t take them every day, you know.  Only when I have pain I take it.
+DOCTOR: Because that can also affect your kidneys, just so you know.
+PATIENT: I don’t take them regular.
+DOCTOR: You don’t want to take them too often, too frequently.
+PATIENT: Okay.  I don’t. [REDACTED] I know I got more refills left so I just wanted [REDACTED].
+DOCTOR: Okay. I can refill it. But let’s check your blood work first.  You don’t want your kidneys to go bad because of ibuprofen or anything.
+PATIENT: Hm hmm.  Okay.  Thank you.
+DOCTOR: Any other questions?
+PATIENT: Ah no.
+DOCTOR: So I will have you get that x-ray today.
+PATIENT: Okay.
+DOCTOR: Do you know where to get the x-ray?
+PATIENT: Ah, over in there [REDACTED] couple year.
+DOCTOR: So all the way down in the Damen Building.
+PATIENT: Right.
+DOCTOR: Um.
+PATIENT: First floor?
+DOCTOR: First floor.
+PATIENT: Okay.
+DOCTOR: You can get the x-ray done.  The Radiology Department.  You will go through that door and [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: The order is in so you can get the left foot x-rayed.
+PATIENT: Okay.
+DOCTOR: Then we will get some blood work just to make sure, we can take a look at your kidneys.  You know when you are on the ibuprofen, and you’re also taking the hydrochlorothiazide, that can affect your kidneys.
+PATIENT: Okay.
+DOCTOR: Want to make sure that that looks okay.  The last time,your kidney function, I will tell you what that looked like.  Let’s see your kidney function looks okay.  The creatinine was 1.2.  That is what I am looking at.  The kidney function.  It looks like everything else looked okay.  Your sodium level is a little bit low but I think the hydrochlorothiazide can actually cause that [REDACTED].  Um, and your blood count looked okay.
+PATIENT: Okay when I get the blood work done, then see you [REDACTED], or schedule another visit [REDACTED].
+DOCTOR: I will call you for any abnormal results.
+PATIENT: Okay you call me on the phone?
+DOCTOR: Yeah.  How does that sound?
+PATIENT: And could you write down?
+DOCTOR: Is your number NUMBER?
+PATIENT: Hm hmm.  NUMBER.
+DOCTOR: Alright.  Um so if there are any problems I will definitely give you a call.
+PATIENT: Okay.
+DOCTOR: Do you mind if I take a listen to your heart and lungs?
+PATIENT: Oh yes, I mean no I don’t mind.
+DOCTOR: [REDACTED].
+PATIENT: Hm hmm.  Need to take my shirt off?
+DOCTOR: No.  That’s fine.
+PATIENT: Okay.  Can I ask you a question?
+DOCTOR: Yeah.
+PATIENT: I want, I mean, I [REDACTED] mucous lately for a while now.  I wonder why?  I mean, I thought it was a cold but I can’t have a cold for that long period of time, so what would cause a person to keep on spitting all the time? You know?
+DOCTOR: Spitting?
+PATIENT: Yeah.
+DOCTOR: Has long has it been like that?
+PATIENT: Maybe two three years but it is not regular.  It depends on what I am doing and I have something by my bed that I spit in.  But it is like mucus.  [REDACTED].  I got a cold but I always have something in case I have to.
+DOCTOR: Any fevers or chills?
+PATIENT: No.
+DOCTOR: No.  Are you still smoking?
+PATIENT: Yes I am.
+DOCTOR: How much do you smoke?
+PATIENT: I smoke cigars.  I smoke about half a one a day.  About four a week.  Four cigars in a week.
+DOCTOR: Four cigars a week? Have you thought about cutting down?
+PATIENT: Uh, yes I have, I switched to cigarettes, but cigar [REDACTED] not working out.
+DOCTOR: Okay.  Um, the spitting, how long has that been going on sir?
+PATIENT: About a year and a half, two and a half years.
+DOCTOR: Two and a half years?
+PATIENT: Yeah.
+DOCTOR: Do you feel like it is getting worse?
+PATIENT: It is about the same really.
+DOCTOR: It’s about the same.
+PATIENT: [REDACTED] but I do do [REDACTED].
+DOCTOR: Are you allergic to anything?
+PATIENT: No.
+DOCTOR: Let me take a listen.  Deep breath in and out.  Deep breath in and out.  You don’t have to hold your breath, just in and out. Okay.  Any pain in your belly?
+PATIENT: No.
+DOCTOR: Any chest pain?
+PATIENT: No.
+DOCTOR: Good.  Do you feel short of breath at all?
+PATIENT: No.
+DOCTOR: Do you get short of breath when you are walking?
+PATIENT: Once in a while [REDACTED].
+DOCTOR: How far do you walk before you get short of breath?
+PATIENT: Ah, about a block and a half, two blocks.
+DOCTOR: What happens?  Do you have to stop walking because of that?
+PATIENT: I just walk slower.  I am a fast walker.
+DOCTOR: Alright.
+PATIENT: So I may walk fast and when I get short I just walk a little you know [REDACTED].
+DOCTOR: Do you ever stop because you are getting short of breath?
+PATIENT: No I just limit my pacing, you know when I walk.
+DOCTOR: Okay.  Do you think you could walk several miles without having any difficulty?
+PATIENT: Ah, I doubt that seriously.  [REDACTED].
+DOCTOR: Can you walk several blocks without any difficulty?
+PATIENT: Yeah, yeah.
+DOCTOR: Okay.  Um, have you ever had any chest pressure, chest tightness?
+PATIENT: No.
+DOCTOR: Okay.  And then you said you wanted to get Viagra?  Have you ever had that before?
+PATIENT: No.
+DOCTOR: Okay.  Um, I think it would be okay.  Um, so let’s see.  I [REDACTED].  Let’s see how it works out for you.  If it works then we can continue it and give you more refills on it.  How does that sound?
+PATIENT: Okay, so I can [REDACTED] pharmacy?
+DOCTOR: Do you want to pick it up here or do you want to have it mailed to you?
+PATIENT: Mailed please.
+DOCTOR: Mailed?  Okay, not a problem.  Um give me one second.
+PATIENT: Okay, no hurry.
+DOCTOR: How old are you again?
+PATIENT: 59.
+DOCTOR: 59.
+DOCTOR: 43:45  DOCTOR IN:  49:22
+DOCTOR: PATIENT?
+PATIENT: Hello.  How you doing?
+DOCTOR: Good to see you.  Hi, [REDACTED] about [REDACTED].
+PATIENT: Okay, thank you.
+DOCTOR: Are you still drinking alcohol?
+PATIENT: Ah beer.
+DOCTOR: How often are you drinking?
+PATIENT: Ah on weekends, Friday and Saturday.
+DOCTOR: On weekends?  The reason I ask is because your liver functions looked a little abnormal and so I want to check it again today.  I could be related to the beer, the alcohol.  Have you cut down from what you used to be drinking?
+PATIENT: Yes, because I used to drink like Wednesdays, but now just Friday and Saturday.
+DOCTOR: Okay.
+PATIENT: But now I just drink on weekends.
+DOCTOR: Okay.  Um, so why don’t we just check that again today. Just to make sure everything looks okay.  Um, how much Tylenol are you taking?
+PATIENT: Tylenol?  Oh, acetaminophen?
+DOCTOR: Acetaminophen.
+PATIENT: I take about two.
+DOCTOR: Two tablets a day?  Okay.
+PATIENT: Just two.
+DOCTOR: Okay, I will just check.  We should also check your liver because sometimes acetaminophen causes an increase the liver function.  So we will just check that today too okay?
+PATIENT: Okay.
+DOCTOR: So you got the x-ray.  We are going to get the blood work and then, are you still having the diarrhea?
+PATIENT: Yes.
+DOCTOR: Do you want to see the GI doctors again?
+PATIENT: Are they going to do that today?
+DOCTOR: I don’t think they will see you today but we can have them
+PATIENT: Schedule an appointment?
+DOCTOR: Schedule an appointment.
+PATIENT: Yeah, okay.
+DOCTOR: Okay so you want to do that?
+PATIENT: Uh huh.  So today get the blood.
+DOCTOR: Yeah.  Let me see, the last time you saw them was when?
+PATIENT: 2007 I think.
+DOCTOR: You haven’t seen them since then?  How much diarrhea are you having?
+PATIENT: Ah it comes and goes.  It comes ah, well it do come once or twice a month.
+DOCTOR: Oh, so it’s not that consistent?  It’s not. . .
+PATIENT: It last like a day or two.
+DOCTOR: Okay.
+PATIENT: Loose stools [REDACTED].  Right yea.
+DOCTOR: Loose stools. You never have any blood or never have any black tarry stools?
+PATIENT: [REDACTED].  I always check.  I check regularly. [REDACTED].
+DOCTOR: Okay.  So it is pretty infrequent but
+PATIENT: But [REDACTED] constantly.
+DOCTOR: But it has been there for like a couple of years.
+PATIENT: Yeah.  Yeah.
+DOCTOR: Okay.  Alright so we can definitely have them see you in their clinic if you think you want to.
+PATIENT: For uh, the diarrhea?
+DOCTOR: For the diarrhea.
+PATIENT: Yeah.  I would like to see them.  And uh, [REDACTED] feet [REDACTED], for liver.
+DOCTOR: We’re just going to do the blood work.  Blood work for the liver.  Blood work for the kidneys and the liver and then we will send you to x-ray for your foot.
+PATIENT: Oh I have to have x-ray
+DOCTOR: [REDACTED].
+PATIENT: So the blood work will take care all of that?
+DOCTOR: Yeah, yea.
+PATIENT: Oh okay.  [REDACTED].
+DOCTOR: Any questions?
+PATIENT: No. [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: What was I supposed [REDACTED]?  After you take my blood work then you [REDACTED].
+DOCTOR: Yeah then I will refill it.
+PATIENT: Okay.
+DOCTOR: Okay.  [REDACTED].
+PATIENT: I give you a call.   [REDACTED].
+DOCTOR: I will refill it and then I will give you a call.
+PATIENT: [REDACTED] blood work [REDACTED] x-rays for the foot [REDACTED] they will tell me or you will tell me?
+DOCTOR: If anything is abnormal I will give you a call.
+PATIENT: Okay, thank you.  Thank you.  I appreciate it.
+DOCTOR: No problem whatsoever.
+PATIENT: So go for the blood work and they take an x-ray for my feet?
+DOCTOR: Yes.
+PATIENT: Thank you.  You have a nice day.  [REDACTED] very very bad around remember names.
+DOCTOR: Remember my name?
+PATIENT: Yeah.
+DOCTOR: My name is right here DOCTOR.
+PATIENT: Okay.
+DOCTOR: And I will see you in four to six months.
+PATIENT: Okay.
+DOCTOR: Or you could see me sooner if you want to.
+PATIENT: Okay if anything is wrong.
+DOCTOR: Okay.
+PATIENT: [REDACTED].
+DOCTOR: If anything is wrong, any concerns, you can come back.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Thank you.
+DOCTOR: You’re welcome.
+PATIENT: Thank you for everything.
+DOCTOR: My pleasure.
+PATIENT: 53:12
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800515/JOB#  1300291
+TRANSACTION # 578-10-2-316-0103

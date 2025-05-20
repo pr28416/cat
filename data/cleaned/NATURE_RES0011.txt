@@ -1,0 +1,114 @@
+DOCTOR: Could you start with telling me what brought you in today?
+PATIENT: Hi, I've just been been so like weak and so tired, I just I can't I can't seem to like get off the couch, like I'll get up from my bed and go lay on the couch and then you know I might be able to get something to eat but I just I get so tired so fast and I don't know I don't know what's wrong.
+DOCTOR: OK, when did these symptoms start?
+PATIENT: Um, like I've been feeling pretty tired for like a week, but like this bad for like maybe four days.
+DOCTOR: OK, um and so it sounds like you haven't been going to work or like anything like that because you have been so kind of tired and weak.
+PATIENT: Yeah, I mean at first I was already kind of working. I'm I'm a truck driver so you know, once you start the job, you kind of have to finish that. I was supposed to go on another another trip like 4 days ago and I just couldn't. I had to call my boss and say that I can't.
+DOCTOR: OK, um have you had any like specific muscle weakness like in your legs or or in your arms? Or would you say it's overall like a general weakness?
+PATIENT: It's just everywhere. It's it's not like I can't move. I'm just really, really tired.
+DOCTOR: OK, and how, how have you been sleeping?
+PATIENT: I mean, I've just been sleeping like all the time. I have been sleeping all night and then like I said, I get up and I go to the couch and like just fall back asleep.
+DOCTOR: OK, uh, have you been having any other symptoms?
+PATIENT: I mean my my throat is maybe a little sore, but nothing nothing else.
+DOCTOR: OK, uh, when when did the sore throat first start?
+PATIENT: Probably probably about a week ago. It's not really bad, it's just kinda there.
+DOCTOR: OK, so it's it started just before uh, the weakness and fatigue?
+PATIENT: Yeah, around the same time.
+DOCTOR: OK, um, and have you been having any pain with swallowing?
+PATIENT: Uh, I mean maybe a little bit.
+DOCTOR: OK, like with uh, like solid foods or liquids or both?
+PATIENT: It it's just like it's just like it's a little a little tender. It's not like, really it's not like hard to swallow or anything, it just feels like it's like my throat's kinda tired.
+DOCTOR: OK, have you had any changes to your voice?
+PATIENT: Uh, no, I don't think so. I mean, I live. I live alone so I can't really ask someone else if I have.
+DOCTOR: OK, but your voice sounds the same to you?
+PATIENT: Yeah, I think so.
+DOCTOR: Alright, um, and so have you been having any fevers or chills?
+PATIENT: Um, I've been, I've been feeling really cold.
+DOCTOR: OK, have you had any, uh, like shakes or or rigors?
+PATIENT: I've been like kind of kind of shivering.
+DOCTOR: OK, how about any night sweats?
+PATIENT: Um, yeah, come to think of it, like I was I was, when I was last traveling with, when I was last on it because I'm a truck driver, I I was in the States, I I had to bring something to Ohio, and I had to change my clothes in the night. They were just like so drenched in sweat.
+DOCTOR: OK, has that happened more than that that one time?
+PATIENT: Maybe a couple times that it wasn't as bad, that one time was really bad, but here and there like I I've been feeling pretty sweaty at night in general.
+DOCTOR: OK, and have you had any, uh, like difficulties breathing or shortness of breath?
+PATIENT: Not really, just like kind of tired, but it's not like hard to breathe.
+DOCTOR: OK, um have you had a cough?
+PATIENT: Uh, no.
+DOCTOR: OK, how about a runny nose?
+PATIENT: Maybe maybe a little bit, but not like too noticeable.
+DOCTOR: OK, and when did the runny nose start?
+PATIENT: Oh, it's all like around the same time.
+DOCTOR: OK and have you been having any headaches?
+PATIENT: A little.
+DOCTOR: OK, and then how about any chest pain?
+PATIENT: No no. No chest pain.
+DOCTOR: Alright, and how about any wheezing?
+PATIENT: No, no, I don't think so.
+DOCTOR: Alright, then any heart palpitations?
+PATIENT: No.
+DOCTOR: OK, have you felt lightheaded or or like you were going to pass out or faint?
+PATIENT: Uh not like I've been feeling really tired, but it's not been like I don't think it's been like fainting.
+DOCTOR: OK, so kind of like you are fatigued that you've been experiencing. Um, have you had any abdominal pain?
+PATIENT: I mean, I'm not really eating a lot, so it's kind of like gurgling.
+DOCTOR: OK, have you had any nausea or vomiting?
+PATIENT: Uh, no.
+DOCTOR: OK, and have you had any urinary problems?
+PATIENT: No.
+DOCTOR: Any bowel problems?
+PATIENT: No, I mean, you know I haven't been eating that much, so I haven't been going as much as normal, but it's I don't think there's problems.
+DOCTOR: OK, so you haven't had any diarrhea?
+PATIENT: No.
+DOCTOR: OK. Um, and have you had any skin rashes?
+PATIENT: No, not that I've noticed.
+DOCTOR: OK, and um have you had any like muscle aches or or joint aches?
+PATIENT: I mean, I feel kind of achy all over but not in like one particular spot.
+DOCTOR: OK. And in terms of your past health, have you been, is there any reason you you see a doctor regularly?
+PATIENT: Oh Oh yeah, like I have I have high blood pressure and diabetes. Yeah, that's that's pretty well it, but yeah, those two things. Oh and I take a medication for my prostate.
+DOCTOR: Oh OK, um, and do you take medications for the blood pressure and diabetes?
+PATIENT: I yeah yeah, I um, oh geez, what's it called? I take ramipril, and I take Metformin. I was on insulin but I pretty well I just have been able to eat well so I'm not taking it now. And then, uh, I can't remember the, uh, the prostate one. Like tam, tam something.
+DOCTOR: OK, maybe tamsulosin?
+PATIENT: That sounds right, yeah.
+DOCTOR: OK, I can check on the chart as well to confirm. Um, do you have any allergies to medications?
+PATIENT: No.
+DOCTOR: Alright, and any recent hospitalizations?
+PATIENT: No, no, I've been pretty good.
+DOCTOR: OK, and any surgeries?
+PATIENT: Uh, not for a really long time, I I had my gallbladder out like 20 years ago. Yeah, that's it.
+DOCTOR: OK, um, and has anything like this happened to you or any of your family members before, suddenly they start started to feel fatigue like this?
+PATIENT: I don't think so. I mean, we've all like you know, caught colds and you know stuff like bugs and stuff but, not not quite like this, like I can barely get up.
+DOCTOR: OK, anybody in the family have a history of heart disease or cardiovascular disease?
+PATIENT: My dad had high blood pressure, that's it.
+DOCTOR: OK, anybody in the family have cancer?
+PATIENT: My mom, my mom had breast cancer.
+DOCTOR: OK, and you told me that that you work as a trucker, so you were over in the states, it sounds like. How recently were you in the United States?
+PATIENT: That was like about a week ago. I probably got back five or six days ago.
+DOCTOR: OK, do you travel there often?
+PATIENT: Oh yeah, yeah. I mean that's you know the route that I usually take.
+DOCTOR: OK, uh any anybody you interacted with that was sick, do you believe?
+PATIENT: I don't. I don't really interact with with many people. I kind of just go there and um, and then you know I stayed in a hotel. But you know, I didn't really see anyone besides like the lady that works there. And maybe you know, the people at the McDonald's like counter. I didn't I didn't like see anyone that I know that I sat with for a long time or anything.
+DOCTOR: OK, but you got home about five or six days ago. Um, yeah, and who are you living with currently?
+PATIENT: Just me.
+DOCTOR: OK, and do you drink alcohol?
+PATIENT: Oh no. No, I used to a little bit, but not not anymore.
+DOCTOR: OK, and how about cigarettes? Do you smoke cigarettes?
+PATIENT: I quit um 10 years ago.
+DOCTOR: OK.
+PATIENT: I smoked I smoked probably like 1/2 a pack a day for for a while, maybe 20 years.
+DOCTOR: OK, but you quit over 10 years ago?
+PATIENT: Uh, about 10 years ago, yeah.
+DOCTOR: OK, and do you smoke marijuana?
+PATIENT: No no.
+DOCTOR: Alright, and how about any other recreational drug use, including the use of IV drugs?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and are you currently sexually active?
+PATIENT: No no.
+DOCTOR: OK um, and have you had a sexually transmitted infection before?
+PATIENT: No no.
+DOCTOR: OK uh, and are you currently in a in a relationship?
+PATIENT: Uh, no, uh, like I have I have a friend that I see and we both, um, we both lost our spouses, um, several years ago, and I
+mean, we, we see each other and like we live in the same apartment building and often have meals together. But we're just like friends.
+DOCTOR: OK.
+PATIENT: But that's the person that would check on me if I needed it.
+DOCTOR: OK, that's great. It sounds like you have some good support nearby. I'm sorry to hear about your wife. But I think that was all of the questions that I wanted to ask on the the history today. So next I we're gonna order some some lab work for sure to start with then and maybe we'll go from there. So we'll give you some fluids, and maybe some Tylenol and we will see what the lab work shows.
+PATIENT: OK, thank you.
+DOCTOR: Oh, you're welcome.

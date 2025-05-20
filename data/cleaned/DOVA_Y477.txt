@@ -1,0 +1,168 @@
+PATIENT: Yes.  Good morning, how are you?
+DOCTOR: Good, how are you?
+PATIENT: Terrific thank you.
+DOCTOR: So you had the colonoscopy.
+PATIENT: Yes.
+DOCTOR: Everything went well?  As far as you know.
+PATIENT: Yeah they sent me a a letter and uh everything's fine.
+DOCTOR: Good news. Um, anything else bring you in today?
+PATIENT: Nope.
+DOCTOR: I'm seeing all the patients that I saw on the same day in my New Patient Clinic today.
+PATIENT: Okay.
+DOCTOR: So I'm like, I'm reviewing all these names that look super familiar to me because I've only [REDACTED].  Are you supposed to see DOCTOR?
+PATIENT: No.
+DOCTOR: And you're gonna follow up here?
+PATIENT: Yes.
+DOCTOR: Most frequently.
+PATIENT: Yes, uh-huh.
+DOCTOR: And you are down to a pack a week of smoking?
+PATIENT: A right there.
+DOCTOR: Right there.
+PATIENT: I'm thinking, uh as of January 1 over.
+DOCTOR: You're over, okay.  What do you, do you want any help as well?
+PATIENT: No you gave me the gum.
+DOCTOR: I gave you the gum already.
+PATIENT: Uh-huh.
+DOCTOR: But you just haven't used it yet.
+PATIENT: One, one day I used it.
+DOCTOR: (Laughter) Okay, so you'll continue to, your blood pressure is high today.
+PATIENT: Yeah I don't know why.
+DOCTOR: Um, well we can repeat it, we'll see.  [REDACTED] is normal for you so hmm.  Okay.  [REDACTED], it's a little high.  I’ll check [REDACTED] okay?
+PATIENT: Okay, well I haven't been biking so, but I just bought a new, newer bike.
+DOCTOR: So you're normally on [REDACTED] too.  I don't think I have the latitude really to really know.  Your white counts a little high but that might be normal for you, you know.
+PATIENT: Uh-huh.
+DOCTOR: Everyone is a little different.  I think it's probably just something we'll have to watch um.  Kidney function looks good so, it can just be a matter of you know, modifying your medicines.  Your LDL is really low, like almost too low.
+PATIENT: Now what is that?
+DOCTOR: The LDL is the bad cholesterol.  I want it to be low but that's really low.
+PATIENT: Okay.
+DOCTOR: Um, your LFTs are, I remember looking at them before, were fine.  Let me check iron studies, you're not anemic.  Okay um, I have to check on, because of the colonoscopy that's why.
+PATIENT: Uh-huh.
+DOCTOR: Okay and you're, oh you're on the, you're on Crestor.  We ordered simvastatin right.
+PATIENT: Uh-huh.
+DOCTOR: Now you're on that.
+PATIENT: Uh-huh.
+DOCTOR: Your hemoglobin A1c is high um, but I think we need to just recheck it today and how often are you, when is your next appointment with the Pharm-D?
+PATIENT: The Pharm-D?
+DOCTOR: Yeah.  The pharmacist.
+PATIENT: Oh, I just got my medication in last week, so probably not for another three months.
+DOCTOR: So they didn't change anything at that time though?
+PATIENT: No uh uh.
+DOCTOR: So we'll just recheck the hemoglobin A1c this time.
+PATIENT: Okay.
+DOCTOR: Get the labs right across the way then I’ll get them today, because of the holidays.
+PATIENT: Right, I understand.
+DOCTOR: I think the big thing we need to worry about is your blood pressure and why in the world it's so high.
+PATIENT: Uh probably because of inactivity.
+DOCTOR: Inactivity?
+PATIENT: I've just been walking the dog the short walks and uh I gotta start it again and with the holidays coming, I've been cheating a little bit.
+DOCTOR: Okay.
+PATIENT: More than a little bit.
+DOCTOR: Everything is supposed to be a little bit.  But I think what I probably would do is go up on your hydrochlorothiazide/lisinopril combo pill.  Um I don't want to go up on both medications at once, [REDACTED] on this too.  Because I don't want to bottom you out either.
+PATIENT: Uh-huh.
+DOCTOR: How have you been doing though, have you been feeling okay?
+PATIENT: Terrific.
+DOCTOR: No chest pain.
+PATIENT: No.
+DOCTOR: Or riding your last bike, do you feel great?
+PATIENT: Uh-huh, still do.
+DOCTOR: Still do, alright.  And January 1st, huh? You and the rest of America. (Laughter)
+PATIENT: Eh, why not, it's a target date.
+DOCTOR: Yeah.
+PATIENT: We'll see.
+DOCTOR: Go ahead and take a seat up there. I mean you are really, like you're at your correct weight.
+PATIENT: Uh-huh.
+DOCTOR: And uh you're doing all those things correctly so.  So let's actually repeat your blood pressure and make sure that it's, you know high as what they're saying it is cause sometimes you know, just walking into the doctor's office, people shoot up (laughter).  Holiday season, I don't think it's very relaxing season, I don't know about you.
+PATIENT: Umm, [REDACTED].
+DOCTOR: Yeah.  Alright.  You can actually relax your arm though.  Yeah I got higher so, it's high.  So, I don't know if I really want to go up on both cause what I could do is I could just double your combination pill right, cause you are only using one of those.
+PATIENT: Right.
+DOCTOR: Then kind of the max, the most effective dose of both of those pills is actually 25 and 40, which would be two of those tabs once a day.
+PATIENT: Uh-huh.
+DOCTOR: Um, you know with your blood pressure being 150 um, I would be inclined to maybe either; I think you're probably safe doing that.  Do you have a blood pressure cuff at home?
+PATIENT: No I don't.
+DOCTOR: Okay, that's something we should also get you because if you were taking it and you feel lightheaded or funny, for you it can be one of two reasons right?
+PATIENT: Uh-huh.
+DOCTOR: Either your sugar is low or your blood pressure is too low.
+PATIENT: Right.
+DOCTOR: So you can check your sugar and we should give you a way to check your blood pressure.
+PATIENT: Okay.
+DOCTOR: And then the reason why you're not exercising as much?
+PATIENT: Because of the weather.
+DOCTOR: Because of the weather, are you an outside exerciser?
+PATIENT: I'm a biker.
+DOCTOR: Biker okay.
+PATIENT: Bicycle bike and I walk the dog 3-5 miles a day and now we're down to about one.
+DOCTOR: I think um, they have a program called MOVE that is supposed to help you with exercising and staying active.  Is it so much that  you don't know what to do or are you just [REDACTED]?.
+PATIENT: Oh I know what they do.
+DOCTOR: Kind a have been falling off the band wagon?
+PATIENT: I just, I just fell off is all.
+DOCTOR: Okay.
+PATIENT: Yeah I'll be back on it January 1.
+DOCTOR: So we need to get you back on there.  Um, if you drop a few pounds, start eating a little bit better.
+PATIENT: Uh-huh.
+DOCTOR: Restrict your salt, I bet you probably won't need to increase the blood pressure medicine.
+PATIENT: Uh-huh.
+DOCTOR: The last time you were here your blood pressure was fantastic.
+PATIENT: Uh-huh.
+DOCTOR: So I'm a little bit um less inclined to you know go up so drastically so I might do is just add, um I might just separate your combo pills.
+PATIENT: Uh-huh.
+DOCTOR: And just go up on one.
+PATIENT: Okay.
+DOCTOR: Both of them are just once a day pills.
+PATIENT: Right.
+DOCTOR: So it’ll just be multiple pills that you’ll be taking them once.
+PATIENT: Okay.
+DOCTOR: Okay?
+PATIENT: Okay.
+DOCTOR: I'll be right back.
+PATIENT: Alrighty.
+DOCTOR: Um did you get your flu shot?
+PATIENT: Yes, just had it uh about ten minutes ago.
+DOCTOR: And you just had it, okay and uh let me see.  [REDACTED] up-to-date on your vaccinations?
+PATIENT: Uh-huh.
+DOCTOR: Shingles shot.
+PATIENT: That I haven't had.
+DOCTOR: Let's do one [REDACTED] for you.  Everything else looks good.
+PATIENT: Ha Ha.
+DOCTOR: Alright.  We decided to skip that [REDACTED] for now.
+PATIENT: Right.
+DOCTOR: And not go looking for anything.
+PATIENT: Right.
+DOCTOR: But no urinary symptoms, no getting up a lot at night or?
+PATIENT: Uh uh.
+(DOCTOR OUT:  37:42  DOCTOR IN:  45:33)
+DOCTOR: Okay, [REDACTED] perfect and I think you need [REDACTED].  What we'll do is we'll just um we'll discontinue the combination pills.
+PATIENT: Okay.
+DOCTOR: And we'll order you just the lisinopril at 40.  Which is the better of the two for you to particularly because you are a diabetic.
+PATIENT: Okay.
+DOCTOR: [REDACTED].  Um yes we want you on an as high of Ace inhibitor as we can as it'll help [REDACTED] kidneys.
+PATIENT: Okay.
+DOCTOR: So just one pill daily.  Do you want it mailed to you?
+PATIENT: Sure.
+DOCTOR: You can continue taking what you have now.
+PATIENT: Uh-huh.
+DOCTOR: Since you don’t have a problem with it just once you get the new medication just switch over.
+PATIENT: Alright.
+DOCTOR: [REDACTED].  You get a 90 day supply?
+PATIENT: Uh-huh.
+DOCTOR: And then what else, oh.  I am going to get some blood work.  You know where the Lab is, you can just stop in there before you leave and get it done.
+PATIENT: Okay.
+DOCTOR: You don’t need an appointment so and then you can continue [REDACTED] medications, come and see me again in three months.
+PATIENT: Not a problem.
+DOCTOR: Okay.  And then you know as I think I will, would you prefer I order the bloodwork so you can get it before your appointment, like maybe early in the morning.
+PATIENT: Yeah, uh-huh.
+DOCTOR: So I will order blood work prior to that appointment, okay?
+PATIENT: Uh-huh.
+DOCTOR: I’ll just go through your list [REDACTED] okay?
+PATIENT: Okay, terrific.
+DOCTOR: Alright, so it's good to see you again and uh.
+PATIENT: [REDACTED].
+DOCTOR: You too, just have fun.
+PATIENT: Thank you very much.
+DOCTOR: You can just check-out.
+PATIENT: Okay, have a great time.
+DOCTOR: Uh-huh, bye.
+DOCTOR: 48:09
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  1233984
+TRANSACTION # 578-10-2-316-0103

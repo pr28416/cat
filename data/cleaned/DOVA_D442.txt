@@ -1,0 +1,315 @@
+DOCTOR: PATIENT.  Hi.
+PATIENT: Hi doc how are you?
+DOCTOR: Fine how are you?  [REDACTED].  It shouldn't be hard to find you in the system. [REDACTED].  How do you feel?
+PATIENT: Okay.
+DOCTOR: Good.  Anything new going on?
+PATIENT: Pardon me?
+DOCTOR: Anything new going on?
+PATIENT: Uh.
+DOCTOR: [REDACTED]
+PATIENT: I need metformin.
+DOCTOR: Oh you're out the metformin okay.
+PATIENT: Yeah.
+DOCTOR: We can fill that for you.
+PATIENT: Oh it's just.
+DOCTOR: This is your list so you need all of these.
+PATIENT: Well I went down there.  I you know got my prescriptions.
+DOCTOR: Uh-huh.
+PATIENT: And the guy said this one's expired.
+DOCTOR: [REDACTED] oh.
+PATIENT: But he's gonna put it through if nothing changes.
+DOCTOR: Okay.
+PATIENT: So you just gotta add it on.
+DOCTOR: Okay.  Oh I guess it just expired this past week or two.
+PATIENT: Yeah right cause they won't give it to you, you know.
+DOCTOR: Okay.  I'll renew it.
+PATIENT: And check that one, I thought that one was expired too but he said no.
+DOCTOR: Nifedipine, no that one's not expired and you still have, yeah you still have refills on that too.
+PATIENT: Okay.
+DOCTOR: That other one should be okay.  Oh we saw you in June right?
+PATIENT: Uh I think so yeah.
+DOCTOR: Um how are you doing with your shoulder?
+PATIENT: Uh the same.
+DOCTOR: Same.  Um.
+PATIENT: But I do need to see my leg doctor.
+DOCTOR: Who's your leg doctor?
+PATIENT: I don't know.
+DOCTOR: What was your leg problem oh okay for your PVD um?  How are your legs doing right now?
+PATIENT: No I'm on, they're gonna have to go in.
+DOCTOR: You think so?
+PATIENT: Yeah.
+DOCTOR: And it's getting worse.
+PATIENT: Yeah I would say a little worse yeah.
+DOCTOR: Okay.  More pain when walking?
+PATIENT: It's more like when I sleep you know.
+DOCTOR: Not as much when you're walking?
+PATIENT: I can walk and yeah sometime if I walk a long way you know.
+DOCTOR: Sleeping your leg cramp up?
+PATIENT: Sometimes at night yeah.
+DOCTOR: Okay.
+PATIENT: That's pretty painful too.
+DOCTOR: Okay.  It wakes you up?
+PATIENT: Yeah you wake up and all of a sudden, so I'd like them to look at it.
+DOCTOR: Okay.  You saw the Hem/Onc because right because you had that high white count?
+PATIENT: Pardon me?
+DOCTOR: The Hematology/Oncology people?
+PATIENT: Yes.
+DOCTOR: You saw them okay.  Your chest x-ray was normal.  Then did they say anything?  You saw them again in September.
+PATIENT: Right.
+DOCTOR: Okay let's see.
+PATIENT: I saw DOCTOR.
+DOCTOR:
+DOCTOR: .
+PATIENT:
+DOCTOR: and she said I'll see her in six months.
+DOCTOR: Okay.
+PATIENT: And she gave me a lot of blood work.
+DOCTOR: To do.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: I don't know what the results were or anything but.
+DOCTOR: I think one thing was negative they were looking for.  They think maybe because you smoke it could be why your white counts a little bit high.  It can happen with smoking.
+PATIENT: Oh yeah.
+DOCTOR: Um but you had a negative x-ray and everything like that so.
+PATIENT: Yeah.
+DOCTOR: Um there's one more test where they check some kind of gene, that's still pending that they're gonna follow up with you once you.
+PATIENT: Is that the one in your back?
+DOCTOR: No its called BCR-ABL.  I'm sure it's not something that people usually hear of.  It's just a type of gene they test for it.
+PATIENT: Oh okay.
+DOCTOR: Yeah.  Okay.  And you saw the GU people, the Urology.  Has your prostate biopsy been scheduled on the 1st?
+PATIENT: I didn't schedule nothing.  I told them I didn't want the test.
+DOCTOR: Okay you don't want it.
+PATIENT: And they sent me a enema thing and some pills and.
+DOCTOR: You don't want to do it?
+PATIENT: Not right now.
+DOCTOR: Okay.
+PATIENT: He said well we're gonna bring you back in February.  I said okay let's see how it is then and then I go home and a week later I got a box with that stuff in it.  Kind of ticked me off cause they're forcing me you know.
+DOCTOR: I mean I think you just have to tell them you don't want it.  I don't know if it was really clear that.
+PATIENT: Yeah this guy didn't want no for an answer is what it was.
+DOCTOR: Okay.  Okay.  Okay that's fine, whenever you're ready to do that, you just have to understand the risks of it if you don't get it done.
+PATIENT: Right, right.
+DOCTOR: So I think that's the only reason.  The risk is you know it could be prostate cancer and you're not catching it.
+PATIENT: Right, right, I understand.
+DOCTOR: Okay.
+PATIENT: Well what were my numbers?  Did she take?
+DOCTOR: Um the most recent one you have is on August 10th and it was 6.79.
+PATIENT: Alright.
+DOCTOR: You've been high before so I'm not [REDACTED].
+PATIENT: Okay.
+DOCTOR: So this is the highest.
+PATIENT: Yeah.
+DOCTOR: You're been is 6.79.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: If you want us to follow it, we can follow it in clinic.  If at any point you feel like it's kind of high, there's no, I mean usually when it's this high they just do it cause there's no real way to tell until you take the biopsy you know.
+PATIENT: Right.
+DOCTOR: It could be high for no, any other reason.
+PATIENT: Yeah.
+DOCTOR: You know because your prostate's big.
+PATIENT: Right now the next time I see you and uh.
+DOCTOR: We can check it.
+PATIENT: I.
+DOCTOR: Were you, do you want us to check it?
+PATIENT: Yeah, right, yeah.  When I can take a blood test before I come and see you?
+DOCTOR: Yeah just remind me.
+PATIENT: Okay.  That's cool.
+DOCTOR: We can do that.  You got the flu shot?
+PATIENT: Uh yeah I just took it.
+DOCTOR: Um what about your weight loss?  How's that going?
+PATIENT: Uh always trying.
+DOCTOR: Always trying.
+PATIENT: Yeah.
+DOCTOR: Still eating out?
+PATIENT: Yeah for the most part you know.
+DOCTOR: About the same since I last, for the past month or so.
+PATIENT: Yeah.
+DOCTOR: Okay.  Um.
+PATIENT: Better than gaining.  Yeah I'd like to lose some but it's hard at my age I don't know.  And then I heard the medicine I'm taking cause of diabetes it's harder, I don't know if that's true.
+DOCTOR: Uh-huh.  Did you see the pharmacist at all?
+PATIENT: Uh I think I did.
+DOCTOR: The clinical pharmacy… do you know.  I think you, oh there we go, you saw the pharmacist.  Have you seen the eye doctors?  When did you last see them?  Did you see them this year already?  The eye doctors?
+PATIENT: I believe so.  I usually go every six months.
+DOCTOR: Uh you saw them in July last year.
+PATIENT: Okay so I'm due huh.
+DOCTOR: You're due.
+PATIENT: Okay.
+DOCTOR: So we'll have you just follow up with them.
+PATIENT: Right.
+DOCTOR: And you're taking the 60 units twice a day for your diabetes?
+PATIENT: No I just take one shot.
+DOCTOR: Oh in 120.
+PATIENT: One yes, yeah.
+DOCTOR: Try splitting it.  That's what I think she wanted you to do.
+PATIENT: Right she mentioned something about it.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: Just split it okay.
+PATIENT: Yeah it's just hard sticking you twice a day, you know what I mean.
+DOCTOR: Uh-huh.  And then.
+PATIENT: She said it would work better.
+DOCTOR: Uh-huh.
+PATIENT: Because instead of jamming it all at once you know.  I guess I should so.
+DOCTOR: The A1c was high I remember the last time we saw you.  And you're still on the metformin 1 gram twice a day?  How much of the metformin do you take again?
+PATIENT: Take four pills a day.
+DOCTOR: Four pills a day okay.
+PATIENT: Yeah.  Did you put that in already?
+DOCTOR: Yeah I'll put it in, I'll remember.  Uh we need to get your A1c again and you need to see [REDACTED] and then we'll have you see me, let's see.  When was the last time you saw your blood doctors, has it been a while?  I might have to put a new consult in.
+PATIENT: Yeah.
+DOCTOR: Okay.  Okay.
+PATIENT: Right now you'll put it in and then they'll call me or just send me a letter?
+DOCTOR: [REDACTED] making out here.  Let me take a listen to you while you're up here.  Take some deep breaths.  Still smoking?
+PATIENT: Uh-huh.
+DOCTOR: How much?  Still the same?
+PATIENT: The same.
+DOCTOR: No swelling?  Okay, okay, have a seat.  I'll be right back okay.
+PATIENT: Yes.  Can you leave it open?
+DOCTOR: Sure.
+PATIENT: Thank you.
+DOCTOR: 30:29  DOCTOR IN:  42:51
+DOCTOR: [REDACTED] hey.  I'm DOCTOR I'll [REDACTED].
+PATIENT: Hi.
+DOCTOR: I wanted to get a better sense of what's going on with you, what the symptoms are on your legs so if you can tell me in your own words.
+PATIENT: They uh sometimes feel like they're asleep I guess would be the best.
+DOCTOR: Okay.
+PATIENT: Best way to describe what happens you know.
+DOCTOR: Like a numbness, tingling type of pain?
+PATIENT: Yeah and then I get up and I walk and it's alright then you now.
+DOCTOR: Okay.
+PATIENT: But I uh I've had this for years and I know when they don't feel right and I feel at this time they don't feel right.
+DOCTOR: You're not feeling right.  Okay.
+PATIENT: Right so.
+DOCTOR: So you had a diagnosis that this is related to your diabetes, a neuropathy?  Have you ever heard of that before?
+PATIENT: Isn't that with your feet?
+DOCTOR: Yeah.  Like the numbness, tingling or pain.
+PATIENT: I have uh nerve damage in my feet.
+DOCTOR: Okay.  Is this what it feels; is it how your symptoms have been feeling in the past?
+PATIENT: Uh, oh my feet are bad to begin with and uh but my legs they just seem to be uh not as good as before and they usually go in, you know with uh, I forgot what they call it.
+DOCTOR: Angiogram.
+PATIENT: Yeah right, instead of going to your heart they go into your legs.  I've had that done uh two, maybe three times.
+DOCTOR: Okay.
+PATIENT: Because I've had blood clots in my, where they put stents in.
+DOCTOR: Oh you have stents okay.
+PATIENT: Yeah.
+DOCTOR: How far can you walk without having to stop from cramps?
+PATIENT: I probably can go uh a good block.
+DOCTOR: Okay.
+PATIENT: Maybe more you know.
+DOCTOR: Has that been stable cause it looked like in 2010 you were able to go about a block?
+PATIENT: I, you know my walking hasn't changed that much.
+DOCTOR: Okay.  Okay but just when you go to bed you notice more of a falling asleep sensation.
+PATIENT: Right, right.
+DOCTOR: Okay.  Can you take off your shoes and socks, let me take a look.  So that's a pretty invasive test that angiogram [REDACTED].  I want to make sure that that's what we think is going on.
+PATIENT: Well they don't, they go in, you know here.
+DOCTOR: Yeah, yeah.  No, no, I know.
+PATIENT: Yeah.  My toes are bad so.
+DOCTOR: Your toes are bad?  Okay.
+PATIENT: I mean my nails because I'm going Monday.
+DOCTOR: Oh okay, let's take a look.  Now you feel all throughout here, your whole leg?
+PATIENT: No it's just from right here down.
+DOCTOR: Just from here down.  Now do your fingers have any of this sensation?
+PATIENT: No.
+DOCTOR: Okay.  Can you feel it when I touch you?
+PATIENT: Uh-huh.
+DOCTOR: Close your eyes, tell me when you feel something.
+PATIENT: Okay.  Yeah, yeah, yeah.
+DOCTOR: You have great pulses.
+DOCTOR: Pulses.
+DOCTOR: But the micro stick, your toes are nice and warm which is a good sign.
+PATIENT: Good.
+DOCTOR: That they're getting good blood flow.
+PATIENT: Okay, right.
+DOCTOR: So.  So the question is is this nerve or is this a blood flow problem or is this a nerve problem because diabetes can also cause the nerves to get that numbness, tingling.
+PATIENT: Right.
+DOCTOR: Nerve sensation.  Um we can do a test called an EMG which can help us with that and we can also check the ABIs to see if they've gotten worse and that gabapentin, do you remember that gabapentin medication that you take three times a day?  That was probably started for neuropathy.
+PATIENT: Right.
+DOCTOR: Do you want to go up on that dose; see if that helps a little bit with your symptoms?
+PATIENT: Sure if you think it'll help.
+DOCTOR: We'll try it.  We'll kind of try it um cause if it was blood.  If it was a blood flow problem and it's happening at rest I think what I would expect is when you start walking it would get much worse.  Which doesn't sound like the case.  It seems like you're still being able to walk about a block or whatever is your baseline.
+PATIENT: Right.
+DOCTOR: So um I'm wondering if this is a different process than a blood flow problem, it may be a nerve problem.  But we also want to check the muscle [REDACTED].  Okay so the plan is to go up on gabapentin, check A1c, check ABIs and CBC.  Sound like a plan?  You don't understand anything I said.  All the letters.  So we're gonna check the nerves, blood flow and muscles.
+PATIENT: Some tests or something?
+DOCTOR: Yes.
+PATIENT: What kind of tests?
+DOCTOR: The ABIs are the blood pressure where they check the pressure of the blood vessel.
+PATIENT: I've had that done yes okay.  Where they put blood pressure cuffs on you?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: To see if that's compromised and then one is a blood test and the EMG is they test the nerve conduction in your legs.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Before I'm gonna go see that other guy right?
+DOCTOR: I think so.
+PATIENT: Okay.
+DOCTOR: I think that it's leaning towards something else other than vascular.
+PATIENT: Okay.
+DOCTOR: Vascular meaning blood vessel disease.
+PATIENT: Right.
+DOCTOR: Cause the activity seems to be stable but something is going on at rest.
+PATIENT: Right.  Okay.
+DOCTOR: So you don't get those cramps like um charley horse cramps.
+PATIENT: Sometimes.
+DOCTOR: Sometimes.
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Very painful.
+DOCTOR: Okay.  You can check his electrolytes.
+DOCTOR: Oh [REDACTED].
+DOCTOR: Okay, we have a plan in place alright.
+PATIENT: Electrolytes.
+DOCTOR: Electrolytes.
+PATIENT: Should I be drinking Gatorade?
+DOCTOR: Well we're gonna check.  Probably not.  So most commonly it's not an abnormality.
+PATIENT: Alright.
+DOCTOR: But we'll make sure that’s not the problem.
+DOCTOR: 90 [REDACTED] right for the gabapentin?
+DOCTOR: Uh-huh.
+PATIENT: Can I put?
+DOCTOR: Yeah.
+PATIENT: Thank you.
+DOCTOR: Sure.
+DOCTOR: Can you get lab work done today?
+PATIENT: Pardon me?
+DOCTOR: Can you get the lab work done today?  Are you able to on your way out?
+PATIENT: Sure.
+DOCTOR: Okay.
+PATIENT: I don't have to fast or not right?
+DOCTOR: No it's not for the fasting.  That way I can call you on your way out.  Labs today okay.
+PATIENT: Alright no problem.
+DOCTOR: Sounds good.  Okay, A1c.  Okay.  Alright I think you're all set.
+PATIENT: Okay.
+DOCTOR: I'll renew your medications, I will, I'll remember it and I'd like to put a few other things in for you okay.
+PATIENT: Okay.
+DOCTOR: And they'll schedule your Ophtho out there for your eyes okay, the Ophthalmology, the eye doctors.
+PATIENT: Okay they'll schedule that for me now?
+DOCTOR: Yeah cause it's September 4th and then increase your gabapentin, take an extra pill every eight hours.  You're taking two pills right, every eight.
+PATIENT: Every eight, yeah I take six a day.
+DOCTOR: Six a day yeah so you're being put on nine, take three every eight hours okay.
+PATIENT: Okay.
+DOCTOR: And I'll send you more in the mail so it'll be sent so you don't run out.
+PATIENT: Alright, okay.
+DOCTOR: And they'll schedule you for that muscle test and the blood pressure tests okay.  It's called an EMG and ABIs.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: They'll send me a letter then?
+DOCTOR: They can try scheduling it now.
+PATIENT: Oh okay.
+DOCTOR: Yeah.  Okay.
+PATIENT: Alright I guess that's it.
+DOCTOR: Alright, yep.  I'll put that in for you okay.
+PATIENT: Okay.  I'll see you in three months?
+DOCTOR: Probably a little longer than that unless something comes up you're welcome to come see us okay but I'll be calling you with a few things okay.
+PATIENT: Okay.
+DOCTOR: Alrighty.
+PATIENT: Sounds good.  Thank you.
+DOCTOR: I'll see you.  Make sure you check out.
+PATIENT: Yes ma'am bye, bye.
+DOCTOR: Bye.
+PATIENT: You want this opened or closed?
+DOCTOR: Sure open is good, thank you.
+PATIENT: Uh-huh.
+Time is 3:15.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  38299
+TRANSACTION # 578-10-2-316-0103

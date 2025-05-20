@@ -1,0 +1,80 @@
+DOCTOR: How may I help you today?
+PATIENT: Yeah I've had, a fever and a cough that started just like four days ago.
+DOCTOR: OK, when did you, when did you start having your, so the cough started four days ago, what about the fever?
+PATIENT: I think, like, last night was when I checked, it was high, like over thirty eight.
+DOCTOR: I see, OK. And, did you check your fever before that? The night before?
+PATIENT: Yeah, I just checked it last night. I felt hot previously, but, I don't know, I thought I was going to just get better, but this morning still, well, feeling a bit a little bit worse.
+DOCTOR: OK, and the cough that started four days ago, has it been a dry cough or wet cough?
+PATIENT: It's been dry.
+DOCTOR: OK, so there's been no sputum or any, or blood?
+PATIENT: No sputum or blood
+DOCTOR: OK. Has it gotten worse over the past four days?
+PATIENT: Uh, a little bit, yeah.
+D; And, other than the fever and the cough, do you have any fatigue?
+PATIENT: Uhm, yes.
+DOCTOR: We do, OK. Any muscle aches?
+PATIENT: Uh, no.
+DOCTOR: OK, Sore throat?
+PATIENT: No.
+DOCTOR: Any difficulties breathing?
+PATIENT: No.
+DOCTOR: Any wheezing?
+PATIENT: No.
+DOCTOR: Any chest pain or pressure?
+PATIENT: No.
+DOCTOR: OK, any runny nose?
+PATIENT: Yeah, my nose has been a little bit runny.
+DOCTOR: OK, that started over the past four days as well?
+PATIENT: Yeah.
+DOCTOR: OK, what about pain in your belly?
+PATIENT: No pain.
+DOCTOR: OK, any diarrhea or Constipation?
+PATIENT: Uhm, no.
+DOCTOR: Any nausea or vomitting?
+PATIENT: No.
+DOCTOR: Any urinary symptoms?
+PATIENT: No.
+DOCTOR: OK, any rash that you've noticed on your skin?
+PATIENT: No.
+DOCTOR: Any changes in your sense of taste or your sense of smell?
+PATIENT: Uh, yeah, I haven't been able to smell as well.
+DOCTOR: You feel like you have a runny nose, but is it sort of congested?
+PATIENT: Not really, it,  yeah, just kind of running, and yeah, I haven't been able to smell very well.
+DOCTOR: OK, and do you have any past medical, any conditions, medical conditions?
+PATIENT: Uh, depression and anxiety.
+DOCTOR: And have you had any surgeries in the past or hospitalizations?
+PATIENT: Uhm, no
+DOCTOR: OK, are you taking any medications, including over the counter pills?
+PATIENT: I do take a multi-vitamin.
+DOCTOR: And, uh.
+PATIENT: sorry I do take, um, I take, uh, an SSRI, Citalopram as well.
+DOCTOR: OK, that's good. OK, any allergies?
+PATIENT: No allergies
+DOCTOR: OK, specifically allergies to medications?
+PATIENT: Uhm,  yeah no, no medications, I don't think so.
+DOCTOR: Good, ok, and do you currently smoke or have you ever smoked in the past?
+PATIENT: Uhm, I smoked when I was in high school very briefly, but I haven't smoked anything in the last twenty years.
+DOCTOR: Alright, do you consume marijuana?
+PATIENT: Uh, we'll use edibles every once in a while. I buy them from the, like, I guess government store, OCS.
+DOCTOR: I see, OK, any recreational drugs?
+PATIENT: No,
+DOCTOR: OK, and do you currently live alone or do you live with others?
+PATIENT: I live with others, I live with my girlfriend, and a dog.
+DOCTOR: OK, and has she been sick or have you been in contact with anyone who's been sick recently?
+PATIENT: Uh, she just came back from a work trip. I've been working from home but she was, uhm, in Saskatchewan, and just got back last week.
+DOCTOR: OK, and has she had any symptoms?
+PATIENT: She's been fatigued since coming back, but I mean, we thought that was maybe just from the travels, but, maybe not.
+DOCTOR: Has she been quarantining, or are you both spending time together?
+PATIENT: Well, we've been, I mean, trying to distance in the home, but I mean, we've been living together in an apartment so.
+DOCTOR: Fair enough, fair enough. OK, have you had any travels?
+PATIENT: No, I've been working from home.
+DOCTOR: OK, alright, and uh, any, you don't have any asthma or COPD or any lung conditions, right?
+PATIENT: Right, I don't have anything like that.
+DOCTOR: OK, and, any conditions that run in your family?
+PATIENT: Uhm, no, nothing that runs in the family.
+DOCTOR: Alright, OK, so if I understand correctly, you've been feeling tired and you've had a cough and a runny nose and changes in your sense of smell for the past three or four days and you also were feeling a little bit hot and yesterday you noticed that you had spiked a high fever. Is there anything that I'm missing?
+PATIENT: No, I think that covers all the symptoms.
+DOCTOR: And you might have potentially had, some exposure through your girlfriend potentially, so it's possible that, well, it's possible that you just have a cold, but it's also,  we'll still have to rule out covid as a cause, and so we'll have to do a covid swab and go from there and we'll check your temperature here as well. Just, uh, I think something that I forgot to ask, have you taken any medications that has helped you with your symptoms?
+PATIENT: Uh no, I haven't taken anything.
+DOCTOR: OK, alright, well, thank you, I'll go talk to my attending and we'll come back and discuss this further with you.
+PATIENT: That sounds great. Thank you.

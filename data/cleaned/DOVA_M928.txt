@@ -1,0 +1,118 @@
+DOCTOR: PATIENT?  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Yep.  Thanks for coming.  How you been doing?
+PATIENT: Uh I'm here.
+DOCTOR: So so yeah.
+PATIENT: Yeah.
+DOCTOR: I saw you were in the hospital a month ago for some [REDACTED].
+PATIENT: Uh when was that?  That was all back in February.
+DOCTOR: February yeah.
+PATIENT: Yeah, yeah.  Oh.
+DOCTOR: So have you had any problem since then?
+PATIENT: I been having no problem.  I went to treatment.
+DOCTOR: Oh for addiction?
+PATIENT: Yeah.
+DOCTOR: Good, how you doing?
+PATIENT: Uh that same week after I got out of the hospital.
+DOCTOR: Yeah.
+PATIENT: Yeah, [REDACTED].
+DOCTOR: So are you clean?
+PATIENT: I ain't all the way clean.  I don't do crack cocaine no more, I can't lie I been smoking marijuana cause it help me relax.
+DOCTOR: Okay.
+PATIENT: But I haven't been doing any crack cocaine.
+DOCTOR: But you're going to the Addiction Treatment here?
+PATIENT: No I went to Haymarket.
+DOCTOR: Oh okay.
+PATIENT: Yeah.  So I went to them so I mean I ain't had no problems as far as chest pains or nothing like that.
+DOCTOR: Good.  I was gonna say that's probably what would be the cause.  I don't know if they talked to you about that.
+PATIENT: Oh they did.  I knew that was the cause.
+DOCTOR: Okay.
+PATIENT: Yeah, so I knew I had to do something so.
+DOCTOR: So how have you been feeling?
+PATIENT: Uh still pain.
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: You're on the Vicodin and Flexeril?
+PATIENT: Uh Vicodin, what's Flexeril?
+DOCTOR: Cyclobenzaprine.
+PATIENT: Right here.
+DOCTOR: Yeah it's prescribed to you.  I don't know if you're taking it but.
+PATIENT: Uh what's that for?
+DOCTOR: It's a muscle relaxer.
+PATIENT: But they haven't been giving it to me.
+DOCTOR: It says it's active.
+PATIENT: Yeah that's what I wanted to talk to you about too.  I haven't got any muscle relaxers in it's been for two months and with my knee you know spasms of the back a lot yeah I came Monday cause of.
+DOCTOR: Looks like, oh yeah are they just not sending it to you?
+PATIENT: I guess not.
+DOCTOR: Then you can pick it up.
+PATIENT: Yeah I'll pick it up.
+DOCTOR: Yeah.  You could just go over there and pick it up.
+PATIENT: And I wanted to know also today if I could get um more refills so I'll probably get them like next week maybe like Wednesday or something.
+DOCTOR: I don't think I can get, I can't give them to you early, through the Pharmacy for like pain medicine?
+PATIENT: Yeah.
+DOCTOR: Yeah you can ask them.  I don't think I can give them to you early.
+PATIENT: Yeah.
+DOCTOR: It can only be like once a month.  They're super strict about it.
+PATIENT: Right.
+DOCTOR: Are you going out of town or something?
+PATIENT: Yeah for my daughter's graduation and I'm gonna be gone for a couple of weeks.  The last time I got it was, cause sometimes, but one time they let me get them like a week early you know I came in early so.
+DOCTOR: Uh.
+PATIENT: So if I could pick them up like Wednesday but I'm not gonna be here and I'm.
+DOCTOR: If you go over there and they call me, I can say that it's okay.
+PATIENT: Okay.
+DOCTOR: Um but I don't know if they'll do it but you can just tell them and they'll call me.
+PATIENT: Okay.
+DOCTOR: And um maybe we can do it; I'll just talk to them and try to figure out what we can do.
+PATIENT: Okay.
+DOCTOR: Otherwise, anything else?  Any other problems?
+PATIENT: No.
+DOCTOR: Good.  At least your heart testing looked good.
+PATIENT: Hmm.
+DOCTOR: But.  Deep breath and you're not due for anything else for another year.  You're gonna have to have a colonoscopy next year.
+PATIENT: Yeah I had one of those last year.
+DOCTOR: You did?
+PATIENT: Yeah.
+DOCTOR: When?
+PATIENT: I don't remember what month it was.
+DOCTOR: but you remember the procedure?
+PATIENT: Yeah I remember well, I had I couldn't eat for a couple of days at home, I had to drink all this stuff.
+DOCTOR: Oh.  Why did you have it done?
+PATIENT: Uh because I been having stomach problems.
+DOCTOR: Oh did somebody else schedule it for you?
+PATIENT: Uh yeah, no it was here.
+DOCTOR: I didn't schedule it.
+PATIENT: No it was uh, I wasn’t seeing you then.
+DOCTOR: Oh.
+PATIENT: It would be either DOCTOR or the one after DOCTOR.
+DOCTOR: Let's see.  Do you remember, oh here ooh okay.  Alright.  So you don't need one for ten more years, good for you.  April, you had it done in April okay so that was okay, let me write that down,.
+PATIENT: [REDACTED] hospital.
+DOCTOR: Yeah.
+PATIENT: [REDACTED] blood pressure checked.
+DOCTOR: Okay and you're taking your medicine for your blood pressure still?
+PATIENT: Uh-huh.
+DOCTOR: And your blood pressure, it’s okay today, it’s a little high.  Okay.  I think everything else looks pretty good.  Let me go talk with DOCTOR and then we'll have you go over to the Pharmacy so I can, they can page me and we'll try to figure out how to get the other stuff, anything else?
+PATIENT: No.
+DOCTOR: Okay.
+PATIENT: No.
+(DOCTOR OUT:  11:48  DOCTOR IN:  14:00)
+DOCTOR: Alright.  We put in for those refills for the Vicodin and the whole thing is over there and you can pick it up.
+PATIENT: Okay.
+DOCTOR: If there's a problem they can just call me.
+PATIENT: Okay.
+DOCTOR: Otherwise we're all set.
+PATIENT: So what's your name?
+DOCTOR: DOCTOR.
+PATIENT:
+DOCTOR: .
+DOCTOR: And we'll see you back in six months or a year probably.
+PATIENT: Okay.
+DOCTOR: Alright you're done.
+PATIENT: Alright thanks, thank you very much.
+DOCTOR: Have fun at your daughter's graduation.
+PATIENT: Yeah, thanks.  Thank you.  Want me to close it?
+DOCTOR: Oh you can leave it open that's fine.
+PATIENT: 14:33.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286142
+TRANSACTION # 578-10-2-316-0103

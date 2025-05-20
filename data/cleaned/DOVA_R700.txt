@@ -1,0 +1,460 @@
+DOCTOR: Patient?
+PATIENT: Right here.
+DOCTOR: Okay, [REDACTED].  Okay right down here.  How are doing?
+PATIENT: I'm well how are you?
+DOCTOR: Good.  Okay.
+PATIENT: I was unable to get the blood drawn last night or this morning because of traffic this morning.
+DOCTOR: Okay.
+PATIENT: I come all the way from De Kalb so.
+DOCTOR: Okay, let me put it in for you.  Is that okay?
+PATIENT: That's fine.
+DOCTOR: Okay.  What would you like today?
+PATIENT: Uh I need, I haven't been here in quite a while.  In fact I haven't been here since DOCTOR.
+DOCTOR: Okay and he left over a year ago okay.
+PATIENT: But uh and when I had put in for my medication uh some of them were denied so and apparently they changed the rules or something where I have to go.  I have uh mild PTSD.
+DOCTOR: Uh-huh.
+PATIENT: And anxiety so they had me on Paxil.
+DOCTOR: Okay.
+PATIENT: On low dose Paxil and lorazepam in case I have any.
+DOCTOR: Do you see Mental Health at all or not?
+PATIENT: No I've never.
+DOCTOR: Or the doctor just renewed it.
+PATIENT:
+DOCTOR: renewed it.
+DOCTOR: Okay.
+PATIENT: He's the one that started it for me.
+DOCTOR: Oh really okay.
+PATIENT: So.  I'm gonna go with [REDACTED].  So [REDACTED] best doctor I’ve had in the 14 years I've been here so.
+DOCTOR: Really?  So you only have me for a year cause I took over this clinic last year when I was a second year resident so I'm graduating [REDACTED] check out today I'm only going have you come back in a year so you might see somebody different.
+PATIENT: Well I'm a teacher so they used to have me coming every three months to get blood tests but I just.
+DOCTOR: That's alright.
+PATIENT: I was supposed to be on gemfibrozil and niacin as well but neither of those were renewed either so.
+DOCTOR: Okay.
+PATIENT: I still have some so I still use the gemfibrozil and I had high triglycerides is one other thing and low cholesterol.
+DOCTOR: Okay um any problems today that you'd like to address.  Or just kinda of want to get your meds checked today.
+PATIENT: Well I have something my wife told me to ask you about.  She's a nurse in De Kalb.
+DOCTOR: Okay.
+PATIENT: But her father has had bouts with skin cancer and I got these bumps that kind of started, well I got a couple on each one of my hands.  But they're irregular shaped and.
+DOCTOR: They don't look like skin cancer to me.
+PATIENT: Well she said I might need to have Dermatology check it.
+DOCTOR: So if it's like one color, usually it's a skin color, it's like different colors.
+PATIENT: So this is just it.
+DOCTOR: And it's irregular.
+PATIENT: The skin tags I keep getting.
+DOCTOR: Maybe.  If you do have skin tags that you get.
+PATIENT: I do get skin tags.
+DOCTOR: And do they start out looking like that?
+PATIENT: No.
+DOCTOR: They don't.
+PATIENT: They just come up like little skin tags and then they just get bigger and bigger.
+DOCTOR: Okay so how long has it been that size?
+PATIENT: Uh it just got, I just grew these this summer.
+DOCTOR: So just this summer.  I feel like they might even just be freckles.  If they continue to get bigger then you call in to see any doctor and at that time you can be referred to Derm.  I don't think that looks like skin cancer.  It doesn't even look like basal cell and what do you do, are you always out in the sun all the time?
+PATIENT: I spend a lot of time out in the sun.
+DOCTOR: You do.
+PATIENT: I have two daughters and since I'm a teacher, I spend the entire summer taking care of them.
+DOCTOR: Okay, okay and then anyone else in your family, in your blood relatives have anything like this?
+PATIENT: I don't really, I don't really keep contact with my family much so.
+DOCTOR: Okay.
+PATIENT: I don't think so.
+DOCTOR: Okay.
+PATIENT: We have more bone cancer.
+DOCTOR: Do you burn when you go in the sun or do you?
+PATIENT: Uh maybe once in a great while.
+DOCTOR: Do you tan more than you burn?
+PATIENT: Mostly I tan yeah.
+DOCTOR: Okay so that's a good thing.  That means it's less likely that.  Cause usually people who burn have a higher susceptibility to cancer.
+PATIENT: Okay.
+DOCTOR: People who tan naturally, outside of black people and Indian people don't get skin cancer.  It's very rare if we do.  That's because we tan, we don't burn okay.  I mean there's a mechanism for that but I don't think that looks like skin cancer.  That looks almost like a mole to me.
+PATIENT: Okay.
+DOCTOR: Okay. But keep an eye on it though.  If you think it’s getting bigger and it looks different then for sure it needd to go.
+PATIENT: Right.
+DOCTOR: Okay.  Um yeah so just definitely keep an eye on it.  I could send you now but I'm pretty sure.
+PATIENT: I had so much other stuff happening right now with my knee messed up.
+DOCTOR: Okay.  Why don't we, so why don't you keep an eye on that and have your wife keep an eye on that okay?
+PATIENT: Okay.
+DOCTOR: Um and in the next 20 minutes or so what else do you want to address for today?  Cause we can actually have a six-month follow-up, I won't do the yearly follow-up.  We can do every three months for now.
+PATIENT: Well the three months would be excessive.  I'm a teacher right now and then I'm missing a day of school for today.
+DOCTOR: Okay, okay.
+PATIENT: So for me to be here.
+DOCTOR: Okay.
+PATIENT: In the and frankly it's harder for me to be gone from school than it is for me to be here.
+DOCTOR: What do you teach?
+PATIENT: I'm a chemistry teacher.
+DOCTOR: Oh okay at a private school?
+PATIENT: Yeah.
+DOCTOR: Okay cool.  Um what else, what is it, tell me the three things that are bothering you the most and we'll try to address those today.
+PATIENT: Well my neck always seems to bother me, that's why I'm here, so I'm in the VA System.
+DOCTOR: Okay.
+PATIENT: Uh lower back has always bothered me.
+DOCTOR: So no chronic issues then?
+PATIENT: Yeah those are chronic.
+DOCTOR: Okay.
+PATIENT: But I worry about, I've had a lot of anxiety attacks.  I think I've had more not having medicine and I think it might be because I don't have medicine.
+DOCTOR: Okay.  That we'll take care like I said.
+PATIENT: That's huge.
+DOCTOR: So that's the big thing was medicine.
+PATIENT: Yeah I'm worried about the meds.  That's a big chunk of that.
+DOCTOR: We'll give you your meds today don't worry.
+PATIENT: And then my knee, which I'm already in the system with Ortho for.
+DOCTOR: Okay so the plan for today our main thing is to make sure all your meds are in line.
+PATIENT: Exactly.
+DOCTOR: And make sure you have enough of everything.
+PATIENT: And so you might actually get ahead of the schedule which is rare for me.
+DOCTOR: Yeah so actually they've actually been really good on medicines, so really they've changed a lot around with how the clinics are running, especially the Gen Med clinics.  They made it a lot easier for us and hired a lot more nursing staff who are very good now and like, so it's almost like Loyola.
+PATIENT: Well we used to have some that they were mad that we were here and we're like wait a minute, we're the veterans which is why you have a job you know.
+DOCTOR: Right, right, exactly, who the doctors or the nurses?
+PATIENT: It's so fun.  The nurses, the nurses.
+DOCTOR: No.  At least my team here is very good.  They're a lot better with everything now okay.
+PATIENT: And this one, I've never had a problem General Medical.
+DOCTOR: Yeah.
+PATIENT: It's the people that used to be what they called Pod 4.
+DOCTOR: Okay.
+PATIENT: Back in the old days.
+DOCTOR: Okay.
+PATIENT: Where they'd make you go all the way down four blocks.
+DOCTOR: Oh really.
+PATIENT: It seems to get you to the clinic.
+DOCTOR: Alright.
+PATIENT: They were nasty to the vets.
+DOCTOR: Okay so right now it shows that you don't have any [REDACTED].  The hydrocodone, tramadol.
+PATIENT: And the hydrocodone is for my knee.
+DOCTOR: Okay.
+PATIENT: I actually need to renew that one somehow.
+DOCTOR: Okay I can renew that.  You're on tramadol for pain.
+PATIENT: Yeah that's supposed to be to supplement the meloxicam cause they told me I can't any more than one meloxicam and no other NSAIDs.
+DOCTOR: Right.
+PATIENT: And then when the pain gets worse I have to take tramadol.
+DOCTOR: Right.
+PATIENT: So I've, my first neck surgery failed and then the vertebra pinched on the, they didn't put the metal plate in the first surgery.
+DOCTOR: Okay.
+PATIENT: So the vertebra pinched on the brachial path of the nerves.
+DOCTOR: Okay, okay.
+PATIENT: So I have permanent nerve damage and I constantly in a spasm in my left shoulder and down my arm.
+DOCTOR: Hmm.
+PATIENT: So the reason I have the long term, which it's been really, really long term meds which I know it's not supposed to be recommended.
+DOCTOR: Right.
+PATIENT: But we've gone through every NSAID that there is.
+DOCTOR: Do you eat something [REDACTED]?
+PATIENT: Oh yeah.  That's the only one that hasn't killed my stomach yet.
+DOCTOR: Okay, alright.  So I'll renew these meds and then we'll go back through your old meds and see what you need to get okay.  Um [REDACTED].
+PATIENT: I will warn you, whenever you put in gemfibrozil, for some reason they always like over send me.
+DOCTOR: Oh really.
+PATIENT: They tell me that I'm supposed to be running out but I still have more.  I don't know how I take it, like [REDACTED].
+DOCTOR: We're going to change it to a 90-day supply alrighty.
+PATIENT: Okay.
+DOCTOR: So you'll have a 90 day supply.  Do you want me to mail it or do you want to pick them up?
+PATIENT: I usually get them mailed.
+DOCTOR: You want them mailed today.
+PATIENT: I still have a little bit of everything except for the head medicine.
+DOCTOR: Okay so the hydrocodone I don't think they'll give you more than a 30-day supply so.
+PATIENT: That's fine.  Just so you might have an insight for other patients.
+DOCTOR: Uh-huh.
+PATIENT: When people who have the PTSD and that anxiety, when we have to go over to the Medical Clinic there are some doctors that treat us like pariah because of that.
+DOCTOR: Really.
+PATIENT: It just happens.  When I had, after my first neck surgery I told them something wasn't right and one of the attendings from Neurosurgery said, no from Ortho, he said maybe we need to send you back over to the Mental Health so that you can actually see what's really wrong with you.  Then next week Neurosurgery checked it out and they put me, I had surgery within a couple weeks after that.
+DOCTOR: Hmm.
+PATIENT: So I have a hard time with anything going over to Mental Health.
+DOCTOR: Okay.
+PATIENT: Because of that stigma that.  I'm by far, I'm not crazy.
+DOCTOR: No, no, no.
+PATIENT: You know when other doctors treat me like that.
+DOCTOR: I know.
+PATIENT: It makes me not want anything to do with that malarkey.
+DOCTOR: Not the system, but here, Mental Health here is really good.
+PATIENT: Oh yeah I know they're good.
+DOCTOR: With like, even when it comes to basic anxiety to like severe depression.
+PATIENT: My thing is um.
+DOCTOR: But they treat everybody.
+PATIENT: My thing isn't so much with the Mental Health.
+DOCTOR: Okay.
+PATIENT: It's with the other doctors who treat patients like.
+DOCTOR: Okay.
+PATIENT: Well he's still in pain because he's crazy.
+DOCTOR: Okay.
+PATIENT: That's, that's just too much.
+DOCTOR: Yeah I understand.
+PATIENT: You know I'm a highly educated person; I don't appreciate being called crazy because I'm in pain.
+DOCTOR: Yeah, yeah.
+PATIENT: You know by somebody who's never served a day in his life in the military.
+DOCTOR: Do you teach AP chemistry?
+PATIENT: I do not teach AP.  I prefer conceptual chemistry so I teach the general level.
+DOCTOR: Okay.
+PATIENT: But at the school I teach at my conceptual general level can beat most of the AP levels in most schools in the state.
+DOCTOR: Okay great.
+PATIENT: Naperville north is no joke when it comes to science.
+DOCTOR: So [REDACTED] oh really.  Those kids are really smart.
+PATIENT: That's who I teach.
+DOCTOR: Wow.
+PATIENT: All the really, really smart ones.
+DOCTOR: Do you teach any of the Indian kids cause [REDACTED].
+PATIENT: I do, I do.  I'm also a model UN advisor.
+DOCTOR: Oh really oh wow.  I did not know that.
+PATIENT: And we'll be teaching applications in chemistry.
+DOCTOR: [REDACTED] are not funny.  [REDACTED].
+PATIENT: No.
+DOCTOR: I feel like you don't make enough.
+PATIENT: I have to live in De Kalb for what I make.
+DOCTOR: Really.
+PATIENT: And it bothers me too, especially when the.
+DOCTOR: I always had teachers because like in India teachers are highly regarded.
+PATIENT: Regarded exactly.
+DOCTOR: Like as doctors, lawyers and teachers are like.
+PATIENT: Well, in a lot of places, that’s how it is.
+DOCTOR: Yeah, teachers are like, cause my grandfather was a principal.  He was a science teacher back in India but then became a principal.  He was like the big dog in our little village, very respected um you know and it's like even here like doctors are like, patients scream at doctors demanding things versus other countries I'm like okay you're just a [REDACTED].
+PATIENT: But no you have to realize though in some areas around here the doctors here aren't always.
+DOCTOR: Right, I agree.
+PATIENT: The highest level.
+DOCTOR: Right agree.
+PATIENT: I mean when that guy said what he said to me I wanted to just knock him out.
+DOCTOR: Yeah.  I know.  [REDACTED].
+PATIENT: Which one?
+DOCTOR: The [REDACTED].
+PATIENT: Yeah.
+DOCTOR: I just wondered after a while.  Do you still take Ativan?
+PATIENT: What's Ativan?
+DOCTOR: The lorazepam?
+PATIENT: Lorazepam is the one for anxiety.
+DOCTOR: Do you still take that?
+PATIENT: That was as the as needed one.
+DOCTOR: Yeah.
+PATIENT: You don't always need it but when you need it.
+DOCTOR: I know.
+PATIENT: You really need it.
+DOCTOR: Uh-huh.
+PATIENT: For my anxiety attacks I have a difficulty breathing.
+DOCTOR: Uh-huh.
+PATIENT: And it's like fractured eyesight.
+DOCTOR: Okay.
+PATIENT: So.  They tell me it's kind of near, for a while they were testing me for um.
+DOCTOR: That's okay.
+PATIENT: So while they were testing me for, what's the one for low blood sugar, not hypoglycemia.
+DOCTOR: Uh-huh.
+PATIENT: They were testing for that cause they thought that's what it was.
+DOCTOR: Okay.
+PATIENT: And then they eventually they finally, we narrowed it down and found out what it was.
+DOCTOR: Do you want to pick this up?  [REDACTED] the [REDACTED]?
+PATIENT: I'd really appreciate it.  I haven't had one in months.
+DOCTOR: You have, you want to pick it up? You know it takes six weeks for this stuff to kick in right?
+PATIENT: Oh yeah.
+DOCTOR: To fully kick in.
+PATIENT: Oh yeah.  But I need to get something working cause I've been going downhill for a while.
+DOCTOR: Do you have aspirin and do you have Tylenol?
+PATIENT: I do have some but they usually order that.  They send that to me cause they said they had to.
+DOCTOR: Okay.
+PATIENT: I don't know why but I have bottles upon bottles of that stuff.
+DOCTOR: So I'm not gonna order that then.  Let me fill this out.  Were you ever taken off of the gemfibrozil?
+PATIENT: No.
+DOCTOR: You were never taken off.  And you're taking 600 twice a day?
+PATIENT: Yes.  And then they had Niaspan something, that's the one with the aspirin.
+DOCTOR: Okay that one I do not see any refills.  Do you want to pick up the gemfibrozil?
+PATIENT: I have plenty of that, that can be mailed.
+DOCTOR: Okay.
+PATIENT: I'm still trying to go through the last bottle.  But the only reason that I had the aspirin was because of the niacin.
+DOCTOR: Okay.
+PATIENT: But that stuff made me, when you take it, you take the aspirin and then a half hour later you take the Niaspan and then if I don't fall asleep fast enough I start itching from head to toe.
+DOCTOR: Really.
+PATIENT: It's like the weirdest frickin feeling.
+DOCTOR: Do you want to pick up the Ativan, the lorazepam?
+PATIENT: I definitely need it so I have to have that [REDACTED].
+DOCTOR: So that you can pick up.  So that's all the medicine [REDACTED].
+PATIENT: You know what I think he was trying to get me off of that one I think because I told him I was itching so bad.
+DOCTOR: So you don't want the [REDACTED]?
+PATIENT: I don't really care for it one way or the other.  If I need it because my triglycerides are too high that's one thing but if I don't need it I would prefer not to have that itching sensatioin.
+DOCTOR: How about we'll check your labs today, if they're too high then we'll go ahead and mail it.
+PATIENT: Yeah.
+DOCTOR: Okay, how does that sound?
+PATIENT: The last time I was with DOCTOR he had me take a blood test and one of the things was some PFT I think he said it was.
+DOCTOR: PSA?
+PATIENT: Something about prostate.
+DOCTOR: Yeah.
+PATIENT: And what did they find out?
+DOCTOR: It was normal back then.
+PATIENT: I'm good.
+DOCTOR: [REDACTED].  You're too young to have anything going on with that.
+PATIENT: You'd be surprised.
+DOCTOR: You're too young.
+PATIENT: I have a family history of that so I have to get a colonoscopy ear;u two.
+DOCTOR: Yeah.  Okay.  We'll hold off on the [REDACTED] okay.
+PATIENT: I'd really appreciate that.
+DOCTOR: So [REDACTED] and the Ativan you can pick up today, the lorazepam I mean.
+PATIENT: Okay.
+DOCTOR: And then the gemfibrozil will be mailed to you.  Um you had that familial hereditary polyposis.
+PATIENT: Yeah polyposis yeah.
+DOCTOR: Do you have it too?
+PATIENT: Uh they said I was okay, I don't.
+DOCTOR: They didn't find any?
+PATIENT: I don't know what they found.  I don't always.  I don't always hear the results of what they do.  They said that.
+DOCTOR: You are due for a colonoscopy in 2015.  Anytime between 2013 and 2015.
+PATIENT: Okay.
+DOCTOR: Okay.  Um.
+PATIENT: I'll be 43 that year.
+DOCTOR: Anytime between the age of 43 to 45.
+PATIENT: Okay.
+DOCTOR: Okay.  Because I won't be [REDACTED].  Alright, well let me.
+PATIENT: Did they even find anything with the test?
+DOCTOR: Let me give you the niacin because if you haven't been on any of that stuff, I'd say you need it okay.  [REDACTED].
+PATIENT: I have no idea.  All I know is that, I think it was like 750 or something.  It was some huge amount.
+DOCTOR: Probably.  [REDACTED].  Okay we'll just do [REDACTED].
+PATIENT: They tell me it was at night, take it before I go to bed so it flushes my system or something.
+DOCTOR: And you take one pill at nighttime okay.
+PATIENT: Okay.
+DOCTOR: Um [REDACTED].
+PATIENT: That'd be awesome.  Whoever that is talking, I know somebody that sounds just like her.
+DOCTOR: Yeah.  [REDACTED] people out there.
+PATIENT: So when I leave here I go down to the uh Lab and have blood drawn?
+DOCTOR: When you leave here yes.
+PATIENT: And then get meds.
+DOCTOR: Yes.
+PATIENT: [REDACTED].
+DOCTOR: Do you drink at all?
+PATIENT: Very rarely?
+DOCTOR: Okay don't drink or drive when you're on the Ativan okay.
+PATIENT: I know, I know.  I don't like losing control so I prefer not to take anything that affects my control or who I am.
+DOCTOR: Good.
+PATIENT: My students say I have a touch of OCD.
+DOCTOR: Really?  [REDACTED] with that.
+PATIENT: [REDACTED] being a teacher.
+DOCTOR: [REDACTED].
+PATIENT: Try being a teacher.
+DOCTOR: Yeah you have to be really organized you know.
+PATIENT: My student teacher just found that out this year.  She's freaking out.
+DOCTOR: What?
+PATIENT: About the organization required to be a teacher.
+DOCTOR: Yeah it's hard.  I don’t know how you do that.  Do you teach multiple levels?
+PATIENT: Right now I'm only teaching one [REDACTED].
+DOCTOR: Okay.
+PATIENT: But that's actually even harder because you don't know um what you're going through.  Like they blend together you don't know if you've covered everything in every period.
+DOCTOR: Right.  Um so I'll be right back.  Let me take a listen.  Deep breath in and out.  And again.  Deep breath, one more.  Let me see your ankles real quick.
+PATIENT: I got like weird coloration on my ankles.
+DOCTOR: Uh-huh.
+PATIENT: They call it combat boot scaring but.
+DOCTOR: Alright I will be right back [REDACTED].  You are absolutely not interested in following with Mental Health even if it's over the phone [REDACTED] to talk to somebody?
+PATIENT: It's so hard for me to go there.
+DOCTOR: No, no, no, there's somebody that can talk to you over the phone so [REDACTED] a psychiatrist.  So if there's any like, any issue that you ever want to talk to them for, I can like plug you in and they can maybe contact you.
+PATIENT: That would be fine.
+DOCTOR: It's [REDACTED].
+PATIENT: As long as it's not like.
+DOCTOR: [REDACTED].
+PATIENT: I don't want the stigma that's the big thing.
+DOCTOR: You don't even have to come in so it will be over the phone.  They'll call you [REDACTED].  So that way you'll know what your options are.
+PATIENT: Okay.
+DOCTOR: And what you could [REDACTED].
+PATIENT: I can handle that, it's just.
+DOCTOR: That's fine.  It's very difficult.
+PATIENT: Coming this far to.
+DOCTOR: Yeah I know.
+PATIENT: You know I live with a job, I teach and to come all the way over to [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Only to have somebody place a stigma on you.
+DOCTOR: Yeah.
+PATIENT: It's, it actually I think increases the stress.
+DOCTOR: I want you to talk have someone to kind of contact even if it's just to cope with the.
+PATIENT: That'd be awesome.
+DOCTOR: Okay I'll be right back.
+DOCTOR: 28:12   DOCTOR IN:  35:06
+DOCTOR: Okay.  So I talked to my attending.
+PATIENT: Uh-huh.
+DOCTOR: And I talked to my attending, okay.  I just wanted to explain, I know you were highly against and that whole department.
+PATIENT: Uh-huh.
+DOCTOR: Um the rules changed here because you don't actually have a diagnosis like depression or anxiety, it's what DOCTOR labeled you as right?
+PATIENT: No that's what's there [REDACTED] mental health.
+DOCTOR: Through here?
+PATIENT: Yeah.
+DOCTOR: A long time ago okay.  So it's something that we usually kind of have to abide by because can [REDACTED] medications but we need like a pseudo or formal evaluation.
+PATIENT: Okay.
+DOCTOR: So the rule is that either you have to follow a doctor, I think two or three times within a 90 day period and I'm only here once every five weeks basically, like I have clinic for five days then I'm off for four weeks and then a clinic for five days again okay.
+PATIENT: Okay.
+DOCTOR: So it's like those or two or three phone calls that [REDACTED] can call you about.
+PATIENT: So, I have to talk to health.
+DOCTOR: So you have to talk to them.
+PATIENT: That's fine.  I don't, [REDACTED] that's easy.
+DOCTOR: And the only other thing is they, the only reason why honestly from our end that we want you to see them is you need the medication management.  Because they are well versed with monitoring for side effects and can titrate your medications appropriately.
+PATIENT: Okay.
+DOCTOR: We know okay this medicine is for this but we don't know what these side effects are, we don't know how high should we go or how low should we go, when should we stop the medicine and all we are taught is depression you take Paxil, depression you take Elavil or whatever meds that are out there okay.
+PATIENT: Okay.
+DOCTOR: So that's why.  It's not so much that.
+PATIENT: Well the reason that they did it is I was on Paxil before and that's the only reason that he was able to do that.
+DOCTOR: That's fine.  That's fine, that's okay but the rules have changed like I told you so that's the only reason why.
+PATIENT: Okay.
+DOCTOR: It's not.
+PATIENT: Okay.
+DOCTOR: And if you don't want us to get [REDACTED].
+PATIENT: I don't have a problem talking to them on the phone.
+DOCTOR: No, no, no.  I think he wants to meet you.  You don't even have to meet him at the Mental Health.  You could meet him here.
+PATIENT: Okay.
+DOCTOR: That's fine.
+PATIENT: That I can do.
+DOCTOR: Okay.
+PATIENT: It's just, like I said it's just the stigma.
+DOCTOR: So like we're, I think his office is actually upstairs so I don't know about it.  Like if you really just would be meeting somebody, like really have a strong aversion to like going to that building but I don't mind meeting you in the main hospital somewhere in one of the clinics on the third floor.  I would tell him that.
+PATIENT: And it's just, and it's just I don't have a problem talking to him [REDACTED]I’ve done that.
+DOCTOR: I know.
+PATIENT: I just don't like that stigma.
+DOCTOR: That's no problem, it’s okay.
+PATIENT: It just keeps me from getting in trouble.
+DOCTOR: That's okay.  So one more thing that you're due for today is a vaccine called.
+PATIENT: Which vaccine?
+DOCTOR: Called TDAP.  Tetanus, diphtheria, pertussis.
+PATIENT: Really.
+DOCTOR: Yeah.  So you only have to take it once, that's it.  This is a one time you have to take it.  You already had it as a kid and you have to take it as an adult one time.
+PATIENT: Okay.
+DOCTOR: It's something new that came out.
+PATIENT: Okay.  That's fine, yeah okay.
+DOCTOR: Okay.
+PATIENT: And it's too early to get a flu shot right?
+DOCTOR: Yeah.  We don't even have it here.  So next time you come then you can get it then.
+PATIENT: Being in a high school I prefer to have that one.
+DOCTOR: Yeah so I think they come out in September so almost there.
+PATIENT: So when I come in here for Ortho I can get it yeah.
+DOCTOR: Yeah you can.
+PATIENT: I wish they could have given me an MRI later in the day though.
+DOCTOR: Yeah.  So TDAP today.  You can come like what in six months?
+PATIENT: That's fine.
+DOCTOR: Okay.  And then maybe after that um you can [REDACTED].  The receptionist will call you.
+PATIENT: [REDACTED].
+DOCTOR: After you leave today.
+PATIENT: Okay.
+DOCTOR: And your number is still the same in here?
+PATIENT: Yes.  But they can call my cell phone, I would probably use that.
+DOCTOR: I'll put it on my note um so here.
+PATIENT: That office thing that says 501, that number doesn't exist anymore.
+DOCTOR: Okay let me put the number here.
+PATIENT: NUMBER.
+DOCTOR: So which one is it?
+PATIENT: This is my cell phone, that's the one I always have on me.
+DOCTOR: NUMBER.
+PATIENT: NUMBER.
+DOCTOR: NUMBER.
+PATIENT: NUMBER.
+DOCTOR: NUMBER.  And your other number or do you want no.
+PATIENT: No the one that I just was telling you was 501 I forget even what it was.
+DOCTOR: The office number?
+PATIENT: Yeah that number doesn't exist anymore.
+DOCTOR: But this is your home number?
+PATIENT: The home is fine.
+DOCTOR: Okay.  Okay.  Okay um okay sounds good.
+PATIENT: Alright doctor.  [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: Oh no worries.
+DOCTOR: You can take this out over here across the hall that's where you check out and it's literally right [REDACTED] to get your blood tests.
+PATIENT: And it's up here?
+DOCTOR: The lab you can ask them some of them can be done up here but most of the time you go downstairs to the first floor.
+PATIENT: That's where I always go.
+DOCTOR: Yeah so ask them if you can get them right here if not then go downstairs and I'd [REDACTED].
+PATIENT: I know [REDACTED].  I've gotten quite good at keeping records somehow.
+DOCTOR: [REDACTED] here.
+PATIENT: I don't have to [REDACTED].
+DOCTOR: Why.
+PATIENT: You didn't see [REDACTED].
+DOCTOR: Oh really.
+PATIENT: [REDACTED] teach.
+DOCTOR: Okay take care okay.
+PATIENT: You have a great day.
+DOCTOR: You too.  Bye, bye.
+PATIENT: Okay leave the door opened or closed?
+DOCTOR: Opened.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/JOB#  38293
+TRANSACTION # 578-10-2-316-0103

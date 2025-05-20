@@ -1,0 +1,167 @@
+DOCTOR: PATIENT?
+PATIENT: Okay doc.  Good to see you.
+DOCTOR: Good to see you, come on in.
+PATIENT: Alright.  How you doing man?
+DOCTOR: Good.
+PATIENT: Good, good.
+DOCTOR: Go on ahead of me.
+PATIENT: Okie dokie.
+DOCTOR: Okay so I've read over your chart before you came in here.
+PATIENT: Uh-huh.
+DOCTOR: Uh what's been going on?
+PATIENT: Same old, same old.
+DOCTOR: Same old, same old, you had some cataract surgery huh?
+PATIENT: Yeah.
+DOCTOR: How's your vision now?
+PATIENT: Just fine.
+DOCTOR: Yeah beautiful right?
+PATIENT: Beautiful.
+DOCTOR: Those things work out great.  I've seen a few of those.
+PATIENT: Yes uh I didn’t know whatcataracts can do to you.
+DOCTOR: Yeah I know, I know.
+PATIENT: I took my glasses and I haven't put them back on.
+DOCTOR: I know.
+PATIENT: And I say wow, you know.  It was all like something brand new.
+DOCTOR: Perfectly clear huh.
+PATIENT: But they got to do something to this eye though the right eye.
+DOCTOR: Yeah.
+PATIENT: I don't know if I told you but I have a little shot of glaucoma or [REDACTED].
+DOCTOR: Okay.  Well it looks like that's good.
+PATIENT: Okay.
+DOCTOR: Uh so you're blood pressure's a little bit high today.
+PATIENT: I know it.  This is what I had doc, they gave me this the last time.
+DOCTOR: Hydrochlorothiazide and you're out of it?
+PATIENT: Yeah.
+DOCTOR: Oh no.
+PATIENT: Yeah.
+DOCTOR: Oh you’re not taking your meds.
+PATIENT: Yeah, well I still, I ran out.
+DOCTOR: Yeah we should have done your refills.
+PATIENT: Yes.  Well I was hoping I could get that today.
+DOCTOR: Absolutely.  When was the last time you had these filled?
+PATIENT: Hmm I guess about maybe two weeks, three weeks ago.
+DOCTOR: Two or three weeks ago okay.  If you run out of these again, you need to call and get refills.
+PATIENT: Oh do they do that?
+DOCTOR: Yeah they'll mail them to you.
+PATIENT: Oh okay.
+DOCTOR: Yeah, yeah, yeah, yeah.
+PATIENT: Good.
+DOCTOR: So I'm gonna go ahead and give you the same amount of the pill.
+PATIENT: Alrighty.
+DOCTOR: Okay.  I'm going to increase this amount okay.
+PATIENT: Gotcha.  Whatever you say doc.
+DOCTOR: Okay.
+PATIENT: Whatever you say.
+DOCTOR: And [REDACTED].
+PATIENT: Right.
+DOCTOR: Alright you know what, you actually higher before too.
+PATIENT: Yeah.
+DOCTOR: So you know, I'll increase both of these okay.
+PATIENT: Okay.
+DOCTOR: Alright, okay and we'll go from there.  Any other problems at all?
+PATIENT: No.
+DOCTOR: You don't have any plans this weekend?
+PATIENT: No, no.  My glasses?
+DOCTOR: No plans, do you have any plans.
+PATIENT: Oh yeah, well you know [REDACTED].
+DOCTOR: Yeah.
+PATIENT: And I was full.
+DOCTOR: Oh is that right.
+PATIENT: Eight grandchildren.
+DOCTOR: Oh my goodness.
+PATIENT: Oh my God.
+DOCTOR: Oh you're gonna be busy.
+PATIENT: I'm busy already.
+DOCTOR: Yeah I know.  Let me take a listen to you.
+PATIENT: Okay.
+DOCTOR: Yeah I'm headed off to San Fran myself today.
+PATIENT: Oh yeah, man that's great.
+DOCTOR: Where are your family members coming from?  Are they from Chicago?
+PATIENT: Right, Everybody’s here.
+DOCTOR: Deep breath for me.  You grew up here all your life?
+PATIENT: All my life.  Born and raised here yeah.  My dad was from San Louis Potosi.
+DOCTOR: Oh really.
+PATIENT: Yeah so.
+DOCTOR: Hmm.
+PATIENT: You know he had to become like a citizen of the United States and all that real good stuff.  But I been here all my life.  Served in the Marine Corps and all that real good stuff yeah.  50 to 56 Korea.
+DOCTOR: Have you ever had an abdominal ultrasound, do you know?
+PATIENT: Not really.  I know they did uh, you know they did something with my colon here years ago.
+DOCTOR: Yeah, yeah.
+PATIENT: And uh that's the only thing.
+DOCTOR: Have you ever had the pneumonia vaccine?
+PATIENT: No.
+DOCTOR: Okay.  How about a flu shot?
+PATIENT: No, thank you, no thank you.
+DOCTOR: You no thank you okay.
+PATIENT: (Laughter)
+DOCTOR: Well I think you should get, at least get a pneumonia vaccine.  It's once every five years.
+PATIENT: Uh-huh.
+DOCTOR: Um, you interested in getting that then?  You want to get this done today?
+PATIENT: What.
+DOCTOR: The pneumonia vaccine.
+PATIENT: Uh I don't want no shots.
+DOCTOR: Okay.
+PATIENT: Yeah I feel good now.
+DOCTOR: Okay I know you do but maybe not this time but like the next time you think about it.
+PATIENT: Next time maybe.
+DOCTOR: Okay.  I want you to think about it cause like the pneumonia vaccine cause most people get pneumonia and when you get older it's one of those important vaccines to get.
+PATIENT: [REDACTED].
+DOCTOR: You know how when you were a little kid you got all those shots.  Same thing occurs when you get a little bit older.
+PATIENT: Well okay.
+DOCTOR: Okay.
+PATIENT: Like I said I feel real good. Right now.
+DOCTOR: Okay, alright, we'll leave you alone then; we'll leave you alone then for now.
+PATIENT: Thank you DOCTOR, I appreciate that.
+DOCTOR: Okay.
+PATIENT: So you’re going to have those filled up for me though huh?
+DOCTOR: Yeah I'm doing it right now.
+PATIENT: Okay.  But they will mail them out, that's good.
+DOCTOR: They will.  Do you want them to mail them or do you want to pick them up?
+PATIENT: No I'll pick them up today.
+DOCTOR: And then from then on they'll mail them out.
+PATIENT: Okay, right.
+DOCTOR: Okay.  You call in for them.  Now you're gonna have to talk with, when you pick them from the Pharmacy today.
+PATIENT: Yes.
+DOCTOR: Ask them when you're running out of medication how do you get more?
+PATIENT: Okay.
+DOCTOR: And they'll give the number in order for you to call when you start running out.
+PATIENT: Oh okay.
+DOCTOR: When you start running out.
+PATIENT: Okay.
+DOCTOR: I'll be back okay.
+PATIENT: Yes sir.
+(DOCTOR OUT:  48:48  DOCTOR IN:  51:31)
+DOCTOR: Okay so uh everything is pretty much done for you.  In two to four weeks though, I want you to come back and get blood drawn and then just get a blood pressure check.
+PATIENT: Two to four.
+DOCTOR: Two to four weeks.
+PATIENT: Two to four weeks.
+DOCTOR: Ideally four weeks, like a month from now okay.
+PATIENT: From today's date.
+DOCTOR: Yeah from today's date.  Just come in and get your blood drawn okay.  Cause we're increasing those medications right and uh just get a blood pressure check by one of the nurses.  I'm gonna write that down and they're gonna make you an appointment.
+PATIENT: Okay.  Good.  Yeah [REDACTED].
+DOCTOR: I want you to make the appointment before you leave.
+PATIENT: Okay.
+DOCTOR: Uh and then you can see me in about four months.
+PATIENT: Oh okay.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Uh and you should be good to go.  I'll give you that.
+PATIENT: Okay.
+DOCTOR: Okay.
+PATIENT: Alright.  I don't need that?
+DOCTOR: You know, uh you [REDACTED] what would you like me to do with this?
+PATIENT: [REDACTED].
+DOCTOR: Okay.
+PATIENT: Now who do I give this to doctor?
+DOCTOR: You go outside and you give it to the clerk in the front okay.  Have a Merry Christmas.
+PATIENT: Good talking to you okay, same to you.
+DOCTOR: Thank you very much.
+PATIENT: And your family.
+DOCTOR: Yeah thank you very much, take care.
+PATIENT: Okay.
+PATIENT: 52:53
+10:00 a.m.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255161
+TRANSACTION # 578-10-2-316-0103

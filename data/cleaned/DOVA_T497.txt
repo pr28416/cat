@@ -1,0 +1,251 @@
+DOCTOR: PATIENT?
+PATIENT: I'm here.  [REDACTED].
+DOCTOR: [REDACTED].  How you doing?
+PATIENT: I'm better.
+DOCTOR: You're doing good, doing bad?
+PATIENT: [REDACTED].
+DOCTOR: Good.  Any more pain after you left the hospital?
+PATIENT: Pardon?
+DOCTOR: Did you have any more pain after you left the hospital?
+PATIENT: I haven't uh, [REDACTED] all of my medicine.
+DOCTOR: You've been taking all of them?
+PATIENT: [REDACTED].  I feel better in the stomach.
+DOCTOR: In the stomach good.
+PATIENT: Yeah I feel better.
+DOCTOR: Good.
+PATIENT: That's what I was [REDACTED].
+DOCTOR: Yeah, okay.  Well we were just asked to follow up on a few things.  I think your blood pressure medications are [REDACTED] high when you were in the hospital.
+PATIENT: Uh.
+DOCTOR: They stopped one of the medications.
+PATIENT: One medicine was.
+DOCTOR: Yeah so but your blood pressure looks good, so whatever you’re doing is good so we just have to check a blood test on you today just to make sure that the medication isn't affecting anything.
+PATIENT: Hmm.
+DOCTOR: Okay.  Um.
+PATIENT: Am I taking too much medicine?
+DOCTOR: Um you're taking a lot but unfortunately you need all of them so.
+PATIENT: Now the pill [REDACTED], is about to come home [REDACTED].  She called on me I think and chatted with my doctor.
+DOCTOR:
+DOCTOR: your doctor right?
+PATIENT: Uh-huh.
+DOCTOR: Yeah so uh [REDACTED] we'll have you see her.  She's actually person [REDACTED].  So I think I'll just talk to her.  How's your blood sugars running?
+PATIENT: It’s running pretty good.  It was 96 this morning.
+DOCTOR: [REDACTED] running pretty good at home?
+PATIENT: It’s running pretty good.
+DOCTOR: Good.  Um do you think you could get some blood tests done today?
+PATIENT: What?
+DOCTOR: Do you think you could get some blood tests done today?
+PATIENT: Yeah I can go over there.
+DOCTOR: Okay.
+PATIENT: My [REDACTED] supposed to be [REDACTED]my cab.
+DOCTOR: Uh-huh.
+PATIENT: Not until 2, [REDACTED] 12 o'clock.
+DOCTOR: Good you've got some time.
+PATIENT: Uh-huh.  My legs is going down but the pain.
+DOCTOR: Uh-huh.
+PATIENT: The pain is more.  I wanted to give it a full look.
+DOCTOR: Which one?
+PATIENT: Both them.
+DOCTOR: Both of them are swollen?  Well they said your less swollen.
+PATIENT: Right.
+DOCTOR: Are they less swollen or more swollen?
+PATIENT: No they going down.
+DOCTOR: Okay.
+PATIENT: The swelling is going but the pain was [REDACTED].
+DOCTOR: Both of them are [REDACTED].  Oh no.  Do both of them hurt or none of them?
+PATIENT: Both, both, both.
+DOCTOR: Both of them hurt.
+PATIENT: Yeah.
+DOCTOR: Okay.  Where does it hurt?
+PATIENT: Right there at the knee.
+DOCTOR: Can I look at your knee?  [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED] stuff on.
+PATIENT: Yeah.
+DOCTOR: So your knee's not swollen though I don't think.
+PATIENT: No it isn't.
+DOCTOR: Okay.  Your knee looks okay.  Um any other problems?  Any chest pain?  Shortness of breath?
+PATIENT: [REDACTED] with my eye, know I gots to go see the eye place.
+DOCTOR: Yeah.  How often do you see the eye doctors?
+PATIENT: You know the last the appointment that I had with the eye doctor.
+DOCTOR: Uh-huh.
+PATIENT: I was in the hospital.  I got to do.
+DOCTOR: Oh okay so you're gonna go back and see them?
+PATIENT: I got to [REDACTED] another appointment.
+DOCTOR: Okay.
+PATIENT: But this right eye is bothering me.
+DOCTOR: What's bothering you?
+PATIENT: I have some pain.
+DOCTOR: It looks like you're [REDACTED] OK so we probably want to check a, uh we're just going to do one test [REDACTED] bone strength.
+PATIENT: Pardon.
+DOCTOR: They were gonna do uh um test to look at your bone strength.  Sometimes when we get older your bones get weaker.
+PATIENT: Yeah I had a [REDACTED].
+DOCTOR: You did.  Yeah so we should check it.  So what it is, is I'll order it and.
+PATIENT: It's [REDACTED].
+DOCTOR: Your bone strength or the x-ray?
+PATIENT: Uh I've done x-rays, I don’t want it.
+DOCTOR: Yeah this isn't an x-ray this is to look at the calcium levels in your bone.
+PATIENT: Calcium.
+DOCTOR: Yeah calcium levels in your bone to see how strong they are.
+PATIENT: [REDACTED].
+DOCTOR: Because if they're not strong enough we can give you medications to build up the strength of your bone.
+PATIENT: Oh okay.
+DOCTOR: So I'll order that and then whenever, they'll contact you as to when that can get done.
+PATIENT: Oh you'll put it in?
+DOCTOR: Yes.
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: Uh you want to sit up here so I can check your heart and lungs?
+PATIENT: I need a little help.
+DOCTOR: [REDACTED].
+PATIENT: My balance is getting bad.
+DOCTOR: When did your balance start getting bad?
+PATIENT: I said my balance.
+DOCTOR: Yeah is that something new, or something old?  Something new?  Was that something that's been going on for a while or?  Problems with your balance?
+PATIENT: It's something new.
+DOCTOR: When did that start.
+PATIENT: I’m getting older.
+DOCTOR: You're getting older, you say?
+PATIENT: Yeah it used to hurt.  I mean that's what I.
+DOCTOR: Down here right?
+PATIENT: Yeah.
+DOCTOR: [REDACTED] one?
+PATIENT: [REDACTED].
+DOCTOR: Okay, good.
+PATIENT: That's what I was in the hospital for, when I was in the hospital.
+DOCTOR: Yeah.
+PATIENT: They said it sounds like I got Parkinson [REDACTED].
+DOCTOR: Have you able to walk with a cane or do you need something a little better?
+PATIENT: No I can walk with a cane.
+DOCTOR: Okay.  Do you want to sit up?  Take a deep breath.  Again.  Okay.  Can you stand up for me.  Check out your balance.
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: These shoes.
+DOCTOR: Okay good.  Can you just walk over there for me?
+PATIENT: Yeah just started.
+DOCTOR: Okay.  So it's not terrible.
+PATIENT: For a time I've been walking in these shoes.
+DOCTOR: Uh-huh.
+PATIENT: It's special.
+DOCTOR: Oh good.  Okay you can take a seat.
+PATIENT: And that's why.
+DOCTOR: That's why.
+PATIENT: That's why I think I'm walking kind of funny.  I got to get used to new shoes.
+DOCTOR: Oh okay.  When did you get the shoes?
+PATIENT: Oh they came from about two weeks ago.
+DOCTOR: Okay.
+PATIENT: They made them up for me.
+DOCTOR: I need to talk to DOCTOR for a minute and I'll be right back okay.
+PATIENT: Okay.
+DOCTOR: [REDACTED].
+PATIENT: Okay.
+(DOCTOR OUT:  91:28 DOCTOR IN:  108:26)
+DOCTOR: Hey PATIENT.
+PATIENT: Hi.
+DOCTOR: Alright let me get [REDACTED].
+PATIENT: But they feeling fine but they think, but they hurt.
+DOCTOR: Oh I know.  I'm sending him down to the um.
+PATIENT: Alright.
+DOCTOR: [REDACTED] I think you're doing much better on the higher dose of how you doing.
+PATIENT: Pardon.
+DOCTOR: Do you think you're doing better on the higher dose of the water pill?
+PATIENT: Oh it's good.
+DOCTOR: [REDACTED].
+PATIENT: I'm really doing better.
+DOCTOR: Okay.  Um.
+PATIENT: I'm taking a double dose.
+DOCTOR: Yeah.
+PATIENT: Twice a day.
+DOCTOR: Yeah you were taking it twice a day before also right, there's just one pill.  I think its one pill twice a day [REDACTED] isn't it?
+PATIENT: Two twice a day.
+DOCTOR: No.
+PATIENT: Now [REDACTED].
+DOCTOR: Once twice a day you'll remember.  But um let's do [REDACTED] blood work.
+PATIENT: Okay.
+DOCTOR: Um and then um [REDACTED] that medicine the atenolol um to just keep an eye on the blood pressure okay.
+PATIENT: Okay but you said [REDACTED] that [REDACTED] doctor come by the house to visit me?
+DOCTOR: Oh no I [REDACTED] need the one for the hospital, you were hospitalized in the another hospital, that's what you gave me.
+PATIENT: I think I left one [REDACTED].
+DOCTOR: Oh [REDACTED] but you have, I'm sorry I don't know which hospital.  What hospital were you admitted to last time?
+PATIENT: [REDACTED] uh South Shore.
+DOCTOR: South Shore Hospital.
+PATIENT: Uh-huh.
+DOCTOR: Um I, I.
+PATIENT: I got the discharge papers.
+DOCTOR: [REDACTED] small paper?
+PATIENT: I guess the discharge.
+DOCTOR: Oh, that doesn’t tell us much.  Okay.
+PATIENT: Now they gave me a prescription and they gave me some prescriptions.
+DOCTOR: Okay.
+PATIENT: But it was $1100 and I couldn’t afford it.
+DOCTOR: That was a while back, right.
+PATIENT: I couldn’t afford it.
+DOCTOR: That was awhile back.
+PATIENT: [REDACTED].
+DOCTOR: Awhile back.  That was not recently.  [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: [REDACTED] admitted to hospital right.
+PATIENT: No.
+DOCTOR: Did you have bleeding, blood in your stools that you remember?
+PATIENT: Yes.
+DOCTOR: Oh okay.  Let me give you another [REDACTED] here so I will sign it and [REDACTED].
+PATIENT: Okay.
+DOCTOR: Give me five minutes okay.
+PATIENT: Okay.
+DOCTOR: I need to go [REDACTED].
+PATIENT: Yeah, [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: How does that marrow test go?
+DOCTOR: This test?
+PATIENT: Do they get marrow from your bones?
+DOCTOR: Yeah no, no.  It's not painful.  They just scan you.  It's like a scanner test.
+PATIENT: That's for the marrow?
+DOCTOR: For your bone marrow?
+PATIENT: Yes.
+DOCTOR: When did they do that?
+PATIENT: I thought you said [REDACTED].
+DOCTOR: No I'm gonna check a bone density test.  That's not the marrow test where they use a needle to go in your bones and take out marrow.  This is not like that.  This is just like a CT scan that you had before, but it's done a little differently, it's like the strength of your bone.
+PATIENT: Hmm.
+DOCTOR: To see how much calcium is in them.  Because if you don't have enough calcium, your bones are more liable to break.
+PATIENT: Oh.
+DOCTOR: So we can give you medication to fix that if [REDACTED].
+PATIENT: So you're going to put it in so we can get it scheduled.
+DOCTOR: Yeah I'm gonna put it in.  They'll contact you about when to get it and then otherwise we'll just get those blood tests and I think we'll be set.
+PATIENT: Okay.
+DOCTOR: Did you eat today?
+PATIENT: Yeah I just ate a little while ago.
+DOCTOR: Okay.
+PATIENT: Cause I'm a diabetic you know.
+DOCTOR: Yeah uh-huh, okay.
+PATIENT: [REDACTED].
+DOCTOR: Yeah I know, no you should be eating.  Good.  Alright sir, PATIENT, [REDACTED].
+PATIENT: [REDACTED].
+DOCTOR: Uh you know, I signed this [REDACTED] again so [REDACTED] hospital.
+PATIENT: You never did hear from him?
+DOCTOR: [REDACTED] Uh [REDACTED]@ I send it to them. South Shore Hospital, Chicago.
+PATIENT: Yeah uh-huh.
+DOCTOR: Alright.
+PATIENT: I don't know the address offhand.
+DOCTOR: [REDACTED].
+PATIENT: Yeah.
+DOCTOR: [REDACTED].  (Doctors talking between themselves.)
+DOCTOR: So [REDACTED] plenty of refills on everything. [REDACTED] we'll have you come back in a two months to see DOCTOR.
+PATIENT: Okay.
+DOCTOR: Okay so you can just get your blood tests today and all the appointments that we need to make alright?
+PATIENT: Oh okay.
+DOCTOR: So [REDACTED].
+PATIENT: Okay.  [REDACTED].
+DOCTOR: Yeah and then they'll contact you about that one bone test.
+PATIENT: Oh okay.
+DOCTOR: Your blood tests are already in there.  I just refilled your aspirin cause you were running low on that and you have plenty of refills on everything else.
+PATIENT: Okay.
+DOCTOR: Alright.
+PATIENT: Okay.
+DOCTOR: Bye.
+PATIENT: Bye bye.
+PATIENT: 114:2
+11:45
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255150
+TRANSACTION # 578-10-2-316-0103

@@ -1,0 +1,222 @@
+DOCTOR: PATIENT?
+PATIENT: Hey DOCTOR.  How you doing?
+DOCTOR: Great.  By the way, Happy New Year.
+PATIENT: Same to you.  [REDACTED].
+DOCTOR: How's everything been going?
+PATIENT: So far so good.  I had the surgery on my rotator cuff.
+DOCTOR: Oh you did.
+PATIENT: Yeah.  Matter of fact I feel, I don't know why but I felt much better when I wasn’t taking that Plavix for those ten days.
+DOCTOR: Really.
+PATIENT: I felt 100% better and that's for real.  When I wasn’t taking the Plavix and the aspirin I felt much better.
+DOCTOR: In what way?
+PATIENT: I felt normal.
+DOCTOR: Alright.  Where'd you have your surgery at?
+PATIENT: At [REDACTED].
+DOCTOR: Mercy Works?
+PATIENT: Yeah.
+DOCTOR: Uh when was that?
+PATIENT: Uh January 26th.
+DOCTOR: And things going okay?
+PATIENT: Yeah.  I'm getting ready, uh I'm using a robotic chair now for list, for motion and lift up my shoulder and uh I got another week of that and then I'm going to Physical Therapy.  I should be off work until August I guess.  I would've retired this year but I have to wait now and get that six months back so I'm retiring January 31st.
+DOCTOR: How's your blood pressure been?
+PATIENT: My blood pressure's been um, around the same thing it was like today, 142/80.  When I had the surgery, the same day of the surgery, my blood pressure was 180/100 and they took it five minutes later and it was normal.
+DOCTOR: And how's your foot doing?
+PATIENT: My foot's better.  My sugar has been great, average reading about 110-115.
+DOCTOR: And are you smoking?
+PATIENT: Still smoking yep.
+DOCTOR: About five cigarettes a day still?
+PATIENT: Yeah.
+DOCTOR: Now were you trying patches or anything like that?
+PATIENT: I had some patches yeah, I still got some, ain't doing no good.
+DOCTOR: Well you're almost there.
+PATIENT: Yeah, yeah.  I'm just waiting for that day when I can wake up and say I ain't smoking no more, just give it up.  I hope yes, that's what I pray for.
+DOCTOR: Alright, so you said your sugars has been running what?
+PATIENT: Uh between 90 and the highest it's been since I been on the medicine in September is 180 but it's averaging, on average its like 115.  I got that 180 cause I ate a lot of stuff I shouldn't ate but overall its like between 90 and 115.
+DOCTOR: Good.  Uh all your rehab is at Mercy Works?
+PATIENT: Uh yep.
+DOCTOR: Okay uh so a few things I would like to do.
+PATIENT: Alright.
+DOCTOR: Now that it's safe to hold the Plavix.
+PATIENT: Uh-huh.
+DOCTOR: Um I know the GI doctors that wanted to do another EGD and colonoscopy.
+PATIENT: Uh-huh.
+DOCTOR: Uh the scope from the upper and lower.
+PATIENT: Uh-huh.
+DOCTOR: Uh cause you know you had lost quite a bit of blood uh.  I don't remember when that was.
+PATIENT: Yeah.
+DOCTOR: I'm sure you, I think it was around what like March?
+PATIENT: Yeah that was when uh my stool had turned black.
+DOCTOR: Yeah.
+PATIENT: Uh-huh.
+DOCTOR: So um you know they wanted to repeated those tests to make sure everything was kind of resolved.
+PATIENT: Okay.
+DOCTOR: But they wanted to wait until it was safe to hold the Plavix.
+PATIENT: Okay.
+DOCTOR: And now you know we had to wait at least a year.
+PATIENT: Uh-huh.
+DOCTOR: Uh before we could hold the Plavix and I looked at DOCTOR’s note and she's saying you know you're probably going to need it life-long.  They're recommending lifelong Plavix but if you need to, for procedures like the surgery.
+PATIENT: Uh-huh.
+DOCTOR: Uh we're okay to hold it for that and she’d like to start it again as soon as possible, alright.  Other stuff um, I would like to get some blood work on you.
+PATIENT: Okay.
+DOCTOR: And uh and actually what are you doing for your blood pressure control?
+PATIENT: Um lisinopril and.
+DOCTOR: And.
+PATIENT: And another I forget.  Simvastatin?  Is that it?
+DOCTOR: Uh that's for your cholesterol.
+PATIENT: That's cholesterol, simvastatin is cholesterol uh.
+DOCTOR: It looks like we've just got you on the metoprolol.
+PATIENT: The metoprolol yeah that's it.
+DOCTOR: Uh now we can increase that.
+PATIENT: Metoprolol?
+DOCTOR: Yeah.
+PATIENT: To what?
+DOCTOR: 75 twice a day.
+PATIENT: 75, what am I taking now?
+DOCTOR: You're at 50.
+PATIENT: Oh okay.  75 twice a day.
+DOCTOR: I’m sorry, you've go the 50 mg tablets.
+PATIENT: Uh-huh.
+DOCTOR: But you're only taking half a pill a day.
+PATIENT: Half of that yes.
+DOCTOR: Uh so we can actually increase you to a full tablet.
+PATIENT: To the full tablet?
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: So that should make it easier so won't have to split that one.
+PATIENT: Okay yeah it is doc.  Well I've gotten good at it, I just take it and put them in my hands, even with it band working itself I can break it in half yep.  Same way with those uh cholesterol pills.  They're bigger, though.
+DOCTOR: Well let me take a look and listen to you.
+PATIENT: Alright.
+DOCTOR: So I can get you going.
+PATIENT: Right here?
+DOCTOR: Yeah.
+PATIENT: Alright.
+DOCTOR: This shoulder?
+PATIENT: Yeah.
+DOCTOR: Take a few deep breaths.  Okay breathe normal.  Squeeze my fingers close down, good.  And uh which toe had the trouble?  Was it the right one?
+PATIENT: It was the right one yeah.
+DOCTOR: It's uh; let's take a look at that.  It looks good.
+PATIENT: Yeah it was like that after three, three four weeks.  I mean I was blessed because it could've been worse than that couldn't it?
+DOCTOR: Right.
+PATIENT: Like my whole leg.
+DOCTOR: Yeah absolutely.  We do what we can and we try and get the infection taken care of as quick as possible but.
+PATIENT: Yeah I was going.
+DOCTOR: But people who get a small portion of a limb cut off often have to go back for you know take bigger hunks off.
+PATIENT: Really?
+DOCTOR: Oh yeah.  But I mean we try and do.
+PATIENT: Uh-huh.
+DOCTOR: We try and leave people with as much as we can.
+PATIENT: Yeah but that's what they did.  I got 3/4 of my toe anyway.
+DOCTOR: Yeah but uh you know some people have to have their foot, you know and all their toes taken off.
+PATIENT: Yeah.
+DOCTOR: And uh then you know the reason they have to have their toes taken off is that they've got bad diabetes or vascular disease.
+PATIENT: Uh-huh.
+DOCTOR: So that way there were problems in the first place but that also makes it difficult for that wound to heal.
+PATIENT: Okay.
+DOCTOR: So then it'll get infected again and the infection will move up and you keep going up the leg which isn't good.
+PATIENT: Oh okay.
+DOCTOR: And they want to take a little tiny piece off.
+PATIENT: Yeah.
+DOCTOR: Uh but, good, uh alright so uh I actually don't want to do a ton of changes with you since it sounds like you're doing pretty well.  So what I would like to do is repeat some blood work today, are you okay with that?
+PATIENT: Today?
+DOCTOR: Yeah.
+PATIENT: Yeah, that's okay.
+DOCTOR: Um so you can get down.
+PATIENT: What do those cholesterol pills actually do?
+DOCTOR: Lowers your cholesterol.
+PATIENT: Yeah.
+DOCTOR: The cholesterol, high cholesterol puts you at risk for like heart disease.
+PATIENT: Uh-huh.
+DOCTOR: Uh different vascular disease.
+PATIENT: Okay.
+DOCTOR: Uh, like do you hear about plaques forming in your heart?
+PATIENT: Yeah.
+DOCTOR: Or in your blood vessels.
+PATIENT: Uh-huh.
+DOCTOR: Uh cholesterol contributes to those plaques.
+PATIENT: Oh okay.
+DOCTOR: So the less you have in there the better off you are.
+PATIENT: Okay.  Okay.  So I'll take the whole pill of metoprolol?
+DOCTOR: Yeah.
+PATIENT: Starting tomorrow, I took a half pill today.
+DOCTOR: Yeah you could even start tonight if you want.
+PATIENT: Okay.
+DOCTOR: Take a whole pill tonight.
+PATIENT: Okay.
+DOCTOR: Cause you're taking it twice a day right?
+PATIENT: Twice a day.  Do I take it twice a day?
+DOCTOR: Yeah.
+PATIENT: Do I still take it twice a day?
+DOCTOR: Yeah.
+PATIENT: A whole pill okay.
+DOCTOR: When was your last colonoscopy?
+PATIENT: I never had one.
+DOCTOR: Never had one?
+PATIENT: A colonoscopy is when they go into your.
+DOCTOR: So yeah the same thing only when we go in through your rectum.
+PATIENT: Oh I never had that.
+DOCTOR: Okay.
+PATIENT: But I think they did send a scope up in when I was bleeding internally, they said I had ulcers or something.  Is that the same thing?
+DOCTOR: It's essentially the same thing.
+PATIENT: Oh.
+DOCTOR: It's a slightly different scope but yours wasn't exactly the same.
+PATIENT: Uh-huh.
+DOCTOR: But they go in from below.
+PATIENT: Uh-huh, okay.
+DOCTOR: So what we'll do, I'll put in a consult and have them do both.
+PATIENT: Today?
+DOCTOR: No, no.
+PATIENT: Oh okay.
+DOCTOR: Uh we'll get the uh, we'll do the blood work today; basically the way the system works it I’ll put it in.
+PATIENT: Okay.
+DOCTOR: And then the GI doctors will look at it and review the blood work we did today.
+PATIENT: Uh-huh.
+DOCTOR: And then they'll say like yes it's okay to schedule you for that procedure then uh.  You don't have a pacemaker, defibrillator, or anything like that?
+PATIENT: No.
+DOCTOR: Now you do have stents right?
+PATIENT: Yeah I have stents yeah.
+DOCTOR: Alright.
+PATIENT: One.
+DOCTOR: Okay, you're on metformin?
+PATIENT: What is that?
+DOCTOR: For your diabetes.
+PATIENT: Uh glipizide.
+DOCTOR: Glipizide.  So I want you on the same one, I need to get out so I do everything uh.  Let me put in these orders and then I'll make sure you can come back and do the labs. (Doctor working on computer 35:23 - 37:45)  I think at some point we're going to need you to repeat your cholesterol.  Uh but that'll likely come, we'll need to do it when you're fasting.
+PATIENT: Uh-huh.
+DOCTOR: So.
+PATIENT: What do you mean repeat my cholesterol?
+DOCTOR: The cholesterol test.
+PATIENT: Oh, oh the test.
+DOCTOR: Yeah.
+PATIENT: Okay.
+DOCTOR: So its blood work but you have to do it when you're fasting, so nothing to eat or drink.
+PATIENT: Okay.
+DOCTOR: Oh you can water; you can have your medications.
+PATIENT: Uh-huh.
+DOCTOR: But no.
+PATIENT: No food.
+DOCTOR: No coffee or food nothing like that.
+PATIENT: Oh alright.
+DOCTOR: Uh so uh if you can do that, you know, before you see me again.
+PATIENT: Alright.
+DOCTOR: I'd like to see you in three months.  Alright uh, that's all I got.
+PATIENT: Okay. Alright doc.
+DOCTOR: I'll renew all the meds.
+PATIENT: Okay.
+DOCTOR: So I'll change the metoprolol.
+PATIENT: Okay.
+DOCTOR: To 50 mg twice a day.
+PATIENT: Okay.
+DOCTOR: And [REDACTED].
+PATIENT: Alright.
+DOCTOR: And then uh we'll have you just slip back out here in the Waiting Room real quick and then we'll get you to do your blood work.
+PATIENT: Oh they do it right up here?
+DOCTOR: Yeah they'll do it, let me just make sure.
+PATIENT: Okay uh thank you doc.
+DOCTOR: Yeah.  We'll see if they can do it.
+PATIENT: Alrighty.
+DOCTOR: Take care.
+PATIENT: 39:36.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1249435
+TRANSACTION # 578-10-2-316-0103

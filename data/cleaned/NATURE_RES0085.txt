@@ -1,0 +1,73 @@
+DOCTOR: What brings you in?
+PATIENT: Yeah, so I just brought my son, went to the hospital. I've just been getting very concerned because he's making like these, like grunting noises for the last day and, like it's it's really worrying me, I don't know if he's like not breathing and I also just did like a temperature on him just this morning and it came up to like like a high 38, so I don't know what's going on, and then he's just very like irritable and just not himself I think.
+DOCTOR: OK, so all of this started a day ago, you mentioned?
+PATIENT: Yeah, it started yesterday, but the grunting started today, like, I think he was a bit on the warmer side last night as well, more irritable last night, but the grunting started this morning.
+DOCTOR: OK, Uhm, and you mentioned his fever was 38, correct?
+PATIENT: Yeah, I think it was like 38, 7 or something like that.
+DOCTOR: OK is he coughing at all?
+PATIENT: Uhm, yeah, I would say with the grunting there is some coughing in between as well.
+DOCTOR: OK, and is he bringing up any phlegm?
+PATIENT: Uhm, he's been having some spit ups as well. They're mainly like clear and whitish, but yeah I don't know if he's bringing anything else up. There's no green or yellow material though.
+DOCTOR: OK, any blood in there?
+PATIENT: No, I haven't notice any blood.
+DOCTOR: Does he sound wheezy?
+PATIENT: Uh no, it's mainly just the grunting.
+DOCTOR: OK, OK, does he look swollen to you?
+PATIENT: Uh, swollen as in just, uh, like in his.
+DOCTOR: In his, uh, like uh, legs, arms or belly area.
+PATIENT: No, I don't think so.
+DOCTOR: No ok, and uh, does he have a runny nose or a stuffy nose?
+PATIENT: No, I don't think so.
+DOCTOR: No, OK, how is his feeding?
+PATIENT: Yeah, it's it's been difficult. So right now, like his mom is at home, but she was having difficulty feeding. He's mainly breastfed right now.
+DOCTOR: OK.
+PATIENT: And he's not really been feeding too much either.
+DOCTOR: OK, and how about like the number of wet diapers he has?
+PATIENT: Just the normal like, that hasn't changed. He has like three or four in a day.
+DOCTOR: OK, OK, good. Have you noticed any changes to his bowel movements or urine?
+PATIENT: No, pretty much been the same.
+DOCTOR: OK, is he throwing up at all?
+PATIENT: Nope, just some spit ups, I don't know if that's, Just because of the coughing or if they're just spit ups, like, but nothing after eating.
+DOCTOR: OK, OK, have you noticed any rashes on him?
+PATIENT: No, no rashes.
+DOCTOR: OK, uhm, has he had any fainting spells or seizures?
+PATIENT: Uh, no, I've been really trying to make sure, like, I was worried if he gets blue or something that we would rush to the emergency department, but I haven't noticed anything like that.
+DOCTOR: OK, OK good. Has he been in contact with anyone who's been sick recently?
+PATIENT: No, I don't think so. We've been trying to be very careful with the pandemic and everything going on.
+DOCTOR: For sure, any travel to anywhere recently?
+PATIENT: No.
+DOCTOR: OK, and is he an other-wise healthy baby?
+PATIENT: Yeah, so, uh, healthy but he was born premature at 36 weeks.
+DOCTOR: OK.
+PATIENT: And no complications really with the pregnancy or after he was born. But yeah, he was premature.
+DOCTOR: OK, and so he didn't need any hospitalizations right after birth, right?
+PATIENT: No, he was fine after birth.
+DOCTOR: And no longstanding medical conditions after birth?
+PATIENT: No.
+DOCTOR: Has he needed hospitalizations for anything in the past, or surgeries?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and is he up to date with all his immunizations?
+PATIENT: Yeah, the two months vaccinations are all up to date.
+DOCTOR: OK, good. Medication-wise is he on anything?
+PATIENT: No, no medications.
+DOCTOR: OK, any allergies?
+PATIENT: No.
+DOCTOR: Any family history of lung conditions or heart conditions?
+PATIENT: No, not that we know of.
+DOCTOR: OK, any cancers in the family?
+PATIENT: Nope.
+DOCTOR: And who does he live with at home?
+PATIENT: Just me and my wife.
+DOCTOR: OK, uhm, in a house, apartment?
+PATIENT: In a house.
+DOCTOR: OK, any old carpets, mold, dust, asbestos, pets, anything like that at home?
+PATIENT: No, nothing like that.
+DOCTOR: OK, and does anyone at home smoke?
+PATIENT: Nope.
+DOCTOR: OK, well, those were all the questions I had for you. Did you have any questions of your own?
+PATIENT: Yeah, no, I was just really worried like, the grunting is just really scaring us. So do you, I was just wondering if you know what it could be.
+DOCTOR: Yeah, so the grunting is worrisome. He could have anything from bronchiolitis to pneumonia so what we'll do is, we'll, first get his temperature, we'll get his O2 sat and we will get some imaging done as well to see if it's more in line with bronchiolitis or pneumonia. If it's bronchiolitis, it will be supportive treatment so we can keep him here at the hospital because he is in some distress and we'll keep him hydrated and give him some oxygen. And if it's pneumonia, we'll prescribe him some antibiotics. How does that sound?
+PATIENT: Yeah, and will he need to stay in the hospital at all?
+DOCTOR: Yeah so for now, because, if he is in any distress and if he needs oxygen, and IV hydration, he'll need to stay in the hospital until he's better from that standpoint. I should also mention, we should do a covid swab on him as well because his symptoms are in line with covid as well, so we'll have to do that to rule it out.
+PATIENT: OK, yeah, that sounds good, Uh, uh, yeah, thank you so much.
+DOCTOR: Yeah, no worries.

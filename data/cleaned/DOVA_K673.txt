@@ -1,0 +1,221 @@
+PATIENT: I got it.
+DOCTOR: Got it alright.  [REDACTED].
+PATIENT: Ready.
+DOCTOR: Alright.  Sorry for the wait.  Uh you came here a little bit early today and usually we're able to sort of squeeze you in sometime but we weren't able to do that today.
+PATIENT: Okay.
+DOCTOR: But um so what brings you in here today?
+PATIENT: Well I uh, somebody scheduled me an appointment and that's all I know.
+DOCTOR: Okay.
+PATIENT: And I can tell you what's wrong.
+DOCTOR: Alright sounds good.
+PATIENT: Um it's a little, little muscle there.
+DOCTOR: Okay.
+PATIENT: It used to be the size of a football right here and now it's just like here right now.
+DOCTOR: Okay.
+PATIENT: I think the more I exercise the more it go down.
+DOCTOR: Oh really.
+PATIENT: See what happens, I come into the hospital and had a low blood count.
+DOCTOR: Uh-huh.
+PATIENT: So they took a bone biopsy right here.
+DOCTOR: Uh-huh.
+PATIENT: That paralyzed me all the way down.  So I can't walk right now.  You know I got a walker at home and uh this knee here, where it's got a pin in it, it give me a lot of, it give me a lot of trouble right here in this knee.  It's giving me a lot of trouble.
+DOCTOR: Uh when did you get the pin in it?
+PATIENT: Oh.
+DOCTOR: It's been a while?
+PATIENT: About 7 years.
+DOCTOR: Okay.
+PATIENT: And uh you know the hip, see when I'm trying, like if I want to try to get from here to that desk.
+DOCTOR: Uh-huh.
+PATIENT: This will give me a problem and then my hip would give me a problem you know.
+DOCTOR: And that's what limiting your abilty to move around?
+PATIENT: Right.
+DOCTOR: Okay.  See what the uh, looks like, excuse me; you had been in rehab for a little while.
+PATIENT: In what?
+DOCTOR: They had been in rehab for a little while.
+PATIENT: Yeah just a couple three times downstairs. Oh I got to ask you to get me reinstated for the rehab because they're calling me and when they call me I can't get to the phone so three calls they don't call me no more.
+DOCTOR: Okay.
+PATIENT: They told me I had to get you to reinstate me.
+DOCTOR: Alright I can put in another consult for that.  Excuse me.  Um just about done, I need a drink of water real quick.
+PATIENT: Alright.
+DOCTOR: To clear my throat.  (Doctor leaves for less than a minute to get some water).  I'm sorry about that.
+PATIENT: Alright.
+DOCTOR: Alright so.  Let's start with your, with your knee and your hip.
+PATIENT: Right.
+DOCTOR: Then we can, we'll take a look at it again today and we'll make sure we get you back in place with physical therapy.
+PATIENT: Alright.
+DOCTOR: Uh what else has been going on?
+PATIENT: Oh nothing I just kind of haven't had very much of an appetite but I'm gonna have to work on that you know.
+DOCTOR: Okay, over what time period did that change?  How long have you noticed that your appetite's low.
+PATIENT: Well every since I come here in the hospital.  The day I come into the hospital I couldn't eat when I was here.  I weighed 194 pounds and now I'm down to 164.
+DOCTOR: Okay.
+PATIENT: So uh when I left the hospital I weighed 174.  Since I've been home I haven't been eating but I got to make some more eating arrangements.
+DOCTOR: Okay, alright.  Um so I think uh vitamin supplements to take would be a good idea.
+PATIENT: Right.
+DOCTOR: And uh take in whatever you can.
+PATIENT: Right.
+DOCTOR: Um definitely good for keeping your energy level up.  Sometimes if you feel more energy you tend to eat more.  It's just kind of a, once it gets going it should help for.
+PATIENT: Right.
+DOCTOR: Wanting you to feel like eating.  Um so it looks like if I'm reading everything correctly uh, so I read about your hospitalizations and the rehab.  So then you had a blood, like sort of a hematoma or a big bruise that developed after the biopsy is that what?
+PATIENT: Well I don't know, you talking about this?
+DOCTOR: Yeah.
+PATIENT: Well actually this was like a football, way like this.
+DOCTOR: Uh-huh.
+PATIENT: Now it just back of my hand like this.
+DOCTOR: Okay.  Yeah that was blood there and that's a good thing.  If that was muscle not as good of a thing so.
+PATIENT: Yeah I don't know.
+DOCTOR: I think it probably, from what it sounds like; it was a big hematoma or blood clot that formed there.
+PATIENT: Uh-huh.
+DOCTOR: And so then your body's slowly going to re-absorb that.
+PATIENT: Right.  Cause you know since I been trying to get around, you know I been walking with two walking sticks.
+DOCTOR: Uh-huh.
+PATIENT: And I got a walker.  So uh I'm doing better.
+DOCTOR: Okay good.
+PATIENT: Uh-huh.
+DOCTOR: Um and it looks like next week you have an appointment with the hematologist.
+PATIENT: Next week [REDACTED].
+DOCTOR: Uh.
+PATIENT: No, no, the GI tomorrow.
+DOCTOR: Yeah the 13th.
+PATIENT: Okay.
+DOCTOR: Um.  It looks like they want to follow up on some of what they got out of the biopsy.
+PATIENT: Okay.
+DOCTOR: Sound about right?
+PATIENT: Yes, uh-huh.
+DOCTOR: Okay.  Let's see if I can find the report here.  Okay.
+PATIENT: (Patient belches.) Excuse me.
+DOCTOR: No problem.  Alright.  So other than the uh pain in your hip and your knee um is there any other thing that's bothered you?
+PATIENT: No.
+DOCTOR: No.  Have you been feeling like dizzy when you stand up, that sort of thing?
+PATIENT: No I was feeling woozy today because I haven't eaten nothing too much.  I ate half of a cheese sandwich, cheese grilled cheese and I ate a honey bun a while ago.  I think and I didn't take all my blood pressure medicines.  But otherwise than that, I been alright.
+DOCTOR: Okay.  I'm just going to write a few of these things out so I don't forget.  Uh.
+PATIENT: I need an appointment with the foot specialists.
+DOCTOR: Okay.  Have you seen them?
+PATIENT: No, no.
+DOCTOR: You need to see the foot specialists?
+PATIENT: Yeah because it's like a bunion like.
+DOCTOR: Bunion okay.  I'll take a look at it and I'll also uh we can get you in to see them pretty easily.
+PATIENT: Alright.
+DOCTOR: Any bleeding that you've noticed from anywhere?
+PATIENT: No.
+DOCTOR: Okay, alright, let’s continue here.  You haven't had any chest pain or shortness of breath?
+PATIENT: No.
+DOCTOR: Okay.  Alright.  Alright take a couple deep breaths there.  Is there any movements that make this hip pain worse?
+PATIENT: No it just.
+DOCTOR: Just when you're weight [REDACTED].
+PATIENT: Trying to walk yeah.  No I don't have no pain, just when I try to walk, you know you can feel it and all this, you know is numb like.  I got feelings; see now like if you didn't have no feelings and the feeling come back in it, well that's its like.
+DOCTOR: Okay so it's not, it doesn't feel, you don't feel the same over here as you do over here?
+PATIENT: No.
+DOCTOR: But you still feel it?
+PATIENT: Yeah.
+DOCTOR: Okay.
+PATIENT: Yeah.
+DOCTOR: Alright.  Okay.  Well uh and that's somewhat improved from whenever you had the biopsy done?
+PATIENT: Right uh-huh.
+DOCTOR: Okay.  Well hopefully that'll continue to improve and I hope physical therapy would be able to get some.
+PATIENT: Yeah I'll be alright after a while.
+DOCTOR: [REDACTED].
+PATIENT: I want to get around those areas.
+DOCTOR: Alright and I wanted to see one other.  I'm looking at the last time; make sure we didn't miss anything.  Do you check your blood sugars at home?
+PATIENT: No.
+DOCTOR: [REDACTED]
+PATIENT: Right.
+DOCTOR: Alright and uh how long did they hold your Coumadin when you were in the hospital?
+PATIENT: They didn't cause I had Coumadin in the hospital.
+DOCTOR: Oh they didn't, okay, okay.
+PATIENT: Hmm.
+DOCTOR: I thought I read something about that.
+PATIENT: They might have it for whatever time they wanted it but I had the Coumadin you know like every day.
+DOCTOR: Okay.
+PATIENT: They had reduced the dosage and then they went back up.
+DOCTOR: And uh you still follow with Urology?
+PATIENT: Urology?
+DOCTOR: Yeah.
+PATIENT: What's that?
+DOCTOR: For the prostate.
+PATIENT: Oh. I got some; I got to go to them tomorrow, yeah.
+DOCTOR: Okay.  Your blood pressure is a little bit elevated today but it's better than it has been so I think we might just continue to watch it for now.
+PATIENT: Alright uh-huh.
+DOCTOR: Um.  So your hemoglobin last week was good, it was 9 1/2, about where it had been.
+PATIENT: Hmm.
+DOCTOR: And let's see when the last time we checked your cholesterol was, a couple weeks ago.
+PATIENT: (Patient belches.) Excuse me.
+DOCTOR: Yes.  And I don't see your A1c.  It was last checked in April, 5.7 so it was excellent.  I got to talk to the boss um and uh we'll get you back to therapy and make sure all your medications are up-to-date and uh I think that'll probably about do you for now, so I'll run everything by him and I'll be back in a little bit.
+PATIENT: Alright, alright.
+(DOCTOR OUT:  153:4  DOCTOR IN:  170:29)
+DOCTOR: Sorry about the wait.
+PATIENT: It's alright.
+DOCTOR: I had to wade through a lot of your records uh with the boss.  Um but I think we have a pretty good plan.  Your blood pressure is still a little bit elevated today so we're gonna start you on a low dose of lisinopril.  We're going to start you on lisinopril um furosemide or Lasix.
+PATIENT: I got enough high blood pressure medicine, I just didn't take it.
+DOCTOR: Oh you just didn't take it?
+PATIENT: Yeah that why I come expecting that. (Dr. is interrupted.)  How you doing.  See I think it's hard for me to get dressed.
+DOCTOR: Uh-huh.
+PATIENT: So I [REDACTED] up so I didn't have time to eat or nothing so what I did, cause I was sick last night so I didn't, I just fell asleep this morning so I took, what is that, start with the I uh, no nifedipine.
+DOCTOR: Nifedipine okay.
+PATIENT: My nifedipine and I took those Warfarin tablets.
+DOCTOR: Okay.
+PATIENT: That ain't the time to take them but I told her what happened.
+DOCTOR: Uh-huh.
+PATIENT: So if I take what I got I'll be alright.
+DOCTOR: Okay yeah I was confused.  I thought you said that you grabbed a sandwich so you could take your medicine.
+PATIENT: I did but that was after I was on my way here.
+DOCTOR: Okay.  So you didn't have all your medications today.
+PATIENT: No I grabbed the one, I ate half of a sandwich and I took that medication in the car.
+DOCTOR: Okay.  Alright well that makes me feel a little bit better about where things are.
+PATIENT: Right.
+DOCTOR: Um so we can probably hold on making any changes.
+PATIENT: Right.
+DOCTOR: Uh we'll just try that.
+PATIENT: And I got a lot of them.
+DOCTOR: You got a lot of pills to take.
+PATIENT: Yeah you know [REDACTED] nifedipine 120 and I got another one that's 100, that's a lot of pills.
+DOCTOR: Yeah it is, it is.  So that actually makes me feel better about this um and it'll be easier for you to not make any changes right now.  One of your appointments is with the kidney doctors.
+PATIENT: It is oh.
+DOCTOR: Yeah and then you got a ton of appointments coming up.  One of them coming up is with the kidney doctors and they specialize in high blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: And uh and so they can sort of see your regimen as well to see if there's anything we need to change.
+PATIENT: Alright.
+DOCTOR: Okay.
+PATIENT: Good.
+DOCTOR: Um and is there anything that came to your mind, I know this has been going on for a little but, but anything that came to your mind in the meantime that we need to address as well?
+PATIENT: No I'm alright.
+DOCTOR: Okay.  So.
+PATIENT: Oh um just make me an appointment with the, well I do that when I come back, make an appointment with some people cause I got too many appointments right now.
+DOCTOR: Okay.  Oh you mean with the physical therapy?
+PATIENT: With the foot.
+DOCTOR: Oh.
+PATIENT: Why don't you make one with the therapy yeah.
+DOCTOR: Yeah I'll make that cause that's not gonna be right away anyway.
+PATIENT: It's in July they said.  They can't get me till July.
+DOCTOR: Okay they just need me to put the order back in.
+PATIENT: Yeah.
+DOCTOR: Okay.  There we go, alright and then we'll talk about your Podiatry at the next visit.
+PATIENT: Alright.  Uh could I just go up and get a walking stick or you have to have a order?
+DOCTOR: Uh oh the cane?
+PATIENT: Yeah.
+DOCTOR: Yeah I'll put an order in since uh.
+PATIENT: Is it too late for today?
+DOCTOR: I'm not sure, they might be open till 5, it's worth a shot.  I'll put the order in.  Then if they are closed you can go up there when your next appointment is, they should be available.  So I'll put the order in now.  Alright, yeah so if you want to get the cane today and uh we'll see you back here in about three months.
+PATIENT: Alright.
+DOCTOR: We'll put it off a little bit and everyone else can do their thing.
+PATIENT: Alright, what floor is that?
+DOCTOR: Prosthetics I believe they're on the third floor, but I would ask at the front desk.
+PATIENT: Alright.
+DOCTOR: They know for sure okay.
+PATIENT: Alright good.
+DOCTOR: Anything else I can do for you today?
+PATIENT: No everything cool.
+DOCTOR: Alright.  Thanks so much.
+PATIENT: Alright thank you.
+DOCTOR: And uh I'll give you a hand out there if you want.
+PATIENT: Alrighty.
+DOCTOR: It's a little tough to navigate this hall here sometimes.  Alright I got this.
+PATIENT: Okay thank you.  Alright I got it now.
+DOCTOR: You got it.
+PATIENT: Thanks.
+DOCTOR: Alright take care, no problem.
+PATIENT: You too.
+PATIENT: 177.0
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1286150
+TRANSACTION # 578-10-2-316-0103

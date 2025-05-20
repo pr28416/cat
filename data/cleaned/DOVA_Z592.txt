@@ -1,0 +1,75 @@
+DOCTOR: PATIENT?
+PATIENT: That's me.
+DOCTOR: Hi, come on back.  [REDACTED].
+PATIENT: You said PATIENT, [REDACTED]
+DOCTOR: Yeah PATIENT.
+PATIENT: Oh alright.
+DOCTOR: Good.  I'm DOCTOR; I'm one of the residents.  Sorry about the wait.  Come on back this way.  So it looks like the last time you were here you saw DOCTOR.  So you can just have a seat right over here.
+PATIENT: Okay.
+DOCTOR: And it looks like, frankly, things are doing pretty good, so all I see that last time we started you on some the cholesterol medicine and a aspirin, is that right?
+PATIENT: Repeat that again.
+DOCTOR: The last time you were here everything was going good.
+PATIENT: Yes.
+DOCTOR: They got some blood work so you were started on a cholesterol medicine.
+PATIENT: Yes.
+DOCTOR: Okay and a aspirin.
+PATIENT: Yes.
+DOCTOR: And that's it.
+PATIENT: Yep.
+DOCTOR: So you're only on four medicines it looks like.  You're on propranolol for your blood pressure, you're on Flomax for your prostate, you're on simvastatin for your cholesterol and you're on aspirin for prevention and that's it right?
+PATIENT: Yeah.
+DOCTOR: And how are you feeling?
+PATIENT: Alright.
+DOCTOR: Good.  Now we probably don't have to do anything.  Oh so it looks like uh last time you were here that your blood pressure medicine was switched from propranolol to metoprolol twice a day.
+PATIENT: Yeah I take a half pill.
+DOCTOR: Perfect.  So your blood pressure today looks fine.  Do you have a home blood pressure cuff to check your blood pressures?
+PATIENT: No.
+DOCTOR: So let's give you one of those cause you know sometimes your first number when you got here was a little bit high.
+PATIENT: Uh-huh.
+DOCTOR: Being at the doctor's office tends to make people nervous so instead of us going up on your medicines, if your blood pressure at home is fine we'll just check your blood pressure.
+PATIENT: Uh-huh.
+DOCTOR: At home and then we just leave things as they are.  And thankfully, at your age you're doing so well, there probably isn't a whole lot else that we need to do.  Let's see if there is anything on our reminders list.  They gave you a flu shot today which is great, excellent.
+PATIENT: Yeah.
+DOCTOR: Let me note that so that, yes so remember things, good, see if there's anything on our reminders list as far as special things.  Uh let's see, do you think you've ever had a tetanus shot.  When do you think the tetanus shot was, do you know, do not know?  Tetanus shot.
+PATIENT: I don't know if I ever had a tetanus shot.
+DOCTOR: Are you interested in a tetanus shot?
+PATIENT: What is it I'd like to know?
+DOCTOR: So basically tetanus, like if you would step on a rusty nail you could probably get a tetanus infection where basically all of the muscles in your body kind of lock and you end up not being able to breathe so if you feel like it's pretty unlikely that you would step on a rusty nail or get bitten by an animal then you can go ahead and defer it but we recommend if for everybody just in case.  Might as well right?  Cause it couldn't hurt.  So we'll put that in, so let the nurse give that to you.  And then uh you quit smoking right?
+PATIENT: I never smoked.
+DOCTOR: Never smoked.
+PATIENT: Oh wait a minute, I did.  I haven't smoked in over 50 years.
+DOCTOR: Amazing, good, good, good, good.  Let's keep up that good work and let's see, we talked about this.  And do you live by yourself?
+PATIENT: Yes.
+DOCTOR: Good, wow and you do everything on your own?
+PATIENT: Yes.
+DOCTOR: Good.  That's more than I can say for lots of people my own age who seem to need a lot more help, good.  So that is good news definitely.  And as far as, so you're on the medication to help with your prostate uh are you getting up a lot at night to pee or are you sleeping okay through the night?
+PATIENT: No I get up maybe four times a night.
+DOCTOR: You're getting up, does that bother you?
+PATIENT: No I'm used to it.
+DOCTOR: Okay.  I mean we could certainly send you to the urologist.  We could change the medicines around if you want but if you don't care then we don't care.  It's up to you.
+PATIENT: It's alright.
+DOCTOR: Okay good and let's see you're scheduled to see the eye doctors it looks like in a couple of weeks.
+PATIENT: That's on the 6th.
+DOCTOR: Perfect and you saw the hearing doctors last week.
+PATIENT: Yeah.
+DOCTOR: And they made some adjustments.
+PATIENT: They did, they gave me my hearing aids.  However I got to go back.
+DOCTOR: Oh, okay good.  So let me just take a quick look and then we'll have the nurse give you your shot and we'll get out of here.  We don't need to keep healthy people at the doctor's office, you got more important things to do.
+PATIENT: Okay what you gonna give me that tetanus shot?
+DOCTOR: Oh the nurse is.  I'm just going to take a quick look and a listen to your heart and lungs.
+PATIENT: Okay.
+DOCTOR: Good.  Let me see if the nurse is free.  I'll walk you right over there and get your shots and then we'll get you out of here.  Do you have enough of all your medicines at home?  Do you need refills?
+PATIENT: Uh.  No I'm alright yeah.
+DOCTOR: Okay so then the only thing today that you are gonna need to do is to go up to Prosthetics and pick up a home blood pressure cuff.  So that's on the third floor of this building here.
+PATIENT: Oh okay.
+DOCTOR: In the Ogden Building, so we'll have you do that.  Let me order this for you.
+PATIENT: Now are there instructions on that and how to use the thing?
+DOCTOR: Uh they'll show you.  You just put your arm in it and I think it's automatic.  They'll show you when you pick it up.  Let me go see if the nurse is free, I'll get you over here, we'll get you out of here, I'll be right back.
+PATIENT: Alright.
+(DOCTOR OUT:  70:17  DOCTOR IN:  74:18)
+DOCTOR: Alright, so let’s walk you around for your tetanus shot.  So we're going to go this way.  [REDACTED]  Oh don’t forget your hat, yeah.  So you can come around this way, we'll drop you where the nurse’s desk and you get that blood pressure cuff and you are out of here.  I'll make sure you have enough refills until your next appointment.  [REDACTED] one more time.  You [REDACTED] we'll have you wait right over here.  You can just stand wait here, should I get you a chair, do you feel like you can hang out here okay?  Well you just have to sit back out in the waiting area and they said they'll call you.
+PATIENT: 75:33.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1300281
+TRANSACTION # 578-10-2-316-0103

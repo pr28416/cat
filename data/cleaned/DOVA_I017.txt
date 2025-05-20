@@ -1,0 +1,549 @@
+DOCTOR: PATIENT?
+PATIENT: Yes.  Hey, you're late.
+DOCTOR: I know, sorry the computer wasn't working.
+PATIENT: I don't care.
+DOCTOR: I'm sorry.
+PATIENT: I don't.
+DOCTOR: Will you cut me a break because it's a holiday?
+PATIENT: No.
+DOCTOR: No.  Not even for the holidays, please?
+PATIENT: No, double no, yes.
+DOCTOR: I [REDACTED].
+PATIENT: Anything you want as long as DOCTOR.  Oh we got a new office in there now.
+DOCTOR: Yeah, just what I'm saying I had to find a room.
+PATIENT: Yeah so how have you been doing?
+DOCTOR: I've been good.  How have you been doing?
+PATIENT: I've been, I'm doing good.
+DOCTOR: Yeah did you bring in your uh your.
+PATIENT: No you know I forgot it.
+DOCTOR: And you're getting mad at me, you're getting mad at me and you forgot it.
+PATIENT: Yes.
+DOCTOR: Which you knew I was gonna ask about it.
+PATIENT: I knew exactly what it was.  When I got in the van this morning I went oh.
+DOCTOR: That’s what you get.  Well I haven't seen you in a while.  You saw, you saw me like a while ago and then you saw DOCTOR, you saw DOCTOR, no.
+PATIENT: But I did blood work in be, you know.
+DOCTOR: You did.
+PATIENT: So check it out from that point.
+DOCTOR: Alright let’s see.
+PATIENT: If I had saw you this morning.
+DOCTOR: Uh-huh.
+PATIENT: I was gonna say why don't you put a prescription in for me to get my blood work and then we'll both know how accurate.
+DOCTOR: Oh hmm.  I'm sorry I got late.
+PATIENT: Yeah.
+DOCTOR: It's not my fault.
+PATIENT: I thought you were in a meeting but it was the nurses that were in a meeting.
+DOCTOR: Yeah I never, I never have meetings.
+PATIENT: You never have meetings.
+DOCTOR: Not even for the clinic.
+PATIENT: You just like to be late.
+DOCTOR: No the computer is, I'm not going to bore you with the details.
+PATIENT: Right, right, right, right.
+DOCTOR: But anyway so, let's see so your labs you got in October.
+PATIENT: Uh-huh.
+DOCTOR: Your, your lipids are okay.  They're a little bit high for my taste, but just a little bit high.  So your blood sugar was high.
+PATIENT: I've lost weight.
+DOCTOR: You did, let's see.
+PATIENT: Yeah look at it.
+DOCTOR: Today you are 230 pounds.
+PATIENT: 230 pounds, before I was.
+DOCTOR: Look at you, you lost four pounds!
+PATIENT: Hey.
+DOCTOR: Nice job.  How'd you do it, give me some lessons.  Sitting around?
+PATIENT: Push away from the table and eat smaller portions.
+DOCTOR: Good for you.
+PATIENT: Yeah.
+DOCTOR: Um let's see, what else.  Last time you came in you were having some left ankle pain, shooting pain in both your toes and hands, especially on the right side, still have it?
+PATIENT: You know what, it still goes on and DOCTOR kept me on that uh, I can't pronounce the name of it.
+DOCTOR: Gabapentin?
+PATIENT: That's it.
+DOCTOR: Okay.
+PATIENT: But do you have anything stronger?
+DOCTOR: Well what dose are you on?  We can increase it.
+PATIENT: Well I did because uh its 300 mg I think and I'm taking two each time.
+DOCTOR: We can increase it even more than that.  That's what you're supposed to do with that medicine, you're supposed to increase it until it starts helping.
+PATIENT: Okay.
+DOCTOR: Cause the pain you have is called, it seems like the way you describe it, the kind of the way you're describing like shooting pain.
+PATIENT: Yes.
+DOCTOR: It sounds like what we call neuropathic pain.
+PATIENT: Right.
+DOCTOR: And that can happen in patients with diabetes and can be perfectly controlled.
+PATIENT: So you're saying it's all my fault?
+DOCTOR: Nothing is your fault.  I'm just saying why it happens.  You can interpret that however you like.
+PATIENT: Did I show you what happened to my toes?
+DOCTOR: Nope.
+PATIENT: Now Podiatry, Podiatry actually was doing their thing and I told them, I said my toes have been bothering me so I said, do I have gout or something, but he said no, but when he cut my toenails he did it like that everywhere but since then, the toenail has come off.
+DOCTOR: How long ago was this?
+PATIENT: Toenails been off now uh.
+DOCTOR: And that's not attractive, let's see.
+PATIENT: Wait a minute [REDACTED] so you remember uh Boomerang with Eddie Murphy?
+DOCTOR: Yeah.
+PATIENT: You remember when he pulled the tassels off the different toes?
+DOCTOR: Yeah.
+PATIENT: Well you gonna kick me out there.  Is that how you're gonna treat me?
+DOCTOR: (Laughter)  No.
+PATIENT: No you gonna keep me?
+DOCTOR: I'll keep seeing you even when your toes look funky.
+PATIENT: Wait a minute, wait a minute, not just my toe.
+DOCTOR: Oh no there's more?
+PATIENT: There's more.
+DOCTOR: When was this?
+PATIENT: This happened uh.
+DOCTOR: August?
+PATIENT: Uh now that one looks a lot better.
+DOCTOR: You need to go see Podiatry again.
+PATIENT: But you know what, this toe doesn't, okay.  Look here, I can bend that.
+DOCTOR: Uh-huh.
+PATIENT: Ever since the surgery I'm not getting the range in it.
+DOCTOR: With your surgery, ever since they did [REDACTED].
+PATIENT: Yeah and I think I want them to take these pins out.
+DOCTOR: And Ortho did that to you right?
+PATIENT: Yeah I want them to take.  Now they took seven out on that side but see look at my skin.  What's going on with that?
+DOCTOR: I'm gonna have you see Podiatry again.
+PATIENT: Now look at here.  But uh.
+DOCTOR: You have avulsion?
+PATIENT: Yeah.  But that's what they dark, it looks dead or something.
+DOCTOR: Is it cold?
+PATIENT: No but sometimes it feels frozen but it's not cold.  So grow another foot.
+DOCTOR: I'm going to.
+PATIENT: Alright, sure.
+DOCTOR: Alright let's see what else you've got.  I see you had some lower extremity swelling last time.
+PATIENT: Alright.
+DOCTOR: The last time you came in, lower extremity, your legs were swelling up.  Still happening or?
+PATIENT: No we did the ultrasound. You know what I think it was?
+DOCTOR: Hmm.
+PATIENT: [REDACTED].
+DOCTOR: Yeah.  Are you still using your um, what's it called, our TED hose?
+PATIENT: What?
+DOCTOR: They gave you some like, some stockings.
+PATIENT: The stockings, that thing was, that was murder getting the thing on and off just like.
+DOCTOR: So yes or no?
+PATIENT: That's what I mean.  Now before I had the accident I could put them on and I could deal with it.  Once they're on their fine.
+DOCTOR: Okay.
+PATIENT: But when you try and put them bad boys on.
+DOCTOR: Yeah.
+PATIENT: Oh.
+DOCTOR: How long has your foot been this color?
+PATIENT: Since the accident.
+DOCTOR: Okay since the accident but it hasn't changed right?
+PATIENT: It hasn't changed.  I mean it's like.  You would think by now I would get color in my you know.
+DOCTOR: When was the accident?
+PATIENT: Uh April 23rd.
+DOCTOR: This year right.
+PATIENT: Of 08.
+DOCTOR: 08.
+PATIENT: Yeah and also does that toe look lose or something?
+DOCTOR: Hmm no.  So let me finish this and I'll examine your feet okay.  Um you got all your meds?  You need any refills?
+PATIENT: I need refills.  Everything that's refillable please refill it.
+DOCTOR: Everything that's refillable.
+PATIENT: Yes.
+DOCTOR: Your blood pressure's pretty good today.
+PATIENT: I thought that was kind of low cause normally I have excellent blood pressure.
+DOCTOR: Well let's see, cause it depends.  Like my blood pressure is usually 80/50.
+PATIENT: Oh see now mine was 117 over 80, that was 90.
+DOCTOR: Last time you came 96/58, you were 109/67 last time so not bad, 116.  Did they start a new need blood pressure medicine on you?
+PATIENT: No.  You know I think she was trying that one blood pressure medicine and that's the one I had the reaction and she said take it in half.
+DOCTOR: No your blood pressure's been fine.
+PATIENT: I’ll be honest [REDACTED].
+DOCTOR: You're not taking that blood pressure, so what medications are you taking?
+PATIENT: You know what, I'm so used to them all, [REDACTED].
+DOCTOR: But do you know how many blood pressure medicines you're taking?
+PATIENT: One.
+DOCTOR: Just one.
+PATIENT: Yeah, if you name it I can tell you.
+DOCTOR: Lisinopril?
+PATIENT: Yep.
+DOCTOR: Okay.  Oh that's fine.  That's the only one you're actually prescribed on here.
+PATIENT: Yeah.
+DOCTOR: Alright I'm going to refill your meds then we'll look at you.
+PATIENT: Let's see what all you gonna refill.
+DOCTOR: Gabapentin and I'm going to increase it.
+PATIENT: Okay.
+DOCTOR: So right now you're taking 300 mg three times a day.
+PATIENT: I'm just resting, that's good.  [REDACTED].
+DOCTOR: That's okay, [REDACTED].
+PATIENT: Okay.
+DOCTOR: Um let me go check with DOCTOR since she saw you last.  I'll see what adjustments she wants me to do with you.  I'm gonna refill on your insulin.
+PATIENT: Yes.
+DOCTOR: Your aspirin, alcohol prep pads, simvastatin, multivitamin, niacin, lisinopril, metformin.
+PATIENT: Yes.  Lancets.
+DOCTOR: You need lancets too?
+PATIENT: Yes.
+DOCTOR: You need more of your vardenafil?
+PATIENT: Which one?
+DOCTOR: Vardenafil the um Viagra.
+PATIENT: They haven't sent that to me in like three months.
+DOCTOR: Probably because you're out of refills.  I'll put one in for you.  Um you want these mailed to you or do you want to pick them up here?
+PATIENT: I want the macho dose.  I want them right through the roof.
+DOCTOR: Do you want to pick them up here or do you want them mailed to your house?
+PATIENT: Mail them to me.
+DOCTOR: Okay.
+PATIENT: Now wait a minute.  What was that movie with Chris Rock in it, uh I love my wife.
+DOCTOR: Uh-huh.
+PATIENT: And he took it and then they called the ambulance only they had to suit him and stuff, that's the way I want to be like that man.  Something crazy.
+DOCTOR: Alright I'll see what I can do.
+PATIENT: Makes me filled with love.
+DOCTOR: I'll see what I can do.
+PATIENT: Cause I'm not satisfied with the way he's been acting.  He's really been letting me down.
+DOCTOR: Yeah.
+PATIENT: Yeah it's like you know, I can be pumped up and everything.
+DOCTOR: Uh-huh.
+PATIENT: And as soon as he gets there he says it's dark in here I'm coming out you know and he's.
+DOCTOR: Yeah.
+PATIENT: I mean he not only goes into his shell, I'm like dude come on, I need you man, don't let me down now.  I been, you know.
+DOCTOR: What about um your glucose strips, do you need more of those?
+PATIENT: Yes.  Needles.
+DOCTOR: Needles, lancets, syringes.  Do you use the 0.5 mL.
+PATIENT: Yes.
+DOCTOR: Or the 1 mL syringes?
+PATIENT: What do you mean?  What do you mean?
+DOCTOR: So there's two different kinds of syringes.  One you can fill up half a milliliter and one you can fill up one milliliter.
+PATIENT: 10, 20, 30, 40, 50, 60.
+DOCTOR: Okay it goes 60, 70, 80, 90, 100?
+PATIENT: That's right, which one is that?
+DOCTOR: I think that's the 1 milliliter.
+PATIENT: Ask DOCTOR, she doesn't like to cause she thinks it's addictive but she knows that I'll stop taking medicine and I take it you know as I need it.  Tell her I do need a refill on my Vicodin.
+DOCTOR: What do you need the Vicodin for?
+PATIENT: Cause it helps me with my pain.
+DOCTOR: Which pain?
+PATIENT: With the pain that I have.
+DOCTOR: In your foot?
+PATIENT: Yes.
+DOCTOR: Cause that is not indicated for the kind of pain you're having.
+PATIENT: I understand that, she knows that.  She knows that.
+DOCTOR: Uh-huh.  I'll ask her what she thinks but you know.  I don't usually give it out.
+PATIENT: Right.
+DOCTOR: That's something I agree [REDACTED] practicing medicines.
+PATIENT: When was the last time I was seen here in October?
+DOCTOR: October.
+PATIENT: Okay she gave me 30 pills then.
+DOCTOR: Uh-huh.
+PATIENT: I still have like 9 but I was just saying I don't want to run out.
+DOCTOR: How often are you using them?
+PATIENT: As needed.  I don't take them daily.
+DOCTOR: So like one every other day, two every other day?
+PATIENT: One every other, maybe once Monday, maybe Thursday then again maybe next Tuesday.
+DOCTOR: Uh-huh.
+PATIENT: Or whenever that pain, it just really gives me the flux.
+DOCTOR: Um tell me about your blood sugars at home, are you checking them?
+PATIENT: Not, not like you know.
+DOCTOR: Tell me what they read when you check them.
+PATIENT: I've been under 200.
+DOCTOR: Under 200 is good.  It's not.
+PATIENT: No, no, no wait a minute now, I think my highest is like 208.  I haven't been keeping those records and I'm, I need to.  I'm telling you when I check my sugars, my sugars have been good.
+DOCTOR: Good in what sense?  They shouldn't be up in the 150s, 160s.  That's not good.
+PATIENT: But I'm hard-headed.
+DOCTOR: I know you are.
+PATIENT: You know that.
+DOCTOR: I know you are.
+PATIENT:
+DOCTOR: tell you, he, he’s a tough turkey right, I be better than before.  I'm better than I used to be.
+DOCTOR: So we need to have you.  Have you seen the eye doctors?
+PATIENT: Not in a while.
+DOCTOR: We need to have you see the eye doctor.
+PATIENT: Wait a minute.  These are new glasses here. I'm not going to get me a new prescription unless they gonna pay for them.
+DOCTOR: You're not really a prescription for now on because people with diabetes have risks for eye problems so we just like you to see the eye doctor once a year okay.
+PATIENT: Yeah.
+DOCTOR: So we need to schedule an appointment for the eye doctor.
+PATIENT: Put it in there.
+DOCTOR: Um you should just be able to schedule it when you go up front cause you've seen them here before right?
+PATIENT: Yes they're the only ones that I've seen for my eyes.
+DOCTOR: Um and then the other thing you were supposed to see the liver doctors.  Did you ever see them?
+PATIENT: You know what, I cancelled that appointment I think that was the day we buried my grandfather and I had to cancel that appointment and I didn't make a new one.
+DOCTOR: Okay.  They can do that for you up front too.  And I think you're gonna end up having to see the diabetic, the Pharmacy because of your diabetes your hemoglobin is too high and uh.
+PATIENT: Uh DOCTOR.
+DOCTOR: Uh-huh.
+PATIENT: That's like.
+DOCTOR: When was the last time you saw her?
+PATIENT: When I had the blood clot in my groin.
+DOCTOR: Yeah.
+PATIENT: And they had me on the uh.
+DOCTOR: Coumadin?
+PATIENT: Heparin and Coumadin.
+DOCTOR: Yep.
+PATIENT: I was doing two shots a day, the Coumadin.
+DOCTOR: Uh-huh.
+PATIENT: I was here every other day.
+DOCTOR: Uh-huh.
+PATIENT: I mean they had a track going checking my stuff out.
+DOCTOR: Yeah.
+PATIENT: Yes.
+DOCTOR: Well you're gonna have to see her about uh.
+PATIENT: Why?
+DOCTOR: Because we need to get your diabetes under control so I'm probably gonna have you, we might change your meds around a little bit because are you taking your meds religiously?
+PATIENT: Yeah.
+DOCTOR: Every day?
+PATIENT: 85 in the morning, 65 in the evening and every now and then.
+DOCTOR: And that's [REDACTED]?
+PATIENT: Yes.  Every now and then I bump it or you decrease it but I.
+DOCTOR: You're taking every day without fail right?
+PATIENT: Yeah.
+DOCTOR: So we probably have to increase it is the problem.
+PATIENT: Man.
+DOCTOR: Cause you're not getting good blood sugar.
+PATIENT: When am I gonna not be a diabetic?
+DOCTOR: When you lose a whole bunch of weight.
+PATIENT: Well help me out; give me a diet pill or something.
+DOCTOR: Diet pills are not safe, nor are they healthy and I would never prescribe them.
+PATIENT: But.
+DOCTOR: They are really bad for you.
+PATIENT: You got a lot of medicines that you won't prescribe, come on, help me out.
+DOCTOR: I get it.  I never said I'd never prescribe [REDACTED].
+PATIENT: Look at you, you all slim and trim, how do you do it?
+DOCTOR: I work out five times a week, I really work at it.
+PATIENT: Get me in that or whatever you doing.  Look help me work out (laughter).
+DOCTOR: [REDACTED] you will be motivated to keep working out.
+PATIENT: Uh I'm gonna work, that'll just slow me down.
+DOCTOR: (Laughter)
+PATIENT: But I'll be like, Hmm, she’s fine.
+DOCTOR: You gotta show off with right so.
+PATIENT: But wait a minute, you know what if I take off, see that's what like now I can't be barefooted.
+DOCTOR: Yeah cause it hurts or?
+PATIENT: Yeah it kills me [REDACTED].
+DOCTOR: Okay let me see you, let me examine you and we'll do your feet last okay.
+PATIENT: Oh do I take off my shoes?
+DOCTOR: Nope not yet.  Actually take off your sweatshirt.
+PATIENT: I'm [REDACTED] dress shirt.  (Laughter)
+DOCTOR: (Laughter)  Oh, that's what you come to the doctor for.
+PATIENT: Yes, all the doctors are ladies.
+DOCTOR: (Laughter)  Give me some deep breaths in and out through your mouth.
+PATIENT: I can't [REDACTED].
+DOCTOR: [REDACTED].
+PATIENT: I can't [REDACTED].
+DOCTOR: That's okay you'll get it back.  Now breathe normal. Any shortness of breath, trouble breathing, chest pain, anything like that?
+PATIENT: See that's what [REDACTED].
+DOCTOR: Right.
+PATIENT: Yeah.
+DOCTOR: No trouble breathing or anything like that?
+PATIENT: Shoot.  Actually you know what?
+DOCTOR: Uh-huh.
+PATIENT: The last couple of days I've been feeling like not doing nothing.
+DOCTOR: So you're feeling like not doing anything.
+PATIENT: And it's like I.
+DOCTOR: Are you just tired?
+PATIENT: I don't have, I don't have, motivation [REDACTED].
+DOCTOR: Yeah.
+PATIENT: Yeah.
+DOCTOR: You can lay your stuff down.
+PATIENT: [REDACTED] just falling asleep.
+DOCTOR: [REDACTED].
+PATIENT: Yeah, yeah, yeah.  I got some [REDACTED].
+DOCTOR: You did.
+PATIENT: [REDACTED] here.  You see over here, it's just kind of.
+DOCTOR: Getting underneath [REDACTED].
+PATIENT: Yeah.  I don't have California feet.
+DOCTOR: (Laughter)
+PATIENT: You know what, I was telling you I was telling the nurse that I, you know the last thing [REDACTED] pancreatitis.
+DOCTOR: Pancreatitis?
+PATIENT: I been having that problem lately.
+DOCTOR: Have you been drinking a lot of alcohol?
+PATIENT: I don't drink alcohol.  I mean I'll have a cocktail but I haven't have nothing like that to drink.
+DOCTOR: Well when you had the pancreatitis did they ever tell you what caused it?  [REDACTED].
+PATIENT: I don't, you know they went down just through my throat twice.
+DOCTOR: Uh-huh.
+PATIENT: The second time they thought they were gonna do biopsies but they found nothing, it was just inflamed.  Now I don't know what caused me two weeks ago and I'm scared to tell DOCTOR because last year at this time she kept me in here five days on broth.
+DOCTOR: Uh-huh.
+PATIENT: And I was not a happy camper.
+DOCTOR: Well understandable, but you know we have to do what’s best for you [REDACTED] came here.
+PATIENT: I know but if I can't eat in the evening and then just after twelve o’clock, but she didn’t want me on nothin.
+DOCTOR: Uh-huh.
+PATIENT: I’m talking about.  Broth with breakfast, lunch and dinner I went crazy.
+DOCTOR: Yeah.  That's what happens when you have pancreatitis.  You having that problem again?
+PATIENT: Well I think.
+DOCTOR: Go ahead and sit up for me.
+PATIENT: I've had three times when I threw up, one time I'm like whoa I finished my breakfast and everything I had just come out and I was fine.
+DOCTOR: Alright.  So you felt better after you threw up?
+PATIENT: Yeah.
+DOCTOR: Alright take your shoes off I want to shoe DOCTOR your feet and I'll be right back okay.
+PATIENT: Yeah.
+DOCTOR: Okay.
+(DOCTOR OUT:  45:14  DOCTOR IN:  52:40)
+DOCTOR: Hi.
+PATIENT: Hey DOCTOR.
+DOCTOR: Where is your sugar log?
+DOCTOR: Told you she'd ask you.
+PATIENT: You were supposed to tell her that, well you can.
+DOCTOR: Oh I was supposed to lie to her?  (Laughter)
+PATIENT: No, no, not lie but just tell her so she wouldn't come, cause she jumps, she hits me.
+DOCTOR: So really PATIENT we went over this last time and so you did not bring the log, you are taking your insulin but you don't check so how am I going to adjust those readings uh, sugar readings the insulin reading.  Okay so we'll have a pharmacist see you.  Now you are coming two times, next after January 1st, one is the Liver Clinic; one is the Nauk Clinic so one of those days you can have the nurse to see you.
+PATIENT: Okay.
+DOCTOR: Make it on the 4th, I think I will be back by then so we can check your sugars and adjust your insulin then.
+PATIENT: So you want me to draw the blood today or what?
+DOCTOR: No you don't need any blood tests.  I'm talking about you checking your sugars at home the different times of the day and do you have those sheets or you want me to give you new ones?
+PATIENT: I have those [REDACTED].
+DOCTOR: Okay so that we can have at least three or four readings of each column.
+PATIENT: So you want me to do it three times a day?
+DOCTOR: No one time a day but switch the times each day.
+PATIENT: Oh okay.
+DOCTOR: So uh see your glycosylated is 8.5 which is bad.  Then you have problems with your feet and so forth and your neuropathy is never going to get better if your diabetes stays like this.
+PATIENT: But you know what DOCTOR some days they'll feel fine and then I think when the weather changes, later like at night and it seems like.
+DOCTOR: No that's part of neuropathy and it's from your diabetes.  As long as your diabetes continues to be doing poorly it will only get worse.  Okay but if you get it controlled it may actually get better but if we don't do anything, no matter how many medicines I give you it's not going to be better.  It's linked.  If your diabetes is not controlled this is going to get worse.
+PATIENT: And I'm trying to lose the weight cause.
+DOCTOR: Well that's good.  You do diet, you do exercise, you do your insulin, those are all the things that will control it.  Just not increasing the medicine will help you in terms of your insulin.  So you really need to do all of the things similarly but at the same time you need to check your sugar so that it [REDACTED] you where you are and if it goes up then we can adjust your medications.
+PATIENT: I know that.
+DOCTOR: But in terms of Vicodin that's the other pain medication so that would not be the medicine for your diabetic neuropathy.
+PATIENT: No but it helps.
+DOCTOR: What I can do is, DOCTOR was mentioning to you that we can increase the gabapentin to 900 three times a day [REDACTED] sleepy already.
+PATIENT: [REDACTED] sleepy.
+DOCTOR: Good. So it's a neuropathy medication.
+PATIENT: That doesn’t bother me.
+DOCTOR: Okay so we'll increase that.  I can give you like 15-30 pills with no refills and this is not for the neuropathy pain.
+PATIENT: No, no.
+DOCTOR: It’s for the ankle pain if you need it but no refills.  I don't want to get in the habit of taking Vicodin for regular pain.
+PATIENT: And like I told her, I still have a few pills from the last time you gave me some.
+DOCTOR: Yeah.  Then what I'm saying for, the medicine that is not for this and I don't want you to, I will issue the pain medication okay.
+PATIENT: Alright.  So now you supposed to be going over on vacation this year.
+DOCTOR: Next week.
+PATIENT: Where you going?
+DOCTOR: Nowhere.
+PATIENT: You’re just going to relax?
+DOCTOR: Yeah.
+PATIENT: DOCTOR.
+DOCTOR: Take care, happy holidays.
+PATIENT: [REDACTED].
+DOCTOR: Take care.
+PATIENT: Bye.
+DOCTOR: Alright [REDACTED].  I have been trying.  I have all these records I've got to go through.
+PATIENT: What'd she ask you?
+DOCTOR: She asked me what your blood sugar was and I said you didn't bring it.  [REDACTED].
+PATIENT: Now you probably said he didn't bring it, you been had, I know you telling me, setting me up.
+DOCTOR: You know I do what I can to set you up, that's my bad.  Alright so here's what we're gonna do.
+PATIENT: She didn't say, where, where you log at.  She always gets me.  She's been doing that since 2000, you know that.
+DOCTOR: I know.
+PATIENT: She's been my, I love DOCTOR.
+DOCTOR: She is pretty awesome.
+PATIENT: Well I swear by her.
+DOCTOR: She is pretty awesome.
+PATIENT: Every time I, I can call her from home, she says okay you come in to the clinic, I'll be waiting here and I go pop and I get here and she say [REDACTED] and she treats you like a little kid just drag me down the hall and next thing I know I’m in the Emergency Room and I'm admitted to the hospital.
+DOCTOR: I know because she cares about you.
+PATIENT: Yes she does.
+DOCTOR: Alright so here's what we're gonna do.  You already have some appointments coming up. You've got on January 12th you've got your liver appointment.
+PATIENT: I thought that was on the 4th she said.  She just said.
+DOCTOR: The 4th is with Podiatry.
+PATIENT: Podiatry and what else?
+DOCTOR: The 4th you've got Podiatry and I want you to have them schedule you for a Diabetic Pharm D on January 4th as well.
+PATIENT: Yeah to see DOCTOR.
+DOCTOR: Uh-huh.  So ask them to do that up front and bring your labs or your logs.  Um we need to reschedule your orthopedic appointment because you missed it on December 4th.
+PATIENT: But you know what I knew there was something that I needed to do, I knew it.
+DOCTOR: No that's okay.
+PATIENT: But I thought I scheduled it for today because I knew I was going to be here early.
+DOCTOR: Right.  Well they can make it for you.
+PATIENT: And they're there on Mondays and Fridays only.
+DOCTOR: Right.
+PATIENT: So I knew it.
+DOCTOR: You can have them reschedule that for you up front.  So we'll reschedule your Ortho appointment.
+PATIENT: Okay.
+DOCTOR: We'll schedule your eye doctor.
+PATIENT: I need to reschedule with Ortho.
+DOCTOR: Ophthalmology for the eye doctor, Orthopedics um Diabetes with the Pharm Dy and now for your uh pain in your eye they're increasing your gabapentin to 800 mg three times a day.
+PATIENT: I thought she said 900?
+DOCTOR: You know you already have them and I mean you can do that way this time.  Um well I'll give you the 900 three times a day.  Um then the other thing is we want to get some imaging; basically it's called arterial blood study in your lower extremities of your legs.  Um because we're worried about some of this might arterial as well as the pain you're describing.
+PATIENT: Arterial means?
+DOCTOR: So your arteries are the blood vessels that take blood into the body.
+PATIENT: That's what I'm wondering you know because right after the surgery.
+DOCTOR: Uh-huh.
+PATIENT: It was you know, just before I blacked out in surgery I remember seeing my feet go up and the way they tied the toes to hang that foot up there for them to do.
+DOCTOR: Uh-huh.
+PATIENT: I'm like.
+DOCTOR: Well what we'll do is we'll have them do that for you so that we can make sure that your arteries are doing okay.
+PATIENT: Please.
+DOCTOR: Okay.
+PATIENT: Thank you.  Cause I'm hurting here, I mean like here.  Okay the whole foot used to look like that.
+DOCTOR: No, no.  Only some of the [REDACTED] you know was due to the injury that you had and what not so let's.
+PATIENT: And actually do a lotion, a lotion to put the sock on and it takes it right off.
+DOCTOR: Uh-huh.
+PATIENT: And we just.
+DOCTOR: Well let's get this done.
+PATIENT: That'll be fine.
+DOCTOR: Then we'll have an explanation okay.  And I'll see you back in three months, how does that sound?
+PATIENT: No I want to see you before.
+DOCTOR: Ha, ha, ha.
+PATIENT: Yeah.
+DOCTOR: You can try to schedule with her if you want.
+PATIENT: [REDACTED] in three months I'll forget something you know.
+DOCTOR: Really.
+PATIENT: And I figure if I.
+DOCTOR: How early do you want [REDACTED] you can always schedule [REDACTED]
+PATIENT: What about, why can't we go every month and a half instead of three months?
+DOCTOR: I mean I don't think you need to see me every month and a half.
+PATIENT: Why?
+DOCTOR: Because you don't have that many medical problems for you to.
+PATIENT: [REDACTED].
+DOCTOR: If you want to see me every month and half.
+PATIENT: You know what, yes I do because I want to get, I want to get cut down on insulin.
+DOCTOR: So that's not gonna happen by you seeing me more often though.
+PATIENT: Yes it will because I'll be bringing in my readings and you'll be telling me about those others.
+DOCTOR: Yeah but you see the thing is your labs right now that you've been getting like your A1c which shows up your um your blood sugar over what the average over a three month period is high.
+PATIENT: Well what should that be?
+DOCTOR: It should be less than 7.
+PATIENT: 8.5, that's nothing.
+DOCTOR: High.
+PATIENT: It used to be 13 or higher.
+DOCTOR: I know its better.
+PATIENT: So come on, you just you want jack with me (laughter).
+DOCTOR: Well it used to be but that just mean you know we need to keep working at it.  The only way you're gonna come off of your medications is to lose more weight.
+PATIENT: Now what medication am I taking for the diabetes?
+DOCTOR: The insulin.  And so the only way this is gonna work is, the only way you can get your blood sugar where it's at goal is by using a log and the only way you can end up requiring less medications is to lose more weight.
+PATIENT: I'm trying to do that but now but the reason I was saying if I come in every month and a half then I could draw some blood and I'll feel better knowing that after which I'll know where I'm at.
+DOCTOR: Well we can't check this laboratory more than every three months anyway. This lab, it gives you an average of your blood sugars for three months, for a three month period so we wouldn't check it more than every three months.  Does that make sense?  You can come and see me more often if you want I just don't think it's going to change our management of you.
+PATIENT: I think it will.
+DOCTOR: Okay if you want to you're more than welcome to call and schedule something more often.
+PATIENT: It's like I'm being monitored you know.  I feel more comfortable.
+DOCTOR: If you feel more comfortable then absolutely you can come more often as you like.
+PATIENT: I feel comfortable knowing that I'm being monitored properly and that yes I am doing the right thing.
+DOCTOR: Good.
+PATIENT: And I'm 51; I want to see 61, 71, 81.
+DOCTOR: Uh-huh.
+PATIENT: 91, I want to keep going.  I want to keep you know feeling like I'm feeling right now.  You know I want to have motivation some day.
+DOCTOR: Uh-huh.
+PATIENT: And it's not because of my diabetes; I don't know what it is.
+DOCTOR: Yeah.
+PATIENT: Like yesterday I felt like.
+DOCTOR: Have you thought about seeing a psychiatrist?
+PATIENT: [REDACTED] only because, I don't think it's that bad.
+DOCTOR: [REDACTED].
+PATIENT: I don't think done now.
+DOCTOR: Sometimes [REDACTED].  You can see them [REDACTED].
+PATIENT: [REDACTED] that's okay.  I wanna see doctors okay, I don't know.
+DOCTOR: I mean they're doctors too you know.
+PATIENT: I know.  That guy that just killed those people at Fort Hood, what was he, a psychiatrist.  [REDACTED].
+DOCTOR: He was a psychologist.
+PATIENT: Psych, Psych something.
+DOCTOR: Psychologist, psychiatrists are doctors, psychologists don’t have MDs.
+PATIENT: What could the psychiatrist do for me?
+DOCTOR: They can talk to you.  They can kind of help you work through things.
+PATIENT: I can talk to people.  I can talk to you.
+DOCTOR: Yeah but they have a lot more.
+PATIENT: No, no I'm more comfortable with DOCTOR.  I'll see her, if I'm in lots of pain, I'll tell her [REDACTED] and I'll tell her.
+DOCTOR: Alright.  So you don't have to do it, it's just an option I like to offer to people cause a lot of guys here.
+PATIENT: I've been with DOCTOR for.
+DOCTOR: 20 years.
+PATIENT: Almost.
+DOCTOR: I know.
+PATIENT: And with you under her too it's you know I probably get used to you cause DOCTOR was my doctor.
+DOCTOR: I know she was.
+PATIENT: Before you and that's I [REDACTED] cause you guys are my, you mine you know.
+DOCTOR: You are, you call in and you have this number because you’ve been here forever, right.
+PATIENT: It’s 888.
+DOCTOR: Yep.  So you call in and ask for an appointment with me as soon as you want, okay.
+PATIENT: Oh oh.
+DOCTOR: Push down [REDACTED].
+PATIENT: So you just want to put on this paper come back in a month and a half.
+DOCTOR: Yeah but just call and schedule cause if it's not on a Monday you've got to call and schedule anyway so.
+PATIENT: That's good news.
+DOCTOR: It is yeah.
+PATIENT: [REDACTED].
+DOCTOR: Okay.  Alright.  I'll see you back when you come and see me.
+PATIENT: Happy holidays.
+DOCTOR: Happy holidays.  Have a good Christmas and New Year's.
+PATIENT: Yes.
+DOCTOR: And I'll see you back in a little bit.
+PATIENT: Okay take care.
+DOCTOR: Alright take care and bring your blood sugars along next time.
+PATIENT: Yes I will.
+DOCTOR: Alright.
+PATIENT: Good luck there.
+PATIENT: 64:02.
+DD: @@/@@/@@
+DT: @@/@@/@@
+INFOPRO/800511/JOB#  1255158
+TRANSACTION # 578-10-2-316-0103
