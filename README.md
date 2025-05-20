@@ -44,7 +44,7 @@ pip install -r requirements.txt
 2. Create a `.env.local` file with your OpenAI API credentials:
 
 ```
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEYS=your_api_key_here1,your_api_key_here2,...
 OPENAI_BASE_URL=https://api.openai.com
 ```
 
