@@ -148,15 +148,25 @@ The table below shows the accuracy metrics for the G2 model's subscores against 
 
 ### Error Distribution Analysis
 
-The following chart provides the most detailed view of model performance. It shows the distribution of the scoring error (Target Score - Actual Score) for the final scores of both the G1 (Non-Rubric) and G2 (Rubric-Based) models, as well as for the individual subscores of the G2 model.
+To better understand the nature of the scoring errors, the following plots show the distribution of the actual score differences (Target Score - Actual Score).
 
-This allows for a direct comparison of both bias and variance:
+#### Total Score Error Distribution (G1 vs. G2)
 
-- **Bias**: A curve's peak relative to the vertical zero-line shows its bias. The G1 Total Score (dashed black line) is centered to the left of zero, indicating a systemic bias towards over-scoring (i.e., Target - Actual is negative). In contrast, the G2 Total Score (solid black line) is centered much closer to zero, indicating lower bias.
-- **Variance**: The "peakiness" or narrowness of a curve shows its variance. Sharper, narrower peaks indicate lower variance and higher consistency in the error. The G2 total score curve is noticeably narrower than the G1 curve, visually confirming its lower error.
-- **Subscores**: The distributions for the individual G2 subscores are generally well-centered around zero, showing low bias. The spread of these curves aligns with the MAE table: "Engagement with Health Information" has one of the tightest distributions, reflecting its low MAE, while "Conciseness and Completeness" is visibly wider, reflecting its higher MAE and greater uncertainty.
+This plot directly compares the error distributions for the final scores of the non-rubric (G1) and rubric-based (G2) models. This allows for a clear comparison of bias and variance.
 
-![Score Difference Distribution](analysis/exp1_score_difference_distribution.png)
+- **Bias (Centeredness)**: The G2 curve (orange) is centered very close to the zero line, indicating it has very little systemic bias. In contrast, the G1 curve (blue, dashed) is centered to the left of zero, clearly showing its tendency to score transcripts higher than the target (i.e., a negative error).
+- **Variance (Spread)**: The G2 curve is noticeably narrower and more "peaked" than the G1 curve, visually confirming that its errors are more tightly clustered around the mean. This demonstrates the lower variance and higher precision of the rubric-based model.
+
+![Total Score Difference Distribution](analysis/exp1_total_score_difference_distribution.png)
+
+#### Subscore Error Distribution (G2 Only)
+
+This plot details the error distributions for each of the five sub-categories within the rubric-based (G2) model.
+
+- All subscore distributions are reasonably well-centered around zero, indicating low bias for each individual category.
+- The spread of these curves aligns with the MAE table: "Engagement with Health Information" and "Lexical Diversity" have the tightest distributions, reflecting their low MAE and high precision. "Conciseness and Completeness" is visibly wider, reflecting its higher MAE and greater variance in scoring.
+
+![Subscore Difference Distribution](analysis/exp1_subscore_difference_distribution.png)
 
 ### Key Findings
 

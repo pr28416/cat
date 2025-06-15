@@ -544,37 +544,14 @@ def main():
     save_plot(plt.gcf(), "exp1_subscore_mae_by_category.png")
     print("Plotted subscore MAE by category.")
 
-    # --- 5. Score Difference Distribution (Target - Actual) ---
-    print("\n--- 5. Score Difference Distribution Analysis ---")
+    # --- 5. Total Score Difference Distribution ---
+    print("\n--- 5. Total Score Difference Distribution ---")
     plt.figure(figsize=(12, 8))
 
-    # --- G2 Rubric-Based Scores ---
-    g2_attempts = df_attempts[
-        df_attempts["GradingCondition"] == "G2_RubricBased"
-    ].copy()
-    score_types_g2 = [
-        # "Effective_Total_Score", # Will plot G1 and G2 total scores together later
-        "Clarity_of_Language",
-        "Lexical_Diversity",
-        "Conciseness_and_Completeness",
-        "Engagement_with_Health_Information",
-        "Health_Literacy_Indicator",
-    ]
-    for score_type in score_types_g2:
-        target_col = f"Target_{score_type}"
-        actual_col = score_type
-
-        if target_col in g2_attempts.columns and actual_col in g2_attempts.columns:
-            diff_col = f"Diff_{score_type}"
-            g2_attempts[diff_col] = g2_attempts[target_col] - g2_attempts[actual_col]
-            diff_data = g2_attempts[diff_col].dropna()
-            if not diff_data.empty:
-                sd = diff_data.std()
-                label_text = f"G2 - {score_type.replace('_', ' ')} (SD={sd:.2f})"
-                sns.kdeplot(diff_data, label=label_text, linewidth=2, bw_adjust=2.5)
-
-    # --- G1 vs G2 Total Score Difference ---
-    for condition, line_style in [("G1_NonRubric", "--"), ("G2_RubricBased", "-")]:
+    for condition, line_style, color in [
+        ("G1_NonRubric", "--", "blue"),
+        ("G2_RubricBased", "-", "orange"),
+    ]:
         condition_attempts = df_attempts[
             df_attempts["GradingCondition"] == condition
         ].copy()
@@ -592,28 +569,64 @@ def main():
             diff_data = condition_attempts[diff_col].dropna()
             if not diff_data.empty:
                 sd = diff_data.std()
-                label_text = f"{condition.split('_')[0]} - Total Score (SD={sd:.2f})"
+                label_text = f"{condition.split('_')[0]} Total Score (SD={sd:.2f})"
                 sns.kdeplot(
                     diff_data,
                     label=label_text,
                     linewidth=2.5,
                     bw_adjust=1.5,
                     linestyle=line_style,
-                    color="black",
+                    color=color,
+                    fill=True,
+                    alpha=0.1,
                 )
 
-    plt.title(
-        "Distribution of Score Differences (Target - Actual) for All Grading Conditions"
-    )
+    plt.title("Distribution of Total Score Differences (Target - Actual)")
     plt.xlabel("Difference in Scoring (Target Score - Actual Score)")
     plt.ylabel("Density")
     plt.axvline(0, color="grey", linestyle="--")
-    handles, labels = plt.gca().get_legend_handles_labels()
-    plt.legend(handles, labels, title="Score Category")
+    plt.legend(title="Grading Condition")
     plt.grid(True)
-    save_plot(plt.gcf(), "exp1_score_difference_distribution.png")
+    save_plot(plt.gcf(), "exp1_total_score_difference_distribution.png")
     print(
-        f"Plot saved: {os.path.join(ANALYSIS_OUTPUT_DIR, 'exp1_score_difference_distribution.png')}"
+        f"Plot saved: {os.path.join(ANALYSIS_OUTPUT_DIR, 'exp1_total_score_difference_distribution.png')}"
+    )
+
+    # --- 6. Subscore Difference Distribution (G2) ---
+    print("\n--- 6. Subscore Difference Distribution (G2) ---")
+    plt.figure(figsize=(12, 8))
+    g2_attempts = df_attempts[
+        df_attempts["GradingCondition"] == "G2_RubricBased"
+    ].copy()
+    score_types_g2 = [
+        "Clarity_of_Language",
+        "Lexical_Diversity",
+        "Conciseness_and_Completeness",
+        "Engagement_with_Health_Information",
+        "Health_Literacy_Indicator",
+    ]
+    for score_type in score_types_g2:
+        target_col = f"Target_{score_type}"
+        actual_col = score_type
+
+        if target_col in g2_attempts.columns and actual_col in g2_attempts.columns:
+            diff_col = f"Diff_{score_type}"
+            g2_attempts[diff_col] = g2_attempts[target_col] - g2_attempts[actual_col]
+            diff_data = g2_attempts[diff_col].dropna()
+            if not diff_data.empty:
+                sd = diff_data.std()
+                label_text = f"{score_type.replace('_', ' ')} (SD={sd:.2f})"
+                sns.kdeplot(diff_data, label=label_text, linewidth=2, bw_adjust=2.5)
+
+    plt.title("Distribution of Subscore Differences for Rubric-Based Grading (G2)")
+    plt.xlabel("Difference in Scoring (Target Score - Actual Score)")
+    plt.ylabel("Density")
+    plt.axvline(0, color="grey", linestyle="--")
+    plt.legend(title="Score Category")
+    plt.grid(True)
+    save_plot(plt.gcf(), "exp1_subscore_difference_distribution.png")
+    print(
+        f"Plot saved: {os.path.join(ANALYSIS_OUTPUT_DIR, 'exp1_subscore_difference_distribution.png')}"
     )
 
     # --- Overall Summary Table ---
