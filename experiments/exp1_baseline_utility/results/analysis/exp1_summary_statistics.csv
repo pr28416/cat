@@ -1,3 +1,3 @@
 Metric,Group1_Median,Group1_IQR,Group2_Median,Group2_IQR,U_Statistic,P_Value,Significance,Hypothesis_Supported (G2 lower STDEV),Group1_Median_MAE,Group1_IQR_MAE,Group2_Median_MAE,Group2_IQR_MAE,Wilcoxon_Statistic,Hypothesis_Supported (G2 lower MAE)
-STDEV Total Score (H1a),0.0,0.0,0.0,0.40006774698856357,882.0,0.0011906849041144823,0.001,No,,,,,,
-MAE (Mean Score vs TTS) (H1b),,,,,,0.0020658146922065993,0.002,,4.0,6.595,4.98,8.049999999999999,206.5,No
+STDEV Total Score (H1a),0.0,0.26551012108392585,0.0,0.2740475156178697,1130.0,0.3521738543229723,0.352,No,,,,,,
+MAE (Mean Score vs TTS) (H1b),,,,,,0.0005606319117777421,< 0.001,,1.5199999999999996,2.0,1.0,1.0649999999999986,238.5,Yes

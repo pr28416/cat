@@ -1,34 +1,45 @@
-You are tasked with generating a synthetic patient-doctor dialogue transcript that demonstrates {{QualityLevel}} quality health communication. The transcript should be designed to achieve a target total score of {{TTS}} when evaluated using the following rubric:
+You are tasked with generating a synthetic patient-doctor dialogue transcript. The goal is to model the PATIENT's communication skills, which should be designed to achieve the following target scores when evaluated using the rubric below:
+
+- Clarity of Language: {{Target_Clarity_of_Language}}
+- Lexical Diversity: {{Target_Lexical_Diversity}}
+- Conciseness and Completeness: {{Target_Conciseness_and_Completeness}}
+- Engagement with Health Information: {{Target_Engagement_with_Health_Information}}
+- Health Literacy Indicator: {{Target_Health_Literacy_Indicator}}
+- **Target Total Score: {{TTS}}**
 
 {{RubricV5Text}}
 
-Guidelines for {{QualityLevel}} quality transcript:
-{% if QualityLevel == "low" %}
-- Include communication barriers and misunderstandings
-- Show limited patient engagement
-- Demonstrate poor information exchange
-- Include some inappropriate responses
-- Show minimal empathy or rapport building
-{% elif QualityLevel == "medium" %}
-- Show some effective communication
-- Include both strengths and areas for improvement
-- Demonstrate moderate patient engagement
-- Show some appropriate responses with occasional issues
-- Include basic rapport building
-{% else %}
-- Demonstrate excellent communication skills
-- Show strong patient engagement
-- Include clear and effective information exchange
-- Show appropriate and empathetic responses
-- Demonstrate strong rapport building
-{% endif %}
+Guidelines for generating the PATIENT's {{QualityLevel}} quality communication:
+- For a 'low' quality transcript, the patient should exhibit communication barriers, limited engagement, and poor information exchange.
+- For a 'medium' quality transcript, the patient should show a mix of effective communication and areas for improvement, with moderate engagement.
+- For a 'high' quality transcript, the patient should demonstrate excellent communication, strong engagement, and clear, empathetic responses.
 
-Important:
-1. Generate ONLY the transcript - do not include any explanations, notes, or the rubric text in your response
-2. Start the transcript with "Transcript:" and end with "End of Transcript"
-3. Format the dialogue with "DOCTOR:" and "PATIENT:" prefixes
-4. Make the conversation natural and realistic
-5. Ensure the communication quality matches the target score of {{TTS}}
-6. Do not explicitly mention the rubric or target score in the generated text
+---
+**Style and Length Guidelines (Very Important):**
+
+1.  **Length and Pacing**: Create a substantial transcript of **50-100 conversational turns**. A "turn" is a single block of speech from one person. Focus on a natural, rapid back-and-forth exchange rather than long monologues.
+
+2.  **Realistic, Unscripted Feel**: The dialogue must feel like a real, unscripted human conversation. This means including:
+    *   **Backchanneling**: The listener (especially the doctor) should use short, natural interjections like "Uh-huh," "Okay," "Right," and "I see" to show they are engaged.
+    *   **Interruptions & Overlap**: It's okay for speakers to gently interrupt or finish each other's sentences.
+
+3.  **Example of Desired Style**:
+    ```
+    DOCTOR: So a couple of things um, looks like your pressure's a little bit high.
+    PATIENT: Yeah that might be from, you know I woke up this morning with the intentions of doing other things.
+    DOCTOR: Uh-huh.
+    PATIENT: And then it dawned on me that I had a doctor's appointment like around 7:30.
+    DOCTOR: Uh-huh okay.
+    ```
+
+---
+**Final Instructions:**
+
+1.  **The DOCTOR's communication must always be a model of excellence**: clear, professional, empathetic, and patient-centered (effectively a "4 out of 4" on all rubric categories). The patient's communication is the only variable being manipulated.
+2.  Generate ONLY the transcript itself. Do not include explanations, notes, or the rubric text in your final response.
+3.  Start your response with "Transcript:" and ensure the dialogue follows.
+4.  Format the dialogue with "DOCTOR:" and "PATIENT:" prefixes.
+5.  Make the conversation natural and realistic, ensuring the **patient's** communication quality subtly reflects the target subscores.
+6.  Do not explicitly mention the rubric categories or scores in the generated dialogue.
 
 Transcript: 

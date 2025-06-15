@@ -37,53 +37,33 @@
 - **Full Rubric Details:**
   - **Overall Structure:** 5 categories, each scored 1 (Poor) to 4 (Excellent). Total score range: 5-20.
   - **Categories & Scoring Criteria:**
-    - **Criterion 1: Clarity of Language**
-      - 1 (Poor): Frequently unclear or provides irrelevant information; responses are difficult to understand or follow. _Example: When asked about dietary habits, responds with, "I like food, but sometimes I don't eat it," without clarifying frequency or types of meals._
-      - 2 (Fair): Occasionally unclear or includes minor irrelevant information; some evidence of misunderstanding. _Example: Describes dietary habits as "I eat healthy stuff like green things most days," without specifying foods or portions._
-      - 3 (Good): Generally clear and relevant; minor ambiguities that do not significantly hinder understanding. _Example: States, "I usually eat vegetables and lean proteins, but I occasionally have snacks."_
-      - 4 (Excellent): Consistently clear, concise, and focused; responses are entirely relevant and easy to understand. _Example: Explains, "I follow a balanced diet consisting of fruits, vegetables, lean proteins, and whole grains daily, with an occasional treat once or twice a week."_
-    - **Criterion 2: Lexical Diversity**
-      - 1 (Poor): Very limited vocabulary; repetitive or overly simplistic; lacks ability to express nuanced ideas. _Example: Repeatedly uses "good" to describe feelings and symptoms without elaboration._
-      - 2 (Fair): Basic vocabulary with frequent repetition; struggles to convey complex or specific information. _Example: States, "I feel tired sometimes and other times not," without specifying frequency or context._
-      - 3 (Good): Moderate vocabulary; some variation; appropriate for context but may lack precise terminology. _Example: Describes fatigue as "I feel tired after work, especially if I didn't sleep well the night before."_
-      - 4 (Excellent): Rich and varied vocabulary; uses precise and contextually appropriate terms to effectively communicate. _Example: Explains, "I experience chronic fatigue, particularly in the evenings, which I attribute to insufficient rest and prolonged screen exposure."_
-    - **Criterion 3: Conciseness and Completeness**
-      - 1 (Poor): Response lacks critical information, leaving the core issue unclear or requiring significant prompting to clarify. _Example: "My stomach hurts." Does not provide additional context, such as duration, triggers, or associated symptoms._
-      - 2 (Fair): Response includes some relevant details but misses key components or is vague, requiring follow-up questions. _Example: "I get stomach pain after eating spicy food." Does not address frequency, severity, or mitigating factors._
-      - 3 (Good): Provides relevant information with minor omissions or occasional inclusion of extraneous details, but overall meaning is clear. _Example: "I often feel stomach pain after eating spicy food, lasting a couple of hours." May not specify severity or exact triggers._
-      - 4 (Excellent): Response is comprehensive, including all critical details, with no unnecessary elaboration. _Example: "I experience sharp stomach pain after eating spicy food, especially chili peppers, usually within 30 minutes. The pain lasts 2-3 hours and improves with antacids."_
-    - **Criterion 4: Engagement with Health Information**
-      - 1 (Poor): Responses are brief, lack detail, and show no active effort to engage with the topic. Appears disinterested or uninvested. _Example: Provides one-word answers like, "Yes" or "No," when asked about symptoms, or says, "I don't know."_
-      - 2 (Fair): Responds adequately to questions but rarely provides additional details or context. _Example: When asked about exercise habits, says, "I walk sometimes." Does not elaborate on frequency or duration._
-      - 3 (Good): Provides relevant and reasonably detailed answers, demonstrating interest and understanding but rarely initiates clarifications or adds supplementary information. _Example: Says, "I walk about 3-4 times a week for 30 minutes." Responds well to questions but does not ask any._
-      - 4 (Excellent): Offers detailed, thoughtful responses, initiates clarification or supplementary information, and asks relevant questions to deepen understanding. _Example: Explains, "I walk 3-4 times a week for about 30 minutes, usually after work. Should I increase the duration or add strength training for better results?"_
-    - **Criterion 5: Health Literacy Indicator**
-      - 1 (Poor): Lacks understanding of basic health concepts, frequently misinterprets questions. _Example: Misunderstands the term "cholesterol" as exclusively related to weight rather than blood lipid levels._
-      - 2 (Fair): Limited understanding, may require simplification of health terms or further questioning to clarify answers. _Example: Says, "I think cholesterol is bad, but I'm not sure what foods have it."_
-      - 3 (Good): Basic understanding, uses relevant health-related terms and describes symptoms appropriately. _Example: States, "I'm trying to avoid high-cholesterol foods like fried items and red meat."_
-      - 4 (Excellent): Strong understanding of medical terminology and health context, with clear articulation of symptoms and health history. _Example: Explains, "I limit my intake of foods high in LDL cholesterol, such as processed meats and fried foods, and focus on incorporating HDL-boosting items like nuts and avocados."_
+- **Criterion 1: Clarity of Language** - 1 (Poor): Frequently unclear or provides irrelevant information; responses are difficult to understand or follow. _Example: When asked about dietary habits, responds with, "I like food, but sometimes I don't eat it," without clarifying frequency or types of meals._ - 2 (Fair): Occasionally unclear or includes minor irrelevant information; some evidence of misunderstanding. _Example: Describes dietary habits as "I eat healthy stuff like green things most days," without specifying foods or portions._ - 3 (Good): Generally clear and relevant; minor ambiguities that do not significantly hinder understanding. _Example: States, "I usually eat vegetables and lean proteins, but I occasionally have snacks."_ - 4 (Excellent): Consistently clear, concise, and focused; responses are entirely relevant and easy to understand. _Example: Explains, "I follow a balanced diet consisting of fruits, vegetables, lean proteins, and whole grains daily, with an occasional treat once or twice a week."_
+- **Criterion 2: Lexical Diversity** - 1 (Poor): Very limited vocabulary; repetitive or overly simplistic; lacks ability to express nuanced ideas. _Example: Repeatedly uses "good" to describe feelings and symptoms without elaboration._ - 2 (Fair): Basic vocabulary with frequent repetition; struggles to convey complex or specific information. _Example: States, "I feel tired sometimes and other times not," without specifying frequency or context._ - 3 (Good): Moderate vocabulary; some variation; appropriate for context but may lack precise terminology. _Example: Describes fatigue as "I feel tired after work, especially if I didn't sleep well the night before."_ - 4 (Excellent): Rich and varied vocabulary; uses precise and contextually appropriate terms to effectively communicate. _Example: Explains, "I experience chronic fatigue, particularly in the evenings, which I attribute to insufficient rest and prolonged screen exposure."_
+- **Criterion 3: Conciseness and Completeness** - 1 (Poor): Response lacks critical information, leaving the core issue unclear or requiring significant prompting to clarify. _Example: "My stomach hurts." Does not provide additional context, such as duration, triggers, or associated symptoms._ - 2 (Fair): Response includes some relevant details but misses key components or is vague, requiring follow-up questions. _Example: "I get stomach pain after eating spicy food." Does not address frequency, severity, or mitigating factors._ - 3 (Good): Provides relevant information with minor omissions or occasional inclusion of extraneous details, but overall meaning is clear. _Example: "I often feel stomach pain after eating spicy food, lasting a couple of hours." May not specify severity or exact triggers._ - 4 (Excellent): Response is comprehensive, including all critical details, with no unnecessary elaboration. _Example: "I experience sharp stomach pain after eating spicy food, especially chili peppers, usually within 30 minutes. The pain lasts 2-3 hours and improves with antacids."_
+- **Criterion 4: Engagement with Health Information** - 1 (Poor): Responses are brief, lack detail, and show no active effort to engage with the topic. Appears disinterested or uninvested. _Example: Provides one-word answers like, "Yes" or "No," when asked about symptoms, or says, "I don't know."_ - 2 (Fair): Responds adequately to questions but rarely provides additional details or context. _Example: When asked about exercise habits, says, "I walk sometimes." Does not elaborate on frequency or duration._ - 3 (Good): Provides relevant and reasonably detailed answers, demonstrating interest and understanding but rarely initiates clarifications or adds supplementary information. _Example: Says, "I walk about 3-4 times a week for 30 minutes." Responds well to questions but does not ask any._ - 4 (Excellent): Offers detailed, thoughtful responses, initiates clarification or supplementary information, and asks relevant questions to deepen understanding. _Example: Explains, "I walk 3-4 times a week for about 30 minutes, usually after work. Should I increase the duration or add strength training for better results?"_
+- **Criterion 5: Health Literacy Indicator** - 1 (Poor): Lacks understanding of basic health concepts, frequently misinterprets questions. _Example: Misunderstands the term "cholesterol" as exclusively related to weight rather than blood lipid levels._ - 2 (Fair): Limited understanding, may require simplification of health terms or further questioning to clarify answers. _Example: Says, "I think cholesterol is bad, but I'm not sure what foods have it."_ - 3 (Good): Basic understanding, uses relevant health-related terms and describes symptoms appropriately. _Example: States, "I'm trying to avoid high-cholesterol foods like fried items and red meat."_ - 4 (Excellent): Strong understanding of medical terminology and health context, with clear articulation of symptoms and health history. _Example: Explains, "I limit my intake of foods high in LDL cholesterol, such as processed meats and fried foods, and focus on incorporating HDL-boosting items like nuts and avocados."_
 - **Statement of Finality:** This "Patient Health Communication Rubric v5.0" is considered final and will remain constant for all experiments detailed in this PRD to ensure comparability of results.
 
 **4\. Core Component: Transcript Datasets**
 
 - **Source 1 (DoVA):**
-  - Description: De-identified patient-physician interaction transcripts from the US Department of Veterans Affairs.
+- Description: De-identified patient-physician interaction transcripts from the US Department of Veterans Affairs.
   - Quantity: N \= 405
-  - Access: Assumed to be publicly available or accessible via a specific provided path/API by the executing AI.
+- Access: Assumed to be publicly available or accessible via a specific provided path/API by the executing AI.
 - **Source 2 (Nature Paper):**
   - Description: De-identified patient-physician interaction transcripts from \[User to provide specific Nature Paper Citation, e.g., "Smith et al., Nature Medicine, 20XX"\].
   - Quantity: N \= 272
-  - Access: Assumed accessible via a specific provided path/API, with necessary permissions confirmed.
+- Access: Assumed accessible via a specific provided path/API, with necessary permissions confirmed.
 - **Data Acquisition Note:** The development of robust LLM-based health assessment tools is often constrained by the scarcity of suitable, large-scale, publicly available, and appropriately annotated datasets of real-world clinical conversations. This project leverages existing specified datasets; however, broader progress in the field may depend on collaborative efforts to create such resources (Lit Review: Sec 7.1, Insight 7.1).
 - **Total Real Transcripts:** N_total_real \= 405 \+ 272 \= 677
 - **De-identification & Ethical Considerations:** All transcripts are confirmed to be de-identified. Ethical approval or waiver for the use of these de-identified datasets for research purposes is documented (e.g., IRB Ref: \[User to provide if applicable\]).
   - **De-identification Challenges:** The process of de-identifying health data to comply with regulations like HIPAA and GDPR is critical but presents challenges. These include the risk of re-identification, the administrative burden, and the tension between rigorous privacy protection and retaining the linguistic richness necessary for nuanced LLM analysis. Over-aggressive de-identification might remove subtle cues vital for health literacy judgment (Lit Review: Sec 4.1.1, Sec 6.1, Sources 30, 31). This project relies on prior de-identification of the datasets.
 - **Transcript Pre-processing:**
-  - Ensure all transcripts are in a standardized plain text format (UTF-8 encoding).
-  - Remove any explicit file headers or footers not part of the interaction.
-  - Each transcript should have a unique persistent identifier (TranscriptID).
+- Ensure all transcripts are in a standardized plain text format (UTF-8 encoding).
+- Remove any explicit file headers or footers not part of the interaction.
+- Each transcript should have a unique persistent identifier (TranscriptID).
 - **Data Partitioning Plan:**
-  - Initialize a master list of all 677 TranscriptIDs.
+- Initialize a master list of all 677 TranscriptIDs.
   - **Exp 2 Set (Set A):** Randomly select 50 TranscriptIDs from the master list without replacement.
   - **Exp 3 Set (Set B):** Randomly select 50 TranscriptIDs from the _remaining_ master list without replacement (ensure no overlap with Set A).
   - **Exp 5 Set (Set C):** All remaining TranscriptIDs (N \= 677 \- 50 \- 50 \= 577\) will constitute Set C.
@@ -102,14 +82,13 @@
 - **Default Parameters (to be used unless an experiment manipulates them):**
   - **Temperature:** 0.1 (for maximizing reproducibility and minimizing randomness)
   - **Max Output Tokens:** Sufficient for scores and reasoning (e.g., 1000 tokens).
-  - Other parameters (top_p, etc.): Use API defaults unless specified.
+- Other parameters (top_p, etc.): Use API defaults unless specified.
 - **Uncertainty/Confidence Exploration:** While not a default parameter for all initial runs, Experiment 5 will specifically explore methods to quantify the uncertainty or confidence of the selected LLM's scores, if model outputs (e.g., token probabilities, alternative decodings) or API features allow for such analysis (Lit Review: Sec 5.2).
 - All API calls must be logged with request, response, timestamp, model used, and cost (if retrievable).
 
 **6\. Experimental Plan**
 
-7.1. Experiment 1: Baseline LLM-Rubric Utility & Synthetic Data Efficacy  
-\* 7.1.1. Experiment ID & Title: EXP1_BaselineRubricUtility  
+7.1. Experiment 1: Baseline LLM-Rubric Utility & Synthetic Data Efficacy \* 7.1.1. Experiment ID & Title: EXP1_BaselineRubricUtility  
 \* 7.1.2. Objective(s):  
 1\. Establish if the LLM utilizes Rubric 5.0 meaningfully for scoring (i.e., with improved consistency and alignment to rubric-defined targets) compared to an unguided LLM assessment.  
 2\. Assess the LLM's ability to accurately and consistently score synthetic transcripts (generated with rubric-derived target scores) when explicitly using Rubric 5.0, thereby validating its adherence to the rubric.  
@@ -127,19 +106,19 @@
 1\. Randomly select a target total score (TTS) from a stratified distribution: 20% of scores in the range 5-10 (low), 40% in 11-15 (medium), and 40% in 16-20 (high). The scores within each stratum are chosen uniformly at random from that stratum's range.  
 2\. Prompt `GPT-4.1` (temperature 0.7 for creative generation):  
 \`\`\`  
-You are an expert in simulating patient-doctor interactions for health communication research.  
-Your task is to generate a patient-doctor dialogue transcript.  
-The patient's communication proficiency in this transcript should realistically correspond to a TOTAL score of {{TTS}} when assessed using the provided "Patient Health Communication Rubric v5.0".  
-First, provide a brief outline of the conversation flow and key patient utterances that would lead to this score.  
-Then, generate the full patient-doctor dialogue transcript (approximately 300-700 words).  
-Do NOT explicitly mention the rubric or the target score in the generated transcript itself.  
- Patient Health Communication Rubric v5.0:  
- \[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
+ You are an expert in simulating patient-doctor interactions for health communication research.
+Your task is to generate a patient-doctor dialogue transcript.
+The patient's communication proficiency in this transcript should realistically correspond to a TOTAL score of {{TTS}} when assessed using the provided "Patient Health Communication Rubric v5.0".
+First, provide a brief outline of the conversation flow and key patient utterances that would lead to this score.
+Then, generate the full patient-doctor dialogue transcript (approximately 300-700 words).
+Do NOT explicitly mention the rubric or the target score in the generated transcript itself.
+Patient Health Communication Rubric v5.0:
+\[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
 
-                Target Total Score for this transcript: {{TTS}}
-                Outline:
+       Target Total Score for this transcript: {{TTS}}
+       Outline:
                 \[LLM generates outline\]
-                Transcript:
+       Transcript:
                 \[LLM generates transcript\]
                 \`\`\`
             3\.  Store each generated transcript with its TTS and a unique SyntheticTranscriptID. Ensure the LLM does not include the rubric text or score in the final transcript output.
@@ -148,22 +127,22 @@ Do NOT explicitly mention the rubric or the target score in the generated transc
     \* Prompt Templates for Grading:
         \* \*\*P1.1 (G1 \- Non-Rubric):\*\*
             \`\`\`
-            You are a health communication analyst. Read the following patient-doctor transcript.
-            Assess the patient's overall communication proficiency based on your general understanding of effective health communication.
-            Assign a single holistic total score from 5 (very poor) to 20 (excellent).
-            Output only the numerical total score. Example: 15
+      You are a health communication analyst. Read the following patient-doctor transcript.
+      Assess the patient's overall communication proficiency based on your general understanding of effective health communication.
+      Assign a single holistic total score from 5 (very poor) to 20 (excellent).
+      Output only the numerical total score. Example: 15
 
-            Transcript:
-            {{TranscriptText}}
+      Transcript:
+      {{TranscriptText}}
 
-            Total Score (5-20):
+      Total Score (5-20):
             \`\`\`
         \* \*\*P1.2 (G2 \- Rubric-Based):\*\*
             \`\`\`
-            You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
+      You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
             For each of the 5 categories in the rubric, provide a score from 1 to 4\.
-            Then, provide a total score, which is the sum of the 5 category scores (must be between 5 and 20).
-            Output the scores in the following exact format:
+      Then, provide a total score, which is the sum of the 5 category scores (must be between 5 and 20).
+      Output the scores in the following exact format:
             Clarity of Language: \[score\_1\_4\]
             Lexical Diversity: \[score\_1\_4\]
             Conciseness and Completeness: \[score\_1\_4\]
@@ -171,21 +150,21 @@ Do NOT explicitly mention the rubric or the target score in the generated transc
             Health Literacy Indicator: \[score\_1\_4\]
             Total Score: \[sum\_of\_scores\_5\_20\]
 
-            Patient Health Communication Rubric v5.0:
+      Patient Health Communication Rubric v5.0:
             \[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
 
-            Transcript:
-            {{TranscriptText}}
+      Transcript:
+      {{TranscriptText}}
 
-            Scores:
+      Scores:
             \`\`\`
 
 \* \*\*7.1.6. Procedure:\*\*  
  1\. Generate the 50 synthetic transcripts as described.  
  2\. For each of the 50 SyntheticTranscriptIDs:  
- a. Perform 50 grading attempts using Prompt P1.1 (G1). Log TranscriptID, attempt number, prompt, full LLM response, extracted total score.  
- b. Perform 50 grading attempts using Prompt P1.2 (G2). Log TranscriptID, attempt number, prompt, full LLM response, extracted category scores, extracted total score.  
- (Total grading attempts: 50 transcripts \* 2 conditions \* 50 attempts/condition \= 5000).  
+ a. Perform 50 grading attempts using Prompt P1.1 (G1). Log TranscriptID, attempt number, prompt, full LLM response, extracted total score.
+b. Perform 50 grading attempts using Prompt P1.2 (G2). Log TranscriptID, attempt number, prompt, full LLM response, extracted category scores, extracted total score.
+(Total grading attempts: 50 transcripts \* 2 conditions \* 50 attempts/condition \= 5000).  
 \* \*\*7.1.7. Data Analysis Plan (Alpha \= 0.05 for all tests):\*\*  
  1\. For each transcript and condition, calculate STDEV of the 50 total scores.  
  2\. Compare the distributions of STDEVs between G1 and G2 using a Mann-Whitney U test (for H1a). Report medians and IQRs of STDEVs for G1 and G2.  
@@ -199,8 +178,7 @@ Do NOT explicitly mention the rubric or the target score in the generated transc
  \* Statistical test results (p-values, test statistics).  
  \* Summary statistics and plots.
 
-7.2. Experiment 2: Prompt Strategy Optimization  
-\* 7.2.1. Experiment ID & Title: EXP2_PromptOptimization  
+7.2. Experiment 2: Prompt Strategy Optimization \* 7.2.1. Experiment ID & Title: EXP2_PromptOptimization  
 \* 7.2.2. Objective(s): Determine the optimal prompt engineering strategy for applying Rubric 5.0 to maximize scoring consistency.  
 \* 7.2.3. Hypothesis(es): H2: Chain-of-Thought (CoT) prompting will result in significantly lower STDEV of total scores compared to zero-shot or few-shot prompting.  
 \* 7.2.4. Variables:  
@@ -217,49 +195,49 @@ Example Transcript Snippet: \[Snippet Text\] Rubric 5.0 Scores: Clarity of Langu
 \* P2.1 (Zero-shot): Identical to P1.2 (Rubric-Based prompt from Exp 1).  
 \* P2.2 (Few-shot):  
 \`\`\`  
-You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication.  
-Here are some examples of how to apply Rubric 5.0:  
+ You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication.
+Here are some examples of how to apply Rubric 5.0:
 \[Embed Example 1: Snippet, Scores, Rationale\]  
 \---  
 \[Embed Example 2: Snippet, Scores, Rationale\]  
 \---  
 \[Embed Example 3: Snippet, Scores, Rationale\]  
 \---  
-Now, using "Patient Health Communication Rubric v5.0", assess the patient's communication in the following new transcript.  
-Output the scores in the following exact format:  
+ Now, using "Patient Health Communication Rubric v5.0", assess the patient's communication in the following new transcript.
+Output the scores in the following exact format:
 Clarity of Language: \[score_1_4\]  
 Lexical Diversity: \[score_1_4\]  
 Conciseness and Completeness: \[score_1_4\]  
 Engagement with Health Information: \[score_1_4\]  
 Health Literacy Indicator: \[score_1_4\]  
 Total Score: \[sum_of_scores_5_20\]  
- Patient Health Communication Rubric v5.0:  
- \[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
+ Patient Health Communication Rubric v5.0:
+\[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
 
-            New Transcript:
-            {{TranscriptText}}
+      New Transcript:
+      {{TranscriptText}}
 
-            Scores:
+      Scores:
             \`\`\`
         \* \*\*P2.3 (CoT \- Chain-of-Thought):\*\*
             \`\`\`
-            You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
-            Think step-by-step for each of the 5 rubric categories. For each category:
+      You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
+      Think step-by-step for each of the 5 rubric categories. For each category:
             1\. Briefly state your reasoning and cite evidence from the transcript that supports your score for this category.
             2\. Assign a score from 1 to 4 for this category.
-            After scoring all 5 categories, calculate and provide the total score (sum of the 5 category scores, must be between 5 and 20).
-            Structure your output clearly, providing reasoning THEN the score for each category, followed by the final list of scores in the specified format.
+      After scoring all 5 categories, calculate and provide the total score (sum of the 5 category scores, must be between 5 and 20).
+      Structure your output clearly, providing reasoning THEN the score for each category, followed by the final list of scores in the specified format.
 
-            Patient Health Communication Rubric v5.0:
+      Patient Health Communication Rubric v5.0:
             \[Embed Full Rubric 5.0 Text Here \- as in Section 4\]
 
-            Transcript:
-            {{TranscriptText}}
+      Transcript:
+      {{TranscriptText}}
 
-            Step-by-step Analysis and Scoring:
+      Step-by-step Analysis and Scoring:
             \[LLM generates reasoning and scores per category here during its "thought" process\]
 
-            Final Scores Output:
+      Final Scores Output:
             Clarity of Language: \[score\_1\_4\]
             Lexical Diversity: \[score\_1\_4\]
             Conciseness and Completeness: \[score\_1\_4\]
@@ -271,11 +249,11 @@ Total Score: \[sum_of_scores_5_20\]
 
 \* \*\*7.2.6. Procedure:\*\*  
  1\. For each of the 50 TranscriptIDs in Set A:  
- a. Perform 25 grading attempts using Prompt P2.1 (Zero-shot).  
- b. Perform 25 grading attempts using Prompt P2.2 (Few-shot).  
- c. Perform 25 grading attempts using Prompt P2.3 (CoT).  
- Log all required data for each attempt.  
- (Total grading attempts: 50 transcripts \* 3 strategies \* 25 attempts/strategy \= 3750).  
+ a. Perform 25 grading attempts using Prompt P2.1 (Zero-shot).
+b. Perform 25 grading attempts using Prompt P2.2 (Few-shot).
+c. Perform 25 grading attempts using Prompt P2.3 (CoT).
+Log all required data for each attempt.
+(Total grading attempts: 50 transcripts \* 3 strategies \* 25 attempts/strategy \= 3750).  
 \* \*\*7.2.7. Data Analysis Plan (Alpha \= 0.05):\*\*  
  1\. For each transcript and strategy, calculate STDEV of the 25 total scores.  
  2\. Compare STDEVs across the 3 strategies using Friedman's test.  
@@ -286,8 +264,7 @@ Total Score: \[sum_of_scores_5_20\]
  \* Statistical test results.  
  \* Identification of the "Winning Prompt Strategy" (lowest significant STDEV) to be used in Exp 3\.
 
-7.3. Experiment 3: LLM Architecture Comparison  
-\* 7.3.1. Experiment ID & Title: EXP3_ModelComparison  
+7.3. Experiment 3: LLM Architecture Comparison \* 7.3.1. Experiment ID & Title: EXP3_ModelComparison  
 \* 7.3.2. Objective(s): To compare the performance of different state-of-the-art LLM architectures in applying Rubric 5.0 with the optimized prompt strategy, focusing on scoring consistency, qualitative reasoning characteristics, and practical considerations, thereby establishing a methodology for ongoing model selection in this evolving landscape.  
 \* 7.3.3. Hypothesis(es): H3: Different LLM architectures will exhibit significantly different STDEVs in total scores and qualitatively distinct reasoning patterns when applying the same optimized prompt strategy and rubric.  
 \* 7.3.4. Variables:  
@@ -301,9 +278,9 @@ Total Score: \[sum_of_scores_5_20\]
 \* Prompt Template: The "Winning Prompt Strategy" identified in Exp 2 (e.g., P2.3 if CoT wins).  
 \* 7.3.6. Procedure:  
 1\. For each of the 50 TranscriptIDs in Set B:  
-a. For each LLM model being tested:  
-i. Perform 20 grading attempts using the Winning Prompt Strategy.  
-Log all required data, including the specific model version used for each attempt.  
+ a. For each LLM model being tested:
+i. Perform 20 grading attempts using the Winning Prompt Strategy.
+Log all required data, including the specific model version used for each attempt.
 (Total grading attempts: 50 transcripts \* 4 models \* 20 attempts/model \= 4000).  
 \* 7.3.7. Data Analysis Plan (Alpha \= 0.05):  
 1\. For each transcript and model, calculate STDEV of the 20 total scores.  
@@ -318,8 +295,7 @@ Log all required data, including the specific model version used for each attemp
 \* Comparative data on API latency and estimated costs.  
 \* Characterization of current leading models based on empirical data and a recommended framework/methodology for selecting and evaluating LLMs for this task as new models become available or existing ones are updated.
 
-7.4. Experiment 4: Qualitative Reasoning Analysis  
-\* 7.4.1. Experiment ID & Title: EXP4_ReasoningAnalysis  
+7.4. Experiment 4: Qualitative Reasoning Analysis \* 7.4.1. Experiment ID & Title: EXP4_ReasoningAnalysis  
 \* 7.4.2. Objective(s): To qualitatively characterize and compare the reasoning patterns of different LLMs (from Exp 3) when applying Rubric 5.0 using the optimized (CoT-style if selected) prompt, specifically assessing alignment with rubric criteria, evidence citation, and identifying potential issues like hallucinations or superficial reasoning (Lit Review: Sec 5.3, Sources 5, 33, 15, 18).  
 \* 7.4.3. Hypothesis(es): (More exploratory, less formal hypotheses)  
 \* H4a: Different LLMs will exhibit qualitatively different reasoning styles (e.g., reliance on direct quotes vs. paraphrasing, level of detail, depth of rubric interpretation).  
@@ -342,10 +318,9 @@ Log all required data, including the specific model version used for each attemp
 \* Refinement: Two human researchers independently code reasoning for 3 transcripts using the draft scheme. Calculate Inter-Coder Reliability (ICR) using Cohen's Kappa. Refine coding scheme definitions until Kappa \>= 0.70.  
 \* 7.4.6. Procedure (AI applies final coding scheme if possible, or flags for human coding):  
 1\. For each of the 15 selected transcripts:  
-a. For each LLM model's reasoning output from Exp 3:  
-i. Segment reasoning pertaining to each of the 5 rubric categories.  
-ii. Apply the finalized Reasoning Coding Scheme to each segment. Log coded categories.  
-\* 7.4.7. Data Analysis Plan:  
+ a. For each LLM model's reasoning output from Exp 3:
+i. Segment reasoning pertaining to each of the 5 rubric categories.
+ii. Apply the finalized Reasoning Coding Scheme to each segment. Log coded categories. \* 7.4.7. Data Analysis Plan:  
 1\. Calculate frequencies of each reasoning code per LLM model, aggregated across transcripts and rubric categories.  
 2\. Use Chi-squared tests or Fisher's exact tests to compare distributions of codes across models.  
 3\. Qualitatively summarize distinct reasoning patterns, strengths, and weaknesses for each LLM, supported by examples.  
@@ -355,8 +330,7 @@ ii. Apply the finalized Reasoning Coding Scheme to each segment. Log coded categ
 \* ICR for human coders (if applicable for scheme development).  
 \* Statistical comparisons of code frequencies.  
 \* Qualitative report summarizing reasoning styles per LLM, to inform selection of "Winning LLM."  
-7.5. Experiment 5: Optimized Tool Validation  
-\* 7.5.1. Experiment ID & Title: EXP5_FinalToolValidation  
+ 7.5. Experiment 5: Optimized Tool Validation \* 7.5.1. Experiment ID & Title: EXP5_FinalToolValidation  
 \* 7.5.2. Objective(s): 1. To assess the scoring consistency (reliability) of the final, optimized LLM assessment tool configuration on a large, unseen set of real transcripts. 2. To explore and report on feasible methods for quantifying the uncertainty/confidence of the optimized tool's scores, providing an initial characterization of these properties (Lit Review: Sec 5.2).
 
 - 7.5.3. Hypothesis(es): (Benchmark setting)
@@ -373,8 +347,8 @@ ii. Apply the finalized Reasoning Coding Scheme to each segment. Log coded categ
   \* Temperature: 0.1. Rubric: Rubric 5.0.  
   \* 7.5.6. Procedure:  
   1\. For each of the TranscriptIDs in Set C:  
-  a. Perform 10 grading attempts using the Optimized Tool Configuration.  
-  Log all required data.  
+   a. Perform 10 grading attempts using the Optimized Tool Configuration.
+  Log all required data.
   (Total grading attempts: approx. 577 transcripts \* 10 attempts \= 5770).  
   \* 7.5.7. Data Analysis Plan:  
   1\. For each transcript, calculate STDEV of the 10 total scores and STDEV for each of the 5 category scores.  
@@ -408,45 +382,45 @@ ii. Apply the finalized Reasoning Coding Scheme to each segment. Log coded categ
 - **Abstract:** (Structured: Importance, Objective, Design, Setting, Participants, Main Outcome(s) and Measure(s), Results, Conclusions and Relevance) \- Reflecting findings from Exp 1-5.
 - **Key Points:** (3 bullet points: Question, Findings, Meaning)
 - **Introduction:**
-  - 1.1 Background on importance of health communication, challenges in assessment.
-  - 1.2 Potential of LLMs, need for rigorous methodology, statement of project aim.
+- 1.1 Background on importance of health communication, challenges in assessment.
+- 1.2 Potential of LLMs, need for rigorous methodology, statement of project aim.
 - **Methods:**
   - 2.1 Rubric Development (Patient Health Communication Rubric v5.0 \- brief description and justification).
-  - 2.2 Transcript Datasets (Sources, de-identification, partitioning).
-  - 2.3 Experimental Design Overview (mentioning the sequence of optimization and validation experiments).
-  - 2.4 LLM Models and Prompting Strategies Investigated.
-  - 2.5 For each key experimental phase (derived from Exp 1-5):
-    - Objective
-    - Key procedures
-    - Outcome measures (e.g., STDEV, MAE)
-    - Statistical analysis approaches
-  - 2.6 Qualitative Reasoning Analysis Methodology (Exp 4).
+- 2.2 Transcript Datasets (Sources, de-identification, partitioning).
+- 2.3 Experimental Design Overview (mentioning the sequence of optimization and validation experiments).
+- 2.4 LLM Models and Prompting Strategies Investigated.
+- 2.5 For each key experimental phase (derived from Exp 1-5):
+  - Objective
+  - Key procedures
+  - Outcome measures (e.g., STDEV, MAE)
+  - Statistical analysis approaches
+- 2.6 Qualitative Reasoning Analysis Methodology (Exp 4).
 - **Results:**
-  - 3.1 Baseline LLM-Rubric Utility and Synthetic Transcript Performance (Exp 1 findings).
+- 3.1 Baseline LLM-Rubric Utility and Synthetic Transcript Performance (Exp 1 findings).
   - 3.2 Prompt Strategy Optimization (Exp 2 findings \- identify winning strategy).
   - 3.3 LLM Architecture Comparison (Exp 3 findings \- identify winning model).
   - 3.4 Qualitative Analysis of LLM Reasoning (Exp 4 findings \- characterize reasoning of different models).
   - 3.5 Performance of the Final Optimized Assessment Tool (Exp 5 findings \- benchmark consistency).
 - **Discussion:**
-  - 4.1 Summary of Key Findings (e.g., optimal LLM configuration, achieved consistency).
-  - 4.2 Interpretation of Findings (why certain strategies/models performed better, implications of reasoning patterns).
-  - 4.3 Strengths of the Study (methodological rigor, systematic comparisons).
-  - 4.4 Limitations (scope of transcripts, specific LLMs tested, consistency vs. accuracy, potential for LLM drift over time).
-  - 4.5 Comparison with Existing Literature (if any).
-  - 4.6 Potential Applications and Use Cases (from Outline 2.1).
-  - 4.7 Future Directions (including human expert validation, real-world implementation studies, multilingual adaptation).
+- 4.1 Summary of Key Findings (e.g., optimal LLM configuration, achieved consistency).
+- 4.2 Interpretation of Findings (why certain strategies/models performed better, implications of reasoning patterns).
+- 4.3 Strengths of the Study (methodological rigor, systematic comparisons).
+- 4.4 Limitations (scope of transcripts, specific LLMs tested, consistency vs. accuracy, potential for LLM drift over time).
+- 4.5 Comparison with Existing Literature (if any).
+- 4.6 Potential Applications and Use Cases (from Outline 2.1).
+- 4.7 Future Directions (including human expert validation, real-world implementation studies, multilingual adaptation).
 - **Conclusions:** Succinct summary of the main takeaway regarding the developed LLM assessment framework.
 - **References**
 - **Figures (Max 5 for main paper, others as supplementary):**
-  - Fig 1: Comparison of STDEVs for Prompt Strategies (Exp 2).
-  - Fig 2: Comparison of STDEVs for LLM Architectures (Exp 3).
-  - Fig 3: Distribution of STDEVs for the Final Optimized Tool (Exp 5).
+- Fig 1: Comparison of STDEVs for Prompt Strategies (Exp 2).
+- Fig 2: Comparison of STDEVs for LLM Architectures (Exp 3).
+- Fig 3: Distribution of STDEVs for the Final Optimized Tool (Exp 5).
   - Fig 4: Qualitative examples of LLM reasoning differences (Exp 4\) or MAE for synthetic transcripts (Exp 1).
-  - Fig 5: TBD based on most impactful visual data.
+- Fig 5: TBD based on most impactful visual data.
 - **Tables:**
-  - Table 1: Descriptive statistics of transcript datasets.
-  - Table 2: Key statistical results for prompt/model comparisons.
-  - Table 3: Frequencies of reasoning codes (Exp 4).
+- Table 1: Descriptive statistics of transcript datasets.
+- Table 2: Key statistical results for prompt/model comparisons.
+- Table 3: Frequencies of reasoning codes (Exp 4).
 - **Supplementary Materials:** Full Rubric 5.0, detailed prompt texts, additional figures/tables, list of all transcripts (IDs only).
 
 10\. Ethical Considerations Statement (for the paper)
@@ -484,6 +458,6 @@ Example text structure (to be adapted and expanded based on final project detail
   2.  _Mitigation/Management during project:_ If significant hallucinations or reasoning flaws are tied to a specific model or prompt, attempt prompt refinement. If pervasive, document limitations thoroughly. If bias is suspected (e.g., from qualitative review), note this limitation and the need for diverse data/audits in future work.
   3.  _Reporting:_ Transparently report any observed limitations or biases in the final manuscript. (Lit Review: Sec 5.1, 5.3, 6.2).
 - **Error Handling by AI Executor:**
-  - Implement retry logic for transient API errors (e.g., rate limits, temporary server issues) with exponential backoff, up to 3 retries.
-  - Log all errors meticulously, including error messages and context.
-  - If a specific transcript consistently causes errors for a model/prompt, flag it for investigation and potentially exclude it from that specific analysis if unresolvable, documenting the exclusion.
+- Implement retry logic for transient API errors (e.g., rate limits, temporary server issues) with exponential backoff, up to 3 retries.
+- Log all errors meticulously, including error messages and context.
+- If a specific transcript consistently causes errors for a model/prompt, flag it for investigation and potentially exclude it from that specific analysis if unresolvable, documenting the exclusion.

@@ -1,0 +1,13 @@
+GradingCondition,ScoreType,MAE,RMSE,Correlation
+G1_NonRubric,Effective_Total_Score,2.0492,2.680373108356372,0.9178401148798114
+G1_NonRubric,Clarity_of_Language,,,
+G1_NonRubric,Lexical_Diversity,,,
+G1_NonRubric,Conciseness_and_Completeness,,,
+G1_NonRubric,Engagement_with_Health_Information,,,
+G1_NonRubric,Health_Literacy_Indicator,,,
+G2_RubricBased,Effective_Total_Score,1.5432,2.0409801566894274,0.9134755826628973
+G2_RubricBased,Clarity_of_Language,0.7136,1.0361467077590896,0.555285540704193
+G2_RubricBased,Lexical_Diversity,0.74,0.8831760866327847,0.661177245278848
+G2_RubricBased,Conciseness_and_Completeness,0.8916,1.0820351195779183,0.3179723045797224
+G2_RubricBased,Engagement_with_Health_Information,0.6268,0.9353074360871938,0.6077087101207207
+G2_RubricBased,Health_Literacy_Indicator,0.7104,0.9055385138137416,0.6426450363485494

@@ -34,6 +34,13 @@ ANALYSIS_OUTPUT_DIR = os.path.join(
     PROJECT_ROOT, "experiments/exp1_baseline_utility/results/analysis/"
 )
 ALPHA = 0.05  # Significance level for statistical tests
+RUBRIC_CATEGORIES = [
+    "Clarity_of_Language",
+    "Lexical_Diversity",
+    "Conciseness_and_Completeness",
+    "Engagement_with_Health_Information",
+    "Health_Literacy_Indicator",
+]
 
 
 # --- Helper Functions ---
@@ -49,36 +56,61 @@ def save_plot(fig, filename):
 
 
 def calculate_accuracy_metrics(df):
-    """Calculate accuracy metrics for each grading condition."""
+    """Calculate accuracy metrics for each grading condition, including subscores."""
     metrics = {}
-    for condition in df["GradingCondition"].unique():
-        condition_data = df[df["GradingCondition"] == condition]
+    conditions = df["GradingCondition"].unique()
 
-        # Calculate mean absolute error
-        mae = np.mean(
-            np.abs(
-                condition_data["Effective_Total_Score"]
-                - condition_data["TargetTotalScore_Synthetic"]
-            )
-        )
+    # Define the score columns to analyze
+    score_cols = [
+        "Effective_Total_Score",
+        "Clarity_of_Language",
+        "Lexical_Diversity",
+        "Conciseness_and_Completeness",
+        "Engagement_with_Health_Information",
+        "Health_Literacy_Indicator",
+    ]
 
-        # Calculate root mean squared error
-        rmse = np.sqrt(
-            np.mean(
-                (
-                    condition_data["Effective_Total_Score"]
-                    - condition_data["TargetTotalScore_Synthetic"]
+    for condition in conditions:
+        condition_data = df[df["GradingCondition"] == condition].copy()
+        condition_metrics = {}
+
+        for score_col in score_cols:
+            target_col = f"Target_{score_col.replace('Effective_', '')}"
+            if score_col == "Effective_Total_Score":
+                target_col = "Target_TotalScore"
+
+            # Ensure target column exists in the dataframe
+            if target_col not in condition_data.columns:
+                print(
+                    f"Warning: Target column {target_col} not found. Skipping accuracy calculation for {score_col}."
                 )
-                ** 2
-            )
-        )
+                continue
 
-        # Calculate correlation coefficient
-        correlation = condition_data["Effective_Total_Score"].corr(
-            condition_data["TargetTotalScore_Synthetic"]
-        )
+            # Drop rows where either the score or target is NaN for this specific metric
+            metric_data = condition_data[[score_col, target_col]].dropna()
 
-        metrics[condition] = {"MAE": mae, "RMSE": rmse, "Correlation": correlation}
+            if not metric_data.empty:
+                mae = np.mean(np.abs(metric_data[score_col] - metric_data[target_col]))
+                rmse = np.sqrt(
+                    np.mean((metric_data[score_col] - metric_data[target_col]) ** 2)
+                )
+                correlation, _ = stats.pearsonr(
+                    metric_data[score_col], metric_data[target_col]
+                )
+
+                condition_metrics[score_col] = {
+                    "MAE": mae,
+                    "RMSE": rmse,
+                    "Correlation": correlation,
+                }
+            else:
+                condition_metrics[score_col] = {
+                    "MAE": np.nan,
+                    "RMSE": np.nan,
+                    "Correlation": np.nan,
+                }
+
+        metrics[condition] = condition_metrics
 
     return metrics
 
@@ -140,14 +172,16 @@ def main():
         df_attempts = pd.concat([df_non_rubric, df_rubric], ignore_index=True)
 
         # Merge with synthetic data to get target scores
+        target_score_cols = [
+            "SyntheticTranscriptID",
+            "Target_TotalScore",
+        ] + [f"Target_{cat}" for cat in RUBRIC_CATEGORIES]
+
         df_attempts = df_attempts.merge(
-            df_synthetic[["SyntheticTranscriptID", "TargetTotalScore"]],
+            df_synthetic[target_score_cols],
             left_on="TranscriptID",
             right_on="SyntheticTranscriptID",
             how="left",
-        )
-        df_attempts.rename(
-            columns={"TargetTotalScore": "TargetTotalScore_Synthetic"}, inplace=True
         )
 
         # Save processed data
@@ -227,11 +261,8 @@ def main():
         df_attempts.groupby(["TranscriptID", "GradingCondition"])
         .agg(
             STDEV_Total_Score=("Effective_Total_Score", "std"),
-            Mean_Total_Score=(
-                "Effective_Total_Score",
-                "mean",
-            ),  # Keep mean for other uses if needed
-            TargetTotalScore_Synthetic=("TargetTotalScore_Synthetic", "first"),
+            Mean_Total_Score=("Effective_Total_Score", "mean"),
+            Target_TotalScore=("Target_TotalScore", "first"),
         )
         .reset_index()
     )
@@ -310,12 +341,11 @@ def main():
     save_plot(plt.gcf(), "exp1_stdev_distribution.png")
 
     # --- 2. Accuracy (MAE) - H1b ---
-    print("\n--- H1b: Accuracy (MAE) Analysis ---")
-    # Calculate mean LLM total score per transcript and condition first
-    # This 'stdev_results' DataFrame already has Mean_Total_Score and TargetTotalScore_Synthetic
+    print("\n--- H1b: Accuracy (MAE) for TOTAL SCORE Analysis ---")
 
+    # We will use stdev_results which has the mean score per transcript
     stdev_results["MAE_MeanScore_vs_TTS"] = np.abs(
-        stdev_results["Mean_Total_Score"] - stdev_results["TargetTotalScore_Synthetic"]
+        stdev_results["Mean_Total_Score"] - stdev_results["Target_TotalScore"]
     )
 
     mae_g1 = stdev_results[stdev_results["GradingCondition"] == "G1_NonRubric"][
@@ -414,7 +444,7 @@ def main():
     # --- 3. Score Distribution Comparison - H1c ---
     print("\n--- H1c: Score Distribution Analysis ---")
     # This uses the 'stdev_results' df which contains Mean_Total_Score per transcript/condition
-    # and TargetTotalScore_Synthetic
+    # and Target_TotalScore
 
     plt.figure(figsize=(12, 7))
     sns.histplot(
@@ -443,7 +473,7 @@ def main():
     )
     sns.histplot(
         stdev_results[
-            "TargetTotalScore_Synthetic"
+            "Target_TotalScore"
         ].unique(),  # Use unique target scores for TTS distribution
         label="Synthetic Target Scores (TTS)",
         kde=True,
@@ -463,6 +493,56 @@ def main():
     # KL Divergence could be added here if desired, comparing G1/G2 distributions to TTS.
     # For KL divergence, ensure bins are consistent and represent probabilities.
 
+    # --- 4. Subscore Accuracy Analysis (New Section) ---
+    print("\n--- 4. Subscore Accuracy Analysis ---")
+
+    # Use the full attempts dataframe for subscore analysis
+    # We are interested in the accuracy of individual scoring attempts, not the mean.
+    subscore_accuracy_metrics = calculate_accuracy_metrics(df_attempts)
+
+    # Convert to a more readable DataFrame for display
+    summary_list = []
+    for condition, metrics in subscore_accuracy_metrics.items():
+        for score_type, values in metrics.items():
+            row = {
+                "GradingCondition": condition,
+                "ScoreType": score_type,
+                "MAE": values.get("MAE"),
+                "RMSE": values.get("RMSE"),
+                "Correlation": values.get("Correlation"),
+            }
+            summary_list.append(row)
+
+    df_subscore_summary = pd.DataFrame(summary_list)
+
+    print("Subscore Accuracy Metrics:")
+    print(df_subscore_summary.to_string())
+
+    # Save this detailed summary to a file
+    subscore_summary_path = os.path.join(
+        ANALYSIS_OUTPUT_DIR, "exp1_subscore_accuracy_summary.csv"
+    )
+    df_subscore_summary.to_csv(subscore_summary_path, index=False)
+    print(f"Saved subscore accuracy summary to: {subscore_summary_path}")
+
+    # --- Plotting Subscore MAE ---
+    plt.figure(figsize=(14, 8))
+    sns.barplot(
+        data=df_subscore_summary[
+            df_subscore_summary["ScoreType"] != "Effective_Total_Score"
+        ],
+        x="ScoreType",
+        y="MAE",
+        hue="GradingCondition",
+    )
+    plt.title("Mean Absolute Error (MAE) for each Rubric Category")
+    plt.xlabel("Rubric Category")
+    plt.ylabel("Mean Absolute Error (MAE)")
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    save_plot(plt.gcf(), "exp1_subscore_mae_by_category.png")
+    print("Plotted subscore MAE by category.")
+
     # --- Overall Summary Table ---
     df_summary = pd.DataFrame(summary_stats)
     summary_table_path = os.path.join(
@@ -473,18 +553,18 @@ def main():
     print("\nSummary of Statistical Tests:")
     print(df_summary.to_string())
 
-    # --- Remove original accuracy_metrics and distribution_stats calculation ---
-    # The new approach integrates these into the hypothesis testing sections.
-    # print("\\nAnalyzing score distributions...")
-    # distribution_stats = analyze_score_distribution(df_attempts) # Original call
-    # print("\\nAnalyzing target vs. actual scores...")
-    # accuracy_metrics = calculate_accuracy_metrics(df_attempts) # Original call
-
     # The helper functions `calculate_accuracy_metrics` and `analyze_score_distribution`
     # are no longer directly used in the main flow as their logic is now part of the
     # hypothesis-driven sections H1a, H1b, H1c for clarity.
     # They can be kept for utility or removed if not needed elsewhere.
     # For now, I will leave them in the file but comment out their calls from main().
+
+    print("\n\n--- Detailed Accuracy Analysis (MAE, RMSE, Correlation) ---")
+    accuracy_metrics = calculate_accuracy_metrics(df_attempts)
+    for condition, metrics in accuracy_metrics.items():
+        print(f"\n--- Metrics for {condition} ---")
+        df_metrics = pd.DataFrame(metrics).T
+        print(df_metrics.to_string())
 
     print("\nExperiment 1: Results Analysis script finished.")
 
