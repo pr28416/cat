@@ -107,6 +107,28 @@ The primary hypotheses focused on consistency (H1a: Rubric-based grading G2 will
 
 _TTS: TargetTotalScore_Synthetic_
 
+### Graphical Analysis of Key Metrics
+
+To provide a more intuitive understanding of the results, the following plots visualize the key comparisons between the non-rubric (G1) and rubric-based (G2) methods.
+
+#### Consistency Distribution (H1a)
+
+![STDEV Distribution](analysis/exp1_stdev_distribution.png)
+
+This plot visualizes the consistency of the two grading methods. It shows the distribution of standard deviations calculated from the 50 repeated gradings for each transcript. Both curves are sharply peaked at or near zero, visually confirming the high consistency reported in the statistical analysis. There is no obvious visual difference between the two methods, which aligns with the non-significant statistical result.
+
+#### Accuracy Distribution (H1b)
+
+![MAE Distribution](analysis/exp1_mae_distribution.png)
+
+This plot compares the accuracy of the two methods by displaying the distribution of Mean Absolute Error (MAE) for the total score. The curve for the rubric-based method (G2, orange) is visibly shifted to the left compared to the non-rubric method (G1, blue), with its peak centered closer to zero. This visually supports the key finding (H1b) that G2 is significantly more accurate, having a lower overall MAE.
+
+#### Overall Score Distributions
+
+![Score Distributions](analysis/exp1_mean_scores_vs_tts_distribution.png)
+
+This chart compares the overall scoring behavior of both models against the ground truth target scores (TTS). The target scores were intentionally generated with a stratified distribution (peaks in the low, medium, and high ranges), visible in the green curve. In contrast, both the G1 (blue) and G2 (orange) models produce smoother, more normal-looking score distributions. This indicates that while the models' average scores are accurate (as shown by MAE), they may not fully reproduce the specific stratified quality levels of the synthetic dataset, instead tending to score more towards the center of the range.
+
 ### Subscore Accuracy Analysis (G2_RubricBased only)
 
 A major goal of this experiment was to determine if the rubric-based model could accurately assess individual communication components. The non-rubric model (G1) does not produce subscores.
@@ -123,6 +145,18 @@ The table below shows the accuracy metrics for the G2 model's subscores against 
 | **Effective Total Score**          | **1.543** | **2.041** | **0.913**   |
 
 ![Subscore MAE by Category](analysis/exp1_subscore_mae_by_category.png)
+
+### Error Distribution Analysis
+
+The following chart provides the most detailed view of model performance. It shows the distribution of the scoring error (Target Score - Actual Score) for the final scores of both the G1 (Non-Rubric) and G2 (Rubric-Based) models, as well as for the individual subscores of the G2 model.
+
+This allows for a direct comparison of both bias and variance:
+
+- **Bias**: A curve's peak relative to the vertical zero-line shows its bias. The G1 Total Score (dashed black line) is centered to the left of zero, indicating a systemic bias towards over-scoring (i.e., Target - Actual is negative). In contrast, the G2 Total Score (solid black line) is centered much closer to zero, indicating lower bias.
+- **Variance**: The "peakiness" or narrowness of a curve shows its variance. Sharper, narrower peaks indicate lower variance and higher consistency in the error. The G2 total score curve is noticeably narrower than the G1 curve, visually confirming its lower error.
+- **Subscores**: The distributions for the individual G2 subscores are generally well-centered around zero, showing low bias. The spread of these curves aligns with the MAE table: "Engagement with Health Information" has one of the tightest distributions, reflecting its low MAE, while "Conciseness and Completeness" is visibly wider, reflecting its higher MAE and greater uncertainty.
+
+![Score Difference Distribution](analysis/exp1_score_difference_distribution.png)
 
 ### Key Findings
 

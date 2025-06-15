@@ -418,22 +418,23 @@ def main():
 
     # Plot MAE distributions
     plt.figure(figsize=(10, 6))
-    # Need to melt the pivot table back for seaborn histplot with hue
-    mae_plot_df = mae_pivot.melt(
-        id_vars=["TranscriptID"],
-        value_vars=["G1_NonRubric", "G2_RubricBased"],
-        var_name="GradingCondition",
-        value_name="MAE_MeanScore_vs_TTS",
-    )
-
     sns.histplot(
-        data=mae_plot_df,
-        x="MAE_MeanScore_vs_TTS",
-        hue="GradingCondition",
+        mae_pivot["G1_NonRubric"],
+        label="G1 (Non-Rubric)",
         kde=True,
         element="step",
         stat="density",
         common_norm=False,
+        color="blue",
+    )
+    sns.histplot(
+        mae_pivot["G2_RubricBased"],
+        label="G2 (Rubric-Based)",
+        kde=True,
+        element="step",
+        stat="density",
+        common_norm=False,
+        color="orange",
     )
     plt.title("Distribution of MAE (Mean Score vs Target) by Grading Condition (H1b)")
     plt.xlabel("Mean Absolute Error (|Mean Score - Target Score|)")
@@ -542,6 +543,78 @@ def main():
     plt.tight_layout()
     save_plot(plt.gcf(), "exp1_subscore_mae_by_category.png")
     print("Plotted subscore MAE by category.")
+
+    # --- 5. Score Difference Distribution (Target - Actual) ---
+    print("\n--- 5. Score Difference Distribution Analysis ---")
+    plt.figure(figsize=(12, 8))
+
+    # --- G2 Rubric-Based Scores ---
+    g2_attempts = df_attempts[
+        df_attempts["GradingCondition"] == "G2_RubricBased"
+    ].copy()
+    score_types_g2 = [
+        # "Effective_Total_Score", # Will plot G1 and G2 total scores together later
+        "Clarity_of_Language",
+        "Lexical_Diversity",
+        "Conciseness_and_Completeness",
+        "Engagement_with_Health_Information",
+        "Health_Literacy_Indicator",
+    ]
+    for score_type in score_types_g2:
+        target_col = f"Target_{score_type}"
+        actual_col = score_type
+
+        if target_col in g2_attempts.columns and actual_col in g2_attempts.columns:
+            diff_col = f"Diff_{score_type}"
+            g2_attempts[diff_col] = g2_attempts[target_col] - g2_attempts[actual_col]
+            diff_data = g2_attempts[diff_col].dropna()
+            if not diff_data.empty:
+                sd = diff_data.std()
+                label_text = f"G2 - {score_type.replace('_', ' ')} (SD={sd:.2f})"
+                sns.kdeplot(diff_data, label=label_text, linewidth=2, bw_adjust=2.5)
+
+    # --- G1 vs G2 Total Score Difference ---
+    for condition, line_style in [("G1_NonRubric", "--"), ("G2_RubricBased", "-")]:
+        condition_attempts = df_attempts[
+            df_attempts["GradingCondition"] == condition
+        ].copy()
+        target_col = "Target_TotalScore"
+        actual_col = "Effective_Total_Score"
+
+        if (
+            target_col in condition_attempts.columns
+            and actual_col in condition_attempts.columns
+        ):
+            diff_col = "Diff_Total_Score"
+            condition_attempts[diff_col] = (
+                condition_attempts[target_col] - condition_attempts[actual_col]
+            )
+            diff_data = condition_attempts[diff_col].dropna()
+            if not diff_data.empty:
+                sd = diff_data.std()
+                label_text = f"{condition.split('_')[0]} - Total Score (SD={sd:.2f})"
+                sns.kdeplot(
+                    diff_data,
+                    label=label_text,
+                    linewidth=2.5,
+                    bw_adjust=1.5,
+                    linestyle=line_style,
+                    color="black",
+                )
+
+    plt.title(
+        "Distribution of Score Differences (Target - Actual) for All Grading Conditions"
+    )
+    plt.xlabel("Difference in Scoring (Target Score - Actual Score)")
+    plt.ylabel("Density")
+    plt.axvline(0, color="grey", linestyle="--")
+    handles, labels = plt.gca().get_legend_handles_labels()
+    plt.legend(handles, labels, title="Score Category")
+    plt.grid(True)
+    save_plot(plt.gcf(), "exp1_score_difference_distribution.png")
+    print(
+        f"Plot saved: {os.path.join(ANALYSIS_OUTPUT_DIR, 'exp1_score_difference_distribution.png')}"
+    )
 
     # --- Overall Summary Table ---
     df_summary = pd.DataFrame(summary_stats)
