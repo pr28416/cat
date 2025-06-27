@@ -1,0 +1,74 @@
+transcript_id,model,prompt_name,attempt,error,full_response,reasoning,Clarity of Language,Lexical Diversity,Conciseness and Completeness,Engagement with Health Information,Health Literacy Indicator,Total_Score
+DOVA_P434.txt,gpt-4o-mini-2024-07-18,p3_1_winning_few_shot_prompt,2,,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 2  
+Total Score: 12  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their condition and provides relevant information, such as the frequency of gout flares and their dietary impact. However, some responses are vague or lack detail, particularly regarding medication history and specifics about their symptoms (Conciseness/Completeness: 2). The vocabulary used is somewhat limited, with repetitive phrases and a lack of nuanced expression (Lexical Diversity: 2). Overall, the patient engages with the doctor and responds to questions, but there are moments of ambiguity and a need for further clarification, indicating a moderate level of health literacy.",,3.0,2.0,2.0,3.0,2.0,12.0
+DOVA_P434.txt,gpt-4o-2024-08-06,p3_1_winning_few_shot_prompt,1,,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+**Rationale:** The patient's communication is generally brief and lacks detail, often requiring the doctor to ask follow-up questions to obtain necessary information. The language used is basic and somewhat repetitive, with limited vocabulary. The patient provides some relevant information but often in a vague manner, such as when discussing the frequency of gout flares or medication details. Engagement with health information is minimal, with the patient responding to questions but not actively participating in the conversation or asking questions. Overall, the patient demonstrates a limited understanding of health concepts and does not exhibit proactive engagement in managing their health.",,2.0,2.0,2.0,2.0,2.0,10.0
+DOVA_P434.txt,gpt-4o-mini-2024-07-18,p3_1_winning_few_shot_prompt,1,,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 2  
+Total Score: 12  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their condition and treatment, but responses are often brief and lack detail (Clarity of Language: 3). The vocabulary used is somewhat limited and repetitive, particularly in responses about medications and symptoms (Lexical Diversity: 2). While the patient provides some relevant information, there are omissions that could lead to misunderstandings (Conciseness and Completeness: 2). The patient shows some engagement by asking questions and responding to the doctor's prompts, but does not initiate much discussion (Engagement with Health Information: 3). Their understanding of health concepts is basic, indicating some gaps in health literacy (Health Literacy Indicator: 2). Overall, the communication pattern suggests a need for more detailed responses and proactive engagement to enhance the clinical interaction.",,3.0,2.0,2.0,3.0,2.0,12.0
+DOVA_P434.txt,o1-mini-2024-09-12,p3_1_winning_few_shot_prompt,1,API returned an empty response.,,,,,,,,
+DOVA_P434.txt,o1-mini-2024-09-12,p3_1_winning_few_shot_prompt,2,API returned an empty response.,,,,,,,,
+DOVA_P434.txt,gpt-4.1-2025-04-14,p3_1_winning_few_shot_prompt,1,,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+Rationale:  
+The patient's responses are generally brief, often limited to single words or short phrases (""Yeah,"" ""Alright,"" ""Right,"" ""Uh-huh,"" ""No""), and sometimes unclear or lacking context. When elaboration is provided, it is vague or incomplete (e.g., ""If I half way eat right it don't bother me""). Lexical diversity is limited, with frequent repetition and basic vocabulary. The patient rarely volunteers additional information or asks clarifying questions, except for a single, somewhat awkwardly phrased question about erectile dysfunction. Engagement is minimal, with the patient mostly responding to direct prompts and not expanding on answers. Health literacy appears limited; the patient does not demonstrate understanding of medication names or regimens and expresses uncertainty about prescriptions and insurance. Overall, the communication pattern requires the clinician to do most of the work to extract relevant information.",,2.0,2.0,2.0,2.0,2.0,10.0
+DOVA_P434.txt,gpt-4o-2024-08-06,p3_1_winning_few_shot_prompt,2,,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+**Rationale:**  
+- **Clarity of Language:** The patient provides some relevant responses but often gives brief or unclear answers, such as ""Yeah,"" ""Uh-huh,"" and ""I don't think so,"" which require further prompting from the doctor.  
+- **Lexical Diversity:** The patient's vocabulary is basic and repetitive, with frequent use of simple affirmations and limited expression of nuanced ideas.  
+- **Conciseness and Completeness:** The patient provides some relevant information but often lacks detail, requiring the doctor to ask follow-up questions to obtain necessary information.  
+- **Engagement with Health Information:** The patient responds to questions but does not actively engage or provide additional context unless prompted. There is minimal initiative to ask questions or seek clarification.  
+- **Health Literacy Indicator:** The patient demonstrates a limited understanding of health concepts, such as medication management and insurance coverage, and requires guidance from the doctor.",,2.0,2.0,2.0,2.0,2.0,10.0
+DOVA_P434.txt,gpt-4.1-2025-04-14,p3_1_winning_few_shot_prompt,2,,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+Rationale:  
+The patient’s responses are generally brief, often limited to one-word or short phrases (""Yeah,"" ""Alright,"" ""Right,"" ""Uh-huh,"" ""No""), and rarely elaborate unless directly prompted. There are occasional attempts at explanation (e.g., ""If I half way eat right it don't bother me""), but these are vague and lack specificity. Vocabulary is basic and repetitive, with little evidence of nuanced or precise terminology. The patient provides some relevant information when asked directly but omits important details (e.g., cannot recall last medication taken, unsure about refills), requiring the clinician to ask multiple follow-up questions. Engagement is minimal; the patient does ask one question about erectile dysfunction, but otherwise does not volunteer information or seek clarification. Health literacy appears limited, as the patient does not demonstrate understanding of medication names, dosing, or insurance implications without prompting, and sometimes misuses or omits terms. Overall, the communication pattern is passive and requires significant clinician effort to extract clinically relevant information.",,2.0,2.0,2.0,2.0,2.0,10.0
+DOVA_P434.txt,o1-2024-12-17,p3_1_winning_few_shot_prompt,2,API returned an empty response.,,,,,,,,
+DOVA_P434.txt,o4-mini-2025-04-16,p3_1_winning_few_shot_prompt,2,,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",,2.0,2.0,2.0,2.0,2.0,10.0
+DOVA_P434.txt,o1-2024-12-17,p3_1_winning_few_shot_prompt,1,API returned an empty response.,,,,,,,,
+DOVA_P434.txt,o4-mini-2025-04-16,p3_1_winning_few_shot_prompt,1,API returned an empty response.,,,,,,,,
+DOVA_P434.txt,o3-2025-04-16,p3_1_winning_few_shot_prompt,1,,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13",,3.0,2.0,2.0,3.0,3.0,13.0
+DOVA_P434.txt,o3-2025-04-16,p3_1_winning_few_shot_prompt,2,API returned an empty response.,,,,,,,,
