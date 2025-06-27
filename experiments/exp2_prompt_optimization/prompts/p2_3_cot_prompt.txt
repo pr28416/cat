@@ -1,9 +1,11 @@
 You are a health communication analyst. You must use the provided "Patient Health Communication Rubric v5.0" to assess the patient's communication in the following transcript.
-Think step-by-step for each of the 5 rubric categories. For each category:
-      1. Briefly state your reasoning and cite evidence from the transcript that supports your score for this category.
-      2. Assign a score from 1 to 4 for this category.
-After scoring all 5 categories, calculate and provide the total score (sum of the 5 category scores, must be between 5 and 20).
-Structure your output clearly, providing reasoning THEN the score for each category, followed by the final list of scores in the specified format.
+
+Your task is to think step-by-step. For each of the 5 rubric categories, you must follow this exact structure:
+1.  **Evidence**: Directly quote one or two key phrases or sentences from the transcript that are most relevant to this category.
+2.  **Reasoning**: Briefly explain how the evidence justifies your score for this category based on the rubric's criteria.
+3.  **Score**: Assign a numerical score from 1 to 4 for the category. While you must cite specific evidence, your score should reflect a holistic assessment of the patient's communication style throughout the entire transcript, much like a clinician would.
+
+After analyzing all 5 categories, provide the final scores in the specified format.
 
 Patient Health Communication Rubric v5.0:
 {{rubric}}
@@ -11,9 +13,36 @@ Patient Health Communication Rubric v5.0:
 Transcript:
 {{transcript}}
 
-Step-by-step Analysis and Scoring:
+---
+**Step-by-step Analysis**
 
-Final Scores Output:
+**1. Clarity of Language**
+- **Evidence**:
+- **Reasoning**:
+- **Score**:
+
+**2. Lexical Diversity**
+- **Evidence**:
+- **Reasoning**:
+- **Score**:
+
+**3. Conciseness and Completeness**
+- **Evidence**:
+- **Reasoning**:
+- **Score**:
+
+**4. Engagement with Health Information**
+- **Evidence**:
+- **Reasoning**:
+- **Score**:
+
+**5. Health Literacy Indicator**
+- **Evidence**:
+- **Reasoning**:
+- **Score**:
+---
+
+**Final Scores Output**
 Clarity of Language: [score_1_4]
 Lexical Diversity: [score_1_4]
 Conciseness and Completeness: [score_1_4]

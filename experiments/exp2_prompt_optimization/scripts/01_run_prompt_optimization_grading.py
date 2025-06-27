@@ -22,7 +22,7 @@ from experiments.common.enums import GradingCondition
 EXPERIMENT_ID = "EXP2_PromptOptimization"
 LLM_MODEL = "gpt-4o-mini"
 TEMPERATURE = 0.1
-NUM_ATTEMPTS = 25  # Number of grading attempts per transcript per prompt
+NUM_ATTEMPTS = 50  # Number of grading attempts per transcript per prompt
 
 # --- File Paths ---
 DATA_PARTITIONS_FILE = "experiments/dataset_partitions.json"

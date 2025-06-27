@@ -36,20 +36,70 @@ def main():
         )
         return
 
+    # --- Data Quality Check ---
+    print("\n--- Data Quality Check ---")
+    parsing_errors = df[df["Parsing_Error"].notna()]
+    error_counts = parsing_errors.groupby("prompt_name").size()
+    total_counts = df.groupby("prompt_name").size()
+    error_rate = (error_counts / total_counts * 100).fillna(0)
+
+    quality_df = pd.DataFrame(
+        {
+            "Total Attempts": total_counts,
+            "Parsing Errors": error_counts,
+            "Error Rate (%)": error_rate,
+        }
+    ).fillna(0)
+
+    print("Parsing Error Report by Prompt Strategy:")
+    print(quality_df)
+
+    # Filter out rows with parsing errors for STDEV calculation
+    df_clean = df[df["Parsing_Error"].isna()].copy()
+
+    if len(df_clean) < len(df):
+        print(
+            f"\nRemoved {len(df) - len(df_clean)} rows with parsing errors before analysis."
+        )
+
     # Ensure the output directory exists
     ensure_dir_exists(ANALYSIS_OUTPUT_DIR)
 
-    # --- 2. Calculate Standard Deviation for each group ---
+    # --- 2a. Arithmetic Reliability Analysis ---
+    print("\n--- Arithmetic Reliability Analysis ---")
+    arithmetic_errors = df_clean[
+        df_clean["Total_Score_Reported"] != df_clean["Total_Score_Calculated"]
+    ]
+    error_counts_arithmetic = arithmetic_errors.groupby("prompt_name").size()
+    total_counts_clean = df_clean.groupby("prompt_name").size()
+    arithmetic_error_rate = (error_counts_arithmetic / total_counts_clean * 100).fillna(
+        0
+    )
+
+    arithmetic_df = pd.DataFrame(
+        {
+            "Total Clean Attempts": total_counts_clean,
+            "Arithmetic Errors": error_counts_arithmetic,
+            "Arithmetic Error Rate (%)": arithmetic_error_rate,
+        }
+    ).fillna(0)
+
+    print("Arithmetic Error Report by Prompt Strategy:")
+    print(arithmetic_df)
+
+    # --- 2b. Calculate Standard Deviation for each group (Total Score) ---
     # Group by transcript and prompt strategy, then calculate STDEV of the total score
     stdev_df = (
-        df.groupby(["transcript_id", "prompt_name"])["Total_Score_Reported"]
+        df_clean.groupby(["transcript_id", "prompt_name"])["Total_Score_Calculated"]
         .std()
         .reset_index()
     )
-    stdev_df.rename(columns={"Total_Score_Reported": "stdev_total_score"}, inplace=True)
+    stdev_df.rename(
+        columns={"Total_Score_Calculated": "stdev_total_score"}, inplace=True
+    )
 
     print(
-        "\nCalculated Standard Deviation of total scores for each transcript and prompt strategy:"
+        "\nCalculated Standard Deviation of total scores for each transcript and prompt strategy (on clean data):"
     )
     print(stdev_df.head())
 
@@ -108,13 +158,53 @@ def main():
 
     else:
         print(
-            "The Friedman test is not significant. No statistical difference found between prompt strategies."
+            "The Friedman test is not significant. No statistical difference found between prompt strategies for total score consistency."
         )
 
-    # --- 4. Visualization ---
+    # --- 4. Category-Level Consistency Analysis ---
+    print("\n--- Category-Level Consistency Analysis ---")
+
+    # Melt the dataframe to analyze categories
+    categories = [
+        "Clarity_of_Language",
+        "Lexical_Diversity",
+        "Conciseness_and_Completeness",
+        "Engagement_with_Health_Information",
+        "Health_Literacy_Indicator",
+    ]
+    df_melted = df_clean.melt(
+        id_vars=["transcript_id", "prompt_name"],
+        value_vars=categories,
+        var_name="category",
+        value_name="score",
+    )
+
+    # Calculate STDEV for each category
+    category_stdev_df = (
+        df_melted.groupby(["transcript_id", "prompt_name", "category"])["score"]
+        .std()
+        .reset_index()
+    )
+    category_stdev_df.rename(columns={"score": "stdev_score"}, inplace=True)
+
+    # Get the mean STDEV for each prompt/category combo
+    mean_category_stdev = (
+        category_stdev_df.groupby(["prompt_name", "category"])["stdev_score"]
+        .mean()
+        .reset_index()
+    )
+
+    print("Mean Standard Deviation by Category and Prompt:")
+    print(
+        mean_category_stdev.pivot(
+            index="category", columns="prompt_name", values="stdev_score"
+        )
+    )
+
+    # --- 5. Visualization ---
     print("\nGenerating visualizations...")
 
-    # Boxplot of STDEVs by Prompt Strategy
+    # Boxplot of STDEVs by Prompt Strategy (Total Score)
     fig, ax = plt.subplots(figsize=(10, 6))
     sns.boxplot(data=stdev_df, x="prompt_name", y="stdev_total_score", ax=ax)
     sns.stripplot(
@@ -131,7 +221,38 @@ def main():
     ax.set_ylabel("Standard Deviation of Total Score (per transcript)")
     save_plot(fig, "exp2_stdev_distribution_boxplot.png", ANALYSIS_OUTPUT_DIR)
 
-    # --- 5. Determine Winning Strategy ---
+    # Barplot of STDEVs by Category and Prompt
+    fig, ax = plt.subplots(figsize=(14, 8))
+    sns.barplot(
+        data=mean_category_stdev,
+        x="category",
+        y="stdev_score",
+        hue="prompt_name",
+        ax=ax,
+    )
+
+    ax.set_title("Mean Score Standard Deviation by Rubric Category and Prompt")
+    ax.set_xlabel("Rubric Category")
+    ax.set_ylabel("Mean Standard Deviation of Score")
+    plt.xticks(rotation=45, ha="right")
+    save_plot(fig, "exp2_category_stdev_by_prompt.png", ANALYSIS_OUTPUT_DIR)
+
+    # Score Distribution Plot
+    fig, ax = plt.subplots(figsize=(12, 7))
+    sns.kdeplot(
+        data=df_clean,
+        x="Total_Score_Calculated",
+        hue="prompt_name",
+        fill=True,
+        common_norm=False,
+        ax=ax,
+    )
+    ax.set_title("Distribution of Scores by Prompt Strategy")
+    ax.set_xlabel("Total Score (Calculated)")
+    ax.set_ylabel("Density")
+    save_plot(fig, "exp2_score_distribution_by_prompt.png", ANALYSIS_OUTPUT_DIR)
+
+    # --- 6. Determine Winning Strategy ---
     mean_stdevs = (
         stdev_df.groupby("prompt_name")["stdev_total_score"].mean().sort_values()
     )
