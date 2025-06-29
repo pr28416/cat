@@ -2,6 +2,7 @@ import openai
 import os
 import dotenv
 import random
+import time
 from typing import Dict, List, Any, Optional, Union, TypeVar, Type
 from pydantic import BaseModel
 
@@ -46,7 +47,7 @@ def generate_text(
     instructions: Optional[str] = None,
 ) -> str:
     """
-    Generate text using the OpenAI Chat Completions API.
+    Generate text using the OpenAI Chat Completions API with retry logic.
 
     Args:
         prompt: The user input prompt
@@ -59,6 +60,8 @@ def generate_text(
         Generated text response
     """
     client = get_openai_client()
+    max_retries = 5
+    base_delay = 1  # seconds
 
     messages = []
     if instructions:
@@ -74,8 +77,26 @@ def generate_text(
     if max_tokens:
         params["max_tokens"] = max_tokens
 
-    response = client.chat.completions.create(**params)
-    return response.choices[0].message.content
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(**params)
+            return response.choices[0].message.content
+        except (
+            openai.RateLimitError,
+            openai.APITimeoutError,
+            openai.APIConnectionError,
+        ) as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2**attempt)
+                print(
+                    f"API Error: {e}. Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(delay)
+            else:
+                print(f"API Error: {e}. All retries failed.")
+                raise
+    # This line should not be reachable, but as a fallback:
+    raise Exception("All retries failed without catching a specific exception.")
 
 
 def generate_text_with_messages(
@@ -85,7 +106,7 @@ def generate_text_with_messages(
     max_tokens: Optional[int] = None,
 ) -> str:
     """
-    Generate text using the OpenAI Chat Completions API with message format.
+    Generate text using the OpenAI Chat Completions API with message format and retry logic.
 
     Args:
         messages: List of message dictionaries with 'role' and 'content'
@@ -97,6 +118,8 @@ def generate_text_with_messages(
         Generated text response
     """
     client = get_openai_client()
+    max_retries = 5
+    base_delay = 1  # seconds
 
     params = {
         "model": model,
@@ -107,8 +130,26 @@ def generate_text_with_messages(
     if max_tokens:
         params["max_tokens"] = max_tokens
 
-    response = client.chat.completions.create(**params)
-    return response.choices[0].message.content
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(**params)
+            return response.choices[0].message.content
+        except (
+            openai.RateLimitError,
+            openai.APITimeoutError,
+            openai.APIConnectionError,
+        ) as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2**attempt)
+                print(
+                    f"API Error: {e}. Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(delay)
+            else:
+                print(f"API Error: {e}. All retries failed.")
+                raise
+    # This line should not be reachable, but as a fallback:
+    raise Exception("All retries failed without catching a specific exception.")
 
 
 T = TypeVar("T", bound=BaseModel)
