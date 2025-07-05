@@ -2,6 +2,7 @@ import openai
 import os
 import dotenv
 import random
+import time
 from typing import Dict, List, Any, Optional, Union, TypeVar, Type
 from pydantic import BaseModel
 
@@ -19,8 +20,24 @@ def get_openai_client():
         # Try comma-separated format
         api_keys_str = os.getenv("OPENAI_API_KEYS")
         if api_keys_str:
-            api_keys = api_keys_str.split(",")
-            api_key = random.choice(api_keys)
+            api_keys = [key.strip() for key in api_keys_str.split(",")]
+
+            # Filter out known bad keys
+            bad_key_suffixes = [
+                "Dj3DwXAp9L",
+                "4U1uixCjw7",
+            ]  # Key #7 that fails, Key #5 rate limited
+            good_keys = [
+                key
+                for key in api_keys
+                if not any(key.endswith(suffix) for suffix in bad_key_suffixes)
+            ]
+
+            if good_keys:
+                api_key = random.choice(good_keys)
+            else:
+                # Fallback to original list if filtering removes all keys
+                api_key = random.choice(api_keys)
 
     if not api_key:
         raise ValueError(
@@ -46,7 +63,7 @@ def generate_text(
     instructions: Optional[str] = None,
 ) -> str:
     """
-    Generate text using the OpenAI Chat Completions API.
+    Generate text using the OpenAI Chat Completions API with retry logic.
 
     Args:
         prompt: The user input prompt
@@ -59,6 +76,8 @@ def generate_text(
         Generated text response
     """
     client = get_openai_client()
+    max_retries = 5
+    base_delay = 1  # seconds
 
     messages = []
     if instructions:
@@ -72,10 +91,32 @@ def generate_text(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
-    response = client.chat.completions.create(**params)
-    return response.choices[0].message.content
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(**params)
+            return response.choices[0].message.content
+        except (
+            openai.RateLimitError,
+            openai.APITimeoutError,
+            openai.APIConnectionError,
+        ) as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2**attempt)
+                print(
+                    f"API Error: {e}. Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(delay)
+            else:
+                print(f"API Error: {e}. All retries failed.")
+                raise
+    # This line should not be reachable, but as a fallback:
+    raise Exception("All retries failed without catching a specific exception.")
 
 
 def generate_text_with_messages(
@@ -85,7 +126,7 @@ def generate_text_with_messages(
     max_tokens: Optional[int] = None,
 ) -> str:
     """
-    Generate text using the OpenAI Chat Completions API with message format.
+    Generate text using the OpenAI Chat Completions API with message format and retry logic.
 
     Args:
         messages: List of message dictionaries with 'role' and 'content'
@@ -97,6 +138,8 @@ def generate_text_with_messages(
         Generated text response
     """
     client = get_openai_client()
+    max_retries = 5
+    base_delay = 1  # seconds
 
     params = {
         "model": model,
@@ -105,10 +148,32 @@ def generate_text_with_messages(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
-    response = client.chat.completions.create(**params)
-    return response.choices[0].message.content
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(**params)
+            return response.choices[0].message.content
+        except (
+            openai.RateLimitError,
+            openai.APITimeoutError,
+            openai.APIConnectionError,
+        ) as e:
+            if attempt < max_retries - 1:
+                delay = base_delay * (2**attempt)
+                print(
+                    f"API Error: {e}. Retrying in {delay} seconds... (Attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(delay)
+            else:
+                print(f"API Error: {e}. All retries failed.")
+                raise
+    # This line should not be reachable, but as a fallback:
+    raise Exception("All retries failed without catching a specific exception.")
 
 
 T = TypeVar("T", bound=BaseModel)
@@ -160,7 +225,11 @@ def generate_structured_output(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
     response = client.chat.completions.create(**params)
     content = response.choices[0].message.content

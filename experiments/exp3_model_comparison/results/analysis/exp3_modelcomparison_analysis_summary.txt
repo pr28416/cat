@@ -1,0 +1,135 @@
+EXPERIMENT 3: MODEL COMPARISON ANALYSIS REPORT
+
+============================================================
+
+Generated: 2025-07-05 16:41:42
+
+
+DATASET OVERVIEW
+
+--------------------
+
+Total requests: 4000
+
+Models tested: 5
+
+Transcripts: 40
+
+Success rate: 100.0%
+
+
+CONSISTENCY ANALYSIS RESULTS (Total Score)
+
+--------------------------------------------------
+
+Ranking by Mean Standard Deviation (lower = more consistent):
+
+
+1. gpt-4.1-2025-04-14: 0.075
+
+2. gpt-4o-mini-2024-07-18: 0.137
+
+3. gpt-4o-2024-08-06: 0.170
+
+4. o3-mini-2025-01-31: 0.707
+
+5. o3-2025-04-16: 0.799
+
+
+
+Detailed Statistics:
+
+
+gpt-4.1-2025-04-14:
+
+  Mean STDEV: 0.075
+
+  Median STDEV: 0.000
+
+  90th percentile: 0.044
+
+
+gpt-4o-mini-2024-07-18:
+
+  Mean STDEV: 0.137
+
+  Median STDEV: 0.000
+
+  90th percentile: 0.366
+
+
+gpt-4o-2024-08-06:
+
+  Mean STDEV: 0.170
+
+  Median STDEV: 0.000
+
+  90th percentile: 0.518
+
+
+o3-mini-2025-01-31:
+
+  Mean STDEV: 0.707
+
+  Median STDEV: 0.605
+
+  90th percentile: 1.120
+
+
+o3-2025-04-16:
+
+  Mean STDEV: 0.799
+
+  Median STDEV: 0.800
+
+  90th percentile: 1.201
+
+
+STATISTICAL SIGNIFICANCE (CONSISTENCY)
+
+--------------------------------------------------
+
+No significant pairwise differences found in consistency.
+
+
+
+CATEGORY-LEVEL CONSISTENCY
+
+--------------------------------------------------
+
+Mean Standard Deviation per Rubric Category:
+
+
+               model_name  stdev_Clarity_of_Language  stdev_Lexical_Diversity  stdev_Conciseness_and_Completeness  stdev_Engagement_with_Health_Information  stdev_Health_Literacy_Indicator
+0      gpt-4.1-2025-04-14                      0.008                    0.008                               0.019                                     0.012                            0.033
+1       gpt-4o-2024-08-06                      0.038                    0.028                               0.035                                     0.046                            0.039
+2  gpt-4o-mini-2024-07-18                      0.000                    0.028                               0.080                                     0.008                            0.033
+3           o3-2025-04-16                      0.150                    0.225                               0.276                                     0.288                            0.184
+4      o3-mini-2025-01-31                      0.147                    0.244                               0.299                                     0.164                            0.159
+
+
+
+
+MEAN SCORE ANALYSIS
+
+--------------------------------------------------
+
+Overall Score Patterns (Mean ± STDEV):
+
+  gpt-4.1-2025-04-14: 14.69 ± 1.66 (range: 10-17)
+
+  gpt-4o-2024-08-06: 14.05 ± 1.81 (range: 10-17)
+
+  gpt-4o-mini-2024-07-18: 14.70 ± 1.33 (range: 10-20)
+
+  o3-2025-04-16: 13.94 ± 1.90 (range: 6-18)
+
+  o3-mini-2025-01-31: 13.78 ± 2.11 (range: 7-20)
+
+
+
+Statistical Significance of Mean Score Differences:
+
+  No significant differences found between models in mean scores.
+
+
