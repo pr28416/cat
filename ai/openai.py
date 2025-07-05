@@ -20,8 +20,24 @@ def get_openai_client():
         # Try comma-separated format
         api_keys_str = os.getenv("OPENAI_API_KEYS")
         if api_keys_str:
-            api_keys = api_keys_str.split(",")
-            api_key = random.choice(api_keys)
+            api_keys = [key.strip() for key in api_keys_str.split(",")]
+
+            # Filter out known bad keys
+            bad_key_suffixes = [
+                "Dj3DwXAp9L",
+                "4U1uixCjw7",
+            ]  # Key #7 that fails, Key #5 rate limited
+            good_keys = [
+                key
+                for key in api_keys
+                if not any(key.endswith(suffix) for suffix in bad_key_suffixes)
+            ]
+
+            if good_keys:
+                api_key = random.choice(good_keys)
+            else:
+                # Fallback to original list if filtering removes all keys
+                api_key = random.choice(api_keys)
 
     if not api_key:
         raise ValueError(
@@ -75,7 +91,11 @@ def generate_text(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
     for attempt in range(max_retries):
         try:
@@ -128,7 +148,11 @@ def generate_text_with_messages(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
     for attempt in range(max_retries):
         try:
@@ -201,7 +225,11 @@ def generate_structured_output(
     }
 
     if max_tokens:
-        params["max_tokens"] = max_tokens
+        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
+        if model.startswith(("o1-", "o3-", "o4-")):
+            params["max_completion_tokens"] = max_tokens
+        else:
+            params["max_tokens"] = max_tokens
 
     response = client.chat.completions.create(**params)
     content = response.choices[0].message.content

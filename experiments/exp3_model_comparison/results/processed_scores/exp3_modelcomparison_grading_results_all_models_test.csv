@@ -1,0 +1,482 @@
+experiment_id,transcript_id,model_name,attempt_num,temperature,raw_response,latency,Clarity_of_Language,Lexical_Diversity,Conciseness_and_Completeness,Engagement_with_Health_Information,Health_Literacy_Indicator,Total_Score_Calculated,Total_Score_Reported,Parsing_Error
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-nano-2025-04-14,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 12",17.62811779975891,3,2,3,2,2,12,12,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-nano-2025-04-14,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 12",17.978223085403442,3,2,3,2,2,12,12,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4o-2024-08-06,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+**Rationale:** The patient generally provides clear and relevant responses, though some answers are brief and require follow-up questions from the doctor (Clarity of Language: 3). The vocabulary used is moderate and appropriate for the context, but not particularly varied or precise (Lexical Diversity: 3). The patient provides relevant information but occasionally lacks detail, requiring the doctor to probe further (Conciseness and Completeness: 3). The patient engages with the health information provided, responding to questions and expressing preferences, but does not initiate much additional inquiry or clarification (Engagement with Health Information: 3). The patient demonstrates a basic understanding of health concepts, such as the relationship between diet and gout, but does not display a deep understanding of medical terminology (Health Literacy Indicator: 3). Overall, the communication is effective but could be improved with more detailed and proactive engagement.",20.298879861831665,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4o-2024-08-06,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13  
+
+**Rationale:**  
+The patient generally provides clear responses but occasionally lacks specificity, such as when discussing medication refills or past treatments (Clarity of Language: 3). The vocabulary used is basic and somewhat repetitive, particularly in responses about medication and symptoms (Lexical Diversity: 2). The patient provides some relevant information but often requires prompting for details, such as the frequency of gout flares or medication use (Conciseness and Completeness: 2). The patient engages with the health information by responding to questions and expressing preferences, such as where to fill prescriptions, but does not frequently initiate questions or additional details (Engagement with Health Information: 3). The patient demonstrates a basic understanding of health concepts, such as the relationship between diet and gout, but lacks depth in discussing medication effects (Health Literacy Indicator: 3).",20.315525770187378,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-2025-04-14,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+Rationale:  
+The patient’s communication is generally brief, often limited to one-word or short-phrase responses (""Yeah,"" ""Alright,"" ""No,"" ""Right""). There are occasional attempts to provide context (e.g., ""If I half way eat right it don't bother me""), but these are vague and lack specificity. The vocabulary is basic and repetitive, with little evidence of nuanced or precise language. The patient rarely volunteers additional information or asks clarifying questions, except for a single, somewhat unclear question about erectile dysfunction medication. Health literacy appears limited; the patient does not demonstrate a strong grasp of medication names, dosing, or insurance implications, and sometimes seems uncertain about their own prescriptions. Overall, the communication pattern requires significant prompting from the clinician to elicit even basic information, and the patient does not actively engage with or expand upon health topics.",20.575255155563354,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-2025-04-14,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+**Rationale:**  
+The patient’s responses are generally brief, often limited to single words or short phrases (""Yeah,"" ""Alright,"" ""No,"" ""Right""). There is some evidence of understanding (e.g., recognizing the connection between diet and gout flares, mentioning insurance and pharmacy preferences), but overall communication is vague and lacks detail. The patient rarely elaborates unless directly prompted and provides minimal information about symptoms, medication use, or health behaviors. When asking a question about erectile dysfunction, the patient struggles to articulate the issue clearly and does not use precise terminology. Engagement is low, with little initiative shown in clarifying or expanding on health information. Health literacy appears limited; the patient demonstrates only a basic grasp of relevant concepts and does not use medical terms accurately or confidently. Holistically, the communication pattern requires the clinician to do most of the work to extract clinically relevant information.",20.821866989135742,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4o-mini-2024-07-18,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their health situation, particularly regarding their gout and smoking habits. However, some responses are vague or lack detail (e.g., ""I have, what I'm finding out now is that uh it all depends on what I eat""), which affects clarity and completeness. The vocabulary used is somewhat basic and repetitive, particularly in responses about medications and their effects. The patient engages reasonably well with the health information provided, asking relevant questions and expressing their preferences, but does not initiate much additional information. Overall, the communication is effective but could benefit from more specificity and detail.",20.832080125808716,3,2,3,3,3,14,14,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-mini-2025-04-14,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14  
+
+Rationale: The patient generally communicates clearly and provides relevant information about gout flares, smoking habits, and medication use, though some responses are brief or slightly vague (e.g., ""I think I do"" regarding refills, ""Shit I don't remember"" about last flare treatment). Vocabulary is basic and somewhat repetitive, lacking precise medical terminology but sufficient for the context. The patient engages reasonably well with health information, responding appropriately and showing some understanding of management strategies, though they do not initiate questions or elaborate extensively. Health literacy appears adequate, with appropriate recognition of diet’s role in gout and medication adherence, but limited proactive discussion or detailed articulation of symptoms or treatments. Overall, the patient’s communication is functional and cooperative but not highly detailed or richly expressive.",20.946707010269165,3,2,3,3,3,14,14,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4.1-mini-2025-04-14,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14  
+
+**Rationale:**  
+The patient’s language is generally clear and relevant, though occasionally brief or somewhat vague (e.g., ""Yeah, alright,"" ""I think I can""). The patient provides pertinent information about gout flares and smoking habits but often with minimal elaboration. Vocabulary is basic and somewhat repetitive, lacking precise medical terminology but sufficient for the context. The patient engages reasonably well with health information, responding appropriately and showing some understanding, such as recognizing the role of diet in gout management and medication costs/insurance issues. However, the patient does not initiate questions or clarifications, limiting engagement to reactive rather than proactive. Health literacy appears adequate, with appropriate use of terms like ""gout flare"" and understanding medication instructions, though some memory lapses (""Shit I don't remember"") and uncertainty about medication refills suggest moderate rather than strong literacy. Overall, the communication pattern reflects a cooperative patient who provides useful information but with limited depth or initiative.",21.075912952423096,3,2,3,3,3,14,14,
+EXP3_ModelComparison,DOVA_P434.txt,gpt-4o-mini-2024-07-18,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their health issues, particularly regarding gout and its management. However, some responses are vague or lack detail, such as ""I have, what I'm finding out now is that uh it all depends on what I eat,"" which could be more specific (Clarity of Language: 3). The vocabulary used is somewhat basic and repetitive, particularly in responses about medications (Lexical Diversity: 2). The patient provides relevant information but occasionally requires prompting for more detail (Conciseness and Completeness: 3). They engage reasonably well with the health information presented, asking relevant questions about medications and expressing their preferences (Engagement with Health Information: 3). The patient shows a basic understanding of health concepts, indicating awareness of how smoking affects their condition and expressing concerns about medication costs (Health Literacy Indicator: 3). Overall, the communication is effective but could benefit from more specificity and detail.",21.120119094848633,3,2,3,3,3,14,14,
+EXP3_ModelComparison,DOVA_P434.txt,o1-mini-2024-09-12,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 3  
+Total Score: 11",6.525099754333496,2,2,2,2,3,11,11,
+EXP3_ModelComparison,DOVA_P434.txt,o1-mini-2024-09-12,1,0.1,"**Scores:**
+
+Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 3  
+Total Score: 12
+
+**Rationale:**  
+The patient communicates in a generally clear manner, making their responses understandable despite minor grammatical issues. However, the vocabulary used is basic and somewhat repetitive, reflecting limited lexical diversity. Responses are typically brief and lack comprehensive detail, indicating challenges with conciseness and completeness. While the patient does engage with specific health topics—such as discussing medication preferences and concerns about costs—the level of engagement is modest and lacks proactive inquiry. Additionally, the patient demonstrates a basic understanding of health-related information, particularly regarding medications and their management, suggesting a reasonable level of health literacy.",7.5986409187316895,3,2,2,2,3,12,12,
+EXP3_ModelComparison,DOVA_P434.txt,o4-mini-2025-04-16,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 8",7.494671821594238,2,1,1,2,2,8,8,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4o-2024-08-06,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+**Rationale:**  
+The patient's communication is generally brief and lacks detail, often responding with simple affirmations like ""Uh-huh"" or ""Okay,"" which limits clarity and engagement (Clarity of Language: 2, Engagement with Health Information: 2). The vocabulary used is basic and repetitive, indicating limited lexical diversity (Lexical Diversity: 2). The patient provides some relevant information but often requires prompting to elaborate, leading to a lack of completeness in responses (Conciseness and Completeness: 2). The patient demonstrates a limited understanding of health concepts, as seen in the need for clarification about medications and procedures (Health Literacy Indicator: 2). Overall, the communication pattern suggests a need for more active participation and clearer articulation of health concerns.",2.5719199180603027,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P434.txt,o3-mini-2025-01-31,1,0.1,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 2
+Engagement with Health Information: 2
+Health Literacy Indicator: 2
+Total Score: 11",9.252607107162476,3,2,2,2,2,11,11,
+EXP3_ModelComparison,DOVA_P434.txt,o3-mini-2025-01-31,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 11  
+
+Rationale: The patient’s communication is generally understandable and responds directly to the doctor’s questions (Clarity of Language: 3). However, the vocabulary is very limited and repetitive, with many one-word or very brief responses (Lexical Diversity: 2). Answers are concise—but often so brief that they lack additional details that could provide a fuller clinical picture (Conciseness and Completeness: 2). The patient responds to inquiries but rarely volunteers extra information or clarification (Engagement with Health Information: 2). Finally, while the patient shows a basic grasp of his conditions (e.g., linking diet to gout flares, understanding medication needs), his language and descriptions remain colloquial and not fully elaborated, indicating only basic health literacy (Health Literacy Indicator: 2).",10.068800210952759,3,2,2,2,2,11,11,
+EXP3_ModelComparison,DOVA_P434.txt,o4-mini-2025-04-16,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",9.997712850570679,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P434.txt,o3-2025-04-16,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13",10.333946228027344,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_P434.txt,o3-2025-04-16,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 12",10.587028980255127,2,2,2,3,3,12,12,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4o-mini-2024-07-18,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 2  
+Total Score: 12  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their situation, responding appropriately to the doctor's questions. However, their responses are often brief and lack detail, which affects clarity and completeness (Clarity of Language: 3, Conciseness and Completeness: 2). The vocabulary used is somewhat limited and repetitive, particularly in the context of discussing medications and symptoms (Lexical Diversity: 2). The patient shows some engagement by asking about appetite stimulants and expressing concerns about weight loss, but overall, their responses do not indicate a strong grasp of health concepts (Health Literacy Indicator: 2). Holistically, while the patient communicates relevant information, the interaction lacks depth and detail, necessitating further probing from the doctor.",3.02834415435791,3,2,2,3,2,12,12,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-nano-2025-04-14,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",1.0621411800384521,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4o-2024-08-06,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+**Rationale:**  
+The patient's communication is generally minimal and lacks detail, often responding with simple affirmations like ""Uh-huh"" or ""Okay,"" which limits clarity and engagement (Clarity of Language: 2, Engagement with Health Information: 2). The vocabulary used is basic and repetitive, with little variation or complexity (Lexical Diversity: 2). The patient provides some relevant information but often requires prompting to elaborate, indicating a lack of completeness (Conciseness and Completeness: 2). The patient demonstrates limited understanding of health concepts, as seen in the need for clarification on medications and procedures (Health Literacy Indicator: 2). Overall, the communication pattern suggests a passive role in the interaction, with the clinician needing to guide the conversation significantly.",4.892305850982666,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4o-mini-2024-07-18,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 2  
+Total Score: 12  
+
+*Rationale:* The patient demonstrates a generally clear understanding of their situation, responding appropriately to the doctor's questions. However, there are moments of vagueness and reliance on simple affirmations (e.g., ""Uh-huh,"" ""Yes""), which detracts from clarity and completeness (Conciseness/Completeness: 2). The vocabulary used is basic and lacks variation (Lexical Diversity: 2). The patient engages with the health information to some extent, asking about appetite stimulants and expressing concerns about weight loss, but does not elaborate much on their symptoms or history (Engagement with Health Information: 3). Overall, while the patient shows some understanding of their health issues, the communication lacks depth and detail, leading to a moderate total score.",3.380244016647339,3,2,2,3,2,12,12,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-nano-2025-04-14,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",1.3624918460845947,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-2025-04-14,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+Rationale:  
+The patient’s responses are generally brief, often limited to ""yes,"" ""uh-huh,"" or single phrases, with only occasional elaboration (e.g., ""I still feel like I'm losing"" and ""Well I need to get all of my medicine that I usually get from her""). There is little spontaneous detail or clarification, and the patient rarely initiates topics or asks questions, except for a single request about appetite medication and a procedural question about giving something to the front. Vocabulary is basic and sometimes repetitive, with little evidence of nuanced or precise terminology. The patient demonstrates only a basic understanding of their health situation, requiring the clinician to prompt for nearly all relevant information. Overall, the communication pattern is passive and minimally engaged, requiring significant effort from the clinician to extract necessary clinical details.",3.3775110244750977,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-2025-04-14,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10
+
+Rationale: The patient’s responses are generally brief, often limited to ""yes,"" ""uh-huh,"" or single phrases, and rarely elaborate on symptoms or history unless directly prompted. There is little spontaneous detail or clarification, and the patient does not use much medical vocabulary or demonstrate nuanced understanding of their health situation. When asked about medications, the patient struggles to recall or specify, requiring significant prompting from the clinician. The patient does ask a few questions (e.g., about appetite stimulants and logistics for lab work), but these are basic and do not reflect deeper engagement or understanding. Overall, the communication pattern is passive, with limited clarity, vocabulary, and initiative, requiring the clinician to do most of the work to extract necessary information.",3.2202937602996826,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-mini-2025-04-14,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+Rationale: The patient’s communication is generally brief and minimally elaborated, often responding with short affirmations (""Yes,"" ""Uh-huh"") or minimal phrases that confirm but do not expand on the doctor’s prompts. This limits clarity and completeness, as the patient rarely volunteers detailed or specific information about symptoms, medication adherence, or health concerns. Vocabulary is basic and repetitive, reflecting limited lexical diversity. The patient shows some engagement by responding appropriately and confirming understanding but does not initiate questions or provide additional context, indicating moderate engagement with health information. Health literacy appears limited to fair, as the patient understands basic concepts but does not demonstrate deeper knowledge or use of medical terminology. Overall, the pattern suggests a passive communication style requiring the clinician to lead the conversation and fill in gaps.",3.5748329162597656,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,gpt-4.1-mini-2025-04-14,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+Rationale: The patient’s communication is generally brief and minimally elaborative, often responding with short affirmations (""Yes,"" ""Uh-huh"") or minimal phrases that confirm but do not expand on the doctor’s prompts. This limits clarity and completeness, as critical details about symptoms, medication adherence, or health status are not fully articulated. Vocabulary is basic and repetitive, lacking varied or precise terminology. The patient engages at a basic level, answering questions but rarely volunteering additional information or asking clarifying questions. Health literacy appears limited to fair, as the patient understands basic concepts but does not demonstrate deeper knowledge or proactive involvement in the discussion. Overall, the pattern reflects a passive communication style requiring the clinician to lead and interpret most of the information.",3.9309160709381104,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,o1-mini-2024-09-12,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  
+
+**Rationale:**  
+The patient primarily provides brief and minimally detailed responses such as ""Yes,"" ""Uh-huh,"" and ""Oh okay,"" which limits the clarity and completeness of the communication. Vocabulary usage is basic and repetitive, indicating limited lexical diversity. While the patient does respond to the doctor's questions, the lack of proactive engagement and minimal elaboration suggests only fair engagement with health information. Additionally, the patient's understanding of health concepts appears limited, as evidenced by the need for the doctor to provide most of the information and clarify details.",8.041713953018188,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,o1-mini-2024-09-12,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 8
+
+**Rationale:**  
+The patient’s communication is generally understandable but lacks detail and specificity (Clarity of Language: 2). The vocabulary used is basic and repetitive, with little variation (Lexical Diversity: 1). Responses are minimal and often incomplete, missing critical information needed for a comprehensive clinical understanding (Conciseness and Completeness: 1). The patient engages minimally with health information, providing basic answers without initiating further discussion or clarification (Engagement with Health Information: 2). There is a basic understanding of health-related terms, but it is limited and does not demonstrate a strong grasp of more complex concepts (Health Literacy Indicator: 2). Overall, the patient struggles to convey detailed clinical information effectively.",9.149466037750244,2,1,1,2,2,8,8,
+EXP3_ModelComparison,DOVA_P434.txt,o1-preview-2024-09-12,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13",42.69849610328674,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_P434.txt,o1-preview-2024-09-12,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13",45.00850510597229,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_P511.txt,o3-mini-2025-01-31,2,0.1,"Clarity of Language: 3
+Lexical Diversity: 1
+Conciseness and Completeness: 1
+Engagement with Health Information: 2
+Health Literacy Indicator: 2
+Total Score: 9
+
+Rationale: The patient’s responses throughout the transcript are mostly limited to one-word replies (e.g., “Yes,” “Uh-huh”), which, while not confusing, offer minimal linguistic variety or detail. The communication is clear in that the patient confirms understanding, but the brevity prevents a complete picture of their health status. Furthermore, the responses do little to engage with the health information provided or to demonstrate an active understanding of their care, thus contributing to low scores in Lexical Diversity, Conciseness/Completeness, and Health Literacy Indicator.",12.936851978302002,3,1,1,2,2,9,9,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4o-2024-08-06,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14  
+
+**Rationale:**  
+The patient generally communicates clearly but occasionally includes extraneous details, such as personal living situations, which do not directly relate to the medical issues being discussed (Clarity of Language: 3). The vocabulary used is moderate and appropriate for the context, though not particularly rich or varied (Lexical Diversity: 3). The patient provides relevant information but often requires prompting to clarify or complete their responses, such as when discussing symptoms or medication (Conciseness and Completeness: 2). The patient engages with the health information by responding to questions and providing some additional context, but does not frequently initiate further questions or clarifications (Engagement with Health Information: 3). The patient demonstrates a basic understanding of health concepts, such as the implications of a positive TB test and the need for x-rays, but does not exhibit a deep understanding of medical terminology (Health Literacy Indicator: 3).",5.501250982284546,3,3,2,3,3,14,14,
+EXP3_ModelComparison,DOVA_P511.txt,o1-preview-2024-09-12,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 11",21.07242703437805,3,2,2,2,2,11,11,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4o-2024-08-06,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+**Rationale:**  
+- **Clarity of Language:** The patient generally communicates clearly, though there are moments of ambiguity, such as when discussing the shoulder pain and the cough. However, the patient provides enough context for the doctor to understand the main issues.
+- **Lexical Diversity:** The patient uses a moderate range of vocabulary appropriate for the context, though there is some repetition and lack of precise terminology in describing symptoms.
+- **Conciseness and Completeness:** The patient provides relevant information about their symptoms and medical history, though some responses are slightly vague or require follow-up questions for full clarity.
+- **Engagement with Health Information:** The patient engages with the doctor's questions and provides reasonably detailed answers. They also express concerns and ask questions, indicating an interest in their health.
+- **Health Literacy Indicator:** The patient demonstrates a basic understanding of health concepts, such as the implications of a positive TB test and the potential side effects of medications, though they occasionally require clarification.",3.5274291038513184,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4o-mini-2024-07-18,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+*Rationale:* The patient communicates relevant information about their health concerns, including a positive TB test and shoulder pain, but there are moments of vagueness and incomplete thoughts that hinder clarity (Clarity of Language: 3). The vocabulary used is adequate but lacks some precision and variety (Lexical Diversity: 3). The patient provides relevant details but occasionally strays into less relevant information, making the communication somewhat unfocused (Conciseness and Completeness: 3). The patient shows interest in their health by asking questions and providing information, but does not consistently initiate clarifications (Engagement with Health Information: 3). Overall, the patient demonstrates a basic understanding of their health issues and medications, but there are areas where clarity could be improved (Health Literacy Indicator: 3).",3.8722410202026367,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P511.txt,o3-2025-04-16,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 9",17.16032385826111,3,1,1,2,2,9,9,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4o-mini-2024-07-18,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+*Rationale:* The patient communicates generally clear information about their health concerns, including a positive TB test and shoulder pain, but there are moments of vagueness and incomplete thoughts (Clarity of Language: 3). The vocabulary used is adequate but not particularly varied, with some repetition (Lexical Diversity: 3). The patient provides relevant details but occasionally lacks specificity, which could lead to misunderstandings (Conciseness and Completeness: 3). They show a reasonable level of engagement with health information, asking questions and providing context about their symptoms (Engagement with Health Information: 3). The patient demonstrates a basic understanding of their health situation, using relevant terms but not delving deeply into the implications (Health Literacy Indicator: 3). Overall, the communication is effective but could benefit from more clarity and detail.",3.6945738792419434,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P511.txt,o3-2025-04-16,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 8",18.682772159576416,2,1,1,2,2,8,8,
+EXP3_ModelComparison,DOVA_P511.txt,o4-mini-2025-04-16,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 1  
+Health Literacy Indicator: 2  
+Total Score: 8",19.276956796646118,3,1,1,1,2,8,8,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-2025-04-14,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15
+
+Rationale:  
+The patient generally communicates clearly, providing relevant information about symptoms (shoulder pain, cough, chills, night sweats) and medication use, though there are occasional ambiguities and some conversational disorganization (Clarity: 3). Vocabulary is appropriate and varied for the context, with some use of medical terms (e.g., ""rotocuff,"" ""phlegm,"" ""antibiotic""), but not especially rich or precise (Lexical Diversity: 3). The patient gives reasonably complete answers, including duration, frequency, and character of symptoms, but sometimes requires prompting and occasionally digresses (Conciseness/Completeness: 3). Engagement is good: the patient volunteers new complaints, asks clarifying questions (e.g., about prescriptions and logistics), and responds thoughtfully, but does not consistently initiate deeper inquiry (Engagement: 3). Health literacy is solid; the patient demonstrates understanding of TB, medications, and symptom relevance, but does not display advanced medical knowledge or terminology (Health Literacy: 3). Holistically, the patient is a cooperative and informative communicator, though not exceptionally concise or sophisticated.",5.1585071086883545,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-nano-2025-04-14,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",1.1333699226379395,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-2025-04-14,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15
+
+Rationale:  
+The patient generally communicates clearly, describing symptoms (shoulder pain, cough, chills, night sweats) and providing relevant timeframes and details when prompted. There are occasional ambiguities and some conversational disorganization, but overall the responses are understandable and relevant (Clarity: 3). The vocabulary is appropriate for the context, with some variation (""rotocuff,"" ""phlegm,"" ""foreclosure,"" ""mission for men""), though not especially rich or technical (Lexical Diversity: 3). The patient provides most necessary information, sometimes with minor omissions or requiring follow-up, but generally covers the main points (Conciseness/Completeness: 3). Engagement is good—the patient volunteers new complaints, clarifies medication use, and asks about logistics, but does not proactively ask deeper clinical questions (Engagement: 3). Health literacy is adequate; the patient understands and uses basic health terms, discusses medications, and follows the conversation, but does not demonstrate advanced medical knowledge or terminology (Health Literacy: 3). Holistically, this is a communicative, moderately organized patient who provides useful clinical information but could be more concise and proactive.",4.199548959732056,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P511.txt,o4-mini-2025-04-16,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 1  
+Conciseness and Completeness: 1  
+Engagement with Health Information: 1  
+Health Literacy Indicator: 2  
+Total Score: 8",19.091556787490845,3,1,1,1,2,8,8,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-mini-2025-04-14,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+Rationale: The patient generally communicates clearly and provides relevant information about symptoms, history, and medication use, though some responses are somewhat fragmented or incomplete due to occasional vagueness or hesitation. Vocabulary is moderately varied and appropriate for the clinical context, with some use of medical terms like ""tuberculosis test,"" ""antibiotics,"" and ""phlegm,"" indicating a basic health literacy level. The patient engages reasonably well with the health information, answering questions in detail and offering contextual background (e.g., living situation, symptom duration), but does not initiate clarifications or ask questions. Overall, the communication pattern reflects a cooperative and moderately informed patient, though not fully proactive or comprehensive in detail.",3.3430373668670654,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-nano-2025-04-14,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10",1.579594373703003,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_G433.txt,gpt-4.1-mini-2025-04-14,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  
+
+Rationale: The patient generally communicates clearly and provides relevant information about symptoms, history, and medication use, though some responses are somewhat fragmented or incomplete due to occasional vagueness or hesitation. Vocabulary is moderately varied and appropriate for the context, with some use of medical terms like ""tuberculosis test,"" ""antibiotics,"" and ""phlegm,"" indicating a basic health literacy level. The patient engages reasonably well with the doctor’s questions, offering details and some context, but does not initiate clarifications or ask questions, reflecting moderate engagement. Overall, the communication pattern is functional and clinically useful but not exemplary in precision or proactive involvement.",3.6598691940307617,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P511.txt,o1-preview-2024-09-12,2,0.1,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 2
+Engagement with Health Information: 3
+Health Literacy Indicator: 2
+Total Score: 12",34.41809797286987,3,2,2,3,2,12,12,
+EXP3_ModelComparison,DOVA_G433.txt,o1-mini-2024-09-12,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14",5.3697731494903564,3,3,2,3,3,14,14,
+EXP3_ModelComparison,DOVA_P511.txt,o3-mini-2025-01-31,1,0.1,"Clarity of Language: 2
+Lexical Diversity: 1
+Conciseness and Completeness: 1
+Engagement with Health Information: 2
+Health Literacy Indicator: 2
+Total Score: 8",36.81785011291504,2,1,1,2,2,8,8,
+EXP3_ModelComparison,DOVA_G433.txt,o1-mini-2024-09-12,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 3  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13  
+
+**Rationale:**  
+The patient demonstrates a fair level of clarity, with some responses being clear and relevant while others are fragmented or partially unclear (Clarity of Language: 2). Vocabulary usage includes some medical terms and shows moderate variety, though it remains somewhat limited (Lexical Diversity: 3). The patient provides essential information but also includes occasional extraneous details and incomplete thoughts, indicating partial conciseness and completeness (Conciseness and Completeness: 2). Engagement with health information is evident through the patient's questions and willingness to discuss symptoms, albeit not consistently proactive (Engagement with Health Information: 3). The patient shows a basic understanding of medical terminology and concepts, reflecting an adequate level of health literacy (Health Literacy Indicator: 3). Overall, the communication pattern suggests that the patient is moderately effective in conveying necessary clinical information but could benefit from more structured and clear responses.",10.378918170928955,2,3,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_G433.txt,o3-mini-2025-01-31,1,0.1,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 2
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14
+
+Rationale: The patient’s language is generally understandable, but several responses are marked by filler phrases (""Oh man, taking me"", ""Uh-huh"", etc.), minimal elaboration, and occasional tangents that include extraneous personal details (e.g., housing/foreclosure). While the vocabulary is moderate and the patient does use some technical terms (TB test, vitamin D, antibiotics), the delivery is not consistently clear or efficiently structured. The patient provides a mix of specific details (e.g., shoulder pain details such as location and frequency) alongside incomplete or fragmented responses, suggesting only moderate completeness. The patient does show some engagement with health information (asking questions about prescriptions and age-related limitations), though not extensively. Overall, the health literacy demonstrated is good enough to recognize and mention key medical terms, even if the explanation is occasionally muddled.",13.325538873672485,3,3,2,3,3,14,14,
+EXP3_ModelComparison,DOVA_G433.txt,o3-mini-2025-01-31,2,0.1,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 2
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",10.697337865829468,3,3,2,3,3,14,14,
+EXP3_ModelComparison,DOVA_G433.txt,o3-2025-04-16,1,0.1,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",10.233129024505615,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_G433.txt,o3-2025-04-16,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15",8.960791110992432,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_G433.txt,o4-mini-2025-04-16,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 14",9.819538354873657,2,3,3,3,3,14,14,
+EXP3_ModelComparison,DOVA_G433.txt,o4-mini-2025-04-16,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 3  
+Total Score: 11",10.833256006240845,2,2,2,2,3,11,11,
+EXP3_ModelComparison,DOVA_G433.txt,o1-preview-2024-09-12,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 3  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13",31.578044176101685,2,3,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_G433.txt,o1-preview-2024-09-12,1,0.1,"Clarity of Language: 2
+Lexical Diversity: 3
+Conciseness and Completeness: 2
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 13",41.62030792236328,2,3,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_P434.txt,o1-2024-12-17,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13  ",129.0575978755951,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_G433.txt,o1-2024-12-17,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  ",83.48475003242493,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P434.txt,o1-2024-12-17,1,0.1,"Clarity of Language: 3  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 13  ",142.53310990333557,3,2,2,3,3,13,13,
+EXP3_ModelComparison,DOVA_G433.txt,o1-2024-12-17,2,0.1,"Clarity of Language: 3  
+Lexical Diversity: 3  
+Conciseness and Completeness: 3  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 3  
+Total Score: 15  ",105.09663605690002,3,3,3,3,3,15,15,
+EXP3_ModelComparison,DOVA_P511.txt,o1-2024-12-17,2,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 2  
+Health Literacy Indicator: 2  
+Total Score: 10  ",209.44452118873596,2,2,2,2,2,10,10,
+EXP3_ModelComparison,DOVA_P511.txt,o1-2024-12-17,1,0.1,"Clarity of Language: 2  
+Lexical Diversity: 2  
+Conciseness and Completeness: 2  
+Engagement with Health Information: 3  
+Health Literacy Indicator: 2  
+Total Score: 11  
+
+Rationale: Overall, the patient provides short, minimally detailed responses (e.g., “Uh-huh,” “Yes,” “No”) that limit clarity and completeness. Vocabulary use is basic and repetitive, reflecting moderate lexical diversity. The patient does show some engagement by asking about an appetite stimulant and clarifying how to complete lab work, indicating a fair level of participation. However, there is limited evidence of deeper health literacy, as the patient seems unsure about certain medications and provides few specifics about symptoms beyond weight loss.",217.10173988342285,2,2,2,3,2,11,11,

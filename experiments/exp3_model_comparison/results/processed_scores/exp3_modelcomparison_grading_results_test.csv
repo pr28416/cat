@@ -1,2 +1,0 @@
-experiment_id,transcript_id,model_name,attempt_num,temperature,raw_response,latency,Parsing_Error
-EXP3_ModelComparison,DOVA_P434.txt,gpt-4o-2024-08-06,1,0.1,,23.009783029556274,"API Error: Error code: 429 - {'fault': {'faultstring': 'Rate limit quota violation. Quota limit  exceeded. Identifier : 9f88028b-6eab-4703-928b-fbed702f23b0', 'detail': {'errorcode': 'policies.ratelimit.QuotaViolation'}}}"

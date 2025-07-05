@@ -1,0 +1,66 @@
+EXPERIMENT 3: MODEL COMPARISON ANALYSIS REPORT
+============================================================
+Generated: 2025-07-05 16:31:41
+
+DATASET OVERVIEW
+--------------------
+Total requests: 4000
+Models tested: 5
+Transcripts: 40
+Success rate: 100.0%
+
+CONSISTENCY ANALYSIS RESULTS
+------------------------------
+Ranking by Mean Standard Deviation (lower = more consistent):
+
+1. gpt-4.1-2025-04-14: 0.075
+2. gpt-4o-mini-2024-07-18: 0.137
+3. gpt-4o-2024-08-06: 0.170
+4. o3-mini-2025-01-31: 0.707
+5. o3-2025-04-16: 0.799
+
+Detailed Statistics:
+
+gpt-4.1-2025-04-14:
+  Mean STDEV: 0.075
+  Median STDEV: 0.000
+  90th percentile: 0.044
+
+gpt-4o-2024-08-06:
+  Mean STDEV: 0.170
+  Median STDEV: 0.000
+  90th percentile: 0.518
+
+gpt-4o-mini-2024-07-18:
+  Mean STDEV: 0.137
+  Median STDEV: 0.000
+  90th percentile: 0.366
+
+o3-2025-04-16:
+  Mean STDEV: 0.799
+  Median STDEV: 0.800
+  90th percentile: 1.201
+
+o3-mini-2025-01-31:
+  Mean STDEV: 0.707
+  Median STDEV: 0.605
+  90th percentile: 1.120
+
+STATISTICAL SIGNIFICANCE TESTS
+------------------------------
+Significant pairwise differences (Bonferroni corrected):
+
+gpt-4.1-2025-04-14 vs o3-2025-04-16: p = 0.000000, median diff = -0.800
+gpt-4.1-2025-04-14 vs o3-mini-2025-01-31: p = 0.000000, median diff = -0.605
+gpt-4o-2024-08-06 vs o3-2025-04-16: p = 0.000004, median diff = -0.800
+gpt-4o-2024-08-06 vs o3-mini-2025-01-31: p = 0.000002, median diff = -0.605
+gpt-4o-mini-2024-07-18 vs o3-2025-04-16: p = 0.000000, median diff = -0.800
+gpt-4o-mini-2024-07-18 vs o3-mini-2025-01-31: p = 0.000001, median diff = -0.605
+
+SCORE PATTERNS
+---------------
+gpt-4.1-2025-04-14: 14.69 ± 1.66 (range: 10-17)
+gpt-4o-2024-08-06: 14.05 ± 1.81 (range: 10-17)
+gpt-4o-mini-2024-07-18: 14.70 ± 1.33 (range: 10-20)
+o3-2025-04-16: 13.94 ± 1.90 (range: 6-18)
+o3-mini-2025-01-31: 13.78 ± 2.11 (range: 7-20)
