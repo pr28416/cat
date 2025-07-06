@@ -1,0 +1,35 @@
+EXPERIMENT 4: ENHANCED STATISTICAL ANALYSIS REPORT
+============================================================
+Generated: 2025-07-05 23:16:29
+
+STATISTICAL TESTS PERFORMED
+------------------------------
+1. Chi-square test for evidence citation independence
+2. Kruskal-Wallis test for rubric alignment differences
+3. Mann-Whitney U tests for reasoning depth comparisons
+4. Spearman correlations for consistency-reasoning relationships
+5. Random Forest classification for multivariate patterns
+6. Cohen's Kappa for inter-model agreement
+
+KEY STATISTICAL FINDINGS
+------------------------------
+Evidence Citation: χ² = 37.3016, p = 0.000000
+Effect Size (Cramér's V): 0.7052 (Large)
+Significant: Yes
+
+Rubric Alignment: H = 33.3184, p = 0.000001
+Effect Size (η²): 0.4188 (Large)
+Significant: Yes
+
+Reasoning Depth: H = 10.5917, p = 0.031557
+Significant: Yes
+
+Model Classification Accuracy: 0.613 ± 0.078
+Top Features: sentence_count, word_count, alignment_score
+
+CLINICAL IMPLICATIONS
+------------------------------
+1. Significant differences in evidence citation patterns suggest models vary in validity
+2. Large effect sizes indicate practical significance for clinical applications
+3. Consistency-reasoning paradox: most consistent models may have poorest reasoning
+4. Feature importance analysis guides model selection criteria

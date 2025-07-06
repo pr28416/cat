@@ -1,0 +1,58 @@
+[
+  {
+    "transcript_id": "NATURE_RES0213.txt",
+    "model_name": "gpt-4o-2024-08-06",
+    "reasoning_sample": "The patient generally communicates clearly, though there are moments of hesitation and repetition that slightly hinder clarity (Clarity of Language: 3). The vocabulary used is appropriate for the context, with some variation, but lacks precise medical terminology (Lexical Diversity: 3). The patient ...",
+    "evidence_types": [
+      "Paraphrase"
+    ],
+    "rubric_alignment": "Clear",
+    "reasoning_depth": "Superficial",
+    "word_count": 140
+  },
+  {
+    "transcript_id": "NATURE_RES0213.txt",
+    "model_name": "gpt-4o-mini-2024-07-18",
+    "reasoning_sample": "The patient communicates generally clear information about their symptoms, though there are moments of vagueness and repetition that slightly hinder clarity (Clarity of Language: 3). The vocabulary used is adequate but lacks some precision, particularly in describing the nature of the discomfort (Le...",
+    "evidence_types": [
+      "General Statement"
+    ],
+    "rubric_alignment": "Clear",
+    "reasoning_depth": "Superficial",
+    "word_count": 150
+  },
+  {
+    "transcript_id": "NATURE_RES0213.txt",
+    "model_name": "gpt-4.1-2025-04-14",
+    "reasoning_sample": "The patient generally communicates clearly, though there are some hesitations, self-corrections, and minor ambiguities (e.g., initially calling it \"chest pain\" but then describing it as \"uncomfortable\" or \"odd\"). The vocabulary is appropriate for the context, with some variation (\"sharp, strong pain...",
+    "evidence_types": [
+      "Direct Quote",
+      "Paraphrase"
+    ],
+    "rubric_alignment": "Loose",
+    "reasoning_depth": "Superficial",
+    "word_count": 155
+  },
+  {
+    "transcript_id": "NATURE_RES0213.txt",
+    "model_name": "o3-2025-04-16",
+    "reasoning_sample": "Clarity of Language: 3  \nLexical Diversity: 3  \nConciseness and Completeness: 3  \nEngagement with Health Information: 3  \nHealth Literacy Indicator: 3  \nTotal Score: 15",
+    "evidence_types": [
+      "General Statement"
+    ],
+    "rubric_alignment": "Clear",
+    "reasoning_depth": "Superficial",
+    "word_count": 23
+  },
+  {
+    "transcript_id": "NATURE_RES0213.txt",
+    "model_name": "o3-mini-2025-01-31",
+    "reasoning_sample": "Clarity of Language: 3\nLexical Diversity: 3\nConciseness and Completeness: 3\nEngagement with Health Information: 3\nHealth Literacy Indicator: 3\nTotal Score: 15",
+    "evidence_types": [
+      "General Statement"
+    ],
+    "rubric_alignment": "Clear",
+    "reasoning_depth": "Superficial",
+    "word_count": 23
+  }
+]
