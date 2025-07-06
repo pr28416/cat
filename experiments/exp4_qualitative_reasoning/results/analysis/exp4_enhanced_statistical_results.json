@@ -1,0 +1,36 @@
+{
+  "evidence_citation": {
+    "chi2_statistic": 37.301587301587304,
+    "p_value": 1.5611453132042903e-07,
+    "cramers_v": 0.7052336473499384,
+    "significant": "True",
+    "effect_size": "Large"
+  },
+  "rubric_alignment": {
+    "kruskal_statistic": 33.31836911626383,
+    "p_value": 1.0279659248298062e-06,
+    "eta_squared": 0.4188338445180547,
+    "significant": "True",
+    "effect_size": "Large"
+  },
+  "reasoning_depth": {
+    "kruskal_statistic": 10.591668669390362,
+    "p_value": 0.0315574325813968,
+    "significant": "True"
+  },
+  "consistency_correlation": {
+    "word_count_correlation": -0.382867433012355,
+    "word_count_p_value": 0.0006984164279979774,
+    "alignment_correlation": 0.2639411371580462,
+    "alignment_p_value": 0.022129172778979307
+  },
+  "multivariate": {
+    "classification_accuracy": 0.6133333333333333,
+    "accuracy_std": 0.07774602526460399,
+    "top_features": [
+      "sentence_count",
+      "word_count",
+      "alignment_score"
+    ]
+  }
+}

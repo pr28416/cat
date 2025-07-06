@@ -1,0 +1,5 @@
+Test,Statistic,p-value,Effect Size,Interpretation
+Evidence Citation Independence,χ² = 37.3016,0.000000,Cramér's V = 0.7052,Significant
+Rubric Alignment Quality,H = 33.3184,0.000001,η² = 0.4188,Significant
+Reasoning Depth Differences,H = 10.5917,0.031557,Multiple pairwise,Significant
+Model Classification,Accuracy = 0.613,Cross-validation,±0.078,Moderate accuracy
