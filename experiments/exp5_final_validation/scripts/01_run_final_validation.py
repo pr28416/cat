@@ -42,7 +42,7 @@ OPTIMIZED_MODEL = "gpt-4o-2024-08-06"  # Winner from Exp 3 + Exp 4 analysis
 TEMPERATURE = 0.1
 NUM_TRANSCRIPTS_TO_USE = 250  # Reduced scope for deeper analysis
 NUM_ATTEMPTS_PER_TRANSCRIPT = 20  # Increased attempts per transcript
-MAX_WORKERS = 15  # Parallel processing
+MAX_WORKERS = 4  # Parallel processing (user requested max 4 threads)
 
 # API Key Management
 MAX_429_ERRORS_PER_KEY = 10  # Disable key after this many 429 errors

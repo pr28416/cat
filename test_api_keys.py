@@ -42,13 +42,14 @@ def get_all_api_keys() -> List[str]:
 
 def test_api_key(api_key: str, key_index: int) -> dict:
     """Test a single API key with multiple models."""
-    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com")
+    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1/")
 
     print(f"\n--- Testing API Key #{key_index + 1} ---")
     print(f"Key: {api_key[:20]}...{api_key[-10:] if len(api_key) > 30 else api_key}")
     print(f"Base URL: {base_url}")
 
-    client = openai.OpenAI(api_key=api_key, base_url=base_url)
+    # client = openai.OpenAI(api_key=api_key, base_url=base_url)
+    client = openai.OpenAI(api_key=api_key)
 
     # Test models that we've been using
     test_models = [
