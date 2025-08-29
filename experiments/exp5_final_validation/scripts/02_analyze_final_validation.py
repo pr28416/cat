@@ -429,9 +429,11 @@ def explore_uncertainty_quantification(df, consistency_df):
     print(f"\n📊 Uncertainty Distribution:")
     print(f"   10th percentile (low uncertainty): {low_uncertainty:.3f}")
     print(f"   90th percentile (high uncertainty): {high_uncertainty:.3f}")
-    print(
-        f"   Uncertainty ratio (90th/10th): {high_uncertainty/low_uncertainty if low_uncertainty > 0 else 'inf':.1f}"
-    )
+    if low_uncertainty > 0:
+        ratio = high_uncertainty / low_uncertainty
+        print(f"   Uncertainty ratio (90th/10th): {ratio:.1f}")
+    else:
+        print(f"   Uncertainty ratio (90th/10th): inf")
 
     # Identify high uncertainty cases
     high_uncertainty_transcripts = consistency_df[

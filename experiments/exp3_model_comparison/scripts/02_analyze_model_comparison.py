@@ -457,24 +457,45 @@ def create_visualizations(df, consistency_df, model_stats):
     ranking_plot_path = os.path.join(
         ANALYSIS_DIR, f"{EXPERIMENT_ID.lower()}_consistency_ranking.png"
     )
-    plt.figure(figsize=(10, 6))
-    models_sorted = sorted(model_stats.items(), key=lambda x: x[1]["mean_stdev"])
+    plt.figure(figsize=(12, 7))
+    models_sorted = sorted(
+        model_stats.items(), key=lambda x: x[1]["mean_stdev"]
+    )  # best -> worst
     model_names = [item[0] for item in models_sorted]
     mean_stdevs = [item[1]["mean_stdev"] for item in models_sorted]
 
-    bars = plt.bar(range(len(model_names)), mean_stdevs, alpha=0.8)
+    # Friendly labels for paper-quality figures
+    name_map = {
+        "gpt-4.1-2025-04-14": "GPT-4.1",
+        "gpt-4o-2024-08-06": "GPT-4o",
+        "gpt-4o-mini-2024-07-18": "GPT-4o mini",
+        "o3-2025-04-16": "o3",
+        "o3-mini-2025-01-31": "o3 mini",
+    }
+    display_names = [name_map.get(n, n) for n in model_names]
+
+    # Use model names on x-axis (categorical) and annotate values
+    bars = plt.bar(display_names, mean_stdevs, alpha=0.9)
     plt.title(
-        f"{EXPERIMENT_ID}: Consistency Ranking (Lower is Better)", fontsize=16, pad=20
+        "Model Consistency: Mean Standard Deviation of Total Scores (lower is better)",
+        fontsize=16,
+        pad=20,
     )
     ax = plt.gca()
-    ax.set_xlabel("Model (Ranked by Consistency)", fontsize=12)
-    ax.set_ylabel("Mean Standard Deviation", fontsize=12)
+    ax.set_xlabel("Models (sorted by consistency)", fontsize=12)
+    ax.set_ylabel("Mean STDEV of Total Score", fontsize=12)
     plt.xticks(rotation=45, ha="right")
 
     # Color bars: green for best, red for worst
     colors = plt.cm.RdYlGn_r(np.linspace(0.2, 0.8, len(bars)))
     for bar, color in zip(bars, colors):
         bar.set_color(color)
+    ax.bar_label(
+        bars,
+        labels=[f"{v:.3f}" for v in mean_stdevs],
+        padding=3,
+        fontsize=10,
+    )
 
     plt.tight_layout()
     plt.savefig(ranking_plot_path, dpi=300)

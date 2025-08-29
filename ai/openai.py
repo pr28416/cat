@@ -44,12 +44,11 @@ def get_openai_client():
             "No OpenAI API key found in environment variables. Please set OPENAI_API_KEY or OPENAI_API_KEYS."
         )
 
-    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com")
+    base_url = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1/")
 
     # Configure the client with default headers
     client = openai.OpenAI(
         api_key=api_key,
-        base_url=base_url,
     )
 
     return client

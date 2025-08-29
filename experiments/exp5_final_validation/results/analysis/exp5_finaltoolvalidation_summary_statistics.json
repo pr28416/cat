@@ -1,0 +1,81 @@
+{
+  "experiment_id": "EXP5_FinalToolValidation",
+  "timestamp": "2025-07-11T00:00:30.362316",
+  "benchmark_results": {
+    "mean_stdev": 0.14952173472235078,
+    "benchmark_met": "True",
+    "percentage_meeting": 96.02649006622516,
+    "percentage_benchmark_met": "True",
+    "category_results": {
+      "Clarity of Language": {
+        "mean_stdev": 0.03445790344270005,
+        "percentage_under_threshold": 99.33774834437085
+      },
+      "Lexical Diversity": {
+        "mean_stdev": 0.024109597748511024,
+        "percentage_under_threshold": 98.01324503311258
+      },
+      "Conciseness and Completeness": {
+        "mean_stdev": 0.053456831028945606,
+        "percentage_under_threshold": 98.01324503311258
+      },
+      "Engagement with Health Information": {
+        "mean_stdev": 0.0243384885250089,
+        "percentage_under_threshold": 98.01324503311258
+      },
+      "Health Literacy Indicator": {
+        "mean_stdev": 0.019018439072963803,
+        "percentage_under_threshold": 98.01324503311258
+      }
+    }
+  },
+  "score_statistics": {
+    "total_score_stats": {
+      "mean": 14.15372964786066,
+      "std": 1.96692208436759,
+      "median": 15.0,
+      "min": 9.0,
+      "max": 20.0
+    }
+  },
+  "source_comparison": {
+    "source_comparison": {
+      "dova_count": 88,
+      "nature_count": 63,
+      "dova_mean_stdev": 0.1309049396136018,
+      "nature_mean_stdev": 0.17552614693774618,
+      "stdev_p_value": 0.33513341212284287,
+      "dova_mean_score": 13.48087890459214,
+      "nature_mean_score": 15.187093726379441,
+      "score_p_value": 9.988742409051098e-11,
+      "dova_benchmark_percentage": 96.5909090909091,
+      "nature_benchmark_percentage": 95.23809523809523
+    }
+  },
+  "uncertainty_results": {
+    "score_uncertainty_correlation": -0.14377878255991183,
+    "high_uncertainty_threshold": 0.5026246899500346,
+    "high_uncertainty_transcripts": [
+      "NATURE_MSK0015.txt",
+      "NATURE_RES0128.txt",
+      "DOVA_E231.txt",
+      "NATURE_RES0101.txt",
+      "NATURE_MSK0025.txt",
+      "DOVA_E988.txt",
+      "NATURE_MSK0007.txt",
+      "NATURE_RES0208.txt",
+      "DOVA_D783.txt",
+      "DOVA_V298.txt",
+      "NATURE_RES0063.txt",
+      "DOVA_Y079.txt",
+      "DOVA_Q228.txt",
+      "NATURE_MSK0026.txt",
+      "DOVA_F534.txt"
+    ]
+  },
+  "dataset_info": {
+    "total_assessments": 2641,
+    "unique_transcripts": 152,
+    "success_rate": 100.0
+  }
+}
