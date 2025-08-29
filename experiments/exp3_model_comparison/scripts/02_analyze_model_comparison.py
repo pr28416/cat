@@ -477,7 +477,7 @@ def create_visualizations(df, consistency_df, model_stats):
     # Use model names on x-axis (categorical) and annotate values
     bars = plt.bar(display_names, mean_stdevs, alpha=0.9)
     plt.title(
-        "Model Consistency: Mean Standard Deviation of Total Scores (lower is better)",
+        "Model Consistency: Mean Standard Deviation of Total Scores",
         fontsize=16,
         pad=20,
     )
