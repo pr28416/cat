@@ -416,11 +416,11 @@ def main():
             }
         )
 
-    # Plot MAE distributions
+    # Plot MAE distributions (publication-ready)
     plt.figure(figsize=(10, 6))
     sns.histplot(
         mae_pivot["G1_NonRubric"],
-        label="G1 (Non-Rubric)",
+        label="Non-Rubric",
         kde=True,
         element="step",
         stat="density",
@@ -429,17 +429,62 @@ def main():
     )
     sns.histplot(
         mae_pivot["G2_RubricBased"],
-        label="G2 (Rubric-Based)",
+        label="Rubric-Based",
         kde=True,
         element="step",
         stat="density",
         common_norm=False,
         color="orange",
     )
-    plt.title("Distribution of MAE (Mean Score vs Target) by Grading Condition (H1b)")
-    plt.xlabel("Mean Absolute Error (|Mean Score - Target Score|)")
+
+    # Annotate medians from analysis results (aligns with experiment1_results.md)
+    med_mae_g1 = mae_pivot["G1_NonRubric"].median()
+    med_mae_g2 = mae_pivot["G2_RubricBased"].median()
+    plt.axvline(med_mae_g1, color="blue", linestyle="--", linewidth=1.5)
+    plt.axvline(med_mae_g2, color="orange", linestyle="--", linewidth=1.5)
+
+    ax = plt.gca()
+    ylim = ax.get_ylim()
+    ax.annotate(
+        f"Median Non-Rubric = {med_mae_g1:.2f}",
+        xy=(med_mae_g1, ylim[1] * 0.85),
+        xytext=(5, 0),
+        textcoords="offset points",
+        color="blue",
+        fontsize=10,
+        va="center",
+    )
+    ax.annotate(
+        f"Median Rubric-Based = {med_mae_g2:.2f}",
+        xy=(med_mae_g2, ylim[1] * 0.75),
+        xytext=(5, 0),
+        textcoords="offset points",
+        color="orange",
+        fontsize=10,
+        va="center",
+    )
+
+    # Add p-value annotation from Wilcoxon test
+    try:
+        p_text = "p < 0.001" if p_value_mae < 0.001 else f"p = {p_value_mae:.3f}"
+        ax.text(
+            0.98,
+            0.95,
+            f"Wilcoxon signed-rank: {p_text}",
+            transform=ax.transAxes,
+            ha="right",
+            va="top",
+            fontsize=10,
+            bbox=dict(boxstyle="round,pad=0.3", facecolor="white", alpha=0.7),
+        )
+    except Exception:
+        pass
+
+    plt.title("Distribution of MAE (Mean Score vs Target) by Grading Condition")
+    plt.xlabel("Mean Absolute Error (|Mean Score − Target Score|)")
     plt.ylabel("Density")
-    plt.legend()
+    plt.legend(title="Condition")
+    plt.grid(True, linestyle=":", alpha=0.4)
     save_plot(plt.gcf(), "exp1_mae_distribution.png")
 
     # --- 3. Score Distribution Comparison - H1c ---
