@@ -1,4 +1,17 @@
-# This script will run the grading for Experiment 3: Model Comparison
+#!/usr/bin/env python3
+"""
+Experiment 3: Model Comparison — GPT-5 Extension Run
+
+Adds gpt-5-nano and gpt-5-mini results to the existing curated_models CSV
+that already contains legacy model data (gpt-4o, gpt-4o-mini, gpt-4.1, o3, o3-mini).
+
+Configuration (matching the original experiment):
+- Models: gpt-5-nano, gpt-5-mini
+- Transcripts: 40  (Set B from dataset_partitions.json)
+- Attempts per model: 20
+- Temperature: 0.1
+- Total new grading attempts: 1,600  (40 × 20 × 2)
+"""
 
 import os
 import sys
@@ -7,47 +20,47 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
 import pandas as pd
+from dotenv import load_dotenv
 
 # Add project root to path
-sys.path.append(
-    os.path.dirname(
-        os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    )
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 )
+sys.path.append(PROJECT_ROOT)
+
+# Load .env so OPENAI_API_KEY is available for ai/openai.py
+load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 from ai.openai import generate_text
 from experiments.common.file_utils import load_text_file
 from experiments.common.parsing_utils import parse_scores_from_response
 from experiments.common.enums import GradingCondition
 
-# --- Constants for Test Run ---
+# --- Configuration ---
 EXPERIMENT_ID = "EXP3_ModelComparison"
 MODELS_TO_TEST = [
-    "gpt-4o-2024-08-06",  # Best general GPT-4o model
-    "gpt-4o-mini-2024-07-18",  # Best cost-efficient model
-    "gpt-4.1-2025-04-14",  # Best GPT-4.1 model
-    "o3-2025-04-16",  # Best o3 reasoning model
-    "o3-mini-2025-01-31",  # o3 mini for comparison
+    "gpt-5-nano",
+    "gpt-5-mini",
 ]
 TEMPERATURE = 0.1
-NUM_TRANSCRIPTS_TO_PROCESS = 40  # Curated experiment
-NUM_ATTEMPTS_PER_MODEL = 20  # Full experiment
+NUM_TRANSCRIPTS_TO_PROCESS = 40
+NUM_ATTEMPTS_PER_MODEL = 20
+MAX_WORKERS = 7  # Conservative for a single API key
 
 # --- File Paths ---
-# Get project root directory (4 levels up from this script)
-PROJECT_ROOT = os.path.dirname(
-    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-)
 DATA_PARTITIONS_FILE = os.path.join(PROJECT_ROOT, "experiments/dataset_partitions.json")
 TRANSCRIPT_DIR = os.path.join(PROJECT_ROOT, "data/cleaned")
 PROMPT_FILE = os.path.join(
     PROJECT_ROOT,
     "experiments/exp2_prompt_optimization/prompts/p2_2_few_shot_prompt.txt",
-)  # Winning prompt from Exp2
+)
 RESULTS_DIR = os.path.join(
     PROJECT_ROOT, "experiments/exp3_model_comparison/results/processed_scores"
 )
 RUBRIC_FILE = os.path.join(PROJECT_ROOT, "experiments/common/rubric_v5.md")
+OUTPUT_FILE = os.path.join(
+    RESULTS_DIR, f"{EXPERIMENT_ID.lower()}_grading_results_curated_models.csv"
+)
 
 
 def run_single_grading_attempt(attempt_data):
@@ -68,18 +81,14 @@ def run_single_grading_attempt(attempt_data):
     )
 
     # Get LLM completion
+    # GPT-5 models only support temperature=1 (handled by ai/openai.py)
+    actual_temperature = 1.0 if model.startswith("gpt-5") else TEMPERATURE
     start_time = time.time()
     raw_response, error = None, None
     try:
-        # o1/o3/o4 models require temperature=1 and no max_tokens limit
-        if model.startswith(("o1-", "o3-", "o4-")):
-            raw_response = generate_text(
-                prompt, model=model, temperature=1.0, max_tokens=None
-            )
-        else:
-            raw_response = generate_text(
-                prompt, model=model, temperature=TEMPERATURE, max_tokens=None
-            )
+        raw_response = generate_text(
+            prompt, model=model, temperature=TEMPERATURE, max_tokens=None
+        )
     except Exception as e:
         error = f"API Error: {e}"
     latency = time.time() - start_time
@@ -88,7 +97,6 @@ def run_single_grading_attempt(attempt_data):
     if error:
         parsed_scores = {"Parsing_Error": error}
     else:
-        # All prompts in Exp3 use the rubric-based few-shot prompt
         parsed_scores = parse_scores_from_response(
             raw_response, GradingCondition.RUBRIC_BASED, transcript_id, attempt_num
         )
@@ -98,7 +106,7 @@ def run_single_grading_attempt(attempt_data):
         "transcript_id": transcript_id,
         "model_name": model,
         "attempt_num": attempt_num,
-        "temperature": TEMPERATURE,
+        "temperature": actual_temperature,
         "raw_response": raw_response,
         "latency": latency,
         **parsed_scores,
@@ -106,130 +114,118 @@ def run_single_grading_attempt(attempt_data):
 
 
 def main():
-    """
-    Main function to run the model comparison experiment.
-    """
-    print(f"--- Starting Experiment: {EXPERIMENT_ID} ---")
+    print(f"--- Experiment 3: GPT-5 Extension Run ---")
+    print(f"Models: {MODELS_TO_TEST}")
     print(
-        f"Running test with {NUM_TRANSCRIPTS_TO_PROCESS} transcript(s), {NUM_ATTEMPTS_PER_MODEL} attempt(s) for {len(MODELS_TO_TEST)} model(s)."
+        f"Config: {NUM_TRANSCRIPTS_TO_PROCESS} transcripts × "
+        f"{NUM_ATTEMPTS_PER_MODEL} attempts × {len(MODELS_TO_TEST)} models = "
+        f"{NUM_TRANSCRIPTS_TO_PROCESS * NUM_ATTEMPTS_PER_MODEL * len(MODELS_TO_TEST)} tasks"
     )
 
     # --- 1. Load Data and Prompt ---
-    print("Loading data partitions and winning prompt...")
+    print("\nLoading data partitions and prompt...")
     with open(DATA_PARTITIONS_FILE, "r") as f:
         partitions = json.load(f)
 
-    # Use Set B for this experiment as per PRD
     set_b_transcripts = partitions["exp3_set_B"]
-
-    # Slice for test run
     transcripts_to_process = set_b_transcripts[:NUM_TRANSCRIPTS_TO_PROCESS]
 
-    # Load the winning prompt and the rubric
     prompt_template = load_text_file(PROMPT_FILE)
     rubric = load_text_file(RUBRIC_FILE)
-    print(f"  - Loaded prompt: {os.path.basename(PROMPT_FILE)}")
-    print(f"  - Loaded rubric: {os.path.basename(RUBRIC_FILE)}")
+    print(f"  Prompt: {os.path.basename(PROMPT_FILE)}")
+    print(f"  Rubric: {os.path.basename(RUBRIC_FILE)}")
+    print(f"  Transcripts: {len(transcripts_to_process)}")
 
-    # --- 2. Create All Grading Tasks ---
-    tasks = []
-    for transcript_id in transcripts_to_process:
-        for model in MODELS_TO_TEST:
-            for i in range(1, NUM_ATTEMPTS_PER_MODEL + 1):
-                tasks.append(
-                    {
-                        "transcript_id": transcript_id,
-                        "model": model,
-                        "prompt_template": prompt_template,
-                        "rubric_text": rubric,
-                        "attempt_num": i,
-                    }
-                )
-
-    total_tasks = len(tasks)
-    print(f"\nCreated {total_tasks} grading tasks to execute.")
-
-    # --- 3. Check for Existing Results (Checkpointing) ---
-    output_filename = os.path.join(
-        RESULTS_DIR, f"{EXPERIMENT_ID.lower()}_grading_results_curated_models.csv"
-    )
-
+    # --- 2. Load existing results for checkpointing ---
     existing_results = []
     completed_tasks = set()
 
-    if os.path.exists(output_filename):
-        print(f"\nFound existing results file: {os.path.basename(output_filename)}")
+    if os.path.exists(OUTPUT_FILE):
+        print(f"\nFound existing results: {os.path.basename(OUTPUT_FILE)}")
         try:
-            existing_df = pd.read_csv(output_filename)
+            existing_df = pd.read_csv(OUTPUT_FILE)
             existing_results = existing_df.to_dict("records")
 
-            # Create set of completed task identifiers
             for result in existing_results:
                 task_id = f"{result['transcript_id']}_{result['model_name']}_{result['attempt_num']}"
                 completed_tasks.add(task_id)
 
-            print(f"Found {len(existing_results)} existing results.")
-            print(f"Resuming from checkpoint...")
+            print(f"  {len(existing_results)} existing results loaded")
+
+            # Show which models already have data
+            existing_models = existing_df["model_name"].unique()
+            print(f"  Models with data: {sorted(existing_models)}")
         except Exception as e:
-            print(f"Error reading existing results: {e}")
-            print("Starting fresh...")
+            print(f"  Error reading existing results: {e}")
+            print("  Will append without checkpoint awareness")
             existing_results = []
             completed_tasks = set()
     else:
-        print(f"\nNo existing results found. Starting fresh...")
+        print(f"\nNo existing results file found. Starting fresh...")
 
-    # Filter out already completed tasks
-    remaining_tasks = []
-    for task in tasks:
-        task_id = f"{task['transcript_id']}_{task['model']}_{task['attempt_num']}"
-        if task_id not in completed_tasks:
-            remaining_tasks.append(task)
+    # --- 3. Create tasks (only for GPT-5 models, skip already-completed) ---
+    tasks = []
+    for transcript_id in transcripts_to_process:
+        for model in MODELS_TO_TEST:
+            for attempt_num in range(1, NUM_ATTEMPTS_PER_MODEL + 1):
+                task_id = f"{transcript_id}_{model}_{attempt_num}"
+                if task_id not in completed_tasks:
+                    tasks.append(
+                        {
+                            "transcript_id": transcript_id,
+                            "model": model,
+                            "prompt_template": prompt_template,
+                            "rubric_text": rubric,
+                            "attempt_num": attempt_num,
+                        }
+                    )
 
-    print(f"Tasks remaining: {len(remaining_tasks)} out of {total_tasks}")
-
-    if len(remaining_tasks) == 0:
-        print("All tasks already completed!")
+    print(f"\nTasks to run: {len(tasks)}")
+    if len(tasks) == 0:
+        print("All GPT-5 tasks already completed!")
         return
 
     # --- 4. Run Grading in Parallel ---
-    results = existing_results.copy()  # Start with existing results
-    # Using 12 workers since we have 6 API keys (2 workers per key)
-    max_workers = 3  # Conservative setting for 1 API key
-    with ProcessPoolExecutor(max_workers=max_workers) as executor:
+    results = existing_results.copy()
+    os.makedirs(RESULTS_DIR, exist_ok=True)
+
+    with ProcessPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_task = {
-            executor.submit(run_single_grading_attempt, task): task
-            for task in remaining_tasks
+            executor.submit(run_single_grading_attempt, task): task for task in tasks
         }
 
         completed_count = 0
         for future in tqdm(
             as_completed(future_to_task),
-            total=len(remaining_tasks),
-            desc="Grading transcripts",
+            total=len(tasks),
+            desc="Grading (GPT-5 models)",
         ):
             result = future.result()
             results.append(result)
             completed_count += 1
 
-            # Save progress every 100 completions
+            # Save checkpoint every 100 completions
             if completed_count % 100 == 0:
                 temp_df = pd.DataFrame(results)
-                temp_df.to_csv(output_filename, index=False)
-                print(f"\nCheckpoint saved after {completed_count} completions...")
+                temp_df.to_csv(OUTPUT_FILE, index=False)
+                print(f"\n  Checkpoint saved ({completed_count}/{len(tasks)} new)...")
 
-    # --- 5. Save Results ---
-    if not results:
-        print("\nNo results to save. Exiting.")
-        return
-
-    print("\nGrading complete. Saving results...")
+    # --- 5. Save Final Results ---
+    print("\nSaving final results...")
     results_df = pd.DataFrame(results)
+    results_df.to_csv(OUTPUT_FILE, index=False)
 
-    os.makedirs(RESULTS_DIR, exist_ok=True)
-    results_df.to_csv(output_filename, index=False)
+    # Summary
+    new_count = len(results) - len(existing_results)
+    print(f"\nDone! Added {new_count} new results.")
+    print(f"Total results in file: {len(results)}")
+    print(f"Output: {OUTPUT_FILE}")
 
-    print(f"--- Results saved to {output_filename} ---")
-    print(f"--- Experiment {EXPERIMENT_ID} Finished ---")
+    # Per-model summary
+    for model in MODELS_TO_TEST:
+        model_results = [r for r in results if r.get("model_name") == model]
+        errors = [r for r in model_results if r.get("Parsing_Error")]
+        print(f"  {model}: {len(model_results)} results ({len(errors)} errors)")
 
 
 if __name__ == "__main__":
