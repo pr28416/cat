@@ -1,6 +1,6 @@
-# LLM-based Patient Health Communication Assessment
+# CHAT: Communication in Health Assessment Tool
 
-This project evaluates the utility of Large Language Models (LLMs) for assessing patient health communication using a standardized rubric.
+This project develops and validates CHAT, an LLM-driven tool for reliable assessment of oral health literacy expressed in patient-clinician conversations using a standardized rubric.
 
 ## Project Structure
 
@@ -48,15 +48,26 @@ OPENAI_API_KEYS=your_api_key_here1,your_api_key_here2,...
 OPENAI_BASE_URL=https://api.openai.com
 ```
 
+## Research Focus
+
+CHAT is positioned as a **reliability and methods development study** with preliminary construct validity evidence:
+
+- **Primary Focus**: Highly reliable rubric-based scoring of oral health literacy from transcripts
+- **Secondary Evidence**: Known-groups construct validity + exploratory human-rater pilot
+- **Construct**: Oral health literacy as expressed in patient speech (primary: Engagement + Health Literacy; auxiliary: Clarity, Lexical Diversity, Conciseness)
+
 ## Experiment Status
 
-| Experiment   | Description                                           | Status                                                                                                                                               |
-| ------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Experiment 1 | Baseline LLM-Rubric Utility & Synthetic Data Efficacy | Done (Results: [experiments/exp1_baseline_utility/results/experiment1_results.md](experiments/exp1_baseline_utility/results/experiment1_results.md)) |
-| Experiment 2 | Prompt Strategy Optimization                          | Planned                                                                                                                                              |
-| Experiment 3 | LLM Architecture Comparison                           | Planned                                                                                                                                              |
-| Experiment 4 | Qualitative Reasoning Analysis                        | Planned                                                                                                                                              |
-| Experiment 5 | Optimized Tool Validation                             | Planned                                                                                                                                              |
+| Component        | Description                                        | Role in Paper                  | Status              |
+| ---------------- | -------------------------------------------------- | ------------------------------ | ------------------- |
+| **Experiment 5** | Real-data reliability validation (250 transcripts) | **Main Results - Centerpiece** | ✅ Complete         |
+| Experiment 2     | Prompt strategy optimization                       | Methods - Optimization Step    | ✅ Complete         |
+| Experiment 3     | Model architecture comparison                      | Methods - Optimization Step    | ✅ Complete         |
+| Experiment 6     | Human-rater pilot (30-40 transcripts)              | Results - Validity Evidence    | 🔄 In Progress      |
+| Experiment 1     | Synthetic transcript pilot                         | **Supplement A**               | ✅ Complete (moved) |
+| Experiment 4     | LLM reasoning pattern analysis                     | **Supplement B**               | ✅ Complete (moved) |
+| New Analysis     | Synthetic vs real linguistic comparison            | **Supplement A**               | 🔄 In Progress      |
+| New Analysis     | GPT-5/5.1/5.2 robustness check                     | Results - Model Robustness     | ⏳ Planned          |
 
 ## Running Experiment 1: Baseline Utility Assessment
 

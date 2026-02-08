@@ -43,6 +43,17 @@ ANALYSIS_DIR = os.path.join(
     PROJECT_ROOT, "experiments/exp3_model_comparison/results/analysis"
 )
 
+# Friendly display names for paper-quality figures
+MODEL_DISPLAY_NAMES = {
+    "gpt-4.1-2025-04-14": "GPT-4.1",
+    "gpt-4o-2024-08-06": "GPT-4o",
+    "gpt-4o-mini-2024-07-18": "GPT-4o mini",
+    "o3-2025-04-16": "o3",
+    "o3-mini-2025-01-31": "o3 mini",
+    "gpt-5-nano": "GPT-5 nano",
+    "gpt-5-mini": "GPT-5 mini",
+}
+
 
 def load_and_validate_data():
     """Load the experiment results and perform basic validation."""
@@ -464,15 +475,7 @@ def create_visualizations(df, consistency_df, model_stats):
     model_names = [item[0] for item in models_sorted]
     mean_stdevs = [item[1]["mean_stdev"] for item in models_sorted]
 
-    # Friendly labels for paper-quality figures
-    name_map = {
-        "gpt-4.1-2025-04-14": "GPT-4.1",
-        "gpt-4o-2024-08-06": "GPT-4o",
-        "gpt-4o-mini-2024-07-18": "GPT-4o mini",
-        "o3-2025-04-16": "o3",
-        "o3-mini-2025-01-31": "o3 mini",
-    }
-    display_names = [name_map.get(n, n) for n in model_names]
+    display_names = [MODEL_DISPLAY_NAMES.get(n, n) for n in model_names]
 
     # Use model names on x-axis (categorical) and annotate values
     bars = plt.bar(display_names, mean_stdevs, alpha=0.9)

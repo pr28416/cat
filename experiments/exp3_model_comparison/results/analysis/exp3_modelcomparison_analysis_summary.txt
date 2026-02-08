@@ -2,16 +2,16 @@ EXPERIMENT 3: MODEL COMPARISON ANALYSIS REPORT
 
 ============================================================
 
-Generated: 2025-08-28 21:22:10
+Generated: 2026-02-08 16:17:53
 
 
 DATASET OVERVIEW
 
 --------------------
 
-Total requests: 4000
+Total requests: 5302
 
-Models tested: 5
+Models tested: 7
 
 Transcripts: 40
 
@@ -33,7 +33,11 @@ Ranking by Mean Standard Deviation (lower = more consistent):
 
 4. o3-mini-2025-01-31: 0.707
 
-5. o3-2025-04-16: 0.799
+5. gpt-5-mini: 0.783
+
+6. o3-2025-04-16: 0.799
+
+7. gpt-5-nano: 0.965
 
 
 
@@ -76,6 +80,15 @@ o3-mini-2025-01-31:
   90th percentile: 1.120
 
 
+gpt-5-mini:
+
+  Mean STDEV: 0.783
+
+  Median STDEV: 0.763
+
+  90th percentile: 1.170
+
+
 o3-2025-04-16:
 
   Mean STDEV: 0.799
@@ -83,6 +96,15 @@ o3-2025-04-16:
   Median STDEV: 0.800
 
   90th percentile: 1.201
+
+
+gpt-5-nano:
+
+  Mean STDEV: 0.965
+
+  Median STDEV: 0.924
+
+  90th percentile: 1.363
 
 
 STATISTICAL SIGNIFICANCE (CONSISTENCY)
@@ -104,8 +126,10 @@ Mean Standard Deviation per Rubric Category:
 0      gpt-4.1-2025-04-14                      0.008                    0.008                               0.019                                     0.012                            0.033
 1       gpt-4o-2024-08-06                      0.038                    0.028                               0.035                                     0.046                            0.039
 2  gpt-4o-mini-2024-07-18                      0.000                    0.028                               0.080                                     0.008                            0.033
-3           o3-2025-04-16                      0.150                    0.225                               0.276                                     0.288                            0.184
-4      o3-mini-2025-01-31                      0.147                    0.244                               0.299                                     0.164                            0.159
+3              gpt-5-mini                      0.144                    0.174                               0.269                                     0.271                            0.217
+4              gpt-5-nano                      0.217                    0.394                               0.394                                     0.429                            0.237
+5           o3-2025-04-16                      0.150                    0.225                               0.276                                     0.288                            0.184
+6      o3-mini-2025-01-31                      0.147                    0.244                               0.299                                     0.164                            0.159
 
 
 
@@ -116,15 +140,19 @@ MEAN SCORE ANALYSIS
 
 Overall Score Patterns (Mean ± STDEV):
 
-  gpt-4.1-2025-04-14: 14.69 ± 1.66 (range: 10-17)
+  gpt-4.1-2025-04-14: 14.69 ± 1.66 (range: 10.0-17.0)
 
-  gpt-4o-2024-08-06: 14.05 ± 1.81 (range: 10-17)
+  gpt-4o-2024-08-06: 14.05 ± 1.81 (range: 10.0-17.0)
 
-  gpt-4o-mini-2024-07-18: 14.70 ± 1.33 (range: 10-20)
+  gpt-4o-mini-2024-07-18: 14.70 ± 1.33 (range: 10.0-20.0)
 
-  o3-2025-04-16: 13.94 ± 1.90 (range: 6-18)
+  gpt-5-mini: 15.25 ± 1.93 (range: 8.0-20.0)
 
-  o3-mini-2025-01-31: 13.78 ± 2.11 (range: 7-20)
+  gpt-5-nano: 13.69 ± 1.53 (range: 6.0-19.0)
+
+  o3-2025-04-16: 13.94 ± 1.90 (range: 6.0-18.0)
+
+  o3-mini-2025-01-31: 13.78 ± 2.11 (range: 7.0-20.0)
 
 
 

@@ -83,15 +83,19 @@ def generate_text(
         messages.append({"role": "system", "content": instructions})
     messages.append({"role": "user", "content": prompt})
 
+    # o1/o3/o4/gpt-5 models only support temperature=1 and max_completion_tokens
+    is_reasoning_model = model.startswith(("o1-", "o3-", "o4-", "gpt-5"))
+
     params = {
         "model": model,
         "messages": messages,
-        "temperature": temperature,
     }
 
+    if not is_reasoning_model:
+        params["temperature"] = temperature
+
     if max_tokens:
-        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
-        if model.startswith(("o1-", "o3-", "o4-")):
+        if is_reasoning_model:
             params["max_completion_tokens"] = max_tokens
         else:
             params["max_tokens"] = max_tokens
@@ -140,15 +144,19 @@ def generate_text_with_messages(
     max_retries = 5
     base_delay = 1  # seconds
 
+    # o1/o3/o4/gpt-5 models only support temperature=1 and max_completion_tokens
+    is_reasoning_model = model.startswith(("o1-", "o3-", "o4-", "gpt-5"))
+
     params = {
         "model": model,
         "messages": messages,
-        "temperature": temperature,
     }
 
+    if not is_reasoning_model:
+        params["temperature"] = temperature
+
     if max_tokens:
-        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
-        if model.startswith(("o1-", "o3-", "o4-")):
+        if is_reasoning_model:
             params["max_completion_tokens"] = max_tokens
         else:
             params["max_tokens"] = max_tokens
@@ -217,15 +225,19 @@ def generate_structured_output(
     }
     messages.insert(0, schema_message)
 
+    # o1/o3/o4/gpt-5 models only support temperature=1 and max_completion_tokens
+    is_reasoning_model = model.startswith(("o1-", "o3-", "o4-", "gpt-5"))
+
     params = {
         "model": model,
         "messages": messages,
-        "temperature": temperature,
     }
 
+    if not is_reasoning_model:
+        params["temperature"] = temperature
+
     if max_tokens:
-        # o1/o3/o4 models use max_completion_tokens instead of max_tokens
-        if model.startswith(("o1-", "o3-", "o4-")):
+        if is_reasoning_model:
             params["max_completion_tokens"] = max_tokens
         else:
             params["max_tokens"] = max_tokens

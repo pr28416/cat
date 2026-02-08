@@ -1,0 +1,601 @@
+experiment_id,transcript_id,model_name,prompt_strategy,attempt_num,temperature,timestamp,raw_response,latency,Clarity_of_Language,Lexical_Diversity,Conciseness_and_Completeness,Engagement_with_Health_Information,Health_Literacy_Indicator,Total_Score_Calculated,Total_Score_Reported,Parsing_Error
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0076.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:10:46.987308,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",16.6229407787323,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,5,0.3,2026-01-04T19:10:51.827306,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 17",9.894085168838501,3.0,3.0,4.0,3.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,8,0.3,2026-01-04T19:10:52.701702,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [16]",8.986159086227417,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,3,0.3,2026-01-04T19:10:53.678954,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [16]",12.197601795196533,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,7,0.3,2026-01-04T19:10:54.502746,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [16]",11.063389301300049,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,2,0.3,2026-01-04T19:10:55.207624,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 17",16.729557991027832,3.0,3.0,4.0,3.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,4,0.3,2026-01-04T19:10:55.589525,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",13.824968099594116,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,6,0.3,2026-01-04T19:10:59.412806,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",17.268850803375244,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,9,0.3,2026-01-04T19:10:59.713668,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",12.725178956985474,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,10,0.3,2026-01-04T19:11:01.669631,"Clarity of Language: 3
+Lexical Diversity: 4
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 18",9.841209173202515,3.0,4.0,4.0,3.0,4.0,18.0,18.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,13,0.3,2026-01-04T19:11:03.406628,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [4]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [16]",8.90104079246521,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,15,0.3,2026-01-04T19:11:05.562825,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 17",9.971795082092285,3.0,3.0,4.0,3.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,17,0.3,2026-01-04T19:11:08.738795,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",9.024019002914429,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,11,0.3,2026-01-04T19:11:09.755918,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",17.053560733795166,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,16,0.3,2026-01-04T19:11:11.614848,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [4]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [17]",12.200766801834106,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,18,0.3,2026-01-04T19:11:12.796505,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",11.125396966934204,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:11:15.418938,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 17",12.011098146438599,3.0,3.0,4.0,3.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,12,0.3,2026-01-04T19:11:15.600267,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [15]",21.920727014541626,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,20,0.3,2026-01-04T19:11:15.840162,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",10.275999069213867,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0022.txt,gpt-5-nano,few_shot,14,0.3,2026-01-04T19:11:18.664415,"Clarity of Language: [4]
+Lexical Diversity: [4]
+Conciseness and Completeness: [4]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [19]",23.455760717391968,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[4]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,2,0.3,2026-01-04T19:11:21.016133,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",11.258578777313232,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,4,0.3,2026-01-04T19:11:21.749801,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",8.95279312133789,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,3,0.3,2026-01-04T19:11:22.035560,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 13",10.419862985610962,3.0,2.0,3.0,2.0,3.0,13.0,13.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,1,0.3,2026-01-04T19:11:22.953906,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 13",14.214558362960815,3.0,2.0,3.0,2.0,3.0,13.0,13.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,7,0.3,2026-01-04T19:11:26.428159,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",10.58713412284851,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,6,0.3,2026-01-04T19:11:30.094347,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 4
+Health Literacy Indicator: 3
+Total Score: 15",14.49297022819519,3.0,2.0,3.0,4.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,5,0.3,2026-01-04T19:11:30.471766,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",15.052315950393677,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,11,0.3,2026-01-04T19:11:30.853436,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",8.816504001617432,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,9,0.3,2026-01-04T19:11:32.744954,"Clarity of Language: [3]
+Lexical Diversity: [2]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [14]",11.728237867355347,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,12,0.3,2026-01-04T19:11:34.287432,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",11.332473039627075,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,10,0.3,2026-01-04T19:11:35.339875,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",13.589067697525024,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,15,0.3,2026-01-04T19:11:39.009865,"Clarity of Language: [3]
+Lexical Diversity: [2]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [14]",8.53711199760437,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,16,0.3,2026-01-04T19:11:39.662812,"Clarity of Language: [3]
+Lexical Diversity: [2]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [2]
+Total Score: [13]",8.808255195617676,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,13,0.3,2026-01-04T19:11:39.695674,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.26648497581482,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,8,0.3,2026-01-04T19:11:39.926076,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",21.260327339172363,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,14,0.3,2026-01-04T19:11:41.129467,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",11.034065246582031,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,18,0.3,2026-01-04T19:11:48.751787,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 13",14.463365077972412,3.0,2.0,3.0,2.0,3.0,13.0,13.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,2,0.3,2026-01-04T19:11:48.975213,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",9.278994798660278,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,17,0.3,2026-01-04T19:11:50.869724,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [15]",18.12378478050232,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,1,0.3,2026-01-04T19:11:51.909545,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [2]
+Health Literacy Indicator: [3]
+Total Score: [14]",12.24609088897705,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,20,0.3,2026-01-04T19:11:52.705226,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.694534063339233,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,3,0.3,2026-01-04T19:11:54.116232,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",14.189261674880981,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_MSK0035.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:11:55.329892,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",19.98907995223999,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,4,0.3,2026-01-04T19:11:56.111609,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",14.981669187545776,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,5,0.3,2026-01-04T19:12:02.185048,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.431694269180298,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,6,0.3,2026-01-04T19:12:03.129542,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",14.153150081634521,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,8,0.3,2026-01-04T19:12:03.378253,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",11.468082904815674,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,9,0.3,2026-01-04T19:12:05.541258,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 13",12.834926128387451,3.0,2.0,3.0,2.0,3.0,13.0,13.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,7,0.3,2026-01-04T19:12:08.191565,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [15]",17.32044005393982,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,10,0.3,2026-01-04T19:12:08.989739,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",14.872898817062378,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,12,0.3,2026-01-04T19:12:09.466863,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",13.35471796989441,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,15,0.3,2026-01-04T19:12:15.559939,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [2]
+Health Literacy Indicator: [3]
+Total Score: [14]",12.180547952651978,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,16,0.3,2026-01-04T19:12:18.611666,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.069264888763428,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,17,0.3,2026-01-04T19:12:20.226942,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",12.03416919708252,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,13,0.3,2026-01-04T19:12:20.578988,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 13",18.392789125442505,3.0,2.0,3.0,2.0,3.0,13.0,13.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,18,0.3,2026-01-04T19:12:21.066702,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",12.075561046600342,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:12:21.536729,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",12.069021940231323,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,11,0.3,2026-01-04T19:12:24.915766,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 14",29.585039854049683,3.0,3.0,3.0,2.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,20,0.3,2026-01-04T19:12:27.772650,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",12.211619138717651,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,2,0.3,2026-01-04T19:12:30.573907,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",10.345747947692871,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,1,0.3,2026-01-04T19:12:31.324246,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",12.711750030517578,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,3,0.3,2026-01-04T19:12:34.065190,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [4]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [16]",13.485048055648804,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0206.txt,gpt-5-nano,few_shot,14,0.3,2026-01-04T19:12:35.444213,"Clarity of Language: [3]
+Lexical Diversity: [2]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [14]",32.31338381767273,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,4,0.3,2026-01-04T19:12:35.875401,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",14.808118104934692,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,5,0.3,2026-01-04T19:12:35.879501,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",14.341573238372803,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,6,0.3,2026-01-04T19:12:36.220885,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",11.304496049880981,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,8,0.3,2026-01-04T19:12:43.021369,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",12.44608211517334,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,9,0.3,2026-01-04T19:12:43.771849,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [2]
+Health Literacy Indicator: [3]
+Total Score: [14]",12.446929931640625,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,7,0.3,2026-01-04T19:12:44.024931,"Clarity of Language: 4
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 17",16.250730991363525,4.0,3.0,4.0,3.0,3.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,14,0.3,2026-01-04T19:12:47.694708,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",11.473351955413818,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,10,0.3,2026-01-04T19:12:49.790513,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 15",15.723926067352295,3.0,3.0,3.0,2.0,4.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,12,0.3,2026-01-04T19:12:50.353842,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 15",14.477298974990845,3.0,3.0,3.0,2.0,4.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,13,0.3,2026-01-04T19:12:50.411113,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 17",14.530910968780518,3.0,3.0,4.0,3.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,11,0.3,2026-01-04T19:12:52.156952,"Clarity of Language: 4
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 18",16.71195697784424,4.0,3.0,4.0,3.0,4.0,18.0,18.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,18,0.3,2026-01-04T19:12:58.237290,"Clarity of Language: [3]
+Lexical Diversity: [4]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [16]",10.541972875595093,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,17,0.3,2026-01-04T19:12:58.440694,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [2]
+Health Literacy Indicator: [3]
+Total Score: [14]",14.41460394859314,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,16,0.3,2026-01-04T19:12:58.822287,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 15",15.049799919128418,3.0,3.0,4.0,2.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:13:01.946368,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 15",12.155019998550415,3.0,2.0,3.0,3.0,4.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,15,0.3,2026-01-04T19:13:02.173775,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",19.151870012283325,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,2,0.3,2026-01-04T19:13:05.405860,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.247663021087646,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0189.txt,gpt-5-nano,few_shot,20,0.3,2026-01-04T19:13:06.145219,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 16",15.790112018585205,3.0,3.0,4.0,2.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,4,0.3,2026-01-04T19:13:08.322819,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 15",9.880194187164307,3.0,3.0,3.0,2.0,4.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,1,0.3,2026-01-04T19:13:09.021444,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 4
+Health Literacy Indicator: 4
+Total Score: 17",18.609416961669922,3.0,3.0,3.0,4.0,4.0,17.0,17.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,3,0.3,2026-01-04T19:13:12.075624,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [15]",13.837125062942505,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,5,0.3,2026-01-04T19:13:16.191664,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",17.368316888809204,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,6,0.3,2026-01-04T19:13:16.273266,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 14",14.325713157653809,3.0,3.0,3.0,2.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,9,0.3,2026-01-04T19:13:17.143212,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [15]",10.996896028518677,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,11,0.3,2026-01-04T19:13:21.150343,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 4
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 16",12.12827181816101,3.0,3.0,4.0,3.0,3.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,10,0.3,2026-01-04T19:13:22.979706,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 14",14.656346082687378,3.0,2.0,3.0,2.0,4.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,8,0.3,2026-01-04T19:13:23.424211,"Clarity of Language: [3]
+Lexical Diversity: [3]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [4]
+Total Score: [16]",18.017336130142212,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,7,0.3,2026-01-04T19:13:24.922435,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 4
+Total Score: 15",22.74796485900879,3.0,3.0,3.0,2.0,4.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,13,0.3,2026-01-04T19:13:27.384387,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 14",11.191529035568237,3.0,3.0,3.0,2.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,12,0.3,2026-01-04T19:13:27.403022,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",15.326086282730103,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,14,0.3,2026-01-04T19:13:29.530710,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",13.255852222442627,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,15,0.3,2026-01-04T19:13:29.774257,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 15",12.630216121673584,3.0,3.0,3.0,3.0,3.0,15.0,15.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,16,0.3,2026-01-04T19:13:33.308803,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",12.157734870910645,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,18,0.3,2026-01-04T19:13:40.122752,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 4
+Total Score: 16",16.69791269302368,3.0,3.0,3.0,3.0,4.0,16.0,16.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,19,0.3,2026-01-04T19:13:40.646215,"Clarity of Language: 3
+Lexical Diversity: 2
+Conciseness and Completeness: 3
+Engagement with Health Information: 3
+Health Literacy Indicator: 3
+Total Score: 14",15.723208904266357,3.0,2.0,3.0,3.0,3.0,14.0,14.0,
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,17,0.3,2026-01-04T19:13:42.218406,"Clarity of Language: [3]
+Lexical Diversity: [2]
+Conciseness and Completeness: [3]
+Engagement with Health Information: [3]
+Health Literacy Indicator: [3]
+Total Score: [14]",19.23771619796753,,,,,,,,RUBRIC_BASED: Category 'Clarity of Language' score '[3]' not an integer.
+EXP5_FinalToolValidation_GPT5Nano,NATURE_RES0020.txt,gpt-5-nano,few_shot,20,0.3,2026-01-04T19:13:53.998290,"Clarity of Language: 3
+Lexical Diversity: 3
+Conciseness and Completeness: 3
+Engagement with Health Information: 2
+Health Literacy Indicator: 3
+Total Score: 14",26.613365173339844,3.0,3.0,3.0,2.0,3.0,14.0,14.0,

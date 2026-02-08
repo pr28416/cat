@@ -63,11 +63,29 @@ def load_and_validate_data():
     print("📊 LOADING AND VALIDATING EXPERIMENT 5 DATA")
     print("=" * 80)
 
-    results_path = os.path.join(RESULTS_DIR, RESULTS_FILE)
-    if not os.path.exists(results_path):
-        raise FileNotFoundError(f"Results file not found: {results_path}")
-
-    df = pd.read_csv(results_path)
+    # Look for checkpoint files
+    import glob
+    checkpoint_files = glob.glob(os.path.join(RESULTS_DIR, "exp5_gpt5nano_checkpoint_*.csv"))
+    
+    if not checkpoint_files:
+        # Fall back to old results file
+        results_path = os.path.join(RESULTS_DIR, RESULTS_FILE)
+        if not os.path.exists(results_path):
+            raise FileNotFoundError(f"No checkpoint or results files found in: {RESULTS_DIR}")
+        df = pd.read_csv(results_path)
+    else:
+        # Combine all checkpoint files
+        print(f"📂 Loading {len(checkpoint_files)} checkpoint file(s)")
+        dfs = []
+        for file in checkpoint_files:
+            df_temp = pd.read_csv(file)
+            dfs.append(df_temp)
+        
+        df = pd.concat(dfs, ignore_index=True)
+        
+        # Remove duplicates
+        df = df.drop_duplicates(subset=["transcript_id", "attempt_num"], keep="last")
+        print(f"   Combined and deduplicated: {len(df)} rows")
 
     print(f"📋 Dataset Overview:")
     print(f"   Total records: {len(df):,}")
